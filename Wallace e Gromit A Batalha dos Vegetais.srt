@@ -1,0 +1,3399 @@
+1
+00:01:47,274 --> 00:01:50,073
+<b>WALLACE E GROMIT</b>
+
+2
+00:01:50,319 --> 00:01:51,912
+<b>LAR DOCE LAR</b>
+
+3
+00:01:55,949 --> 00:01:58,953
+<b>EM</b>
+
+4
+00:02:06,418 --> 00:02:12,391
+<b>A BATALHA DOS VEGETAIS</b>
+
+5
+00:02:53,298 --> 00:02:56,177
+<b>PROTEGIDO POR ANTIPRAGA</b>
+
+6
+00:03:22,035 --> 00:03:24,254
+<b>NOSSOS ESTIMADOS CLIENTES</b>
+
+7
+00:03:54,401 --> 00:03:57,200
+<b>ATIVAR LANÇAMENTO</b>
+
+8
+00:04:29,269 --> 00:04:31,112
+<b>RÁPIDO</b>
+
+9
+00:04:31,188 --> 00:04:32,360
+<b>AUTOMÁTICO</b>
+
+10
+00:05:13,688 --> 00:05:15,816
+<b>Ótimo trabalho, Gromit!</b>
+
+11
+00:05:15,899 --> 00:05:17,651
+<b>Aguente aí, amigão!</b>
+
+12
+00:05:18,235 --> 00:05:20,078
+<b>- O que foi?
+- Quem é?</b>
+
+13
+00:05:20,278 --> 00:05:21,746
+<b>Puxe ele, garoto!</b>
+
+14
+00:05:22,239 --> 00:05:24,241
+<b>Para mim.</b>
+
+15
+00:05:25,075 --> 00:05:27,703
+<b>Peguei! Monstrinho ladrão.</b>
+
+16
+00:05:34,459 --> 00:05:36,882
+<b>Minha abóbora campeã.</b>
+
+17
+00:05:36,962 --> 00:05:40,967
+<b>Minha bebezinha. Orgulho da mamãe!</b>
+
+18
+00:05:41,132 --> 00:05:43,726
+<b>Você a salvou, Antipraga.</b>
+
+19
+00:05:43,802 --> 00:05:45,520
+<b>Não foi nada, Dona...</b>
+
+20
+00:05:46,805 --> 00:05:49,604
+<b>Está tudo sob controle.</b>
+
+21
+00:05:49,683 --> 00:05:51,401
+<b>Não se preocupe, madame.</b>
+
+22
+00:05:54,855 --> 00:05:57,324
+<b>Obrigada, Sr. Wallace.</b>
+
+23
+00:05:57,524 --> 00:05:59,618
+<b>É o meu trabalho, Dona Moita.</b>
+
+24
+00:06:01,695 --> 00:06:03,743
+<b>Que coisinha bonitinha.</b>
+
+25
+00:06:03,822 --> 00:06:06,701
+<b>Não dá para acreditar
+o estrago que fazem.</b>
+
+26
+00:06:06,783 --> 00:06:08,581
+<b>Pode parecer inocente, senhor.</b>
+
+27
+00:06:08,743 --> 00:06:10,962
+<b>Mas se ficar solto...</b>
+
+28
+00:06:11,037 --> 00:06:14,962
+<b>...é uma verdadeira máquina
+destruidora de vegetais.</b>
+
+29
+00:06:17,460 --> 00:06:19,212
+<b>Reg, os meus dentes!</b>
+
+30
+00:06:21,464 --> 00:06:23,717
+<b>Muito bom trabalho, garoto.</b>
+
+31
+00:06:23,800 --> 00:06:25,552
+<b>EQUIPE SWAT DO Antipraga</b>
+
+32
+00:06:25,635 --> 00:06:28,684
+<b>Alvo desarmado e neutralizado.</b>
+
+33
+00:06:30,599 --> 00:06:32,727
+<b>Abençoado Antipraga!</b>
+
+34
+00:06:32,809 --> 00:06:36,234
+<b>Com vocês protegendo
+os nossos vegetais...</b>
+
+35
+00:06:36,354 --> 00:06:39,153
+<b>o evento mais importante
+do ano está seguro.</b>
+
+36
+00:06:39,232 --> 00:06:40,734
+<b>COMPETIÇÃO DE VEGETAIS
+GIGANTES FALTAM 4 DIAS!</b>
+
+37
+00:06:40,817 --> 00:06:44,287
+<b>Espero que deem a essas pragas
+o que elas merecem.</b>
+
+38
+00:06:44,362 --> 00:06:47,036
+<b>Amém, Dona Moita.</b>
+
+39
+00:08:08,989 --> 00:08:10,912
+<b>CHINELOS CAFÉ DA MANHÃ
+JORNAL PASSEIO</b>
+
+40
+00:08:11,408 --> 00:08:14,662
+<b>Ontem foi uma noite longa
+e difícil, Gromit.</b>
+
+41
+00:08:14,744 --> 00:08:18,339
+<b>Vou precisar de um bom
+café da manhã sob este cinto aqui.</b>
+
+42
+00:08:20,000 --> 00:08:21,502
+<b>Pode ir empilhando, garoto.</b>
+
+43
+00:08:21,751 --> 00:08:24,630
+<b>Só quero saber de comer!</b>
+
+44
+00:08:27,674 --> 00:08:29,847
+<b>Gromit, meu amigo.</b>
+
+45
+00:08:29,926 --> 00:08:32,930
+<b>Aconteceu de novo.
+Vou precisar de ajuda.</b>
+
+46
+00:08:33,013 --> 00:08:35,061
+<b><i>BANHA</i></b>
+
+47
+00:08:35,598 --> 00:08:38,067
+<b>ASSISTÊNCIA</b>
+
+48
+00:08:52,991 --> 00:08:54,459
+<b>Bem, obrigado, amigo.</b>
+
+49
+00:08:54,534 --> 00:08:57,538
+<b>Tenho certeza
+de que esse buraco está diminuindo.</b>
+
+50
+00:09:00,540 --> 00:09:02,383
+<b>CONTROLE DE PRAGAS
+HUMANITÁRIO TRIUNFA DE NOVO</b>
+
+51
+00:09:02,459 --> 00:09:05,303
+<b>Mais uma noite de sucesso.
+E os prisioneiros?</b>
+
+52
+00:09:05,378 --> 00:09:07,801
+<b>Deve estar bem cheio la embaixo.</b>
+
+53
+00:09:11,760 --> 00:09:13,307
+<b>Por falar nisso...</b>
+
+54
+00:09:13,678 --> 00:09:16,978
+<b>...agora um prato bem grande de...</b>
+
+55
+00:09:18,141 --> 00:09:19,438
+<b>...vegetais.</b>
+
+56
+00:09:22,520 --> 00:09:25,399
+<b>Ainda estou de dieta, Gromit?</b>
+
+57
+00:09:25,482 --> 00:09:29,203
+<b>Cuidando do meu peso? Bom cachorro!</b>
+
+58
+00:09:31,696 --> 00:09:32,993
+<b>Gromit, garoto?</b>
+
+59
+00:09:33,156 --> 00:09:36,501
+<b>Como está
+aquela sua abobrinha campeã?</b>
+
+60
+00:09:36,576 --> 00:09:39,250
+<b>Já faz um tempo que a mediu.</b>
+
+61
+00:10:07,148 --> 00:10:10,994
+<b>Comida deliciosa! Para coelhos, claro!</b>
+
+62
+00:10:17,408 --> 00:10:21,038
+<b>Para mim, preciso de algo com queijo.</b>
+
+63
+00:10:21,496 --> 00:10:23,373
+<b>BRIE-SENCANTO
+A CIDADELA DE QUEIJO SUÍÇO</b>
+
+64
+00:10:23,456 --> 00:10:25,083
+<b>A LESTE DO EDAM
+GRATINADAS ESPERANÇAS</b>
+
+65
+00:10:25,166 --> 00:10:26,418
+<b>A UM FROMAGE DA ETERNIDADE</b>
+
+66
+00:10:28,711 --> 00:10:32,215
+<b>QUEIJO</b>
+
+67
+00:10:42,600 --> 00:10:44,944
+<b>Com a boca na botija, não é, garoto?</b>
+
+68
+00:10:47,647 --> 00:10:49,615
+<b>Desculpe, Gromit.</b>
+
+69
+00:10:50,150 --> 00:10:53,575
+<b>Sei que faz isso para o meu
+próprio bem...</b>
+
+70
+00:10:53,653 --> 00:10:57,578
+<b>...mas o fato é que eu sou doidinho
+por queijo.</b>
+
+71
+00:10:58,575 --> 00:11:01,328
+<b>Se preciso melhorar meus hábitos,</b>
+
+72
+00:11:01,411 --> 00:11:03,505
+<b>que seja do meu jeito.</b>
+
+73
+00:11:04,956 --> 00:11:06,424
+<b>Com tecnologia.</b>
+
+74
+00:11:08,710 --> 00:11:11,884
+<b>É hora de experimentarmos
+a minha última invenção.</b>
+
+75
+00:11:12,755 --> 00:11:16,635
+<b>O Manipulador Mental.</b>
+
+76
+00:11:18,386 --> 00:11:21,731
+<b>Extrai pensamentos
+e desejos indesejáveis.</b>
+
+77
+00:11:21,806 --> 00:11:26,277
+<b>Ainda não o testei,
+mas deve ser totalmente seguro.</b>
+
+78
+00:11:26,352 --> 00:11:29,947
+<b>Apenas uma inofensiva
+alteração mental, só isso.</b>
+
+79
+00:11:39,032 --> 00:11:43,458
+<b>Controle Humanitário de Praga
+Antipraga. Como podemos ajudá-lo?</b>
+
+80
+00:11:43,786 --> 00:11:47,381
+<b>Sim. Lady Tottington
+da mansão Tottington.</b>
+
+81
+00:11:47,457 --> 00:11:48,549
+<b><i>Milady.</i></b>
+
+82
+00:11:48,625 --> 00:11:50,468
+<b>Isto é uma honra.</b>
+
+83
+00:11:51,294 --> 00:11:54,594
+<b>É um desastre. Estou com um problema
+horrível com coelhos.</b>
+
+84
+00:11:54,672 --> 00:11:58,643
+<b>Faltam dois dias para a competição.
+Tem que fazer alguma coisa.</b>
+
+85
+00:11:58,718 --> 00:12:02,393
+<b>Certamente, senhora.
+Acho que vamos subir na vida, garoto.</b>
+
+86
+00:12:02,555 --> 00:12:05,354
+<b>Fique onde está, milady.</b>
+
+87
+00:12:05,433 --> 00:12:07,310
+<b>Estarei aí em...</b>
+
+88
+00:12:09,229 --> 00:12:11,778
+<b>Em uma hora?
+Não posso esperar uma hora.</b>
+
+89
+00:12:11,856 --> 00:12:16,202
+<b>É uma infestação séria. Alô?</b>
+
+90
+00:12:18,529 --> 00:12:20,202
+<b>Era como esperava!</b>
+
+91
+00:12:23,243 --> 00:12:24,460
+<b>Ainda bem que você...</b>
+
+92
+00:12:24,535 --> 00:12:28,961
+<b>Olá! Para você, meu amor.</b>
+
+93
+00:12:29,666 --> 00:12:33,887
+<b>Victor. Que adorável e... inesperado!</b>
+
+94
+00:12:33,962 --> 00:12:36,966
+<b>Soube que está
+com um probleminha com coelhos</b>
+
+95
+00:12:37,048 --> 00:12:38,516
+<b>e vim resolvê-lo.</b>
+
+96
+00:12:38,675 --> 00:12:41,519
+<b>É muita delicadeza sua,</b>
+
+97
+00:12:41,594 --> 00:12:42,971
+<b>mas não precisava se incomodar.</b>
+
+98
+00:12:43,054 --> 00:12:46,979
+<b>Incômodo algum. É o mínimo
+que um rapaz faz pela sua garota.</b>
+
+99
+00:12:47,058 --> 00:12:50,813
+<b>Não queremos essas pragas destruindo
+a nossa casa.</b>
+
+100
+00:12:50,895 --> 00:12:52,647
+<b>"Nossa" casa?</b>
+
+101
+00:12:52,730 --> 00:12:56,405
+<b>Ninguém mencionou casamento, Victor.</b>
+
+102
+00:12:56,484 --> 00:12:58,486
+<b>Tudo ao seu tempo, minha querida.</b>
+
+103
+00:12:58,903 --> 00:13:00,496
+<b>Os vermes primeiro.</b>
+
+104
+00:13:00,947 --> 00:13:02,244
+<b>Venha, Phillip!</b>
+
+105
+00:13:02,865 --> 00:13:04,117
+<b>Victor!</b>
+
+106
+00:13:04,200 --> 00:13:06,953
+<b>Podemos cuidar disso humanitariamente.</b>
+
+107
+00:13:08,121 --> 00:13:09,919
+<b>GRANDE COMPETIÇÃO DE VEGETAIS
+NESTE FIM DE SEMANA</b>
+
+108
+00:13:09,998 --> 00:13:11,466
+<b>Alta classe!</b>
+
+109
+00:13:11,541 --> 00:13:15,546
+<b>O tipo de cliente que devíamos ter.
+Não é, garoto?</b>
+
+110
+00:13:28,850 --> 00:13:31,148
+<b>Danados entocados!</b>
+
+111
+00:13:31,853 --> 00:13:33,730
+<b>Devem estar procriando feito...</b>
+
+112
+00:13:34,605 --> 00:13:36,448
+<b>...bem, coelhos!</b>
+
+113
+00:13:37,775 --> 00:13:39,618
+<b>Só há um jeito, garoto.</b>
+
+114
+00:13:41,029 --> 00:13:42,030
+<b>S.G. 6000</b>
+
+115
+00:13:46,200 --> 00:13:48,419
+<b>Victor, não combinamos?</b>
+
+116
+00:13:48,494 --> 00:13:50,667
+<b>Chega de matança impensada.</b>
+
+117
+00:13:50,747 --> 00:13:52,215
+<b>Corretíssimo, minha querida.</b>
+
+118
+00:13:52,290 --> 00:13:54,918
+<b>Pensei cuidadosamente sobre isto.</b>
+
+119
+00:13:55,001 --> 00:13:58,005
+<b>Vai direto para o paraíso, orelhudo.</b>
+
+120
+00:13:58,087 --> 00:13:59,088
+<b>Não!</b>
+
+121
+00:14:01,758 --> 00:14:03,385
+<b>Mas o que...</b>
+
+122
+00:14:16,898 --> 00:14:19,697
+<b>Super sugadora, hein, Gromit?</b>
+
+123
+00:14:20,735 --> 00:14:23,284
+<b>A SuGaelho 6000.</b>
+
+124
+00:14:27,158 --> 00:14:29,707
+<b>Isto impressionará milady.</b>
+
+125
+00:14:29,827 --> 00:14:32,751
+<b>Não entendo. Devia ter sido no alvo!</b>
+
+126
+00:14:32,830 --> 00:14:35,424
+<b>Achei que havíamos dado um passo</b>
+
+127
+00:14:35,500 --> 00:14:39,300
+<b>nessa sua obsessão por caça.
+Achei que você tinha mudado.</b>
+
+128
+00:14:39,379 --> 00:14:44,055
+<b>Desculpe, Campânula.
+Mas é assim que eu sou.</b>
+
+129
+00:14:44,133 --> 00:14:46,807
+<b>Não há fingimento
+com Victor Quartermaine.</b>
+
+130
+00:14:46,886 --> 00:14:49,856
+<b>O que você vê é o que você tem.</b>
+
+131
+00:14:50,556 --> 00:14:52,103
+<b>Mas o que...</b>
+
+132
+00:14:56,771 --> 00:15:00,196
+<b>Esse parece um dos bem grandes.</b>
+
+133
+00:15:00,274 --> 00:15:01,617
+<b>Mande ver!</b>
+
+134
+00:15:02,860 --> 00:15:04,157
+<b>SUGAR</b>
+
+135
+00:15:06,864 --> 00:15:07,865
+<b>Meu Deus!</b>
+
+136
+00:15:17,667 --> 00:15:20,671
+<b>Devia ter usado um bocal maior.</b>
+
+137
+00:15:22,213 --> 00:15:25,717
+<b>Antipraga, vocês chegaram!</b>
+
+138
+00:15:28,094 --> 00:15:29,892
+<b>Milady.</b>
+
+139
+00:15:31,389 --> 00:15:33,858
+<b>Meus queridos!</b>
+
+140
+00:15:36,394 --> 00:15:38,396
+<b>Vocês estão salvos.</b>
+
+141
+00:15:39,564 --> 00:15:40,611
+<b>Nossa!</b>
+
+142
+00:15:40,690 --> 00:15:44,695
+<b>Fizeram um trabalho fabuloso.
+E nenhum deles se machucou.</b>
+
+143
+00:15:44,777 --> 00:15:47,781
+<b>É a velha S.G. 6000, senhora.</b>
+
+144
+00:15:47,864 --> 00:15:52,210
+<b>Capaz de 125 C.P.M.
+ou "Coelhos Por Minuto. "</b>
+
+145
+00:15:52,702 --> 00:15:55,751
+<b>Muito perspicaz, senhor...</b>
+
+146
+00:15:55,830 --> 00:15:56,956
+<b>Wallace.</b>
+
+147
+00:15:57,039 --> 00:15:58,256
+<b>Sr. Wallace.</b>
+
+148
+00:15:58,332 --> 00:16:00,585
+<b>Estão todos aí?</b>
+
+149
+00:16:00,668 --> 00:16:04,389
+<b>Só falta um. Pode levantar, Gromit.</b>
+
+150
+00:16:14,307 --> 00:16:18,153
+<b>Victor, pare de brincar na terra
+e dê uma olhada nisso!</b>
+
+151
+00:16:18,728 --> 00:16:21,026
+<b>O genial Antipraga</b>
+
+152
+00:16:21,105 --> 00:16:23,278
+<b>eliminou o meu problema com coelhos.</b>
+
+153
+00:16:23,357 --> 00:16:24,654
+<b>Não é maravilhoso?</b>
+
+154
+00:16:24,734 --> 00:16:27,032
+<b>"Maravilhoso"?</b>
+
+155
+00:16:27,111 --> 00:16:30,536
+<b>Essa geringonça "estroncha"
+me sufocou.</b>
+
+156
+00:16:31,908 --> 00:16:35,913
+<b>Além disso,
+só metade do trabalho foi feito.</b>
+
+157
+00:16:35,995 --> 00:16:38,418
+<b>Como pretende exterminar esses vermes?</b>
+
+158
+00:16:38,498 --> 00:16:40,500
+<b>Esmagando-os? Liquidificando-os?</b>
+
+159
+00:16:40,625 --> 00:16:44,346
+<b>- Eles são humanitários.
+- "Humanitários"?</b>
+
+160
+00:16:44,420 --> 00:16:49,517
+<b>Então também são humanitários
+para devolverem a minha dignidade.</b>
+
+161
+00:16:49,592 --> 00:16:50,935
+<b>Eu quero...</b>
+
+162
+00:16:55,139 --> 00:16:57,062
+<b>Aplique, por favor.</b>
+
+163
+00:16:57,141 --> 00:17:00,236
+<b>Não, preferimos o dinheiro na mão.</b>
+
+164
+00:17:00,311 --> 00:17:04,782
+<b>"Aplique", seu idiota! O meu cabelo
+está dentro da sua máquina.</b>
+
+165
+00:17:04,857 --> 00:17:08,202
+<b>Não, só tem coelhos aí dentro.</b>
+
+166
+00:17:08,277 --> 00:17:11,577
+<b>"Camelo" é um mamífero bem maior.</b>
+
+167
+00:17:11,656 --> 00:17:13,499
+<b><i>Saia da minha frente, seu tolo.</i></b>
+
+168
+00:17:18,079 --> 00:17:21,834
+<b>Desculpe, querida.
+Recuso-me a sofrer mais humilhação...</b>
+
+169
+00:17:21,916 --> 00:17:24,669
+<b>...nas mãos
+desses palermas apatetados.</b>
+
+170
+00:17:24,752 --> 00:17:27,426
+<b>Desejo-Ihe muito bom dia.</b>
+
+171
+00:17:33,344 --> 00:17:37,144
+<b>Obrigada por me livrar
+de um grande problema, Sr. Wallace.</b>
+
+172
+00:17:37,223 --> 00:17:41,444
+<b>Diga-me, o que fará exatamente
+com todos esses coelhos?</b>
+
+173
+00:17:42,687 --> 00:17:44,280
+<b>Segredo de estado.</b>
+
+174
+00:17:44,355 --> 00:17:48,280
+<b>Sim. Queria que ficassem livres
+se não tivesse a competição.</b>
+
+175
+00:17:48,359 --> 00:17:50,327
+<b>Mas eles adoram os vegetais.</b>
+
+176
+00:17:50,403 --> 00:17:54,124
+<b>Está na natureza deles
+e não se pode mudar isso, não é?</b>
+
+177
+00:17:54,198 --> 00:17:55,415
+<b>Não.</b>
+
+178
+00:18:00,329 --> 00:18:02,081
+<b>Ou será que pode?</b>
+
+179
+00:18:05,835 --> 00:18:09,180
+<b>Por que não pensamos
+nisso antes, garoto?</b>
+
+180
+00:18:10,131 --> 00:18:14,102
+<b>A solução para todos
+os nossos problemas de armazenagem.</b>
+
+181
+00:18:14,176 --> 00:18:17,521
+<b>Simplesmente conectando o SuGaelho...</b>
+
+182
+00:18:17,638 --> 00:18:20,437
+<b>...ao Manipulador Mental
+podemos fazer...</b>
+
+183
+00:18:20,975 --> 00:18:23,273
+<b>...lavagem cerebral nos coelhos.</b>
+
+184
+00:18:24,103 --> 00:18:27,198
+<b>Reabilitação de coelhos.</b>
+
+185
+00:18:29,108 --> 00:18:34,239
+<b>Curados de seu comportamento
+antissocial destruidor de vegetais...</b>
+
+186
+00:18:34,405 --> 00:18:38,876
+<b>...os coelhos podem ser soltos
+sem medo de reincidência.</b>
+
+187
+00:18:39,785 --> 00:18:44,382
+<b>Um pouquinho de energia lunar
+para aumentar as ondas mentais...</b>
+
+188
+00:18:50,338 --> 00:18:52,511
+<b>E podemos começar.</b>
+
+189
+00:18:56,552 --> 00:19:04,652
+<b>Vegetal, ruim.</b>
+
+190
+00:19:06,604 --> 00:19:09,699
+<b>Digam não ás cenouras,</b>
+
+191
+00:19:09,774 --> 00:19:13,324
+<b>repolhos e couve-flor.</b>
+
+192
+00:19:15,780 --> 00:19:18,374
+<b>Vamos, garoto! O que está esperando?</b>
+
+193
+00:19:18,449 --> 00:19:20,167
+<b>Ligue o SuGaelho.</b>
+
+194
+00:19:20,242 --> 00:19:21,835
+<b>Sucção total.</b>
+
+195
+00:19:24,330 --> 00:19:25,377
+<b>SUGAR</b>
+
+196
+00:19:36,217 --> 00:19:39,391
+<b>Está funcionando, Gromit!</b>
+
+197
+00:19:44,183 --> 00:19:46,231
+<b>Os cerebrozinhos deles...</b>
+
+198
+00:19:46,310 --> 00:19:50,235
+<b>...estão se saturando das minhas ondas
+mentais livres de vegetais.</b>
+
+199
+00:19:53,609 --> 00:19:56,328
+<b>Mais 30 minutos
+de lavagem cerebral bastará.</b>
+
+200
+00:19:56,404 --> 00:19:58,452
+<b>Depois faremos o condicionamento.</b>
+
+201
+00:20:00,366 --> 00:20:01,367
+<b>SOPRAR</b>
+
+202
+00:20:12,545 --> 00:20:13,797
+<b>Gromit!</b>
+
+203
+00:20:15,673 --> 00:20:17,266
+<b>Desligue!</b>
+
+204
+00:20:20,511 --> 00:20:22,354
+<b>Tire isto de mim, garoto!</b>
+
+205
+00:20:35,776 --> 00:20:38,074
+<b>Obrigado, garoto.</b>
+
+206
+00:20:45,494 --> 00:20:46,620
+<b>Rápido!</b>
+
+207
+00:20:46,704 --> 00:20:48,706
+<b>Me dê uma cenoura.</b>
+
+208
+00:20:58,132 --> 00:21:00,260
+<b>Funcionou, Gromit!</b>
+
+209
+00:21:00,342 --> 00:21:02,686
+<b>Um coelho reformado!</b>
+
+210
+00:21:02,762 --> 00:21:05,390
+<b>Vamos chamá-lo de Dentinho.</b>
+
+211
+00:21:06,849 --> 00:21:08,977
+<b>Vamos esquentar a chaleira.</b>
+
+212
+00:21:09,059 --> 00:21:11,482
+<b>Voltaremos a ele pela manhã.</b>
+
+213
+00:21:14,940 --> 00:21:19,446
+<b>Sinto que daremos um grande passo,
+garoto!</b>
+
+214
+00:21:22,281 --> 00:21:27,287
+<b>A humanidade livre de problemas
+com coelhos para sempre.</b>
+
+215
+00:21:31,123 --> 00:21:34,093
+<b>Lady Tottington ficará impressionada.</b>
+
+216
+00:21:42,760 --> 00:21:45,229
+<b>A SUÍTE DA PLANTA</b>
+
+217
+00:22:01,445 --> 00:22:03,618
+<b>ACONCHEGANTE
+LIGAR - DESLIGAR</b>
+
+218
+00:22:03,697 --> 00:22:06,621
+<b>COMPETIÇÃO DE VEGETAIS
+NA MANSÃO TOTTINGTON</b>
+
+219
+00:22:12,081 --> 00:22:14,755
+<b>CENOURA DE OURO</b>
+
+220
+00:22:25,302 --> 00:22:26,349
+<b>Boa noite.</b>
+
+221
+00:22:28,430 --> 00:22:29,898
+<b>Durmam bem.</b>
+
+222
+00:22:30,015 --> 00:22:32,894
+<b>E não deixe
+os pernilongos morderem você.</b>
+
+223
+00:22:47,157 --> 00:22:49,330
+<b>Boa noite, Gromit.</b>
+
+224
+00:22:49,869 --> 00:22:52,213
+<b>Bons sonhos, amigão.</b>
+
+225
+00:23:18,355 --> 00:23:22,952
+<b>Proteja e alimente o fraco
+e debilitado, Senhor.</b>
+
+226
+00:23:23,027 --> 00:23:27,954
+<b>Permita que cresçam fortes e amados.</b>
+
+227
+00:23:28,032 --> 00:23:32,503
+<b>Na verdade, que sejam maiores
+e mais fortes que os outros...</b>
+
+228
+00:23:32,578 --> 00:23:35,798
+<b>...para que o primeiro lugar seja meu.</b>
+
+229
+00:23:36,123 --> 00:23:37,966
+<b>Amém.</b>
+
+230
+00:23:39,710 --> 00:23:42,179
+<b>Um sacrifício pelo pedido?</b>
+
+231
+00:23:43,255 --> 00:23:48,056
+<b><i>Nós éramos os campos e
+Espalhamos as boas sementes</i></b>
+
+232
+00:24:11,575 --> 00:24:13,919
+<b><i>Ele manda a neve no inverno
+E a chuva</i></b>
+
+233
+00:24:20,042 --> 00:24:24,889
+<b><i>Todos os bons presentes a nossa volta</i></b>
+
+234
+00:24:24,964 --> 00:24:26,637
+<b><i>foram enviados...</i></b>
+
+235
+00:24:28,300 --> 00:24:29,472
+<b>Lá do Céu.</b>
+
+236
+00:24:30,552 --> 00:24:31,553
+<b>Olá?</b>
+
+237
+00:24:35,099 --> 00:24:38,148
+<b>Olá? Tem alguém aí?</b>
+
+238
+00:24:42,356 --> 00:24:43,733
+<b>Dona Moita?</b>
+
+239
+00:24:45,442 --> 00:24:48,446
+<b>Por favor, apareça!
+Seja você quem for.</b>
+
+240
+00:24:48,529 --> 00:24:50,907
+<b>Não precisa ter medo.</b>
+
+241
+00:24:53,283 --> 00:24:58,915
+<b>Está com fome.
+Então, por favor, pegue o que quiser.</b>
+
+242
+00:24:58,998 --> 00:25:02,218
+<b>Afinal, é para os necessitados.</b>
+
+243
+00:25:12,511 --> 00:25:14,104
+<b>Piedade!</b>
+
+244
+00:26:18,285 --> 00:26:19,753
+<b>Bom dia, Gromit.</b>
+
+245
+00:26:23,624 --> 00:26:27,674
+<b>Tivemos uma noite sem pragas?</b>
+
+246
+00:26:30,297 --> 00:26:33,392
+<b>NOITE DE CARNIFICINA VEGETAL
+Onde estava a nossa proteção?</b>
+
+247
+00:26:34,218 --> 00:26:35,845
+<b>Que dia!</b>
+
+248
+00:26:37,262 --> 00:26:39,936
+<b>- É um desastre.
+- Meu jardim acabou!</b>
+
+249
+00:26:40,015 --> 00:26:42,985
+<b>- É uma carnificina!
+- Por onde andou o Antipraga?</b>
+
+250
+00:26:43,060 --> 00:26:45,609
+<b>Acalmem-se, acalmem-se agora!</b>
+
+251
+00:26:46,188 --> 00:26:49,988
+<b>Certo. Um de cada vez, por favor.</b>
+
+252
+00:26:50,067 --> 00:26:53,037
+<b>Pagamos bem pela proteção
+da nossa colheita.</b>
+
+253
+00:26:53,112 --> 00:26:57,458
+<b>Se não tem competência,
+devia se recolher.</b>
+
+254
+00:26:58,283 --> 00:27:01,457
+<b>Que carnificina catastrófica
+de couve-flor!</b>
+
+255
+00:27:01,537 --> 00:27:04,507
+<b>Pior que a Grande Peste de Lesma
+de 32...</b>
+
+256
+00:27:04,581 --> 00:27:08,427
+<b>...quando apareceram lesmas
+do tamanho de porcos.</b>
+
+257
+00:27:08,502 --> 00:27:10,596
+<b>O Sr. Adúbio tem razão.
+As lesmas voltaram!</b>
+
+258
+00:27:10,671 --> 00:27:11,888
+<b>As lesmas voltaram!</b>
+
+259
+00:27:11,964 --> 00:27:14,092
+<b>Chega!</b>
+
+260
+00:27:15,384 --> 00:27:19,139
+<b>Escutem, essa droga de competição</b>
+
+261
+00:27:19,221 --> 00:27:22,065
+<b>- só causa problema todos os anos.
+- Lá vem.</b>
+
+262
+00:27:22,141 --> 00:27:23,563
+<b>Vá se danar!</b>
+
+263
+00:27:23,642 --> 00:27:28,944
+<b>Se me perguntarem,
+acho que foi armação.</b>
+
+264
+00:27:29,022 --> 00:27:30,490
+<b>Armação?</b>
+
+265
+00:27:30,566 --> 00:27:33,240
+<b>É, alguém está "armando".</b>
+
+266
+00:27:33,318 --> 00:27:37,039
+<b>Isso mesmo. Um de vocês. Um homem.</b>
+
+267
+00:27:37,114 --> 00:27:39,208
+<b>Não foi homem nenhum.</b>
+
+268
+00:27:43,620 --> 00:27:46,123
+<b>Um homem tem dentes</b>
+
+269
+00:27:46,206 --> 00:27:49,085
+<b>do tamanho de lâminas de machado?</b>
+
+270
+00:27:53,297 --> 00:27:57,347
+<b>Ou orelhas parecidas
+com lápides de túmulos?</b>
+
+271
+00:27:59,219 --> 00:28:01,642
+<b>Ao mexer com a natureza...</b>
+
+272
+00:28:01,722 --> 00:28:06,444
+<b>...forçando os vegetais a crescerem
+além do seu tamanho natural...</b>
+
+273
+00:28:06,518 --> 00:28:11,069
+<b>...invocamos um horrível castigo
+sobre nós.</b>
+
+274
+00:28:13,483 --> 00:28:14,905
+<b>Ei. pare!</b>
+
+275
+00:28:18,822 --> 00:28:20,165
+<b>É uma demente!</b>
+
+276
+00:28:20,240 --> 00:28:21,662
+<b>E pelos nossos pecados,</b>
+
+277
+00:28:21,742 --> 00:28:25,417
+<b>foi enviada uma criatura
+para nos punir.</b>
+
+278
+00:28:25,495 --> 00:28:27,589
+<b>Arrependa-se!</b>
+
+279
+00:28:27,873 --> 00:28:31,719
+<b>Senão vocês também sentirão
+a fúria...</b>
+
+280
+00:28:32,586 --> 00:28:35,635
+<b>Do Coelhosomem!</b>
+
+281
+00:28:36,757 --> 00:28:40,682
+<b>Isso é horrível!
+O que irá nos acontecer?</b>
+
+282
+00:28:40,761 --> 00:28:42,809
+<b>Condenados!</b>
+
+283
+00:28:42,930 --> 00:28:46,104
+<b>- E a festa dos vegetais?
+- Nossa vida é essa competição.</b>
+
+284
+00:28:46,183 --> 00:28:48,857
+<b>É tudo o que temos.</b>
+
+285
+00:28:48,936 --> 00:28:51,064
+<b>Quem vai nos salvar?</b>
+
+286
+00:28:53,649 --> 00:28:55,196
+<b>Um Coelhosomem?</b>
+
+287
+00:28:55,275 --> 00:28:56,652
+<b>Por favor!</b>
+
+288
+00:28:56,735 --> 00:29:00,160
+<b>Creio que o Vigário bebeu
+o vinho da comunhão de novo.</b>
+
+289
+00:29:02,991 --> 00:29:06,871
+<b>Não estamos lidando
+com nenhum coelho sobrenatural.</b>
+
+290
+00:29:06,954 --> 00:29:09,628
+<b>Pode ser bem grande, talvez...</b>
+
+291
+00:29:10,332 --> 00:29:12,755
+<b>Mas é uma criatura mortal
+de carne e osso.</b>
+
+292
+00:29:12,834 --> 00:29:16,179
+<b>Um alvo facilmente abatido
+por um caçador.</b>
+
+293
+00:29:16,922 --> 00:29:19,971
+<b>Armas não serão necessárias.
+Obrigada, Victor.</b>
+
+294
+00:29:21,510 --> 00:29:24,138
+<b>Já não houve destruição o bastante?</b>
+
+295
+00:29:26,223 --> 00:29:29,193
+<b>Não acredito que a morte
+de criaturas fofas</b>
+
+296
+00:29:29,268 --> 00:29:31,396
+<b>seja justificável.</b>
+
+297
+00:29:31,478 --> 00:29:35,358
+<b>Acho que devemos dar uma segunda
+chance ao Antipraga.</b>
+
+298
+00:29:35,440 --> 00:29:39,820
+<b>O quê? Como é que esses palhaços
+tapados pegariam</b>
+
+299
+00:29:39,903 --> 00:29:42,497
+<b>um coelho tão grande assim?</b>
+
+300
+00:29:43,490 --> 00:29:45,288
+<b>Sr. Wallace?</b>
+
+301
+00:29:52,207 --> 00:29:53,880
+<b>Bem...</b>
+
+302
+00:29:57,838 --> 00:29:59,932
+<b>...com uma armadilha bem grande.</b>
+
+303
+00:30:00,007 --> 00:30:03,181
+<b>Por Jeová! Ele matou a charada!</b>
+
+304
+00:30:03,260 --> 00:30:04,512
+<b>- Que gênio!
+- Gênio!</b>
+
+305
+00:30:04,594 --> 00:30:06,392
+<b>- Brilhante!
+- Que grande ideia!</b>
+
+306
+00:30:06,513 --> 00:30:08,311
+<b>Inteligente!</b>
+
+307
+00:30:09,891 --> 00:30:11,814
+<b>Viu, Victor?</b>
+
+308
+00:30:12,519 --> 00:30:14,942
+<b>Ainda há esperança para os vegetais.</b>
+
+309
+00:30:16,481 --> 00:30:18,575
+<b>Não para os que estou olhando.</b>
+
+310
+00:30:20,277 --> 00:30:22,496
+<b>Vocês são os meus heróis!</b>
+
+311
+00:30:30,495 --> 00:30:32,797
+<b>Boa Sorte Rapazes
+Beijos</b>
+
+312
+00:30:32,873 --> 00:30:34,295
+<b>O amor, Gromit.</b>
+
+313
+00:30:34,374 --> 00:30:37,469
+<b>Essa é a maior armadilha de todas.</b>
+
+314
+00:30:37,544 --> 00:30:39,638
+<b>A "armadilha do amor", como chamam.</b>
+
+315
+00:30:39,713 --> 00:30:42,466
+<b>E é o que usaremos para pegar
+essa coisa.</b>
+
+316
+00:30:42,549 --> 00:30:46,725
+<b>É, garoto, uma adorável coelhinha.</b>
+
+317
+00:30:50,223 --> 00:30:54,228
+<b>Como um coelho
+sangue quente poderia resistir?</b>
+
+318
+00:31:03,904 --> 00:31:05,998
+<b>Vamos, Gromit!</b>
+
+319
+00:31:06,073 --> 00:31:10,294
+<b>Um pouco mais, você sabe, sedutora.</b>
+
+320
+00:31:17,417 --> 00:31:18,885
+<b>Bem ousado.</b>
+
+321
+00:31:27,719 --> 00:31:29,813
+<b>Está bem melhor, garoto.</b>
+
+322
+00:31:29,888 --> 00:31:32,437
+<b>Como podemos falhar agora?</b>
+
+323
+00:31:33,266 --> 00:31:35,610
+<b>Está um arraso!</b>
+
+324
+00:31:41,817 --> 00:31:44,286
+<b>CONTROLE DE PRAGA SEGURO
+E HUMANITÁRIO</b>
+
+325
+00:31:44,569 --> 00:31:45,946
+<b>Fique firme, garoto.</b>
+
+326
+00:31:47,072 --> 00:31:49,746
+<b>É fácil de ajeitar.</b>
+
+327
+00:32:10,262 --> 00:32:12,014
+<b>POR UM TRIZ</b>
+
+328
+00:33:42,771 --> 00:33:43,772
+<b>LAÇO</b>
+
+329
+00:34:03,250 --> 00:34:05,127
+<b>PROIBIDO ESTACIONAR</b>
+
+330
+00:34:33,405 --> 00:34:35,248
+<b>GAROA
+CHUVA FORTE - LAMA</b>
+
+331
+00:34:49,170 --> 00:34:51,093
+<b>Boa noite, minhas queridas.</b>
+
+332
+00:34:52,632 --> 00:34:54,305
+<b>Pensem grande!</b>
+
+333
+00:35:36,343 --> 00:35:38,311
+<b>DEGELAR
+DESEMBAÇAR - DESENLAMEAR</b>
+
+334
+00:36:00,283 --> 00:36:03,537
+<b>Não se preocupe. Não...</b>
+
+335
+00:36:03,620 --> 00:36:06,214
+<b>Sinto muito, Dona Moita.</b>
+
+336
+00:36:06,289 --> 00:36:08,337
+<b>Chegaremos assim que pudermos.</b>
+
+337
+00:36:08,416 --> 00:36:11,169
+<b>Sr. Bulbo, sim. Posso ligar depois?</b>
+
+338
+00:36:11,252 --> 00:36:14,847
+<b><i>- Você disse um túnel?
+- O que pretende fazer?</i></b>
+
+339
+00:36:14,923 --> 00:36:16,641
+<b>Vou investigar.</b>
+
+340
+00:36:17,676 --> 00:36:19,724
+<b>Por onde andou, garoto?</b>
+
+341
+00:36:19,803 --> 00:36:22,101
+<b>Não mandei ficar onde estava?</b>
+
+342
+00:36:22,180 --> 00:36:24,148
+<b>Está um caos aqui.</b>
+
+343
+00:36:24,808 --> 00:36:26,902
+<b>Achei que éramos uma equipe.</b>
+
+344
+00:36:28,687 --> 00:36:30,689
+<b>Como vamos pegar essa coisa...</b>
+
+345
+00:36:30,772 --> 00:36:34,322
+<b>...se você só quer ficar se divertindo
+o tempo todo?</b>
+
+346
+00:36:35,360 --> 00:36:36,907
+<b>Está fazendo de novo.</b>
+
+347
+00:36:37,404 --> 00:36:39,406
+<b><i>Aonde vai agora?</i></b>
+
+348
+00:36:40,240 --> 00:36:41,537
+<b>Gromit!</b>
+
+349
+00:36:43,284 --> 00:36:44,456
+<b>Grominho!</b>
+
+350
+00:36:47,122 --> 00:36:48,339
+<b>Realmente!</b>
+
+351
+00:36:48,415 --> 00:36:52,670
+<b>Lembre-se que fiz uma promessa
+á Lady Tottington.</b>
+
+352
+00:36:52,752 --> 00:36:55,255
+<b>Como esse tipo de comportamento
+nos permitirá conseguir</b>
+
+353
+00:36:55,338 --> 00:36:58,638
+<b>achar um monstro-coelho?</b>
+
+354
+00:37:05,515 --> 00:37:07,267
+<b>Dentinho.</b>
+
+355
+00:37:09,144 --> 00:37:11,146
+<b>Gromit!</b>
+
+356
+00:37:11,229 --> 00:37:14,153
+<b>Criamos um monstro!</b>
+
+357
+00:37:14,232 --> 00:37:16,906
+<b>O Dentinho é a fera!</b>
+
+358
+00:37:18,445 --> 00:37:20,789
+<b>As placas lunares.</b>
+
+359
+00:37:22,157 --> 00:37:27,630
+<b>Devem ter super estimulado
+a natureza primitiva do Dentinho.</b>
+
+360
+00:37:27,704 --> 00:37:30,048
+<b>E agora, quando a lua aparece...</b>
+
+361
+00:37:30,123 --> 00:37:34,378
+<b>...ele sofre
+uma terrível transformação.</b>
+
+362
+00:37:50,351 --> 00:37:52,149
+<b>Gromit!</b>
+
+363
+00:37:54,230 --> 00:37:57,825
+<b>Isso é totalmente...</b>
+
+364
+00:37:59,611 --> 00:38:01,238
+<b>...fantástico!</b>
+
+365
+00:38:01,988 --> 00:38:03,581
+<b>Não está vendo, garoto?</b>
+
+366
+00:38:03,698 --> 00:38:07,373
+<b>Nós criamos um monstro-coelho
+destruidor de vegetais.</b>
+
+367
+00:38:07,452 --> 00:38:10,922
+<b>Mas também o capturamos.</b>
+
+368
+00:38:11,039 --> 00:38:13,633
+<b>Exatamente como prometi
+á Lady Tottington.</b>
+
+369
+00:38:13,708 --> 00:38:16,131
+<b>Vou até la dar-Ihe a notícia.</b>
+
+370
+00:38:17,003 --> 00:38:19,472
+<b>Não o deixe escapar.</b>
+
+371
+00:38:19,547 --> 00:38:20,764
+<b>Tchau!</b>
+
+372
+00:39:37,250 --> 00:39:41,130
+<b>QUARTO DO WALLACE</b>
+
+373
+00:39:56,561 --> 00:39:57,653
+<b>Sr. Wallace.</b>
+
+374
+00:39:57,729 --> 00:40:01,825
+<b>É a fera, milady.
+Tenho ótimas notícias.</b>
+
+375
+00:40:01,900 --> 00:40:05,621
+<b>Deus, que emoção! Por favor, entre!</b>
+
+376
+00:40:17,999 --> 00:40:21,048
+<b>É simplesmente esplêndido!</b>
+
+377
+00:40:21,127 --> 00:40:24,973
+<b>Com a fera presa, a competição pode
+prosseguir como planejado.</b>
+
+378
+00:40:25,048 --> 00:40:27,597
+<b>Resolveu o problema, Sr. Wallace.</b>
+
+379
+00:40:27,717 --> 00:40:29,811
+<b>Não foi nada, milady.</b>
+
+380
+00:40:29,928 --> 00:40:32,056
+<b>Quanta modéstia.</b>
+
+381
+00:40:32,138 --> 00:40:33,811
+<b>Por favor, sirva-se.</b>
+
+382
+00:40:35,558 --> 00:40:37,151
+<b>Obrigado.</b>
+
+383
+00:40:38,853 --> 00:40:42,858
+<b>Agradeço ter vindo até aqui
+para me contar, Wallace.</b>
+
+384
+00:40:43,191 --> 00:40:46,070
+<b>Diga-me, é amante de vegetais?</b>
+
+385
+00:40:46,235 --> 00:40:50,035
+<b>- Estou começando a ser.
+- Então venha comigo.</b>
+
+386
+00:40:50,114 --> 00:40:53,869
+<b>Tem uma coisa muito especial
+que quero Ihe mostrar.</b>
+
+387
+00:41:01,834 --> 00:41:03,051
+<b>Entre.</b>
+
+388
+00:41:04,212 --> 00:41:07,807
+<b>- É bem jeitoso.
+- É a minha escada de Jacó.</b>
+
+389
+00:41:09,384 --> 00:41:12,684
+<b>E ela vai até o Paraíso.</b>
+
+390
+00:41:21,938 --> 00:41:25,613
+<b>Bem-vindo ao meu santuário
+particular, Wallace.</b>
+
+391
+00:41:26,609 --> 00:41:28,703
+<b>O meu jardim secreto.</b>
+
+392
+00:41:29,904 --> 00:41:32,453
+<b>É um verdadeiro</b>
+
+393
+00:41:32,532 --> 00:41:36,162
+<b>paraíso dos vegetais.</b>
+
+394
+00:41:36,285 --> 00:41:38,629
+<b><i>Eu sabia que você ia gostar.</i></b>
+
+395
+00:41:38,705 --> 00:41:40,503
+<b>Diferente do Victor,</b>
+
+396
+00:41:40,581 --> 00:41:44,006
+<b>que não mostra interesse
+na minha produção.</b>
+
+397
+00:41:44,085 --> 00:41:47,055
+<b>- Pior para ele, Lady Tottington.
+- Por favor, Wallace.</b>
+
+398
+00:41:47,922 --> 00:41:49,549
+<b>Me chame de "Tottinha. "</b>
+
+399
+00:42:01,352 --> 00:42:03,696
+<b>Se algo acontecesse aos meus vegetais,</b>
+
+400
+00:42:03,771 --> 00:42:05,489
+<b>não sei o que faria.</b>
+
+401
+00:42:05,565 --> 00:42:07,863
+<b>Sei que compreende, Sr. Wallace.</b>
+
+402
+00:42:07,942 --> 00:42:10,115
+<b>Vejo que é amante da natureza.</b>
+
+403
+00:42:10,570 --> 00:42:12,368
+<b>Sim. Eu sou!</b>
+
+404
+00:42:13,364 --> 00:42:15,458
+<b>No começo,
+achei que podia mudar o Victor.</b>
+
+405
+00:42:15,908 --> 00:42:17,535
+<b>Agora não tenho tanta certeza.</b>
+
+406
+00:42:19,537 --> 00:42:21,835
+<b>Acha que um homem pode
+mudar, Wallace?</b>
+
+407
+00:42:21,914 --> 00:42:23,211
+<b>Mudar?</b>
+
+408
+00:42:23,291 --> 00:42:24,634
+<b>Sim!</b>
+
+409
+00:42:30,381 --> 00:42:34,181
+<b>Realmente, Phillip!
+As coisas que se faz por amor!</b>
+
+410
+00:42:42,477 --> 00:42:43,945
+<b>Praga!</b>
+
+411
+00:42:46,147 --> 00:42:48,491
+<b>- Sr. Wallace.
+- Tottinha.</b>
+
+412
+00:42:49,484 --> 00:42:50,906
+<b>"Tottinha"?</b>
+
+413
+00:42:56,365 --> 00:42:58,663
+<b>Quero Ihe mostrar mais uma coisa.</b>
+
+414
+00:42:58,743 --> 00:43:01,997
+<b>Uma coisa que nenhum homem viu antes.</b>
+
+415
+00:43:04,165 --> 00:43:06,668
+<b>A minha cenoura de Chantenay.</b>
+
+416
+00:43:07,794 --> 00:43:09,341
+<b>Cheire, Wallace!</b>
+
+417
+00:43:09,462 --> 00:43:11,806
+<b>Sinta essa pele de seda.</b>
+
+418
+00:43:11,881 --> 00:43:15,931
+<b>Não é a espécie mais suntuosa
+e suculenta que você já viu?</b>
+
+419
+00:43:16,010 --> 00:43:18,058
+<b>Não enche o seu coração</b>
+
+420
+00:43:18,137 --> 00:43:19,263
+<b>de desejo?</b>
+
+421
+00:43:19,347 --> 00:43:22,100
+<b>Imagine só como deve ser o gosto.</b>
+
+422
+00:43:28,481 --> 00:43:31,200
+<b>Mas em que estava pensando, garoto?</b>
+
+423
+00:43:31,275 --> 00:43:35,200
+<b>Estragou o meu suéter super-na-moda
+e em perfeitas condições.</b>
+
+424
+00:43:35,321 --> 00:43:39,201
+<b>Sem falar da relação
+com uma cliente importante.</b>
+
+425
+00:43:41,119 --> 00:43:44,214
+<b>Sorte nossa milady ser
+tão compreensiva.</b>
+
+426
+00:43:46,666 --> 00:43:49,419
+<b>Não sei o que tem dado
+em você ultimamente.</b>
+
+427
+00:43:49,502 --> 00:43:51,880
+<b>E devagar, por favor!</b>
+
+428
+00:43:51,963 --> 00:43:53,931
+<b>Vai arrebentar minhas juntas.</b>
+
+429
+00:44:01,264 --> 00:44:03,187
+<b>Não se preocupe. Eu cuidarei disso.</b>
+
+430
+00:44:04,142 --> 00:44:08,272
+<b>E você, fique aí quietinho!
+Rabinho entre as pernas!</b>
+
+431
+00:44:12,275 --> 00:44:13,572
+<b>Muito bem.</b>
+
+432
+00:44:17,238 --> 00:44:19,366
+<b>É mais pesada do que parece.</b>
+
+433
+00:44:28,666 --> 00:44:30,839
+<b>Sei o seu segredinho.</b>
+
+434
+00:44:30,918 --> 00:44:32,511
+<b>Sei exatamente o que está acontecendo.</b>
+
+435
+00:44:32,587 --> 00:44:33,713
+<b>Milorde...</b>
+
+436
+00:44:33,796 --> 00:44:36,299
+<b>Acha que pode roubar
+a minha garota, não é?</b>
+
+437
+00:44:37,633 --> 00:44:40,102
+<b>E usufruir da fortuna
+de uma mulher inocente?</b>
+
+438
+00:44:40,178 --> 00:44:42,681
+<b>- Quem, eu?
+- Bem, eu cheguei primeiro.</b>
+
+439
+00:44:42,763 --> 00:44:46,267
+<b>Ganhei a confiança
+dessa cabeça fofa amante de coelhos.</b>
+
+440
+00:44:46,350 --> 00:44:50,025
+<b>E não vou deixar um caipira
+cabeça de argila tirá-la de mim.</b>
+
+441
+00:44:50,104 --> 00:44:51,401
+<b>Tudo bem.</b>
+
+442
+00:44:52,148 --> 00:44:54,901
+<b>Vou embora agora. Tchau.</b>
+
+443
+00:44:56,569 --> 00:44:59,197
+<b>Não vai a lugar algum, Praga.</b>
+
+444
+00:45:02,074 --> 00:45:05,078
+<b>Não enquanto eu não Ihe ensinar
+uma boa lição.</b>
+
+445
+00:45:08,998 --> 00:45:10,796
+<b>Vamos! Regras de Queensberry!</b>
+
+446
+00:45:10,875 --> 00:45:12,877
+<b>Punhos para cima, seu fracote!</b>
+
+447
+00:45:15,588 --> 00:45:17,181
+<b>Está tremendo.</b>
+
+448
+00:45:17,798 --> 00:45:21,268
+<b>Não me diga que além de trapaceiro
+é medroso.</b>
+
+449
+00:45:26,224 --> 00:45:28,522
+<b>E não pense que dando
+uma de garotinha indefesa</b>
+
+450
+00:45:28,601 --> 00:45:30,353
+<b>se livrará dessa.</b>
+
+451
+00:45:30,436 --> 00:45:33,235
+<b>Victor Quartermaine não tem piedade.</b>
+
+452
+00:45:51,082 --> 00:45:52,504
+<b>Mas que diacho é isso?</b>
+
+453
+00:45:57,463 --> 00:45:59,215
+<b>O que está...</b>
+
+454
+00:46:40,673 --> 00:46:42,596
+<b>Phillip! Ataque!</b>
+
+455
+00:46:42,717 --> 00:46:43,934
+<b>Ataque!</b>
+
+456
+00:46:46,387 --> 00:46:47,934
+<b>Mas o que...</b>
+
+457
+00:47:42,610 --> 00:47:43,611
+<b>Vigário!</b>
+
+458
+00:47:44,278 --> 00:47:47,282
+<b>Vigário! Onde diabos ele está?</b>
+
+459
+00:47:47,365 --> 00:47:48,742
+<b>Quer confessar?</b>
+
+460
+00:47:48,824 --> 00:47:50,997
+<b>Quero falar com você</b>
+
+461
+00:47:51,786 --> 00:47:53,413
+<b><i>Sobre a fera.</i></b>
+
+462
+00:47:55,414 --> 00:47:59,044
+<b>Tudo o que precisa saber
+está no livro.</b>
+
+463
+00:48:00,127 --> 00:48:01,219
+<b>LUTA DE FREIRAS
+HÁBITOS MUITO FEIOS!</b>
+
+464
+00:48:01,295 --> 00:48:03,297
+<b>- "Luta de freiras. "
+- Não! Quis dizer isto.</b>
+
+465
+00:48:03,381 --> 00:48:05,759
+<b>Não, eu quis dizer este aqui.</b>
+
+466
+00:48:06,258 --> 00:48:09,137
+<b>O LIVRO DE OBSERVADORES
+DE MONSTROS</b>
+
+467
+00:48:12,681 --> 00:48:14,934
+<b>Monstro do Lago Ness</b>
+
+468
+00:48:15,059 --> 00:48:17,312
+<b>Pé-Grande</b>
+
+469
+00:48:17,520 --> 00:48:19,739
+<b>Vacasomem</b>
+
+470
+00:48:19,980 --> 00:48:21,732
+<b>Coelhosomem</b>
+
+471
+00:48:21,816 --> 00:48:23,944
+<b>Aqui está!</b>
+
+472
+00:48:24,068 --> 00:48:28,164
+<b>O terrível monstro que aterroriza
+nossa comunidade.</b>
+
+473
+00:48:29,073 --> 00:48:31,496
+<b>O Coelhosomem.</b>
+
+474
+00:48:33,828 --> 00:48:35,501
+<b>Então é real.</b>
+
+475
+00:48:35,663 --> 00:48:39,042
+<b>A fera espreita dentro de todos
+nós, meu filho.</b>
+
+476
+00:48:39,125 --> 00:48:44,006
+<b>O lado que emerge á noite
+quando a lua desponta no céu.</b>
+
+477
+00:48:44,088 --> 00:48:47,342
+<b>O lado que rasga ferozmente as folhas</b>
+
+478
+00:48:47,425 --> 00:48:49,769
+<b>de um repolho inocente!</b>
+
+479
+00:48:49,844 --> 00:48:51,517
+<b>Poupe-me do sermão, Vigário.</b>
+
+480
+00:48:51,595 --> 00:48:54,599
+<b>Apenas me diga como eu o mato.</b>
+
+481
+00:48:55,599 --> 00:48:57,772
+<b>Matar tal criatura...</b>
+
+482
+00:48:57,852 --> 00:49:00,571
+<b>...requer nervos de aço</b>
+
+483
+00:49:00,646 --> 00:49:02,193
+<b>e...</b>
+
+484
+00:49:03,149 --> 00:49:04,947
+<b>...uma bala.</b>
+
+485
+00:49:05,693 --> 00:49:07,445
+<b><i>Uma bala?</i></b>
+
+486
+00:49:08,446 --> 00:49:09,948
+<b>Uma bala.</b>
+
+487
+00:49:10,531 --> 00:49:12,204
+<b>Uma bal...</b>
+
+488
+00:49:13,242 --> 00:49:15,040
+<b>Que tipo de bala?</b>
+
+489
+00:49:15,369 --> 00:49:20,091
+<b>Uma bala de ouro puro.</b>
+
+490
+00:49:24,879 --> 00:49:26,176
+<b>Ouro.</b>
+
+491
+00:49:26,255 --> 00:49:27,256
+<b>Sim.</b>
+
+492
+00:49:28,007 --> 00:49:31,011
+<b>Vinte e quatro quilates.</b>
+
+493
+00:49:32,761 --> 00:49:34,263
+<b><i>Saia da minha frente!</i></b>
+
+494
+00:49:35,389 --> 00:49:37,187
+<b>Velho tolo!</b>
+
+495
+00:49:37,266 --> 00:49:41,737
+<b>Cuidado com a fera interior!</b>
+
+496
+00:49:58,746 --> 00:50:00,748
+<b>A FERA ATACA DE NOVO!</b>
+
+497
+00:50:36,909 --> 00:50:39,253
+<b>Reentrada perfeita, Gromit!</b>
+
+498
+00:50:39,328 --> 00:50:42,172
+<b>Essa dieta vegetariana está
+funcionando, não é?</b>
+
+499
+00:50:42,248 --> 00:50:44,216
+<b>Me sinto demais!</b>
+
+500
+00:50:47,044 --> 00:50:50,799
+<b>Como está o nosso coelho-monstro?</b>
+
+501
+00:50:52,174 --> 00:50:54,017
+<b>Espero que esteja de olho nele.</b>
+
+502
+00:51:05,104 --> 00:51:06,697
+<b>O que foi, cão?</b>
+
+503
+00:51:14,280 --> 00:51:15,782
+<b>Não! Veja só!</b>
+
+504
+00:51:15,864 --> 00:51:17,286
+<b>Orelhas de coelho.</b>
+
+505
+00:51:18,200 --> 00:51:19,998
+<b>É meio esquisito.</b>
+
+506
+00:51:24,039 --> 00:51:26,383
+<b>E o que está tentando
+me dizer, garoto?</b>
+
+507
+00:51:29,878 --> 00:51:32,673
+<b>O quê?</b>
+
+508
+00:51:32,756 --> 00:51:36,181
+<b>Você acha que eu sou o...</b>
+
+509
+00:51:37,636 --> 00:51:39,388
+<b>Por causa disto?</b>
+
+510
+00:51:39,555 --> 00:51:40,807
+<b>Não!</b>
+
+511
+00:51:40,931 --> 00:51:43,434
+<b>Isto é só uma reação</b>
+
+512
+00:51:43,517 --> 00:51:46,771
+<b>da saudável dieta que faz para mim.</b>
+
+513
+00:51:46,854 --> 00:51:49,403
+<b>São as toxinas saindo.</b>
+
+514
+00:51:49,481 --> 00:51:51,779
+<b>Cachorrinho tolo.</b>
+
+515
+00:51:51,859 --> 00:51:54,203
+<b>Acha que eu sou a fera.</b>
+
+516
+00:51:55,654 --> 00:51:57,873
+<b>A próxima coisa que vai dizer</b>
+
+517
+00:51:57,948 --> 00:52:01,043
+<b>é que o Dentinho está virando eu.</b>
+
+518
+00:52:04,872 --> 00:52:08,172
+<b>Ei, o que está fazendo, garoto?</b>
+
+519
+00:52:08,250 --> 00:52:10,548
+<b>Você enlouqueceu de vez?</b>
+
+520
+00:52:16,800 --> 00:52:19,303
+<b>Queijo!</b>
+
+521
+00:52:21,013 --> 00:52:22,560
+<b>"Queijo"?</b>
+
+522
+00:52:53,921 --> 00:52:58,347
+<b>Eu gosto de gorgonzola.</b>
+
+523
+00:53:02,680 --> 00:53:04,557
+<b>Essa não!</b>
+
+524
+00:53:07,142 --> 00:53:08,394
+<b>5 TIROS POR 1</b>
+
+525
+00:53:08,477 --> 00:53:10,354
+<b>- Perfeito.
+- Senhora.</b>
+
+526
+00:53:10,437 --> 00:53:11,939
+<b>Agora, vejamos.</b>
+
+527
+00:53:14,066 --> 00:53:15,693
+<b>A tômbola chegou.</b>
+
+528
+00:53:15,776 --> 00:53:19,201
+<b>E o pula-pula Tottington.</b>
+
+529
+00:53:19,279 --> 00:53:20,826
+<b>Esplêndido!</b>
+
+530
+00:53:22,616 --> 00:53:24,539
+<b>CENOURA DE OURO</b>
+
+531
+00:53:24,618 --> 00:53:27,417
+<b>Teremos uma competição
+animada esta noite.</b>
+
+532
+00:53:27,496 --> 00:53:28,998
+<b>Disso eu sei.</b>
+
+533
+00:53:29,081 --> 00:53:31,425
+<b>- Você não sabe de nada.
+- O quê?</b>
+
+534
+00:53:31,500 --> 00:53:34,219
+<b>A fera atacou de novo. É isso!</b>
+
+535
+00:53:35,504 --> 00:53:37,427
+<b>Isso mesmo!</b>
+
+536
+00:53:37,506 --> 00:53:39,600
+<b>Não. Está enganada, Dona Moita.</b>
+
+537
+00:53:39,675 --> 00:53:41,928
+<b>- A fera está presa.
+- É mesmo?</b>
+
+538
+00:53:42,010 --> 00:53:45,685
+<b>Então dê uma olhada
+na Brassica da minha mulher.</b>
+
+539
+00:53:45,764 --> 00:53:48,734
+<b>- Destruída durante a noite.
+- Não compreendo.</b>
+
+540
+00:53:48,809 --> 00:53:51,437
+<b>- O Antipraga me disse...
+- Um bando de mentiras!</b>
+
+541
+00:53:51,520 --> 00:53:54,524
+<b>Não é seguro trazer
+os vegetais para cá.</b>
+
+542
+00:53:54,606 --> 00:53:56,279
+<b>A festa está cancelada.</b>
+
+543
+00:53:59,194 --> 00:54:01,947
+<b>Essa notícia é assustadora!</b>
+
+544
+00:54:03,198 --> 00:54:07,123
+<b>Os Tottington sempre fizeram
+a competição de vegetais gigantes,</b>
+
+545
+00:54:07,202 --> 00:54:10,957
+<b>exatamente nesta noite, há 500 anos.</b>
+
+546
+00:54:11,039 --> 00:54:12,712
+<b>Isso mesmo.</b>
+
+547
+00:54:12,791 --> 00:54:17,968
+<b>Nem com a Grande Peste de Patos
+de 53 ela foi cancelada.</b>
+
+548
+00:54:19,840 --> 00:54:22,343
+<b>Se tivesse um outro jeito.</b>
+
+549
+00:54:23,927 --> 00:54:25,895
+<b>Olá!</b>
+
+550
+00:54:28,599 --> 00:54:31,318
+<b>Soube que tem um probleminha
+com coelhos.</b>
+
+551
+00:54:38,859 --> 00:54:40,532
+<b>Essa parte não era...</b>
+
+552
+00:54:43,322 --> 00:54:44,995
+<b>Agora, vejamos.</b>
+
+553
+00:54:47,993 --> 00:54:50,621
+<b>Onde fica esta parte?</b>
+
+554
+00:55:02,007 --> 00:55:03,884
+<b>É impossível!</b>
+
+555
+00:55:03,967 --> 00:55:06,766
+<b>Não conseguirei consertar esta
+droga de máquina.</b>
+
+556
+00:55:06,845 --> 00:55:10,270
+<b>Minha mente está "coelhonfusa".</b>
+
+557
+00:55:10,349 --> 00:55:12,397
+<b>Gromit!</b>
+
+558
+00:55:12,476 --> 00:55:16,822
+<b>Não quero ser um coelho gigante.</b>
+
+559
+00:55:21,485 --> 00:55:24,785
+<b>Ele não tem mais jeito.</b>
+
+560
+00:55:37,209 --> 00:55:41,806
+<b>Ei, Antipraga!
+Reabilitação de coelhos.</b>
+
+561
+00:55:42,923 --> 00:55:45,392
+<b>Mas se eu não consigo consertar...</b>
+
+562
+00:55:46,176 --> 00:55:47,393
+<b>Cheddar.</b>
+
+563
+00:55:47,469 --> 00:55:50,439
+<b>...talvez o outro "eu" consiga.</b>
+
+564
+00:55:50,514 --> 00:55:52,437
+<b>Estou inventando basicamente.</b>
+
+565
+00:55:52,516 --> 00:55:55,986
+<b>Olhe só eu em ação! Sou um gênio.</b>
+
+566
+00:55:57,855 --> 00:56:01,701
+<b>Droga! Não posso atender a porta.
+Não deste jeito!</b>
+
+567
+00:56:02,359 --> 00:56:04,908
+<b>Encantado. Sou o Wallace.</b>
+
+568
+00:56:05,445 --> 00:56:07,368
+<b>Eu já atendi.</b>
+
+569
+00:56:07,865 --> 00:56:08,866
+<b>Dentinho!</b>
+
+570
+00:56:12,077 --> 00:56:13,875
+<b>Geronimo!</b>
+
+571
+00:56:14,162 --> 00:56:15,789
+<b>Wallace?</b>
+
+572
+00:56:15,873 --> 00:56:17,921
+<b>Espere um momento.</b>
+
+573
+00:56:19,334 --> 00:56:20,551
+<b>Wallace?</b>
+
+574
+00:56:20,627 --> 00:56:24,348
+<b>Olá? Abra logo essa porta!</b>
+
+575
+00:56:27,426 --> 00:56:28,552
+<b>Tottinha.</b>
+
+576
+00:56:29,428 --> 00:56:31,851
+<b>"Lady Tottington," se não se importa.</b>
+
+577
+00:56:32,514 --> 00:56:35,017
+<b>Infelizmente tenho
+péssimas notícias, Wallace.</b>
+
+578
+00:56:35,183 --> 00:56:37,652
+<b>A questão é, bem,</b>
+
+579
+00:56:37,728 --> 00:56:42,404
+<b>você me decepcionou com esse
+negócio ferino de fera.</b>
+
+580
+00:56:42,941 --> 00:56:44,864
+<b>Acho que sim.</b>
+
+581
+00:56:44,943 --> 00:56:47,742
+<b>É óbvio que não tem ideia</b>
+
+582
+00:56:47,821 --> 00:56:49,448
+<b>de onde esteja essa pobre criatura.</b>
+
+583
+00:56:49,531 --> 00:56:52,159
+<b>E temo que não me restou outra opção</b>
+
+584
+00:56:52,242 --> 00:56:55,792
+<b>além de deixar
+o Victor matar o coitado.</b>
+
+585
+00:56:56,580 --> 00:56:57,923
+<b><i>Matar?</i></b>
+
+586
+00:56:58,957 --> 00:57:01,710
+<b>Sim. Não foi uma escolha fácil,</b>
+
+587
+00:57:01,793 --> 00:57:03,966
+<b>mas a competição vem
+em primeiro lugar.</b>
+
+588
+00:57:04,046 --> 00:57:07,266
+<b>Mas o Victor me prometeu
+que ele não vai sofrer.</b>
+
+589
+00:57:07,341 --> 00:57:09,560
+<b>Será rápido e indolor.</b>
+
+590
+00:57:09,635 --> 00:57:11,888
+<b>Quanto cuidado!</b>
+
+591
+00:57:11,970 --> 00:57:14,974
+<b>Não nego que foi uma decisão difícil
+para mim.</b>
+
+592
+00:57:15,057 --> 00:57:17,685
+<b>Porque, recentemente, desenvolvi...</b>
+
+593
+00:57:17,768 --> 00:57:19,270
+<b>Rápido!</b>
+
+594
+00:57:20,103 --> 00:57:21,480
+<b>...sentimentos por você.</b>
+
+595
+00:57:21,563 --> 00:57:24,908
+<b>Sentimentos? Esqueça!</b>
+
+596
+00:57:25,484 --> 00:57:27,612
+<b>- Até logo, então.
+- Espere!</b>
+
+597
+00:57:27,694 --> 00:57:30,447
+<b>Ainda não terminei.
+Há muito mais a dizer.</b>
+
+598
+00:57:30,530 --> 00:57:32,783
+<b>Posso ligar para você depois?</b>
+
+599
+00:57:32,866 --> 00:57:35,335
+<b>Não podemos apertar as mãos?
+Como amigos?</b>
+
+600
+00:57:35,410 --> 00:57:37,913
+<b>Não é muito conveniente no momento.</b>
+
+601
+00:57:38,038 --> 00:57:39,881
+<b>Obrigado pela visita.</b>
+
+602
+00:57:40,666 --> 00:57:42,964
+<b>Bem, eu...</b>
+
+603
+00:57:58,392 --> 00:58:00,520
+<b>Isso mesmo, minha adorada.</b>
+
+604
+00:58:00,602 --> 00:58:04,357
+<b>Pode dar adeus ao seu amado fofinho.</b>
+
+605
+00:58:08,485 --> 00:58:09,862
+<b>Tem que me ajudar, Gromit!</b>
+
+606
+00:58:09,945 --> 00:58:11,993
+<b>Me esconder, qualquer coisa.</b>
+
+607
+00:58:12,072 --> 00:58:15,667
+<b>Antes que seja muito tarde, garoto!</b>
+
+608
+00:58:15,742 --> 00:58:17,289
+<b>Milorde.</b>
+
+609
+00:58:49,192 --> 00:58:51,069
+<b>Boa noite, Gromit.</b>
+
+610
+00:59:43,830 --> 00:59:46,003
+<b>Está feito!</b>
+
+611
+00:59:49,961 --> 00:59:52,680
+<b>Minha pobre criança sensível.</b>
+
+612
+00:59:52,756 --> 00:59:57,853
+<b>Permita-nos compartilhar
+o seu momento de dor.</b>
+
+613
+01:00:05,769 --> 01:00:08,613
+<b>Vamos á festa!</b>
+
+614
+01:00:19,574 --> 01:00:21,076
+<b>Mas o que...</b>
+
+615
+01:00:24,996 --> 01:00:27,249
+<b>É você...</b>
+
+616
+01:00:40,846 --> 01:00:42,314
+<b>Claro!</b>
+
+617
+01:00:42,848 --> 01:00:45,476
+<b>A competição de vegetais.</b>
+
+618
+01:00:47,185 --> 01:00:49,688
+<b>Sua lealdade é comovente.</b>
+
+619
+01:00:49,771 --> 01:00:52,365
+<b>Infelizmente não vai conseguir.</b>
+
+620
+01:00:52,440 --> 01:00:53,612
+<b>Venha, Phillip!</b>
+
+621
+01:00:53,692 --> 01:00:56,992
+<b>Todos estão esperando
+por uma bela festa.</b>
+
+622
+01:00:57,070 --> 01:00:59,789
+<b>Então, que seja!</b>
+
+623
+01:01:29,102 --> 01:01:30,228
+<b>ACERTE NO COELHO</b>
+
+624
+01:01:30,312 --> 01:01:32,030
+<b>Sr. Adúbio.</b>
+
+625
+01:01:32,105 --> 01:01:36,827
+<b>Tenho um pressentimento
+de que será uma noite a ser lembrada.</b>
+
+626
+01:01:38,111 --> 01:01:39,658
+<b>É só um pressentimento.</b>
+
+627
+01:01:39,738 --> 01:01:43,038
+<b><i>Muito bem. Se temos
+que fazer essa droga de festa...</i></b>
+
+628
+01:01:43,116 --> 01:01:45,494
+<b>...que seja organizada
+e dentro da lei.</b>
+
+629
+01:01:45,577 --> 01:01:47,545
+<b><i>Pepinos atrás das abobrinhas.</i></b>
+
+630
+01:01:47,621 --> 01:01:49,749
+<b>Cenouras, aguardem.</b>
+
+631
+01:01:49,831 --> 01:01:52,175
+<b>- Berinjelas...
+- Aí está a nossa isca, Phillip.</b>
+
+632
+01:01:52,250 --> 01:01:56,801
+<b>Agora só temos que esperar
+o nosso amigo fofo aparecer.</b>
+
+633
+01:01:58,381 --> 01:02:01,760
+<b>Olhe para cá, pessoal! É o Victor!</b>
+
+634
+01:02:02,344 --> 01:02:04,563
+<b>- Ele está aqui.
+- O nosso herói.</b>
+
+635
+01:02:04,638 --> 01:02:06,185
+<b>Por favor, senhor. Beije o meu bebê.</b>
+
+636
+01:02:06,264 --> 01:02:08,517
+<b>- Outra hora, talvez.
+- Beije a minha batata.</b>
+
+637
+01:02:08,600 --> 01:02:11,149
+<b>- Agora não.
+- Beije a minha alcachofra.</b>
+
+638
+01:02:11,228 --> 01:02:12,605
+<b>Olhe, só...</b>
+
+639
+01:02:12,687 --> 01:02:14,064
+<b>Campânula.</b>
+
+640
+01:02:14,147 --> 01:02:18,869
+<b>Victor, preciso saber. Ele sofreu?</b>
+
+641
+01:02:18,985 --> 01:02:22,831
+<b>Claro que não, minha querida.
+Ainda não.</b>
+
+642
+01:02:22,906 --> 01:02:24,874
+<b>- Victor?
+- Ei, você!</b>
+
+643
+01:02:24,950 --> 01:02:27,453
+<b>Cuidado com os pimentões!</b>
+
+644
+01:02:27,619 --> 01:02:31,590
+<b>Ouça, não quero causar pânico,
+mas a fera ainda não morreu.</b>
+
+645
+01:02:31,665 --> 01:02:33,793
+<b>A fera ainda não está morta?</b>
+
+646
+01:02:35,168 --> 01:02:39,048
+<b>DIVERSÃO DIVERSÃO DIVERSÃO</b>
+
+647
+01:02:44,552 --> 01:02:45,724
+<b>Xi!</b>
+
+648
+01:02:46,096 --> 01:02:48,645
+<b>Vamos para o palco da competição!</b>
+
+649
+01:03:04,906 --> 01:03:07,500
+<b>Torrada excelente, Gromit!</b>
+
+650
+01:03:09,577 --> 01:03:12,626
+<b>Eu sou doidinho por queijo.</b>
+
+651
+01:03:14,457 --> 01:03:16,459
+<b>Monterey Jack.</b>
+
+652
+01:03:28,930 --> 01:03:29,931
+<b>LANÇAR</b>
+
+653
+01:03:30,015 --> 01:03:32,268
+<b>Wensleydale é demais!</b>
+
+654
+01:03:53,621 --> 01:03:56,124
+<b>Bom trabalho, garoto.</b>
+
+655
+01:04:07,344 --> 01:04:09,438
+<b>GRANDE COMPETIÇÃO DE VEGETAIS
+NA MANSÃO TOTTINGTON</b>
+
+656
+01:04:14,601 --> 01:04:15,818
+<b>Silêncio!</b>
+
+657
+01:04:16,936 --> 01:04:18,654
+<b>Silêncio!</b>
+
+658
+01:04:22,275 --> 01:04:23,948
+<b>Agora ouçam com atenção.</b>
+
+659
+01:04:24,027 --> 01:04:26,997
+<b>Eu só tenho duas...</b>
+
+660
+01:04:27,113 --> 01:04:29,457
+<b>Eu só tenho uma bala de ouro.</b>
+
+661
+01:04:29,574 --> 01:04:31,952
+<b>Por isso deixem comigo.</b>
+
+662
+01:04:32,035 --> 01:04:35,255
+<b>Está bem, eu admito.
+A fera ainda está solta.</b>
+
+663
+01:04:35,330 --> 01:04:39,631
+<b>Mas a boa notícia é que os seus
+vegetais são a isca perfeita...</b>
+
+664
+01:04:39,709 --> 01:04:40,710
+<b>"Isca"?</b>
+
+665
+01:04:40,794 --> 01:04:42,717
+<b>...e atrairão a criatura feito ímã.</b>
+
+666
+01:04:42,796 --> 01:04:44,469
+<b>- Mas têm que ficar quietos...
+- Meu bebê.</b>
+
+667
+01:04:44,589 --> 01:04:48,435
+<b>Vai dar tudo...</b>
+
+668
+01:04:48,510 --> 01:04:50,183
+<b>Dona Moita! Não!</b>
+
+669
+01:04:50,762 --> 01:04:53,140
+<b>Ele não vai pegar o meu bebê.</b>
+
+670
+01:04:55,266 --> 01:04:59,112
+<b>Comida deliciosa. Para coelhos.</b>
+
+671
+01:05:03,650 --> 01:05:06,620
+<b>- Volte!
+- Volte, Dona Moita!</b>
+
+672
+01:05:11,866 --> 01:05:14,085
+<b>Isso! Bem na hora!</b>
+
+673
+01:05:22,168 --> 01:05:23,886
+<b>Vá embora!</b>
+
+674
+01:05:24,003 --> 01:05:26,973
+<b>Isso mesmo! Venha para o Titio Victor.</b>
+
+675
+01:05:33,263 --> 01:05:34,765
+<b>Está vindo na nossa direção.</b>
+
+676
+01:05:43,398 --> 01:05:44,991
+<b>Bingo!</b>
+
+677
+01:05:46,609 --> 01:05:48,111
+<b>Mas que...</b>
+
+678
+01:05:52,240 --> 01:05:53,958
+<b>Viva o Antipraga!</b>
+
+679
+01:05:54,159 --> 01:05:57,663
+<b>- Ele está escapando.
+- Largue-me, seu imbecil...</b>
+
+680
+01:05:57,745 --> 01:05:58,871
+<b>Me dê isso!</b>
+
+681
+01:06:05,795 --> 01:06:08,048
+<b>Vigário, mais balas de ouro!</b>
+
+682
+01:06:08,131 --> 01:06:10,350
+<b>Elas não são de graça, sabia?</b>
+
+683
+01:06:12,927 --> 01:06:14,179
+<b>ANTIGUIDADES</b>
+
+684
+01:06:14,637 --> 01:06:15,809
+<b>PERIGO FOGOS</b>
+
+685
+01:06:20,351 --> 01:06:22,228
+<b>Victor, o que está fazendo?</b>
+
+686
+01:06:22,312 --> 01:06:24,565
+<b>Preciso disso, minha amada.
+Emergência.</b>
+
+687
+01:06:24,647 --> 01:06:29,073
+<b>- Victor, não! Por favor!
+- Vamos, Campânula. Solte!</b>
+
+688
+01:06:29,152 --> 01:06:30,995
+<b>Mas é o troféu Cenoura de Ouro.</b>
+
+689
+01:06:31,070 --> 01:06:32,993
+<b>Não é hora disso, minha querida.</b>
+
+690
+01:06:33,072 --> 01:06:34,619
+<b>Dê para mim.</b>
+
+691
+01:06:37,702 --> 01:06:39,625
+<b>Queijo, Gromit.</b>
+
+692
+01:06:40,580 --> 01:06:41,797
+<b>BARRACA DE QUEIJOS</b>
+
+693
+01:06:44,626 --> 01:06:47,505
+<b>A Cenoura de Ouro é para a festa.</b>
+
+694
+01:06:47,587 --> 01:06:50,591
+<b>Não, a Cenoura de Ouro
+é para o Coelhosomem.</b>
+
+695
+01:06:53,218 --> 01:06:54,515
+<b>Cada um por si!</b>
+
+696
+01:06:54,761 --> 01:06:58,516
+<b>Socorro!</b>
+
+697
+01:06:58,598 --> 01:07:03,104
+<b>Largue-me imediatamente,
+sua coisa cabeluda!</b>
+
+698
+01:07:03,186 --> 01:07:04,984
+<b>Pare!</b>
+
+699
+01:07:05,438 --> 01:07:06,439
+<b>MUNIÇÃO PARA CONFUSÃO</b>
+
+700
+01:07:06,523 --> 01:07:09,402
+<b>Adquiram a sua munição aqui!</b>
+
+701
+01:07:20,620 --> 01:07:23,464
+<b>Largue-a, seu brutamontes!</b>
+
+702
+01:07:28,294 --> 01:07:30,843
+<b>Vou arranjar um pé de coelho d sorte.</b>
+
+703
+01:07:34,676 --> 01:07:37,304
+<b>Alguém me ajude! Socorro!</b>
+
+704
+01:07:59,492 --> 01:08:01,995
+<b>ALGODÃO DOCE</b>
+
+705
+01:08:16,134 --> 01:08:18,762
+<b>Ponha-me no chão, seu...</b>
+
+706
+01:08:18,845 --> 01:08:20,313
+<b>Seja lá o que você for!</b>
+
+707
+01:08:24,934 --> 01:08:26,060
+<b>O que foi?</b>
+
+708
+01:08:26,185 --> 01:08:30,031
+<b>O que está olhando
+com esses olhos bestiais?</b>
+
+709
+01:08:38,489 --> 01:08:39,957
+<b>Wallace.</b>
+
+710
+01:08:45,455 --> 01:08:46,547
+<b>BRIGA DE CÃO</b>
+
+711
+01:08:46,623 --> 01:08:48,375
+<b>INSIRA A MOEDA</b>
+
+712
+01:08:48,541 --> 01:08:49,793
+<b>REDUTOR DE VELOCIDADE</b>
+
+713
+01:09:04,349 --> 01:09:06,272
+<b>Wallace,</b>
+
+714
+01:09:06,351 --> 01:09:08,820
+<b>o que fez com você?</b>
+
+715
+01:09:09,854 --> 01:09:13,654
+<b>Bem, não se preocupe. Vou protegê-lo.</b>
+
+716
+01:09:14,359 --> 01:09:19,536
+<b>Tire as patas cabeludas
+da minha futura esposa, seu bruto!</b>
+
+717
+01:09:21,115 --> 01:09:22,662
+<b>Não! Victor!</b>
+
+718
+01:09:22,742 --> 01:09:25,040
+<b>Você não entende. Acabou a caça.</b>
+
+719
+01:09:25,119 --> 01:09:27,542
+<b>Cometemos um terrível engano.</b>
+
+720
+01:09:27,622 --> 01:09:30,000
+<b>Não! Você me pediu
+para livrá-la do Praga</b>
+
+721
+01:09:30,083 --> 01:09:32,552
+<b>e é o que pretendo fazer.</b>
+
+722
+01:09:32,627 --> 01:09:33,628
+<b>Xi!</b>
+
+723
+01:09:34,504 --> 01:09:35,551
+<b>"Praga"?</b>
+
+724
+01:09:39,592 --> 01:09:42,766
+<b>Você sabia que era o Wallace
+o tempo todo.</b>
+
+725
+01:09:43,971 --> 01:09:45,393
+<b>Tudo bem.</b>
+
+726
+01:09:45,473 --> 01:09:47,521
+<b>E daí que é esse idiota?</b>
+
+727
+01:09:47,642 --> 01:09:49,360
+<b>Ninguém vai acreditar em você.</b>
+
+728
+01:09:52,522 --> 01:09:57,244
+<b>Já que não terei o seu dinheiro,
+vou despachar o seu coelho.</b>
+
+729
+01:10:00,988 --> 01:10:02,080
+<b>Spray de Violeta</b>
+
+730
+01:10:03,658 --> 01:10:05,456
+<b>Os meus olhos!</b>
+
+731
+01:10:05,535 --> 01:10:07,754
+<b>Corra, coelho! Corra!</b>
+
+732
+01:10:15,420 --> 01:10:17,297
+<b>Prefiro o seu cabelo preso.</b>
+
+733
+01:10:17,380 --> 01:10:19,678
+<b>Não, Victor! Pare! Por favor!</b>
+
+734
+01:10:19,757 --> 01:10:21,225
+<b>Victor!</b>
+
+735
+01:10:21,843 --> 01:10:25,268
+<b>Pode pular,
+mas não vai conseguir fugir, Praga.</b>
+
+736
+01:10:39,068 --> 01:10:41,662
+<b>Olhe a lua!</b>
+
+737
+01:10:55,251 --> 01:10:57,003
+<b>Vira-lata imbecil!</b>
+
+738
+01:11:33,748 --> 01:11:36,627
+<b>Para trás! Vai vir coisa grande!</b>
+
+739
+01:11:54,769 --> 01:11:57,898
+<b>Parece que acaba aqui.</b>
+
+740
+01:12:03,319 --> 01:12:04,787
+<b>INSERIR MOEDA</b>
+
+741
+01:12:35,518 --> 01:12:36,610
+<b>BOMBA</b>
+
+742
+01:12:56,289 --> 01:12:59,543
+<b>Vai comer ouro, seu coelho!</b>
+
+743
+01:13:27,862 --> 01:13:29,489
+<b>Meleca!</b>
+
+744
+01:14:01,354 --> 01:14:04,654
+<b>Ninguém derrota Victor Quartermaine!</b>
+
+745
+01:14:04,732 --> 01:14:06,109
+<b>É mesmo?</b>
+
+746
+01:14:07,652 --> 01:14:10,201
+<b>Acaba de levar um fora.</b>
+
+747
+01:14:16,911 --> 01:14:18,879
+<b>Ele está lá!</b>
+
+748
+01:14:25,461 --> 01:14:27,463
+<b>Ali está ele! Ali!</b>
+
+749
+01:14:29,799 --> 01:14:31,016
+<b>Phillip, me ajude!</b>
+
+750
+01:14:31,092 --> 01:14:33,720
+<b>Phillip, faça alguma coisa!</b>
+
+751
+01:14:36,597 --> 01:14:41,694
+<b>Destruir! Expulsem o monstrengo!</b>
+
+752
+01:14:48,275 --> 01:14:50,994
+<b>Vamos ver se ele gosta.</b>
+
+753
+01:14:52,571 --> 01:14:54,164
+<b>Wallace?</b>
+
+754
+01:15:32,445 --> 01:15:33,742
+<b>Gromit.</b>
+
+755
+01:15:35,072 --> 01:15:37,996
+<b>Bem, pelo menos agora ele está em paz.</b>
+
+756
+01:15:38,075 --> 01:15:39,327
+<b>O coelho se foi.</b>
+
+757
+01:15:40,411 --> 01:15:44,041
+<b>Se tivesse um jeito de trazer
+o Wallace de volta.</b>
+
+758
+01:15:56,510 --> 01:15:59,138
+<b>Queijo delicioso, Gromit.</b>
+
+759
+01:16:02,892 --> 01:16:03,893
+<b>Gromit?</b>
+
+760
+01:16:04,935 --> 01:16:07,029
+<b>Não esqueça os biscoitos.</b>
+
+761
+01:16:14,028 --> 01:16:15,780
+<b>Queijo?</b>
+
+762
+01:16:20,826 --> 01:16:22,123
+<b>Queijo.</b>
+
+763
+01:16:22,203 --> 01:16:25,457
+<b>Sou eu de novo. Eu voltei!</b>
+
+764
+01:16:26,123 --> 01:16:29,127
+<b>Gromit! Seu vira-lata esperto!</b>
+
+765
+01:16:29,210 --> 01:16:31,087
+<b>Muito bem, meu amigo!</b>
+
+766
+01:16:36,967 --> 01:16:40,517
+<b>- Tottinha!
+- Wallace! Você está...</b>
+
+767
+01:16:43,099 --> 01:16:44,817
+<b>Obrigado, garoto.</b>
+
+768
+01:16:46,602 --> 01:16:48,320
+<b>Olhem!</b>
+
+769
+01:16:50,815 --> 01:16:54,490
+<b>Bem, acho
+que você merece isto, Gromit.</b>
+
+770
+01:16:54,568 --> 01:16:58,289
+<b>Pelo seu enorme e esplêndido trabalho.</b>
+
+771
+01:16:59,115 --> 01:17:02,335
+<b>Todos estamos
+muito agradecidos a você.</b>
+
+772
+01:17:04,411 --> 01:17:06,914
+<b>Todo cão tem o seu dia de glória.</b>
+
+773
+01:17:06,997 --> 01:17:08,715
+<b>E muito obrigada, Wallace.</b>
+
+774
+01:17:08,791 --> 01:17:12,671
+<b>Você me salvou
+de um casamento horrível.</b>
+
+775
+01:17:13,462 --> 01:17:14,679
+<b><i>Mas agora</i></b>
+
+776
+01:17:14,755 --> 01:17:18,635
+<b>a Mansão Tottington vai ficar vazia.</b>
+
+777
+01:17:21,637 --> 01:17:23,014
+<b>A menos que...</b>
+
+778
+01:17:24,473 --> 01:17:27,852
+<b>Tenho uma pequena proposta
+para você, Wallace.</b>
+
+779
+01:17:32,731 --> 01:17:36,531
+<b>Estou emocionada de ter concordado
+em fazer isto.</b>
+
+780
+01:17:36,610 --> 01:17:39,409
+<b>É um prazer, Tottinha.</b>
+
+781
+01:17:40,239 --> 01:17:42,458
+<b>Uma para o álbum, Gromit.</b>
+
+782
+01:17:48,414 --> 01:17:52,294
+<b>Declaro oficialmente aberto
+este santuário de coelhos.</b>
+
+783
+01:17:57,298 --> 01:17:58,675
+<b>Quando quiser, garoto,</b>
+
+784
+01:17:58,757 --> 01:18:02,057
+<b>pode ligar o velho S.G. 6000.</b>
+
+785
+01:18:02,887 --> 01:18:04,264
+<b>SOPRAR SUGAR</b>
+
+786
+01:18:11,645 --> 01:18:14,194
+<b>É simplesmente maravilhoso.</b>
+
+787
+01:18:14,273 --> 01:18:18,653
+<b>A minha casa é um paraíso seguro
+para todos esses fofinhos.</b>
+
+788
+01:18:26,160 --> 01:18:28,754
+<b>Espero que venha nos visitar, Wallace.</b>
+
+789
+01:18:28,829 --> 01:18:31,833
+<b>Eu me acostumei a tê-lo por perto.</b>
+
+790
+01:18:32,917 --> 01:18:35,011
+<b>Sempre haverá uma parte de mim</b>
+
+791
+01:18:35,085 --> 01:18:37,588
+<b>na Mansão Tottington.</b>
+
+792
+01:18:38,923 --> 01:18:41,426
+<b>Mande ver, garoto.</b>
+
+793
+01:18:51,185 --> 01:18:53,654
+<b>Queijo!</b>
+
+794
+01:18:53,729 --> 01:18:58,610
+<b>FIM</b>
+
+795
+01:24:34,361 --> 01:24:37,114
+<b>QUEREMOS ENFATIZAR QUE
+NENHUM ANIMAL FOl FERIDO</b>
+
+796
+01:24:37,197 --> 01:24:40,701
+<b>DURANTE A REALIZAÇÃO
+DESTE FILME.</b>
+
+797
+01:24:56,466 --> 01:24:57,467
+<b>Portuguese - Brazilian</b>
+
