@@ -1,0 +1,6432 @@
+1
+00:00:06,789 --> 00:00:08,747
+Auradon.
+
+2
+00:00:08,791 --> 00:00:11,141
+É lindo, não é?
+
+3
+00:00:11,185 --> 00:00:15,711
+Eu estou Mal, filha de Malévola, e esta é a minha casa.
+
+4
+00:00:15,754 --> 00:00:17,234
+Não era sempre.
+
+5
+00:00:17,278 --> 00:00:19,149
+Eu nasci na Ilha de Lost,
+
+6
+00:00:19,193 --> 00:00:21,151
+onde todos os vilões tinham sido banidos,
+
+7
+00:00:21,195 --> 00:00:22,935
+trancado para o bem.
+
+8
+00:00:22,979 --> 00:00:24,981
+Isto é, até que o Príncipe Ben decidiu que seus filhos
+
+9
+00:00:25,025 --> 00:00:26,504
+deve ter uma chance.
+
+10
+00:00:26,548 --> 00:00:29,246
+Portanto, quatro vilão crianças-- a VKs-veio para Auradon,
+
+11
+00:00:29,290 --> 00:00:30,682
+inclusive eu.
+
+12
+00:00:30,726 --> 00:00:32,336
+Longa história curta, Ben agora o rei.
+
+13
+00:00:32,380 --> 00:00:33,859
+Eu sou sua namorada,
+
+14
+00:00:33,903 --> 00:00:36,166
+e estamos prestes a voltar para a Ilha
+
+15
+00:00:36,210 --> 00:00:39,865
+para escolher o que venha a ser uma longa linha de novo VKs
+
+16
+00:00:39,909 --> 00:00:41,215
+quem começa a vir para Auradon e encontrar
+
+17
+00:00:41,258 --> 00:00:44,087
+o seu felizes para sempre 'depois', também.
+
+18
+00:00:50,398 --> 00:00:52,139
+Ei, confira!
+
+19
+00:00:56,404 --> 00:00:58,797
+Oh, meu deus. Oh, meu deus, olha isso!
+
+20
+00:00:58,841 --> 00:01:00,147
+É VK Dia!
+
+21
+00:01:00,190 --> 00:01:03,672
+Eu quero ser escolhido tão ruim, oh, meu deus. Oh!
+
+22
+00:01:10,070 --> 00:01:12,028
+♪ De norte a sul ♪
+
+23
+00:01:12,072 --> 00:01:14,074
+♪ Do leste para o oeste
+
+24
+00:01:14,117 --> 00:01:16,163
+♪ Meninos perdidos, perda de meninas
+
+25
+00:01:16,206 --> 00:01:18,295
+♪ Todos sabem que você é o melhor
+
+26
+00:01:18,339 --> 00:01:20,254
+♪ Bater as ruas, que é o seu dia ♪
+
+27
+00:01:20,297 --> 00:01:22,560
+♪ A volta por cima, agora é a sua chance ♪
+
+28
+00:01:22,604 --> 00:01:25,128
+♪ É hora de levantar-se sobre seus pés e dança ♪
+
+29
+00:01:27,130 --> 00:01:28,827
+♪ Ninguém quer ser como nós?
+
+30
+00:01:28,871 --> 00:01:31,178
+♪ Todo mundo quer ser como nós, hey! ♪
+
+31
+00:01:31,221 --> 00:01:33,267
+♪ Todos os meninos de Auradon e as meninas ♪
+
+32
+00:01:33,310 --> 00:01:35,225
+♪ Porque eles sabem o que está acima!
+
+33
+00:01:35,269 --> 00:01:37,140
+♪ A sua vida pode mudar hoje ♪
+
+34
+00:01:37,184 --> 00:01:39,577
+♪ A sua vida pode mudar hoje
+
+35
+00:01:39,621 --> 00:01:43,320
+♪ Estas ruas nomeado depois de nós, porque nós abriram o caminho ♪
+
+36
+00:01:43,364 --> 00:01:45,453
+♪ Todos, venha fazer seu tiro ♪
+
+37
+00:01:47,150 --> 00:01:49,370
+♪ Agora é a hora, mostrar a eles o que você tem ♪
+
+38
+00:01:51,502 --> 00:01:53,591
+♪ Porque todo mundo vai ter sua chance ♪
+
+39
+00:01:55,332 --> 00:01:58,205
+♪ Eles disseram que a Ilha era ruim ♪
+
+40
+00:01:58,248 --> 00:02:00,294
+♪ Bem, é bom ser mau
+
+41
+00:02:00,337 --> 00:02:01,730
+♪ Somos a prova de que
+
+42
+00:02:01,773 --> 00:02:03,862
+♪ Usado para ser perdido, agora estamos no mapa ♪
+
+43
+00:02:03,906 --> 00:02:05,734
+♪ Usado para roubar pilhas, agora estamos dando a volta ♪
+
+44
+00:02:05,777 --> 00:02:07,083
+♪ Lembre-se de que
+
+45
+00:02:07,127 --> 00:02:08,693
+♪ É bom ser mau
+
+46
+00:02:08,737 --> 00:02:11,609
+♪ Se você tem orgulho, aumentar o seu Vs alto ♪
+
+47
+00:02:11,653 --> 00:02:13,481
+♪ Onda 'em grande, lado a lado ♪
+
+48
+00:02:13,524 --> 00:02:14,917
+♪ Sinta a vibe
+
+49
+00:02:14,960 --> 00:02:17,049
+♪ É bom ser mau
+
+50
+00:02:32,978 --> 00:02:35,067
+♪ Eu quero ver você todos os rep seu bloco ♪
+
+51
+00:02:35,111 --> 00:02:37,157
+♪ Eu quero ver você todos os rep o seu bloco, hey! ♪
+
+52
+00:02:37,200 --> 00:02:38,984
+♪ Mostrar seu orgulho, deixe-me ouvir te gritar ♪
+
+53
+00:02:39,028 --> 00:02:41,204
+♪ Somos da Ilha de Lost! ♪
+
+54
+00:02:41,248 --> 00:02:45,295
+♪ Estamos aqui para comemorar, estamos aqui para elevar ♪
+
+55
+00:02:45,339 --> 00:02:46,949
+♪ Se você estiver para baixo e, em seguida, fazer a sua jogada ♪
+
+56
+00:02:46,992 --> 00:02:49,256
+- ♪ Mas é melhor não hesite em
+- Carlos: Venha!
+
+57
+00:02:49,299 --> 00:02:51,519
+♪ Hoje é o dia em que você não se esqueça ♪
+
+58
+00:02:53,129 --> 00:02:55,566
+♪ O melhor para vir não aconteceu ainda ♪
+
+59
+00:02:57,568 --> 00:02:59,918
+♪ Tomar um arco, ele não será sua última ♪
+
+60
+00:03:01,442 --> 00:03:04,314
+♪ Você é a Ilha, se alguém perguntar ♪
+
+61
+00:03:04,358 --> 00:03:07,535
+♪ É bom ser mau, e nós somos a prova de que ♪
+
+62
+00:03:07,578 --> 00:03:09,667
+♪ Usado para ser perdido, agora estamos no mapa ♪
+
+63
+00:03:09,711 --> 00:03:11,669
+♪ Usado para roubar pilhas, agora estamos dando a volta ♪
+
+64
+00:03:11,713 --> 00:03:12,757
+♪ Lembre-se de que
+
+65
+00:03:12,801 --> 00:03:14,672
+♪ É bom ser mau!
+
+66
+00:03:14,716 --> 00:03:17,327
+♪ Se você tem orgulho, aumentar o seu Vs alto ♪
+
+67
+00:03:17,371 --> 00:03:19,329
+♪ Onda 'em grande, lado a lado ♪
+
+68
+00:03:19,373 --> 00:03:20,896
+♪ Sinta a vibe
+
+69
+00:03:20,939 --> 00:03:22,376
+♪ É bom ser mau!
+
+70
+00:03:22,419 --> 00:03:24,508
+♪ Eles podem tentar negar o nosso estilo ♪
+
+71
+00:03:24,552 --> 00:03:26,249
+♪ Mas estávamos born this way
+
+72
+00:03:26,293 --> 00:03:28,556
+♪ Porque você pode levar o VK fora da Ilha ♪
+
+73
+00:03:28,599 --> 00:03:30,253
+♪ Mas você não pode tirar Ilha fora VK ♪
+
+74
+00:03:30,297 --> 00:03:32,560
+♪ Se você quer fazer é hype, não é momento para resíduos ♪
+
+75
+00:03:32,603 --> 00:03:34,910
+♪ Torná-lo alto, fazê-lo viver, fazer saltar para o baixo ♪
+
+76
+00:03:34,953 --> 00:03:36,520
+♪ Fazer o que quiser, mas é melhor você fazer o seu caso ♪
+
+77
+00:03:36,564 --> 00:03:38,435
+♪ 'Causar a Ilha faz-nos, estamos executando este lugar ♪
+
+78
+00:03:38,479 --> 00:03:41,046
+♪ Quando eu digo V de você dizer K
+
+79
+00:03:41,090 --> 00:03:42,744
+♪ V! K! V! K!
+
+80
+00:03:42,787 --> 00:03:44,920
+♪ Quando eu digo tudo o que dizes dia ♪
+
+81
+00:03:44,963 --> 00:03:47,052
+♪ Todos! Dia! Tudo! Dia!
+
+82
+00:03:47,096 --> 00:03:49,054
+♪ Quando eu digo V de você dizer K ♪
+
+83
+00:03:49,098 --> 00:03:51,013
+♪ V! K! V! K!
+
+84
+00:03:51,056 --> 00:03:53,581
+♪ Quando eu digo tudo o que dizes dia ♪
+
+85
+00:03:53,624 --> 00:03:54,538
+♪ Todos os dias!
+
+86
+00:03:57,889 --> 00:03:59,151
+Venha!
+
+87
+00:04:02,416 --> 00:04:03,547
+Ha!
+
+88
+00:04:03,591 --> 00:04:05,723
+♪ É bom ser mau!
+
+89
+00:04:05,767 --> 00:04:07,725
+♪ Ah!
+
+90
+00:04:07,769 --> 00:04:09,727
+♪ Ah-ah
+
+91
+00:04:11,512 --> 00:04:14,602
+♪ É bom ser mau! E nós somos a prova de que ♪
+
+92
+00:04:14,645 --> 00:04:16,430
+♪ Usado para ser perdido, agora estamos no mapa ♪
+
+93
+00:04:16,473 --> 00:04:18,519
+♪ Usado para roubar pilhas, agora estamos dando a volta ♪
+
+94
+00:04:18,562 --> 00:04:19,607
+♪ Lembre-se de que
+
+95
+00:04:19,650 --> 00:04:21,522
+♪ É bom ser mau!
+
+96
+00:04:21,565 --> 00:04:24,394
+♪ Se você tem orgulho, aumentar o seu Vs alto ♪
+
+97
+00:04:24,438 --> 00:04:26,483
+♪ Onda 'em grande, lado a lado ♪
+
+98
+00:04:26,527 --> 00:04:27,789
+♪ Sinta a vibe
+
+99
+00:04:27,832 --> 00:04:31,445
+♪ É bom ser mau...
+
+100
+00:04:34,622 --> 00:04:36,580
+Quem quer ir? Você?
+
+101
+00:04:36,624 --> 00:04:39,061
+Sim, me escolhe, Mal, me escolhe!
+
+102
+00:05:00,343 --> 00:05:03,041
+Eu não posso acreditar que este dia finalmente chegou!
+
+103
+00:05:06,088 --> 00:05:08,656
+Eu sinceramente desejo que nós poderíamos levá-lo todo com a gente,
+
+104
+00:05:08,699 --> 00:05:12,877
+e um dia, muito em breve, talvez possamos.
+
+105
+00:05:12,921 --> 00:05:14,705
+Sim, nós vamos estar de volta aqui tantas vezes,
+
+106
+00:05:14,749 --> 00:05:16,141
+você vai ser tão doente de nós.
+
+107
+00:05:16,185 --> 00:05:17,229
+Tão doente de nós.
+
+108
+00:05:18,927 --> 00:05:20,624
+Podemos obter um tambores, por favor?
+
+109
+00:05:24,889 --> 00:05:27,675
+Primeiro, eu gostaria de começar
+
+110
+00:05:27,718 --> 00:05:29,677
+com a bisneta da Lady Tremaine,
+
+111
+00:05:29,720 --> 00:05:31,592
+filha de Drizella,
+
+112
+00:05:31,635 --> 00:05:33,681
+minha doce, doce amigo,
+
+113
+00:05:33,724 --> 00:05:34,682
+meu Tonto.
+
+114
+00:05:40,078 --> 00:05:43,517
+Ao lado, o filho da Smee.
+
+115
+00:05:43,560 --> 00:05:44,866
+Venha, Squeaky!
+
+116
+00:05:52,221 --> 00:05:53,962
+E nenhuma maneira que nós estamos dividindo os gêmeos,
+
+117
+00:05:54,005 --> 00:05:56,312
+para obter mais aqui, Irrequietas, venha!
+
+118
+00:06:01,622 --> 00:06:02,710
+Trazê-lo, amigo!
+
+119
+00:06:02,753 --> 00:06:05,582
+E por último, mas certamente não menos importante,
+
+120
+00:06:05,626 --> 00:06:07,715
+todos nós pegou essa menina porque estamos todos de acordo
+
+121
+00:06:07,758 --> 00:06:09,107
+que ela poderia usar um pouco
+
+122
+00:06:09,151 --> 00:06:11,153
+da Fada Madrinha da bondade de classe.
+
+123
+00:06:11,196 --> 00:06:14,678
+Dar em cima para o Dr. Facilier de sua filha, Célia!
+
+124
+00:06:14,722 --> 00:06:15,549
+Eu sou mau.
+
+125
+00:06:21,206 --> 00:06:23,078
+Nós vamos estar de volta para vocês na próxima semana, ok?
+
+126
+00:06:23,121 --> 00:06:25,646
+Sim, para embalar suas coisas, seu próprio material.
+
+127
+00:06:27,909 --> 00:06:29,998
+- Onde você está indo?!
+- Vamos--
+
+128
+00:06:30,041 --> 00:06:32,609
+Auradon!
+
+129
+00:06:57,155 --> 00:07:00,158
+Não é um tentáculo em vista.
+
+130
+00:07:01,725 --> 00:07:03,727
+Eu acho que se Uma foi a alguma coisa,
+
+131
+00:07:03,771 --> 00:07:04,772
+seria feito até agora.
+
+132
+00:07:04,815 --> 00:07:06,774
+Não, Ben, eu sei como vilões pensar,
+
+133
+00:07:06,817 --> 00:07:09,603
+e eu não confio em Uma tanto quanto eu possa jogá-la.
+
+134
+00:07:09,646 --> 00:07:11,213
+Ela vai esperar até que nossas defesas estão para baixo
+
+135
+00:07:11,256 --> 00:07:13,171
+e, em seguida, que é quando ela vai atacar.
+
+136
+00:07:13,215 --> 00:07:15,173
+Eu realmente desejo que eu tinha tempo para ir fazer um dragão viaduto,
+
+137
+00:07:15,217 --> 00:07:17,045
+porque eu posso ir muito mais alto.
+
+138
+00:07:17,088 --> 00:07:20,178
+Bem, você não pode estar em todos os lugares de uma só vez.
+
+139
+00:07:20,222 --> 00:07:21,789
+Além disso, eu tenho a sua volta.
+
+140
+00:07:24,661 --> 00:07:26,141
+Venha, todo o mundo está esperando por nós.
+
+141
+00:07:26,184 --> 00:07:28,230
+Esperar. Você está ficando mais guardas.
+
+142
+00:07:28,273 --> 00:07:30,624
+Eu estou ficando mais guardas. Agora, respire.
+
+143
+00:07:32,887 --> 00:07:34,976
+- Venha.
+- Tudo bem.
+
+144
+00:07:45,682 --> 00:07:48,032
+Aí vêm eles.
+
+145
+00:08:09,793 --> 00:08:10,838
+Oh, fique.
+
+146
+00:08:10,881 --> 00:08:12,796
+- Ficar aqui?
+- Sim.
+
+147
+00:08:17,845 --> 00:08:19,803
+Bippity-boppity, um-dois, um-dois,
+
+148
+00:08:19,847 --> 00:08:21,109
+todos podem ouvir-me?
+
+149
+00:08:21,152 --> 00:08:23,764
+Sim!
+
+150
+00:08:25,069 --> 00:08:26,418
+Ben.
+
+151
+00:08:26,462 --> 00:08:28,290
+Obrigado, Fada Madrinha.
+
+152
+00:08:31,293 --> 00:08:32,686
+Que é que há, Auradon?
+
+153
+00:08:35,863 --> 00:08:37,517
+Obrigado, muito obrigado
+
+154
+00:08:37,560 --> 00:08:39,910
+para sair de nossas boas-vindas aos recém-chegados.
+
+155
+00:08:39,954 --> 00:08:41,564
+Eles estarão aqui em breve.
+
+156
+00:08:41,608 --> 00:08:43,653
+Não gosta de nós tinha uma escolha.
+
+157
+00:08:45,742 --> 00:08:48,049
+Funcionou muito bem para os quatro primeiros.
+
+158
+00:08:48,092 --> 00:08:50,138
+Sim, especialmente para você.
+
+159
+00:08:50,181 --> 00:08:51,879
+Muito engraçado.
+
+160
+00:08:55,056 --> 00:08:57,754
+Mal, este é o ponto exato a gente se conheceu
+
+161
+00:08:57,798 --> 00:08:59,321
+não muito tempo atrás.
+
+162
+00:09:00,801 --> 00:09:02,846
+Eu sinto como se eu tivesse conhecido você a minha vida inteira.
+
+163
+00:09:04,544 --> 00:09:08,243
+Mas eu fiz menção de que eu estou no amor com você?
+
+164
+00:09:11,202 --> 00:09:13,683
+♪ Eu conheci essa garota que abalou o meu mundo ♪
+
+165
+00:09:13,727 --> 00:09:15,903
+♪ Como ela nunca foi abalada
+
+166
+00:09:15,946 --> 00:09:18,079
+♪ E agora eu estou vivendo só para ela ♪
+
+167
+00:09:18,122 --> 00:09:19,950
+♪ E eu não vou parar nunca
+
+168
+00:09:19,994 --> 00:09:22,562
+♪ Eu nunca pensei que isso poderia acontecer ♪
+
+169
+00:09:22,605 --> 00:09:24,172
+♪ Para um cara como eu
+
+170
+00:09:24,215 --> 00:09:28,742
+♪ Mas agora olhe o que você fez, você tem a mim ♪
+
+171
+00:09:28,785 --> 00:09:30,961
+♪ Para baixo em um joelho
+
+172
+00:09:35,923 --> 00:09:37,533
+Mal, é você e eu.
+
+173
+00:09:37,577 --> 00:09:40,754
+É eu e você para sempre.
+
+174
+00:09:40,797 --> 00:09:43,104
+Você vai casar comigo?
+
+175
+00:09:43,147 --> 00:09:45,062
+Você vai ser minha rainha?
+
+176
+00:09:45,106 --> 00:09:47,282
+Não!
+
+177
+00:09:47,325 --> 00:09:48,805
+Sim.
+
+178
+00:10:03,994 --> 00:10:06,562
+- Eu sinto muito.
+- Tudo bem.
+
+179
+00:10:14,178 --> 00:10:15,876
+Torna a nossa noite de filme parecer um pouco manso.
+
+180
+00:10:15,919 --> 00:10:17,007
+Eu amo yo--
+
+181
+00:10:18,443 --> 00:10:19,923
+Filmes.
+
+182
+00:10:19,967 --> 00:10:22,099
+- Eu, também.
+- Sim.
+
+183
+00:10:30,978 --> 00:10:33,981
+Uma vida de planos. Ido.
+
+184
+00:10:36,026 --> 00:10:39,551
+Nosso estatuto familiar desaparecido.
+
+185
+00:10:39,595 --> 00:10:41,989
+Audrey, que era suposto para ser a sua rainha,
+
+186
+00:10:42,032 --> 00:10:44,774
+e você deixá-lo escorregar por entre os dedos.
+
+187
+00:10:44,818 --> 00:10:47,951
+A tua mãe poderia segurar um príncipe em seu sono.
+
+188
+00:10:47,995 --> 00:10:50,954
+Você não acha que eu me sinto mal o suficiente já, Grammy?
+
+189
+00:10:50,998 --> 00:10:52,608
+Ben e Mal são os melhores!
+
+190
+00:10:52,652 --> 00:10:54,566
+Eu estou tão animado para o Mal, para ser a nossa rainha.
+
+191
+00:10:54,610 --> 00:10:57,221
+Você realmente, ao invés de ter uma TV no trono de mim?
+
+192
+00:10:58,309 --> 00:11:00,181
+O que há de errado com vocês?
+
+193
+00:11:04,620 --> 00:11:07,014
+O que há de errado com todo mundo?
+
+194
+00:11:07,971 --> 00:11:09,277
+Eu estou envolvido, homem!
+
+195
+00:11:10,104 --> 00:11:13,368
+- O que? Você sabia?
+- Tudo.
+
+196
+00:11:13,411 --> 00:11:15,936
+Você está indo rock que a coroa.
+
+197
+00:11:15,979 --> 00:11:17,981
+Ok, então eu só tenho feito cerca de mil esboços
+
+198
+00:11:18,025 --> 00:11:21,071
+de seu vestido de casamento, e... Belle já está planejado
+
+199
+00:11:21,115 --> 00:11:22,290
+uma festa de noivado na próxima semana!
+
+200
+00:11:22,333 --> 00:11:24,509
+É realmente uma coisa boa, eu disse que sim.
+
+201
+00:11:24,553 --> 00:11:28,035
+- Abraços! Olá!
+- Abraços. Olá!
+
+202
+00:11:28,078 --> 00:11:29,253
+Eu, finalmente, obter uma filha.
+
+203
+00:11:29,297 --> 00:11:31,038
+- Parabéns, Filho.
+- Obrigada, Pai.
+
+204
+00:11:31,081 --> 00:11:33,301
+- Eu amo você, Belle.
+- Ah, eu amo você.
+
+205
+00:11:33,344 --> 00:11:35,999
+Oh, querida.
+
+206
+00:11:36,043 --> 00:11:37,087
+Tão feliz por vocês dois.
+
+207
+00:11:37,131 --> 00:11:39,002
+Muito obrigado, Fada Madrinha.
+
+208
+00:11:39,046 --> 00:11:40,264
+Eu acho que ela gostou.
+
+209
+00:11:40,308 --> 00:11:43,093
+Bippity-boppity, é isso aí.
+
+210
+00:11:43,137 --> 00:11:45,095
+Todo o arco de Sua Real Majestade!
+
+211
+00:11:45,139 --> 00:11:47,968
+Oh, sim! Sua Real Purpleness!
+
+212
+00:11:48,011 --> 00:11:50,057
+Silêncio, você irritantes camponeses.
+
+213
+00:11:50,100 --> 00:11:51,885
+- Como quiser, meu lorde!
+- Seus Comportamentos Fora Do Normal.
+
+214
+00:11:54,017 --> 00:11:56,759
+Parabéns.
+
+215
+00:11:56,803 --> 00:11:58,326
+Você ganhou de forma justa.
+
+216
+00:12:00,154 --> 00:12:01,982
+Oh, espere, não, você não.
+
+217
+00:12:02,025 --> 00:12:04,245
+Escreveu Ben para destruir todos Auradon.
+
+218
+00:12:05,725 --> 00:12:07,814
+Tocando história para os netos.
+
+219
+00:12:08,728 --> 00:12:10,555
+Ok, vamos fazer isso.
+
+220
+00:12:11,818 --> 00:12:14,646
+Falando de crianças, temos algumas crianças esperando-nos,
+
+221
+00:12:14,690 --> 00:12:17,040
+então... se você vai me desculpar.
+
+222
+00:12:29,096 --> 00:12:31,925
+- Parabéns, Senhora Mal.
+- Obrigado.
+
+223
+00:12:31,968 --> 00:12:32,926
+Sua Majestade.
+
+224
+00:12:52,510 --> 00:12:54,686
+Tudo bem, meninos. Vamos pegar a estrada.
+
+225
+00:12:54,730 --> 00:12:56,558
+Você vai vê-lo em breve, ok? Venha.
+
+226
+00:12:58,603 --> 00:13:01,128
+- Você tem tudo?
+- Sim, eu tenho tudo.
+
+227
+00:13:01,171 --> 00:13:04,087
+- Tem certeza?
+- Eu tenho certeza, Vovó.
+
+228
+00:13:04,131 --> 00:13:06,568
+- Ah, sério?
+- A minha pistola de cola!
+
+229
+00:13:06,611 --> 00:13:08,962
+Eu não sei o que você vai fazer sem mim.
+
+230
+00:13:09,963 --> 00:13:11,529
+Eu vou sentir falta de você.
+
+231
+00:13:14,184 --> 00:13:15,403
+Vá, vá.
+
+232
+00:13:18,536 --> 00:13:20,103
+Adeus, Vovó.
+
+233
+00:13:24,238 --> 00:13:26,283
+Aqui, deixe-me tirar isso de você.
+
+234
+00:13:26,327 --> 00:13:28,633
+- Oh.
+- Tudo bem.
+
+235
+00:13:29,591 --> 00:13:32,115
+Vamos fazer... isso.
+
+236
+00:13:49,219 --> 00:13:50,960
+Por isso, assim que receber a Auradon,
+
+237
+00:13:51,004 --> 00:13:53,310
+- você tem que tentar de sorvete.
+- E ir nadar?!
+
+238
+00:13:53,354 --> 00:13:55,182
+Eu posso levá-lo para o Lago Encantado.
+
+239
+00:13:56,400 --> 00:13:58,141
+Eu não posso acreditar que eu começar a viver com você
+
+240
+00:13:58,185 --> 00:13:59,969
+em seu próprio castelo!
+
+241
+00:14:00,013 --> 00:14:02,102
+É apenas um pouco starter castelo.
+
+242
+00:14:02,145 --> 00:14:04,974
+Grande aderência. Você pratica esportes?
+
+243
+00:14:05,801 --> 00:14:06,846
+Aqui.
+
+244
+00:14:08,673 --> 00:14:10,066
+Ir em frente.
+
+245
+00:14:11,241 --> 00:14:12,025
+Confie em mim.
+
+246
+00:14:17,291 --> 00:14:18,988
+Eu sei.
+
+247
+00:14:19,032 --> 00:14:20,990
+Cavar, cavar.
+
+248
+00:14:30,086 --> 00:14:33,002
+Você vai ser um sábio e corajoso rei.
+
+249
+00:14:33,046 --> 00:14:35,004
+Ele já é.
+
+250
+00:14:35,048 --> 00:14:37,615
+Vê? As cartas nunca mentem.
+
+251
+00:14:39,139 --> 00:14:40,053
+Ah.
+
+252
+00:14:48,322 --> 00:14:51,107
+A única razão pela qual eles devem ser a abertura da barreira
+
+253
+00:14:51,151 --> 00:14:53,240
+é para colocar Uma volta em,
+
+254
+00:14:53,283 --> 00:14:55,024
+não deixar mais vilões para fora.
+
+255
+00:15:09,560 --> 00:15:11,475
+É Hades.
+
+256
+00:15:11,519 --> 00:15:13,260
+Parar o carro, ele está tentando escapar!
+
+257
+00:15:18,308 --> 00:15:20,223
+Eu sou um deus!
+
+258
+00:15:20,267 --> 00:15:23,270
+Eu não pertenço aqui!
+
+259
+00:15:54,562 --> 00:15:56,346
+Não entre em pânico!
+
+260
+00:15:56,390 --> 00:15:58,087
+- Tudo bem, ninguém precisa entrar em pânico.
+- É Mal!
+
+261
+00:16:00,089 --> 00:16:02,222
+Aí está o seu precioso rainha, ela não pode mesmo proteger-nos!
+
+262
+00:16:02,265 --> 00:16:05,181
+Ok, estamos em pânico, bippity-boppity correr!
+
+263
+00:16:11,971 --> 00:16:13,189
+Venha, Mal! Explodi-lo!
+
+264
+00:16:34,080 --> 00:16:35,690
+Tudo bem com vocês?
+
+265
+00:16:53,316 --> 00:16:55,927
+- Você está bem?
+- Não.
+
+266
+00:16:55,971 --> 00:16:57,842
+Ele estava drenando toda a minha magia com a brasa
+
+267
+00:16:57,886 --> 00:17:00,193
+e eu me senti... tudo do meu poder se esvaindo.
+
+268
+00:17:00,236 --> 00:17:03,370
+Você está segura. Ele está de volta de onde ele pertence.
+
+269
+00:17:08,027 --> 00:17:11,378
+Sim, por agora.
+
+270
+00:17:11,421 --> 00:17:14,468
+- Nós devemos ir.
+- Tudo bem.
+
+271
+00:17:22,824 --> 00:17:26,393
+Uma vida de planos de ido.
+
+272
+00:17:26,436 --> 00:17:28,351
+A tua mãe poderia segurar um príncipe
+
+273
+00:17:28,395 --> 00:17:30,353
+em seu sono.
+
+274
+00:17:40,320 --> 00:17:43,192
+Eu estou tão cansada de fingir.
+
+275
+00:17:43,236 --> 00:17:45,977
+Onde está o meu final feliz?
+
+276
+00:17:46,021 --> 00:17:47,370
+♪ Eu segui todas as regras
+
+277
+00:17:47,414 --> 00:17:48,806
+♪ Eu tirei dentro da linhas
+
+278
+00:17:48,850 --> 00:17:51,157
+♪ Eu nunca pediu qualquer coisa que não era meu ♪
+
+279
+00:17:51,200 --> 00:17:52,767
+♪ Eu esperei pacientemente a minha vez ♪
+
+280
+00:17:52,810 --> 00:17:56,162
+♪ Mas quando ele finalmente chegou, ele chamou o seu nome ♪
+
+281
+00:17:56,205 --> 00:17:58,294
+♪ E agora eu sinto essa dor esmagadora ♪
+
+282
+00:17:58,338 --> 00:18:00,905
+♪ Eu quero dizer, é em minhas veias, eu quero dizer, é no meu cérebro ♪
+
+283
+00:18:00,949 --> 00:18:03,647
+♪ Meus pensamentos estão em execução em um círculo como um brinquedo de trem ♪
+
+284
+00:18:03,691 --> 00:18:06,346
+♪ Eu sou meio que como uma imagem perfeita com um partido de quadros ♪
+
+285
+00:18:06,389 --> 00:18:09,175
+♪ Eu sei exatamente quem culpar
+
+286
+00:18:09,218 --> 00:18:12,178
+♪ Eu nunca pensei em mim como dizer ♪
+
+287
+00:18:14,528 --> 00:18:18,227
+♪ Eu sempre achei que eu seria a rainha ♪
+
+288
+00:18:18,271 --> 00:18:20,273
+♪ E não há entre
+
+289
+00:18:20,316 --> 00:18:21,926
+♪ Porque se eu não posso ter o que
+
+290
+00:18:21,970 --> 00:18:25,060
+♪ Então eu vou ser o líder do escuro e a má ♪
+
+291
+00:18:25,104 --> 00:18:26,670
+♪ Agora, há um demônio no meu ombro ♪
+
+292
+00:18:26,714 --> 00:18:28,629
+♪ Onde os anjos costumava ser
+
+293
+00:18:28,672 --> 00:18:31,240
+♪ E ele me chamando de rainha ♪
+
+294
+00:18:52,348 --> 00:18:54,829
+♪ Sendo bom era o meu passatempo
+
+295
+00:18:54,872 --> 00:18:57,484
+♪ Mas eu tenho sido ferido pela última vez ♪
+
+296
+00:18:57,527 --> 00:19:00,487
+♪ E eu não vou nunca deixar outra pessoa tirar vantagem de mim ♪
+
+297
+00:19:00,530 --> 00:19:03,142
+♪ A ira queima minha pele, terceiro grau ♪
+
+298
+00:19:03,185 --> 00:19:05,883
+♪ Agora meu sangue ferver mais quente do que o fogo do mar ♪
+
+299
+00:19:05,927 --> 00:19:07,842
+♪ Não há ninguém chegar perto de mim ♪
+
+300
+00:19:07,885 --> 00:19:09,844
+♪ Eles vão curvar-se para a rainha má ♪
+
+301
+00:19:09,887 --> 00:19:11,411
+♪ O seu pesadelo é meu sonho
+
+302
+00:19:11,454 --> 00:19:14,196
+♪ É só esperar até que eles caiam para o meu planos perversos ♪
+
+303
+00:19:15,328 --> 00:19:18,287
+♪ Eu nunca pensei em mim como dizer ♪
+
+304
+00:19:20,898 --> 00:19:24,075
+♪ Eu sempre achei que eu seria a rainha ♪
+
+305
+00:19:24,119 --> 00:19:26,382
+♪ E não há entre
+
+306
+00:19:26,426 --> 00:19:28,123
+♪ Porque se eu não posso ter o que
+
+307
+00:19:28,167 --> 00:19:31,257
+♪ Então eu vou ser o líder do escuro e a má ♪
+
+308
+00:19:31,300 --> 00:19:32,910
+♪ Agora, há um demônio no meu ombro ♪
+
+309
+00:19:32,954 --> 00:19:34,869
+♪ Onde os anjos costumava ser
+
+310
+00:19:34,912 --> 00:19:38,307
+♪ E ele me chamando de rainha de dizer ♪
+
+311
+00:19:38,351 --> 00:19:40,657
+♪ A rainha da média
+
+312
+00:19:40,701 --> 00:19:43,094
+♪ Me chamando, me chamando
+
+313
+00:19:43,138 --> 00:19:47,360
+♪ A rainha da média
+
+314
+00:19:47,403 --> 00:19:50,232
+♪ Algo está me puxando, é tão magnético ♪
+
+315
+00:19:50,276 --> 00:19:53,017
+♪ O meu corpo está se movendo, não sabe onde eu estou indo ♪
+
+316
+00:19:53,061 --> 00:19:55,542
+♪ Todos os meus sentidos têm me deixado indefeso ♪
+
+317
+00:19:55,585 --> 00:19:58,545
+♪ Essa escuridão em volta de mim está prometendo vingança ♪
+
+318
+00:19:58,588 --> 00:20:01,200
+♪ O preço que estou disposto a pagar caro ♪
+
+319
+00:20:01,243 --> 00:20:02,418
+♪ Não há nada a perder
+
+320
+00:20:02,462 --> 00:20:03,941
+♪ Quando você está sozinho e sem amigos ♪
+
+321
+00:20:03,985 --> 00:20:06,596
+♪ Então, meu único interesse é mostrar esta princesa ♪
+
+322
+00:20:06,640 --> 00:20:11,427
+♪ Que eu sou a rainha e o meu reino será sem fim! ♪
+
+323
+00:20:11,471 --> 00:20:14,169
+♪ Eu quero o que eu mereço!
+
+324
+00:20:14,213 --> 00:20:16,737
+♪ Eu quero dominar o mundo!
+
+325
+00:20:16,780 --> 00:20:20,436
+♪ Sentar e assistir e aprender ♪
+
+326
+00:20:20,480 --> 00:20:24,527
+♪ Finalmente chegou a minha vez
+
+327
+00:20:24,571 --> 00:20:27,269
+♪ Se eles querem um vilão para uma rainha ♪
+
+328
+00:20:29,663 --> 00:20:33,232
+♪ Eu vou ser como eles nunca viram ♪
+
+329
+00:20:33,275 --> 00:20:35,538
+♪ Eu vou mostrar-lhes o que significa
+
+330
+00:20:35,582 --> 00:20:37,061
+♪ Agora que eu sou o que
+
+331
+00:20:37,105 --> 00:20:40,021
+♪ Eu for o senhor do escuro e a má ♪
+
+332
+00:20:40,064 --> 00:20:41,718
+♪ Porque o diabo no meu ombro ♪
+
+333
+00:20:41,762 --> 00:20:43,720
+♪ Onde os anjos costumava ser
+
+334
+00:20:43,764 --> 00:20:46,636
+♪ E ele me chamando de rainha de dizer ♪
+
+335
+00:20:46,680 --> 00:20:48,377
+♪ Me chamando, me chamando
+
+336
+00:20:50,118 --> 00:20:52,729
+♪ A rainha da média
+
+337
+00:20:52,773 --> 00:20:54,427
+♪ Me chamando, me chamando
+
+338
+00:20:55,428 --> 00:20:57,821
+♪ Eu quero o que eu mereço!
+
+339
+00:21:03,087 --> 00:21:05,568
+Eu acho que todos nós sabemos o porquê de estarmos aqui.
+
+340
+00:21:07,440 --> 00:21:09,529
+As pessoas estão em pânico sobre o Inferno.
+
+341
+00:21:09,572 --> 00:21:11,270
+Ele quase ficou de fora.
+
+342
+00:21:11,313 --> 00:21:13,054
+Quem sabe o que ele teria feito se ele tivesse escapado.
+
+343
+00:21:13,097 --> 00:21:16,449
+Não podemos risco de ter outro vilão à solta.
+
+344
+00:21:16,492 --> 00:21:18,407
+Eu realmente sinto que esta é minha culpa.
+
+345
+00:21:19,800 --> 00:21:21,497
+Eu deveria proteger Auradon.
+
+346
+00:21:21,541 --> 00:21:23,586
+O que você fez. Você proteger Auradon.
+
+347
+00:21:23,630 --> 00:21:25,806
+Cada vez que abrir a barreira,
+
+348
+00:21:25,849 --> 00:21:27,764
+estamos expostos ao perigo.
+
+349
+00:21:27,808 --> 00:21:31,638
+Malévola, Uma, Hades.
+
+350
+00:21:40,299 --> 00:21:41,996
+Malévola é o cetro e a coroa de rainha
+
+351
+00:21:42,039 --> 00:21:44,215
+- ter sido roubado.
+- Fada Madrinha:
+
+352
+00:21:44,259 --> 00:21:46,087
+- Uma.
+- Nós não sabemos o que é, Pai.
+
+353
+00:21:46,130 --> 00:21:47,654
+Quando o povo ouviu isso,
+
+354
+00:21:47,697 --> 00:21:50,134
+eles nunca quero deixar suas casas.
+
+355
+00:21:50,178 --> 00:21:52,136
+O que podemos nós dizer-lhes?
+
+356
+00:21:53,834 --> 00:21:57,446
+Mal... o que fazemos?
+
+357
+00:21:57,490 --> 00:21:59,666
+Como podemos manter o mal do Auradon?
+
+358
+00:22:04,366 --> 00:22:07,108
+Eu acho que há apenas...
+
+359
+00:22:07,151 --> 00:22:10,154
+uma maneira de garantir a sua segurança.
+
+360
+00:22:12,156 --> 00:22:15,638
+E eu acho que há...
+
+361
+00:22:18,075 --> 00:22:20,948
+não pode ser mais a entrar e a sair.
+
+362
+00:22:23,124 --> 00:22:27,911
+Eu acho que nós temos que fechar a barreira... para sempre.
+
+363
+00:22:32,655 --> 00:22:34,396
+- Não.
+- Filho.
+
+364
+00:22:34,440 --> 00:22:35,832
+- Não.
+- Ben.
+
+365
+00:22:35,876 --> 00:22:38,139
+- Não, não, não.
+- Ben.
+
+366
+00:22:38,182 --> 00:22:40,054
+Olá.
+
+367
+00:22:40,097 --> 00:22:44,058
+Eu não quero tirar o seu sonho,
+
+368
+00:22:44,101 --> 00:22:46,843
+porque ele era tão lindo,
+
+369
+00:22:46,887 --> 00:22:49,803
+e é por isso que eu caí no amor com você.
+
+370
+00:22:51,587 --> 00:22:56,636
+Mas, como rei e rainha, que é o nosso dever?
+
+371
+00:22:58,246 --> 00:22:59,769
+Para proteger Auradon.
+
+372
+00:23:01,902 --> 00:23:04,861
+Mas você sabe o que isso significa?
+
+373
+00:23:04,905 --> 00:23:06,776
+Todas aquelas crianças.
+
+374
+00:23:08,822 --> 00:23:10,911
+Você está preparado para isso?
+
+375
+00:23:10,954 --> 00:23:13,392
+Eu sei o que significa.
+
+376
+00:23:13,435 --> 00:23:17,526
+E, não, eu não estou preparado para isso.
+
+377
+00:23:18,962 --> 00:23:22,226
+Eu só acho que não temos outra escolha.
+
+378
+00:23:26,013 --> 00:23:27,057
+Filho.
+
+379
+00:23:29,059 --> 00:23:30,974
+Mal direita.
+
+380
+00:23:31,018 --> 00:23:32,802
+Eu só não acho que teríamos de nos perdoar
+
+381
+00:23:32,846 --> 00:23:34,021
+se algo terrível aconteceu.
+
+382
+00:23:42,029 --> 00:23:44,118
+Quem mais sabe sobre a coroa e o cetro?
+
+383
+00:23:44,161 --> 00:23:46,990
+Ninguém. Quero dizer, pense nisso,
+
+384
+00:23:47,034 --> 00:23:48,731
+as pessoas estão com medo o suficiente como é.
+
+385
+00:23:48,775 --> 00:23:51,342
+Temos de empregar estes inteiramente novas medidas de segurança.
+
+386
+00:23:51,386 --> 00:23:53,562
+Isso vai atrasar nossa trazendo mais VKs?
+
+387
+00:23:53,606 --> 00:23:55,782
+Estamos falando de fechar a barreira para o bem.
+
+388
+00:23:55,825 --> 00:23:57,044
+Mas você disse que não.
+
+389
+00:23:59,307 --> 00:24:01,135
+Quero dizer, os quatro de nós estão vivendo o sonho aqui,
+
+390
+00:24:01,178 --> 00:24:03,137
+e, finalmente, começar a compartilhar isso.
+
+391
+00:24:03,180 --> 00:24:05,008
+Quero dizer, o que poderia ser mais importante do que isso?
+
+392
+00:24:05,052 --> 00:24:08,185
+Sim. Eu sei.
+
+393
+00:24:11,972 --> 00:24:13,756
+Quero dizer, talvez de segurança.
+
+394
+00:24:13,800 --> 00:24:16,629
+Ou talvez a paz de espírito para todos em Auradon.
+
+395
+00:24:16,672 --> 00:24:19,153
+É que o que eles estão pensando?
+
+396
+00:24:19,196 --> 00:24:21,285
+M, eles estavam pensando seriamente que ninguém nunca vai
+
+397
+00:24:21,329 --> 00:24:24,201
+entrar e sair da Ilha, nunca mais?
+
+398
+00:24:24,245 --> 00:24:28,162
+O que, nós nunca chegou a ir para trás e ver o nossos pais?
+
+399
+00:24:28,205 --> 00:24:30,077
+E o que acontece com essas crianças?
+
+400
+00:24:30,120 --> 00:24:31,948
+Nós prometemos que eles podiam voltar a visitar
+
+401
+00:24:31,992 --> 00:24:33,689
+sempre que eles queriam.
+
+402
+00:24:33,733 --> 00:24:35,212
+Sim, eu sei.
+
+403
+00:24:35,256 --> 00:24:37,650
+M, eu estou tão feliz que você está indo para ser rainha.
+
+404
+00:24:37,693 --> 00:24:39,086
+Você vai ser uma parte dessas conversas,
+
+405
+00:24:39,129 --> 00:24:42,829
+você irá levantar-se para a VKs.
+
+406
+00:24:42,872 --> 00:24:44,657
+Obrigado por me dizer.
+
+407
+00:24:49,444 --> 00:24:51,272
+E você vai ser uma grande rainha.
+
+408
+00:24:54,231 --> 00:24:56,669
+Wooh. De manhã. Tenho as toalhas de praia.
+
+409
+00:24:56,712 --> 00:24:59,541
+Estes. Eu realmente acho que ela vai gostar de bolo, vocês.
+
+410
+00:24:59,585 --> 00:25:01,978
+- Ah, sim?
+- Ah, não.
+
+411
+00:25:02,022 --> 00:25:05,678
+Ok, que ficou em Jane bolo?!
+
+412
+00:25:10,552 --> 00:25:12,032
+Deliciosa.
+
+413
+00:25:12,075 --> 00:25:14,251
+Eu particularmente amo a falta de sujeira.
+
+414
+00:25:16,863 --> 00:25:18,517
+E a falta de moscas.
+
+415
+00:25:23,826 --> 00:25:27,526
+- Quer um pouco?
+- Oh. Obrigado.
+
+416
+00:25:37,840 --> 00:25:40,887
+Eu estava esperando que você estivesse em casa.
+
+417
+00:25:40,930 --> 00:25:44,325
+Isso é uma piada?
+
+418
+00:25:44,368 --> 00:25:46,457
+O que você está fazendo com a coroa e o cetro?
+
+419
+00:25:46,501 --> 00:25:49,722
+Bem, eu queria, então eu peguei-los.
+
+420
+00:25:49,765 --> 00:25:52,289
+Todas as pessoas devem entender que, Mal.
+
+421
+00:25:53,377 --> 00:25:57,556
+Aguarde! Audrey, pare! Não use-o.
+
+422
+00:25:57,599 --> 00:26:00,559
+Eu pensei que você gostava de feitiços.
+
+423
+00:26:03,126 --> 00:26:05,868
+- Bem, Audrey--
+- Calma!
+
+424
+00:26:05,912 --> 00:26:07,870
+Não é um brinquedo, é perigoso!
+
+425
+00:26:07,914 --> 00:26:09,437
+Eu quero ser perigoso!
+
+426
+00:26:10,786 --> 00:26:13,093
+Minha vida era perfeita até que você roubou.
+
+427
+00:26:14,137 --> 00:26:16,531
+E, em seguida, Auradon virou as costas para mim.
+
+428
+00:26:20,143 --> 00:26:21,710
+É hora de um pouco retorno.
+
+429
+00:26:21,754 --> 00:26:22,972
+Audrey, wait!
+
+430
+00:26:34,027 --> 00:26:37,552
+Você acha que Ben vai adorar você agora, velha bruxa?
+
+431
+00:26:37,596 --> 00:26:39,206
+Você vai pagar o preço pelo que você fez,
+
+432
+00:26:39,249 --> 00:26:40,424
+assim, todos os Auradon!
+
+433
+00:26:42,252 --> 00:26:43,950
+Tanto tempo, otários.
+
+434
+00:26:48,868 --> 00:26:50,913
+Uh, você pode querer pensar em um feitiço para isso.
+
+435
+00:26:50,957 --> 00:26:52,959
+Não há mágica que possa reverter
+
+436
+00:26:53,002 --> 00:26:54,830
+a maldição do cetro.
+
+437
+00:26:54,874 --> 00:26:55,962
+Bem, isso é uma vergonha.
+
+438
+00:26:56,005 --> 00:26:57,485
+Esquecer-se sobre mim.
+
+439
+00:26:57,528 --> 00:27:01,358
+Audrey está fora de vingança, e todos Auradon está em perigo.
+
+440
+00:27:01,402 --> 00:27:02,925
+O que devemos fazer?
+
+441
+00:27:02,969 --> 00:27:06,015
+A única coisa mais poderosa do que o cetro...
+
+442
+00:27:06,059 --> 00:27:07,147
+é Hades' brasa.
+
+443
+00:27:07,190 --> 00:27:09,105
+Oh, como ele só vai entregá-la
+
+444
+00:27:09,149 --> 00:27:10,716
+se você soprou-lo de volta para a Ilha.
+
+445
+00:27:10,759 --> 00:27:12,282
+Ninguém sabe de onde seu covil é.
+
+446
+00:27:12,326 --> 00:27:15,024
+Eu faço, eu sou seu serviço de ratos. Eu tenho a chave do meu pai.
+
+447
+00:27:15,068 --> 00:27:18,158
+- Você está vindo.
+- Mas eu só tenho aqui.
+
+448
+00:27:18,201 --> 00:27:20,116
+O Mal?
+
+449
+00:27:22,249 --> 00:27:24,033
+Tonturas, ficar aqui para cuidar dos gêmeos,
+
+450
+00:27:24,077 --> 00:27:25,905
+nós vamos estar de volta e tudo ficará bem.
+
+451
+00:27:25,948 --> 00:27:26,775
+Vá para dentro.
+
+452
+00:27:26,819 --> 00:27:27,907
+Caras, vá buscar suas coisas.
+
+453
+00:27:27,950 --> 00:27:29,865
+Vamos, rapazes, vamos lá.
+
+454
+00:27:29,909 --> 00:27:31,214
+Como é que é ruim?
+
+455
+00:27:34,174 --> 00:27:37,133
+Você era... lindamente.
+
+456
+00:27:37,177 --> 00:27:39,614
+Agora, vamos entrar em algo fabuloso.
+
+457
+00:27:39,658 --> 00:27:41,007
+- Tudo bem.
+- Venha.
+
+458
+00:27:45,838 --> 00:27:47,796
+Tudo bem.
+
+459
+00:27:47,840 --> 00:27:50,059
+- Ah, sim. Lá vamos nós.
+- Tudo bem.
+
+460
+00:27:50,103 --> 00:27:51,234
+Quase lá.
+
+461
+00:28:05,292 --> 00:28:08,164
+Montaria nobre, altivo e justo,
+
+462
+00:28:08,208 --> 00:28:11,037
+você deve nos levar a lugar nenhum.
+
+463
+00:28:20,002 --> 00:28:23,005
+Carlos! You're gonna miss Jane aniversário!
+
+464
+00:28:40,849 --> 00:28:42,111
+Ah.
+
+465
+00:28:42,155 --> 00:28:45,071
+Parece que Carlos esqueceu-se do seu aniversário, hein?
+
+466
+00:28:45,114 --> 00:28:47,029
+Bem, talvez não, talvez ele só teve
+
+467
+00:28:47,073 --> 00:28:48,030
+a trilha errada ou algo assim.
+
+468
+00:28:48,074 --> 00:28:49,771
+Ou, você sabe o que?
+
+469
+00:28:49,815 --> 00:28:51,033
+Eles provavelmente não comemorar aniversários na Ilha,
+
+470
+00:28:51,077 --> 00:28:52,905
+talvez seja como uma coisa cultural.
+
+471
+00:28:52,948 --> 00:28:54,167
+Oh. Sim.
+
+472
+00:28:55,211 --> 00:28:57,518
+Ou talvez ele só esqueceu. Você nunca sabe.
+
+473
+00:28:57,561 --> 00:28:59,999
+Ei, Chade, olha! Há pessoas a tomar selfies.
+
+474
+00:29:00,042 --> 00:29:02,436
+Selfies! Caras! Aguarde, aguarde, aguarde, aguarde!
+
+475
+00:29:02,479 --> 00:29:03,872
+Espere por mim! Espere por mim!
+
+476
+00:29:05,918 --> 00:29:06,919
+Por que ela está aqui?
+
+477
+00:29:06,962 --> 00:29:09,748
+Ninguém me salvar qualquer guacamole?
+
+478
+00:29:10,792 --> 00:29:11,880
+Não?
+
+479
+00:29:12,838 --> 00:29:14,970
+Parece que alguém se esqueceu de me convidar.
+
+480
+00:29:15,623 --> 00:29:18,974
+Bem, não fique esperando o Mal, ela é, uh...
+
+481
+00:29:21,107 --> 00:29:22,630
+se não se sentir sozinha.
+
+482
+00:29:24,153 --> 00:29:26,895
+Isso faz de você triste?
+
+483
+00:29:26,939 --> 00:29:29,071
+Aw, não é apenas a arruinar tudo?
+
+484
+00:29:29,115 --> 00:29:30,899
+Mindless pouco drones!
+
+485
+00:29:32,118 --> 00:29:33,772
+Como você pôde esquecer o que ela fez para nós?
+
+486
+00:29:33,815 --> 00:29:36,035
+Como você pôde esquecer de que eu era suposto para ser a sua rainha?!
+
+487
+00:29:36,078 --> 00:29:38,907
+O tempo limite! Ok, o tempo limite.
+
+488
+00:29:38,951 --> 00:29:42,781
+Primeiro, grande olhar novo. Eu absolutamente amo as penas.
+
+489
+00:29:42,824 --> 00:29:44,739
+Mas antes de você fazer tudo o que você vai fazer,
+
+490
+00:29:44,783 --> 00:29:47,002
+Eu estava imaginando se, talvez, você quisesse um, uh,
+
+491
+00:29:47,046 --> 00:29:48,917
+royal namorado ao seu lado. Hein?
+
+492
+00:29:48,961 --> 00:29:52,878
+Parceiro no crime? Sidekick?
+
+493
+00:29:52,921 --> 00:29:55,881
+Ou talvez apenas um lacaio para, uh, fazer o seu lance.
+
+494
+00:29:55,924 --> 00:29:58,144
+Mudança de pneus? Smoothie é executado? Hein?
+
+495
+00:30:00,059 --> 00:30:01,103
+Por favor.
+
+496
+00:30:01,147 --> 00:30:02,844
+- Você pode ser útil.
+- Sim?
+
+497
+00:30:02,888 --> 00:30:05,151
+- Bem, de pé atrás de mim.
+- Tudo bem.
+
+498
+00:30:05,194 --> 00:30:06,979
+Se Auradon gosta de esquecer tanto,
+
+499
+00:30:07,022 --> 00:30:09,938
+eles vão adorar este.
+
+500
+00:30:09,982 --> 00:30:14,813
+♪ Feliz aniversário para você
+
+501
+00:30:16,205 --> 00:30:21,820
+♪ Feliz aniversário para você
+
+502
+00:30:23,038 --> 00:30:29,044
+♪ Feliz aniversário para Jane
+
+503
+00:30:31,264 --> 00:30:37,096
+♪ Feliz aniversário para...
+
+504
+00:30:37,139 --> 00:30:39,141
+♪ Você
+
+505
+00:30:40,055 --> 00:30:42,014
+O Lago Encantado.
+
+506
+00:30:45,974 --> 00:30:47,019
+Audrey?
+
+507
+00:30:49,935 --> 00:30:52,024
+Doces sonhos.
+
+508
+00:31:14,220 --> 00:31:15,612
+Ei, Jane,
+
+509
+00:31:15,656 --> 00:31:18,050
+Eu estou no meu caminho para o partido, as reuniões correu muito tempo.
+
+510
+00:31:18,093 --> 00:31:19,355
+Não, não, fique onde você está, Ben.
+
+511
+00:31:19,399 --> 00:31:21,357
+Audrey roubou o cetro, e todos estão dormindo.
+
+512
+00:31:21,401 --> 00:31:24,360
+Eu vou ligar para minha Mãe e diga a ela para pegar sua varinha.
+
+513
+00:31:24,404 --> 00:31:26,580
+Está de Mal com você?
+
+514
+00:31:26,623 --> 00:31:29,061
+Jane! Jane?
+
+515
+00:31:51,300 --> 00:31:54,260
+Hey! Eu estou-me novamente.
+
+516
+00:31:54,303 --> 00:31:56,697
+Duh! Mal magia não funciona aqui.
+
+517
+00:31:56,740 --> 00:31:58,264
+Uma espécie de ponto.
+
+518
+00:31:58,307 --> 00:32:02,094
+- Oof, bem-vindo de volta.
+- Obrigado.
+
+519
+00:32:28,120 --> 00:32:29,643
+- Ei!
+- Papai!
+
+520
+00:32:29,686 --> 00:32:32,080
+Lá está ela! Ha!
+
+521
+00:32:32,124 --> 00:32:33,473
+Venha!
+
+522
+00:32:33,516 --> 00:32:35,301
+E ooh. E ooh.
+
+523
+00:32:35,344 --> 00:32:37,520
+Caraca! Ooh.
+
+524
+00:32:37,564 --> 00:32:38,869
+Hey!
+
+525
+00:32:38,913 --> 00:32:40,959
+Venha aqui, pouco safado.
+
+526
+00:32:41,002 --> 00:32:43,135
+Ah...
+
+527
+00:32:43,178 --> 00:32:45,920
+Então, que tipo de confusão que você tem de ir no
+
+528
+00:32:45,964 --> 00:32:47,661
+com eles brilhante pessoas?
+
+529
+00:32:47,704 --> 00:32:50,272
+Sem pressa. Eu tenho amigos do outro lado.
+
+530
+00:32:50,316 --> 00:32:53,536
+Ah, eu ouço, eu ouço você.
+
+531
+00:32:54,973 --> 00:32:56,670
+Estamos em uma missão.
+
+532
+00:32:56,713 --> 00:32:59,064
+Eu sou o tipo de um grande jogador, então...
+
+533
+00:32:59,107 --> 00:33:01,327
+é por isso que eu não posso ficar muito tempo.
+
+534
+00:33:01,370 --> 00:33:03,982
+Você certifique-se de que você obter o seu corte.
+
+535
+00:33:11,859 --> 00:33:14,775
+Alertas de o feitiço de dormir manter nos próximos como ele se espalha
+
+536
+00:33:14,818 --> 00:33:15,994
+todo Auradon.
+
+537
+00:33:16,037 --> 00:33:18,126
+Uh, caras? Venha ver isso.
+
+538
+00:33:18,170 --> 00:33:20,389
+Há rumores de que a bela adormecida de sua filha,
+
+539
+00:33:20,433 --> 00:33:22,130
+Audrey está atrás do feitiço.
+
+540
+00:33:22,174 --> 00:33:23,740
+Estamos tentando descobrir quem é o responsável
+
+541
+00:33:23,784 --> 00:33:25,307
+para estes vicioso de mentiras
+
+542
+00:33:25,351 --> 00:33:28,049
+e que vilão tem perpetrado este mal.
+
+543
+00:33:28,093 --> 00:33:30,182
+Temos uma atualização. É o que?
+
+544
+00:33:30,225 --> 00:33:31,792
+Ele está se movendo desta forma?
+
+545
+00:33:31,835 --> 00:33:33,141
+É mover-se desta maneira!
+
+546
+00:33:35,274 --> 00:33:36,536
+Caraca, o estreante erro?
+
+547
+00:33:36,579 --> 00:33:39,278
+Muito tempo nae ver!
+
+548
+00:33:39,321 --> 00:33:40,627
+Desça a minha moto, Gancho!
+
+549
+00:33:40,670 --> 00:33:45,197
+Catch me if you can, Jay!
+
+550
+00:33:45,240 --> 00:33:47,199
+- Sobre os telhados! Corte 'em off.
+- Sim.
+
+551
+00:33:47,242 --> 00:33:49,984
+Hey, Hey, Hey, você não. Eles ficaram.
+
+552
+00:33:50,028 --> 00:33:51,507
+Você e eu tenho que ir encontrar a brasa.
+
+553
+00:33:51,551 --> 00:33:53,596
+Tempo bom, ele está certo sobre sua a hora de dormir.
+
+554
+00:33:56,599 --> 00:33:58,601
+Ah!
+
+555
+00:34:08,655 --> 00:34:10,265
+Olá.
+
+556
+00:34:11,440 --> 00:34:13,355
+Quão grande é esse cachorro?
+
+557
+00:34:16,054 --> 00:34:17,098
+Você vai ver.
+
+558
+00:34:24,932 --> 00:34:28,588
+Tudo bem, fique tranquila, que ecoa como um louco aqui.
+
+559
+00:34:41,079 --> 00:34:42,863
+Venha. Venha.
+
+560
+00:36:33,365 --> 00:36:35,410
+O que você está fazendo aqui?
+
+561
+00:36:38,587 --> 00:36:42,548
+Notei que você baixa na lata de milho.
+
+562
+00:36:56,605 --> 00:36:58,390
+Oi, Pai.
+
+563
+00:37:05,048 --> 00:37:08,443
+Um show que você colocar no outro dia.
+
+564
+00:37:08,487 --> 00:37:10,140
+Bem atrás de você.
+
+565
+00:37:10,184 --> 00:37:11,794
+Hmm.
+
+566
+00:37:11,838 --> 00:37:15,189
+Eu estava vindo para ver você.
+
+567
+00:37:15,233 --> 00:37:18,366
+Realmente? Me pergunto por quê.
+
+568
+00:37:18,410 --> 00:37:19,802
+É porque eu vou ser a rainha?
+
+569
+00:37:19,846 --> 00:37:24,067
+Agora, o Mal, não seja amargo.
+
+570
+00:37:25,591 --> 00:37:28,028
+Você me abandonou quando eu era um bebê.
+
+571
+00:37:28,071 --> 00:37:31,423
+Não. Não, eu deixei de sua mãe.
+
+572
+00:37:32,424 --> 00:37:34,643
+Ela é--
+
+573
+00:37:34,687 --> 00:37:37,559
+ela não é a pessoa mais fácil de conviver.
+
+574
+00:37:37,603 --> 00:37:39,953
+- Você acha?
+- Oh. Vê?
+
+575
+00:37:39,996 --> 00:37:41,868
+Temos algo em comum já.
+
+576
+00:37:41,911 --> 00:37:43,261
+Nós tanto ódio de sua mãe.
+
+577
+00:37:43,304 --> 00:37:47,526
+Não. Eu não odeio a minha mãe.
+
+578
+00:37:47,569 --> 00:37:51,051
+Ela pode ser um mal lunático, mas pelo menos ela preso ao redor.
+
+579
+00:37:51,094 --> 00:37:54,010
+Aww. A Boo-hoo.
+
+580
+00:37:54,054 --> 00:37:56,578
+Acordar e cheirar o fedor.
+
+581
+00:37:56,622 --> 00:37:58,493
+Você acha que você teve isso difícil?
+
+582
+00:37:58,537 --> 00:38:01,017
+Eu costumava ser um deus!
+
+583
+00:38:01,061 --> 00:38:04,412
+Eu tinha um mundo inteiro que tinha o meu nome,
+
+584
+00:38:04,456 --> 00:38:07,633
+e agora eu não tenho nada!
+
+585
+00:38:07,676 --> 00:38:09,548
+Você não tem idéia do que é.
+
+586
+00:38:09,591 --> 00:38:10,984
+Realmente?!
+
+587
+00:38:11,027 --> 00:38:14,553
+Porque para 16 anos, eu não tinha nada!
+
+588
+00:38:15,858 --> 00:38:19,645
+E agora, eu tenho um mundo inteiro.
+
+589
+00:38:19,688 --> 00:38:23,170
+Mas a menos que eu recebo que o ember, é game over.
+
+590
+00:38:29,829 --> 00:38:31,309
+Mantenha, por favor.
+
+591
+00:38:37,967 --> 00:38:39,708
+♪ Ouvir, menina
+
+592
+00:38:39,752 --> 00:38:41,449
+♪ Você está falando com um deus
+
+593
+00:38:41,493 --> 00:38:45,148
+♪ E eu não quero ouvir o drama ♪
+
+594
+00:38:45,192 --> 00:38:46,585
+♪ Bondade não é a minha marca
+
+595
+00:38:46,628 --> 00:38:48,500
+Ah, eu acho que é por isso que você executou.
+
+596
+00:38:48,543 --> 00:38:52,112
+♪ Tentar ser casado com sua mãe ♪
+
+597
+00:38:52,155 --> 00:38:53,896
+♪ Você fedem a ser um pai
+
+598
+00:38:53,940 --> 00:38:55,594
+♪ Pobres Mali, que você está triste?
+
+599
+00:38:55,637 --> 00:38:59,075
+♪ Não tão triste quanto você, sem seus poderes ♪
+
+600
+00:38:59,119 --> 00:39:00,903
+♪ Eu não vim para lutar
+
+601
+00:39:00,947 --> 00:39:02,862
+♪ Por uma vez, fazer algo direito ♪
+
+602
+00:39:02,905 --> 00:39:04,472
+Eu roubar almas.
+
+603
+00:39:04,516 --> 00:39:06,866
+Estava à espera de flores?
+
+604
+00:39:06,909 --> 00:39:10,086
+♪ Eu só preciso de você porque eu vim aqui para algo ♪
+
+605
+00:39:10,130 --> 00:39:11,697
+♪ Eu dei-lhe tudo
+
+606
+00:39:11,740 --> 00:39:14,308
+- ♪ Dando-lhe nada
+- ♪ Por me dar nada
+
+607
+00:39:14,352 --> 00:39:17,485
+- ♪ Eu fiz o que eu tinha para fazer
+- ♪ Woo-ooh-ooh
+
+608
+00:39:17,529 --> 00:39:20,488
+♪ Não, você só fez o que é melhor para você ♪
+
+609
+00:39:20,532 --> 00:39:23,926
+♪ Assim você pode aprender uma coisa ou duas ♪
+
+610
+00:39:23,970 --> 00:39:28,453
+♪ Quando o impulso vem shove você fazer o que você tem que fazer ♪
+
+611
+00:39:31,412 --> 00:39:33,066
+♪ Você nunca foi lá
+
+612
+00:39:33,109 --> 00:39:34,763
+♪ Acho que você não tenha telefone
+
+613
+00:39:34,807 --> 00:39:37,766
+♪ Você nunca ligou para dizer "eu sinto falta de você" ♪
+
+614
+00:39:37,810 --> 00:39:40,203
+Você está brincando? Isso é uma piada?
+
+615
+00:39:40,247 --> 00:39:41,901
+♪ Você precisa deixá-lo ir
+
+616
+00:39:41,944 --> 00:39:44,512
+♪ Você está mais forte com aqueles papai questões ♪
+
+617
+00:39:44,556 --> 00:39:45,992
+Oh, obrigado.
+
+618
+00:39:46,035 --> 00:39:48,777
+♪ Me mostrar um pouco de respeito, não é fácil negligenciar ♪
+
+619
+00:39:48,821 --> 00:39:51,519
+♪ A minha atenção teria feito você mais suave ♪
+
+620
+00:39:51,563 --> 00:39:54,435
+Oh! Eu deveria ser motivo de orgulho?
+
+621
+00:39:54,479 --> 00:39:56,219
+♪ Não mudar essa realidade
+
+622
+00:39:56,263 --> 00:39:58,700
+♪ Eu acho que você é seu pai, a filha ♪
+
+623
+00:40:00,354 --> 00:40:03,357
+♪ Não acho que eu preciso de você, eu só vim aqui para algo ♪
+
+624
+00:40:03,401 --> 00:40:05,011
+♪ Eu dei-lhe tudo
+
+625
+00:40:05,054 --> 00:40:07,579
+- ♪ Dando-lhe nada
+- ♪ Por me dar nada
+
+626
+00:40:07,622 --> 00:40:10,538
+- ♪ Eu fiz o que eu tinha para fazer
+- ♪ Ooh-ooh, ooh
+
+627
+00:40:10,582 --> 00:40:13,541
+♪ Eu fiz isso no meu próprio, não graças a você ♪
+
+628
+00:40:13,585 --> 00:40:17,197
+♪ Bem, você poderia aprender uma coisa ou duas ♪
+
+629
+00:40:17,240 --> 00:40:21,549
+♪ Quando o impulso vem shove, você faz o que você tem que fazer ♪
+
+630
+00:40:21,593 --> 00:40:24,944
+♪ Como sobre eu ir com você e nós vamos gastar algum tempo? ♪
+
+631
+00:40:24,987 --> 00:40:28,600
+♪ Você ficar aqui porque você está fora de sua mente ♪
+
+632
+00:40:28,643 --> 00:40:31,603
+♪ Vamos fazer novas memórias, você pode me mostrar a cidade ♪
+
+633
+00:40:31,646 --> 00:40:34,562
+♪ Não, você pode manter as suas memórias de agora ♪
+
+634
+00:40:34,606 --> 00:40:37,565
+- Get over it.
+- Eu estou sobre ela.
+
+635
+00:40:37,609 --> 00:40:40,350
+Eu sou mais que você, sendo sobre ele.
+
+636
+00:40:40,394 --> 00:40:41,787
+♪ Vamos dançar
+
+637
+00:40:54,756 --> 00:40:58,412
+♪ Eu fiz o que eu tinha para fazer
+
+638
+00:40:58,456 --> 00:41:01,633
+♪ Não, você só fez o que é melhor para você ♪
+
+639
+00:41:01,676 --> 00:41:05,158
+♪ Bem, você poderia aprender uma coisa ou duas ♪
+
+640
+00:41:05,201 --> 00:41:08,640
+♪ Quando o impulso vem shove, você faz ♪
+
+641
+00:41:08,683 --> 00:41:12,382
+♪ Quando o impulso vem shove, você faz ♪
+
+642
+00:41:12,426 --> 00:41:16,822
+♪ Quando o impulso vem shove, você faz ♪
+
+643
+00:41:16,865 --> 00:41:19,825
+♪ O que você tem que fazer
+
+644
+00:41:19,868 --> 00:41:21,174
+♪ Sim
+
+645
+00:41:21,217 --> 00:41:24,003
+- Ah!
+- Puh-contrato de arrendamento.
+
+646
+00:41:27,702 --> 00:41:30,052
+Você quer fazer para ser um péssimo pai?
+
+647
+00:41:32,533 --> 00:41:33,839
+Dá-me a brasa.
+
+648
+00:41:33,882 --> 00:41:35,318
+A brasa só funciona para mim.
+
+649
+00:41:35,362 --> 00:41:37,669
+Não, ele vai trabalhar para mim. Estamos sangue.
+
+650
+00:41:37,712 --> 00:41:41,542
+Você está apenas a metade Hades.
+
+651
+00:41:41,586 --> 00:41:43,979
+A brasa não vai fazer de tudo para que ela faz por mim.
+
+652
+00:41:44,023 --> 00:41:45,503
+Eu vou levar as minhas chances.
+
+653
+00:41:54,642 --> 00:41:57,253
+Se ele for molhado, é game over.
+
+654
+00:42:04,870 --> 00:42:07,655
+Essa é minha garota.
+
+655
+00:42:12,573 --> 00:42:15,750
+Eu acho que essa é a razão por que ele está sempre perguntando sobre você.
+
+656
+00:42:20,625 --> 00:42:25,760
+Evie é o único que sabe que ele é meu pai.
+
+657
+00:42:27,806 --> 00:42:32,114
+E tanto quanto eu estou preocupado, ele não existe mesmo.
+
+658
+00:42:42,690 --> 00:42:46,346
+Não, não, eu quero o Auradon guarda distribuindo máscaras de gás.
+
+659
+00:42:46,389 --> 00:42:48,087
+Bem, nem todo mundo está dormindo.
+
+660
+00:42:49,958 --> 00:42:51,960
+Descubra se alguém viu Audrey.
+
+661
+00:42:52,004 --> 00:42:54,136
+E se ela tem uma lista de exigências.
+
+662
+00:43:06,540 --> 00:43:08,977
+Apenas um.
+
+663
+00:43:09,021 --> 00:43:10,979
+Eu exijo a minha vida de volta.
+
+664
+00:43:12,981 --> 00:43:14,592
+Eu tenho uma proposta.
+
+665
+00:43:15,897 --> 00:43:17,638
+Eu vou acordar todo mundo agora.
+
+666
+00:43:19,248 --> 00:43:24,079
+Em um... itty bitty condição,
+
+667
+00:43:24,123 --> 00:43:25,298
+Benny Boo.
+
+668
+00:43:28,954 --> 00:43:31,826
+Faça-me sua rainha e nós vamos regra lado a lado.
+
+669
+00:43:37,136 --> 00:43:38,877
+Alguém colocar um feitiço em você?
+
+670
+00:43:40,922 --> 00:43:44,447
+- Você acabou de me dizer que, e eu vou--
+- Você vai o quê? Casá-los?
+
+671
+00:43:47,189 --> 00:43:50,976
+A maioria das pessoas despejadas porque eles não são bons o suficiente.
+
+672
+00:43:51,019 --> 00:43:52,630
+Eu não estava ruim o suficiente.
+
+673
+00:43:54,501 --> 00:43:56,416
+Como você gosta de mim agora, Benny Boo?
+
+674
+00:43:58,200 --> 00:44:00,289
+Eu gosto do antigo Audrey melhor.
+
+675
+00:44:01,987 --> 00:44:04,076
+Ela não quero me machucar Auradon.
+
+676
+00:44:07,296 --> 00:44:10,473
+Apenas... me dar o cetro e eu vou perdoar você.
+
+677
+00:44:11,779 --> 00:44:12,954
+Você vai me perdoar?
+
+678
+00:44:15,087 --> 00:44:16,828
+Eu não penso assim.
+
+679
+00:44:17,872 --> 00:44:18,960
+Dormir é bom demais para você!
+
+680
+00:44:21,267 --> 00:44:23,356
+Dormir é muito bom para Auradon.
+
+681
+00:44:37,283 --> 00:44:40,155
+Tudo bem. Entrar, sair. Jay, você é bom?
+
+682
+00:44:40,199 --> 00:44:42,505
+- Sim.
+- Tudo bem. Segurar.
+
+683
+00:44:51,079 --> 00:44:52,994
+Uau, você tem um pouco de Hades' coisa vai.
+
+684
+00:44:53,038 --> 00:44:54,300
+- Wow.
+- Que coisa, um soco, hein?
+
+685
+00:44:54,343 --> 00:44:55,954
+De Ha.
+
+686
+00:44:59,218 --> 00:45:01,002
+- Nós fizemos isso, mano.
+- Nós fizemos isso.
+
+687
+00:45:03,091 --> 00:45:05,615
+Ei, pessoal, acabamos de vir de um... pouquinho de visita.
+
+688
+00:45:08,009 --> 00:45:09,663
+Hey! Hey! Hey!
+
+689
+00:45:13,885 --> 00:45:15,234
+Não!
+
+690
+00:45:25,157 --> 00:45:26,854
+Queda de algo?
+
+691
+00:45:26,898 --> 00:45:29,204
+Ele não pode se molhar! Dar-lhe de volta antes que ele vá!
+
+692
+00:45:31,250 --> 00:45:32,338
+Uma!
+
+693
+00:45:32,381 --> 00:45:34,819
+Esse é o meu nome.
+
+694
+00:45:39,127 --> 00:45:40,476
+Não!
+
+695
+00:45:53,881 --> 00:45:54,969
+Oi, meninos.
+
+696
+00:45:59,321 --> 00:46:01,541
+Bem-vindo de volta!
+
+697
+00:46:01,584 --> 00:46:04,370
+Uma. Você nadou para fora e esqueceu tudo sobre nós.
+
+698
+00:46:04,413 --> 00:46:06,285
+Sim, planejando sua vingança, sem dúvida.
+
+699
+00:46:06,328 --> 00:46:09,070
+Não é tudo sobre você, o Mal.
+
+700
+00:46:09,114 --> 00:46:11,159
+Eu estava procurando um buraco na barreira,
+
+701
+00:46:11,203 --> 00:46:12,465
+para deixar todo mundo.
+
+702
+00:46:12,508 --> 00:46:14,075
+E você sabe o que eu encontrei, meninos?
+
+703
+00:46:14,119 --> 00:46:16,991
+É muito melhor lá fora do que nós pensamos.
+
+704
+00:46:17,035 --> 00:46:18,993
+Há esta coisa que parece uma garota do rock
+
+705
+00:46:19,037 --> 00:46:20,299
+chamado de coco.
+
+706
+00:46:20,342 --> 00:46:24,390
+E peixe tão grande que você poderia dançar em suas costas.
+
+707
+00:46:24,433 --> 00:46:26,958
+E eles tem sido manter tudo para si.
+
+708
+00:46:27,001 --> 00:46:30,135
+Seja o que for. Uma, eu preciso disso para quebrar um feitiço.
+
+709
+00:46:30,178 --> 00:46:32,485
+Elenco por Audrey, a bela adormecida da filha.
+
+710
+00:46:32,528 --> 00:46:35,575
+Hmm, então o bom do cara a cara mau?
+
+711
+00:46:35,618 --> 00:46:39,013
+Bem, eu não poderia dar-lhe de volta.
+
+712
+00:46:39,057 --> 00:46:40,101
+Veja o que acontece.
+
+713
+00:46:40,145 --> 00:46:41,363
+Uma, ele não é o momento para os jogos!
+
+714
+00:46:41,407 --> 00:46:43,365
+A vida das pessoas está em perigo!
+
+715
+00:46:45,541 --> 00:46:49,545
+Garante-me que em cada um vilão garoto que quer
+
+716
+00:46:49,589 --> 00:46:50,982
+pode sair da Ilha.
+
+717
+00:46:51,025 --> 00:46:52,984
+Eu não posso fazer isso.
+
+718
+00:46:53,027 --> 00:46:54,159
+Não pode fazer isso.
+
+719
+00:46:54,202 --> 00:46:56,161
+- Bem, agora?!
+- Negócio!
+
+720
+00:46:56,204 --> 00:46:57,162
+Lidar.
+
+721
+00:46:57,205 --> 00:46:58,946
+Uma!
+
+722
+00:47:02,080 --> 00:47:02,950
+Sua palavra é boa.
+
+723
+00:47:07,389 --> 00:47:10,131
+Eu ainda vou manter este...
+
+724
+00:47:10,175 --> 00:47:12,568
+para o momento.
+
+725
+00:47:12,612 --> 00:47:16,050
+Porque se eu pensar que eu confio em você para salvar o mundo em seu próprio país,
+
+726
+00:47:16,094 --> 00:47:17,138
+pense novamente.
+
+727
+00:47:18,879 --> 00:47:20,141
+Este é um trabalho para os piratas!
+
+728
+00:47:22,013 --> 00:47:24,145
+Podemos sempre voltar para odiar uns aos outros
+
+729
+00:47:24,189 --> 00:47:25,799
+quando isso acabar.
+
+730
+00:47:28,976 --> 00:47:30,195
+Bem.
+
+731
+00:47:32,240 --> 00:47:33,198
+Onde estão nossas motos?
+
+732
+00:47:33,241 --> 00:47:36,070
+Oh, sim. Nós caiu-los.
+
+733
+00:47:36,114 --> 00:47:39,117
+Vrum!
+
+734
+00:47:41,032 --> 00:47:45,166
+- Olhar para seu rosto.
+- Aqui está um pensamento.
+
+735
+00:47:45,210 --> 00:47:47,081
+Podemos tentar ser amigos.
+
+736
+00:47:47,125 --> 00:47:50,128
+Colocar a nossa história por trás de nós e celebrar as nossas diferenças.
+
+737
+00:47:52,086 --> 00:47:53,174
+Sim?
+
+738
+00:47:55,046 --> 00:47:57,222
+Quem quer gum?
+
+739
+00:47:57,265 --> 00:47:58,832
+Vamos lá.
+
+740
+00:47:58,876 --> 00:48:00,051
+Não?
+
+741
+00:48:00,094 --> 00:48:05,143
+Ah! Não. Eu sou responsável. Vamos lá.
+
+742
+00:48:20,767 --> 00:48:23,248
+Eles estão dormindo.
+
+743
+00:48:23,291 --> 00:48:25,032
+Toda a gente.
+
+744
+00:48:25,076 --> 00:48:28,122
+Eu não consigo Ben. Ou com Tonturas ou Doug.
+
+745
+00:48:28,166 --> 00:48:29,907
+Ou Jane, o sinal de saída.
+
+746
+00:48:31,125 --> 00:48:33,127
+É que Auradon Prep?
+
+747
+00:48:33,171 --> 00:48:36,087
+Sim, e quando todo mundo acorda, você vai amá-lo.
+
+748
+00:48:36,130 --> 00:48:38,132
+Sim!
+
+749
+00:48:38,176 --> 00:48:41,092
+- É tudo tão...
+- Louca.
+
+750
+00:48:41,135 --> 00:48:42,745
+...verde.
+
+751
+00:48:42,789 --> 00:48:45,052
+Você tem folhas em suas árvores!
+
+752
+00:48:45,096 --> 00:48:47,098
+E o que são aquelas cor de coisas nos arbustos?
+
+753
+00:48:47,141 --> 00:48:49,100
+Uh... flores?
+
+754
+00:48:49,143 --> 00:48:51,058
+As flores são bonitas.
+
+755
+00:48:51,102 --> 00:48:52,973
+Melão?!
+
+756
+00:48:53,017 --> 00:48:55,149
+Mm. Mmmm.
+
+757
+00:48:55,193 --> 00:48:58,283
+Não temos qualquer fruta fresca na Ilha, lembra?
+
+758
+00:48:58,326 --> 00:49:00,763
+Mmm. Obrigado.
+
+759
+00:49:00,807 --> 00:49:02,765
+Eles são uvas.
+
+760
+00:49:02,809 --> 00:49:04,071
+Uvas.
+
+761
+00:49:05,333 --> 00:49:06,944
+Amor uvas.
+
+762
+00:49:06,987 --> 00:49:08,119
+Ooh.
+
+763
+00:49:09,947 --> 00:49:13,124
+Eu acredito que mereço alguma compensação
+
+764
+00:49:13,167 --> 00:49:16,083
+para os meus músculos, meu wile,
+
+765
+00:49:16,127 --> 00:49:18,303
+e o meu papel nesse esforço.
+
+766
+00:49:20,131 --> 00:49:21,132
+Que você o faça.
+
+767
+00:49:21,175 --> 00:49:23,047
+Não Me esmagar você gosta de um bug.
+
+768
+00:49:25,136 --> 00:49:27,051
+Como eu tenho medo de você, Jay.
+
+769
+00:49:27,094 --> 00:49:28,139
+Os caras.
+
+770
+00:49:30,271 --> 00:49:32,186
+- Mmm!
+- Cara!
+
+771
+00:49:32,230 --> 00:49:35,015
+Deliciosa. Mmm.
+
+772
+00:49:35,059 --> 00:49:36,364
+Cara, realmente?
+
+773
+00:49:36,408 --> 00:49:39,237
+O que?! Não fui eu, eu juro! Tudo bem, era eu.
+
+774
+00:49:39,280 --> 00:49:41,152
+Oh, você sabe o que aconteceu aqui?
+
+775
+00:49:41,195 --> 00:49:44,198
+Sim, Audrey apareceu, ela colocou todo mundo para dormir,
+
+776
+00:49:44,242 --> 00:49:46,200
+e então ela se virou alguns deles--
+
+777
+00:49:46,244 --> 00:49:47,767
+Os caras.
+
+778
+00:49:47,810 --> 00:49:49,116
+Ana virou-se para a pedra.
+
+779
+00:49:53,338 --> 00:49:55,340
+Tudo bem, todo mundo permanecer em seus dedos.
+
+780
+00:49:55,383 --> 00:49:57,342
+Olha, já que estamos aqui, vamos verificar a escola.
+
+781
+00:49:57,385 --> 00:50:00,301
+Não. Audrey foi direto para a coroa,
+
+782
+00:50:00,345 --> 00:50:02,216
+então eu acho que é seguro assumir que ela vai ir
+
+783
+00:50:02,260 --> 00:50:03,913
+para Ben e seu castelo próximo.
+
+784
+00:50:03,957 --> 00:50:05,219
+Que é para onde vamos.
+
+785
+00:50:05,263 --> 00:50:08,309
+- Quem manda?
+- Diz-me.
+
+786
+00:50:08,353 --> 00:50:10,137
+Diz você. Que deveria significar algo para mim?
+
+787
+00:50:10,181 --> 00:50:11,182
+Os caras.
+
+788
+00:50:15,186 --> 00:50:17,231
+Para o castelo.
+
+789
+00:50:28,677 --> 00:50:32,203
+- Como fez Mal quebrar o meu feitiço?!
+- Eu não sei.
+
+790
+00:50:32,246 --> 00:50:34,335
+E o que é Uma fazendo aqui?!
+
+791
+00:50:34,379 --> 00:50:35,467
+Não, não, não, não!
+
+792
+00:50:35,510 --> 00:50:37,860
+Vir limpo, Chad!
+
+793
+00:50:37,904 --> 00:50:40,037
+Hey, Hey.
+
+794
+00:50:40,080 --> 00:50:41,647
+- Onde é que eles vão?
+- Eu não sei!
+
+795
+00:50:41,690 --> 00:50:43,127
+Eu não sei, ok?
+
+796
+00:50:43,170 --> 00:50:45,390
+- Eu posso ir seleção para você--
+- Estadia!
+
+797
+00:50:52,136 --> 00:50:53,180
+Isso está prestes a ficar um pouco feio.
+
+798
+00:50:59,273 --> 00:51:01,362
+Ben!
+
+799
+00:51:01,406 --> 00:51:02,885
+Ha! Este caminho.
+
+800
+00:51:02,929 --> 00:51:05,975
+Ugh. Ben poderia estar dormindo em qualquer lugar.
+
+801
+00:51:06,019 --> 00:51:09,022
+- Ou transformado em pedra.
+- Tudo bem.
+
+802
+00:51:09,066 --> 00:51:10,197
+Ben!
+
+803
+00:51:10,241 --> 00:51:12,112
+Eu tenho um perfume, muito pungente oportunidades de hotéis de colónia,
+
+804
+00:51:12,156 --> 00:51:13,113
+fácil de rastrear.
+
+805
+00:51:13,157 --> 00:51:14,332
+Siga-me, as pessoas.
+
+806
+00:51:14,375 --> 00:51:15,550
+Isso é ótimo, Cara.
+
+807
+00:51:15,594 --> 00:51:18,249
+FYI, eu dou grande afagos, também.
+
+808
+00:51:18,292 --> 00:51:20,642
+Realmente? Eu nunca tive um animal de estimação crescendo.
+
+809
+00:51:20,686 --> 00:51:22,470
+Exceto para a cabeça de alce no pai do homem da caverna,
+
+810
+00:51:22,514 --> 00:51:25,212
+- mas isso não é realmente--
+- realizar-se.
+
+811
+00:51:25,256 --> 00:51:26,692
+O que é isto?
+
+812
+00:51:28,302 --> 00:51:29,347
+Uh...
+
+813
+00:51:29,390 --> 00:51:31,436
+Alguma chance de isso já foi lá?
+
+814
+00:51:32,828 --> 00:51:34,439
+E siga-me!
+
+815
+00:51:37,398 --> 00:51:39,226
+Ben!
+
+816
+00:51:40,358 --> 00:51:41,402
+Ben!
+
+817
+00:51:45,189 --> 00:51:47,713
+Ben? Ben?
+
+818
+00:51:49,410 --> 00:51:51,282
+Ficar aqui. Tudo bem?
+
+819
+00:51:56,113 --> 00:51:58,158
+Eu posso sentir você à espreita.
+
+820
+00:51:59,290 --> 00:52:01,161
+Boa.
+
+821
+00:52:01,205 --> 00:52:03,642
+Para que você possa acompanhar, abraçar, e falar.
+
+822
+00:52:03,685 --> 00:52:06,210
+Hey, você acha que seus filhotes vão ser capazes de falar, também?
+
+823
+00:52:06,253 --> 00:52:08,473
+Tudo bem, o homem. Ele tomadas.
+
+824
+00:52:08,516 --> 00:52:10,257
+Você quer um cachorro? Adotar um resgate.
+
+825
+00:52:10,301 --> 00:52:14,174
+Falando filhotes. Isso é loucura.
+
+826
+00:52:14,218 --> 00:52:16,263
+- Vem cá.
+- Ele parece bom.
+
+827
+00:52:18,526 --> 00:52:20,354
+Eu aposto que você perdeu um pouco de sono
+
+828
+00:52:20,398 --> 00:52:22,487
+pensando em mim à solta, hein?
+
+829
+00:52:22,530 --> 00:52:26,447
+Não. Dragões realmente não perder o sono.
+
+830
+00:52:26,491 --> 00:52:28,493
+Eu me perguntava o que polvo frito gosto.
+
+831
+00:52:28,536 --> 00:52:30,190
+Ok, por que não?
+
+832
+00:52:30,234 --> 00:52:31,844
+Estamos comemorando nossas diferenças.
+
+833
+00:52:37,241 --> 00:52:39,068
+Eu acredito que estamos sendo desafiados.
+
+834
+00:52:39,112 --> 00:52:40,418
+Vamos dividir-se e olhar para Audrey.
+
+835
+00:52:40,461 --> 00:52:42,071
+Que faz absolutamente nenhum sentido,
+
+836
+00:52:42,115 --> 00:52:44,248
+a menos que você me dê minha brasa, ela vai mágica.
+
+837
+00:52:44,291 --> 00:52:46,293
+Meninas!
+
+838
+00:52:46,337 --> 00:52:48,339
+Temos uma situação aqui.
+
+839
+00:52:49,557 --> 00:52:51,516
+Você como um príncipe, Mal?
+
+840
+00:52:51,559 --> 00:52:53,996
+Como cerca de um cavaleiro de armadura brilhante?
+
+841
+00:52:54,040 --> 00:52:55,389
+Ou cavaleiros?
+
+842
+00:53:03,789 --> 00:53:05,530
+♪ Assistir a sua volta, assistir a sua volta ♪
+
+843
+00:53:05,573 --> 00:53:07,227
+♪ Assistir a sua volta, assistir a sua volta ♪
+
+844
+00:53:07,271 --> 00:53:08,315
+♪ Nós pode lutar contra o seu ataque
+
+845
+00:53:08,359 --> 00:53:10,187
+♪ Hit 'em 'até que a armadura de rachaduras ♪
+
+846
+00:53:10,230 --> 00:53:12,580
+♪ Isso poderia ficar um pouco pegajosa ♪
+
+847
+00:53:12,624 --> 00:53:15,366
+♪ Como vencer esta batalha pode ser complicado ♪
+
+848
+00:53:15,409 --> 00:53:18,543
+♪ Mas eu sei que a melhor maneira, cair de volta, deixe-me levar ♪
+
+849
+00:53:18,586 --> 00:53:20,153
+♪ Você mantenha a linha
+
+850
+00:53:20,197 --> 00:53:21,546
+♪ E nós vamos trazê-los para seus joelhos ♪
+
+851
+00:53:21,589 --> 00:53:24,331
+♪ Espadas no ar, se você estiver comigo ♪
+
+852
+00:53:24,375 --> 00:53:25,506
+Sim!
+
+853
+00:53:25,550 --> 00:53:27,813
+♪ Que nos levou a ser em número de um a cinqüenta! ♪
+
+854
+00:53:27,856 --> 00:53:30,946
+♪ A vitória é nossa porque eu tenho uma estratégia ♪
+
+855
+00:53:30,990 --> 00:53:33,949
+♪ Você siga para a esquerda e o resto de vocês pode me seguir ♪
+
+856
+00:53:33,993 --> 00:53:35,777
+- Uh-uh.
+- ♪ Esta é a minha tripulação
+
+857
+00:53:35,821 --> 00:53:37,388
+♪ Este é o meu plantel
+
+858
+00:53:37,431 --> 00:53:40,391
+- ♪ Este meu relva
+- Oh, meu deus.
+
+859
+00:53:40,434 --> 00:53:42,480
+♪ Olha, gente, nós temos peixes maiores para fritar ♪
+
+860
+00:53:42,523 --> 00:53:44,177
+♪ Colocar suas diferenças de lado
+
+861
+00:53:44,221 --> 00:53:46,223
+♪ Porque agora estamos todos do mesmo lado ♪
+
+862
+00:53:46,266 --> 00:53:47,920
+♪ Até o cavaleiro cai
+
+863
+00:53:47,963 --> 00:53:49,226
+♪ Todos
+
+864
+00:53:49,269 --> 00:53:52,229
+♪ Vamos ficar juntos até que a batalha é feito ♪
+
+865
+00:53:52,272 --> 00:53:53,578
+♪ Assistir a sua volta, assistir a sua volta ♪
+
+866
+00:53:53,621 --> 00:53:55,232
+♪ Assistir a sua volta, assistir a sua volta ♪
+
+867
+00:53:55,275 --> 00:53:56,842
+♪ Nós pode lutar contra o seu ataque
+
+868
+00:53:56,885 --> 00:53:58,496
+♪ Hit 'em til a armadura rachaduras ♪
+
+869
+00:53:58,539 --> 00:54:01,238
+♪ Até o cavaleiro cai, estamos alinhados ♪
+
+870
+00:54:01,281 --> 00:54:03,979
+♪ Não quer dizer que estamos no mesmo lado ♪
+
+871
+00:54:04,023 --> 00:54:05,720
+♪ Assistir a sua volta, assistir a sua volta ♪
+
+872
+00:54:05,764 --> 00:54:07,331
+♪ Assistir a sua volta, assistir a sua volta ♪
+
+873
+00:54:07,374 --> 00:54:10,159
+♪ Hit 'em duro, bateu 'em jejum, eles são pesados demais para reagir ♪
+
+874
+00:54:10,203 --> 00:54:13,162
+♪ A situação está ficando meio pesado ♪
+
+875
+00:54:13,206 --> 00:54:16,296
+♪ Mantenha suas armas apertado, manter em constante! ♪
+
+876
+00:54:16,340 --> 00:54:19,299
+♪ Porque se ficarmos juntos, podemos torná-lo sair vivo ♪
+
+877
+00:54:19,343 --> 00:54:22,171
+♪ Eu vou causar uma distração, você atacá-los de lado ♪
+
+878
+00:54:22,215 --> 00:54:25,044
+♪ Todos os meus soldados estar no pronto! ♪
+
+879
+00:54:25,087 --> 00:54:28,395
+♪ Podemos cortar 'em up como confete ♪
+
+880
+00:54:28,439 --> 00:54:31,268
+♪ Vamos bater 'em de frente, você chegou em por trás ♪
+
+881
+00:54:31,311 --> 00:54:34,009
+♪ Não se esqueça de que o destino de Auradon sobre a linha ♪
+
+882
+00:54:34,053 --> 00:54:35,576
+♪ Esta é uma guerra
+
+883
+00:54:35,620 --> 00:54:37,274
+♪ Eles tem-nos em desvantagem
+
+884
+00:54:37,317 --> 00:54:40,059
+♪ A forma como as espadas se cruzam é o som do trovão ♪
+
+885
+00:54:40,102 --> 00:54:43,280
+E nós não estamos indo para baixo, nós nunca vamos correr para se esconder!
+
+886
+00:54:43,323 --> 00:54:46,631
+♪ Lutar para a vitória e andar para o outro ♪
+
+887
+00:54:46,674 --> 00:54:48,241
+♪ Até o cavaleiro cai
+
+888
+00:54:48,285 --> 00:54:49,634
+♪ Todos
+
+889
+00:54:49,677 --> 00:54:52,201
+♪ Vamos ficar juntos até que a batalha é feito ♪
+
+890
+00:54:52,245 --> 00:54:55,030
+♪ Tem a sua volta tem a sua volta, tem a sua volta, tem a sua volta ♪
+
+891
+00:54:55,074 --> 00:54:56,684
+♪ Nós pode lutar contra o seu ataque
+
+892
+00:54:56,728 --> 00:54:58,643
+♪ Hit 'em til a armadura rachaduras
+
+893
+00:54:58,686 --> 00:55:01,428
+♪ Até o cavaleiro cai, estamos alinhados ♪
+
+894
+00:55:01,472 --> 00:55:04,083
+♪ Não quer dizer que nós estamos do mesmo lado ♪
+
+895
+00:55:04,126 --> 00:55:07,304
+♪ Tem a sua volta, tem a sua volta tem a sua volta, tem a sua volta ♪
+
+896
+00:55:07,347 --> 00:55:10,219
+♪ Hit 'em duro e bater 'em jejum, eles são pesados demais para reagir ♪
+
+897
+00:55:29,717 --> 00:55:31,676
+Armadura forte e verdadeiro,
+
+898
+00:55:31,719 --> 00:55:34,069
+fazer este metal cantadas.
+
+899
+00:55:39,684 --> 00:55:45,559
+♪ Ah-ah-ah ah-ah ah
+
+900
+00:55:45,603 --> 00:55:47,648
+♪ Ah-ah-ah
+
+901
+00:55:47,692 --> 00:55:51,478
+- Não!
+- ♪ Ah-ah, ah
+
+902
+00:55:51,522 --> 00:55:57,702
+♪ Ah-ah-ah ah-ah ah-ah
+
+903
+00:55:57,745 --> 00:56:03,490
+♪ Ah-ah-ah, ah-ah, ah ♪
+
+904
+00:56:03,534 --> 00:56:07,494
+- ♪ Ah-ah-ah
+- Woo-hoo!
+
+905
+00:56:10,584 --> 00:56:13,152
+♪ Até o cavaleiro cai, você pode confiar ♪
+
+906
+00:56:13,195 --> 00:56:16,111
+♪ Eu vou ajudá-lo a vencer esta batalha, porque ♪
+
+907
+00:56:16,155 --> 00:56:17,548
+♪ Tem a sua volta, tem a sua volta
+
+908
+00:56:17,591 --> 00:56:19,201
+♪ Tem a sua volta, tem a sua volta ♪
+
+909
+00:56:19,245 --> 00:56:22,553
+♪ Todos por um", e isso é um fato, cavaleiros cairão, pitch black ♪
+
+910
+00:56:29,560 --> 00:56:31,170
+Sim!
+
+911
+00:56:31,213 --> 00:56:32,737
+Nós fizemos isso!
+
+912
+00:56:32,780 --> 00:56:33,781
+Isso é o que eu estou a falar--
+
+913
+00:56:33,825 --> 00:56:36,697
+- Ugh!
+- Ei, bom trabalho!
+
+914
+00:56:38,743 --> 00:56:40,222
+Não. Não.
+
+915
+00:56:48,579 --> 00:56:53,192
+Caras, vamos. Este era tão grande!
+
+916
+00:56:53,235 --> 00:56:54,889
+Éramos uma equipe.
+
+917
+00:56:54,933 --> 00:56:57,239
+Nós trabalhamos juntos. Venha.
+
+918
+00:56:59,590 --> 00:57:01,853
+- Venha.
+- Mm-mm.
+
+919
+00:57:06,248 --> 00:57:08,033
+Você sabe o que devemos tentar?
+
+920
+00:57:08,816 --> 00:57:10,296
+Um quebra-gelo.
+
+921
+00:57:12,777 --> 00:57:15,170
+Você dizer algo que você realmente gostaria de falar com a outra pessoa.
+
+922
+00:57:15,214 --> 00:57:17,216
+Tudo bem? Eu vou começar.
+
+923
+00:57:22,047 --> 00:57:23,222
+O Harry.
+
+924
+00:57:24,789 --> 00:57:27,139
+Grande destaque.
+
+925
+00:57:27,182 --> 00:57:28,532
+Agora, que você vá.
+
+926
+00:57:28,575 --> 00:57:30,534
+Ela está sempre alegre?
+
+927
+00:57:30,577 --> 00:57:31,970
+Não era esta a sua volta, mas obrigado.
+
+928
+00:57:32,013 --> 00:57:34,189
+- Bem, Evie? Vir aqui.
+- Sim.
+
+929
+00:57:34,233 --> 00:57:36,191
+- Eu amo você.
+- Eu amo você.
+
+930
+00:57:36,235 --> 00:57:38,977
+Eu amo essa energia, mas temos muito pouco tempo.
+
+931
+00:57:39,020 --> 00:57:40,761
+Audrey sabe claramente que estamos aqui,
+
+932
+00:57:40,805 --> 00:57:42,067
+precisamos sair daqui o mais rápido possível.
+
+933
+00:57:42,110 --> 00:57:43,982
+Tudo bem, onde é que esta cheerleader beliche para baixo?
+
+934
+00:57:44,025 --> 00:57:46,680
+Mesmo se ela não está lá, podemos encontrar algum tipo de pista.
+
+935
+00:57:46,724 --> 00:57:48,160
+Na verdade, ela ainda nos dormitórios.
+
+936
+00:57:48,203 --> 00:57:50,031
+Você está certo, por causa da escola de verão.
+
+937
+00:57:50,075 --> 00:57:52,991
+O que? Escola de verão?
+
+938
+00:57:53,034 --> 00:57:56,864
+Verão? Na escola? Não é de admirar que ela quer vingança.
+
+939
+00:57:56,908 --> 00:57:59,780
+Ok, eu preciso de vocês para ir encontrar Ben.
+
+940
+00:57:59,824 --> 00:58:03,001
+Vamos encontrar no Evie em duas horas, ok?
+
+941
+00:58:03,044 --> 00:58:05,177
+Soa como estamos indo com o meu plano. Eu só estou dizendo.
+
+942
+00:58:05,220 --> 00:58:06,787
+Era o óbvio plano.
+
+943
+00:58:06,831 --> 00:58:08,702
+- Uma disse primeiro.
+- Bem, então o meu plano.
+
+944
+00:58:08,746 --> 00:58:09,660
+Seja o que for.
+
+945
+00:58:23,587 --> 00:58:25,458
+Ela tem lugar no campus.
+
+946
+00:58:25,502 --> 00:58:27,025
+Encontrado o seu diário.
+
+947
+00:58:27,068 --> 00:58:28,896
+E, dang, fez-lhe a ruína Audrey vida.
+
+948
+00:58:28,940 --> 00:58:30,507
+Ok, então você encontrar nada lá
+
+949
+00:58:30,550 --> 00:58:32,770
+que nós não já sabe, né?
+
+950
+00:58:32,813 --> 00:58:34,511
+Ela trava de Fadas Cottage.
+
+951
+00:58:34,554 --> 00:58:36,077
+Você sabe, onde a Flora, a Fauna e a Merryweather
+
+952
+00:58:36,121 --> 00:58:37,862
+escondeu sua mãe de sua mãe.
+
+953
+00:58:37,905 --> 00:58:40,255
+Sim, ha, ha, ha, a ironia não é perdido em mim.
+
+954
+00:58:40,299 --> 00:58:44,129
+Como pode alguém com este cama nunca ser infeliz?
+
+955
+00:58:44,172 --> 00:58:46,523
+Bem, como eu estou?
+
+956
+00:58:49,961 --> 00:58:51,440
+Ok, o bling fica aqui.
+
+957
+00:58:51,484 --> 00:58:52,833
+Mas ela é ruim.
+
+958
+00:58:52,877 --> 00:58:54,966
+E não estamos.
+
+959
+00:58:58,099 --> 00:59:00,362
+Ben!
+
+960
+00:59:00,406 --> 00:59:02,190
+Ben.
+
+961
+00:59:03,757 --> 00:59:07,674
+Dude. Venha. Nada?
+
+962
+00:59:07,718 --> 00:59:10,111
+Essas coisas só fazem crescer em qualquer lugar.
+
+963
+00:59:15,943 --> 00:59:18,293
+Ei, devemos jogar que quebrar o gelo.
+
+964
+00:59:18,337 --> 00:59:22,123
+Hum... o Jay, eu gosto da maneira que você pode...
+
+965
+00:59:22,167 --> 00:59:25,170
+pular e saltar as coisas.
+
+966
+00:59:25,213 --> 00:59:26,911
+Estas são grátis, certo?
+
+967
+00:59:28,347 --> 00:59:30,175
+Sim, um...
+
+968
+00:59:33,918 --> 00:59:36,921
+Eu gosto de como você obter um chute de fora da baga de bush.
+
+969
+00:59:38,400 --> 00:59:41,708
+Eu acho que você provavelmente já viu de tudo por agora, hein?
+
+970
+00:59:41,752 --> 00:59:44,276
+Peludos rochas, peixe gigante,
+
+971
+00:59:44,319 --> 00:59:46,147
+você provavelmente está acostumado a pegar o almoço
+
+972
+00:59:46,191 --> 00:59:47,279
+fora de um arbusto.
+
+973
+00:59:47,322 --> 00:59:49,498
+Não, quero dizer, normalmente, não, não realmente.
+
+974
+00:59:49,542 --> 00:59:52,066
+Eu, principalmente, basta usar as máquinas de venda automática na prática.
+
+975
+00:59:52,110 --> 00:59:54,199
+Torneio meio que come a maior parte do meu tempo, então...
+
+976
+00:59:54,242 --> 00:59:59,073
+Torneio? Isso é um pouquinho de menino do jogo.
+
+977
+00:59:59,117 --> 01:00:01,293
+Direito. Você sabe o que seria divertido?
+
+978
+01:00:01,336 --> 01:00:03,730
+Para fazer rafting em um rio da selva.
+
+979
+01:00:03,774 --> 01:00:06,211
+<u> Localizar uma civilização perdida.</u>
+- Ah, talvez um pinguim.
+
+980
+01:00:06,254 --> 01:00:07,952
+Bem, você encontrar aqueles mais sobre como icebergs,
+
+981
+01:00:07,995 --> 01:00:10,389
+mas, eu adoraria ver um desses.
+
+982
+01:00:10,432 --> 01:00:12,739
+Vocês estão me matando.
+
+983
+01:00:20,007 --> 01:00:21,922
+Mmm.
+
+984
+01:00:21,966 --> 01:00:23,532
+PS, o vira-lata foi assim.
+
+985
+01:00:23,576 --> 01:00:25,143
+Carlos!
+
+986
+01:00:25,186 --> 01:00:27,014
+- Dude, o que você vê?
+- Este caminho.
+
+987
+01:00:36,284 --> 01:00:39,940
+Eu realmente espero que eles encontraram Ben.
+
+988
+01:00:39,984 --> 01:00:41,986
+Bom escavações.
+
+989
+01:00:42,029 --> 01:00:44,249
+Eu tenho realmente um bom negócio.
+
+990
+01:00:58,306 --> 01:01:00,482
+Shh, tudo bem.
+
+991
+01:01:18,239 --> 01:01:19,893
+Não se preocupe, com Tonturas.
+
+992
+01:01:21,025 --> 01:01:22,853
+Podemos consertar isso.
+
+993
+01:01:24,028 --> 01:01:26,073
+E uma vez que nós, que eles vão te deixar todas as crianças
+
+994
+01:01:26,117 --> 01:01:28,293
+vem da Ilha.
+
+995
+01:01:28,336 --> 01:01:30,991
+Então... sonhos felizes.
+
+996
+01:01:40,218 --> 01:01:42,742
+- Ah, quem é o cara?
+- Doug.
+
+997
+01:01:45,223 --> 01:01:46,964
+Doug.
+
+998
+01:01:47,921 --> 01:01:49,009
+De despertar.
+
+999
+01:01:49,967 --> 01:01:50,837
+De despertar.
+
+1000
+01:01:50,881 --> 01:01:52,883
+Ele é escrito.
+
+1001
+01:01:52,926 --> 01:01:54,014
+Não é ela aprende rápido?
+
+1002
+01:01:54,058 --> 01:01:56,321
+Ela está emocionalmente envolvido, tudo bem?
+
+1003
+01:01:58,453 --> 01:01:59,498
+Bem, nesse caso,
+
+1004
+01:01:59,541 --> 01:02:01,152
+ela deve ser capaz de acordá-lo.
+
+1005
+01:02:03,154 --> 01:02:06,331
+Beijo do amor verdadeiro? Funciona o tempo todo?
+
+1006
+01:02:08,159 --> 01:02:10,248
+Bem, nós realmente não ter usado o L word ainda.
+
+1007
+01:02:16,080 --> 01:02:17,690
+Podemos ficar a sós?
+
+1008
+01:02:31,095 --> 01:02:32,574
+♪ Não se preocupe, está tudo bem!
+
+1009
+01:02:32,618 --> 01:02:34,272
+♪ Porque o verdadeiro amor pode salvar o dia ♪
+
+1010
+01:02:34,315 --> 01:02:38,102
+♪ E eu acho que nós sentimos o mesmo, mas eu não sei ♪
+
+1011
+01:02:38,145 --> 01:02:41,061
+♪ Quando nos conhecemos, ele era doce, ele foi oh-tão dentro de mim ♪
+
+1012
+01:02:41,105 --> 01:02:44,543
+♪ Parece que as coisas estão destinadas a ser, mas eu não sei ♪
+
+1013
+01:02:44,586 --> 01:02:47,894
+♪ Será que ele me ama, ou será que ele me ama, não? ♪
+
+1014
+01:02:47,938 --> 01:02:51,942
+♪ Eu amo ele? E é forte o suficiente? ♪
+
+1015
+01:02:51,985 --> 01:02:53,944
+- ♪ Um beijo
+- ♪ Um beijo
+
+1016
+01:02:53,987 --> 01:02:56,033
+♪ Tudo se resume a isso um beijo ♪
+
+1017
+01:02:56,076 --> 01:02:59,123
+- ♪ Um beijo
+- ♪ Oh-oh, oh
+
+1018
+01:02:59,166 --> 01:03:00,951
+♪ Um beijo, um beijo
+
+1019
+01:03:00,994 --> 01:03:02,126
+♪ Este momento poderia ser ele
+
+1020
+01:03:02,169 --> 01:03:05,912
+♪ Eu quero, eu quero saber, então aqui eu vou ♪
+
+1021
+01:03:05,956 --> 01:03:08,610
+♪ Oh, oh, oh!
+
+1022
+01:03:08,654 --> 01:03:10,264
+♪ Mantê-lo fresco e mantê-lo calmo ♪
+
+1023
+01:03:10,308 --> 01:03:12,136
+♪ Acho que ele me amava, ao longo de todo ♪
+
+1024
+01:03:12,179 --> 01:03:15,400
+♪ Mas talvez eu entendi errado, então eu não sei ♪
+
+1025
+01:03:15,443 --> 01:03:16,967
+♪ Ele é tão bom, tenho o meu de volta ♪
+
+1026
+01:03:17,010 --> 01:03:18,969
+♪ Mas talvez eu só estou com muito ruim
+
+1027
+01:03:19,012 --> 01:03:22,146
+♪ Poderíamos ser um jogo perfeito? Oh, eu não sei ♪
+
+1028
+01:03:22,189 --> 01:03:25,976
+♪ Será que ele me ama, ou será que ele me ama, não? ♪
+
+1029
+01:03:26,019 --> 01:03:30,067
+♪ Eu amo ele? E é forte o suficiente? ♪
+
+1030
+01:03:30,110 --> 01:03:31,372
+♪ Ooh, ooh, ooh
+
+1031
+01:03:31,416 --> 01:03:33,157
+♪ Um beijo, um beijo
+
+1032
+01:03:33,200 --> 01:03:35,028
+♪ Tudo se resume a isso
+
+1033
+01:03:35,072 --> 01:03:36,595
+♪ Um beijo, um beijo
+
+1034
+01:03:36,638 --> 01:03:37,944
+♪ Oh, oh, oh
+
+1035
+01:03:37,988 --> 01:03:40,120
+♪ Um beijo, um beijo
+
+1036
+01:03:40,164 --> 01:03:41,513
+♪ Este momento poderia ser ele
+
+1037
+01:03:41,556 --> 01:03:46,431
+♪ Eu quero, eu quero saber, então aqui eu vou ♪
+
+1038
+01:03:46,474 --> 01:03:50,130
+- ♪ Ah-ooh, ooh, ah-ooh, ooh
+- Evie: ♪ Sim, aqui vou eu
+
+1039
+01:03:51,784 --> 01:03:55,005
+♪ Eu sinto meu coração bater-bater, dizendo: vai trabalhar ♪
+
+1040
+01:03:55,048 --> 01:03:56,397
+♪ Mas se estou a sonhar-sonho-sonhar ♪
+
+1041
+01:03:56,441 --> 01:03:59,183
+♪ Isso vai doer
+
+1042
+01:03:59,226 --> 01:04:01,141
+♪ Ou eu vou ou eu não
+
+1043
+01:04:01,185 --> 01:04:02,577
+♪ E se eu fazer e ele não?
+
+1044
+01:04:02,621 --> 01:04:04,231
+♪ Ele é o meu Romeu?
+
+1045
+01:04:04,275 --> 01:04:09,149
+♪ Ah, só há uma, uma maneira de saber realmente ♪
+
+1046
+01:04:23,033 --> 01:04:24,469
+♪ Hey!
+
+1047
+01:04:24,512 --> 01:04:26,123
+♪ Um beijo, um beijo
+
+1048
+01:04:26,166 --> 01:04:28,038
+♪ Tudo se resume a isso
+
+1049
+01:04:28,081 --> 01:04:29,953
+♪ Um beijo, um beijo
+
+1050
+01:04:29,996 --> 01:04:30,997
+♪ Oh
+
+1051
+01:04:31,041 --> 01:04:33,173
+♪ Um beijo, um beijo
+
+1052
+01:04:33,217 --> 01:04:34,435
+♪ Este momento poderia ser ele
+
+1053
+01:04:34,479 --> 01:04:38,613
+♪ Eu quero, eu quero saber, então aqui eu vou ♪
+
+1054
+01:04:40,615 --> 01:04:44,097
+♪ Aqui vou eu
+
+1055
+01:04:44,141 --> 01:04:47,405
+♪ Aqui vou eu
+
+1056
+01:04:47,448 --> 01:04:50,103
+♪ Aqui vou eu
+
+1057
+01:05:26,313 --> 01:05:28,098
+Ben!
+
+1058
+01:05:31,231 --> 01:05:34,234
+Oh, menino, algo cheira muito mal e não me deste tempo.
+
+1059
+01:05:41,111 --> 01:05:43,069
+- Não!
+- Caraca!
+
+1060
+01:05:50,076 --> 01:05:51,295
+Atenção!
+
+1061
+01:05:57,562 --> 01:05:59,129
+Você precisa de algum grave nariz ajustes.
+
+1062
+01:05:59,172 --> 01:06:01,087
+Eu não tenho tanta certeza.
+
+1063
+01:06:04,090 --> 01:06:06,049
+Ben? Fez Audrey fazer o que?
+
+1064
+01:06:06,092 --> 01:06:08,094
+Ah. Eu pensei que eu reconheci as calças.
+
+1065
+01:06:09,574 --> 01:06:13,186
+Ah, ele tem um boo-boo, é por isso que ele é tão mal-humorado.
+
+1066
+01:06:13,230 --> 01:06:14,579
+Você sabe, meu pai disse que seu pai
+
+1067
+01:06:14,622 --> 01:06:17,277
+não lidar com a dor bem em tudo.
+
+1068
+01:06:20,106 --> 01:06:21,934
+Você é bom com os animais. Fazer algo.
+
+1069
+01:06:21,978 --> 01:06:24,110
+Mas, Ok. Tudo bem.
+
+1070
+01:06:26,417 --> 01:06:29,333
+Ok, Ben.
+
+1071
+01:06:29,376 --> 01:06:32,336
+É de mim. Carlos. Tudo bem?
+
+1072
+01:06:32,379 --> 01:06:34,338
+Caraca! Ben, Ben, é Carlos.
+
+1073
+01:06:34,381 --> 01:06:36,166
+Tudo bem? Você me conhece.
+
+1074
+01:06:37,384 --> 01:06:39,473
+Você me ajudou uma vez.
+
+1075
+01:06:39,517 --> 01:06:42,563
+Lembre-com o Cara? Direito? Deixe-me ajudá-lo.
+
+1076
+01:06:44,217 --> 01:06:46,045
+Venha, deixe-me ver sua mão.
+
+1077
+01:06:46,089 --> 01:06:47,177
+Não que você vá. Tudo bem.
+
+1078
+01:06:47,220 --> 01:06:52,573
+Atta menino-uh, besta--rei, o que for.
+
+1079
+01:06:52,617 --> 01:06:54,358
+Oh, sim, é um grande.
+
+1080
+01:06:56,273 --> 01:06:57,404
+Eu vou contar, tudo bem?
+
+1081
+01:06:57,448 --> 01:06:59,493
+Um.
+
+1082
+01:06:59,537 --> 01:07:02,105
+Duas.
+
+1083
+01:07:04,150 --> 01:07:06,283
+Lá está ele! Você fez isso!
+
+1084
+01:07:16,249 --> 01:07:17,163
+Hey!
+
+1085
+01:07:19,296 --> 01:07:21,211
+Oh, meu deus.
+
+1086
+01:07:21,254 --> 01:07:22,342
+<b>- Eu esqueci de chamada.</b>
+
+1087
+01:07:22,386 --> 01:07:24,083
+Estou tão feliz que você está bem!
+
+1088
+01:07:28,261 --> 01:07:30,220
+- Tudo bem. Você é bom?
+- Sim.
+
+1089
+01:07:30,263 --> 01:07:32,135
+- Ter um lugar ali.
+- Sim.
+
+1090
+01:07:32,178 --> 01:07:33,571
+Não que você vá.
+
+1091
+01:07:37,270 --> 01:07:42,232
+- Ah, isso foi... funky.
+- Foi. É.
+
+1092
+01:07:42,275 --> 01:07:44,147
+- Hein? Oh, wow.
+- Sim, sim.
+
+1093
+01:07:47,324 --> 01:07:50,240
+- Você precisa de outra explosão.
+- Ah, por favor--
+
+1094
+01:07:52,416 --> 01:07:54,070
+Por favor. Parar.
+
+1095
+01:07:54,113 --> 01:07:55,245
+Hein.
+
+1096
+01:07:55,288 --> 01:07:56,333
+É Lago Encantado de água,
+
+1097
+01:07:56,376 --> 01:07:59,336
+mas eu acho que ele pode fazer muito.
+
+1098
+01:07:59,379 --> 01:08:02,121
+Bem, bem, bem.
+
+1099
+01:08:03,470 --> 01:08:09,085
+Harry Hook, e você, meu patinho, são...
+
+1100
+01:08:09,128 --> 01:08:10,216
+arrebatador.
+
+1101
+01:08:12,479 --> 01:08:15,395
+Tudo bem, uh, arrebatador e tomadas.
+
+1102
+01:08:15,439 --> 01:08:17,441
+Apenas no caso de alguém estar confuso.
+
+1103
+01:08:17,484 --> 01:08:18,703
+Segurar.
+
+1104
+01:08:20,313 --> 01:08:21,706
+De que lado estão?
+
+1105
+01:08:23,099 --> 01:08:24,361
+Eles escaparam e se juntou a nós.
+
+1106
+01:08:24,404 --> 01:08:26,189
+Mal tem a brasa, que é a nossa única esperança
+
+1107
+01:08:26,232 --> 01:08:28,191
+para parar de Audrey, mais detalhes a seguir.
+
+1108
+01:08:28,234 --> 01:08:30,367
+Hades' ember? Tem Mal de volta para a Ilha?
+
+1109
+01:08:30,410 --> 01:08:32,238
+Eu disse: "mais Detalhes a seguir," estamos a reunião de
+
+1110
+01:08:32,282 --> 01:08:33,935
+- Mal, Evie e Uma, vamos lá.
+- Uma?!
+
+1111
+01:08:33,979 --> 01:08:36,068
+Mais detalhes a seguir.
+
+1112
+01:08:42,205 --> 01:08:44,337
+Ei, Jay, um...
+
+1113
+01:08:44,381 --> 01:08:47,253
+Sim, obrigado por me salvar lindo rosto.
+
+1114
+01:08:54,304 --> 01:08:56,306
+Que foi realmente uma boa idéia.
+
+1115
+01:08:56,349 --> 01:08:58,221
+Para verificar Audrey quarto.
+
+1116
+01:08:59,352 --> 01:09:01,311
+Agora sabemos que estamos no caminho certo.
+
+1117
+01:09:01,354 --> 01:09:03,400
+Há um insulto lá que eu perdi?
+
+1118
+01:09:05,141 --> 01:09:08,318
+Só que... eu queria agradecer a você.
+
+1119
+01:09:12,670 --> 01:09:15,455
+Ugh! Acho que você está no caminho certo?
+
+1120
+01:09:15,499 --> 01:09:17,370
+Nós não estamos indo a lugar algum.
+
+1121
+01:09:19,285 --> 01:09:20,460
+Vamos mexer-los um pouco.
+
+1122
+01:09:20,504 --> 01:09:22,114
+Eu digo que vou voltar para o meu lugar
+
+1123
+01:09:22,158 --> 01:09:23,463
+e talvez binge-assistir a alguns programas de TV. Hein?
+
+1124
+01:09:23,507 --> 01:09:26,292
+Ou talvez ordem de algumas coisas na internet. Sim? Sim.
+
+1125
+01:09:26,336 --> 01:09:29,208
+Oh. O que sobre pizza? Hein?
+
+1126
+01:09:29,252 --> 01:09:32,124
+Você não gosta de pizza. Salada.
+
+1127
+01:09:35,519 --> 01:09:38,870
+Não, não, não. Audrey.
+
+1128
+01:09:38,913 --> 01:09:44,180
+Audrey!
+
+1129
+01:09:44,223 --> 01:09:45,181
+Audrey!
+
+1130
+01:09:48,445 --> 01:09:50,838
+Eu não sei cujo aniversário é, mas eu quero esse bolo.
+
+1131
+01:09:53,189 --> 01:09:56,017
+Então, eu... talvez meio que perdeu o barco um pouco
+
+1132
+01:09:56,061 --> 01:09:59,456
+chamando você Shrimpy e não deixando que você junte-se ao grupo.
+
+1133
+01:10:01,066 --> 01:10:02,937
+Sim.
+
+1134
+01:10:02,981 --> 01:10:04,765
+Nós realmente poderia ter rasgado a Ilha juntos.
+
+1135
+01:10:24,045 --> 01:10:26,831
+- Celia!
+- Estamos presos!
+
+1136
+01:10:26,874 --> 01:10:29,747
+- Vocês estão bem?
+- O que está acontecendo?
+
+1137
+01:10:29,790 --> 01:10:31,618
+Você já causou meus amigos dor e o medo,
+
+1138
+01:10:31,662 --> 01:10:33,968
+nós tivemos o suficiente, agora desaparecem!!!
+
+1139
+01:10:36,754 --> 01:10:38,712
+Vocês, sinto muito, meus feitiços não estão funcionando.
+
+1140
+01:10:38,756 --> 01:10:41,149
+Audrey magia está ficando mais forte.
+
+1141
+01:10:43,804 --> 01:10:45,719
+Você causado aos nossos amigos de dor e medo,
+
+1142
+01:10:45,763 --> 01:10:47,982
+tínhamos o suficiente, agora desaparecem!!!
+
+1143
+01:10:56,382 --> 01:10:57,383
+Você fez isso.
+
+1144
+01:10:58,428 --> 01:10:59,907
+Juntos.
+
+1145
+01:11:01,039 --> 01:11:03,259
+Isso é o que eu venho falando.
+
+1146
+01:11:04,434 --> 01:11:05,870
+Eu acho que o meu shell gosta de você.
+
+1147
+01:11:12,224 --> 01:11:14,226
+Por que você não se segurar no que?
+
+1148
+01:11:21,451 --> 01:11:24,410
+Ei, é o bae.
+
+1149
+01:11:29,894 --> 01:11:31,678
+Olá! Olá!
+
+1150
+01:11:33,811 --> 01:11:35,203
+- Você está bem? Tudo bem com vocês?
+- Sim.
+
+1151
+01:11:35,247 --> 01:11:37,380
+Estou muito melhor agora. Tudo bem com vocês?
+
+1152
+01:11:37,423 --> 01:11:38,642
+Sim.
+
+1153
+01:11:42,646 --> 01:11:44,604
+Eu sempre soube que você gostaria de ser parte da solução.
+
+1154
+01:11:47,868 --> 01:11:50,131
+- O que é isto?
+- Ah, sim.
+
+1155
+01:11:50,175 --> 01:11:52,264
+- Eu poderia conseguir isso.
+- Você gosta?
+
+1156
+01:11:52,308 --> 01:11:54,484
+- Eu amo isso.
+- O que acontece com aqueles?
+
+1157
+01:11:54,527 --> 01:11:56,660
+- Oh.
+- Não.
+
+1158
+01:11:56,703 --> 01:11:59,140
+Eu gosto 'em.
+
+1159
+01:11:59,184 --> 01:12:01,534
+Ok, então todos nós pensamos que Audrey
+
+1160
+01:12:01,578 --> 01:12:02,970
+poderia ser a Fada da casa de campo.
+
+1161
+01:12:03,014 --> 01:12:04,711
+Não fazemos idéia de onde ele está, fez ela tirar você de lá?
+
+1162
+01:12:04,755 --> 01:12:06,626
+Cada Fada Madrinha de Dia.
+
+1163
+01:12:06,670 --> 01:12:09,325
+Onde está a Fada Madrinha, quando você precisa dela?
+
+1164
+01:12:09,368 --> 01:12:10,717
+Eu desejo que eu sabia.
+
+1165
+01:12:12,415 --> 01:12:17,681
+Hey, um, este pode ser um momento ruim, mas, uh...
+
+1166
+01:12:17,724 --> 01:12:18,856
+feliz aniversário.
+
+1167
+01:12:18,899 --> 01:12:20,466
+Eu fiz isso com a minha impressora 3D.
+
+1168
+01:12:22,729 --> 01:12:25,471
+É, uh, nossos nomes juntos.
+
+1169
+01:12:25,515 --> 01:12:27,125
+- Não, certo, eu entendo.
+- Sim.
+
+1170
+01:12:27,168 --> 01:12:29,301
+Porque, você sabe, nós estamos juntos, você e eu,
+
+1171
+01:12:29,345 --> 01:12:30,476
+você sabe, como um casal.
+
+1172
+01:12:30,520 --> 01:12:32,391
+Direito, porque Jane e Carlos fazem "Jarlos."
+
+1173
+01:12:32,435 --> 01:12:34,045
+Sim, sim! Eu poderia ter ido com a Cana,
+
+1174
+01:12:34,088 --> 01:12:37,527
+mas... eu fui com Jarlos, a menos que você prefira Cana,
+
+1175
+01:12:37,570 --> 01:12:39,659
+- você prefere Cana?
+- Ah, não. Não, eu amo ele.
+
+1176
+01:12:39,703 --> 01:12:41,966
+Sim, você, está bem, você sabe o que? Eu posso refazê-lo.
+
+1177
+01:12:42,009 --> 01:12:45,491
+- É legal, tudo bem.
+- Não, Carlos. Ele é perfeito.
+
+1178
+01:12:50,540 --> 01:12:52,106
+Doug.
+
+1179
+01:12:52,150 --> 01:12:53,281
+Vá com a Jane.
+
+1180
+01:12:53,325 --> 01:12:54,544
+Você precisa encontrar a Fada Madrinha.
+
+1181
+01:12:54,587 --> 01:12:56,937
+- Eles podem precisar de algum músculo.
+- Ei.
+
+1182
+01:12:56,981 --> 01:12:58,417
+Bem, eu vou.
+
+1183
+01:12:58,461 --> 01:13:00,288
+Sim, na verdade, sentir-me-ia melhor.
+
+1184
+01:13:00,332 --> 01:13:02,421
+Sim, na verdade, eu me sentiria melhor, também.
+
+1185
+01:13:02,465 --> 01:13:03,944
+Mesmo.
+
+1186
+01:13:03,988 --> 01:13:05,903
+Na verdade, eu ia, também.
+
+1187
+01:13:05,946 --> 01:13:07,644
+Tudo bem, man, let's do it!
+
+1188
+01:13:07,687 --> 01:13:09,559
+- Vamos, Jane.
+- Tudo bem.
+
+1189
+01:13:09,602 --> 01:13:11,735
+- Tenha cuidado, ok?
+- Eu vou.
+
+1190
+01:13:23,486 --> 01:13:24,574
+Venha, Cara.
+
+1191
+01:14:09,401 --> 01:14:10,663
+Ela não está no andar de cima.
+
+1192
+01:14:24,547 --> 01:14:26,636
+Chad?
+
+1193
+01:14:26,679 --> 01:14:28,289
+Eu quero minha mãe.
+
+1194
+01:14:28,333 --> 01:14:30,553
+O que aconteceu--
+
+1195
+01:14:30,596 --> 01:14:31,815
+Está tudo bem.
+
+1196
+01:14:33,817 --> 01:14:35,296
+O que aconteceu, amigo?
+
+1197
+01:14:40,040 --> 01:14:41,215
+Hmm.
+
+1198
+01:14:42,739 --> 01:14:46,220
+Ben. Ben! Oh!
+
+1199
+01:14:46,264 --> 01:14:47,483
+Seu rosto.
+
+1200
+01:14:49,485 --> 01:14:52,270
+Ela se foi, hein?
+
+1201
+01:14:52,313 --> 01:14:53,532
+A porta está aberta.
+
+1202
+01:14:53,576 --> 01:14:57,667
+Eu estou livre. Livre!
+
+1203
+01:14:57,710 --> 01:14:59,407
+Liberdade!
+
+1204
+01:15:09,853 --> 01:15:10,810
+Oh, meu deus.
+
+1205
+01:15:15,946 --> 01:15:17,861
+Oi, Mãe.
+
+1206
+01:15:17,904 --> 01:15:20,777
+Hum, eu não sei se você pode me ouvir,
+
+1207
+01:15:20,820 --> 01:15:24,258
+mas foi realmente um dia louco.
+
+1208
+01:15:24,302 --> 01:15:26,434
+No lado positivo, foi a mais longa de aniversário
+
+1209
+01:15:26,478 --> 01:15:28,088
+Eu já tinha.
+
+1210
+01:15:28,132 --> 01:15:31,091
+No lado negativo, todo mundo está sob um feitiço do mal.
+
+1211
+01:15:31,135 --> 01:15:33,877
+Um. Mas no lado positivo, Carlos lembrado do meu aniversário.
+
+1212
+01:15:33,920 --> 01:15:35,879
+Vê?
+
+1213
+01:15:35,922 --> 01:15:38,011
+Nós vamos descobrir como desfazer isso.
+
+1214
+01:15:38,055 --> 01:15:40,100
+Nós vamos encontrar uma maneira de fazer isso direito, Mãe.
+
+1215
+01:15:42,538 --> 01:15:44,235
+Oof, tudo bem, vamos acabar com isso Audrey pinto
+
+1216
+01:15:44,278 --> 01:15:45,671
+cuidado já.
+
+1217
+01:15:45,715 --> 01:15:47,368
+O que você diz, menina?
+
+1218
+01:15:47,412 --> 01:15:50,371
+Tempo para embrulhar as coisas?
+
+1219
+01:15:50,415 --> 01:15:52,504
+Você sabe, um dia, você vai ter que me dizer
+
+1220
+01:15:52,548 --> 01:15:54,332
+como vocês todos se uniram.
+
+1221
+01:15:54,375 --> 01:15:57,553
+Na verdade, o Mal prometido para permitir que todas as crianças
+
+1222
+01:15:57,596 --> 01:15:59,685
+fora da Ilha, uma vez que este é mais.
+
+1223
+01:15:59,729 --> 01:16:00,904
+O Mal?
+
+1224
+01:16:00,947 --> 01:16:02,558
+Tenho a dizer-vos algo.
+
+1225
+01:16:07,998 --> 01:16:09,173
+Hum...
+
+1226
+01:16:12,306 --> 01:16:14,221
+Eu menti para você.
+
+1227
+01:16:18,138 --> 01:16:21,315
+As crianças não serão saindo da Ilha.
+
+1228
+01:16:21,359 --> 01:16:22,708
+O que você quer dizer?
+
+1229
+01:16:22,752 --> 01:16:24,449
+O programa é encerrado.
+
+1230
+01:16:26,103 --> 01:16:29,759
+E a barreira vai ser fechado para sempre.
+
+1231
+01:16:30,803 --> 01:16:32,370
+Para Auradon de segurança.
+
+1232
+01:16:33,937 --> 01:16:35,025
+Realizar-se.
+
+1233
+01:16:36,592 --> 01:16:38,898
+Então, nós estamos poupando o seu precioso pessoas,
+
+1234
+01:16:38,942 --> 01:16:41,248
+e seu traseiro, para uma mentira?
+
+1235
+01:16:44,121 --> 01:16:46,210
+Eu sabia que era um erro de confiar em você.
+
+1236
+01:16:47,167 --> 01:16:49,213
+Você está sempre fora de si mesmo.
+
+1237
+01:16:50,344 --> 01:16:53,217
+E você, o Rei Benny.
+
+1238
+01:16:58,135 --> 01:17:00,877
+Você provavelmente só vai jogar todos nós de volta para dentro, hein?
+
+1239
+01:17:05,011 --> 01:17:07,100
+Você sabe o que?
+
+1240
+01:17:07,144 --> 01:17:09,407
+Eu realmente pensei que você fosse corajoso,
+
+1241
+01:17:09,450 --> 01:17:11,322
+mas você não é nada, mas um frango.
+
+1242
+01:17:11,365 --> 01:17:14,020
+Com muito medo de contar-me que eu nunca vou ver meu pai novamente.
+
+1243
+01:17:14,064 --> 01:17:15,195
+Celia.
+
+1244
+01:17:15,239 --> 01:17:16,457
+Celia Celia! Não!
+
+1245
+01:17:16,501 --> 01:17:21,462
+Celia, não! não! Ugh!
+
+1246
+01:17:21,506 --> 01:17:24,204
+Recuperar o seu poder e inflamar!
+
+1247
+01:17:24,248 --> 01:17:26,163
+Não.
+
+1248
+01:17:26,206 --> 01:17:28,382
+Recuperar o seu poder e inflamar!
+
+1249
+01:17:33,083 --> 01:17:34,824
+Chatice.
+
+1250
+01:17:36,434 --> 01:17:39,176
+Vamos encontrar Gil e deixá-los todos para apodrecer.
+
+1251
+01:17:39,219 --> 01:17:40,177
+Não.
+
+1252
+01:17:41,482 --> 01:17:43,267
+Uh.
+
+1253
+01:17:43,310 --> 01:17:45,182
+Uma!
+
+1254
+01:17:51,754 --> 01:17:55,801
+Evie. Eu estou tão triste.
+
+1255
+01:17:55,845 --> 01:17:59,022
+Me desculpe, eu só... eu pensei que...
+
+1256
+01:17:59,065 --> 01:18:00,458
+Eu estava com medo de dizer a você,
+
+1257
+01:18:00,501 --> 01:18:02,852
+Eu pensei que eu ia perder o meu melhor amigo.
+
+1258
+01:18:02,895 --> 01:18:07,465
+Mas eu tinha que fazer algo, eu tinha que... proteger Auradon.
+
+1259
+01:18:07,508 --> 01:18:09,685
+Fechando a barreira era a sua ideia?
+
+1260
+01:18:09,728 --> 01:18:11,121
+Eu fiz isso por nós!
+
+1261
+01:18:12,775 --> 01:18:17,083
+Eu fiz isso para... a nossa vida que temos aqui e agora.
+
+1262
+01:18:17,127 --> 01:18:19,695
+Para a nossa vida?!
+
+1263
+01:18:19,738 --> 01:18:23,611
+Que sobre as crianças que deixamos para trás em que ilha?!
+
+1264
+01:18:23,655 --> 01:18:26,397
+As crianças que nós prometemos.
+
+1265
+01:18:26,440 --> 01:18:28,051
+Estávamos a sua única esperança.
+
+1266
+01:18:30,488 --> 01:18:33,230
+Eu pensei que você estava indo levantar-se para a VKs.
+
+1267
+01:18:36,146 --> 01:18:37,843
+Mas, em vez disso, você mentiu para eles.
+
+1268
+01:18:41,064 --> 01:18:42,152
+E você mentiu para Jay.
+
+1269
+01:18:43,762 --> 01:18:45,329
+E você mentiu para Carlos.
+
+1270
+01:18:46,765 --> 01:18:48,288
+Você mentiu para mim.
+
+1271
+01:18:51,074 --> 01:18:52,684
+Estamos a sua família.
+
+1272
+01:18:54,773 --> 01:18:55,905
+Evie.
+
+1273
+01:18:58,690 --> 01:19:01,780
+Evie, venha! Eu não tinha escolha!
+
+1274
+01:19:06,089 --> 01:19:07,873
+Não.
+
+1275
+01:19:14,967 --> 01:19:19,929
+♪ Aqui você está sozinho, e você merece ♪
+
+1276
+01:19:19,972 --> 01:19:22,148
+♪ Os seus amigos voltaram-se para a pedra ♪
+
+1277
+01:19:22,192 --> 01:19:24,890
+♪ E que está em você
+
+1278
+01:19:24,934 --> 01:19:29,677
+♪ Você tinha uma causa para servir, mas servir? ♪
+
+1279
+01:19:29,721 --> 01:19:34,073
+♪ Você veja a si mesmo de uma maneira que não era verdade? ♪
+
+1280
+01:19:38,121 --> 01:19:42,778
+♪ Por dizer todas aquelas mentiras? Você se sente indigno ♪
+
+1281
+01:19:42,821 --> 01:19:48,087
+♪ Como não há base sólida para você ficar ♪
+
+1282
+01:19:48,131 --> 01:19:52,788
+♪ Mas uma pilha de mentiras não é uma fundação firme ♪
+
+1283
+01:19:52,831 --> 01:19:58,097
+♪ Você não pode construir um castelo em uma montanha feita de areia ♪
+
+1284
+01:19:58,141 --> 01:20:03,146
+♪ Este não é o seu pai de conto de fadas ♪
+
+1285
+01:20:03,189 --> 01:20:06,540
+♪ E não, ela não é sua mãe falha ♪
+
+1286
+01:20:06,584 --> 01:20:09,500
+♪ Você falhar
+
+1287
+01:20:09,543 --> 01:20:14,592
+♪ Então, quando sua história vem à luz ♪
+
+1288
+01:20:14,635 --> 01:20:19,379
+♪ Certifique-se de que a história que eles escrevem vai ♪
+
+1289
+01:20:19,423 --> 01:20:24,732
+♪ Era uma vez, ela lutou contra um dragão ♪
+
+1290
+01:20:24,776 --> 01:20:29,650
+♪ Uma vez, que o animal era de mim ♪
+
+1291
+01:20:29,694 --> 01:20:32,088
+♪ Uma vez em cima de um mal gastos da juventude
+
+1292
+01:20:32,131 --> 01:20:36,614
+♪ Ela enfrentou a si mesma, ela falou a verdade ♪
+
+1293
+01:20:36,657 --> 01:20:42,315
+♪ É assim que eu vejo a minha era uma vez ♪
+
+1294
+01:20:42,359 --> 01:20:46,015
+♪ Este tempo
+
+1295
+01:20:49,409 --> 01:20:50,628
+Uma!
+
+1296
+01:20:51,716 --> 01:20:54,023
+Uma. Pare, por favor! Parar!
+
+1297
+01:20:54,066 --> 01:20:55,372
+Eu preciso de sua ajuda!
+
+1298
+01:20:55,415 --> 01:20:57,548
+Nós temos uma chance de se fizermos isso juntos.
+
+1299
+01:20:57,591 --> 01:20:59,071
+Seus amigos chutar para o meio-fio?
+
+1300
+01:21:00,638 --> 01:21:02,031
+Boa.
+
+1301
+01:21:02,074 --> 01:21:03,032
+Ben viu algo em você,
+
+1302
+01:21:03,075 --> 01:21:05,121
+e hoje, Uma, eu vi isso também.
+
+1303
+01:21:05,164 --> 01:21:08,211
+Você se importa, Uma, você se preocupa a todos,
+
+1304
+01:21:08,254 --> 01:21:11,257
+e Auradon é que vale a pena salvar.
+
+1305
+01:21:11,301 --> 01:21:13,999
+Nos ajude... por favor.
+
+1306
+01:21:16,654 --> 01:21:20,614
+Você fala muito, mas... ela já fez até a sua mente.
+
+1307
+01:21:22,616 --> 01:21:24,488
+Você trouxe isso em si mesmo, o Mal.
+
+1308
+01:21:24,531 --> 01:21:27,143
+Você a descobrir como corrigi-lo.
+
+1309
+01:21:27,186 --> 01:21:28,274
+Vamos lá.
+
+1310
+01:21:34,237 --> 01:21:36,195
+♪ A vida não é um conto de fadas
+
+1311
+01:21:36,239 --> 01:21:39,111
+♪ Mas a vida desdobra-se em capítulos
+
+1312
+01:21:39,155 --> 01:21:44,116
+♪ Virar a página e começar a fazer as pazes ♪
+
+1313
+01:21:44,160 --> 01:21:46,510
+♪ Não há pré-escrita garantia ♪
+
+1314
+01:21:46,553 --> 01:21:49,252
+♪ De felizes para sempre
+
+1315
+01:21:49,295 --> 01:21:52,211
+♪ Passo em sua grandeza
+
+1316
+01:21:52,255 --> 01:21:57,216
+♪ Antes de sua história termina!
+
+1317
+01:21:57,260 --> 01:22:00,828
+♪ Então, quando sua história termina
+
+1318
+01:22:00,872 --> 01:22:02,308
+♪ Vai dizer
+
+1319
+01:22:02,352 --> 01:22:07,400
+♪ Era uma vez, uma menina voou mais alto ♪
+
+1320
+01:22:07,444 --> 01:22:12,623
+♪ Era uma vez, ela fez as coisas direito ♪
+
+1321
+01:22:12,666 --> 01:22:15,234
+♪ Uma vez sobre um laço que liga
+
+1322
+01:22:15,278 --> 01:22:19,325
+♪ Ela mudou o seu coração para mudar as suas mentes ♪
+
+1323
+01:22:19,369 --> 01:22:21,110
+♪ Que tem que ser
+
+1324
+01:22:21,153 --> 01:22:26,071
+♪ O meu era uma vez
+
+1325
+01:22:26,115 --> 01:22:30,249
+♪ Essa era uma vez
+
+1326
+01:22:30,293 --> 01:22:36,255
+♪ Eu vou finalmente ver o meu era uma vez ♪
+
+1327
+01:22:37,822 --> 01:22:43,784
+♪ Este tempo
+
+1328
+01:22:50,226 --> 01:22:51,575
+Ajuda-me Mal!
+
+1329
+01:22:51,618 --> 01:22:53,490
+Sim! Salve o seu pequeno amigo, Mal!
+
+1330
+01:23:17,296 --> 01:23:20,299
+Ajuda-me Mal!
+
+1331
+01:23:21,561 --> 01:23:24,173
+Cuidado para não fritar seu pequeno VK amigo.
+
+1332
+01:23:26,218 --> 01:23:27,132
+Caraca!
+
+1333
+01:23:35,140 --> 01:23:37,534
+Ela não resiste a uma chance sem a brasa.
+
+1334
+01:23:37,577 --> 01:23:39,362
+Ajuda-me Mal!
+
+1335
+01:23:42,365 --> 01:23:43,235
+Venha!
+
+1336
+01:23:46,325 --> 01:23:48,153
+Mantenha ainda, pouco muleque!
+
+1337
+01:24:01,166 --> 01:24:02,602
+Somos mais fortes juntos.
+
+1338
+01:24:02,646 --> 01:24:05,388
+Mais fortes juntos, eu estou bem aqui, Mal.
+
+1339
+01:24:05,431 --> 01:24:07,042
+Recuperar o seu poder e inflamar.
+
+1340
+01:24:07,085 --> 01:24:09,131
+Eu estou bem aqui, menina, eu estou bem aqui.
+
+1341
+01:24:09,174 --> 01:24:12,003
+Recuperar o seu poder e inflamar!
+
+1342
+01:24:19,054 --> 01:24:20,229
+Sim!
+
+1343
+01:24:24,102 --> 01:24:25,843
+Quer um pedaço deste? Hein?!
+
+1344
+01:24:25,886 --> 01:24:27,366
+Não! Não!
+
+1345
+01:24:45,036 --> 01:24:46,211
+Venha, Mal!
+
+1346
+01:24:46,255 --> 01:24:48,431
+- Get ela, Mal!
+- Você tem isso, menina!
+
+1347
+01:24:58,310 --> 01:24:59,920
+- Sim! Venha!
+- Sim!
+
+1348
+01:25:11,976 --> 01:25:15,066
+- Mal!
+- Ah, Celia.
+
+1349
+01:25:15,980 --> 01:25:18,635
+Está tudo bem. Eu tenho você.
+
+1350
+01:25:30,516 --> 01:25:31,865
+Audrey?
+
+1351
+01:25:32,910 --> 01:25:34,346
+Oh, não.
+
+1352
+01:25:38,872 --> 01:25:41,179
+Você está apenas a metade Hades.
+
+1353
+01:25:41,223 --> 01:25:43,747
+A brasa não vai fazer de tudo para que ela faz por mim.
+
+1354
+01:26:02,200 --> 01:26:04,115
+Eu estou com fome.
+
+1355
+01:26:04,159 --> 01:26:05,464
+Mesmo.
+
+1356
+01:26:15,779 --> 01:26:17,520
+Oh!
+
+1357
+01:26:17,563 --> 01:26:19,086
+Mãe! Mãe!
+
+1358
+01:26:19,130 --> 01:26:21,306
+Bippity-boppity, o que aconteceu?
+
+1359
+01:26:21,350 --> 01:26:24,875
+O feitiço foi quebrado. Está tudo bem.
+
+1360
+01:26:31,490 --> 01:26:34,101
+Venha. Vamos lá.
+
+1361
+01:26:34,145 --> 01:26:35,929
+- Você é bom?
+- Sim.
+
+1362
+01:26:40,456 --> 01:26:42,197
+Ela está se esvaindo.
+
+1363
+01:26:49,029 --> 01:26:51,902
+Só há uma pessoa no mundo que pode ser capaz de
+
+1364
+01:26:51,945 --> 01:26:54,121
+para fazer algo sobre isso, e isso é o Inferno.
+
+1365
+01:26:54,165 --> 01:26:56,733
+Hades? Ele não faria isso.
+
+1366
+01:26:56,776 --> 01:26:58,169
+E eu não iria arriscar.
+
+1367
+01:26:58,213 --> 01:26:59,997
+Na verdade, ele pode fazer isso por mim.
+
+1368
+01:27:01,955 --> 01:27:03,435
+Ele é meu pai.
+
+1369
+01:27:07,352 --> 01:27:08,353
+Tudo bem.
+
+1370
+01:27:10,442 --> 01:27:13,010
+Bem, eu vou ter que enviar guardas para chegar a ele.
+
+1371
+01:27:13,619 --> 01:27:15,055
+Talvez eu possa pegar uma carona.
+
+1372
+01:27:17,841 --> 01:27:19,451
+A Ilha é a minha casa.
+
+1373
+01:27:20,800 --> 01:27:22,411
+Alguém precisa estar lá para protegê-lo.
+
+1374
+01:27:23,847 --> 01:27:26,458
+Bem, então, você precisará de seu primeiro companheiro.
+
+1375
+01:27:28,460 --> 01:27:30,506
+A Ilha estará em muito boas mãos.
+
+1376
+01:27:33,378 --> 01:27:34,684
+Posso ir também?
+
+1377
+01:27:37,774 --> 01:27:39,863
+Eu desejo que eu poderia ser, em ambos os lugares.
+
+1378
+01:27:51,614 --> 01:27:54,181
+Eu realmente acho que Evie estava certo.
+
+1379
+01:27:54,225 --> 01:27:58,098
+E... eu acho que nós poderíamos ter sido amigos.
+
+1380
+01:28:01,885 --> 01:28:05,236
+E eu realmente sinto muito que eu menti para todos vocês.
+
+1381
+01:28:05,280 --> 01:28:06,672
+Você merece muito melhor do que isso.
+
+1382
+01:28:06,716 --> 01:28:08,979
+Você está apenas tentando fazer a coisa certa.
+
+1383
+01:28:09,022 --> 01:28:10,241
+Sim.
+
+1384
+01:28:18,858 --> 01:28:20,295
+Eu entendi.
+
+1385
+01:28:50,063 --> 01:28:51,935
+Obrigado por ter vindo.
+
+1386
+01:28:51,978 --> 01:28:54,154
+Não tem muita escolha.
+
+1387
+01:28:55,852 --> 01:28:57,680
+Você pode acordá-la?
+
+1388
+01:28:57,723 --> 01:29:00,596
+Desde quando os heróis de cuidados sobre vilões?
+
+1389
+01:29:00,639 --> 01:29:02,772
+- Ela--
+- Um dos seus próprios?
+
+1390
+01:29:04,687 --> 01:29:05,992
+Direito.
+
+1391
+01:29:08,560 --> 01:29:13,043
+Quando vocês tentam destruir o mundo,
+
+1392
+01:29:13,086 --> 01:29:14,784
+é um erro de julgamento.
+
+1393
+01:29:16,176 --> 01:29:18,614
+Mas quando é um de nós,
+
+1394
+01:29:18,657 --> 01:29:20,659
+lock 'em up, jogar a chave fora.
+
+1395
+01:29:22,574 --> 01:29:24,576
+Direito, Besta?
+
+1396
+01:29:30,539 --> 01:29:32,584
+Sim, eu vou precisar usar as mãos.
+
+1397
+01:29:56,565 --> 01:29:59,045
+Não perdi meu toque.
+
+1398
+01:30:06,792 --> 01:30:07,967
+O pai.
+
+1399
+01:30:34,254 --> 01:30:37,997
+Oh, Audrey. , Você está bem.
+
+1400
+01:30:41,784 --> 01:30:43,699
+Conte-me tudo não passou de um sonho ruim.
+
+1401
+01:30:43,742 --> 01:30:47,964
+Eu desejo que eu poderia. Mas agora acabou.
+
+1402
+01:30:54,013 --> 01:30:55,798
+Sinto muito.
+
+1403
+01:30:57,843 --> 01:30:59,105
+Eu queria te machucar tanto.
+
+1404
+01:31:01,064 --> 01:31:03,022
+Eu quis machucar você.
+
+1405
+01:31:10,639 --> 01:31:12,815
+Eu devia um pedido de desculpas
+
+1406
+01:31:12,858 --> 01:31:16,209
+para um tempo muito longo.
+
+1407
+01:31:19,212 --> 01:31:20,823
+E assim ter I.
+
+1408
+01:31:23,826 --> 01:31:27,003
+E talvez... eu...
+
+1409
+01:31:27,046 --> 01:31:29,832
+deveu-lhe um, também.
+
+1410
+01:31:39,058 --> 01:31:41,539
+Oh yeah.
+
+1411
+01:32:01,124 --> 01:32:02,734
+Pai!
+
+1412
+01:32:08,827 --> 01:32:11,787
+Eu vou ter que perder você mais uma vez.
+
+1413
+01:32:13,745 --> 01:32:16,052
+Obrigado por um vislumbre do sol.
+
+1414
+01:33:06,755 --> 01:33:08,104
+Lá estão eles.
+
+1415
+01:33:14,197 --> 01:33:15,894
+Olá.
+
+1416
+01:33:31,997 --> 01:33:33,303
+Senhora Mal e eu quero agradecer a você
+
+1417
+01:33:33,346 --> 01:33:35,697
+para celebrar o nosso compromisso com a gente hoje.
+
+1418
+01:33:35,740 --> 01:33:39,135
+Eu não poderia estar mais orgulhoso ou mais feliz para chamar você minha rainha.
+
+1419
+01:33:40,963 --> 01:33:42,834
+Então...
+
+1420
+01:33:42,878 --> 01:33:44,923
+elevar seus óculos.
+
+1421
+01:33:44,967 --> 01:33:46,316
+Para a nossa futura rainha da Auradon.
+
+1422
+01:33:46,359 --> 01:33:48,971
+A nossa rainha do Auradon.
+
+1423
+01:33:50,233 --> 01:33:51,756
+Fala, Sua Specialness.
+
+1424
+01:33:51,800 --> 01:33:53,802
+Fala, Oh, Fantasia.
+
+1425
+01:34:08,730 --> 01:34:09,818
+Eu não posso.
+
+1426
+01:34:12,777 --> 01:34:15,127
+Eu posso não ser a rainha da Auradon.
+
+1427
+01:34:15,171 --> 01:34:17,739
+- Mal?
+- Eu não posso transformar a minha volta
+
+1428
+01:34:17,782 --> 01:34:19,044
+na Ilha.
+
+1429
+01:34:24,963 --> 01:34:29,968
+Tomamos a decisão de fechar a barreira para sempre.
+
+1430
+01:34:34,103 --> 01:34:36,105
+E foi a minha idéia.
+
+1431
+01:34:38,847 --> 01:34:40,022
+Mas é errado.
+
+1432
+01:34:43,286 --> 01:34:48,247
+Eu aprendi que você não pode viver no medo.
+
+1433
+01:34:50,119 --> 01:34:52,861
+Porque, na verdade, não protegê-lo de qualquer coisa.
+
+1434
+01:34:55,864 --> 01:35:00,172
+Você nunca sabe onde o ruim é que vai vir.
+
+1435
+01:35:00,216 --> 01:35:01,826
+E você nunca sabe onde os heróis
+
+1436
+01:35:01,870 --> 01:35:03,262
+vão vir de qualquer um.
+
+1437
+01:35:03,306 --> 01:35:06,875
+Sem Uma e seus piratas, Auradon teria ido.
+
+1438
+01:35:09,442 --> 01:35:13,098
+E sem Hades... meu pai--
+
+1439
+01:35:21,541 --> 01:35:23,021
+Audrey teria ido.
+
+1440
+01:35:28,157 --> 01:35:31,421
+Todos nós somos capazes do bem e do mal,
+
+1441
+01:35:31,464 --> 01:35:34,903
+não importa de que lado da barreira que viemos.
+
+1442
+01:35:36,295 --> 01:35:39,864
+E é por isso que eu não posso ser a rainha de apenas Auradon.
+
+1443
+01:35:39,908 --> 01:35:43,128
+Eu tenho que ser a rainha da Ilha, também,
+
+1444
+01:35:43,172 --> 01:35:48,264
+e é o tempo que temos de tomar a barreira para sempre.
+
+1445
+01:35:48,307 --> 01:35:50,135
+Nós não podemos fazer isso.
+
+1446
+01:35:50,179 --> 01:35:51,963
+Cabe a nós, Pai.
+
+1447
+01:35:59,188 --> 01:36:01,146
+Eu escolho ser um rei que se move para frente.
+
+1448
+01:36:02,626 --> 01:36:05,107
+É tempo de perdão.
+
+1449
+01:36:05,150 --> 01:36:06,978
+É tempo para um novo começo.
+
+1450
+01:36:09,285 --> 01:36:11,461
+A barreira vai cair.
+
+1451
+01:36:11,504 --> 01:36:13,158
+Sim!
+
+1452
+01:36:16,945 --> 01:36:18,903
+Trazê-lo para baixo, Mal.
+
+1453
+01:36:53,111 --> 01:36:55,070
+Para tornar o mundo um lugar melhor...
+
+1454
+01:36:55,113 --> 01:36:57,942
+...temos de fazê-lo face a face.
+
+1455
+01:37:44,902 --> 01:37:47,209
+O meu plano.
+
+1456
+01:37:47,252 --> 01:37:49,167
+Ha!
+
+1457
+01:37:49,211 --> 01:37:50,908
+Sim!
+
+1458
+01:38:05,140 --> 01:38:09,013
+♪ É hora de trazê-lo junto ♪
+
+1459
+01:38:09,057 --> 01:38:12,060
+♪ Tempo para um novo início
+
+1460
+01:38:13,409 --> 01:38:16,586
+♪ Vamos colocá-lo no mo-o-oção ♪
+
+1461
+01:38:16,629 --> 01:38:20,503
+♪ Quebrar o que nos mantém afastados ♪
+
+1462
+01:38:20,546 --> 01:38:22,244
+♪ Não mais, sem divisão, estamos para baixo ♪
+
+1463
+01:38:22,287 --> 01:38:24,072
+♪ Nova equipe, tem a visão de unir ♪
+
+1464
+01:38:24,115 --> 01:38:26,422
+♪ United we stand, agora estamos vivendo marchando ♪
+
+1465
+01:38:26,465 --> 01:38:29,120
+♪ Na luz, um-dois, um-dois, como ♪
+
+1466
+01:38:29,164 --> 01:38:30,905
+- ♪ Eu quero ver você
+- ♪ Você me ver
+
+1467
+01:38:30,948 --> 01:38:32,907
+- ♪ Imperfeito
+- ♪ Perfeitamente
+
+1468
+01:38:32,950 --> 01:38:36,911
+♪ Face a Face, podemos ver claramente as nossas semelhanças, como ♪
+
+1469
+01:38:36,954 --> 01:38:38,825
+♪ O dia e a noite
+
+1470
+01:38:38,869 --> 01:38:40,697
+♪ Certo ou errado
+
+1471
+01:38:40,740 --> 01:38:43,743
+♪ Estamos juntos por um bom tempo ♪
+
+1472
+01:38:43,787 --> 01:38:47,704
+♪ Vamos quebrar esse baixo ♪
+
+1473
+01:38:47,747 --> 01:38:51,186
+♪ Vamos de rock da cidade
+
+1474
+01:38:51,229 --> 01:38:54,841
+♪ Todos ao redor
+
+1475
+01:38:56,452 --> 01:38:58,454
+♪ Vamos ser quem como este
+
+1476
+01:38:58,497 --> 01:39:00,412
+♪ Mais fortes juntos como este
+
+1477
+01:39:00,456 --> 01:39:04,329
+♪ Acreditar em segundas chances ♪
+
+1478
+01:39:04,373 --> 01:39:08,290
+♪ E todos nós estamos começando hoje! ♪
+
+1479
+01:39:08,333 --> 01:39:12,294
+♪ Marchando em uma nova terra ♪
+
+1480
+01:39:12,337 --> 01:39:16,167
+♪ O nosso mundo melhor, um lugar melhor ♪
+
+1481
+01:39:16,211 --> 01:39:18,169
+♪ Boas-vindas a novos amor ♪
+
+1482
+01:39:18,213 --> 01:39:20,171
+♪ Unidade, novo começo para nós ♪
+
+1483
+01:39:20,215 --> 01:39:22,130
+♪ Harmonia, que é a missão, marchando ♪
+
+1484
+01:39:22,173 --> 01:39:24,045
+♪ Na luz, um-dois, um-dois, como ♪
+
+1485
+01:39:24,088 --> 01:39:25,046
+♪ Eu quero ver você
+
+1486
+01:39:25,089 --> 01:39:26,003
+♪ Você me ver
+
+1487
+01:39:26,047 --> 01:39:27,918
+♪ Imperfeito, perfeitamente
+
+1488
+01:39:27,962 --> 01:39:31,791
+♪ Face a Face, podemos ver claramente as nossas semelhanças, como ♪
+
+1489
+01:39:31,835 --> 01:39:33,793
+♪ O dia e a noite
+
+1490
+01:39:33,837 --> 01:39:35,708
+♪ Certo ou errado
+
+1491
+01:39:35,752 --> 01:39:38,755
+♪ Estamos juntos por um bom tempo ♪
+
+1492
+01:39:38,798 --> 01:39:42,585
+♪ Vamos quebrar esse baixo
+
+1493
+01:39:42,628 --> 01:39:46,502
+♪ Vamos de rock da cidade
+
+1494
+01:39:46,545 --> 01:39:49,505
+♪ Todos ao redor
+
+1495
+01:39:49,548 --> 01:39:51,333
+♪ Apenas ser quem como este
+
+1496
+01:39:51,376 --> 01:39:53,335
+♪ Mais fortes juntos como este
+
+1497
+01:39:53,378 --> 01:39:55,337
+♪ Nós reunidos como este
+
+1498
+01:39:55,380 --> 01:39:59,123
+♪ Trazendo-a, trazendo-a, b-b-trazendo-a para baixo ♪
+
+1499
+01:39:59,167 --> 01:40:03,084
+♪ Trazendo-a, trazendo-a, b-b-trazendo-a para baixo ♪
+
+1500
+01:40:03,127 --> 01:40:07,001
+♪ Trazendo-a, trazendo-a, b-b-trazendo-a para baixo ♪
+
+1501
+01:40:07,044 --> 01:40:10,221
+♪ Trazendo-a, trazendo-a, b-b-trazendo-a para baixo ♪
+
+1502
+01:40:10,265 --> 01:40:13,137
+♪ Para baixo
+
+1503
+01:40:57,703 --> 01:41:00,184
+♪ Vamos quebrar esse baixo ♪
+
+1504
+01:41:00,228 --> 01:41:01,794
+♪ Quebrar esse baixo
+
+1505
+01:41:01,838 --> 01:41:04,232
+♪ Vamos de rock da cidade
+
+1506
+01:41:04,275 --> 01:41:05,668
+♪ Ooh, nós vamos rocha
+
+1507
+01:41:05,711 --> 01:41:08,149
+♪ Todos ao redor
+
+1508
+01:41:08,192 --> 01:41:10,107
+♪ Basta ser qualquer coisa como esta
+
+1509
+01:41:10,151 --> 01:41:12,153
+♪ Mais fortes juntos como este
+
+1510
+01:41:12,196 --> 01:41:13,632
+♪ Estamos reunidos como este
+
+1511
+01:41:13,676 --> 01:41:16,287
+♪ Vamos quebrar esse baixo
+
+1512
+01:41:16,331 --> 01:41:18,115
+♪ Venha, temos que quebrá-lo para baixo ♪
+
+1513
+01:41:18,159 --> 01:41:19,812
+♪ Vamos de rock da cidade ♪
+
+1514
+01:41:19,856 --> 01:41:21,423
+- ♪ Venha!
+- ♪ Todo mundo
+
+1515
+01:41:21,466 --> 01:41:24,121
+♪ Todos ao redor
+
+1516
+01:41:24,165 --> 01:41:26,080
+♪ Apenas ser quem como este
+
+1517
+01:41:26,123 --> 01:41:28,082
+♪ Mais fortes juntos como este
+
+1518
+01:41:28,125 --> 01:41:29,692
+♪ Estamos reunidos como este
+
+1519
+01:41:29,735 --> 01:41:33,304
+♪ Trazendo-a, trazendo-a, b-b-trazendo-a para baixo ♪
+
+1520
+01:42:11,777 --> 01:42:12,691
+Avó!
+
+1521
+01:42:15,520 --> 01:42:16,521
+Venha!
+
+1522
+01:42:18,219 --> 01:42:19,655
+- Carlos.
+- Sim.
+
+1523
+01:42:19,698 --> 01:42:21,309
+Na verdade, estou muito nervoso para atender a sua mãe.
+
+1524
+01:42:21,352 --> 01:42:24,312
+Você está nervoso?! Sua mãe é Cruella de Vil!
+
+1525
+01:42:24,355 --> 01:42:26,966
+Estou petrificada!
+
+1526
+01:42:27,010 --> 01:42:28,838
+Espere até que ela ouve eu quero ser um veterinário.
+
+1527
+01:42:28,881 --> 01:42:31,275
+O que você diz a mim e a você de ir explorar? Eu vou fazer uma pausa de um ano.
+
+1528
+01:42:31,319 --> 01:42:33,103
+Selvas ou icebergs?
+
+1529
+01:42:33,147 --> 01:42:35,149
+Os dois?
+
+1530
+01:42:35,192 --> 01:42:36,541
+Sim. No peito da barriga!
+
+1531
+01:42:39,675 --> 01:42:41,111
+- Ei!
+- Wooh!
+
+1532
+01:42:41,155 --> 01:42:42,504
+Vai, menina.
+
+1533
+01:42:42,547 --> 01:42:45,071
+Você sabe o que? Mal chegou através de.
+
+1534
+01:42:45,115 --> 01:42:46,464
+Ela sempre faz.
+
+1535
+01:42:46,508 --> 01:42:48,423
+Então, ela definitivamente tomado?
+
+1536
+01:42:48,466 --> 01:42:50,381
+Definitivamente.
+
+1537
+01:42:50,425 --> 01:42:52,383
+Assim é Evie.
+
+1538
+01:42:52,427 --> 01:42:54,298
+- Ah!
+- Qual é o meu nome?
+
+1539
+01:42:54,342 --> 01:42:55,734
+Uma.
+
+1540
+01:42:57,301 --> 01:42:58,737
+Não.
+
+1541
+01:43:02,132 --> 01:43:03,438
+- Oi.
+- Oi.
+
+1542
+01:43:06,397 --> 01:43:07,485
+Caraca!
+
+1543
+01:43:09,313 --> 01:43:12,229
+Estou convidado para o casamento?
+
+1544
+01:43:12,273 --> 01:43:13,448
+Oi, Pai.
+
+1545
+01:43:13,491 --> 01:43:16,277
+Uh... uh...
+
+1546
+01:43:25,373 --> 01:43:28,289
+Tenho certeza de que vocês dois vão ser muito felizes juntos.
+
+1547
+01:43:42,085 --> 01:43:43,565
+Bem-vindo ao Auradon.
+
+1548
+01:43:45,871 --> 01:43:49,223
+♪ Vamos quebrar esse baixo ♪
+
+1549
+01:43:49,266 --> 01:43:53,052
+♪ Vamos de rock da cidade
+
+1550
+01:43:53,096 --> 01:43:56,273
+♪ Todos ao redor
+
+1551
+01:43:56,317 --> 01:43:58,188
+♪ Apenas ser quem como este
+
+1552
+01:43:58,232 --> 01:43:59,755
+♪ Mais fortes juntos como este
+
+1553
+01:43:59,798 --> 01:44:02,018
+♪ Estamos reunidos como este
+
+1554
+01:44:02,061 --> 01:44:06,065
+♪ Vamos quebrar esse baixo ♪
+
+1555
+01:44:06,109 --> 01:44:09,591
+♪ Vamos de rock da cidade
+
+1556
+01:44:09,634 --> 01:44:12,246
+♪ Todos ao redor
+
+1557
+01:44:12,289 --> 01:44:14,073
+♪ Apenas ser quem como este
+
+1558
+01:44:14,117 --> 01:44:16,075
+♪ Mais fortes juntos como este
+
+1559
+01:44:16,119 --> 01:44:17,512
+♪ Estamos reunidos como este
+
+1560
+01:44:53,678 --> 01:44:57,160
+♪ Trazendo-a, trazendo-a, b-b-trazendo-a para baixo ♪
+
+1561
+01:45:14,090 --> 01:45:15,700
+Você nunca perca 'em?
+
+1562
+01:45:17,398 --> 01:45:18,355
+Sim.
+
+1563
+01:45:21,315 --> 01:45:23,055
+Você acha que eles perder-nos?
+
+1564
+01:45:23,099 --> 01:45:26,363
+Sim. Do curso.
+
+1565
+01:45:28,322 --> 01:45:29,366
+'Porque nós somos podres.
+
+1566
+01:45:31,150 --> 01:45:34,023
+Para o núcleo.
+
+1567
+01:45:34,066 --> 01:45:35,720
+Ei, último sobre a ponte...
+
+1568
+01:45:35,764 --> 01:45:37,940
+...é uma maçã podre!
+
+1569
+01:45:52,476 --> 01:45:54,435
+♪ Não importa o que você parece ♪
+
+1570
+01:45:54,478 --> 01:45:56,350
+♪ Não importa o que você veste ♪
+
+1571
+01:45:56,393 --> 01:45:58,526
+♪ Quantos anéis você tem no seu dedo ♪
+
+1572
+01:45:58,569 --> 01:46:00,658
+♪ Não importa, não, nós não nos importamos ♪
+
+1573
+01:46:00,702 --> 01:46:02,747
+♪ Você tem que cavar um pouco mais ♪
+
+1574
+01:46:02,791 --> 01:46:05,446
+♪ Ah, é gon' ser difícil
+
+1575
+01:46:05,489 --> 01:46:07,665
+♪ Você tem que cavar um pouco mais ♪
+
+1576
+01:46:07,709 --> 01:46:10,364
+♪ Você não escavado perto longe o suficiente ♪
+
+1577
+01:46:10,407 --> 01:46:12,583
+♪ Cavar bem fundo dentro de você ♪
+
+1578
+01:46:12,627 --> 01:46:15,499
+♪ Você vai descobrir o que você precisa ♪
+
+1579
+01:46:15,543 --> 01:46:18,502
+♪ Céu azul e sol garantido ♪
+
+1580
+01:46:18,546 --> 01:46:20,330
+♪ Oh, oh
+
+1581
+00:00:01,250 --> 00:00:10,500
+Tradução Automática Por:
+<font color=#FF333D> www.elsubtitle.com </font>
+Visite Nosso Site Para Tradução Livre
+

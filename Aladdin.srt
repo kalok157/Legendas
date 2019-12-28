@@ -1,0 +1,7789 @@
+1
+00:00:50,161 --> 00:00:52,079
+Ei, olhe! Ali!
+
+2
+00:00:56,000 --> 00:00:57,626
+O navio deles é tão grande.
+
+3
+00:00:57,793 --> 00:00:59,003
+O nosso podia ser assim.
+
+4
+00:00:59,170 --> 00:01:02,173
+Eu ficaria muito feliz
+se o nosso fosse chique assim.
+
+5
+00:01:02,339 --> 00:01:03,716
+-Porque aí...
+-Por que isso?
+
+6
+00:01:04,341 --> 00:01:06,760
+Porque parece melhor?
+
+7
+00:01:06,927 --> 00:01:10,014
+Este barco nos fez
+escapar de muitas tempestades.
+
+8
+00:01:10,181 --> 00:01:13,976
+Pode não parecer grande coisa,
+mas tem algo que o deles nunca terá.
+
+9
+00:01:14,143 --> 00:01:15,978
+O quê? Madeira podre e ratos?
+
+10
+00:01:17,229 --> 00:01:18,772
+Elas estão aprendendo algo, amor?
+
+11
+00:01:18,939 --> 00:01:20,316
+Não está claro.
+
+12
+00:01:20,900 --> 00:01:22,860
+Muito bem, sentem-se ali, crianças.
+
+13
+00:01:24,069 --> 00:01:27,781
+Acho que chegou a hora
+de ouvirem a história...
+
+14
+00:01:27,948 --> 00:01:32,077
+sobre Aladdin, a Princesa
+e a lâmpada.
+
+15
+00:01:32,244 --> 00:01:34,038
+O que uma lâmpada tem
+de tão especial?
+
+16
+00:01:34,205 --> 00:01:36,040
+É uma lâmpada mágica.
+
+17
+00:01:36,207 --> 00:01:37,583
+Você podia cantar.
+
+18
+00:01:37,750 --> 00:01:39,084
+Gosto quando você canta.
+
+19
+00:01:39,251 --> 00:01:42,338
+Não, não. Nada de cantoria.
+Meu dia foi longo.
+
+20
+00:01:46,425 --> 00:01:50,304
+<i>Imaginem um lugar
+É um local distante</i>
+
+21
+00:01:50,471 --> 00:01:53,807
+<i>Com caravanas de camelos
+a vagar</i>
+
+22
+00:01:53,974 --> 00:01:57,686
+<i>Onde se pode circular
+Entre culturas e idiomas</i>
+
+23
+00:01:57,853 --> 00:02:01,357
+<i>É caótico, mas...
+e daí, é o nosso lar</i>
+
+24
+00:02:01,524 --> 00:02:05,152
+<i>Quando o vento vem do leste
+E o Sol vem do oeste</i>
+
+25
+00:02:05,319 --> 00:02:08,656
+<i>E a areia na ampulheta
+acabar de escorrer</i>
+
+26
+00:02:08,823 --> 00:02:12,535
+<i>Podem vir, venham ver
+Pulem em um tapete e vão voar</i>
+
+27
+00:02:12,701 --> 00:02:17,706
+<i>Para outra noite da Arábia</i>
+
+28
+00:02:34,348 --> 00:02:35,349
+Ei!
+
+29
+00:02:36,934 --> 00:02:40,688
+<i>Explorando as ruas
+E os lendários bazares</i>
+
+30
+00:02:40,855 --> 00:02:44,149
+<i>Com as bancas
+abarrotadas de cardamomo</i>
+
+31
+00:02:44,316 --> 00:02:48,112
+<i>Sentindo o cheiro de cada tempero
+Você pechincha para levar</i>
+
+32
+00:02:48,279 --> 00:02:51,657
+<i>A seda e o cetim</i>
+
+33
+00:02:51,824 --> 00:02:55,536
+<i>Ah, e a música que toca
+No labirinto por onde se desloca</i>
+
+34
+00:02:55,703 --> 00:02:59,123
+<i>Tomado de pura emoção</i>
+
+35
+00:02:59,290 --> 00:03:03,043
+<i>E preso em uma dança
+Você se perde na distração</i>
+
+36
+00:03:03,210 --> 00:03:07,423
+<i>De outra noite da Arábia</i>
+
+37
+00:03:07,590 --> 00:03:11,177
+<i>As noites da Arábia</i>
+
+38
+00:03:11,343 --> 00:03:15,097
+<i>E os dias também</i>
+
+39
+00:03:15,264 --> 00:03:18,684
+<i>São quase sempre
+Muito mais quentes</i>
+
+40
+00:03:18,851 --> 00:03:22,313
+<i>De muitas boas formas</i>
+
+41
+00:03:22,479 --> 00:03:26,150
+<i>As noites da Arábia</i>
+
+42
+00:03:26,317 --> 00:03:29,862
+<i>E seus sonhos também</i>
+
+43
+00:03:30,029 --> 00:03:33,532
+<i>Esta terra mística
+De magia e areia</i>
+
+44
+00:03:33,699 --> 00:03:37,369
+<i>É mais do que parece</i>
+
+45
+00:03:38,037 --> 00:03:41,624
+<i>Há uma estrada que pode levar
+À bondade ou à ambição</i>
+
+46
+00:03:41,790 --> 00:03:45,377
+<i>Através do poder
+que seus desejos indicarão</i>
+
+47
+00:03:45,544 --> 00:03:49,089
+<i>Se a escuridão dominará
+Ou fortunas você encontrará</i>
+
+48
+00:03:49,256 --> 00:03:53,093
+<i>Seu destino está nas suas mãos</i>
+
+49
+00:03:53,260 --> 00:03:56,055
+Só um pode entrar aqui.
+
+50
+00:03:56,222 --> 00:03:59,099
+Aquele que tiver grande valor interior.
+
+51
+00:03:59,266 --> 00:04:02,019
+O diamante bruto.
+
+52
+00:04:02,186 --> 00:04:06,357
+<i>As noites da Arábia</i>
+
+53
+00:04:06,524 --> 00:04:10,236
+<i>E os dias também</i>
+
+54
+00:04:10,402 --> 00:04:14,073
+<i>Parecem estimular
+Venha decolar e voar</i>
+
+55
+00:04:14,240 --> 00:04:17,701
+<i>Para impressionar e deslumbrar</i>
+
+56
+00:04:19,286 --> 00:04:24,667
+Vá em busca do diamante bruto.
+
+57
+00:04:25,167 --> 00:04:28,671
+<i>As noites da Arábia</i>
+
+58
+00:04:28,838 --> 00:04:32,716
+<i>Sob as luas da Arábia</i>
+
+59
+00:04:32,883 --> 00:04:36,679
+<i>Quem se distrair
+Pode até cair e ficar</i>
+
+60
+00:04:36,846 --> 00:04:41,767
+<i>Lá mesmo nas dunas</i>
+
+61
+00:04:56,157 --> 00:04:57,491
+Como se chama seu macaco?
+
+62
+00:04:58,159 --> 00:04:59,368
+Abu.
+
+63
+00:04:59,535 --> 00:05:01,287
+É um belo macaco.
+
+64
+00:05:02,163 --> 00:05:03,789
+É um belo colar.
+
+65
+00:05:03,956 --> 00:05:05,249
+E de onde vem o Abu?
+
+66
+00:05:08,627 --> 00:05:10,504
+Acho que isto me pertence.
+
+67
+00:05:12,089 --> 00:05:13,424
+Bom dia, senhoritas.
+
+68
+00:05:16,886 --> 00:05:17,720
+Ai, não.
+
+69
+00:05:19,930 --> 00:05:20,931
+Abu.
+
+70
+00:05:35,029 --> 00:05:36,655
+Como nos saímos, Abu?
+
+71
+00:05:39,033 --> 00:05:40,367
+Bom macaco.
+
+72
+00:05:41,285 --> 00:05:42,369
+Pare onde está, Aladdin.
+
+73
+00:05:42,536 --> 00:05:44,580
+O que quer que tenha roubado hoje,
+eu não quero.
+
+74
+00:05:45,998 --> 00:05:47,416
+Eu não roubei nada.
+
+75
+00:05:47,917 --> 00:05:50,252
+É uma relíquia de família
+muito valiosa.
+
+76
+00:05:50,461 --> 00:05:52,379
+Dou um saco de tâmaras,
+mais nada.
+
+77
+00:05:52,546 --> 00:05:55,341
+Zulla, nós sabemos
+que vale pelo menos 3 sacos.
+
+78
+00:05:55,508 --> 00:05:57,676
+Pegue o saco de tâmaras
+e dê o fora!
+
+79
+00:05:58,344 --> 00:05:59,178
+Vá!
+
+80
+00:05:59,345 --> 00:06:00,387
+Por favor.
+
+81
+00:06:00,554 --> 00:06:02,056
+Ande logo, ladrãozinho.
+
+82
+00:06:03,974 --> 00:06:05,476
+Pegue, Abu.
+
+83
+00:06:24,286 --> 00:06:25,830
+Venha!
+
+84
+00:06:28,040 --> 00:06:30,292
+Peixe fresco!
+Nós pescamos, vocês compram!
+
+85
+00:06:30,459 --> 00:06:32,336
+Prove isto, por favor.
+
+86
+00:06:34,463 --> 00:06:36,131
+Tâmaras e pistaches!
+
+87
+00:06:37,341 --> 00:06:38,384
+Olá.
+
+88
+00:06:40,678 --> 00:06:44,348
+Estão com fome?
+Peguem, levem pão.
+
+89
+00:06:48,185 --> 00:06:49,812
+Ei! Ei!
+
+90
+00:06:49,979 --> 00:06:51,272
+Está roubando do meu irmão.
+
+91
+00:06:51,438 --> 00:06:54,066
+-Roubando? Não, eu...
+-Pague ou eu pego o bracelete.
+
+92
+00:06:54,233 --> 00:06:57,194
+Senhor, eu não tenho dinheiro.
+Me solte!
+
+93
+00:06:57,361 --> 00:06:59,613
+-Não.
+-Relaxa, Jamal.
+
+94
+00:06:59,780 --> 00:07:01,615
+O Kalil se afastou da banca...
+
+95
+00:07:01,782 --> 00:07:04,577
+e essa aí...
+essa aí roubou o pão.
+
+96
+00:07:04,743 --> 00:07:06,370
+As crianças estavam famintas.
+
+97
+00:07:06,537 --> 00:07:08,789
+Está bem, me dê um minuto.
+
+98
+00:07:09,206 --> 00:07:12,793
+Quero esse seu nariz de ladrãozinho
+longe daqui!
+
+99
+00:07:15,254 --> 00:07:16,338
+Tem algum dinheiro?
+
+100
+00:07:16,797 --> 00:07:17,631
+Não.
+
+101
+00:07:17,798 --> 00:07:19,466
+Escute, confie em mim.
+
+102
+00:07:24,430 --> 00:07:25,639
+-Aqui está.
+-Espere!
+
+103
+00:07:25,806 --> 00:07:27,433
+-Era o que queria, certo?
+-É.
+
+104
+00:07:27,600 --> 00:07:28,559
+Obrigado.
+
+105
+00:07:28,726 --> 00:07:30,186
+E uma maçã.
+Pela chateação.
+
+106
+00:07:30,352 --> 00:07:31,770
+-Gostei!
+-Era da minha...
+
+107
+00:07:31,937 --> 00:07:33,105
+Não vou embora
+sem o bracelete.
+
+108
+00:07:33,272 --> 00:07:34,273
+Está falando deste?
+
+109
+00:07:35,399 --> 00:07:36,525
+Vamos.
+
+110
+00:07:43,532 --> 00:07:45,326
+Aladdin!
+Ladra com Aladdin!
+
+111
+00:07:45,701 --> 00:07:47,870
+-Estamos encrencados?
+-Só se nos pegarem.
+
+112
+00:07:48,037 --> 00:07:50,664
+-Aladdin!
+-Vá por ali. O macaco sabe o caminho.
+
+113
+00:07:50,873 --> 00:07:52,958
+-Guardas! Guardas!
+-Abu.
+
+114
+00:07:54,960 --> 00:07:55,961
+Vai ficar bem.
+
+115
+00:07:56,128 --> 00:07:57,171
+Eles me roubaram!
+
+116
+00:07:57,838 --> 00:08:00,216
+-Lá! Aladdin!
+-Ei, você!
+
+117
+00:08:00,424 --> 00:08:02,009
+Está procurando isto, Jamal?
+
+118
+00:08:02,176 --> 00:08:03,385
+Aladdin, seu ladrãozinho!
+
+119
+00:08:23,322 --> 00:08:26,158
+<i>Tenho que pular
+Para escapar da banca do pão</i>
+
+120
+00:08:26,367 --> 00:08:28,160
+<i>E da espada me desviar</i>
+
+121
+00:08:28,327 --> 00:08:32,248
+<i>Só roubo o que não posso comprar
+Isso é... tudo</i>
+
+122
+00:08:32,414 --> 00:08:34,291
+<i>Eu pulo para escapar dos guardas</i>
+
+123
+00:08:34,458 --> 00:08:36,460
+<i>Não é brincadeira
+É dureza</i>
+
+124
+00:08:36,627 --> 00:08:39,046
+<i>O pessoal não sabe
+Que vivo na pobreza</i>
+
+125
+00:08:40,256 --> 00:08:42,132
+<i>Pé-rapado!
+Ladrãozinho!</i>
+
+126
+00:08:42,299 --> 00:08:44,176
+<i>-Patife!
+-Olha essa!</i>
+
+127
+00:08:44,343 --> 00:08:47,388
+<i>Vou tentar uma tática diferente</i>
+
+128
+00:08:50,307 --> 00:08:54,395
+<i>-Acabem com ele!
+-Contornem por trás, gente</i>
+
+129
+00:08:54,562 --> 00:08:56,230
+<i>Não é difícil entender
+Preciso encarar</i>
+
+130
+00:08:56,397 --> 00:08:58,399
+<i>Seria bom ter um amigo
+para ajudar!</i>
+
+131
+00:08:58,566 --> 00:09:01,527
+<i>Que tristeza
+O Aladdin se deu mal</i>
+
+132
+00:09:01,694 --> 00:09:02,695
+Olá, senhoritas!
+
+133
+00:09:02,862 --> 00:09:05,364
+<i>Ele se tornou um marginal</i>
+
+134
+00:09:05,531 --> 00:09:06,574
+Bem...
+
+135
+00:09:06,740 --> 00:09:10,286
+<i>Eu culparia os pais
+Só que ele não tem</i>
+
+136
+00:09:10,452 --> 00:09:12,037
+<i>Preciso viver
+Roubo para comer</i>
+
+137
+00:09:12,204 --> 00:09:14,290
+<i>Vou contar como é
+Quando eu puder</i>
+
+138
+00:09:28,095 --> 00:09:29,889
+Existem escadas, sabia?
+
+139
+00:09:30,055 --> 00:09:31,640
+E onde fica a diversão?
+
+140
+00:09:31,807 --> 00:09:33,642
+<i>Eu pulo para desviar dos lerdos</i>
+
+141
+00:09:33,809 --> 00:09:35,519
+<i>E salto para fugir da perdição</i>
+
+142
+00:09:35,686 --> 00:09:38,105
+<i>Da próxima vez,
+vou usar um codinome</i>
+
+143
+00:09:39,607 --> 00:09:41,567
+<i>Eu pulo para fugir dos capangas</i>
+
+144
+00:09:41,734 --> 00:09:43,235
+<i>Escapando em meio à multidão</i>
+
+145
+00:09:43,861 --> 00:09:46,989
+<i>Acho que vou dar uma volta
+e contornar o quarteirão</i>
+
+146
+00:09:49,658 --> 00:09:51,202
+<i>-Pare, ladrão!
+-Vândalo!</i>
+
+147
+00:09:51,368 --> 00:09:52,203
+Abu!
+
+148
+00:09:52,369 --> 00:09:53,412
+<i>Que escândalo!</i>
+
+149
+00:09:53,579 --> 00:09:57,374
+<i>Não seja tão apressado</i>
+
+150
+00:09:57,541 --> 00:10:01,378
+<i>Apesar de tudo
+ele é bem-apessoado</i>
+
+151
+00:10:01,545 --> 00:10:03,339
+<i>Preciso viver
+Roubo para comer</i>
+
+152
+00:10:03,506 --> 00:10:05,758
+<i>-Não fosse por isso, seríamos amigos
+-Errado!</i>
+
+153
+00:10:08,010 --> 00:10:09,637
+Não, não, não!
+
+154
+00:10:14,099 --> 00:10:15,768
+-Juntos no três!
+-Juntos no três?
+
+155
+00:10:15,935 --> 00:10:17,561
+-Nós pulamos.
+-Nós pulamos?
+
+156
+00:10:17,728 --> 00:10:19,313
+Por que repete tudo
+o que eu falo?
+
+157
+00:10:19,480 --> 00:10:20,481
+A vara.
+
+158
+00:10:21,732 --> 00:10:22,900
+-Rápido!
+-Por aqui!
+
+159
+00:10:23,067 --> 00:10:26,153
+Um, dois, três!
+
+160
+00:10:29,365 --> 00:10:31,700
+Ladrão! Pare!
+No telhado!
+
+161
+00:10:32,159 --> 00:10:33,077
+Desculpe!
+
+162
+00:10:35,996 --> 00:10:36,997
+Não consigo fazer isso.
+
+163
+00:10:40,167 --> 00:10:40,835
+Peguem-no!
+
+164
+00:10:42,169 --> 00:10:44,255
+Olhe para mim.
+
+165
+00:10:44,421 --> 00:10:46,674
+Você vai conseguir.
+
+166
+00:10:47,508 --> 00:10:48,509
+Está bem.
+
+167
+00:10:56,058 --> 00:10:57,059
+Foi muito bem.
+
+168
+00:10:57,226 --> 00:10:57,977
+Obrigada.
+
+169
+00:10:58,978 --> 00:11:00,521
+<i>Um pulo para fugir dos cascos</i>
+
+170
+00:11:00,688 --> 00:11:02,690
+<i>Eu pulo qualquer obstáculo</i>
+
+171
+00:11:02,857 --> 00:11:04,608
+<i>Um truque para qualquer desastre</i>
+
+172
+00:11:04,775 --> 00:11:06,443
+<i>São rápidos, mas eu sou mais</i>
+
+173
+00:11:06,610 --> 00:11:07,611
+<i>Vamos lá!</i>
+
+174
+00:11:07,778 --> 00:11:09,572
+<i>É melhor eu desistir
+Me deseje boa aterrissagem</i>
+
+175
+00:11:09,738 --> 00:11:10,865
+<i>Eu só tenho que pular!</i>
+
+176
+00:11:16,328 --> 00:11:17,621
+Para trás!
+
+177
+00:11:28,174 --> 00:11:29,633
+Ó, céus.
+
+178
+00:11:38,225 --> 00:11:41,020
+Venha. Sei onde
+ficaremos em segurança.
+
+179
+00:11:48,944 --> 00:11:50,362
+Lá vem o amo.
+
+180
+00:11:57,536 --> 00:11:59,830
+Você traz os brutos,
+nunca um diamante.
+
+181
+00:12:01,123 --> 00:12:02,124
+Levem-no daqui.
+
+182
+00:12:02,291 --> 00:12:03,834
+-Anda!
+-Levem-no daqui.
+
+183
+00:12:05,169 --> 00:12:06,837
+-Por favor!
+-Meu vizir...
+
+184
+00:12:07,379 --> 00:12:11,342
+talvez esse diamante bruto
+não exista.
+
+185
+00:12:11,509 --> 00:12:13,093
+Ele está por aí.
+
+186
+00:12:13,260 --> 00:12:15,221
+Mas estamos procurando há meses!
+
+187
+00:12:15,387 --> 00:12:19,099
+Não entendo como naquela caverna
+possa existir algo...
+
+188
+00:12:19,266 --> 00:12:22,561
+capaz de ajudar
+um homem já tão poderoso.
+
+189
+00:12:22,728 --> 00:12:25,689
+Que vem em segundo lugar,
+logo depois do Sultão!
+
+190
+00:12:25,856 --> 00:12:28,025
+Segundo!
+
+191
+00:12:30,194 --> 00:12:31,779
+Quem está encrencado agora?
+
+192
+00:12:32,321 --> 00:12:33,864
+Acha que segundo
+é o suficiente?
+
+193
+00:12:34,406 --> 00:12:35,407
+É claro.
+
+194
+00:12:36,367 --> 00:12:37,660
+Não nasceu para ser sultão.
+
+195
+00:12:37,827 --> 00:12:39,203
+Nada inteligente.
+
+196
+00:12:39,370 --> 00:12:42,790
+Sabe o que precisei fazer
+para ter o poder que tenho?
+
+197
+00:12:43,958 --> 00:12:46,293
+Os sacrifícios que fiz,
+os corpos que enterrei?
+
+198
+00:12:46,877 --> 00:12:49,713
+Os 5 anos que passei
+na prisão de Shirabad?
+
+199
+00:12:49,880 --> 00:12:53,217
+As pessoas devem saber
+que pagarão por me subestimar.
+
+200
+00:12:54,051 --> 00:12:56,387
+Segundo não é o suficiente!
+E nunca será!
+
+201
+00:12:56,554 --> 00:12:59,682
+É por isso que preciso da lâmpada,
+e não mais de você!
+
+202
+00:13:07,565 --> 00:13:08,899
+Por aqui.
+
+203
+00:13:11,193 --> 00:13:12,862
+Onde nós estamos, exatamente?
+
+204
+00:13:13,028 --> 00:13:14,196
+Você vai ver.
+
+205
+00:13:18,742 --> 00:13:19,910
+Ó, céus.
+
+206
+00:13:20,536 --> 00:13:22,621
+É aqui que você mora?
+
+207
+00:13:23,330 --> 00:13:24,456
+É.
+
+208
+00:13:24,623 --> 00:13:27,710
+Só eu e o Abu.
+Entramos e saímos livremente.
+
+209
+00:13:35,217 --> 00:13:37,469
+Bem-vinda ao meu humilde...
+
+210
+00:13:38,804 --> 00:13:40,306
+Você vai ver.
+
+211
+00:13:45,311 --> 00:13:47,563
+Você é um tremendo mágico.
+
+212
+00:13:47,938 --> 00:13:49,148
+Obrigado.
+
+213
+00:13:50,941 --> 00:13:53,444
+Abu, não, ajude!
+
+214
+00:14:00,910 --> 00:14:02,328
+Não acredito...
+
+215
+00:14:02,495 --> 00:14:03,746
+No quê?
+
+216
+00:14:04,997 --> 00:14:08,751
+Não acredito que fizemos aquilo.
+Que eu fiz. Que estamos vivos!
+
+217
+00:14:08,918 --> 00:14:10,044
+A perseguição.
+
+218
+00:14:10,211 --> 00:14:12,046
+-Abu, chá?
+-Saltando de prédios.
+
+219
+00:14:12,755 --> 00:14:13,923
+-Aquilo foi incrível.
+-Chá?
+
+220
+00:14:14,340 --> 00:14:18,594
+Aceito. E obrigada
+por ter me tirado de lá.
+
+221
+00:14:19,720 --> 00:14:21,096
+É Aladdin, não é?
+
+222
+00:14:22,264 --> 00:14:23,265
+De nada...
+
+223
+00:14:24,308 --> 00:14:25,809
+Sou a Dalia.
+
+224
+00:14:25,976 --> 00:14:27,102
+Dalia.
+
+225
+00:14:28,145 --> 00:14:29,146
+Do palácio.
+
+226
+00:14:30,606 --> 00:14:31,524
+Como sabe?
+
+227
+00:14:31,690 --> 00:14:36,028
+Bem, só alguém do palácio
+teria um bracelete assim.
+
+228
+00:14:36,195 --> 00:14:38,364
+E o forro de seda
+é importado, também.
+
+229
+00:14:38,531 --> 00:14:41,158
+Vai direto dos barcos
+para o palácio.
+
+230
+00:14:41,325 --> 00:14:43,327
+Mas não para os empregados.
+
+231
+00:14:43,494 --> 00:14:48,123
+Ao menos não para a maioria,
+então você é criada da Princesa.
+
+232
+00:14:49,917 --> 00:14:50,918
+Impressionante.
+
+233
+00:14:51,085 --> 00:14:54,713
+Se acha isso impressionante,
+deveria ver a cidade lá do alto.
+
+234
+00:15:00,261 --> 00:15:03,514
+Agrabah. É tão linda.
+
+235
+00:15:03,681 --> 00:15:05,015
+Eu deveria sair mais.
+
+236
+00:15:05,558 --> 00:15:08,102
+Deve dizer à Princesa
+para sair mais.
+
+237
+00:15:08,269 --> 00:15:10,646
+As pessoas não a veem há anos.
+
+238
+00:15:10,813 --> 00:15:12,439
+Não a deixam sair.
+
+239
+00:15:13,399 --> 00:15:14,733
+Desde que a minha...
+
+240
+00:15:16,193 --> 00:15:19,905
+A Rainha foi assassinada,
+e o Sultão tem medo.
+
+241
+00:15:20,072 --> 00:15:21,615
+Então ele a deixa trancada.
+
+242
+00:15:21,782 --> 00:15:23,617
+Parece que todos ficaram com medo,
+desde então.
+
+243
+00:15:23,784 --> 00:15:26,787
+Mas o povo de Agrabah
+não teve nada a ver com aquilo.
+
+244
+00:15:26,954 --> 00:15:27,955
+O povo adorava a Rainha.
+
+245
+00:15:28,956 --> 00:15:30,875
+Adorava mesmo, não é?
+
+246
+00:15:33,460 --> 00:15:34,503
+Isto é seu?
+
+247
+00:15:34,670 --> 00:15:37,131
+É meio que emprestado.
+
+248
+00:15:44,805 --> 00:15:46,515
+Minha mãe me ensinou
+essa canção.
+
+249
+00:15:48,017 --> 00:15:49,018
+A minha, também.
+
+250
+00:15:49,476 --> 00:15:51,103
+É tudo o que me lembro dela.
+
+251
+00:15:52,313 --> 00:15:53,814
+E o seu pai?
+
+252
+00:15:54,315 --> 00:15:56,358
+Perdi os dois
+quando eu era pequeno.
+
+253
+00:15:56,525 --> 00:15:58,402
+Me viro sozinho desde então.
+
+254
+00:15:58,569 --> 00:16:00,154
+Está tudo bem, é só que...
+
+255
+00:16:00,321 --> 00:16:01,572
+O quê?
+
+256
+00:16:01,947 --> 00:16:03,282
+É um pouco triste.
+
+257
+00:16:04,325 --> 00:16:06,911
+Ter um macaco
+como único parente na vida.
+
+258
+00:16:09,747 --> 00:16:10,873
+A gente se vira.
+
+259
+00:16:12,041 --> 00:16:15,127
+Todo dia, eu acho
+que as coisas vão ser diferentes...
+
+260
+00:16:15,294 --> 00:16:17,213
+mas parece que nada muda.
+
+261
+00:16:18,672 --> 00:16:21,842
+-É que, às vezes, parece que estou...
+-Aprisionado.
+
+262
+00:16:23,761 --> 00:16:27,056
+Como se não conseguisse fugir
+daquilo para o que nasceu?
+
+263
+00:16:28,265 --> 00:16:29,725
+Isso.
+
+264
+00:16:33,687 --> 00:16:35,314
+Bem-vindo, Príncipe Anders!
+
+265
+00:16:36,190 --> 00:16:37,608
+Preciso voltar ao palácio.
+
+266
+00:16:38,526 --> 00:16:39,568
+Agora?
+
+267
+00:16:41,487 --> 00:16:43,239
+Abram caminho para o Príncipe Anders!
+
+268
+00:16:43,405 --> 00:16:45,866
+Abram caminho para o Príncipe Anders!
+
+269
+00:16:46,534 --> 00:16:49,620
+É só mais um Príncipe
+que veio cortejar a Princesa.
+
+270
+00:16:51,539 --> 00:16:54,542
+É, e eu tenho que prepará-la.
+
+271
+00:16:54,708 --> 00:16:56,085
+Ah! Ficou com o meu bracelete?
+
+272
+00:16:56,252 --> 00:16:57,253
+Claro.
+
+273
+00:17:00,256 --> 00:17:01,507
+Abram caminho
+para o Príncipe Anders.
+
+274
+00:17:01,674 --> 00:17:03,175
+Tenho certeza de que coloquei aqui.
+
+275
+00:17:04,552 --> 00:17:05,594
+Em algum lugar.
+
+276
+00:17:05,761 --> 00:17:08,055
+Abu, você pegou?
+
+277
+00:17:08,222 --> 00:17:09,682
+Era o bracelete da minha mãe.
+
+278
+00:17:11,559 --> 00:17:13,060
+Sim. É lindo.
+
+279
+00:17:14,562 --> 00:17:15,563
+Você é um ladrão.
+
+280
+00:17:15,729 --> 00:17:18,274
+-Não, não. Sim, mas...
+-Sou tão ingênua.
+
+281
+00:17:18,440 --> 00:17:19,483
+-Abu.
+-Com licença.
+
+282
+00:17:20,609 --> 00:17:23,529
+Espere, espere!
+Não é nada disso!
+
+283
+00:17:23,696 --> 00:17:25,239
+Abram caminho!
+
+284
+00:17:25,406 --> 00:17:26,490
+Não! Cuidado!
+
+285
+00:17:30,452 --> 00:17:31,745
+Ladrãozinho,
+saia do caminho!
+
+286
+00:17:31,912 --> 00:17:33,622
+Quem acha que está
+chamando de ladrãozinho?
+
+287
+00:17:34,331 --> 00:17:35,457
+Vai me responder?
+
+288
+00:17:36,375 --> 00:17:38,627
+Você nasceu inútil
+e vai morrer assim.
+
+289
+00:17:39,378 --> 00:17:41,172
+Só suas pulgas
+vão lamentar sua morte.
+
+290
+00:17:44,383 --> 00:17:45,509
+Venha, Abu.
+
+291
+00:17:46,677 --> 00:17:48,387
+Vamos para casa.
+
+292
+00:18:01,275 --> 00:18:05,154
+<i>Pé-rapado, ladrãozinho</i>
+
+293
+00:18:05,613 --> 00:18:09,325
+<i>Não vão me convencer</i>
+
+294
+00:18:09,825 --> 00:18:14,038
+<i>Se chegassem
+mais de perto de mim</i>
+
+295
+00:18:14,205 --> 00:18:17,750
+<i>Será que enxergariam um pobre rapaz?</i>
+
+296
+00:18:17,917 --> 00:18:19,752
+<i>Não, senhor</i>
+
+297
+00:18:22,296 --> 00:18:24,882
+<i>Eles descobririam</i>
+
+298
+00:18:25,049 --> 00:18:31,096
+<i>Que há muito mais
+em mim</i>
+
+299
+00:18:39,438 --> 00:18:40,773
+Abu.
+
+300
+00:18:41,649 --> 00:18:45,027
+Tem hora para roubar
+e tem hora para ignorar.
+
+301
+00:18:45,528 --> 00:18:47,613
+Isto, com certeza,
+era para ignorar.
+
+302
+00:18:55,746 --> 00:18:57,873
+Bem-vindo, Príncipe Anders!
+
+303
+00:18:58,040 --> 00:19:00,459
+Esperamos que sua viagem
+tenha sido boa.
+
+304
+00:19:24,149 --> 00:19:29,155
+Príncipe Anders,
+minha filha, Princesa Jasmine.
+
+305
+00:19:31,407 --> 00:19:34,994
+Por que nunca me falaram
+sobre a sua beleza?
+
+306
+00:19:35,161 --> 00:19:36,871
+Também não mencionaram a sua.
+
+307
+00:19:37,496 --> 00:19:40,749
+Obrigado.
+Dizem isso em Skanland.
+
+308
+00:19:40,916 --> 00:19:41,834
+Não é?
+
+309
+00:19:45,254 --> 00:19:47,381
+É muito, muito divertido.
+
+310
+00:19:47,840 --> 00:19:49,216
+-É mesmo?
+-É.
+
+311
+00:19:49,383 --> 00:19:52,678
+Temos o mesmo título,
+mas não nos descrevem da mesma forma.
+
+312
+00:19:55,472 --> 00:19:57,099
+Jasmine.
+
+313
+00:19:57,266 --> 00:19:58,434
+É.
+
+314
+00:20:00,561 --> 00:20:02,229
+O que é isso?
+
+315
+00:20:02,855 --> 00:20:04,523
+Não me diga.
+
+316
+00:20:05,649 --> 00:20:08,027
+É um gato com listras!
+
+317
+00:20:09,028 --> 00:20:10,237
+Ele gostou de você.
+
+318
+00:20:10,404 --> 00:20:11,489
+Eu sei.
+
+319
+00:20:11,655 --> 00:20:13,407
+Em Skanland,
+os gatos me amam.
+
+320
+00:20:13,574 --> 00:20:16,076
+Aqui, gatinho.
+Aqui, gatinho, gatinho.
+
+321
+00:20:16,243 --> 00:20:17,620
+Aqui, gatinho, gatinho...
+
+322
+00:20:21,499 --> 00:20:24,835
+Meu Sultão, nossos inimigos
+se fortalecem a cada dia...
+
+323
+00:20:25,002 --> 00:20:27,755
+e ainda vai deixar sua filha
+dispensar o Príncipe Anders...
+
+324
+00:20:27,922 --> 00:20:29,298
+e uma possível aliança militar?
+
+325
+00:20:29,465 --> 00:20:30,466
+Que inimigos?
+
+326
+00:20:31,133 --> 00:20:32,718
+Shirabad continua se reunindo.
+
+327
+00:20:32,885 --> 00:20:35,638
+-Shirabad é nossa aliada.
+-Era nossa aliada!
+
+328
+00:20:35,804 --> 00:20:38,849
+Você nos arrastaria para guerra
+com nosso mais antigo...
+
+329
+00:20:39,016 --> 00:20:42,728
+E você deixaria seu reino cair em ruína
+por meros sentimentos!
+
+330
+00:20:42,895 --> 00:20:43,729
+Jafar!
+
+331
+00:20:45,940 --> 00:20:49,193
+Lembre-se do seu lugar.
+
+332
+00:20:51,695 --> 00:20:53,280
+Peço desculpas.
+
+333
+00:20:56,116 --> 00:20:58,452
+Perdoe-me, meu Sultão.
+
+334
+00:20:58,619 --> 00:21:00,663
+Eu me excedi.
+
+335
+00:21:06,126 --> 00:21:07,461
+Mas...
+
+336
+00:21:09,171 --> 00:21:11,507
+se puder reconsiderar...
+
+337
+00:21:12,383 --> 00:21:15,010
+acho que verá...
+
+338
+00:21:16,303 --> 00:21:20,933
+que invadir Shirabad
+é a coisa certa a ser feita.
+
+339
+00:21:22,726 --> 00:21:28,190
+Invadir Shirabad é...
+
+340
+00:21:28,357 --> 00:21:29,608
+Invadir Shirabad?
+
+341
+00:21:33,571 --> 00:21:34,405
+O quê?
+
+342
+00:21:34,572 --> 00:21:36,240
+Por que invadiríamos
+o reino da mamãe?
+
+343
+00:21:37,449 --> 00:21:39,243
+Nós nunca invadiríamos Shirabad.
+
+344
+00:21:39,410 --> 00:21:44,039
+Mas ter um aliado em Skanland
+melhoraria nossa situação.
+
+345
+00:21:44,206 --> 00:21:49,128
+Sim, se puder dar uma chance
+ao Príncipe Anders.
+
+346
+00:21:49,295 --> 00:21:53,090
+Para governar?
+<i>Baba, </i>Rajah seria um governante melhor.
+
+347
+00:21:53,257 --> 00:21:55,176
+Filha, eu não vou rejuvenescer.
+
+348
+00:21:55,342 --> 00:22:00,222
+Temos que encontrar um marido para você,
+e estão acabando os reinos.
+
+349
+00:22:00,598 --> 00:22:03,517
+Que príncipe estrangeiro cuidaria
+do nosso povo como eu?
+
+350
+00:22:03,684 --> 00:22:04,727
+Posso governar se...
+
+351
+00:22:04,894 --> 00:22:07,313
+Filha, você não pode ser sultana...
+
+352
+00:22:07,479 --> 00:22:11,567
+porque isso nunca foi feito
+na história milenar do nosso reino.
+
+353
+00:22:12,568 --> 00:22:17,072
+Passei a vida toda
+me preparando para isso. Eu li...
+
+354
+00:22:17,239 --> 00:22:19,867
+Livros? Mas não se pode
+ler experiência.
+
+355
+00:22:20,034 --> 00:22:22,244
+Inexperiência é perigoso.
+
+356
+00:22:22,411 --> 00:22:25,164
+Povos deixados sem controle
+se revoltam.
+
+357
+00:22:25,331 --> 00:22:28,250
+Muralhas e fronteiras sem proteção
+serão atacadas.
+
+358
+00:22:28,417 --> 00:22:29,835
+Jafar está certo.
+
+359
+00:22:30,878 --> 00:22:32,087
+Um dia...
+
+360
+00:22:33,881 --> 00:22:35,716
+você entenderá.
+
+361
+00:22:40,930 --> 00:22:42,348
+Pode ir agora.
+
+362
+00:23:00,282 --> 00:23:06,121
+A vida será mais gentil, Princesa,
+quando aceitar essas tradições...
+
+363
+00:23:06,288 --> 00:23:12,753
+e entender que o melhor para você
+é ser vista, não ouvida.
+
+364
+00:23:31,689 --> 00:23:35,234
+<i>Mais uma onda para me afastar</i>
+
+365
+00:23:35,401 --> 00:23:39,488
+<i>Uma correnteza a me controlar</i>
+
+366
+00:23:39,655 --> 00:23:43,492
+<i>Fragilizada de novo
+Sem ter o que falar</i>
+
+367
+00:23:43,659 --> 00:23:48,080
+<i>Minha voz abafada pelo trovão</i>
+
+368
+00:23:48,998 --> 00:23:51,792
+<i>Mas não posso chorar</i>
+
+369
+00:23:51,959 --> 00:23:56,589
+<i>E não posso desmoronar</i>
+
+370
+00:23:56,755 --> 00:23:59,800
+<i>Sempre que tentarem</i>
+
+371
+00:23:59,967 --> 00:24:04,430
+<i>Me desencorajar ou me derrubar</i>
+
+372
+00:24:04,597 --> 00:24:08,100
+<i>Não posso me silenciar</i>
+
+373
+00:24:08,267 --> 00:24:12,104
+<i>Apesar de quererem
+me calar</i>
+
+374
+00:24:12,271 --> 00:24:17,067
+<i>E de cada tentativa me abalar</i>
+
+375
+00:24:18,485 --> 00:24:22,323
+<i>Tudo o que eu sei
+É que não vou</i>
+
+376
+00:24:22,490 --> 00:24:26,911
+<i>Ficar quieta</i>
+
+377
+00:24:35,461 --> 00:24:37,630
+Abram o portão!
+
+378
+00:24:39,089 --> 00:24:40,341
+Esplêndido!
+
+379
+00:24:41,634 --> 00:24:43,636
+Já sabe o que fazer, Abu.
+
+380
+00:24:47,056 --> 00:24:49,767
+Sai daqui!
+Sai daqui, macaco sujo!
+
+381
+00:24:50,601 --> 00:24:53,771
+Vá embora! Vá embora!
+
+382
+00:24:55,564 --> 00:24:56,690
+Fechem o portão!
+
+383
+00:24:56,857 --> 00:24:58,025
+Macaco sujo!
+
+384
+00:24:58,901 --> 00:25:01,529
+Ladrãozinho.
+
+385
+00:25:03,989 --> 00:25:06,826
+"Lembre-se do seu lugar, Jafar."
+
+386
+00:25:06,992 --> 00:25:07,910
+Lembre-se do seu lugar!
+
+387
+00:25:08,077 --> 00:25:11,247
+Se eu escutar isso
+mais uma vez...
+
+388
+00:25:11,413 --> 00:25:12,748
+Desculpe, amo!
+
+389
+00:25:12,915 --> 00:25:16,752
+Mais um insulto
+daquele idiota de visão limitada.
+
+390
+00:25:17,878 --> 00:25:20,047
+Ele vê uma cidade
+onde eu vejo um império.
+
+391
+00:25:20,214 --> 00:25:21,465
+Que visão!
+
+392
+00:25:22,132 --> 00:25:25,177
+Quando eu puser as mãos
+naquela lâmpada...
+
+393
+00:25:26,387 --> 00:25:29,181
+o trono dele será meu.
+
+394
+00:25:29,348 --> 00:25:31,767
+Ladrão. Ladrão no palácio.
+
+395
+00:25:32,893 --> 00:25:34,311
+"Ladrão no palácio"?
+
+396
+00:25:34,478 --> 00:25:36,897
+Foi o que eu disse. Ladrão!
+
+397
+00:25:37,064 --> 00:25:38,858
+O que você viu, Iago?
+
+398
+00:25:39,024 --> 00:25:40,985
+Diamante bruto.
+
+399
+00:25:59,545 --> 00:26:02,131
+Já falei, agora, vamos lá!
+
+400
+00:26:02,298 --> 00:26:05,092
+Círculos maiores.
+
+401
+00:26:13,809 --> 00:26:15,686
+Quem é o garoto esperto?
+
+402
+00:26:17,730 --> 00:26:20,441
+Mas, Dalia, deve haver algo
+que eu possa fazer.
+
+403
+00:26:20,941 --> 00:26:24,904
+Um belo príncipe quer desposá-la.
+Ah, quando a vida vai facilitar?
+
+404
+00:26:25,070 --> 00:26:27,323
+Não é que eu não queira me casar,
+é que...
+
+405
+00:26:27,490 --> 00:26:30,075
+Você quer ser sultana.
+Mas por quê?
+
+406
+00:26:30,242 --> 00:26:31,869
+Lembra-se de que mamãe dizia...
+
+407
+00:26:32,036 --> 00:26:36,040
+que seríamos tão felizes
+quanto nosso súdito menos feliz?
+
+408
+00:26:36,207 --> 00:26:39,793
+Se ela visse o que vi hoje,
+ela ficaria arrasada.
+
+409
+00:26:39,960 --> 00:26:43,130
+Ela também ia querer
+que você estivesse em segurança.
+
+410
+00:26:43,297 --> 00:26:46,008
+E limpa. Vou preparar o banho.
+
+411
+00:26:46,467 --> 00:26:49,553
+Há guardas do Jafar
+por todo lado.
+
+412
+00:26:49,720 --> 00:26:54,058
+Ele ordenará que invadam nossos vizinhos,
+pondo vidas em perigo, para quê?
+
+413
+00:26:55,518 --> 00:26:56,519
+Eu posso ajudar.
+
+414
+00:26:57,186 --> 00:27:02,274
+Sei que posso. Eu nasci para fazer mais
+do que me casar com um príncipe inútil.
+
+415
+00:27:02,441 --> 00:27:06,570
+Se tiver que se casar com um príncipe
+inútil, pode ser pior do que esse.
+
+416
+00:27:06,904 --> 00:27:09,240
+Ele é alto e bonito.
+
+417
+00:27:09,406 --> 00:27:12,868
+E, sim, ele é meio bobão,
+mas você vai só se casar.
+
+418
+00:27:13,035 --> 00:27:14,912
+Nem precisará
+conversar com ele.
+
+419
+00:27:16,956 --> 00:27:19,583
+Mas você preferiria
+aquele rapaz do mercado.
+
+420
+00:27:30,970 --> 00:27:32,680
+Posso ajudar?
+
+421
+00:27:34,390 --> 00:27:35,307
+Chá?
+
+422
+00:27:35,474 --> 00:27:37,726
+Você? Você!
+
+423
+00:27:37,893 --> 00:27:38,978
+O que está fazendo aqui?
+
+424
+00:27:39,144 --> 00:27:40,229
+Entre aqui, agora!
+
+425
+00:27:40,396 --> 00:27:42,481
+Vim devolver o seu bracelete.
+
+426
+00:27:42,648 --> 00:27:44,108
+Meu bracelete?
+Onde está?
+
+427
+00:27:44,275 --> 00:27:45,484
+No seu pulso.
+
+428
+00:27:45,776 --> 00:27:47,027
+O quê?
+
+429
+00:27:47,194 --> 00:27:49,071
+Nada mal.
+
+430
+00:27:49,238 --> 00:27:51,031
+Gostei do que ela fez aqui.
+
+431
+00:27:51,198 --> 00:27:52,908
+Como passou pelos guardas?
+
+432
+00:27:53,075 --> 00:27:56,162
+Foi um desafio,
+mas eu tenho meus recursos.
+
+433
+00:27:57,413 --> 00:28:01,083
+Enquanto a Princesa está fora,
+gostaria de dar uma volta?
+
+434
+00:28:01,250 --> 00:28:02,626
+Conversar um pouco?
+
+435
+00:28:03,502 --> 00:28:05,880
+Você é inacreditável.
+
+436
+00:28:06,046 --> 00:28:09,842
+Não pode invadir um palácio
+e circular como se fosse o dono.
+
+437
+00:28:10,009 --> 00:28:12,887
+Quem não tem nada,
+deve agir como se tivesse tudo.
+
+438
+00:28:13,470 --> 00:28:16,932
+Então, o que me diz?
+Eu encontrei o seu bracelete.
+
+439
+00:28:17,099 --> 00:28:19,310
+Você não encontrou,
+você roubou!
+
+440
+00:28:19,476 --> 00:28:21,312
+Correção: o macaco roubou.
+
+441
+00:28:21,770 --> 00:28:22,771
+O macaco é seu.
+
+442
+00:28:23,230 --> 00:28:24,815
+Ainda assim é só um macaco.
+
+443
+00:28:25,733 --> 00:28:26,984
+Quem pediu o chá?
+
+444
+00:28:30,279 --> 00:28:31,697
+Fui eu.
+
+445
+00:28:34,408 --> 00:28:37,369
+Para você, Princesa Jasmine.
+
+446
+00:28:38,913 --> 00:28:40,122
+Majestade!
+
+447
+00:28:41,624 --> 00:28:43,167
+Por que está tão estranha?
+
+448
+00:28:51,800 --> 00:28:54,929
+Ah, eu sou a Princesa.
+
+449
+00:28:55,095 --> 00:28:56,430
+Sim.
+
+450
+00:28:57,848 --> 00:29:00,142
+E é bom ser eu...
+
+451
+00:29:00,309 --> 00:29:03,896
+com todos os meus palácios...
+
+452
+00:29:04,063 --> 00:29:07,441
+e arcas de coisas de ouro...
+
+453
+00:29:09,443 --> 00:29:13,656
+e vestidos para cada hora do dia.
+
+454
+00:29:15,783 --> 00:29:19,203
+Agora está na hora
+de limpar o meu gato.
+
+455
+00:29:21,247 --> 00:29:22,623
+Ela não sai muito.
+
+456
+00:29:24,375 --> 00:29:25,459
+Dá para ver.
+
+457
+00:29:28,420 --> 00:29:30,256
+Não deveria estar no banho?
+
+458
+00:29:33,092 --> 00:29:37,721
+Criada, o gato não vai se limpar sozinho!
+
+459
+00:29:38,430 --> 00:29:40,808
+Mas os gatos não se limpam sozinhos?
+
+460
+00:29:42,059 --> 00:29:43,269
+Tem que ir embora agora.
+
+461
+00:29:43,435 --> 00:29:45,437
+Certo. Mas voltarei
+amanhã à noite.
+
+462
+00:29:45,604 --> 00:29:46,605
+O quê? Não pode...
+
+463
+00:29:46,772 --> 00:29:51,193
+Me encontre no pátio ao lado do chafariz
+quando a Lua estiver acima do minarete.
+
+464
+00:29:52,236 --> 00:29:53,362
+Para eu devolver isto.
+
+465
+00:29:58,367 --> 00:30:00,953
+Eu prometo.
+
+466
+00:30:08,961 --> 00:30:10,588
+Acredita nisso, Abu?
+
+467
+00:30:10,754 --> 00:30:13,716
+O lugar mais bem guardado
+em toda Agrabah...
+
+468
+00:30:15,009 --> 00:30:16,177
+Boa noite.
+
+469
+00:30:16,343 --> 00:30:17,678
+Boa noite.
+
+470
+00:30:18,429 --> 00:30:19,430
+Boa noite.
+
+471
+00:30:20,973 --> 00:30:22,224
+Há guardas atrás de mim.
+
+472
+00:30:25,269 --> 00:30:26,270
+Olá, rapazes.
+
+473
+00:30:50,085 --> 00:30:51,086
+Onde eu estou?
+
+474
+00:30:51,504 --> 00:30:53,464
+Em um mundo de problemas, garoto.
+
+475
+00:30:54,840 --> 00:30:57,968
+O bracelete...
+é por causa dele?
+
+476
+00:30:58,719 --> 00:31:00,971
+Porque eu não roubei.
+Aquela criada...
+
+477
+00:31:01,138 --> 00:31:04,183
+O que uma criada fazia
+usando o bracelete da Rainha?
+
+478
+00:31:04,350 --> 00:31:06,185
+Da Rainha? Não, não.
+
+479
+00:31:06,352 --> 00:31:08,103
+Ela disse que pertencia à...
+
+480
+00:31:08,270 --> 00:31:09,271
+Mãe.
+
+481
+00:31:11,357 --> 00:31:13,359
+Ao menos, ela disse a verdade
+sobre algo.
+
+482
+00:31:14,527 --> 00:31:16,821
+Está dizendo que aquela
+era a Princesa?
+
+483
+00:31:18,739 --> 00:31:20,324
+Eu estava falando com a...
+
+484
+00:31:20,491 --> 00:31:22,117
+Ela estava brincando
+com você.
+
+485
+00:31:22,785 --> 00:31:25,538
+Ela se diverte encontrando os plebeus.
+
+486
+00:31:27,039 --> 00:31:29,291
+Achou mesmo que ela gostou de você?
+
+487
+00:31:32,127 --> 00:31:33,295
+Qual é o seu nome?
+
+488
+00:31:34,296 --> 00:31:35,297
+Aladdin.
+
+489
+00:31:35,464 --> 00:31:38,884
+Aladdin. Gente como nós
+deve ser realista se...
+
+490
+00:31:39,051 --> 00:31:39,885
+Nós?
+
+491
+00:31:40,052 --> 00:31:42,680
+Sabe, eu já fui como você.
+
+492
+00:31:45,224 --> 00:31:46,684
+Um ladrão comum.
+
+493
+00:31:48,602 --> 00:31:49,895
+Só que eu pensava grande.
+
+494
+00:31:50,646 --> 00:31:55,442
+Se roubar uma maçã, você é um ladrão.
+Roubando um reino, você é um estadista.
+
+495
+00:31:56,610 --> 00:31:58,487
+Só os fracos param por aí.
+
+496
+00:31:59,446 --> 00:32:02,449
+Ou você é o homem mais poderoso de todos
+ou não é nada.
+
+497
+00:32:03,075 --> 00:32:06,287
+Você está diante de uma oportunidade.
+
+498
+00:32:06,453 --> 00:32:08,247
+Eu posso torná-lo rico.
+
+499
+00:32:08,831 --> 00:32:10,916
+Tão rico que impressionaria
+uma princesa.
+
+500
+00:32:11,375 --> 00:32:13,335
+Mas nada é de graça.
+
+501
+00:32:23,137 --> 00:32:24,513
+O que eu teria que fazer?
+
+502
+00:32:25,639 --> 00:32:31,270
+<i>Há uma caverna aqui perto.
+E nela há uma lâmpada.</i>
+
+503
+00:32:32,146 --> 00:32:37,234
+<i>Pegue-a para mim e eu vou torná-lo
+tão rico que impressionará uma princesa.</i>
+
+504
+00:32:39,778 --> 00:32:43,699
+<i>Você não é nada para ela,
+mas poderia ser.</i>
+
+505
+00:32:44,825 --> 00:32:48,621
+<i>Sua vida começa agora, Aladdin.</i>
+
+506
+00:32:55,419 --> 00:32:57,046
+Ainda esperando?
+
+507
+00:32:58,005 --> 00:33:00,966
+Não. Não, eu saí para...
+
+508
+00:33:05,596 --> 00:33:07,181
+Ele prometeu.
+
+509
+00:33:10,142 --> 00:33:12,520
+Estarei lá em cima
+se precisar de mim.
+
+510
+00:33:12,686 --> 00:33:14,230
+Boa noite, Dalia.
+
+511
+00:33:22,279 --> 00:33:24,114
+A Caverna dos Tesouros.
+
+512
+00:33:24,281 --> 00:33:27,910
+Quando entrar, verá mais riquezas
+do que jamais sonhou ver...
+
+513
+00:33:28,118 --> 00:33:31,914
+ouro, diamantes e...
+a lâmpada.
+
+514
+00:33:32,081 --> 00:33:35,334
+Traga-me a lâmpada,
+e farei com que fique rico e livre.
+
+515
+00:33:36,544 --> 00:33:40,047
+Mas não pegue outros tesouros,
+resista a qualquer tentação.
+
+516
+00:33:43,300 --> 00:33:45,261
+E haverá tentações.
+
+517
+00:33:49,098 --> 00:33:52,184
+Só um pode entrar aqui.
+
+518
+00:33:52,351 --> 00:33:56,063
+Aquele que tiver grande valor interior.
+
+519
+00:33:56,230 --> 00:33:59,358
+O diamante bruto.
+
+520
+00:34:00,317 --> 00:34:01,443
+Lembre-se...
+
+521
+00:34:02,319 --> 00:34:03,863
+traga apenas a lâmpada.
+
+522
+00:34:45,613 --> 00:34:47,239
+Abu, não toque.
+
+523
+00:34:47,406 --> 00:34:48,407
+Lembra?
+
+524
+00:35:45,214 --> 00:35:46,340
+Abu.
+
+525
+00:35:48,509 --> 00:35:50,636
+Isto é um tapete mágico.
+
+526
+00:35:50,928 --> 00:35:52,555
+Eles existem mesmo.
+
+527
+00:35:53,556 --> 00:35:54,557
+Olá, Tapete.
+
+528
+00:35:58,727 --> 00:36:01,313
+Vamos ver se podemos
+fazer algo para ajudá-lo.
+
+529
+00:36:16,078 --> 00:36:17,037
+Ah, ei.
+
+530
+00:36:17,663 --> 00:36:19,290
+Imagina.
+
+531
+00:36:21,876 --> 00:36:24,378
+Abu, guarde suas mãozinhas
+de macaco para si mesmo.
+
+532
+00:37:36,575 --> 00:37:37,743
+Abu, não!
+
+533
+00:37:37,910 --> 00:37:42,498
+Vocês tocaram no tesouro proibido.
+
+534
+00:37:42,665 --> 00:37:46,126
+Agora, vocês nunca mais...
+
+535
+00:37:46,293 --> 00:37:48,838
+vão ver a luz do dia!
+
+536
+00:38:17,741 --> 00:38:18,909
+Tapete!
+
+537
+00:38:27,293 --> 00:38:28,919
+Abu, pule!
+
+538
+00:38:53,277 --> 00:38:54,487
+Pode me dar uma mão?
+
+539
+00:38:54,653 --> 00:38:55,863
+Primeiro, a lâmpada.
+
+540
+00:38:56,030 --> 00:38:57,156
+Não, primeiro, sua mão.
+
+541
+00:38:57,323 --> 00:38:58,491
+Não temos muito tempo.
+
+542
+00:38:58,657 --> 00:38:59,867
+Me dê a lâmpada.
+
+543
+00:39:05,873 --> 00:39:06,874
+Sua mão!
+
+544
+00:39:07,041 --> 00:39:09,126
+Chega de ser o segundo, amo.
+
+545
+00:39:09,293 --> 00:39:10,252
+Agora a sua mão.
+
+546
+00:39:13,214 --> 00:39:14,757
+Que tal o meu pé?
+
+547
+00:39:16,091 --> 00:39:17,009
+Não! Não!
+
+548
+00:39:24,892 --> 00:39:26,685
+Me larga, macaco!
+
+549
+00:39:34,735 --> 00:39:35,736
+Pare.
+
+550
+00:39:36,612 --> 00:39:39,907
+Macaco sujo!
+Segundo, segundo!
+
+551
+00:40:01,095 --> 00:40:02,304
+Estamos vivos.
+
+552
+00:40:02,471 --> 00:40:03,514
+Eu acho.
+
+553
+00:40:04,515 --> 00:40:05,599
+Obrigado, Tapete.
+
+554
+00:40:10,354 --> 00:40:11,564
+Abu.
+
+555
+00:40:13,524 --> 00:40:14,733
+Como você...
+
+556
+00:40:15,192 --> 00:40:17,069
+Macaquinho danadinho.
+
+557
+00:40:19,697 --> 00:40:22,825
+Agora, só precisamos achar uma saída.
+
+558
+00:40:26,328 --> 00:40:28,747
+Tapete, conhece um jeito
+de sairmos daqui?
+
+559
+00:40:30,666 --> 00:40:31,834
+A lâmpada?
+
+560
+00:40:34,920 --> 00:40:36,672
+O que é isso?
+
+561
+00:40:52,688 --> 00:40:57,902
+Ó, Grandioso que me chama,
+o terrível a quem devo obediência...
+
+562
+00:40:58,068 --> 00:41:03,032
+honrarei meu juramento,
+concedendo-lhe três desejos.
+
+563
+00:41:06,827 --> 00:41:10,831
+Eu disse: "Ó, Grandioso..."
+
+564
+00:41:12,625 --> 00:41:14,376
+Ei, garoto,
+onde está o seu patrão?
+
+565
+00:41:15,127 --> 00:41:16,754
+Me dá uma ajuda.
+Onde está o seu patrão?
+
+566
+00:41:16,921 --> 00:41:19,256
+Se fosse para falar sozinho,
+eu ficaria na lâmpada.
+
+567
+00:41:20,466 --> 00:41:22,009
+Alô!
+
+568
+00:41:22,510 --> 00:41:23,385
+Eu...
+
+569
+00:41:23,552 --> 00:41:24,762
+Use sua voz de garotão.
+
+570
+00:41:24,929 --> 00:41:29,266
+Eu estou falando
+com um gigante azul de fumaça?
+
+571
+00:41:29,433 --> 00:41:30,559
+Não!
+
+572
+00:41:31,435 --> 00:41:36,482
+Não sou um gigante, sou um gênio.
+Tem uma diferença.
+
+573
+00:41:36,649 --> 00:41:38,609
+Gigantes não são reais.
+
+574
+00:41:38,776 --> 00:41:40,486
+-Onde está o seu patrão?
+-Meu patrão?
+
+575
+00:41:40,653 --> 00:41:43,322
+Olha, garoto, tem tempo
+que eu faço isso, certo?
+
+576
+00:41:43,489 --> 00:41:45,699
+Tem sempre um cara, sabe...
+
+577
+00:41:45,866 --> 00:41:48,160
+que enganou
+ou enterrou alguém...
+
+578
+00:41:48,327 --> 00:41:50,120
+Já me entendeu.
+Onde está esse cara?
+
+579
+00:41:50,287 --> 00:41:52,665
+Eu conheço esse cara.
+Ele está lá fora.
+
+580
+00:41:52,832 --> 00:41:57,753
+Então, estamos só nós dois
+aqui embaixo?
+
+581
+00:41:58,712 --> 00:41:59,797
+E um macaco?
+
+582
+00:41:59,964 --> 00:42:01,465
+Isso é problema seu...
+
+583
+00:42:01,632 --> 00:42:03,425
+mas teremos que falar
+desse macaco depois.
+
+584
+00:42:03,592 --> 00:42:04,635
+Macaquinho bonitinho.
+
+585
+00:42:04,802 --> 00:42:06,136
+Então você esfregou a lâmpada?
+
+586
+00:42:08,430 --> 00:42:10,599
+Certo. E você se incomodaria...
+
+587
+00:42:10,766 --> 00:42:12,309
+se eu desse uma alongada?
+
+588
+00:42:13,143 --> 00:42:14,270
+Está me pedindo?
+
+589
+00:42:14,436 --> 00:42:16,063
+Sim. Você é o meu amo.
+
+590
+00:42:16,939 --> 00:42:18,566
+Eu sou o seu amo?
+
+591
+00:42:18,899 --> 00:42:19,984
+Cachorro olhando para baixo.
+
+592
+00:42:20,150 --> 00:42:22,027
+Não. Parece que você
+deveria ser o meu.
+
+593
+00:42:22,194 --> 00:42:24,989
+Certo, mas não é assim
+que funciona.
+
+594
+00:42:25,156 --> 00:42:26,991
+Há quanto tempo
+está preso aqui?
+
+595
+00:42:27,950 --> 00:42:28,993
+Uns mil anos.
+
+596
+00:42:29,160 --> 00:42:30,327
+Mil anos?
+
+597
+00:42:30,494 --> 00:42:31,620
+"Mil anos."
+
+598
+00:42:31,787 --> 00:42:35,207
+Garoto, sou só eu que acho
+ou você se surpreende com tudo?
+
+599
+00:42:35,374 --> 00:42:37,293
+Não sabe mesmo quem eu sou?
+
+600
+00:42:37,459 --> 00:42:41,422
+Gênio, desejos, lâmpada...
+Nada disso soa familiar?
+
+601
+00:42:42,756 --> 00:42:45,593
+Uau! Isso é inédito.
+
+602
+00:42:46,302 --> 00:42:47,136
+Macaco!
+
+603
+00:42:53,976 --> 00:42:55,644
+Não se preocupe com ele.
+Ele está bem.
+
+604
+00:42:59,648 --> 00:43:02,026
+<i>Ali Babá tinha 40 ladrões</i>
+
+605
+00:43:02,193 --> 00:43:05,029
+<i>Scheherazade tinha mil contos</i>
+
+606
+00:43:05,196 --> 00:43:07,156
+<i>Mas, amo, você deu sorte
+Pois tem na manga</i>
+
+607
+00:43:07,323 --> 00:43:09,408
+<i>Um gênio que nunca falha</i>
+
+608
+00:43:14,246 --> 00:43:16,207
+Sou o máximo.
+
+609
+00:43:16,373 --> 00:43:17,374
+É.
+
+610
+00:43:20,002 --> 00:43:21,045
+Achou fraco, não é?
+
+611
+00:43:22,087 --> 00:43:24,423
+Estou brincando.
+Olha isso.
+
+612
+00:43:27,676 --> 00:43:28,886
+Lá vou eu!
+
+613
+00:43:32,306 --> 00:43:33,265
+Licencinha.
+
+614
+00:43:33,766 --> 00:43:35,643
+Cuidado aí!
+
+615
+00:43:37,353 --> 00:43:38,479
+Agora você me provocou.
+
+616
+00:43:38,646 --> 00:43:40,564
+Vai ver o que estou aprontando.
+
+617
+00:43:40,981 --> 00:43:43,484
+<i>Ali Babá tinha 40 ladrões</i>
+
+618
+00:43:43,651 --> 00:43:45,820
+<i>Scheherazade tinha mil contos</i>
+
+619
+00:43:45,986 --> 00:43:48,405
+<i>Mas, amo, você deu sorte
+Pois tem na manga</i>
+
+620
+00:43:48,572 --> 00:43:50,449
+<i>Um tipo de magia que não falha</i>
+
+621
+00:43:50,908 --> 00:43:53,494
+<i>Tem uma força e tanto
+à disposição</i>
+
+622
+00:43:53,661 --> 00:43:55,913
+<i>Além de muita munição</i>
+
+623
+00:43:56,080 --> 00:43:58,707
+<i>Tem soco forte, chute
+Estilo de montão</i>
+
+624
+00:43:58,874 --> 00:44:01,293
+<i>Basta esfregar a lâmpada
+Que eu vou dizer</i>
+
+625
+00:44:01,460 --> 00:44:03,212
+<i>Senhor...
+qual é o seu nome?</i>
+
+626
+00:44:03,379 --> 00:44:05,756
+<i>Tanto faz
+O que vai querer?</i>
+
+627
+00:44:05,923 --> 00:44:08,050
+<i>Faça seu pedido
+Vou anotar</i>
+
+628
+00:44:08,217 --> 00:44:11,220
+<i>Você nunca teve um amigo como eu</i>
+
+629
+00:44:11,387 --> 00:44:15,516
+<i>A vida é o seu restaurante
+E eu sou o seu </i>maître
+
+630
+00:44:15,683 --> 00:44:18,102
+<i>Basta sussurrar o que você quiser</i>
+
+631
+00:44:18,269 --> 00:44:20,604
+<i>Você nunca teve um amigo como eu</i>
+
+632
+00:44:20,771 --> 00:44:23,148
+<i>Nosso serviço é impecável</i>
+
+633
+00:44:23,315 --> 00:44:25,568
+<i>Você é o patrão, o rei, o xá</i>
+
+634
+00:44:25,734 --> 00:44:28,028
+<i>Basta falar o que desejar
+Vou providenciar</i>
+
+635
+00:44:28,195 --> 00:44:31,115
+<i>Que tal um pouco mais de </i>baklava?
+
+636
+00:44:31,282 --> 00:44:35,411
+<i>Escolha alguns da coluna A
+Experimente tudo da coluna B</i>
+
+637
+00:44:35,578 --> 00:44:37,913
+<i>É só pedir, estamos aí</i>
+
+638
+00:44:38,080 --> 00:44:40,916
+<i>Você nunca teve um amigo como eu</i>
+
+639
+00:44:44,170 --> 00:44:46,547
+É a melhor parte!
+Preste atenção!
+
+640
+00:44:46,714 --> 00:44:47,923
+É a melhor parte!
+
+641
+00:44:49,592 --> 00:44:51,093
+<i>Seus amigos fazem isso?</i>
+
+642
+00:44:52,094 --> 00:44:54,054
+<i>Seus amigos fazem aquilo?</i>
+
+643
+00:44:54,430 --> 00:44:56,932
+<i>Por acaso tiram isto...</i>
+
+644
+00:44:57,099 --> 00:44:59,310
+<i>De dentro da cartola?</i>
+
+645
+00:44:59,476 --> 00:45:00,561
+<i>Seus amigos fazem...</i>
+
+646
+00:45:05,524 --> 00:45:07,610
+<i>Eu sou o gênio da lâmpada</i>
+
+647
+00:45:07,776 --> 00:45:10,279
+<i>Sei cantar rap e dançar
+Me dê a chance de mostrar</i>
+
+648
+00:45:10,446 --> 00:45:12,323
+<i>Não fique aí sentado
+Tão chocado</i>
+
+649
+00:45:12,490 --> 00:45:14,909
+<i>Estou aqui para atender
+às suas preces</i>
+
+650
+00:45:15,075 --> 00:45:17,286
+<i>Um verdadeiro gênio
+diplomado</i>
+
+651
+00:45:17,453 --> 00:45:19,663
+<i>Sou seu gênio, seu encarregado</i>
+
+652
+00:45:19,830 --> 00:45:22,082
+<i>Minha prioridade é sempre te ajudar</i>
+
+653
+00:45:22,249 --> 00:45:24,543
+<i>O que vai querer?
+Eu realmente quero saber</i>
+
+654
+00:45:24,710 --> 00:45:27,087
+<i>Sua lista é quilométrica
+Posso imaginar</i>
+
+655
+00:45:27,254 --> 00:45:30,049
+<i>O que precisa fazer
+é esfregar assim</i>
+
+656
+00:45:30,216 --> 00:45:31,091
+<i>Senhor...</i>
+
+657
+00:45:31,258 --> 00:45:32,259
+-Aladdin.
+-Sim!
+
+658
+00:45:32,426 --> 00:45:34,345
+<i>Um pedido ou dois ou três</i>
+
+659
+00:45:34,512 --> 00:45:36,805
+<i>Eu dou conta de tudo,
+seu bem-afortunado</i>
+
+660
+00:45:36,972 --> 00:45:39,016
+<i>Você nunca teve um amigo
+Nunca teve um amigo</i>
+
+661
+00:45:39,183 --> 00:45:41,185
+<i>Você nunca teve um amigo
+Nunca teve um amigo</i>
+
+662
+00:45:41,352 --> 00:45:45,731
+<i>Você nunca, nunca... teve, teve...
+um amigo, amigo...</i>
+
+663
+00:45:45,898 --> 00:45:50,319
+<i>Como, como... eu</i>
+
+664
+00:45:54,073 --> 00:45:56,450
+<i>Você nunca teve um amigo como eu</i>
+
+665
+00:46:00,246 --> 00:46:01,497
+Podem aplaudir agora.
+
+666
+00:46:04,917 --> 00:46:07,294
+Não, não, não.
+Por favor. Por favor.
+
+667
+00:46:07,461 --> 00:46:10,756
+Podem me agradecer lá fora.
+À luz do Sol.
+
+668
+00:46:10,923 --> 00:46:11,924
+Quando desejar
+que a gente saia.
+
+669
+00:46:12,550 --> 00:46:14,385
+Então, como isso funciona?
+
+670
+00:46:15,219 --> 00:46:17,221
+Está brincando, não é?
+
+671
+00:46:18,222 --> 00:46:22,601
+A música inteira...
+foi para dar as instruções!
+
+672
+00:46:23,435 --> 00:46:26,272
+Já vi que não consegue dançar
+e ouvir ao mesmo tempo.
+
+673
+00:46:26,438 --> 00:46:28,691
+Então, vou resumir.
+1 passo: esfregue a lâmpada.
+
+674
+00:46:28,858 --> 00:46:31,110
+2 passo: diga o que deseja.
+3 passo...
+
+675
+00:46:31,443 --> 00:46:34,280
+não tem 3 passo.
+Viu, é fácil assim.
+
+676
+00:46:34,446 --> 00:46:35,447
+Você tem 3 desejos...
+
+677
+00:46:35,614 --> 00:46:38,659
+que começam esfregando a lâmpada
+e dizendo: "Eu quero". Entendeu?
+
+678
+00:46:38,826 --> 00:46:40,494
+-Acho que sim.
+-Algumas regras.
+
+679
+00:46:40,661 --> 00:46:42,580
+Não pode pedir mais desejos.
+Três bastam.
+
+680
+00:46:42,746 --> 00:46:47,626
+Não posso fazer alguém se apaixonar
+por outro alguém nem ressuscitar pessoas.
+
+681
+00:46:47,793 --> 00:46:50,296
+Interrompa à vontade
+quando não entender.
+
+682
+00:46:50,462 --> 00:46:52,298
+Brincadeira.
+Nunca me interrompa.
+
+683
+00:46:52,464 --> 00:46:53,799
+Normalmente não explico tanto...
+
+684
+00:46:53,966 --> 00:46:57,303
+porque quando me encontra,
+o cara já sabe o que quer...
+
+685
+00:46:57,469 --> 00:47:02,266
+e normalmente tem a ver
+com muito dinheiro e poder.
+
+686
+00:47:05,019 --> 00:47:07,396
+Faça-me um favor:
+não entre nessa.
+
+687
+00:47:07,563 --> 00:47:11,358
+Juro que não há dinheiro ou poder
+nesse mundo que satisfaça.
+
+688
+00:47:11,525 --> 00:47:13,360
+Certo? Então,
+qual é o primeiro desejo?
+
+689
+00:47:14,069 --> 00:47:16,447
+Bem, eu preciso pensar.
+
+690
+00:47:16,614 --> 00:47:18,491
+Porque se são só três...
+
+691
+00:47:18,657 --> 00:47:19,950
+Por que são só três?
+
+692
+00:47:20,117 --> 00:47:22,161
+Não sei, quem se importa?
+
+693
+00:47:22,786 --> 00:47:24,538
+Você não sabe?
+
+694
+00:47:24,705 --> 00:47:25,664
+Achei que soubesse de tudo.
+
+695
+00:47:25,831 --> 00:47:27,124
+É porque não escuta.
+
+696
+00:47:27,500 --> 00:47:30,878
+Não falei que eu sabia tudo.
+Falei que era todo-poderoso.
+
+697
+00:47:31,045 --> 00:47:32,046
+EU - SULTÃO
+VOCÊ
+
+698
+00:47:32,213 --> 00:47:33,714
+O ser mais poderoso do universo.
+
+699
+00:47:33,881 --> 00:47:36,926
+O que eu não souber,
+eu sei que posso aprender.
+
+700
+00:47:37,092 --> 00:47:37,968
+Do lado de fora, ao Sol.
+
+701
+00:47:38,135 --> 00:47:39,470
+Por que está enrolando
+para pedir?
+
+702
+00:47:39,637 --> 00:47:42,306
+Sei que não percebe,
+mas estou muito pálido.
+
+703
+00:47:42,473 --> 00:47:46,143
+Isso é azul-celeste.
+Minha pigmentação natural é azul-marinho.
+
+704
+00:47:46,310 --> 00:47:47,686
+Peça um pouco de Sol.
+
+705
+00:47:47,853 --> 00:47:51,815
+Tudo bem, Gênio.
+Quero que nos tire desta caverna.
+
+706
+00:47:53,526 --> 00:47:55,903
+Ele fez o primeiro pedido!
+
+707
+00:47:56,070 --> 00:47:57,738
+Tapetes, Camelos e Caravanas
+agradece a preferência.
+
+708
+00:47:57,905 --> 00:48:00,032
+Lembre-se da gorjeta
+do gênio na saída.
+
+709
+00:48:00,449 --> 00:48:01,992
+Segure firme, garoto!
+
+710
+00:48:08,499 --> 00:48:10,918
+Olha só esse mundo!
+
+711
+00:48:11,085 --> 00:48:13,921
+É tão grande!
+
+712
+00:48:14,088 --> 00:48:18,050
+Dentro da lâmpada é tudo, tipo,
+latão, latão, latão!
+
+713
+00:48:18,217 --> 00:48:19,510
+Você fala:
+"Ah, isso é cobre?"
+
+714
+00:48:19,677 --> 00:48:23,597
+Não, latão! Tipo do problema
+da vida de gênio...
+
+715
+00:48:23,764 --> 00:48:27,601
+poderes cósmicos fenomenais,
+mas vivendo em um espaço minúsculo.
+
+716
+00:48:27,768 --> 00:48:32,022
+Então, isto é mágico
+ou você é mágico?
+
+717
+00:48:32,773 --> 00:48:34,066
+É tipo um pacote.
+
+718
+00:48:36,944 --> 00:48:38,946
+Poderia avisar antes de fazer isso?
+
+719
+00:48:39,113 --> 00:48:40,614
+Vai se acostumar.
+
+720
+00:48:41,031 --> 00:48:42,116
+Certo.
+
+721
+00:48:42,283 --> 00:48:44,743
+Preciso fazer todos os meus pedidos aqui?
+
+722
+00:48:44,910 --> 00:48:47,204
+Se eu levá-lo para Agrabah,
+as pessoas não vão...
+
+723
+00:48:47,371 --> 00:48:50,291
+Não! Eu posso ter
+uma aparência totalmente normal.
+
+724
+00:48:51,959 --> 00:48:53,419
+Certo, totalmente normal.
+
+725
+00:48:55,546 --> 00:48:56,547
+Ainda azul.
+
+726
+00:48:59,091 --> 00:49:00,551
+Precisamos desse coque?
+
+727
+00:49:00,926 --> 00:49:02,428
+É o meu charme!
+
+728
+00:49:02,595 --> 00:49:03,762
+Está bem.
+
+729
+00:49:04,930 --> 00:49:07,933
+Então, o que vai pedir?
+
+730
+00:49:09,185 --> 00:49:10,269
+Ainda não pensei nisso.
+
+731
+00:49:11,270 --> 00:49:13,105
+Você não é mesmo
+aquele cara.
+
+732
+00:49:14,106 --> 00:49:14,940
+Está bem.
+
+733
+00:49:15,107 --> 00:49:16,400
+O que você ia querer?
+
+734
+00:49:19,361 --> 00:49:22,198
+Nunca me perguntaram isso.
+
+735
+00:49:23,157 --> 00:49:24,658
+Mas é fácil responder.
+
+736
+00:49:25,284 --> 00:49:26,911
+Eu ia querer ser livre.
+
+737
+00:49:28,120 --> 00:49:30,289
+Não ter que dizer:
+"Puf! Posso ajudar?"
+
+738
+00:49:30,456 --> 00:49:32,082
+"O que você quer?"
+
+739
+00:49:32,249 --> 00:49:34,668
+"Bem-vindo à lâmpada!
+Posso anotar seu pedido?"
+
+740
+00:49:35,002 --> 00:49:36,003
+Liberdade.
+
+741
+00:49:36,170 --> 00:49:37,338
+Eu quero ser...
+
+742
+00:49:38,672 --> 00:49:40,090
+quero ser humano.
+
+743
+00:49:40,257 --> 00:49:41,926
+Por que simplesmente
+não se liberta?
+
+744
+00:49:45,137 --> 00:49:47,598
+Tapete! Ouviu o que o garoto disse?
+
+745
+00:49:47,765 --> 00:49:49,975
+Por que eu não me liberto?
+
+746
+00:49:51,018 --> 00:49:52,478
+O único jeito
+de um gênio ser livre...
+
+747
+00:49:52,645 --> 00:49:57,316
+é se o dono da lâmpada usar
+um dos desejos para libertá-lo...
+
+748
+00:49:57,483 --> 00:50:01,862
+e a última vez que isso aconteceu
+foi no dia de São Nunca.
+
+749
+00:50:05,282 --> 00:50:07,701
+Deixa comigo.
+Eu tenho três, certo?
+
+750
+00:50:07,993 --> 00:50:09,453
+Na verdade, só tem dois.
+
+751
+00:50:09,620 --> 00:50:12,039
+Usou um para sair da caverna.
+Lembra-se?
+
+752
+00:50:12,414 --> 00:50:13,916
+Fui eu? Ou você?
+
+753
+00:50:14,416 --> 00:50:17,837
+-Achei que precisasse esfregar a lâmpada.
+-Ok, espertinho.
+
+754
+00:50:18,003 --> 00:50:19,421
+Vamos voltar a fita.
+
+755
+00:50:22,174 --> 00:50:24,510
+<i>Certo, Gênio. Eu quero...</i>
+
+756
+00:50:24,677 --> 00:50:27,054
+Macaquinho com o truque da lâmpada!
+
+757
+00:50:27,221 --> 00:50:29,139
+Nunca tinha visto esse.
+
+758
+00:50:30,266 --> 00:50:31,392
+Vou ficar de olho em você.
+
+759
+00:50:32,184 --> 00:50:34,562
+Agora poderei usar
+o 3 pedido para libertá-lo.
+
+760
+00:50:36,063 --> 00:50:37,648
+O lance dos desejos
+é o seguinte...
+
+761
+00:50:38,399 --> 00:50:41,569
+quanto mais você tem,
+mais você quer.
+
+762
+00:50:42,111 --> 00:50:43,821
+Eu não sou assim.
+
+763
+00:50:45,447 --> 00:50:46,532
+Veremos.
+
+764
+00:50:46,699 --> 00:50:48,325
+Mas tem uma coisa.
+
+765
+00:50:48,659 --> 00:50:49,660
+Já vi essa cara.
+
+766
+00:50:50,411 --> 00:50:52,496
+Quem é ela? Quem é a garota?
+
+767
+00:50:53,372 --> 00:50:54,707
+Ela é uma princesa.
+
+768
+00:50:55,082 --> 00:50:56,125
+E qual não é?
+
+769
+00:50:56,292 --> 00:50:58,919
+"Trate sua mulher como rainha",
+sempre digo isso.
+
+770
+00:50:59,086 --> 00:51:01,463
+Não, ela é uma princesa mesmo.
+
+771
+00:51:01,630 --> 00:51:04,925
+Já avisei que não faço uma pessoa
+se apaixonar por outra, então...
+
+772
+00:51:05,092 --> 00:51:06,969
+Não, nós fizemos uma conexão.
+
+773
+00:51:07,136 --> 00:51:08,012
+É verdade?
+
+774
+00:51:09,847 --> 00:51:10,723
+Está bem.
+
+775
+00:51:10,890 --> 00:51:14,101
+Ela é inteligente, gentil
+e tão linda.
+
+776
+00:51:14,268 --> 00:51:16,478
+Mas tem que se casar com...
+
+777
+00:51:17,855 --> 00:51:19,064
+Ei! Me faz um príncipe?
+
+778
+00:51:20,274 --> 00:51:23,485
+Tem uma grande área cinzenta
+em "me faz um príncipe".
+
+779
+00:51:24,445 --> 00:51:26,780
+Eu poderia só...
+fazer um príncipe para você.
+
+780
+00:51:26,947 --> 00:51:27,865
+Ah, não.
+
+781
+00:51:28,032 --> 00:51:29,909
+É. Ficaria preso com aquele cara
+para sempre.
+
+782
+00:51:30,075 --> 00:51:31,494
+Ei, viram o meu palácio?
+
+783
+00:51:32,453 --> 00:51:34,163
+Seja mais específico.
+
+784
+00:51:34,747 --> 00:51:38,083
+-Tudo depende dos detalhes.
+-Entendi.
+
+785
+00:51:38,250 --> 00:51:39,919
+Mas se ela já gosta de você...
+
+786
+00:51:40,085 --> 00:51:41,086
+por que mudar?
+
+787
+00:51:41,253 --> 00:51:43,422
+Já falei, ela precisa se casar
+com um príncipe.
+
+788
+00:51:43,589 --> 00:51:45,049
+Eu só quero ir para casa!
+
+789
+00:51:45,216 --> 00:51:47,343
+Certo, deixa comigo.
+
+790
+00:51:47,843 --> 00:51:51,055
+Um pedido oficial desta vez,
+para quem está contando...
+
+791
+00:51:51,222 --> 00:51:52,932
+o que, agora,
+eu estou fazendo.
+
+792
+00:51:53,557 --> 00:51:55,768
+Gênio, eu quero...
+
+793
+00:51:56,310 --> 00:51:57,186
+Lâmpada.
+
+794
+00:51:57,353 --> 00:51:58,395
+Ah, desculpe.
+
+795
+00:52:00,481 --> 00:52:02,733
+Muito bem.
+Gênio...
+
+796
+00:52:03,025 --> 00:52:04,026
+Não o machuque, Gênio!
+
+797
+00:52:05,069 --> 00:52:09,532
+Eu quero... me tornar...
+um príncipe.
+
+798
+00:52:09,698 --> 00:52:11,450
+Chega para trás.
+Eu preciso de espaço.
+
+799
+00:52:12,117 --> 00:52:13,369
+Vou "fabulizar" você.
+
+800
+00:52:15,162 --> 00:52:16,163
+Gênio?
+
+801
+00:52:20,918 --> 00:52:23,087
+Dá tontura.
+Mas já melhorou, não é?
+
+802
+00:52:23,629 --> 00:52:25,965
+Acho que estou me acostumando.
+
+803
+00:52:26,131 --> 00:52:28,843
+Certo, um príncipe, um príncipe.
+
+804
+00:52:29,009 --> 00:52:32,805
+Obviamente, o estilo "gueto chique"
+não vai dar certo.
+
+805
+00:52:32,972 --> 00:52:35,474
+Acho que poderia ser lavanda.
+
+806
+00:52:35,641 --> 00:52:37,101
+O que é lavanda?
+
+807
+00:52:37,268 --> 00:52:39,019
+Não! <i>Chartreuse.</i>
+
+808
+00:52:39,687 --> 00:52:40,688
+<i>Cerise!</i>
+
+809
+00:52:42,773 --> 00:52:44,191
+-O corte não caiu bem.
+-O que é isto?
+
+810
+00:52:44,608 --> 00:52:47,611
+A cor não ornou com o tom da pele,
+a silhueta está confusa.
+
+811
+00:52:47,778 --> 00:52:48,904
+O chapéu é muito grande!
+
+812
+00:52:49,071 --> 00:52:51,157
+Não, não é muito grande.
+
+813
+00:52:51,323 --> 00:52:53,367
+Qual é, Gênio!
+Tem que botar para quebrar!
+
+814
+00:52:53,534 --> 00:52:56,245
+Temos que ousar e...
+caprichar no ouro!
+
+815
+00:52:57,913 --> 00:52:58,706
+Não!
+
+816
+00:52:58,873 --> 00:52:59,790
+Exageramos.
+
+817
+00:52:59,957 --> 00:53:00,791
+Gênio, você decaiu!
+
+818
+00:53:00,958 --> 00:53:02,376
+Precisa ser neutro
+para o deserto.
+
+819
+00:53:02,543 --> 00:53:04,837
+Marfim, bege, talco, Terra Branca.
+
+820
+00:53:05,004 --> 00:53:06,005
+É meio pesado.
+
+821
+00:53:07,840 --> 00:53:08,841
+Branco.
+
+822
+00:53:10,259 --> 00:53:13,637
+Ah! E a galera vibra!
+
+823
+00:53:15,055 --> 00:53:18,392
+O Gênio! O Gênio está
+pegando fogo!
+
+824
+00:53:18,559 --> 00:53:20,186
+<i>O Gênio está pegando fogo!</i>
+
+825
+00:53:20,352 --> 00:53:22,313
+Não exagera, Gênio!
+Pega leve!
+
+826
+00:53:22,730 --> 00:53:24,148
+Esfriem minha cabeça!
+
+827
+00:53:24,690 --> 00:53:27,151
+Esfriem minha cabeça!
+Estou demais!
+
+828
+00:53:28,152 --> 00:53:29,153
+Eu voltei!
+
+829
+00:53:29,570 --> 00:53:32,072
+-E aí, que tal?
+-Eu gostei.
+
+830
+00:53:32,239 --> 00:53:33,532
+Claro que gostou!
+Eu que fiz!
+
+831
+00:53:33,699 --> 00:53:34,825
+Acho que é o meu estilo.
+
+832
+00:53:34,992 --> 00:53:37,036
+Analisando bem, é o meu.
+
+833
+00:53:37,203 --> 00:53:39,580
+Eu fiz quase tudo,
+você só ficou aí parado.
+
+834
+00:53:39,747 --> 00:53:40,748
+Mas entendi o que disse.
+
+835
+00:53:40,915 --> 00:53:42,917
+Mas as pessoas
+não vão me reconhecer?
+
+836
+00:53:43,083 --> 00:53:44,168
+Ninguém vai reconhecê-lo.
+
+837
+00:53:44,335 --> 00:53:45,836
+A magia do Gênio faz isso.
+
+838
+00:53:46,003 --> 00:53:47,505
+As pessoas veem
+o que lhes mandarem ver.
+
+839
+00:53:47,963 --> 00:53:49,173
+Certo.
+
+840
+00:53:49,340 --> 00:53:50,174
+Quem sou eu?
+
+841
+00:53:50,341 --> 00:53:51,342
+Quem...
+
+842
+00:53:52,343 --> 00:53:54,929
+Príncipe Ali?
+
+843
+00:53:56,222 --> 00:53:57,473
+-De?
+-Da...
+
+844
+00:53:57,848 --> 00:53:58,891
+De Ababwa.
+
+845
+00:53:59,058 --> 00:54:00,935
+A-bub-wha?
+
+846
+00:54:01,101 --> 00:54:03,187
+Não ouviu bem.
+Ababwa.
+
+847
+00:54:03,896 --> 00:54:05,022
+-Esse lugar existe?
+-Claro!
+
+848
+00:54:05,189 --> 00:54:06,982
+Tipo, todo mundo conhece.
+
+849
+00:54:07,149 --> 00:54:08,609
+Tem um folheto.
+
+850
+00:54:08,776 --> 00:54:10,236
+Quente no verão,
+ameno no outono.
+
+851
+00:54:10,402 --> 00:54:12,112
+Agora, não,
+pode ler na viagem.
+
+852
+00:54:13,280 --> 00:54:14,782
+Como iremos até lá?
+
+853
+00:54:15,991 --> 00:54:17,660
+Acho que não vai ser
+montado no macaco.
+
+854
+00:54:18,118 --> 00:54:20,079
+Não é fofo um macaco
+fazendo <i>moonwalk?</i>
+
+855
+00:54:20,246 --> 00:54:21,330
+Espere aí, Abu.
+
+856
+00:54:22,832 --> 00:54:24,083
+Jumento. Muito pequeno.
+
+857
+00:54:26,794 --> 00:54:27,837
+Não.
+
+858
+00:54:28,003 --> 00:54:29,004
+Muito óbvio.
+
+859
+00:54:29,171 --> 00:54:30,840
+Precisamos de algo robusto!
+
+860
+00:54:35,553 --> 00:54:37,054
+Relaxa, Abu.
+É só um minuto.
+
+861
+00:54:38,889 --> 00:54:41,225
+Príncipe Ali de Ababwa.
+
+862
+00:54:41,392 --> 00:54:43,185
+E, agora, a sua comitiva!
+
+863
+00:54:43,352 --> 00:54:44,353
+O quê?
+
+864
+00:54:47,064 --> 00:54:48,357
+O que está acontecendo?
+
+865
+00:54:48,524 --> 00:54:49,525
+Gênio?
+
+866
+00:55:06,709 --> 00:55:08,002
+Abram caminho!
+
+867
+00:55:08,169 --> 00:55:09,503
+Abram caminho!
+
+868
+00:55:10,796 --> 00:55:12,047
+Abram caminho!
+
+869
+00:55:12,214 --> 00:55:13,215
+Abram caminho!
+
+870
+00:55:16,427 --> 00:55:17,428
+Abram caminho!
+
+871
+00:55:42,786 --> 00:55:48,083
+<i>Abram caminho para o Príncipe Ali</i>
+
+872
+00:55:48,250 --> 00:55:53,255
+<i>Saúdem o Príncipe Ali</i>
+
+873
+00:55:53,631 --> 00:55:56,217
+<i>Abram caminho no antigo mercado</i>
+
+874
+00:55:56,383 --> 00:55:58,677
+<i>Você aí, vá para lá
+Um novo astro vai passar</i>
+
+875
+00:55:58,844 --> 00:56:02,223
+<i>Ei, venha ver
+Seja o primeiro a conhecer</i>
+
+876
+00:56:03,724 --> 00:56:06,310
+<i>Abram caminho, venham ver
+Sinos tocando, tambores rufando</i>
+
+877
+00:56:06,477 --> 00:56:08,354
+<i>Vocês vão adorar esse rapaz</i>
+
+878
+00:56:08,521 --> 00:56:13,108
+<i>Príncipe Ali, ele é fabuloso
+Ali Ababwa</i>
+
+879
+00:56:13,484 --> 00:56:15,861
+<i>Mostre respeito
+Curve-se direito</i>
+
+880
+00:56:16,028 --> 00:56:17,363
+<i>Basta se ajoelhar</i>
+
+881
+00:56:19,114 --> 00:56:20,699
+<i>Agora tentem se acalmar</i>
+
+882
+00:56:21,534 --> 00:56:23,202
+<i>E limpem sua vestimenta</i>
+
+883
+00:56:23,828 --> 00:56:28,290
+<i>Depois venham ver
+Seu espetacular cortejo</i>
+
+884
+00:56:28,457 --> 00:56:32,670
+<i>Príncipe Ali, ele é poderoso
+Ali Ababwa</i>
+
+885
+00:56:33,546 --> 00:56:36,632
+<i>Ele tem a força de dez homens
+daqui</i>
+
+886
+00:56:38,425 --> 00:56:43,097
+<i>Ele enfrentou hordas montadas
+Cem bandidos com espadas</i>
+
+887
+00:56:43,264 --> 00:56:47,268
+<i>E quem despachou os valentões?
+Foi o Príncipe Ali</i>
+
+888
+00:56:47,434 --> 00:56:48,477
+<i>Rapazes, o que ele tem?</i>
+
+889
+00:56:48,644 --> 00:56:51,480
+<i>75 camelos de ouro</i>
+
+890
+00:56:51,647 --> 00:56:52,857
+<i>Agora, as moças
+O que ele tem?</i>
+
+891
+00:56:53,023 --> 00:56:56,861
+<i>Pavões roxos, são 53</i>
+
+892
+00:56:57,027 --> 00:57:00,781
+<i>E os mamíferos exóticos
+de seu tesouro</i>
+
+893
+00:57:00,948 --> 00:57:01,991
+<i>Agora todos
+Ajudem aí!</i>
+
+894
+00:57:02,158 --> 00:57:03,909
+<i>Ele tem um zoo
+Muito especial</i>
+
+895
+00:57:04,076 --> 00:57:06,495
+<i>É uma coleção de nível mundial!</i>
+
+896
+00:57:06,662 --> 00:57:10,666
+<i>Príncipe Ali, como é bonito
+Ali Ababwa</i>
+
+897
+00:57:10,833 --> 00:57:14,712
+<i>Aquele físico, não há o que dizer
+Faz a perna tremer</i>
+
+898
+00:57:14,879 --> 00:57:15,880
+<i>Rapaz charmoso!</i>
+
+899
+00:57:16,046 --> 00:57:18,007
+<i>Então venha para a praça</i>
+
+900
+00:57:18,174 --> 00:57:20,259
+<i>Arrume o véu
+Mantenha a graça</i>
+
+901
+00:57:20,426 --> 00:57:23,888
+<i>Para babar de tanto admirar
+O Príncipe Ali!</i>
+
+902
+00:57:25,222 --> 00:57:27,683
+<i>Ele tem 95 macacos persas brancos</i>
+
+903
+00:57:27,850 --> 00:57:29,518
+<i>Ele tem macacos, um montão</i>
+
+904
+00:57:29,685 --> 00:57:32,104
+<i>Podem vê-los de graça aqui</i>
+
+905
+00:57:32,271 --> 00:57:33,772
+<i>É generoso, tão bondoso</i>
+
+906
+00:57:33,939 --> 00:57:37,151
+<i>Ele tem 10 mil criados
+E lacaios</i>
+
+907
+00:57:37,318 --> 00:57:38,694
+<i>Orgulhosos do patrão</i>
+
+908
+00:57:38,861 --> 00:57:40,279
+<i>Com capricho
+Servem com devoção</i>
+
+909
+00:57:40,446 --> 00:57:42,198
+<i>Tanta lealdade vira frenesi</i>
+
+910
+00:57:42,364 --> 00:57:43,866
+<i>Ao servir</i>
+
+911
+00:57:44,408 --> 00:57:47,453
+<i>O Príncipe Ali</i>
+
+912
+00:57:47,620 --> 00:57:51,415
+<i>Príncipe A...</i>
+
+913
+00:57:51,582 --> 00:57:53,000
+Só falta você!
+
+914
+00:57:56,170 --> 00:57:57,630
+Estamos só esperando!
+
+915
+00:58:02,510 --> 00:58:03,385
+Você consegue!
+
+916
+00:58:05,387 --> 00:58:06,764
+É isso aí!
+
+917
+00:58:07,181 --> 00:58:10,226
+<i>Príncipe Ali</i>
+
+918
+00:58:10,392 --> 00:58:12,394
+<i>É amoroso</i>
+
+919
+00:58:13,562 --> 00:58:15,481
+<i>Ali Ababwa</i>
+
+920
+00:58:16,565 --> 00:58:20,986
+<i>Soube que a Princesa é bela
+Onde está ela?</i>
+
+921
+00:58:21,904 --> 00:58:23,739
+<i>E é por isso, minha gente</i>
+
+922
+00:58:23,906 --> 00:58:25,908
+<i>Que se arrumou
+E veio de repente</i>
+
+923
+00:58:26,200 --> 00:58:27,743
+<i>-Com
+-Com 60 elefantes, lhamas de montão</i>
+
+924
+00:58:27,910 --> 00:58:28,410
+<i>Para valer!</i>
+
+925
+00:58:28,577 --> 00:58:29,745
+<i>Com ursos e leões
+E trompetes</i>
+
+926
+00:58:29,912 --> 00:58:30,955
+<i>-O quê?
+-Com 40 faquires</i>
+
+927
+00:58:31,205 --> 00:58:33,582
+<i>Cozinheiros, padeiros
+Pássaros afinados</i>
+
+928
+00:58:33,749 --> 00:58:35,251
+<i>Abram caminho</i>
+
+929
+00:58:35,417 --> 00:58:39,380
+<i>Para o Príncipe Ali</i>
+
+930
+00:59:00,401 --> 00:59:02,570
+-Onde estão eles?
+-Relaxa.
+
+931
+00:59:02,736 --> 00:59:04,697
+Por que está demorando tanto?
+
+932
+00:59:05,656 --> 00:59:07,032
+Lá vem o homem.
+
+933
+00:59:09,869 --> 00:59:11,495
+O que está fazendo?
+Abaixe os braços.
+
+934
+00:59:11,662 --> 00:59:13,080
+Estou só apresentando.
+
+935
+00:59:13,247 --> 00:59:14,123
+Abaixe os braços!
+
+936
+00:59:14,290 --> 00:59:17,835
+É um prazer recebê-lo em Agrabah,
+Príncipe Ali.
+
+937
+00:59:20,629 --> 00:59:21,630
+Como quebrou isso?
+
+938
+00:59:21,797 --> 00:59:23,132
+Não sei, caiu.
+
+939
+00:59:23,299 --> 00:59:25,259
+É um prazer conhecer ele,
+provavelmente.
+
+940
+00:59:26,343 --> 00:59:31,432
+Para mim, também é um prazer,
+Vossa Alteza, senhor.
+
+941
+00:59:31,599 --> 00:59:33,350
+O senhor parece muito sereno.
+
+942
+00:59:33,517 --> 00:59:36,145
+É uma saudação, não uma reverência.
+Levante-se.
+
+943
+00:59:36,312 --> 00:59:39,648
+Infelizmente, não conheço Ababwa.
+
+944
+00:59:42,026 --> 00:59:43,360
+-É no norte.
+-É no sul.
+
+945
+00:59:46,280 --> 00:59:49,867
+Temos um norte e um sul.
+
+946
+00:59:50,034 --> 00:59:53,496
+-O quê?
+-É perto, se quiser ir, é...
+
+947
+00:59:53,662 --> 00:59:56,624
+Por ali, vai encontrar,
+basta procurar.
+
+948
+00:59:56,790 --> 00:59:57,750
+Não me ajude.
+
+949
+00:59:57,917 --> 01:00:00,961
+O mundo está mudando rapidamente, Jafar.
+
+950
+01:00:01,420 --> 01:00:04,632
+Parece que surgem
+novos países todos os dias.
+
+951
+01:00:07,301 --> 01:00:08,302
+Não toque em mim.
+
+952
+01:00:09,053 --> 01:00:09,887
+Não toque em mim.
+
+953
+01:00:10,054 --> 01:00:14,683
+Bem, sim, o senhor é muito sábio.
+
+954
+01:00:15,017 --> 01:00:16,727
+Diga a ele que temos presentes.
+
+955
+01:00:17,061 --> 01:00:19,313
+Ah, sim! Nós temos coisas.
+
+956
+01:00:19,480 --> 01:00:20,481
+Presentes!
+
+957
+01:00:20,648 --> 01:00:22,149
+-Você organizou isso?
+-Sim!
+
+958
+01:00:25,069 --> 01:00:26,987
+Sim, aqui estão.
+
+959
+01:00:27,154 --> 01:00:29,490
+Presentes... já vão chegar!
+
+960
+01:00:29,657 --> 01:00:34,578
+Temos especiarias, camelos de ouro
+e colheres, são minúsculas!
+
+961
+01:00:34,745 --> 01:00:35,746
+Colheres!
+
+962
+01:00:35,913 --> 01:00:37,331
+Como fazem tão pequenas?
+
+963
+01:00:37,498 --> 01:00:38,541
+Temos geleias!
+
+964
+01:00:38,707 --> 01:00:40,042
+-Geleias?
+-Geleias.
+
+965
+01:00:40,209 --> 01:00:44,213
+Sim, geleias!
+De batata-doce, de figo.
+
+966
+01:00:44,380 --> 01:00:46,215
+-De batata-doce!
+-E de tâmaras.
+
+967
+01:00:46,382 --> 01:00:50,386
+Sem caroço e deliciosas,
+geleias exóticas.
+
+968
+01:00:50,553 --> 01:00:53,055
+Esqueça as geleias.
+
+969
+01:00:53,222 --> 01:00:54,557
+-O quê?
+-Nós temos joias.
+
+970
+01:00:55,307 --> 01:00:58,978
+Joias! Nós temos!
+E... aquilo!
+
+971
+01:00:59,520 --> 01:01:03,232
+Ali, oculto para fazer suspense.
+
+972
+01:01:07,236 --> 01:01:08,904
+É uma roda?
+
+973
+01:01:09,822 --> 01:01:12,074
+É muito cara.
+
+974
+01:01:12,241 --> 01:01:15,411
+E o que espera comprar com isso?
+
+975
+01:01:15,578 --> 01:01:16,704
+Você!
+
+976
+01:01:21,500 --> 01:01:22,501
+Não! Não, não.
+
+977
+01:01:22,668 --> 01:01:25,212
+Um momento com você,
+um momento. Não foi...
+
+978
+01:01:26,839 --> 01:01:28,966
+Está sugerindo
+que eu estou à venda?
+
+979
+01:01:29,133 --> 01:01:30,259
+É claro...
+
+980
+01:01:31,218 --> 01:01:33,137
+que não!
+Não, é claro que não!
+
+981
+01:01:33,304 --> 01:01:34,388
+Não!
+
+982
+01:01:34,555 --> 01:01:38,559
+É frio e escuro naquela lâmpada.
+
+983
+01:01:38,726 --> 01:01:39,727
+Mas é melhor do que isso.
+
+984
+01:01:39,894 --> 01:01:41,061
+Me dê licença.
+
+985
+01:01:41,228 --> 01:01:44,690
+Preciso sair...
+para comprar pão.
+
+986
+01:01:47,109 --> 01:01:48,360
+Para as geleias.
+
+987
+01:01:48,527 --> 01:01:50,488
+Não foi o que eu quis dizer.
+Eu...
+
+988
+01:01:50,654 --> 01:01:52,198
+Você foi ótimo.
+
+989
+01:01:52,364 --> 01:01:53,407
+Não foi o que eu quis dizer.
+
+990
+01:01:53,574 --> 01:01:55,576
+Deixe-a em paz.
+Não foi nada ótimo.
+
+991
+01:01:55,743 --> 01:01:58,245
+Terá uma oportunidade
+de falar de novo.
+
+992
+01:01:58,746 --> 01:02:04,960
+Espero que possa se juntar a nós, à noite,
+Príncipe Ali, para celebrar a colheita.
+
+993
+01:02:05,336 --> 01:02:09,340
+É claro, vossa serenidade.
+
+994
+01:02:10,049 --> 01:02:11,342
+Nós estaremos lá.
+
+995
+01:02:11,509 --> 01:02:13,010
+Suave.
+
+996
+01:02:13,969 --> 01:02:15,513
+Em 10 mil anos...
+
+997
+01:02:16,597 --> 01:02:18,557
+nunca fiquei tão envergonhado.
+
+998
+01:02:27,191 --> 01:02:29,318
+Não se preocupe.
+Ainda está no jogo.
+
+999
+01:02:29,485 --> 01:02:31,153
+Faça o que você faria
+em uma festa.
+
+1000
+01:02:31,320 --> 01:02:32,530
+Nunca fui a uma festa.
+
+1001
+01:02:33,405 --> 01:02:34,240
+O quê?
+
+1002
+01:02:34,406 --> 01:02:35,449
+Que foi?
+
+1003
+01:02:35,866 --> 01:02:37,159
+Volte para o quarto.
+
+1004
+01:02:37,326 --> 01:02:38,327
+Não vai estragar
+minha noite.
+
+1005
+01:02:38,494 --> 01:02:39,954
+Príncipe Ali.
+
+1006
+01:02:42,873 --> 01:02:45,918
+Podemos conversar?
+Em particular.
+
+1007
+01:02:46,710 --> 01:02:49,255
+O assunto não diz respeito
+ao seu criado.
+
+1008
+01:02:50,130 --> 01:02:53,926
+Bem, eu vou ficar ali
+cuidando das minhas coisas.
+
+1009
+01:02:58,639 --> 01:02:59,849
+Eu sei quem você é.
+
+1010
+01:03:03,227 --> 01:03:04,228
+Sabe?
+
+1011
+01:03:06,230 --> 01:03:07,690
+Sei.
+
+1012
+01:03:07,857 --> 01:03:10,401
+Você é um homem ambicioso,
+como eu.
+
+1013
+01:03:12,111 --> 01:03:14,655
+Acho que não fomos
+adequadamente apresentados.
+
+1014
+01:03:14,822 --> 01:03:18,033
+Jafar, vizir do Sultão.
+
+1015
+01:03:18,701 --> 01:03:22,454
+Eu seria um valioso aliado
+para ajudá-lo a conseguir o que quer.
+
+1016
+01:03:23,789 --> 01:03:26,083
+Vou pensar. Não quero
+deixar a Princesa esperando.
+
+1017
+01:03:26,250 --> 01:03:29,128
+Talvez eu não esteja
+me expressando bem.
+
+1018
+01:03:30,838 --> 01:03:33,591
+A oferta é por tempo limitado, entende?
+
+1019
+01:03:35,968 --> 01:03:37,428
+Príncipe Ali...
+
+1020
+01:03:37,595 --> 01:03:41,015
+Com licença. Príncipe Ali,
+sua presença foi requisitada.
+
+1021
+01:03:42,558 --> 01:03:44,560
+Então, esse é o cara.
+
+1022
+01:03:45,352 --> 01:03:46,979
+É o cara.
+
+1023
+01:03:55,362 --> 01:03:58,157
+Muito bem, lá está ela.
+É a sua chance.
+
+1024
+01:03:58,324 --> 01:04:02,453
+Quer saber? Tem muita gente.
+Acho que não vou conseguir.
+
+1025
+01:04:02,870 --> 01:04:04,038
+-Vai dar tudo certo.
+-Está bem.
+
+1026
+01:04:04,205 --> 01:04:05,873
+Isso vai ser fácil.
+
+1027
+01:04:07,583 --> 01:04:09,502
+E olha só a criada dela.
+
+1028
+01:04:11,712 --> 01:04:14,131
+Ela vai buscar ponche.
+Também estou com sede.
+
+1029
+01:04:14,298 --> 01:04:17,218
+Não! Não pode me deixar.
+Vão descobrir tudo.
+
+1030
+01:04:17,384 --> 01:04:19,929
+Não vão, não.
+Você só tem que ir até lá.
+
+1031
+01:04:20,095 --> 01:04:22,223
+E falar.
+Eu também tenho que falar.
+
+1032
+01:04:22,640 --> 01:04:23,766
+Certo, escute aqui.
+
+1033
+01:04:24,433 --> 01:04:27,728
+Eu moro em uma lâmpada.
+Isso aqui é uma festa.
+
+1034
+01:04:27,895 --> 01:04:30,022
+Não vai estragar isso.
+Está bem?
+
+1035
+01:04:30,189 --> 01:04:32,066
+Eu gosto de festas.
+
+1036
+01:04:32,233 --> 01:04:33,901
+Vá atrás dela!
+
+1037
+01:04:35,194 --> 01:04:36,237
+Está bem.
+
+1038
+01:04:43,661 --> 01:04:46,288
+Princesa Jasmine!
+
+1039
+01:04:46,455 --> 01:04:48,332
+Você? Ainda está aqui?
+
+1040
+01:04:48,499 --> 01:04:49,500
+Estou.
+
+1041
+01:04:54,004 --> 01:04:55,297
+O que está fazendo?
+
+1042
+01:04:56,507 --> 01:04:57,550
+O que está fazendo?
+
+1043
+01:04:57,716 --> 01:05:01,011
+Só estou checando
+se a temperatura da água está boa.
+
+1044
+01:05:01,178 --> 01:05:02,304
+Por que não está lá?
+
+1045
+01:05:02,471 --> 01:05:06,976
+Como posso competir com aquilo?
+Olhe para ele. É tão principesco.
+
+1046
+01:05:07,142 --> 01:05:10,521
+Precisa confiar mais
+no que você tem a oferecer.
+
+1047
+01:05:10,688 --> 01:05:12,147
+O que eu tenho a oferecer?
+
+1048
+01:05:12,314 --> 01:05:15,901
+Técnicas para roubar comida?
+Pular de um prédio para o outro?
+
+1049
+01:05:16,068 --> 01:05:19,446
+-O Príncipe Ali tem joias.
+-Não, pare, pare!
+
+1050
+01:05:21,073 --> 01:05:24,493
+Eu fiz você parecer um príncipe
+por fora.
+
+1051
+01:05:25,202 --> 01:05:27,621
+Mas eu não mudei nada
+por dentro.
+
+1052
+01:05:28,330 --> 01:05:30,457
+O Príncipe Ali trouxe você
+até a porta...
+
+1053
+01:05:30,624 --> 01:05:32,960
+mas o Aladdin tem que abri-la.
+
+1054
+01:05:34,795 --> 01:05:36,589
+Veja, o Sultão gostou de mim!
+
+1055
+01:05:36,755 --> 01:05:39,633
+Certo, talvez aceite você
+como esposa dele.
+
+1056
+01:05:41,051 --> 01:05:45,139
+Olha lá, outro príncipe
+mais interessado no <i>Baba.</i>
+
+1057
+01:05:45,306 --> 01:05:46,891
+Não sei, esse pode ser diferente.
+
+1058
+01:05:48,142 --> 01:05:50,603
+E ele vem com um amigo
+muito atraente.
+
+1059
+01:05:50,769 --> 01:05:52,146
+Por favor, faça dar certo.
+
+1060
+01:05:53,230 --> 01:05:55,316
+E quanto ao Príncipe Ali?
+
+1061
+01:05:55,816 --> 01:05:58,027
+Olhe para ele.
+Está se esforçando muito.
+
+1062
+01:05:59,236 --> 01:06:00,613
+Esse é o problema.
+
+1063
+01:06:00,779 --> 01:06:02,072
+-Está na hora.
+-Não.
+
+1064
+01:06:02,239 --> 01:06:03,240
+Estou esperando
+o momento certo.
+
+1065
+01:06:03,407 --> 01:06:05,409
+Não. Nada disso.
+Chega de esperar.
+
+1066
+01:06:05,576 --> 01:06:07,328
+Não, quem manda sou eu.
+Está bem?
+
+1067
+01:06:07,495 --> 01:06:09,246
+Eu aviso quando for
+o momento certo.
+
+1068
+01:06:13,959 --> 01:06:15,252
+Sério? Sério?
+
+1069
+01:06:17,630 --> 01:06:20,674
+Olha ele aí.
+Diga algo, aja naturalmente.
+
+1070
+01:06:21,800 --> 01:06:22,801
+Oi!
+
+1071
+01:06:24,303 --> 01:06:28,724
+Desculpe pelas geleias
+e pelas joias...
+
+1072
+01:06:28,891 --> 01:06:31,060
+e pela história de comprá-la.
+
+1073
+01:06:31,227 --> 01:06:34,021
+Não era eu. Era eu,
+eu não...
+
+1074
+01:06:34,188 --> 01:06:37,566
+Era eu, eu não tenho um irmão gêmeo,
+mas eu queria...
+
+1075
+01:06:39,443 --> 01:06:40,945
+Dançar? Eu adoraria.
+
+1076
+01:06:41,946 --> 01:06:42,780
+Sim.
+
+1077
+01:06:45,115 --> 01:06:46,075
+Dançar?
+
+1078
+01:06:46,450 --> 01:06:47,785
+É só dançar.
+
+1079
+01:06:49,870 --> 01:06:52,039
+Vá. Vá.
+
+1080
+01:07:05,094 --> 01:07:06,303
+Relaxa.
+
+1081
+01:09:01,877 --> 01:09:04,004
+Bravo! Muito bem!
+
+1082
+01:09:11,846 --> 01:09:14,139
+Tem algo muito estranho nele.
+
+1083
+01:09:16,183 --> 01:09:18,602
+Fique de olho no Príncipe Ali.
+
+1084
+01:09:20,646 --> 01:09:23,065
+Ela foi embora.
+
+1085
+01:09:23,232 --> 01:09:25,484
+Posso ter exagerado um pouco
+na finalização...
+
+1086
+01:09:25,651 --> 01:09:30,030
+mas aquela dança pode ser
+a melhor coisa que vai fazer na sua vida!
+
+1087
+01:09:30,656 --> 01:09:33,951
+Eu fui muito bem.
+Mas nada parece impressioná-la.
+
+1088
+01:09:34,118 --> 01:09:38,038
+É, que loucura...
+Nem gemas, geleias ou joias.
+
+1089
+01:09:38,205 --> 01:09:41,292
+Se eu não puder impressioná-la,
+quem conseguirá?
+
+1090
+01:09:42,418 --> 01:09:43,586
+O que isso quer dizer?
+
+1091
+01:09:43,752 --> 01:09:47,173
+Só estou dizendo
+para ser você mesmo.
+
+1092
+01:09:47,339 --> 01:09:49,550
+Mas ela tem que se casar
+com um príncipe.
+
+1093
+01:09:50,301 --> 01:09:53,220
+Se tivesse ficado mais um pouco com ela,
+eu conseguiria...
+
+1094
+01:09:54,513 --> 01:09:55,598
+Me leve até lá.
+
+1095
+01:09:55,764 --> 01:09:56,891
+É um pedido oficial?
+
+1096
+01:09:57,057 --> 01:09:59,518
+Não, é um favor.
+Para um amigo.
+
+1097
+01:09:59,685 --> 01:10:02,521
+Sabe, na verdade,
+os gênios não têm amigos.
+
+1098
+01:10:02,688 --> 01:10:04,732
+Mas você disse
+que nunca teve um amigo como eu.
+
+1099
+01:10:04,899 --> 01:10:08,402
+Não, eu disse que você
+nunca teve um amigo como eu!
+
+1100
+01:10:09,028 --> 01:10:13,199
+Quando se é gênio, tem sempre alguém
+querendo algo de você. É esquisito.
+
+1101
+01:10:13,365 --> 01:10:15,075
+Tem razão, tem razão.
+
+1102
+01:10:15,242 --> 01:10:19,163
+Além do mais, isso envolveria
+ter que distrair uma certa criada...
+
+1103
+01:10:20,247 --> 01:10:23,250
+Sei o que está fazendo! Me pegou.
+A gente se vê lá?
+
+1104
+01:10:31,425 --> 01:10:32,468
+Boa noite.
+
+1105
+01:10:32,635 --> 01:10:34,303
+Como passou pelos guardas?
+
+1106
+01:10:34,929 --> 01:10:37,181
+Eu dei o meu jeito.
+
+1107
+01:10:37,348 --> 01:10:38,474
+Nos 48 guardas?
+
+1108
+01:10:38,641 --> 01:10:41,227
+Até nos que comem fogo?
+Impressionante.
+
+1109
+01:10:41,393 --> 01:10:44,522
+Sim, bem, é o que as pessoas
+dizem de mim!
+
+1110
+01:10:45,564 --> 01:10:48,609
+Bem, não é isso...
+eu não me expressei bem.
+
+1111
+01:10:48,776 --> 01:10:50,736
+Ninguém diz isso.
+Não sei por que falei isso.
+
+1112
+01:10:52,738 --> 01:10:55,449
+São lindas!
+Ela vai odiar.
+
+1113
+01:10:56,075 --> 01:10:59,119
+Diga ao Príncipe Ali que a rota
+para o coração dela é pela mente.
+
+1114
+01:10:59,537 --> 01:11:02,790
+Na verdade, eu trouxe isto
+para você.
+
+1115
+01:11:05,376 --> 01:11:07,086
+Pode me dar licença um minuto?
+
+1116
+01:11:07,545 --> 01:11:09,380
+Espere, não, só...
+
+1117
+01:11:14,009 --> 01:11:17,429
+"É o que as pessoas dizem de mim."
+Qual é, Gênio!
+
+1118
+01:11:18,347 --> 01:11:21,308
+Minhas favoritas. Eu aceito.
+Pode continuar.
+
+1119
+01:11:21,475 --> 01:11:26,188
+Eu estava observando
+como a noite está agradável.
+
+1120
+01:11:26,355 --> 01:11:29,817
+Na festa, eu observei
+você observando...
+
+1121
+01:11:29,984 --> 01:11:33,195
+como eu sou agradável.
+
+1122
+01:11:34,196 --> 01:11:35,739
+Certo. Como está indo?
+
+1123
+01:11:35,906 --> 01:11:38,951
+Meio atrapalhado,
+mas tem um certo charme.
+
+1124
+01:11:39,285 --> 01:11:40,411
+Um passeio.
+
+1125
+01:11:42,371 --> 01:11:45,499
+Gostaria de dar um passeio noturno?
+
+1126
+01:11:46,125 --> 01:11:49,044
+Só nós dois?
+De propósito?
+
+1127
+01:11:49,211 --> 01:11:51,255
+Sim, como pessoas.
+
+1128
+01:11:52,381 --> 01:11:53,549
+Só mais um segundo.
+
+1129
+01:11:53,716 --> 01:11:55,009
+Está bem.
+
+1130
+01:11:55,551 --> 01:11:57,553
+Por que eu diria "como pessoas"?
+
+1131
+01:11:57,720 --> 01:11:59,430
+Aquele garoto é contagioso!
+
+1132
+01:12:02,099 --> 01:12:02,725
+Vá.
+
+1133
+01:12:05,853 --> 01:12:08,314
+Eu nunca fiz isso.
+Como se faz?
+
+1134
+01:12:09,023 --> 01:12:11,275
+Você gosta de queijo de ovelha?
+
+1135
+01:12:15,821 --> 01:12:17,114
+Entre.
+
+1136
+01:12:17,490 --> 01:12:19,158
+Na verdade, eu já entrei.
+
+1137
+01:12:20,159 --> 01:12:21,285
+Não se mexa.
+
+1138
+01:12:24,580 --> 01:12:26,832
+Eu só voltei
+porque você saiu tão...
+
+1139
+01:12:26,999 --> 01:12:28,959
+Como foi parar aí?
+
+1140
+01:12:31,003 --> 01:12:32,213
+Tapete mágico?
+
+1141
+01:12:34,715 --> 01:12:36,175
+Estou feliz que tenha vindo.
+
+1142
+01:12:36,842 --> 01:12:37,843
+Verdade?
+
+1143
+01:12:38,010 --> 01:12:42,306
+Tentei encontrar Ababwa,
+mas acho que não está nos meus mapas.
+
+1144
+01:12:43,807 --> 01:12:44,850
+Pode me mostrar?
+
+1145
+01:12:45,684 --> 01:12:46,769
+Eu adoraria.
+
+1146
+01:12:48,354 --> 01:12:50,147
+Rajah, não vamos devorá-lo hoje.
+
+1147
+01:12:50,314 --> 01:12:52,107
+Ele precisa das pernas
+para dançar.
+
+1148
+01:12:53,651 --> 01:12:55,569
+Eu exagerei na finalização?
+
+1149
+01:12:55,736 --> 01:12:56,946
+Um pouco.
+
+1150
+01:12:58,864 --> 01:13:00,157
+Ababwa?
+
+1151
+01:13:00,324 --> 01:13:02,243
+Sim. Gênio, eu preciso
+achar Ababwa.
+
+1152
+01:13:02,409 --> 01:13:03,494
+Meu outro irmão...
+
+1153
+01:13:03,661 --> 01:13:07,206
+o baixo, não o que me deu um bode,
+ele é casado...
+
+1154
+01:13:07,373 --> 01:13:09,083
+Ela tem mapas, vários mapas.
+
+1155
+01:13:10,459 --> 01:13:12,753
+Ababwa, é claro.
+
+1156
+01:13:18,092 --> 01:13:18,926
+Ababwa.
+
+1157
+01:13:19,093 --> 01:13:21,387
+Não é fácil encontrar guardanapos...
+
+1158
+01:13:33,107 --> 01:13:34,441
+SEJA VOCÊ MESMO
+
+1159
+01:13:35,651 --> 01:13:37,027
+Perdeu o seu país?
+
+1160
+01:13:37,695 --> 01:13:40,239
+Meu país?
+Não, não.
+
+1161
+01:13:44,952 --> 01:13:46,328
+Está aqui.
+
+1162
+01:13:47,496 --> 01:13:49,707
+Acho que não.
+Eu...
+
+1163
+01:13:52,835 --> 01:13:53,919
+Está aqui.
+
+1164
+01:13:55,171 --> 01:13:56,547
+Como foi que eu não vi?
+
+1165
+01:13:56,714 --> 01:13:58,382
+Quem precisa de mapas, não é?
+
+1166
+01:13:58,549 --> 01:14:02,178
+São velhos e inúteis,
+e não têm nenhum valor na prática.
+
+1167
+01:14:02,344 --> 01:14:04,388
+É nos mapas
+que eu vejo o mundo.
+
+1168
+01:14:04,805 --> 01:14:07,349
+Achei que princesas pudessem
+ir aonde quisessem.
+
+1169
+01:14:08,767 --> 01:14:10,394
+Não esta princesa.
+
+1170
+01:14:13,564 --> 01:14:17,735
+Bem, será que você gostaria...
+
+1171
+01:14:19,904 --> 01:14:21,447
+Desculpe, desculpe.
+
+1172
+01:14:23,324 --> 01:14:24,325
+Rajah!
+
+1173
+01:14:32,166 --> 01:14:35,211
+Obrigado... por isso.
+
+1174
+01:14:36,962 --> 01:14:41,675
+Eu estava dizendo
+que você deveria ver esses lugares.
+
+1175
+01:14:41,842 --> 01:14:46,388
+Existe um mundo inteiro
+fora desses livros e mapas.
+
+1176
+01:14:48,891 --> 01:14:49,975
+Você quer ir?
+
+1177
+01:14:51,060 --> 01:14:52,770
+Como? As portas são vigiadas.
+
+1178
+01:14:53,187 --> 01:14:55,314
+Quem falou sobre portas?
+
+1179
+01:14:55,481 --> 01:14:56,649
+O que está fazendo?
+
+1180
+01:14:57,274 --> 01:14:59,276
+Às vezes, Princesa...
+
+1181
+01:15:00,277 --> 01:15:03,447
+às vezes,
+você tem que se arriscar.
+
+1182
+01:15:08,035 --> 01:15:09,662
+O que aconteceu?
+
+1183
+01:15:15,668 --> 01:15:16,752
+O quê?
+
+1184
+01:15:18,754 --> 01:15:19,755
+Isto é...
+
+1185
+01:15:20,214 --> 01:15:21,423
+Um tapete mágico?
+
+1186
+01:15:23,217 --> 01:15:24,218
+Você confia em mim?
+
+1187
+01:15:25,219 --> 01:15:26,428
+O que você disse?
+
+1188
+01:15:26,887 --> 01:15:27,972
+Você confia em mim?
+
+1189
+01:15:33,894 --> 01:15:35,104
+Sim.
+
+1190
+01:15:49,910 --> 01:15:52,788
+<i>Eu posso lhe mostrar o mundo</i>
+
+1191
+01:15:53,956 --> 01:15:57,334
+<i>Brilhante, cintilante, esplêndido</i>
+
+1192
+01:15:58,210 --> 01:15:59,837
+<i>Diga-me, Princesa</i>
+
+1193
+01:16:00,004 --> 01:16:05,217
+<i>Quando foi a última vez
+Que deixou seu coração decidir?</i>
+
+1194
+01:16:06,427 --> 01:16:09,638
+<i>Eu posso abrir os seus olhos</i>
+
+1195
+01:16:10,347 --> 01:16:13,684
+<i>Levá-la a cada maravilha</i>
+
+1196
+01:16:14,476 --> 01:16:17,354
+<i>Acima, abaixo
+Por todo lado</i>
+
+1197
+01:16:17,521 --> 01:16:21,150
+<i>Em um tapete mágico a voar</i>
+
+1198
+01:16:21,317 --> 01:16:25,112
+<i>Um mundo totalmente novo</i>
+
+1199
+01:16:25,279 --> 01:16:29,033
+<i>Um novo ponto de vista fantástico</i>
+
+1200
+01:16:29,200 --> 01:16:31,911
+<i>Ninguém para nos dizer "não"</i>
+
+1201
+01:16:32,077 --> 01:16:34,205
+<i>Ou aonde ir</i>
+
+1202
+01:16:34,371 --> 01:16:36,707
+<i>Ou dizer que estamos só sonhando</i>
+
+1203
+01:16:36,874 --> 01:16:40,753
+<i>Um mundo totalmente novo</i>
+
+1204
+01:16:40,920 --> 01:16:44,924
+<i>Um lugar deslumbrante
+que eu nunca conheci</i>
+
+1205
+01:16:45,090 --> 01:16:47,718
+<i>Mas quando estou aqui no alto</i>
+
+1206
+01:16:47,885 --> 01:16:49,470
+<i>Fica cristalino</i>
+
+1207
+01:16:49,637 --> 01:16:53,807
+<i>Que agora estou num mundo totalmente novo
+Com você</i>
+
+1208
+01:16:53,974 --> 01:16:57,937
+<i>Agora estou num mundo totalmente novo
+Com você</i>
+
+1209
+01:16:58,103 --> 01:17:01,690
+<i>Tantos visuais incríveis</i>
+
+1210
+01:17:01,857 --> 01:17:05,402
+<i>Sentimentos indescritíveis</i>
+
+1211
+01:17:05,569 --> 01:17:08,781
+<i>Planando, rodando livremente</i>
+
+1212
+01:17:08,948 --> 01:17:11,659
+<i>Por um infinito céu de diamante</i>
+
+1213
+01:17:12,326 --> 01:17:13,911
+<i>Um mundo totalmente novo</i>
+
+1214
+01:17:14,078 --> 01:17:16,121
+<i>Nem pense em não olhar</i>
+
+1215
+01:17:16,288 --> 01:17:18,040
+<i>Há milhares de coisas para ver</i>
+
+1216
+01:17:18,207 --> 01:17:20,125
+<i>Prepare-se, fica ainda melhor</i>
+
+1217
+01:17:20,501 --> 01:17:23,003
+<i>Sou como uma estrela cadente</i>
+
+1218
+01:17:23,170 --> 01:17:25,005
+<i>Se cheguei até aqui</i>
+
+1219
+01:17:25,172 --> 01:17:28,175
+<i>Não posso voltar ao que eu era</i>
+
+1220
+01:17:28,342 --> 01:17:29,718
+<i>Um mundo totalmente novo</i>
+
+1221
+01:17:29,885 --> 01:17:32,096
+<i>A cada curva, uma surpresa</i>
+
+1222
+01:17:32,263 --> 01:17:33,639
+<i>Com novos horizontes para descobrir</i>
+
+1223
+01:17:33,806 --> 01:17:36,058
+<i>Cada momento especial</i>
+
+1224
+01:17:36,225 --> 01:17:38,936
+<i>Vou buscá-los em qualquer lugar</i>
+
+1225
+01:17:39,103 --> 01:17:40,729
+<i>Há tempo para aproveitar</i>
+
+1226
+01:17:40,896 --> 01:17:46,193
+<i>Quero vivenciar esse mundo totalmente novo
+Com você</i>
+
+1227
+01:17:47,820 --> 01:17:49,697
+<i>Um mundo totalmente novo</i>
+
+1228
+01:17:49,864 --> 01:17:51,866
+<i>Um mundo totalmente novo</i>
+
+1229
+01:17:52,032 --> 01:17:53,659
+<i>É lá que estaremos</i>
+
+1230
+01:17:53,826 --> 01:17:55,744
+<i>É lá que estaremos</i>
+
+1231
+01:17:55,911 --> 01:17:57,746
+<i>Uma busca emocionante</i>
+
+1232
+01:17:57,913 --> 01:18:00,666
+<i>Um lugar deslumbrante</i>
+
+1233
+01:18:00,833 --> 01:18:06,672
+<i>Para você e eu</i>
+
+1234
+01:18:21,520 --> 01:18:25,232
+De todos os lugares que me mostrou,
+este é, de longe, o mais belo.
+
+1235
+01:18:26,901 --> 01:18:29,361
+Às vezes, basta ver
+de uma perspectiva diferente.
+
+1236
+01:18:30,529 --> 01:18:33,407
+São elas, as pessoas.
+Elas tornam tudo belo.
+
+1237
+01:18:33,574 --> 01:18:36,202
+E elas merecem um líder
+que saiba disso.
+
+1238
+01:18:36,368 --> 01:18:38,204
+Não sei por que
+achei que poderia ser eu.
+
+1239
+01:18:38,370 --> 01:18:39,914
+Porque deveria ser você.
+
+1240
+01:18:40,873 --> 01:18:41,874
+Você acha mesmo?
+
+1241
+01:18:43,125 --> 01:18:44,376
+O que eu acho importa?
+
+1242
+01:18:53,302 --> 01:18:55,804
+Veja que macaco bonitinho ali.
+É o Abu?
+
+1243
+01:18:55,971 --> 01:18:57,848
+Não, não pode ser o Abu, ele...
+
+1244
+01:19:02,311 --> 01:19:06,148
+Então, quantos nomes você tem,
+Príncipe Aladdin?
+
+1245
+01:19:06,649 --> 01:19:07,733
+Não, não, eu...
+
+1246
+01:19:07,900 --> 01:19:09,109
+Então quem é o Príncipe Ali?
+
+1247
+01:19:09,693 --> 01:19:11,904
+Eu sou o Príncipe Ali.
+
+1248
+01:19:12,071 --> 01:19:13,906
+Mas como conhece
+a cidade tão bem?
+
+1249
+01:19:14,073 --> 01:19:15,699
+Eu já estive em Agrabah...
+
+1250
+01:19:15,866 --> 01:19:18,702
+porque para conhecer um povo
+é preciso ver de perto.
+
+1251
+01:19:18,869 --> 01:19:20,496
+Mas você já sabe disso.
+
+1252
+01:19:20,663 --> 01:19:23,999
+Quando nos conhecemos, estava
+disfarçada na sua própria cidade.
+
+1253
+01:19:24,166 --> 01:19:28,963
+Você nos viu chegar com dançarinos,
+um elefante e um tapete mágico.
+
+1254
+01:19:29,129 --> 01:19:31,006
+Como um ladrão teria
+aquilo tudo?
+
+1255
+01:19:31,173 --> 01:19:33,509
+Mas como não reconheci você?
+
+1256
+01:19:34,802 --> 01:19:36,971
+As pessoas não nos veem de verdade
+quando se é da realeza.
+
+1257
+01:19:40,015 --> 01:19:42,977
+Me desculpe.
+Estou envergonhada.
+
+1258
+01:19:43,143 --> 01:19:47,857
+Conheceu mais de Agrabah em poucos dias
+do que eu durante minha vida toda.
+
+1259
+01:19:51,443 --> 01:19:52,653
+A gente deveria...
+
+1260
+01:19:55,322 --> 01:19:56,991
+voltar.
+
+1261
+01:19:58,492 --> 01:20:00,077
+Já?
+
+1262
+01:20:09,086 --> 01:20:10,880
+Até amanhã, Princesa.
+
+1263
+01:20:26,353 --> 01:20:27,396
+Boa noite.
+
+1264
+01:20:30,441 --> 01:20:31,442
+Boa noite.
+
+1265
+01:20:36,280 --> 01:20:37,281
+Sim!
+
+1266
+01:20:44,580 --> 01:20:46,749
+Fascinante.
+
+1267
+01:20:51,253 --> 01:20:53,297
+Gostei dessa cara.
+Foi bom?
+
+1268
+01:20:53,464 --> 01:20:54,590
+Foi o máximo.
+
+1269
+01:20:54,757 --> 01:20:56,884
+O máximo é pouco.
+
+1270
+01:20:57,051 --> 01:21:00,137
+Ela descobriu que sou o Aladdin.
+Você disse que não aconteceria.
+
+1271
+01:21:00,304 --> 01:21:04,183
+Uau! Quer dizer, na verdade,
+a magia do Gênio é só fachada.
+
+1272
+01:21:04,350 --> 01:21:08,437
+Em algum momento,
+o verdadeiro personagem vem à tona.
+
+1273
+01:21:08,604 --> 01:21:10,397
+Mas é bom, não é?
+Agora ela sabe.
+
+1274
+01:21:11,065 --> 01:21:11,899
+Bem...
+
+1275
+01:21:12,066 --> 01:21:13,275
+Bem, o quê?
+
+1276
+01:21:13,442 --> 01:21:16,028
+Ele disse que se fingiu de ladrão
+para conhecer a cidade...
+
+1277
+01:21:16,195 --> 01:21:17,863
+e que, na verdade,
+é príncipe.
+
+1278
+01:21:18,030 --> 01:21:20,282
+Eu a convenci de que sou príncipe.
+
+1279
+01:21:20,449 --> 01:21:21,492
+E você acreditou?
+
+1280
+01:21:21,659 --> 01:21:22,618
+E ela acreditou?
+
+1281
+01:21:22,785 --> 01:21:23,786
+Acho que sim.
+
+1282
+01:21:23,953 --> 01:21:28,165
+Em algum momento,
+você terá que contar a verdade.
+
+1283
+01:21:28,332 --> 01:21:31,293
+Em algum momento,
+eu contarei.
+
+1284
+01:21:31,961 --> 01:21:35,589
+De todo jeito,
+agora eu sou um pouco príncipe.
+
+1285
+01:21:37,091 --> 01:21:39,677
+Então você vai entrar nessa.
+
+1286
+01:21:40,803 --> 01:21:42,930
+Não acha que quer acreditar nele...
+
+1287
+01:21:43,097 --> 01:21:45,975
+porque deve se casar com um príncipe,
+e não com um ladrão?
+
+1288
+01:21:46,141 --> 01:21:50,354
+Não, eu acredito nele.
+De verdade.
+
+1289
+01:21:57,945 --> 01:22:00,948
+Quando for a hora certa,
+eu contarei a ela.
+
+1290
+01:22:05,953 --> 01:22:06,954
+Bom dia.
+
+1291
+01:22:07,580 --> 01:22:08,914
+Bom dia.
+
+1292
+01:22:12,293 --> 01:22:13,460
+De novo, não.
+
+1293
+01:22:17,631 --> 01:22:19,508
+Por favor, por favor.
+
+1294
+01:22:19,967 --> 01:22:23,304
+Senhores, acho que houve
+alguma confusão.
+
+1295
+01:22:23,470 --> 01:22:25,055
+Acho que não sabem
+quem eu sou.
+
+1296
+01:22:25,222 --> 01:22:26,307
+Ah, não, não.
+
+1297
+01:22:26,473 --> 01:22:28,225
+Eu sei quem você é.
+
+1298
+01:22:28,726 --> 01:22:30,227
+Aladdin.
+
+1299
+01:22:30,394 --> 01:22:31,520
+Aladdin?
+
+1300
+01:22:31,687 --> 01:22:32,813
+Aladdin.
+
+1301
+01:22:32,980 --> 01:22:34,982
+Não sei quem é.
+Sou o Príncipe Ali...
+
+1302
+01:22:35,149 --> 01:22:36,692
+-Ladrãozinho!
+-...de Ababwa.
+
+1303
+01:22:36,859 --> 01:22:39,153
+Príncipe de um reino
+que não existe...
+
+1304
+01:22:39,320 --> 01:22:43,824
+e que possui um tapete mágico
+da Caverna dos Tesouros.
+
+1305
+01:22:43,991 --> 01:22:46,118
+-Isso só seria possível...
+-Onde está o seu macaco?
+
+1306
+01:22:46,285 --> 01:22:47,953
+...se tivesse achado
+um certo tesouro.
+
+1307
+01:22:50,039 --> 01:22:51,248
+O meu tesouro.
+
+1308
+01:22:52,625 --> 01:22:53,918
+Onde está a lâmpada?
+
+1309
+01:23:02,092 --> 01:23:04,345
+Claramente houve um mal-entendido.
+
+1310
+01:23:04,512 --> 01:23:05,596
+Sou o Príncipe Ali.
+
+1311
+01:23:05,763 --> 01:23:10,935
+Se eu jogá-lo desse terraço,
+e você for quem diz ser...
+
+1312
+01:23:11,977 --> 01:23:14,063
+você terá uma morte aquática.
+
+1313
+01:23:15,564 --> 01:23:19,360
+Se sobreviver, só pode ser
+por causa da lâmpada.
+
+1314
+01:23:20,861 --> 01:23:22,613
+E aí, eu terei minha resposta.
+
+1315
+01:23:23,989 --> 01:23:25,491
+Pela última vez...
+
+1316
+01:23:29,787 --> 01:23:32,498
+onde está a lâmpada?
+
+1317
+01:23:32,665 --> 01:23:36,544
+Escute aqui.
+Não sei quem você acha que eu sou.
+
+1318
+01:23:36,710 --> 01:23:37,753
+Adeus, Aladdin.
+
+1319
+01:23:37,920 --> 01:23:39,380
+Não! Não!
+
+1320
+01:24:44,278 --> 01:24:45,738
+Mas o que...
+
+1321
+01:24:47,198 --> 01:24:51,368
+Ei, garoto, tudo bem. Só posso
+tirar você dessa se fizer um pedido!
+
+1322
+01:24:51,535 --> 01:24:54,580
+Tem que fazer um pedido!
+Vai, acorda logo!
+
+1323
+01:24:54,747 --> 01:24:58,042
+Tente dizer as palavras: "Eu quero".
+
+1324
+01:24:58,209 --> 01:25:01,670
+Garoto, vamos, acorde! Acorde.
+
+1325
+01:25:01,837 --> 01:25:03,547
+Precisa pensar.
+Pense, pense.
+
+1326
+01:25:04,632 --> 01:25:05,633
+Pense.
+
+1327
+01:25:06,300 --> 01:25:09,762
+Já sei! Tem uma área cinzenta,
+mas vale a pena tentar.
+
+1328
+01:25:10,804 --> 01:25:13,265
+"Eu, Aladdin, em plena saúde
+física e mental..."
+
+1329
+01:25:13,432 --> 01:25:17,728
+"declaro que meu segundo desejo
+é ser salvo do destino certo."
+
+1330
+01:25:17,895 --> 01:25:20,689
+Tomei a liberdade de pôr a data de ontem,
+espero que não ligue.
+
+1331
+01:25:20,856 --> 01:25:22,691
+Pronto! Vamos lá! Rápido!
+
+1332
+01:25:33,202 --> 01:25:35,788
+Vamos, garoto! Vamos!
+Garoto, por favor.
+
+1333
+01:25:35,955 --> 01:25:38,457
+Vamos! Acorde!
+Acorde, acorde!
+
+1334
+01:25:38,624 --> 01:25:41,252
+Garoto, acorde.
+
+1335
+01:25:41,418 --> 01:25:42,461
+Por favor.
+
+1336
+01:25:47,174 --> 01:25:49,969
+Poderia ter feito isso
+para o outro lado, mas...
+
+1337
+01:25:53,973 --> 01:25:54,974
+Como se sente?
+
+1338
+01:25:56,058 --> 01:25:57,184
+Obrigado, Gênio.
+
+1339
+01:25:57,351 --> 01:26:00,479
+Não foi nada.
+Eu estava aqui por perto.
+
+1340
+01:26:00,980 --> 01:26:02,565
+Mas disse que não fazia favores.
+
+1341
+01:26:03,983 --> 01:26:05,359
+Disse que não tinha amigos.
+
+1342
+01:26:05,818 --> 01:26:10,030
+Certo. Na verdade,
+você usou um pedido.
+
+1343
+01:26:11,657 --> 01:26:15,953
+Não importa,
+você salvou a minha vida.
+
+1344
+01:26:16,120 --> 01:26:17,538
+Sim, é verdade.
+
+1345
+01:26:17,705 --> 01:26:20,708
+Mas, analisando bem,
+foi um esforço coletivo.
+
+1346
+01:26:24,378 --> 01:26:25,504
+Obrigado.
+
+1347
+01:26:27,923 --> 01:26:29,550
+Temos que deter o Jafar.
+
+1348
+01:26:29,967 --> 01:26:31,552
+Não vai ser fácil.
+
+1349
+01:26:31,719 --> 01:26:33,637
+O Sultão confia cegamente nele.
+
+1350
+01:26:33,804 --> 01:26:36,056
+Ele enganou todo mundo.
+
+1351
+01:26:38,267 --> 01:26:40,477
+Talvez não todos.
+
+1352
+01:26:42,354 --> 01:26:44,732
+Ouvi o Príncipe Ali falando
+com o conselheiro...
+
+1353
+01:26:44,899 --> 01:26:47,151
+sobre voltar com um exército
+para conquistar Agrabah.
+
+1354
+01:26:47,318 --> 01:26:48,194
+O quê?
+
+1355
+01:26:48,360 --> 01:26:51,405
+Agora, parece que ele
+foi embora durante a noite.
+
+1356
+01:26:52,573 --> 01:26:54,074
+Jasmine.
+
+1357
+01:26:56,118 --> 01:26:58,996
+Escutou quando ele disse, Jafar,
+e viu quando partiu?
+
+1358
+01:27:00,164 --> 01:27:04,210
+Sim, com meus próprios ouvidos
+e meus próprios olhos.
+
+1359
+01:27:04,376 --> 01:27:07,171
+E qual é o problema agora, Princesa?
+
+1360
+01:27:08,214 --> 01:27:10,382
+O problema é o seguinte, Jafar.
+
+1361
+01:27:11,133 --> 01:27:14,970
+Se o que disse for verdade, então
+por que o Príncipe Ali está aqui?
+
+1362
+01:27:15,137 --> 01:27:16,138
+Majestade.
+
+1363
+01:27:17,139 --> 01:27:19,141
+Príncipe Ali.
+
+1364
+01:27:20,518 --> 01:27:21,685
+Mas que surpresa.
+
+1365
+01:27:21,852 --> 01:27:24,396
+Alteza, seu conselheiro não é
+quem ele diz ser.
+
+1366
+01:27:26,148 --> 01:27:27,525
+Não sou quem digo ser?
+
+1367
+01:27:27,691 --> 01:27:30,486
+<i>Baba,</i> ele tentou matar
+o Príncipe Ali.
+
+1368
+01:27:32,238 --> 01:27:34,907
+Jafar, pode me explicar isso?
+
+1369
+01:27:35,950 --> 01:27:36,951
+Posso.
+
+1370
+01:27:39,328 --> 01:27:41,038
+Meu Sultão...
+
+1371
+01:27:42,039 --> 01:27:45,835
+sabe que tem
+toda a minha lealdade.
+
+1372
+01:27:48,420 --> 01:27:50,047
+Sua lealdade...
+
+1373
+01:27:51,632 --> 01:27:53,425
+Sua lealdade...
+
+1374
+01:27:53,717 --> 01:27:55,010
+Sim.
+
+1375
+01:27:57,555 --> 01:28:00,933
+Príncipe Ali, você se convidou
+para vir à nossa cidade...
+
+1376
+01:28:01,100 --> 01:28:03,394
+e nós o recebemos como convidado.
+
+1377
+01:28:03,561 --> 01:28:06,981
+Mas acredito que suas intenções sejam...
+
+1378
+01:28:10,025 --> 01:28:11,443
+enganosas.
+
+1379
+01:28:12,486 --> 01:28:15,364
+É um sério perigo para Agrabah
+e deve ser tratado como tal.
+
+1380
+01:28:15,531 --> 01:28:19,243
+<i>-Baba,</i> o que está dizendo?
+-Chega, Jasmine!
+
+1381
+01:28:19,410 --> 01:28:23,414
+Jafar me contou
+sobre a ambição do Príncipe Ali.
+
+1382
+01:28:23,581 --> 01:28:25,749
+-O cajado dele.
+-Ele quer o meu trono.
+
+1383
+01:28:25,916 --> 01:28:26,709
+Hakim!
+
+1384
+01:28:37,136 --> 01:28:38,179
+<i>Baba?</i>
+
+1385
+01:28:39,305 --> 01:28:40,306
+O que aconteceu?
+
+1386
+01:28:40,472 --> 01:28:41,599
+Ele o enfeitiçou.
+
+1387
+01:28:41,765 --> 01:28:44,393
+Não deve confiar nele, Majestade.
+
+1388
+01:28:44,560 --> 01:28:45,561
+Ele quer o seu trono.
+
+1389
+01:28:45,728 --> 01:28:49,023
+Jafar! Você era meu conselheiro
+de maior confiança.
+
+1390
+01:28:50,357 --> 01:28:53,027
+Hakim! Coloque-o na masmorra!
+
+1391
+01:29:02,077 --> 01:29:07,166
+Pense na rapidez das areias do poder
+mudando durante as tempestades.
+
+1392
+01:29:07,583 --> 01:29:12,713
+Eu sou leal ao meu Sultão,
+como você deveria ter sido.
+
+1393
+01:29:15,508 --> 01:29:17,885
+A lei é a lei.
+
+1394
+01:29:33,317 --> 01:29:36,654
+Príncipe Ali, eu lhe devo desculpas.
+
+1395
+01:29:36,821 --> 01:29:41,283
+Bem, Majestade,
+eu gostaria de explicar algo.
+
+1396
+01:29:41,450 --> 01:29:46,330
+Sua honra e integridade nunca mais
+serão questionadas aqui em Agrabah.
+
+1397
+01:29:47,289 --> 01:29:52,920
+Nunca tivemos nos aposentos deste palácio
+um jovem mais nobre e sincero.
+
+1398
+01:29:53,087 --> 01:29:54,088
+Bem...
+
+1399
+01:29:55,589 --> 01:29:59,051
+Seria uma honra
+chamá-lo de meu filho...
+
+1400
+01:30:00,010 --> 01:30:04,431
+se for a vontade de alguém.
+
+1401
+01:30:05,641 --> 01:30:07,059
+Você ganhou a garota.
+
+1402
+01:30:07,226 --> 01:30:11,355
+Olha, eu tive minhas dúvidas
+depois do desastre das geleias.
+
+1403
+01:30:11,522 --> 01:30:15,192
+Mas você conseguiu se virar.
+
+1404
+01:30:15,359 --> 01:30:18,571
+Consegui, não é? Finalmente
+peguei o jeito de como ser príncipe.
+
+1405
+01:30:18,737 --> 01:30:20,739
+Não foi bem isso
+que eu quis dizer.
+
+1406
+01:30:20,906 --> 01:30:23,367
+Tinha razão! As pessoas
+veem o que querem.
+
+1407
+01:30:23,534 --> 01:30:26,245
+O Aladdin se foi.
+Sou o Príncipe Ali agora.
+
+1408
+01:30:26,412 --> 01:30:29,331
+Uau! Já resolveu tudo,
+não é, garoto?
+
+1409
+01:30:29,498 --> 01:30:31,750
+Andei pensando
+sobre o meu último desejo...
+
+1410
+01:30:31,917 --> 01:30:35,129
+e eu não vou conseguir
+fazer isso sem você.
+
+1411
+01:30:35,296 --> 01:30:37,882
+Sei que falei que usaria para libertá-lo,
+mas você ouviu o Sultão.
+
+1412
+01:30:38,048 --> 01:30:39,633
+Não posso deixar
+nosso esforço ser em vão.
+
+1413
+01:30:39,800 --> 01:30:43,429
+Então, não pretende contar a ela
+a verdade?
+
+1414
+01:30:43,596 --> 01:30:44,722
+Continuará vivendo a mentira?
+
+1415
+01:30:44,889 --> 01:30:47,266
+Não é mentira.
+As pessoas podem mudar.
+
+1416
+01:30:48,058 --> 01:30:49,852
+Podem mudar mesmo.
+
+1417
+01:30:50,853 --> 01:30:52,980
+E isso é ruim?
+
+1418
+01:30:53,147 --> 01:30:55,441
+Está tudo melhor, agora.
+Ninguém se feriu.
+
+1419
+01:30:55,608 --> 01:30:57,985
+Prefere que eu volte às ruas
+e roube para sobreviver?
+
+1420
+01:30:58,152 --> 01:31:00,905
+Achei que ficaria contente por mim.
+
+1421
+01:31:02,031 --> 01:31:05,701
+Mas sua preocupação era eu usar
+meu último pedido para libertá-lo.
+
+1422
+01:31:05,868 --> 01:31:10,039
+Escute, garoto, eu não estou nem aí
+para esse pedido.
+
+1423
+01:31:10,206 --> 01:31:13,459
+Estou falando de você,
+do que está acontecendo com você.
+
+1424
+01:31:13,626 --> 01:31:18,088
+Prefere mentir para alguém que você ama
+a abrir mão de tudo isso.
+
+1425
+01:31:18,255 --> 01:31:19,507
+Você não entende, Gênio.
+
+1426
+01:31:20,466 --> 01:31:23,761
+Gente como eu
+não ganha nada se não fingir.
+
+1427
+01:31:24,970 --> 01:31:27,890
+Acho que quem não entende é você.
+
+1428
+01:31:28,390 --> 01:31:33,854
+Quanto mais você ganha ao fingir,
+menos você terá de verdade.
+
+1429
+01:31:34,647 --> 01:31:39,193
+Em 10 mil anos, eu nunca,
+nem uma única vez, jamais...
+
+1430
+01:31:39,360 --> 01:31:41,946
+chamei um amo de amigo.
+
+1431
+01:31:42,738 --> 01:31:45,908
+Eu quebrei regras por sua causa,
+eu salvei a sua vida.
+
+1432
+01:31:46,075 --> 01:31:47,660
+E para quê?
+
+1433
+01:31:47,827 --> 01:31:52,248
+Você está partindo o meu coração, garoto.
+Está partindo o meu coração.
+
+1434
+01:31:52,414 --> 01:31:53,916
+Gênio, não! Ei, qual é!
+
+1435
+01:32:09,932 --> 01:32:12,685
+Lâmpada. Lâmpada.
+
+1436
+01:32:12,852 --> 01:32:14,645
+Amo. Lâmpada.
+
+1437
+01:32:16,188 --> 01:32:19,650
+Quem ele pensa que é?
+Ele deve me servir.
+
+1438
+01:32:19,817 --> 01:32:22,987
+Eu sou o mesmo que sempre fui
+por dentro. Certo, Abu?
+
+1439
+01:32:27,074 --> 01:32:27,908
+Ei!
+
+1440
+01:32:50,181 --> 01:32:53,267
+Está brincando? Por que esfregou
+a coisa debaixo do...
+
+1441
+01:32:54,393 --> 01:32:55,728
+arco?
+
+1442
+01:33:04,028 --> 01:33:05,279
+<i>Pé-rapado</i>
+
+1443
+01:33:06,155 --> 01:33:07,531
+<i>Ladrãozinho</i>
+
+1444
+01:33:08,574 --> 01:33:11,994
+<i>Será que pensariam assim</i>
+
+1445
+01:33:13,412 --> 01:33:19,043
+<i>Se chegassem
+mais de perto de mim?</i>
+
+1446
+01:33:20,669 --> 01:33:24,089
+<i>Não posso me passar
+por príncipe aqui</i>
+
+1447
+01:33:24,256 --> 01:33:26,050
+<i>Não, senhor</i>
+
+1448
+01:33:28,552 --> 01:33:32,223
+<i>Preciso contar a verdade
+Não posso fingir</i>
+
+1449
+01:33:32,389 --> 01:33:37,520
+<i>Ainda que signifique
+que este sonho chegará ao fim</i>
+
+1450
+01:33:38,938 --> 01:33:45,027
+<i>Mesmo que ela se afaste</i>
+
+1451
+01:33:47,238 --> 01:33:48,989
+<i>De mim</i>
+
+1452
+01:33:58,874 --> 01:33:59,875
+Jafar.
+
+1453
+01:34:00,543 --> 01:34:04,255
+Deveria ter deixado Agrabah
+quando teve a chance.
+
+1454
+01:34:04,421 --> 01:34:07,049
+Por que eu partiria
+se a cidade me pertence agora?
+
+1455
+01:34:07,216 --> 01:34:09,552
+-Acabou, Jafar.
+-Bom para você.
+
+1456
+01:34:09,718 --> 01:34:13,347
+Já suportei sua incompetência
+por tempo suficiente.
+
+1457
+01:34:13,514 --> 01:34:15,683
+-Hakim.
+-Velho tolo.
+
+1458
+01:34:26,610 --> 01:34:27,444
+Gênio!
+
+1459
+01:34:28,404 --> 01:34:32,491
+Meu primeiro desejo
+é ser o Sultão de Agrabah!
+
+1460
+01:34:32,658 --> 01:34:33,534
+O quê?
+
+1461
+01:34:34,618 --> 01:34:35,953
+Como queira, amo.
+
+1462
+01:34:36,120 --> 01:34:36,912
+Não!
+
+1463
+01:35:12,448 --> 01:35:13,282
+Hakim.
+
+1464
+01:35:14,074 --> 01:35:15,201
+Hakim!
+
+1465
+01:35:15,993 --> 01:35:19,914
+Deve obediência ao Sultão,
+então deve obedecer a mim agora.
+
+1466
+01:35:25,503 --> 01:35:27,671
+Você conhece a lei, Hakim!
+
+1467
+01:35:32,760 --> 01:35:33,761
+Não.
+
+1468
+01:35:37,848 --> 01:35:39,099
+Meu Sultão!
+
+1469
+01:35:39,433 --> 01:35:40,392
+Meu Sultão!
+
+1470
+01:35:43,437 --> 01:35:44,438
+Hakim.
+
+1471
+01:35:44,897 --> 01:35:46,941
+Reúna um exército
+para invadir Shirabad.
+
+1472
+01:35:47,107 --> 01:35:48,192
+-Shirabad!
+-Não pode...
+
+1473
+01:35:48,359 --> 01:35:49,902
+Cansamos de ouvi-la, Princesa.
+
+1474
+01:35:50,069 --> 01:35:52,696
+É hora de fazer o que deveria ter feito
+o tempo todo.
+
+1475
+01:35:52,863 --> 01:35:54,406
+Ficar em silêncio.
+
+1476
+01:35:55,574 --> 01:35:57,910
+Guardas, levem-na daqui!
+
+1477
+01:36:01,580 --> 01:36:04,625
+Controle esse felino
+para o seu próprio bem.
+
+1478
+01:36:05,751 --> 01:36:06,836
+Rajah.
+
+1479
+01:36:08,087 --> 01:36:09,255
+Rajah!
+
+1480
+01:36:10,589 --> 01:36:13,342
+Rajah! Está tudo bem.
+
+1481
+01:36:20,140 --> 01:36:21,684
+-Não toque nela!
+<i>-Baba.</i>
+
+1482
+01:36:28,148 --> 01:36:29,149
+Jasmine.
+
+1483
+01:36:34,905 --> 01:36:37,741
+<i>E entender que o melhor para você
+é ser vista, não ouvida.</i>
+
+1484
+01:36:37,908 --> 01:36:39,618
+<i>Cansamos de ouvi-la, Princesa.</i>
+
+1485
+01:36:39,785 --> 01:36:40,911
+<i>Fique em silêncio.</i>
+
+1486
+01:36:42,288 --> 01:36:45,749
+<i>Escrito em pedra
+Cada lei, cada palavra</i>
+
+1487
+01:36:45,916 --> 01:36:49,044
+<i>Seculares e inflexíveis</i>
+
+1488
+01:36:49,879 --> 01:36:53,382
+<i>"Fique no seu lugar
+Melhor ser vista, não ouvida"</i>
+
+1489
+01:36:53,549 --> 01:36:57,052
+<i>Agora essa história vai acabar</i>
+
+1490
+01:36:59,430 --> 01:37:01,265
+<i>Porque eu</i>
+
+1491
+01:37:01,432 --> 01:37:06,103
+<i>Não posso começar a desmoronar</i>
+
+1492
+01:37:06,270 --> 01:37:08,522
+<i>Então pode vir</i>
+
+1493
+01:37:08,689 --> 01:37:10,941
+<i>Tente me desencorajar e me derrubar</i>
+
+1494
+01:37:11,108 --> 01:37:11,984
+Jasmine!
+
+1495
+01:37:15,362 --> 01:37:18,407
+<i>Eu não serei silenciada</i>
+
+1496
+01:37:18,574 --> 01:37:22,077
+<i>Não pode me manter calada</i>
+
+1497
+01:37:22,244 --> 01:37:25,456
+<i>Não me abalarei quando você tentar</i>
+
+1498
+01:37:25,623 --> 01:37:29,710
+<i>Tudo o que sei é que não vou
+ficar quieta</i>
+
+1499
+01:37:29,877 --> 01:37:31,462
+<i>Quieta</i>
+
+1500
+01:37:31,629 --> 01:37:33,797
+<i>Que venha a tempestade</i>
+
+1501
+01:37:33,964 --> 01:37:37,551
+<i>Não conseguirá me fragilizar</i>
+
+1502
+01:37:37,718 --> 01:37:40,930
+<i>Não, eu não viverei sem me expressar</i>
+
+1503
+01:37:41,096 --> 01:37:45,976
+<i>Porque eu sei que não ficarei quieta</i>
+
+1504
+01:37:46,352 --> 01:37:49,939
+<i>Tente me trancar nessa gaiola</i>
+
+1505
+01:37:50,105 --> 01:37:54,276
+<i>Não vou me entregar e morrer</i>
+
+1506
+01:37:54,443 --> 01:37:57,238
+<i>Pegarei essas asas quebradas</i>
+
+1507
+01:37:57,404 --> 01:38:02,076
+<i>E lá no céu você vai me ver</i>
+
+1508
+01:38:02,243 --> 01:38:04,328
+<i>Escute bem, vai ecoar</i>
+
+1509
+01:38:04,495 --> 01:38:09,834
+<i>Eu não serei silenciada</i>
+
+1510
+01:38:10,000 --> 01:38:15,089
+<i>Embora queira me ver abalada
+Quando tentar</i>
+
+1511
+01:38:15,256 --> 01:38:19,385
+<i>Tudo o que sei é que não ficarei quieta</i>
+
+1512
+01:38:19,552 --> 01:38:21,136
+<i>Quieta</i>
+
+1513
+01:38:21,303 --> 01:38:23,097
+<i>Porque eu vou respirar</i>
+
+1514
+01:38:23,264 --> 01:38:26,934
+<i>Quando tentarem me sufocar</i>
+
+1515
+01:38:27,101 --> 01:38:30,187
+<i>Não me subestime</i>
+
+1516
+01:38:30,354 --> 01:38:34,108
+<i>Porque sei que não ficarei quieta</i>
+
+1517
+01:38:34,275 --> 01:38:38,362
+<i>Tudo o que sei é que não ficarei quieta</i>
+
+1518
+01:38:38,529 --> 01:38:40,823
+<i>Quieta</i>
+
+1519
+01:38:45,995 --> 01:38:48,330
+<i>Hakim! Hakim!</i>
+
+1520
+01:38:48,914 --> 01:38:49,748
+Hakim!
+
+1521
+01:38:51,834 --> 01:38:53,669
+Levem-na daqui!
+
+1522
+01:38:55,588 --> 01:38:57,173
+Diga a eles, Hakim.
+
+1523
+01:39:06,140 --> 01:39:10,811
+Você era só um menino
+quando seu pai veio trabalhar aqui.
+
+1524
+01:39:12,229 --> 01:39:16,817
+Mas você se tornou
+um dos nossos soldados mais leais.
+
+1525
+01:39:16,984 --> 01:39:20,446
+Sei que você é
+um homem leal e justo.
+
+1526
+01:39:22,531 --> 01:39:23,866
+Mas agora precisa escolher.
+
+1527
+01:39:25,409 --> 01:39:27,495
+Nem sempre há honra no dever.
+
+1528
+01:39:27,661 --> 01:39:31,707
+Nosso maior desafio não é
+nos levantarmos contra nossos inimigos...
+
+1529
+01:39:32,541 --> 01:39:36,212
+mas contestar aqueles
+cuja aprovação mais buscamos.
+
+1530
+01:39:37,129 --> 01:39:41,675
+Jafar não é digno da sua admiração
+nem do seu sacrifício.
+
+1531
+01:39:41,842 --> 01:39:45,721
+Não busco nada além da glória
+para o reino de Agrabah.
+
+1532
+01:39:45,888 --> 01:39:49,725
+Não. Você busca glória
+para si mesmo.
+
+1533
+01:39:49,892 --> 01:39:52,937
+E quer conquistá-la
+às custas do meu povo!
+
+1534
+01:39:53,854 --> 01:39:58,317
+Hakim, esses homens vão seguir
+o seu comando...
+
+1535
+01:39:58,484 --> 01:40:00,319
+mas a decisão é sua.
+
+1536
+01:40:00,486 --> 01:40:04,031
+Vai ficar em silêncio vendo Jafar destruir
+nosso adorado reino...
+
+1537
+01:40:04,198 --> 01:40:06,325
+ou vai fazer o que é certo...
+
+1538
+01:40:11,288 --> 01:40:14,291
+e ficar com o povo de Agrabah?
+
+1539
+01:40:26,011 --> 01:40:27,054
+Minha Princesa.
+
+1540
+01:40:29,640 --> 01:40:33,978
+Perdoe-me, meu Sultão.
+
+1541
+01:40:39,066 --> 01:40:40,442
+Hakim.
+
+1542
+01:40:42,236 --> 01:40:44,572
+Guardas, prendam o vizir!
+
+1543
+01:40:46,574 --> 01:40:48,868
+Lâmpada! Esfregue a lâmpada.
+
+1544
+01:40:49,034 --> 01:40:51,120
+Então, é assim que vai ser.
+
+1545
+01:40:51,787 --> 01:40:55,040
+Nem mesmo o título de sultão
+é capaz de acordar o rebanho.
+
+1546
+01:40:55,749 --> 01:40:57,418
+Eu deveria saber.
+
+1547
+01:40:57,585 --> 01:41:02,298
+Se não vai se curvar diante de um sultão,
+vai se encolher diante de um feiticeiro.
+
+1548
+01:41:02,464 --> 01:41:06,719
+Gênio! Quero me tornar o feiticeiro
+mais poderoso do mundo!
+
+1549
+01:41:07,803 --> 01:41:09,722
+Como queira, amo.
+
+1550
+01:41:34,038 --> 01:41:36,040
+Isso pode ser divertido.
+
+1551
+01:41:37,708 --> 01:41:41,253
+Hakim, eu tinha grandes planos
+para você.
+
+1552
+01:41:42,254 --> 01:41:43,797
+Mas agora...
+
+1553
+01:41:45,716 --> 01:41:47,510
+você não é mais útil
+para mim.
+
+1554
+01:41:48,219 --> 01:41:50,346
+Talvez seus homens queiram
+acompanhá-lo à masmorra.
+
+1555
+01:41:53,390 --> 01:41:54,517
+Você também.
+
+1556
+01:41:57,311 --> 01:41:58,771
+Príncipe Ali!
+
+1557
+01:42:01,482 --> 01:42:02,983
+Ora, se não é o Príncipe Ali.
+
+1558
+01:42:03,150 --> 01:42:03,859
+Ali!
+
+1559
+01:42:04,026 --> 01:42:05,653
+Ou eu deveria dizer...
+
+1560
+01:42:10,616 --> 01:42:11,951
+Aladdin.
+
+1561
+01:42:14,787 --> 01:42:15,788
+Aladdin.
+
+1562
+01:42:15,955 --> 01:42:18,290
+Ele fingiu todo esse tempo.
+
+1563
+01:42:18,457 --> 01:42:21,919
+Um impostor.
+Não existe nenhum Príncipe Ali.
+
+1564
+01:42:22,086 --> 01:42:25,548
+Nunca existiu.
+Ele não passa de um ladrão mentiroso.
+
+1565
+01:42:25,714 --> 01:42:26,757
+Me desculpe.
+
+1566
+01:42:27,341 --> 01:42:31,762
+Você é insignificante. Uma chateação
+que não preciso mais tolerar...
+
+1567
+01:42:31,929 --> 01:42:37,309
+depois que garantir sua morte agonizante
+ao enviá-lo aos confins da Terra.
+
+1568
+01:42:37,810 --> 01:42:38,811
+Não!
+
+1569
+01:42:57,663 --> 01:42:58,831
+Não.
+
+1570
+01:42:58,998 --> 01:43:00,124
+Não!
+
+1571
+01:43:03,460 --> 01:43:04,628
+Abu.
+
+1572
+01:43:05,796 --> 01:43:07,131
+Abu!
+
+1573
+01:43:09,758 --> 01:43:11,886
+Eu poderia simplesmente
+matar todos vocês.
+
+1574
+01:43:13,137 --> 01:43:17,975
+Mas isso não faria jus
+aos anos de humilhação e negligência.
+
+1575
+01:43:18,934 --> 01:43:22,771
+"Lembre-se do seu lugar, Jafar."
+"Esqueça sua dignidade, Jafar."
+
+1576
+01:43:23,272 --> 01:43:24,273
+Jafar.
+
+1577
+01:43:24,440 --> 01:43:28,986
+Não, o que você precisa, <i>Baba,
+</i>é de sofrimento.
+
+1578
+01:43:29,945 --> 01:43:31,572
+-Como eu aguentei.
+<i>-Baba.</i>
+
+1579
+01:43:31,739 --> 01:43:33,741
+Observar-me governar
+seu reino bastaria?
+
+1580
+01:43:34,200 --> 01:43:35,034
+Pare!
+
+1581
+01:43:35,201 --> 01:43:37,786
+Ou observar meus exércitos
+destruírem seu aliado desdentado?
+
+1582
+01:43:37,953 --> 01:43:39,497
+Por favor, faça parar.
+
+1583
+01:43:39,663 --> 01:43:42,249
+Não, a punição mais adequada
+seria fazê-lo me observar...
+
+1584
+01:43:42,416 --> 01:43:44,668
+tomar o que você mais ama.
+
+1585
+01:43:44,835 --> 01:43:46,086
+Não. Não, por favor.
+<i>Baba.</i>
+
+1586
+01:43:46,253 --> 01:43:47,588
+E me casar com sua filha.
+
+1587
+01:43:48,339 --> 01:43:49,298
+Não!
+
+1588
+01:43:50,424 --> 01:43:51,550
+Não.
+
+1589
+01:43:52,301 --> 01:43:55,513
+Ela nunca se casará com você.
+
+1590
+01:44:00,559 --> 01:44:01,685
+<i>Baba.</i>
+
+1591
+01:44:01,852 --> 01:44:02,811
+Farei o que quiser!
+
+1592
+01:44:04,230 --> 01:44:05,272
+Pare com isso.
+
+1593
+01:44:08,400 --> 01:44:10,319
+Pare com isso.
+
+1594
+01:44:13,989 --> 01:44:17,076
+<i>Baba! Baba,</i> está tudo bem?
+
+1595
+01:44:17,493 --> 01:44:18,619
+Jasmine.
+
+1596
+01:44:21,330 --> 01:44:22,540
+Abu!
+
+1597
+01:44:24,792 --> 01:44:26,627
+Abu!
+
+1598
+01:44:27,837 --> 01:44:29,171
+Abu!
+
+1599
+01:44:41,100 --> 01:44:42,351
+Abu.
+
+1600
+01:44:43,519 --> 01:44:45,855
+Você está bem?
+
+1601
+01:44:46,021 --> 01:44:47,815
+Vamos dar o fora daqui.
+
+1602
+01:44:48,732 --> 01:44:49,567
+Não.
+
+1603
+01:45:19,638 --> 01:45:23,350
+Vossa Alteza, Sultão,
+honesta e sinceramente...
+
+1604
+01:45:24,143 --> 01:45:25,853
+aceita a Princesa Jasmine...
+
+1605
+01:45:26,020 --> 01:45:27,271
+Sim.
+
+1606
+01:45:27,438 --> 01:45:29,565
+Sim, eu aceito.
+
+1607
+01:45:29,732 --> 01:45:31,233
+Princesa.
+
+1608
+01:45:31,692 --> 01:45:36,113
+Princesa Jasmine,
+aceita o Sultão como seu esposo?
+
+1609
+01:45:41,827 --> 01:45:42,828
+Vamos, mulher.
+
+1610
+01:45:43,996 --> 01:45:45,080
+Aceita.
+
+1611
+01:45:45,247 --> 01:45:46,081
+Eu...
+
+1612
+01:45:51,420 --> 01:45:52,421
+Sim?
+
+1613
+01:45:53,130 --> 01:45:53,964
+Eu...
+
+1614
+01:45:56,175 --> 01:45:57,176
+não aceito!
+
+1615
+01:45:58,302 --> 01:45:59,470
+A lâmpada! A lâmpada!
+
+1616
+01:45:59,637 --> 01:46:00,596
+Detenham-na!
+
+1617
+01:46:00,763 --> 01:46:03,140
+Não, Jasmine! Não!
+
+1618
+01:46:03,641 --> 01:46:05,267
+Não! Não!
+
+1619
+01:46:11,649 --> 01:46:13,067
+A lâmpada! Iago!
+
+1620
+01:46:13,484 --> 01:46:15,277
+-Você está bem?
+-Estou.
+
+1621
+01:46:26,747 --> 01:46:28,123
+Segure-se!
+
+1622
+01:46:33,963 --> 01:46:34,964
+A lâmpada!
+
+1623
+01:46:35,756 --> 01:46:36,799
+Abu!
+
+1624
+01:46:57,403 --> 01:46:58,737
+A lâmpada!
+
+1625
+01:47:05,703 --> 01:47:07,037
+Tapete, ponha-me lá em cima!
+
+1626
+01:47:10,166 --> 01:47:10,875
+Abu!
+
+1627
+01:47:16,046 --> 01:47:17,214
+Pule!
+
+1628
+01:47:31,061 --> 01:47:32,313
+Não!
+
+1629
+01:47:45,159 --> 01:47:47,995
+Você não é nada sem o seu cajado!
+
+1630
+01:47:48,162 --> 01:47:48,996
+Nada!
+
+1631
+01:48:17,233 --> 01:48:18,234
+A lâmpada!
+
+1632
+01:48:25,449 --> 01:48:26,492
+Tapete!
+
+1633
+01:48:38,963 --> 01:48:40,047
+Jasmine.
+
+1634
+01:48:44,552 --> 01:48:46,262
+Punição. Punição.
+
+1635
+01:48:49,223 --> 01:48:51,016
+O Gênio deve testemunhar.
+
+1636
+01:48:57,273 --> 01:48:58,524
+Como disse o velho...
+
+1637
+01:48:58,691 --> 01:49:01,402
+deveria ter deixado Agrabah
+quando teve a chance.
+
+1638
+01:49:11,537 --> 01:49:14,498
+Eu já lhe disse para pensar grande.
+
+1639
+01:49:14,665 --> 01:49:16,709
+Poderia ter sido
+o mais poderoso dos homens.
+
+1640
+01:49:17,126 --> 01:49:19,128
+Mas agora a lâmpada
+é minha.
+
+1641
+01:49:19,295 --> 01:49:21,046
+O poder é meu.
+
+1642
+01:49:25,342 --> 01:49:28,512
+Não encontrará o que procura
+nessa lâmpada, Jafar.
+
+1643
+01:49:28,679 --> 01:49:30,764
+Eu tentei e fracassei,
+com você acontecerá o mesmo.
+
+1644
+01:49:30,931 --> 01:49:33,434
+É o que você acha,
+mas eu sou o Sultão!
+
+1645
+01:49:34,393 --> 01:49:37,563
+Sou o maior feiticeiro
+que o mundo já viu.
+
+1646
+01:49:37,771 --> 01:49:42,109
+Vou criar um império
+que a História não poderá ignorar.
+
+1647
+01:49:42,276 --> 01:49:45,613
+Eu posso destruir cidades.
+
+1648
+01:49:46,614 --> 01:49:49,617
+Eu posso destruir reinos.
+
+1649
+01:49:54,663 --> 01:49:57,291
+E eu posso destruir você.
+
+1650
+01:49:57,458 --> 01:49:58,292
+Verdade.
+
+1651
+01:49:59,043 --> 01:50:00,503
+Mas quem fez de você
+um Sultão?
+
+1652
+01:50:01,712 --> 01:50:02,922
+Quem fez de você um feiticeiro?
+
+1653
+01:50:03,839 --> 01:50:07,718
+Sempre haverá alguma coisa,
+algum homem, algum ser...
+
+1654
+01:50:07,885 --> 01:50:09,553
+-mais poderoso que você.
+-O que está fazendo?
+
+1655
+01:50:09,720 --> 01:50:12,556
+O Gênio lhe deu o poder
+e pode tomá-lo de volta.
+
+1656
+01:50:12,723 --> 01:50:14,475
+-Ele serve a mim!
+-Por enquanto.
+
+1657
+01:50:14,642 --> 01:50:16,644
+Mas você nunca terá mais poder
+do que o Gênio.
+
+1658
+01:50:22,024 --> 01:50:24,193
+Você mesmo disse isso.
+
+1659
+01:50:24,360 --> 01:50:27,112
+Ou você é o homem mais poderoso
+de todos...
+
+1660
+01:50:27,279 --> 01:50:28,906
+ou não é nada.
+
+1661
+01:50:30,282 --> 01:50:33,327
+Você sempre será o segundo.
+
+1662
+01:50:33,661 --> 01:50:35,704
+Segundo! Segundo!
+
+1663
+01:50:38,999 --> 01:50:39,834
+Segundo?
+
+1664
+01:50:40,751 --> 01:50:42,545
+Só o segundo?
+
+1665
+01:50:42,711 --> 01:50:45,172
+Ele serve a mim!
+
+1666
+01:50:47,383 --> 01:50:50,845
+Providenciarei para que ninguém,
+nunca mais, diga essas palavras.
+
+1667
+01:50:51,345 --> 01:50:52,179
+Gênio!
+
+1668
+01:50:53,681 --> 01:50:57,810
+Meu último pedido é me tornar
+o ser mais poderoso do universo.
+
+1669
+01:50:57,977 --> 01:50:59,520
+Mais poderoso do que você!
+
+1670
+01:51:00,688 --> 01:51:03,899
+Há uma grande área cinzenta
+nesse pedido...
+
+1671
+01:51:04,817 --> 01:51:09,738
+mas o ser mais poderoso do universo
+está chegando!
+
+1672
+01:51:34,889 --> 01:51:38,767
+O mais poderoso do universo,
+finalmente...
+
+1673
+01:51:38,934 --> 01:51:40,978
+nunca mais em segundo lugar.
+
+1674
+01:51:41,145 --> 01:51:43,981
+E eu achava que tinha poder antes!
+
+1675
+01:51:44,690 --> 01:51:49,403
+Primeiro, acabarei com os tolos
+em Shirabad.
+
+1676
+01:52:04,543 --> 01:52:05,794
+O que você fez comigo?
+
+1677
+01:52:05,961 --> 01:52:07,588
+Não fiz nada com você, Jafar.
+
+1678
+01:52:07,755 --> 01:52:09,423
+O que você fez comigo?
+
+1679
+01:52:10,090 --> 01:52:11,550
+O pedido foi seu, não meu.
+
+1680
+01:52:12,718 --> 01:52:14,929
+Um gênio pode ter
+poderes cósmicos fenomenais...
+
+1681
+01:52:15,095 --> 01:52:17,723
+Mas vive em um espaço minúsculo.
+
+1682
+01:52:17,890 --> 01:52:22,478
+Sabe, um gênio, sem amo,
+volta para a lâmpada.
+
+1683
+01:52:23,604 --> 01:52:25,856
+Não! A lâmpada, não!
+
+1684
+01:52:27,650 --> 01:52:29,443
+Não me esquecerei de você, garoto!
+
+1685
+01:52:29,610 --> 01:52:33,113
+Guarde minhas palavras,
+não me esquecerei do que fez comigo!
+
+1686
+01:52:33,280 --> 01:52:34,281
+Adeus, Jafar!
+
+1687
+01:52:34,573 --> 01:52:36,867
+Papagaio! Você vem comigo.
+
+1688
+01:52:38,911 --> 01:52:39,745
+Não!
+
+1689
+01:52:55,344 --> 01:52:56,554
+<i>Baba.</i>
+
+1690
+01:52:56,720 --> 01:52:57,888
+<i>-Baba.
+</i>-Venha.
+
+1691
+01:52:58,180 --> 01:53:01,392
+Milhares de anos na Caverna dos Tesouros
+vão acalmá-lo.
+
+1692
+01:53:12,736 --> 01:53:15,156
+Espere. Espere.
+
+1693
+01:53:15,322 --> 01:53:17,283
+Como poderei lhe agradecer?
+
+1694
+01:53:18,033 --> 01:53:21,203
+Não. Não precisa me agradecer.
+
+1695
+01:53:21,579 --> 01:53:24,123
+Mas espero que aceitem minhas desculpas.
+
+1696
+01:53:24,290 --> 01:53:27,168
+Peço perdão aos dois.
+
+1697
+01:53:27,877 --> 01:53:29,420
+Principalmente a você.
+
+1698
+01:53:29,587 --> 01:53:32,756
+Você merece muito mais.
+
+1699
+01:53:34,008 --> 01:53:35,885
+Todos nós cometemos erros.
+
+1700
+01:53:39,263 --> 01:53:40,097
+Aladdin?
+
+1701
+01:53:43,809 --> 01:53:45,936
+Espero que encontre
+o que procura.
+
+1702
+01:53:52,109 --> 01:53:54,195
+Isso aí não está nada bom, Abu.
+
+1703
+01:53:54,361 --> 01:53:55,696
+Eu dou um jeito nisso.
+
+1704
+01:54:03,412 --> 01:54:04,747
+Lindo.
+
+1705
+01:54:06,081 --> 01:54:08,501
+Não, nada de caras tristes,
+está bem?
+
+1706
+01:54:08,667 --> 01:54:10,628
+Tenho uma ideia.
+Está bem?
+
+1707
+01:54:10,794 --> 01:54:12,338
+É o seu último pedido.
+
+1708
+01:54:12,505 --> 01:54:16,759
+A realeza era a ideia certa, ok?
+A gente só precisa lapidar um pouco.
+
+1709
+01:54:16,926 --> 01:54:18,469
+Olha, eu pensei no seguinte.
+
+1710
+01:54:19,762 --> 01:54:26,310
+Aladdin, príncipe guerreiro, coração nobre
+em uma terra onde ladrões vivem à solta!
+
+1711
+01:54:27,061 --> 01:54:29,855
+Jasmine!
+
+1712
+01:54:30,648 --> 01:54:31,524
+Gostou?
+
+1713
+01:54:32,691 --> 01:54:34,985
+Não? Certo, tudo bem.
+Já entendi.
+
+1714
+01:54:35,152 --> 01:54:36,779
+Certo. Mas é disso que você precisa.
+
+1715
+01:54:36,946 --> 01:54:39,990
+As leis vigentes de Agrabah
+por decreto real.
+
+1716
+01:54:40,157 --> 01:54:42,243
+Certo? E... aqui está.
+
+1717
+01:54:42,409 --> 01:54:44,286
+"Precisa se casar com um príncipe."
+
+1718
+01:54:44,453 --> 01:54:46,413
+Certo. Mas basta fazer o pedido...
+
+1719
+01:54:46,580 --> 01:54:49,708
+para esta lei desaparecer.
+
+1720
+01:54:49,875 --> 01:54:53,170
+E você e a Princesa
+ficarão juntos para sempre.
+
+1721
+01:54:53,337 --> 01:54:55,422
+Consegue fazer a lei desaparecer?
+
+1722
+01:54:56,215 --> 01:54:58,259
+Por favor. Como se nunca
+tivesse existido.
+
+1723
+01:54:59,677 --> 01:55:01,595
+Muito bem.
+Último pedido, vamos lá.
+
+1724
+01:55:01,762 --> 01:55:04,598
+Está bem.
+Último pedido.
+
+1725
+01:55:06,141 --> 01:55:07,142
+Gênio?
+
+1726
+01:55:07,309 --> 01:55:08,727
+Estou pronto, espere.
+Vamos lá.
+
+1727
+01:55:11,230 --> 01:55:12,439
+Eu quero...
+
+1728
+01:55:12,606 --> 01:55:14,483
+Terceiro e último pedido.
+
+1729
+01:55:14,650 --> 01:55:15,901
+Eu quero...
+
+1730
+01:55:17,278 --> 01:55:18,237
+libertá-lo.
+
+1731
+01:55:19,655 --> 01:55:20,656
+O quê?
+
+1732
+01:55:25,995 --> 01:55:26,996
+O quê?
+
+1733
+01:55:32,209 --> 01:55:33,210
+Espere aí.
+
+1734
+01:55:41,594 --> 01:55:42,803
+Espere, eu vou...
+
+1735
+01:55:50,311 --> 01:55:51,604
+Espere, espere.
+
+1736
+01:55:52,855 --> 01:55:54,064
+Me mande fazer algo.
+
+1737
+01:55:55,065 --> 01:55:56,233
+Me traga umas geleias.
+
+1738
+01:55:58,319 --> 01:55:59,695
+Pegue você mesmo...
+
+1739
+01:56:02,364 --> 01:56:03,782
+Pegue você mesmo!
+
+1740
+01:56:10,331 --> 01:56:13,042
+Obrigado.
+Obrigado.
+
+1741
+01:56:13,209 --> 01:56:15,711
+Não. Eu que agradeço, Gênio.
+
+1742
+01:56:16,420 --> 01:56:18,005
+Eu devo tudo a você.
+
+1743
+01:56:21,550 --> 01:56:22,760
+O que vai fazer agora?
+
+1744
+01:56:28,390 --> 01:56:31,894
+Na verdade, há uma criada...
+
+1745
+01:56:33,687 --> 01:56:36,815
+com quem eu adoraria
+viajar pelo mundo.
+
+1746
+01:56:38,943 --> 01:56:40,194
+Se ela me aceitar.
+
+1747
+01:56:43,447 --> 01:56:45,616
+Quando partiremos?
+E eu quero ter filhos.
+
+1748
+01:56:45,783 --> 01:56:47,201
+Sim. Dois.
+
+1749
+01:56:47,785 --> 01:56:49,703
+<i>Lian e Omar,
+três anos de diferença.</i>
+
+1750
+01:56:49,870 --> 01:56:52,456
+<i>Eles vão nos adorar
+e farão muitas perguntas...</i>
+
+1751
+01:56:52,623 --> 01:56:54,959
+<i>e você vai distraí-los
+com histórias e canções.</i>
+
+1752
+01:56:55,125 --> 01:56:56,293
+...e ele é bonito como eu.
+
+1753
+01:56:56,460 --> 01:56:57,461
+<i>Nós teremos um barco.</i>
+
+1754
+01:56:57,628 --> 01:57:00,965
+<i>Um barco grande com vários andares
+e velas magníficas.</i>
+
+1755
+01:57:01,131 --> 01:57:02,591
+Eu pensei em um menor.
+
+1756
+01:57:02,758 --> 01:57:03,801
+Perfeito.
+
+1757
+01:57:03,968 --> 01:57:04,969
+Perfeito.
+
+1758
+01:57:06,220 --> 01:57:08,180
+Sente-se comigo, minha criança.
+
+1759
+01:57:09,473 --> 01:57:10,599
+Me desculpe.
+
+1760
+01:57:10,766 --> 01:57:13,394
+<i>-Baba,</i> por que está...
+-Por favor, deixe-me terminar.
+
+1761
+01:57:14,144 --> 01:57:18,732
+Eu temia perder você.
+Como perdi sua mãe.
+
+1762
+01:57:19,233 --> 01:57:24,363
+Eu só enxergava a minha filhinha,
+não a mulher que você se tornou.
+
+1763
+01:57:24,613 --> 01:57:29,285
+Você demonstrou ter coragem e força.
+
+1764
+01:57:29,451 --> 01:57:34,206
+Você é o futuro de Agrabah.
+
+1765
+01:57:40,379 --> 01:57:44,925
+Você deve ser a próxima Sultana.
+
+1766
+01:57:54,393 --> 01:57:55,936
+Obrigada, <i>Baba.</i>
+
+1767
+01:57:56,103 --> 01:57:58,606
+E, como Sultana,
+você poderá mudar a lei.
+
+1768
+01:58:00,983 --> 01:58:02,610
+Ele é um bom homem.
+
+1769
+01:58:09,617 --> 01:58:10,910
+Aonde ele foi?
+
+1770
+01:58:39,188 --> 01:58:42,233
+Pare, ladrão.
+É uma ordem da sua Sultana.
+
+1771
+01:58:46,862 --> 01:58:48,072
+Sultana?
+
+1772
+01:58:49,865 --> 01:58:51,951
+Isso quer dizer
+que estou encrencado?
+
+1773
+01:58:55,162 --> 01:58:57,289
+Só porque você foi pego.
+
+1774
+01:59:43,377 --> 01:59:46,338
+FIM
+
+1775
+02:00:08,319 --> 02:00:10,029
+<i>Seus amigos fazem isso?</i>
+
+1776
+02:01:12,842 --> 02:01:15,177
+<i>Você nunca teve um amigo como eu</i>
+
+1777
+02:07:44,525 --> 02:07:46,527
+Tradução e Adaptação:
+Companhia das Palavras
+
