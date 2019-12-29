@@ -1,0 +1,2734 @@
+1
+00:00:01,000 --> 00:00:04,074
+
+
+2
+00:00:47,090 --> 00:00:50,992
+<i>Lá fora
+Tem um mundo fora de Yonkers</i>
+
+3
+00:00:51,428 --> 00:00:55,831
+<i>Bem longe daqui
+pra lá dessa cidadezinha, Barnaby</i>
+
+4
+00:00:56,299 --> 00:01:00,368
+<i>Há uma cidade agradável, Barnaby</i>
+
+5
+00:01:00,671 --> 00:01:05,733
+<i>Lá fora
+Cheia de brilho e de faíscas</i>
+
+6
+00:01:05,941 --> 00:01:11,038
+<i>Feche os olhos e a
+veja brilhar, Barnaby</i>
+
+7
+00:01:11,647 --> 00:01:15,378
+<i>Escute, Barnaby</i>
+
+8
+00:01:20,623 --> 00:01:25,322
+<i>Ponha suas roupas de festa
+Tem um mundo inteiro lá fora</i>
+
+9
+00:01:25,428 --> 00:01:29,728
+<i>Tire a brilhantina
+e apague o cigarro</i>
+
+10
+00:01:30,266 --> 00:01:35,203
+<i>Vamos encontrar aventura
+no começo da noite</i>
+
+11
+00:01:35,304 --> 00:01:37,362
+<i>Garotas vestidas de branco
+numa noite perfumada</i>
+
+12
+00:01:37,472 --> 00:01:40,464
+<i>Onde as luzes são brilhantes
+como as estrelas</i>
+
+13
+00:01:40,709 --> 00:01:45,237
+<i>Ponha suas roupas de festa
+Vamos passear pela cidade</i>
+
+14
+00:01:45,480 --> 00:01:49,849
+<i>Numa dessas novas
+charretes</i>
+
+15
+00:01:49,984 --> 00:01:52,418
+<i>Vamos ver os shows
+no Delmonico's</i>
+
+16
+00:01:52,520 --> 00:01:55,011
+<i>E fechar a cidade</i>
+
+17
+00:01:55,123 --> 00:01:59,651
+<i>E não voltaremos pra casa
+até beijarmos uma garota</i>
+
+18
+00:02:06,868 --> 00:02:08,995
+<i>...passear pela cidade</i>
+
+19
+00:02:09,504 --> 00:02:13,940
+<i>Numa dessas novas
+charretes</i>
+
+20
+00:02:14,041 --> 00:02:16,339
+<i>Vamos ver os shows
+no Delmonico's...</i>
+
+21
+00:02:19,747 --> 00:02:24,081
+<i>E não voltaremos pra casa
+até beijarmos uma garota</i>
+
+22
+00:03:39,655 --> 00:03:42,748
+ULTRA LOJA BNL
+
+23
+00:03:47,597 --> 00:03:50,449
+POSTO DE GASOLINA
+BNL
+
+24
+00:03:52,471 --> 00:03:53,649
+BANCO BNL
+
+25
+00:03:53,704 --> 00:03:55,995
+<i>Buy N Large é sua super loja</i>
+
+26
+00:03:56,106 --> 00:04:00,736
+<i>Temos tudo do que precisa
+e muito mais</i>
+
+27
+00:04:02,426 --> 00:04:05,050
+MUITO LIXO!
+A TERRA ESTÁ LOTADA
+
+28
+00:04:07,085 --> 00:04:09,250
+WALL-E
+TRABALHANDO PRA TE TIRAR DO BURACO
+
+29
+00:04:53,869 --> 00:04:57,638
+BNL TRANSPORTES
+TERMINAL CENTRAL
+
+30
+00:05:00,535 --> 00:05:02,127
+<i>Muito lixo à sua vista?</i>
+
+31
+00:05:02,237 --> 00:05:04,603
+<i>Tem muito espaço no espaço!</i>
+
+32
+00:05:04,706 --> 00:05:07,231
+<i>Transportes espaciais BNL
+partindo todos os dias.</i>
+
+33
+00:05:07,342 --> 00:05:09,469
+<i>Limparemos a sujeira
+enquanto você está fora!</i>
+
+34
+00:05:14,216 --> 00:05:17,583
+<i>A jóia da frota BNL, a "Axioma".</i>
+
+35
+00:05:17,719 --> 00:05:19,778
+<i>Passe os cinco anos do
+seu cruzeiro com estilo,</i>
+
+36
+00:05:19,888 --> 00:05:23,483
+<i>servido 24 horas por dia por nossa
+tripulação totalmente automatizada,</i>
+
+37
+00:05:23,592 --> 00:05:25,321
+<i>enquanto o capitão e
+o piloto-automático</i>
+
+38
+00:05:25,427 --> 00:05:28,555
+<i>traçam uma rota de diversão
+sem fim, comida de primeira,</i>
+
+39
+00:05:28,664 --> 00:05:32,861
+<i>e com nossas cadeiras flutuantes,
+até a vovó poderá se divertir.</i>
+
+40
+00:05:32,967 --> 00:05:34,628
+<i>Não é preciso andar.</i>
+
+41
+00:05:34,735 --> 00:05:38,330
+<i>Axioma.
+A número um em transportes espaciais.</i>
+
+42
+00:05:38,439 --> 00:05:42,876
+<i>Porque na BNL
+o espaço é a última fronteira!</i>
+
+43
+00:06:46,438 --> 00:06:48,633
+<i>Sem segunda-feira no seu domingo</i>
+
+44
+00:06:48,741 --> 00:06:53,235
+<i>Sem segunda-feira nas
+suas roupas de festa</i>
+
+45
+00:06:55,314 --> 00:06:58,215
+<i>Ponha suas roupas de festa
+quando sentir vontade</i>
+
+46
+00:06:59,118 --> 00:07:02,576
+<i>Desfile pela rua
+e tire uma foto</i>
+
+47
+00:07:04,256 --> 00:07:08,556
+<i>Vestido perfeitamente
+Seu humor parece melhorar</i>
+
+48
+00:07:08,894 --> 00:07:10,122
+<i>Este sol de domingo é um sinal</i>
+
+49
+00:07:11,496 --> 00:07:13,657
+<i>Que você se sente
+tão bem quanto parece</i>
+
+50
+00:07:19,303 --> 00:07:20,861
+<i>E vamos recordar</i>
+
+51
+00:07:20,972 --> 00:07:21,939
+Uau!
+
+52
+00:07:24,409 --> 00:07:27,344
+<i>Quando o tempo acabar</i>
+
+53
+00:07:34,285 --> 00:07:38,779
+<i>Que só</i>
+
+54
+00:07:39,290 --> 00:07:45,558
+<i>foi preciso só um instante</i>
+
+55
+00:07:46,163 --> 00:07:50,964
+<i>para ser amado</i>
+
+56
+00:07:51,268 --> 00:07:57,138
+<i>uma vida</i>
+
+57
+00:07:57,741 --> 00:08:02,474
+<i>inteira</i>
+
+58
+00:08:18,994 --> 00:08:23,897
+<i>E é isso</i>
+
+59
+00:08:24,266 --> 00:08:25,631
+<i>que é o amor</i>
+
+60
+00:08:29,142 --> 00:08:32,421
+ALERTA
+
+61
+00:08:51,459 --> 00:08:54,019
+<i>...só um instante</i>
+
+62
+00:08:56,731 --> 00:09:01,430
+<i>para ser amado</i>
+
+63
+00:09:01,703 --> 00:09:07,039
+<i>uma vida</i>
+
+64
+00:09:08,376 --> 00:09:13,279
+<i>inteira</i>
+
+65
+00:09:19,610 --> 00:09:21,373
+NÍVEL DE CARGA SOLAR
+ALERTA
+
+66
+00:19:04,387 --> 00:19:05,479
+Quem é você?
+
+67
+00:19:08,558 --> 00:19:09,525
+Quem é você?
+
+68
+00:19:09,859 --> 00:19:10,848
+Quem é você?
+
+69
+00:20:01,208 --> 00:20:05,838
+<i>Me abrace forte e rápido</i>
+
+70
+00:20:06,180 --> 00:20:09,377
+<i>O feitiço que você lança</i>
+
+71
+00:20:09,683 --> 00:20:12,709
+<i>Esta é "la vie en rose"</i>
+
+72
+00:20:14,922 --> 00:20:19,655
+<i>Quando você me beija
+O céu suspira</i>
+
+73
+00:20:19,894 --> 00:20:23,352
+<i>E embora feche meus olhos</i>
+
+74
+00:20:23,464 --> 00:20:26,331
+<i>Eu vejo "la vie en rose"</i>
+
+75
+00:20:28,769 --> 00:20:32,363
+<i>Quando você me aperta
+junto do seu coração</i>
+
+76
+00:20:33,673 --> 00:20:37,006
+<i>Me sinto em outro mundo</i>
+
+77
+00:20:37,110 --> 00:20:41,046
+<i>Um mundo onde as rosas florescem</i>
+
+78
+00:20:42,248 --> 00:20:48,209
+<i>E quando você fala
+Anjos cantam lá de cima</i>
+
+79
+00:20:49,255 --> 00:20:56,161
+<i>Todos os dias as palavras parecem
+se transformar em canções de amor</i>
+
+80
+00:22:30,020 --> 00:22:31,009
+Diretriz?
+
+81
+00:22:32,255 --> 00:22:33,483
+Diretriz?
+
+82
+00:22:45,067 --> 00:22:49,436
+- Diretriz?
+- Diretriz?
+
+83
+00:22:50,506 --> 00:22:51,837
+Secreta.
+
+84
+00:22:53,475 --> 00:22:55,102
+Nome?
+
+85
+00:22:58,013 --> 00:22:59,981
+WALL-E.
+
+86
+00:23:00,349 --> 00:23:01,316
+WALL-E.
+
+87
+00:23:03,252 --> 00:23:04,480
+WALL-E.
+
+88
+00:23:05,788 --> 00:23:07,255
+EVA.
+
+89
+00:23:08,824 --> 00:23:10,314
+EVA.
+
+90
+00:23:10,426 --> 00:23:12,257
+E...!
+
+91
+00:23:12,561 --> 00:23:15,962
+"EVA. EVA."
+
+92
+00:23:16,065 --> 00:23:17,498
+EVA.
+
+93
+00:23:19,801 --> 00:23:21,268
+EVA.
+
+94
+00:23:22,303 --> 00:23:23,531
+"EVA."
+
+95
+00:23:30,578 --> 00:23:31,806
+EVA...
+
+96
+00:23:31,913 --> 00:23:33,210
+EVA! EVA! EVA!
+
+97
+00:23:40,788 --> 00:23:45,225
+WALL-E! WALL-E!
+
+98
+00:24:11,118 --> 00:24:12,346
+EVA.
+
+99
+00:24:27,333 --> 00:24:28,322
+<i>Aqui está uma canção que escrevi</i>
+
+100
+00:24:29,502 --> 00:24:31,936
+<i>...nota por nota
+Não se preocupe</i>
+
+101
+00:24:33,873 --> 00:24:35,306
+<i>Seja feliz</i>
+
+102
+00:24:40,579 --> 00:24:41,705
+Toma.
+
+103
+00:24:49,789 --> 00:24:50,778
+Olhe.
+
+104
+00:24:52,091 --> 00:24:53,115
+Estoura.
+
+105
+00:24:53,893 --> 00:24:55,087
+Estoura você.
+
+106
+00:25:35,132 --> 00:25:37,157
+<i>Sem segunda-feira no seu domingo</i>
+
+107
+00:25:40,204 --> 00:25:43,935
+<i>Sem segunda-feira nas
+suas roupas de festa</i>
+
+108
+00:25:44,842 --> 00:25:49,279
+<i>Ponha suas roupas de festa
+quando sentir vontade</i>
+
+109
+00:25:51,315 --> 00:25:53,078
+<i>Desfile pela rua
+e tire uma foto</i>
+
+110
+00:25:55,252 --> 00:25:59,188
+<i>Vestido perfeitamente
+Seu humor parece melhorar</i>
+
+111
+00:25:59,857 --> 00:26:01,950
+<i>Este sol de domingo é um sinal</i>
+
+112
+00:26:02,059 --> 00:26:04,220
+<i>Que você se sente
+tão bem quanto parece</i>
+
+113
+00:26:11,567 --> 00:26:14,536
+<i>...nos dedos do pé</i>
+
+114
+00:26:14,737 --> 00:26:16,136
+<i>Tire suas penas
+Seu coro brilhante</i>
+
+115
+00:26:17,340 --> 00:26:19,706
+<i>Seus colares, fivelas e laços</i>
+
+116
+00:26:25,281 --> 00:26:26,441
+WALL-E?
+
+117
+00:27:24,872 --> 00:27:29,866
+<i>E é isso</i>
+
+118
+00:27:29,977 --> 00:27:35,176
+<i>que é o amor</i>
+
+119
+00:27:35,282 --> 00:27:40,276
+<i>E vamos recordar</i>
+
+120
+00:27:40,387 --> 00:27:47,258
+<i>Quando o tempo acabar</i>
+
+121
+00:27:48,595 --> 00:27:54,033
+<i>Que só</i>
+
+122
+00:27:56,803 --> 00:28:01,502
+<i>foi preciso só um instante</i>
+
+123
+00:28:02,275 --> 00:28:04,573
+<i>para ser amado</i>
+
+124
+00:28:04,677 --> 00:28:05,803
+EVA!
+
+125
+00:28:07,280 --> 00:28:13,014
+<i>uma vida</i>
+
+126
+00:28:13,119 --> 00:28:14,086
+<i>inteira</i>
+
+127
+00:28:55,192 --> 00:28:56,523
+EVA.
+
+128
+00:28:58,763 --> 00:29:00,162
+EVA?
+
+129
+00:29:04,969 --> 00:29:06,937
+EVA!
+
+130
+00:29:08,072 --> 00:29:09,801
+EVA!
+
+131
+00:29:10,941 --> 00:29:13,808
+EVA!
+
+132
+00:30:28,634 --> 00:30:30,286
+WALL-E & EVA
+
+133
+00:32:19,057 --> 00:32:20,581
+EVA!
+
+134
+00:32:24,028 --> 00:32:25,495
+EVA!
+
+135
+00:32:31,402 --> 00:32:32,994
+EVA!
+
+136
+00:32:36,741 --> 00:32:37,708
+EVA!
+
+137
+00:32:42,080 --> 00:32:43,069
+Não!
+
+138
+00:33:05,168 --> 00:33:07,432
+EVA.
+
+139
+00:34:01,189 --> 00:34:02,281
+EVA.
+
+140
+00:35:29,720 --> 00:35:33,237
+AXIOMA
+
+141
+00:36:25,229 --> 00:36:26,321
+EVA.
+
+142
+00:36:50,053 --> 00:36:51,042
+Contaminador externo.
+
+143
+00:37:10,140 --> 00:37:11,664
+Contaminador externo.
+
+144
+00:38:18,539 --> 00:38:19,505
+EVA!
+
+145
+00:38:27,647 --> 00:38:29,376
+Contaminador externo.
+
+146
+00:38:47,187 --> 00:38:48,687
+DECK A
+
+147
+00:38:51,171 --> 00:38:52,138
+EVA.
+
+148
+00:39:27,338 --> 00:39:28,430
+EVA!
+
+149
+00:39:30,675 --> 00:39:32,040
+Passei a manhã inteira na minha cabine,
+
+150
+00:39:32,143 --> 00:39:34,098
+então vamos flutuar até
+o campo de golfe
+
+151
+00:39:34,099 --> 00:39:35,670
+e jogar umas bolas
+virtuais para o espaço.
+
+152
+00:39:37,081 --> 00:39:39,276
+Não, já jogamos ontem.
+Não quero fazer isso.
+
+153
+00:39:39,384 --> 00:39:43,150
+- Bem, então o que quer fazer?
+- Não sei. Alguma coisa.
+
+154
+00:39:51,963 --> 00:39:55,729
+Olha, estou cansado de
+discutir sempre a mesma coisa.
+
+155
+00:40:03,774 --> 00:40:05,605
+Robô, aqui.
+
+156
+00:40:13,383 --> 00:40:17,376
+- Estou num túnel. Não consigo te ouvir.
+- Aí está você.
+
+157
+00:40:19,456 --> 00:40:20,821
+<i>Buy N Large.</i>
+
+158
+00:40:20,924 --> 00:40:22,983
+<i>Tudo para sua felicidade.</i>
+
+159
+00:40:23,093 --> 00:40:25,994
+<i>Seu dia é muito
+importante para nós.</i>
+
+160
+00:40:27,397 --> 00:40:28,523
+Ei, robô-garçom.
+
+161
+00:40:29,766 --> 00:40:31,199
+Toma o copo.
+Ei, pegue o copo!
+
+162
+00:40:35,604 --> 00:40:37,231
+<i>Por favor, mantenha-se imóvel.</i>
+
+163
+00:40:37,340 --> 00:40:40,332
+<i>Um robô-assistente virá
+te socorrer num instante.</i>
+
+164
+00:40:40,443 --> 00:40:42,968
+Comissários de bordo!
+Olá!
+
+165
+00:40:43,079 --> 00:40:44,569
+<i>- Por favor, mantenha-se imóvel.
+- Socorro.</i>
+
+166
+00:40:44,680 --> 00:40:47,046
+<i>Um robô-assistente virá
+te socorrer num instante.</i>
+
+167
+00:40:48,417 --> 00:40:49,748
+O que foi?
+O que aconteceu?
+
+168
+00:40:53,155 --> 00:40:54,622
+WALL-E.
+
+169
+00:40:56,625 --> 00:40:58,490
+- John.
+- EVA?
+
+170
+00:40:58,828 --> 00:41:00,762
+Não. John.
+
+171
+00:41:03,399 --> 00:41:04,559
+EVA!
+
+172
+00:41:05,001 --> 00:41:06,092
+Tchau, WALL-E.
+
+173
+00:41:12,507 --> 00:41:15,965
+<i>"A", de Axioma,
+seu lar, doce lar.</i>
+
+174
+00:41:16,111 --> 00:41:19,638
+<i>"B", de Buy N Large,
+sua melhor amiga.</i>
+
+175
+00:41:22,250 --> 00:41:24,844
+<i>É hora do almoço no copo.</i>
+
+176
+00:41:31,059 --> 00:41:32,287
+<i>Sinta-se lindo.</i>
+
+177
+00:41:32,394 --> 00:41:33,952
+- É sua nova aparência. Impressionante.
+- Você está ótima.
+
+178
+00:41:34,062 --> 00:41:35,552
+- Eu sei, querida. Homens.
+- Homens.
+
+179
+00:41:35,663 --> 00:41:38,655
+<i>Atenção, clientes da Axioma.
+Experimentem o azul.</i>
+
+180
+00:41:38,767 --> 00:41:40,393
+<i>É o novo vermelho.</i>
+
+181
+00:41:44,338 --> 00:41:45,669
+Adoro azul.
+
+182
+00:41:47,741 --> 00:41:48,708
+Encontro?
+
+183
+00:41:48,809 --> 00:41:50,037
+Não comece a falar de encontro.
+
+184
+00:41:50,144 --> 00:41:53,739
+Todo encontro-holográfico que
+tive foi um desastre virtual.
+
+185
+00:41:53,847 --> 00:41:58,682
+Se eu encontrasse uma única
+pessoa que não fosse superficial...
+
+186
+00:41:58,786 --> 00:42:00,583
+Não há homens decentes por aí.
+
+187
+00:42:01,822 --> 00:42:03,847
+Eu sei.
+Eu sei, porque eu...
+
+188
+00:42:03,957 --> 00:42:04,946
+Mas o que...
+
+189
+00:42:12,999 --> 00:42:15,991
+WALL-E.
+
+190
+00:42:17,203 --> 00:42:19,194
+- Mary.
+- EVA.
+
+191
+00:42:21,741 --> 00:42:23,936
+Claro.
+Pode passar.
+
+192
+00:42:25,812 --> 00:42:26,870
+EVA.
+
+193
+00:42:33,853 --> 00:42:35,013
+Sombra!
+
+194
+00:42:49,968 --> 00:42:52,163
+Não sabia que tínhamos uma piscina!
+
+195
+00:43:58,268 --> 00:44:00,862
+Capitão, compareça à ponte.
+
+196
+00:44:22,825 --> 00:44:24,452
+Agarrem-se ao convés!
+
+197
+00:44:25,929 --> 00:44:27,122
+Bom dia.
+
+198
+00:44:27,829 --> 00:44:29,194
+Só uma aparadinha?
+
+199
+00:44:29,898 --> 00:44:32,389
+<i>...encontrar aventura
+no começo da noite</i>
+
+200
+00:44:35,204 --> 00:44:38,469
+Entendo.
+Eu sei, querido. Eu sei.
+
+201
+00:44:38,574 --> 00:44:41,475
+Eu sou boa. Eu sou boa.
+Você está lindo.
+
+202
+00:44:46,381 --> 00:44:48,576
+<i>...charretes</i>
+
+203
+00:45:01,729 --> 00:45:03,162
+- Senhor?
+- Café.
+
+204
+00:45:13,040 --> 00:45:14,667
+Senhor, a inspeção...
+
+205
+00:45:15,476 --> 00:45:18,001
+Protocolo, Auto.
+Primeiro o mais importante.
+
+206
+00:45:18,813 --> 00:45:20,508
+Computador, relatório da situação.
+
+207
+00:45:22,717 --> 00:45:24,708
+<i>- Sistemas mecânicos.
+- Sem mudanças.</i>
+
+208
+00:45:24,819 --> 00:45:27,014
+<i>- Temperatura do núcleo do reator.
+- Sem mudanças.</i>
+
+209
+00:45:27,121 --> 00:45:28,748
+<i>- Número de passageiros.
+- Sem mudanças.</i>
+
+210
+00:45:28,856 --> 00:45:31,086
+<i>- Alimentos regenerativos.
+- Sem mudanças.</i>
+
+211
+00:45:31,192 --> 00:45:33,125
+<i>- Nível de pH da banheira.
+- Sem mudanças.</i>
+
+212
+00:45:33,226 --> 00:45:35,251
+<i>- Condição do ar.
+- Sem mudanças.</i>
+
+213
+00:45:35,362 --> 00:45:36,351
+- Capitão.
+- Capacidade de serviço da lavanderia.
+
+214
+00:45:36,463 --> 00:45:38,693
+<i>- Sem mudanças.
+- Muito bem, Auto.</i>
+
+215
+00:45:38,798 --> 00:45:41,665
+- Senhor, a inspeção anual...
+- 12h30!
+
+216
+00:45:41,768 --> 00:45:43,668
+Auto, por que não me acordou
+para os anúncios matinais?
+
+217
+00:45:45,839 --> 00:45:48,535
+Honestamente, é a única coisa
+que tenho que fazer nessa nave.
+
+218
+00:45:51,408 --> 00:45:53,646
+ALMOÇO
+CAFÉ DA MANHÃ
+
+219
+00:45:57,484 --> 00:45:59,645
+<i>Bom dia a todos,</i>
+
+220
+00:45:59,753 --> 00:46:05,385
+<i>e sejam bem-vindos ao
+dia 255.642 a bordo da Axioma.</i>
+
+221
+00:46:05,492 --> 00:46:09,962
+<i>E, como sempre, tempos uma agradável
+temperatura de 22° e faz sol e...</i>
+
+222
+00:46:10,029 --> 00:46:14,295
+<i>Estou vendo no diário de bordo
+que hoje é o 700° aniversário</i>
+
+223
+00:46:14,400 --> 00:46:15,867
+<i>do nosso cruzeiro de cinco anos.</i>
+
+224
+00:46:15,968 --> 00:46:19,413
+<i>Tenho certeza que nossos antepassados
+ficariam orgulhosos de saber</i>
+
+225
+00:46:19,414 --> 00:46:20,496
+<i>que 700 anos depois</i>
+
+226
+00:46:20,606 --> 00:46:24,269
+<i>estaríamos fazendo a mesma
+coisa que eles faziam.</i>
+
+227
+00:46:24,510 --> 00:46:25,466
+Lance!
+
+228
+00:46:25,577 --> 00:46:29,104
+Então, na próxima refeição,
+não esqueça de pedir seu
+
+229
+00:46:29,214 --> 00:46:33,844
+bolo de copo grátis do
+"setingentésimo aniversário."
+
+230
+00:46:33,952 --> 00:46:35,283
+Olha só que coisa!
+
+231
+00:46:35,387 --> 00:46:36,354
+E hoje também temos um...
+
+232
+00:46:38,624 --> 00:46:41,254
+Ei, Auto, o que é esse
+botão piscando?
+
+233
+00:46:42,026 --> 00:46:45,052
+Capitão, o resultado da
+Sonda Um foi positivo.
+
+234
+00:46:46,397 --> 00:46:47,625
+Positivo?
+
+235
+00:46:57,775 --> 00:46:58,742
+EVA.
+
+236
+00:47:00,211 --> 00:47:02,702
+Mas nenhuma sonda
+
+237
+00:47:03,481 --> 00:47:07,110
+jamais voltou com um
+resultado positivo.
+
+238
+00:47:16,226 --> 00:47:18,319
+<i>Buy N Large</i>
+
+239
+00:47:18,628 --> 00:47:21,927
+<i>Saudações e parabéns, capitão.</i>
+
+240
+00:47:22,032 --> 00:47:23,192
+<i>Se está vendo isso,</i>
+
+241
+00:47:23,300 --> 00:47:26,861
+<i>significa que a Exterminadora
+de Vegetação Alienígena,</i>
+
+242
+00:47:26,970 --> 00:47:30,303
+<i>ou sonda EVA,
+voltou da Terra</i>
+
+243
+00:47:30,407 --> 00:47:34,707
+<i>com uma espécie confirmada
+com fotossíntese em andamento.</i>
+
+244
+00:47:34,811 --> 00:47:38,577
+<i>É isso mesmo. Significa que
+está na hora de voltar pra casa.</i>
+
+245
+00:47:38,715 --> 00:47:41,582
+Casa?
+Nós vamos voltar?
+
+246
+00:47:41,685 --> 00:47:45,184
+<i>Agora que a Terra
+voltou a ser habitável,</i>
+
+247
+00:47:45,288 --> 00:47:48,848
+<i>enfim podemos começar a
+"Operação Recolonização."</i>
+
+248
+00:47:56,745 --> 00:47:58,145
+OPERAÇÃO
+RECOLONIZAÇÃO
+
+249
+00:47:58,167 --> 00:48:00,226
+<i>É só seguir as
+instruções desse manual</i>
+
+250
+00:48:00,336 --> 00:48:03,499
+<i>para colocar a planta no
+detector-holográfico da nave</i>
+
+251
+00:48:03,606 --> 00:48:08,502
+<i>e a Axioma irá imediatamente
+se dirigir para a Terra.</i>
+
+252
+00:48:08,611 --> 00:48:10,272
+<i>É realmente fácil.</i>
+
+253
+00:48:10,379 --> 00:48:13,143
+<i>Mas, graças os efeitos
+da microgravidade,</i>
+
+254
+00:48:13,249 --> 00:48:15,596
+<i>você e os passageiros
+podem ter sofrido uma</i>
+
+255
+00:48:15,597 --> 00:48:17,344
+<i>pequena diminuição
+da massa óssea.</i>
+
+256
+00:48:18,654 --> 00:48:22,350
+<i>Mas tenho certeza que após umas
+voltinhas na pista da nave,</i>
+
+257
+00:48:22,457 --> 00:48:24,516
+<i>vocês voltarão à forma
+em pouco tempo.</i>
+
+258
+00:48:24,626 --> 00:48:25,650
+Temos uma pista de corrida?
+
+259
+00:48:25,760 --> 00:48:27,557
+<i>Se tiver mais perguntas,</i>
+
+260
+00:48:27,662 --> 00:48:30,597
+<i>é só consultar o
+manual de operações.</i>
+
+261
+00:48:30,698 --> 00:48:32,791
+<i>Vejo vocês em casa em breve.</i>
+
+262
+00:48:36,538 --> 00:48:38,602
+"Manuel de Operações."
+
+263
+00:48:40,842 --> 00:48:44,073
+Manuel, transmita as instruções.
+
+264
+00:48:45,814 --> 00:48:46,974
+Manuel?
+
+265
+00:48:54,254 --> 00:48:56,848
+Uau!
+Olha só isso!
+
+266
+00:48:58,325 --> 00:48:59,383
+Vejamos.
+
+267
+00:49:02,262 --> 00:49:03,354
+EVA.
+
+268
+00:49:03,797 --> 00:49:04,889
+WALL-E!
+
+269
+00:49:09,369 --> 00:49:10,836
+EVA.
+
+270
+00:49:14,908 --> 00:49:17,035
+Vamos abri-la.
+
+271
+00:49:17,678 --> 00:49:21,004
+"Primeiro passo.
+Comando de voz: 'Confirmar aquisição.'"
+
+272
+00:49:21,114 --> 00:49:22,843
+<i>Confirmar aquisição.</i>
+
+273
+00:49:34,193 --> 00:49:35,717
+<i>Autorização de voz necessária.</i>
+
+274
+00:49:37,163 --> 00:49:38,391
+<i>Aceita.</i>
+
+275
+00:49:56,849 --> 00:49:58,840
+- Onde está a coisa?
+- Planta.
+
+276
+00:49:58,951 --> 00:50:01,180
+Planta, isso, isso.
+Onde está?
+
+277
+00:50:02,587 --> 00:50:03,849
+Talvez tenhamos pulado algum passo.
+
+278
+00:50:03,955 --> 00:50:05,553
+- Mostre-me como você...
+- Planta.
+
+279
+00:50:06,057 --> 00:50:07,922
+- Está bem.
+- WALL-E.
+
+280
+00:50:08,093 --> 00:50:09,060
+WALL-E!
+
+281
+00:50:11,897 --> 00:50:14,127
+- EVA?
+- Planta!
+
+282
+00:50:15,066 --> 00:50:16,363
+Por que você não a
+escaneia pra ter certeza?
+
+283
+00:50:23,408 --> 00:50:27,708
+Não contém espécime.
+A memória da sonda está defeituosa.
+
+284
+00:50:27,812 --> 00:50:32,545
+- Então, não vamos para a Terra?
+- Negativo.
+
+285
+00:50:32,651 --> 00:50:34,914
+Acho que as coisas vão
+voltar ao normal, hein?
+
+286
+00:50:35,019 --> 00:50:36,816
+Correto, capitão.
+
+287
+00:50:36,921 --> 00:50:39,014
+<i>- Bem, alarme falso!
+- Alarme falso.</i>
+
+288
+00:50:41,258 --> 00:50:42,987
+A sonda deve estar com defeito.
+
+289
+00:50:44,194 --> 00:50:46,754
+GO-4, mande-a pro conserto,
+
+290
+00:50:47,398 --> 00:50:50,299
+e peçam pra executar um diagnóstico.
+Certifiquem-se de que ela não...
+
+291
+00:50:59,043 --> 00:51:00,203
+WALL-E.
+
+292
+00:51:05,382 --> 00:51:08,145
+Peçam... pra limpar o WALL-E.
+
+293
+00:51:13,990 --> 00:51:15,048
+EVA.
+
+294
+00:51:17,460 --> 00:51:18,654
+Analisar.
+
+295
+00:51:20,463 --> 00:51:23,159
+<i>Análise.
+Contaminador externo.</i>
+
+296
+00:51:23,266 --> 00:51:25,268
+<i>A substância é um
+sistema trifásico</i>
+
+297
+00:51:25,368 --> 00:51:27,336
+<i>composto de várias combinações
+de corpos sólidos naturais.</i>
+
+298
+00:51:29,105 --> 00:51:33,132
+<i>A substância é comumente
+chamada de solo, pó ou terra.</i>
+
+299
+00:51:33,242 --> 00:51:34,436
+"Terra"?
+
+300
+00:51:37,046 --> 00:51:39,213
+Defina "terra".
+
+301
+00:51:43,952 --> 00:51:46,079
+<i>Terra, a superfície do planeta,</i>
+
+302
+00:51:46,188 --> 00:51:48,281
+<i>diferente do céu e do mar.</i>
+
+303
+00:51:48,390 --> 00:51:49,755
+Uau.
+
+304
+00:51:50,425 --> 00:51:52,290
+Defina "mar."
+
+305
+00:51:53,695 --> 00:51:55,993
+<i>Mar, uma extensão de água salgada</i>
+
+306
+00:51:56,098 --> 00:52:00,432
+<i>que ocupa a maior parte da superfície
+do planeta e cerca suas terras.</i>
+
+307
+00:52:10,579 --> 00:52:11,603
+Contaminador externo.
+
+308
+00:52:34,301 --> 00:52:35,928
+EVA.
+
+309
+00:52:40,508 --> 00:52:41,873
+Só uma aparadinha?
+
+310
+00:52:42,576 --> 00:52:43,668
+Você está lindo.
+
+311
+00:53:00,794 --> 00:53:01,852
+Lance!
+
+312
+00:53:03,730 --> 00:53:04,788
+Lance!
+
+313
+00:53:06,066 --> 00:53:07,033
+Lance!
+
+314
+00:53:16,643 --> 00:53:17,610
+EVA!
+
+315
+00:53:19,479 --> 00:53:22,003
+<i>Livre, livre, livre.</i>
+
+316
+00:53:56,881 --> 00:53:59,076
+EVA! EVA!
+
+317
+00:54:03,921 --> 00:54:05,946
+WALL-E.
+
+318
+00:54:22,807 --> 00:54:24,001
+WALL-E!
+
+319
+00:54:43,126 --> 00:54:44,855
+WALL-E!
+
+320
+00:54:59,276 --> 00:55:00,435
+Minha nossa.
+
+321
+00:55:01,777 --> 00:55:02,835
+Parados!
+
+322
+00:55:10,486 --> 00:55:11,453
+WALL-E!
+
+323
+00:55:14,757 --> 00:55:17,089
+<i>Cuidado.
+Robôs perigosos.</i>
+
+324
+00:55:18,828 --> 00:55:21,262
+<i>Cuidado.
+Robôs perigosos.</i>
+
+325
+00:55:21,363 --> 00:55:23,228
+<i>Cuidado.
+Robôs perigosos.</i>
+
+326
+00:55:24,500 --> 00:55:25,489
+WALL-E!
+
+327
+00:55:29,405 --> 00:55:30,463
+Parados!
+Parados!
+
+328
+00:55:36,644 --> 00:55:39,340
+<i>Cuidado.
+Robôs perigosos.</i>
+
+329
+00:55:39,447 --> 00:55:40,607
+WALL-E!
+
+330
+00:55:45,286 --> 00:55:46,412
+<i>Livre.</i>
+
+331
+00:55:56,731 --> 00:55:58,756
+<i>Cuidado.
+Robôs perigosos.</i>
+
+332
+00:56:00,001 --> 00:56:01,059
+EVA.
+
+333
+00:56:22,456 --> 00:56:23,821
+EVA?
+
+334
+00:56:28,862 --> 00:56:29,988
+Terra.
+
+335
+00:56:32,366 --> 00:56:33,492
+Terra.
+
+336
+00:56:49,882 --> 00:56:51,042
+Diretriz.
+
+337
+00:56:56,555 --> 00:56:57,852
+WALL-E.
+
+338
+00:57:04,597 --> 00:57:05,757
+WALL-E!
+
+339
+00:57:29,120 --> 00:57:30,451
+Planta!
+
+340
+00:57:36,628 --> 00:57:37,788
+WALL-E.
+
+341
+00:57:39,864 --> 00:57:41,991
+- EVA.
+- WALL-E!
+
+342
+00:57:57,648 --> 00:57:59,115
+<i>Velocidade de cruzeiro.</i>
+
+343
+00:58:01,051 --> 00:58:02,712
+<i>Agora, você pode andar
+livremente pela cabine.</i>
+
+344
+00:58:14,832 --> 00:58:16,493
+<i>Vinte segundos para
+autodestruição.</i>
+
+345
+00:58:25,274 --> 00:58:27,242
+<i>Dez segundos para
+autodestruição.</i>
+
+346
+00:58:28,878 --> 00:58:33,474
+<i>Dez, nove, oito, sete,</i>
+
+347
+00:58:33,583 --> 00:58:36,279
+<i>seis, cinco, quatro,</i>
+
+348
+00:58:37,453 --> 00:58:38,442
+<i>três,</i>
+
+349
+00:58:39,622 --> 00:58:40,452
+<i>dois...</i>
+
+350
+00:58:47,196 --> 00:58:48,857
+Não. Não.
+
+351
+00:58:53,102 --> 00:58:54,466
+EVA!
+
+352
+00:58:55,670 --> 00:58:56,830
+WALL-E!
+
+353
+00:59:05,047 --> 00:59:06,537
+WALL-E!
+
+354
+00:59:11,119 --> 00:59:12,313
+EVA.
+
+355
+00:59:27,068 --> 00:59:28,228
+WALL-E.
+
+356
+00:59:29,837 --> 00:59:30,861
+EVA.
+
+357
+00:59:34,314 --> 00:59:35,814
+<i>Enviar para o encarregado da Axioma</i>
+
+358
+00:59:35,842 --> 00:59:36,869
+WALL-E!
+
+359
+00:59:53,961 --> 00:59:55,121
+WALL-E.
+
+360
+01:00:38,270 --> 01:00:40,465
+Quantas estrelas.
+
+361
+01:00:44,576 --> 01:00:47,773
+- Ei! Ei! É o... qual o nome dele?
+- Ei! O que...
+
+362
+01:00:47,880 --> 01:00:50,110
+- Olhe aquilo!
+- O quê?
+
+363
+01:00:50,682 --> 01:00:55,642
+Ei, conheço aquele carinha.
+É o... WALL-E.
+
+364
+01:00:55,754 --> 01:00:59,554
+- Ei, Wall-E! É o seu amigo John.
+- Oi, WALL-E!
+
+365
+01:01:05,397 --> 01:01:06,386
+Oi.
+
+366
+01:01:07,532 --> 01:01:08,521
+Oi.
+
+367
+01:01:18,709 --> 01:01:21,075
+Defina "baile."
+
+368
+01:01:21,179 --> 01:01:23,079
+<i>Baile,
+uma reunião social</i>
+
+369
+01:01:23,181 --> 01:01:25,376
+<i>com dança ao vivo.</i>
+
+370
+01:01:26,317 --> 01:01:30,048
+Auto, a Terra é magnífica!
+Isso é chamado de "cultivo."
+
+371
+01:01:30,154 --> 01:01:33,487
+Os humanos colocam sementes
+na terra, jogam água nelas,
+
+372
+01:01:33,591 --> 01:01:35,684
+e elas dão comida,
+como pizza.
+
+373
+01:01:35,793 --> 01:01:37,522
+Boa noite, capitão.
+
+374
+01:01:42,299 --> 01:01:44,164
+Computador!
+
+375
+01:01:45,135 --> 01:01:46,727
+Defina "dançar."
+
+376
+01:01:47,270 --> 01:01:51,138
+<i>Dançar, uma série de movimentos
+envolvendo dois parceiros</i>
+
+377
+01:01:51,241 --> 01:01:54,870
+<i>em que ritmo e velocidade
+se combinam com a música.</i>
+
+378
+01:02:01,151 --> 01:02:02,413
+EVA.
+
+379
+01:02:03,053 --> 01:02:04,111
+Casa.
+
+380
+01:02:14,530 --> 01:02:18,626
+<i>A área da piscina está fechando.
+A área da piscina está fechando.</i>
+
+381
+01:02:21,804 --> 01:02:23,601
+- Pare.
+- Vem me fazer parar.
+
+382
+01:02:23,706 --> 01:02:25,264
+Não sabia que tínhamos uma piscina.
+
+383
+01:02:25,641 --> 01:02:27,768
+Proibido espirrar água.
+Proibido mergulhar.
+
+384
+01:02:28,377 --> 01:02:30,777
+- Vai, continua.
+- Proibido espirrar água. Proibido...
+
+385
+01:02:59,641 --> 01:03:00,665
+EVA.
+
+386
+01:03:00,775 --> 01:03:02,800
+<i>...foi preciso só um instante</i>
+
+387
+01:03:11,252 --> 01:03:12,549
+Diretriz.
+
+388
+01:03:24,998 --> 01:03:26,329
+Preparar para pousar.
+
+389
+01:03:29,469 --> 01:03:30,527
+"Chegamos, pessoal."
+
+390
+01:03:30,637 --> 01:03:34,073
+"Viva, capitão! Capitão, estamos em casa.
+É tão lindo!"
+
+391
+01:03:34,174 --> 01:03:37,166
+"Não foi nada.
+Foi um prazer ter feito isso.
+
+392
+01:03:37,277 --> 01:03:39,245
+"Foi por vocês,
+não por mim."
+
+393
+01:03:45,152 --> 01:03:46,676
+Como?
+
+394
+01:03:46,787 --> 01:03:48,516
+Como encontrou isso?
+
+395
+01:03:52,693 --> 01:03:55,923
+Podemos voltar para casa!
+Pela primeira vez!
+
+396
+01:03:56,295 --> 01:03:57,819
+Como é lá agora?
+
+397
+01:03:57,930 --> 01:04:00,728
+Não. Não diga nada.
+Quero ver eu mesmo.
+
+398
+01:04:09,575 --> 01:04:12,043
+Espere aí.
+Isso não se parece com a Terra.
+
+399
+01:04:14,980 --> 01:04:16,777
+Onde está o céu azul?
+
+400
+01:04:27,059 --> 01:04:28,855
+Onde está a grama?
+
+401
+01:04:34,599 --> 01:04:38,797
+<i>...roupas de festa
+quando sentir vontade</i>
+
+402
+01:04:38,903 --> 01:04:40,803
+Conheço essa música.
+
+403
+01:04:40,905 --> 01:04:42,964
+<i>Desfile pela rua
+e tire uma foto</i>
+
+404
+01:04:43,074 --> 01:04:44,200
+Eles estão...
+
+405
+01:04:45,510 --> 01:04:46,738
+dançando.
+
+406
+01:04:46,845 --> 01:04:48,642
+Isso, dançando.
+
+407
+01:04:49,013 --> 01:04:53,746
+<i>Este sol de domingo é um sinal
+Que você se sente tão bem quanto parece</i>
+
+408
+01:04:54,552 --> 01:04:56,577
+<i>Debaixo do seu guarda-sol...</i>
+
+409
+01:04:56,688 --> 01:04:59,274
+Você acabou conseguindo,
+não é, pequenininha?
+
+410
+01:04:59,275 --> 01:05:00,454
+Você não desistiu, né?
+
+411
+01:05:03,894 --> 01:05:05,623
+Está bem.
+Vamos lá.
+
+412
+01:05:07,531 --> 01:05:09,021
+Espere um pouco.
+
+413
+01:05:09,133 --> 01:05:14,833
+<i>...quando o tempo acabar</i>
+
+414
+01:05:16,206 --> 01:05:22,770
+<i>Que só...</i>
+
+415
+01:05:25,962 --> 01:05:27,964
+ATIVANDO
+CÂMERA DE SEGURANÇA
+
+416
+01:05:29,620 --> 01:05:30,848
+<i>EVA?</i>
+
+417
+01:05:31,588 --> 01:05:33,519
+<i>EVA!</i>
+
+418
+01:05:46,102 --> 01:05:47,399
+WALL-E.
+
+419
+01:05:51,407 --> 01:05:52,396
+EVA.
+
+420
+01:05:53,109 --> 01:05:54,076
+EVA.
+
+421
+01:05:55,411 --> 01:05:57,003
+EVA.
+
+422
+01:05:58,381 --> 01:05:59,348
+Patético.
+
+423
+01:06:02,919 --> 01:06:03,943
+EVA.
+
+424
+01:06:12,327 --> 01:06:13,817
+EVA!
+
+425
+01:06:33,348 --> 01:06:35,077
+Contaminador externo.
+
+426
+01:06:43,023 --> 01:06:45,014
+Pronto, camaradinha.
+
+427
+01:06:45,125 --> 01:06:47,958
+Veio de muito longe
+para um gole de água.
+
+428
+01:06:48,062 --> 01:06:50,758
+Só precisava de alguém
+para cuidar de você...
+
+429
+01:07:04,278 --> 01:07:05,973
+Temos que voltar.
+
+430
+01:07:08,115 --> 01:07:10,913
+<i>- Auto, desça aqui.
+- Sim, senhor.</i>
+
+431
+01:07:11,485 --> 01:07:12,452
+WALL-E.
+
+432
+01:07:13,987 --> 01:07:15,147
+WALL-E.
+
+433
+01:07:17,991 --> 01:07:20,789
+<i>Auto, a EVA encontrou a planta.
+Acione o detector-holográfico.</i>
+
+434
+01:07:20,894 --> 01:07:23,624
+Não é necessário, capitão.
+Pode entregá-la pra mim.
+
+435
+01:07:23,730 --> 01:07:27,166
+- Sabe de uma coisa? Eu mesmo faço isso.
+- Capitão.
+
+436
+01:07:28,434 --> 01:07:31,631
+Senhor, insisto que
+me entregue a planta.
+
+437
+01:07:31,738 --> 01:07:35,196
+- Auto, saia da frente.
+- Não podemos voltar para casa.
+
+438
+01:07:35,308 --> 01:07:39,074
+- Do que está falando? Por que não?
+- Isso é confidencial, capitão.
+
+439
+01:07:39,178 --> 01:07:41,476
+- Me entregue a planta.
+- Como assim, "confidencial"?
+
+440
+01:07:41,581 --> 01:07:43,048
+Não se deve manter
+segredos para o capitão.
+
+441
+01:07:43,149 --> 01:07:44,241
+Me entregue a planta.
+
+442
+01:07:44,350 --> 01:07:46,682
+- Me diga o que é confidencial.
+- A planta.
+
+443
+01:07:46,786 --> 01:07:48,616
+Diga-me, Auto!
+É uma ordem.
+
+444
+01:07:52,457 --> 01:07:53,924
+Sim, senhor.
+
+445
+01:07:57,346 --> 01:07:58,624
+ESTRITAMENTE CONFIDENCIAL
+
+446
+01:07:58,729 --> 01:08:03,199
+<i>Buy N Large é sua super loja
+Temos tudo do que precisa</i>
+
+447
+01:08:03,302 --> 01:08:04,428
+<i>Pare com isso.</i>
+
+448
+01:08:05,804 --> 01:08:09,535
+<i> Olá, pilotos.
+Tenho más notícias.</i>
+
+449
+01:08:12,477 --> 01:08:14,035
+<i>A Operação Limpeza,</i>
+
+450
+01:08:14,913 --> 01:08:16,380
+<i>bem, falhou.</i>
+
+451
+01:08:17,249 --> 01:08:20,047
+<i>O crescente volume de
+toxinas tornou a vida</i>
+
+452
+01:08:20,152 --> 01:08:21,880
+<i>insustentável na Terra.</i>
+
+453
+01:08:21,986 --> 01:08:23,954
+"Insustenável"?
+O quê?
+
+454
+01:08:24,088 --> 01:08:28,081
+<i>Droga, teremos que cancelar
+a Operação Recolonização.</i>
+
+455
+01:08:28,192 --> 01:08:29,216
+<i>Então,</i>
+
+456
+01:08:30,394 --> 01:08:31,691
+<i>mantenham a rota.</i>
+
+457
+01:08:32,997 --> 01:08:34,988
+<i>Ao invés de tentar
+resolver este problema,</i>
+
+458
+01:08:35,099 --> 01:08:38,398
+<i>será mais fácil todos
+permanecerem no espaço.</i>
+
+459
+01:08:38,502 --> 01:08:39,662
+"Mais fácil"?
+
+460
+01:08:41,472 --> 01:08:42,439
+<i>Senhor, está na hora de ir.</i>
+
+461
+01:08:42,540 --> 01:08:47,034
+<i>Muito bem. Estou ativando
+a Diretriz A 113.</i>
+
+462
+01:08:47,144 --> 01:08:49,669
+<i>Ativar o piloto automático.</i>
+
+463
+01:08:49,814 --> 01:08:53,215
+<i>Encarregue-se de tudo,
+e não volte à Terra.</i>
+
+464
+01:08:53,317 --> 01:08:55,511
+<i>Repito, não volte à Terra.</i>
+
+465
+01:08:55,685 --> 01:08:57,152
+<i>Vamos dar o fora daqui.</i>
+
+466
+01:09:01,625 --> 01:09:03,889
+Agora, me entregue a planta.
+
+467
+01:09:03,994 --> 01:09:05,962
+Não. Espere um pouco.
+
+468
+01:09:06,062 --> 01:09:08,428
+Computador, quando a mensagem
+foi enviada para a Axioma?
+
+469
+01:09:08,531 --> 01:09:10,965
+<i>A mensagem foi recebida
+no ano de 2110.</i>
+
+470
+01:09:11,067 --> 01:09:14,468
+Isso foi...
+Isso foi há quase 700 anos atrás!
+
+471
+01:09:14,571 --> 01:09:17,597
+Auto, as coisas mudaram!
+Temos que voltar.
+
+472
+01:09:17,707 --> 01:09:20,369
+Senhor, as ordens são para
+não retornarmos à Terra.
+
+473
+01:09:20,477 --> 01:09:25,414
+Mas a vida é sustentável agora.
+Olhe essa planta. Está verde e crescendo.
+
+474
+01:09:25,515 --> 01:09:28,847
+- É uma prova viva de que você está errado.
+- Irrelevante, capitão.
+
+475
+01:09:28,951 --> 01:09:32,944
+O quê? É absolutamente relevante!
+Lá fora está o nosso lar.
+
+476
+01:09:33,055 --> 01:09:34,317
+Lar, Auto.
+
+477
+01:09:34,423 --> 01:09:38,154
+E está com problemas. Não posso
+ficar aqui sentado sem fazer nada.
+
+478
+01:09:38,260 --> 01:09:39,557
+É tudo que tenho feito.
+
+479
+01:09:39,662 --> 01:09:42,961
+É o que todos nessa lata
+velha têm feito! Nada!
+
+480
+01:09:43,065 --> 01:09:45,397
+Na Axioma você sobreviverá.
+
+481
+01:09:45,501 --> 01:09:50,200
+- Não quero sobreviver. Quero viver!
+- Tenho que seguir minha diretriz.
+
+482
+01:10:08,289 --> 01:10:10,814
+Eu sou o capitão da Axioma.
+
+483
+01:10:10,925 --> 01:10:13,553
+Vamos para casa hoje.
+
+484
+01:10:19,233 --> 01:10:20,393
+GO-4?
+
+485
+01:10:21,235 --> 01:10:23,169
+Ei! Isto não é...
+
+486
+01:10:23,271 --> 01:10:25,831
+Isso é um motim!
+EVA, prenda-o.
+
+487
+01:10:32,113 --> 01:10:35,946
+EVA, Eva, coloque esta planta
+no detector-holográfico.
+
+488
+01:10:36,650 --> 01:10:37,639
+Não!
+
+489
+01:10:50,764 --> 01:10:53,164
+- EVA?
+- WALL-E!
+
+490
+01:10:53,266 --> 01:10:54,927
+EVA!
+
+491
+01:10:56,536 --> 01:10:57,764
+WALL-E, a planta!
+
+492
+01:10:57,871 --> 01:10:59,270
+- WALL-E!
+- Aqui. Jogue.
+
+493
+01:11:00,707 --> 01:11:01,674
+EVA!
+
+494
+01:11:02,876 --> 01:11:04,468
+Me entregue a planta.
+
+495
+01:11:20,960 --> 01:11:22,694
+WALL-E!
+
+496
+01:11:32,838 --> 01:11:35,102
+Todas as comunicações
+foram desativadas.
+
+497
+01:11:35,207 --> 01:11:36,868
+Ficará detido na sua cabine.
+
+498
+01:11:36,976 --> 01:11:38,307
+Não! Motim!
+
+499
+01:11:38,778 --> 01:11:39,972
+Motim!
+
+500
+01:11:44,158 --> 01:11:48,465
+RELIGANDO
+
+501
+01:11:59,490 --> 01:12:00,457
+WALL-E?
+
+502
+01:12:00,558 --> 01:12:03,584
+<i>Cuidado.
+Ativando câmara de descarte de resíduos.</i>
+
+503
+01:12:03,695 --> 01:12:05,526
+WALL-E!
+
+504
+01:12:06,497 --> 01:12:08,658
+<i>Ativando câmara de
+descarte de resíduos.</i>
+
+505
+01:12:14,972 --> 01:12:16,132
+WALL-E?
+
+506
+01:12:43,367 --> 01:12:45,733
+EVA.
+
+507
+01:12:45,836 --> 01:12:46,996
+WALL-E!
+
+508
+01:12:48,237 --> 01:12:51,172
+<i>Cuidado.
+Ativando câmara de descarte de resíduos.</i>
+
+509
+01:12:52,008 --> 01:12:54,272
+<i>Ativando câmara de
+descarte de resíduos.</i>
+
+510
+01:13:00,182 --> 01:13:01,376
+WALL-E!
+
+511
+01:13:07,490 --> 01:13:08,718
+Contaminador externo.
+
+512
+01:13:44,125 --> 01:13:45,319
+WALL-E.
+
+513
+01:14:14,455 --> 01:14:15,854
+Tudo limpo.
+Tudo limpo.
+
+514
+01:14:21,195 --> 01:14:23,129
+WALL-E.
+
+515
+01:14:25,699 --> 01:14:26,723
+M-O.
+
+516
+01:14:30,336 --> 01:14:32,668
+- M-O?
+- M-O.
+
+517
+01:14:34,340 --> 01:14:35,364
+M-O.
+
+518
+01:14:45,852 --> 01:14:48,582
+Diretriz.
+
+519
+01:15:03,034 --> 01:15:04,501
+Diretriz.
+
+520
+01:15:20,652 --> 01:15:22,051
+Terra.
+
+521
+01:15:24,589 --> 01:15:25,886
+Terra.
+
+522
+01:15:29,161 --> 01:15:32,460
+- Terra.
+- Terra.
+
+523
+01:15:38,669 --> 01:15:40,227
+Terra?
+Terra!
+
+524
+01:15:42,139 --> 01:15:43,902
+- M-O.
+- WALL-E!
+
+525
+01:16:02,927 --> 01:16:04,053
+Errado.
+
+526
+01:16:18,274 --> 01:16:19,866
+Aguardem, por favor.
+Estamos tendo...
+
+527
+01:16:20,443 --> 01:16:21,410
+EVA!
+
+528
+01:16:21,511 --> 01:16:22,500
+Opa.
+
+529
+01:16:22,612 --> 01:16:24,671
+<i>Cuidado.
+Robôs perigosos.</i>
+
+530
+01:16:36,826 --> 01:16:38,418
+Combina com você.
+
+531
+01:16:43,799 --> 01:16:44,766
+Livre.
+
+532
+01:16:50,672 --> 01:16:52,833
+<i>Cuidado.
+Robôs perigosos.</i>
+
+533
+01:16:54,076 --> 01:16:56,374
+<i>Cuidado.
+Robôs perigosos.</i>
+
+534
+01:16:57,646 --> 01:16:59,910
+<i>- Não é possível.
+- Cuidado. Robôs perigosos.</i>
+
+535
+01:17:11,827 --> 01:17:13,590
+Auto! Auto!
+
+536
+01:17:13,695 --> 01:17:15,559
+Motim. Motim.
+
+537
+01:17:16,864 --> 01:17:18,627
+Timão estúpido.
+
+538
+01:17:18,733 --> 01:17:20,963
+<i>Cuidado.
+Robôs perigosos.</i>
+
+539
+01:17:21,369 --> 01:17:23,963
+<i>Cuidado.
+Robôs perigosos.</i>
+
+540
+01:17:24,071 --> 01:17:26,039
+<i>Cuidado.
+Robôs perigosos.</i>
+
+541
+01:17:26,140 --> 01:17:27,107
+A planta!
+
+542
+01:17:31,379 --> 01:17:33,347
+Vamos ver quem está incapacitado agora.
+
+543
+01:17:39,353 --> 01:17:41,821
+<i>Testando, testando.
+Isso está ligado?</i>
+
+544
+01:17:42,957 --> 01:17:47,326
+<i>Aqui é o capitão.
+Estou preso na minha cabine.</i>
+
+545
+01:17:47,428 --> 01:17:50,919
+<i>EVA, WALL-E,
+tragam a planta à área da piscina.</i>
+
+546
+01:17:51,798 --> 01:17:54,426
+<i>Terei ativado o detector-holográfico.
+Depressa.</i>
+
+547
+01:17:54,534 --> 01:17:57,230
+<i>- Auto deve corta a comunicação...
+- Parados.</i>
+
+548
+01:18:00,540 --> 01:18:01,632
+Parados.
+
+549
+01:18:02,075 --> 01:18:03,269
+Minha nossa.
+
+550
+01:18:04,778 --> 01:18:05,904
+Livre.
+
+551
+01:18:10,984 --> 01:18:11,973
+Parados, parados.
+
+552
+01:18:20,660 --> 01:18:22,991
+<i>- Olhe o que tenho aqui, Auto.
+- Não é possível.</i>
+
+553
+01:18:23,128 --> 01:18:26,655
+Isso mesmo.
+A planta.
+
+554
+01:18:26,765 --> 01:18:29,495
+<i>Você a quer?
+Venha pegá-la, olhudo.</i>
+
+555
+01:18:30,436 --> 01:18:31,425
+Não.
+
+556
+01:18:35,274 --> 01:18:38,209
+Capitão? Capitão?
+
+557
+01:18:42,181 --> 01:18:43,341
+Me solta.
+
+558
+01:18:44,249 --> 01:18:46,308
+- Me solta.
+- Muito pesado pra você?
+
+559
+01:18:48,887 --> 01:18:49,854
+Me larga.
+
+560
+01:18:49,955 --> 01:18:51,616
+Não vai fugir de mim, zarolho.
+
+561
+01:18:51,724 --> 01:18:53,692
+- Me larga.
+- Isso é o que tem de melhor?
+
+562
+01:19:07,872 --> 01:19:08,930
+Parados.
+
+563
+01:19:12,744 --> 01:19:14,507
+- Isso. Mais perto.
+- Desista e se entregue.
+
+564
+01:19:14,612 --> 01:19:16,546
+- Não é bom.
+- Consegui.
+
+565
+01:19:53,283 --> 01:19:56,275
+Permaneçam calmos.
+Permaneçam calmos.
+
+566
+01:20:06,762 --> 01:20:09,822
+<i>Senhoras e senhores,
+aqui fala o capitão.</i>
+
+567
+01:20:09,932 --> 01:20:13,561
+<i>Estamos com problemas
+no piloto automático.</i>
+
+568
+01:20:14,437 --> 01:20:15,404
+<i>Por favor, permaneçam calmos.</i>
+
+569
+01:20:23,312 --> 01:20:24,472
+Chega.
+
+570
+01:20:30,119 --> 01:20:31,677
+O que é isso?
+John?
+
+571
+01:20:51,105 --> 01:20:52,504
+Não! Não, não, não!
+
+572
+01:20:58,613 --> 01:20:59,875
+Te peguei!
+
+573
+01:21:03,485 --> 01:21:05,885
+John, prepare-se para
+agarrar algumas crianças!
+
+574
+01:21:20,133 --> 01:21:21,191
+Cuidado!
+
+575
+01:21:40,554 --> 01:21:41,542
+Não.
+
+576
+01:21:47,293 --> 01:21:48,692
+WALL-E!
+
+577
+01:21:58,804 --> 01:21:59,793
+Não!
+
+578
+01:22:05,011 --> 01:22:05,978
+Ah, não!
+
+579
+01:22:30,902 --> 01:22:31,960
+Auto?
+
+580
+01:22:36,975 --> 01:22:38,135
+WALL-E!
+
+581
+01:22:47,852 --> 01:22:51,054
+Auto, está afastado do serviço.
+
+582
+01:22:52,256 --> 01:22:54,383
+Não.
+
+583
+01:23:03,901 --> 01:23:06,836
+Planta!
+Planta!
+
+584
+01:23:16,080 --> 01:23:17,172
+Contaminador externo.
+
+585
+01:23:18,582 --> 01:23:20,277
+- Planta!
+- EVA!
+
+586
+01:23:33,796 --> 01:23:35,661
+<i>Origem da planta verificada.</i>
+
+587
+01:23:42,705 --> 01:23:43,694
+WALL-E.
+
+588
+01:23:43,806 --> 01:23:45,569
+<i>Rota ajustada para a Terra.</i>
+
+589
+01:23:46,576 --> 01:23:49,306
+<i>Dez segundo para o hiper-salto.
+Nove...</i>
+
+590
+01:23:49,412 --> 01:23:51,073
+<i>- Não.
+- ...oito...</i>
+
+591
+01:23:51,180 --> 01:23:54,581
+<i>- WALL-E!
+- ...sete, seis, cinco, quatro...</i>
+
+592
+01:23:54,684 --> 01:23:56,173
+Ah, não.
+WALL-E.
+
+593
+01:23:56,284 --> 01:24:00,186
+<i>...três, dois, um, zero.</i>
+
+594
+01:24:08,430 --> 01:24:10,523
+WALL-E!
+
+595
+01:25:36,081 --> 01:25:37,048
+WALL-E.
+
+596
+01:25:39,384 --> 01:25:40,510
+EVA!
+
+597
+01:26:33,354 --> 01:26:36,850
+NÍVEL DA BATERIA SOLAR
+
+598
+01:26:46,783 --> 01:26:47,943
+WALL-E.
+
+599
+01:26:57,427 --> 01:26:58,894
+EVA.
+
+600
+01:27:09,139 --> 01:27:10,299
+WALL-E?
+
+601
+01:27:19,148 --> 01:27:23,414
+<i>Ponha suas roupas de festa
+quando sentir vontade</i>
+
+602
+01:27:26,455 --> 01:27:27,683
+WALL-E?
+
+603
+01:27:51,012 --> 01:27:52,172
+WALL-E.
+
+604
+01:27:52,780 --> 01:27:54,270
+WALL-E!
+
+605
+01:29:05,952 --> 01:29:08,716
+- EVA?
+- WALL-E?
+
+606
+01:29:12,959 --> 01:29:13,983
+EVA!
+
+607
+01:29:16,595 --> 01:29:21,623
+<i>E é isso</i>
+
+608
+01:29:21,734 --> 01:29:26,433
+<i>que é o amor</i>
+
+609
+01:29:27,873 --> 01:29:30,602
+Tá brincando!
+
+610
+01:29:30,709 --> 01:29:32,472
+Vão, vão, vão.
+Vão, vão.
+
+611
+01:29:32,978 --> 01:29:36,744
+<i>E vamos recordar
+Quando o tempo acabar</i>
+
+612
+01:29:36,848 --> 01:29:38,816
+Isto é chamado de cultivo!
+
+613
+01:29:38,917 --> 01:29:41,477
+Vocês, crianças, poderão cultivar
+todos os tipos de plantas.
+
+614
+01:29:41,586 --> 01:29:43,850
+Plantas de legumes.
+Plantas de pizza!
+
+615
+01:29:45,090 --> 01:29:47,058
+É bom estar em casa!
+
+616
+01:29:47,144 --> 01:29:53,140
+<i>Foi preciso só um instante</i>
+
+617
+01:29:53,951 --> 01:29:58,684
+<i>para ser amado</i>
+
+618
+01:29:59,056 --> 01:30:04,551
+<i>uma vida</i>
+
+619
+01:30:05,496 --> 01:30:11,628
+<i>inteira</i>
+
+620
+01:30:12,000 --> 01:30:15,133
+WWW.WOLVERDONFILMES.COM - BY JefePsb
+
