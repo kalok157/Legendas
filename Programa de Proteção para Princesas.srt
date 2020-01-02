@@ -1,0 +1,5045 @@
+1
+00:00:06,902 --> 00:00:07,902
+<i>Sim!</i>
+
+2
+00:00:11,106 --> 00:00:13,666
+<i>Faça o que você quer fazer</i>
+
+3
+00:00:13,666 --> 00:00:15,710
+<i>Seja quem você quer ser</i>
+
+4
+00:00:15,710 --> 00:00:18,337
+<i>Liberdade não tem mistério</i>
+
+5
+00:00:19,114 --> 00:00:21,605
+<i>Diga o que você quer dizer</i>
+
+6
+00:00:21,605 --> 00:00:23,674
+<i>Amanhã é outro dia</i>
+
+7
+00:00:23,674 --> 00:00:26,243
+<i>Mas aqui estão as novidades</i>
+
+8
+00:00:26,922 --> 00:00:28,981
+<i>Ninguém pode parar você</i>
+
+9
+00:00:28,981 --> 00:00:31,082
+<i>Faça o que você quer fazer</i>
+
+10
+00:00:33,462 --> 00:00:34,462
+<i>Sim!</i>
+
+11
+00:00:37,599 --> 00:00:38,599
+<i>Sim!</i>
+
+12
+00:00:47,075 --> 00:00:48,736
+Ei, você...
+
+13
+00:00:50,379 --> 00:00:51,846
+Oi, Donny.
+
+14
+00:00:51,846 --> 00:00:53,380
+Ei...
+
+15
+00:00:55,050 --> 00:00:56,244
+Carter.
+
+16
+00:00:56,244 --> 00:00:58,650
+Certo. Quanto?
+
+17
+00:00:59,621 --> 00:01:02,818
+Oh, não, não, não. Sem cobranças.
+Acordo é acordo.
+
+18
+00:01:03,959 --> 00:01:07,622
+Iscas grátis para nunca mais ter
+que pegar o ônibus.
+
+19
+00:01:07,622 --> 00:01:08,958
+Ótimo.
+
+20
+00:01:17,205 --> 00:01:19,833
+-Carter, posso falar com você um segundo?
+-Sim.
+
+21
+00:01:19,833 --> 00:01:22,001
+Então, ele já te convidou para
+aquele negócio de baile?
+
+22
+00:01:22,001 --> 00:01:24,341
+Pai! Não me envergonhe.
+
+23
+00:01:24,341 --> 00:01:28,042
+Sou seu pai. É o meu trabalho.
+Venha direto para casa depois da escola.
+
+24
+00:01:28,042 --> 00:01:29,344
+Temos mundo trabalho por aqui.
+
+25
+00:01:29,344 --> 00:01:30,442
+Sim.
+
+26
+00:01:37,259 --> 00:01:38,783
+O que você está fazendo aqui?
+
+27
+00:01:38,783 --> 00:01:41,886
+Donny está nos dando carona até
+eu tirar a carteira. Não é fofo?
+
+28
+00:01:41,886 --> 00:01:45,160
+Isso é fofo. Não tem lugar para mim.
+
+29
+00:01:45,160 --> 00:01:47,701
+Claro que tem. Venha, suba aí.
+
+30
+00:01:48,403 --> 00:01:52,134
+Não, ela está certa. Brokie já amassou
+a minha roupa para depois do almoço.
+
+31
+00:01:52,134 --> 00:01:53,606
+Não, não fiz isso!
+
+32
+00:01:53,606 --> 00:01:58,135
+Chelsea, isso é o colegial, não Vegas.
+Não precisa mudar de roupa.
+
+33
+00:01:58,135 --> 00:01:59,475
+Certo.
+
+34
+00:02:00,382 --> 00:02:01,747
+Mas você poderia pensar nisso.
+
+35
+00:02:06,555 --> 00:02:09,615
+Desculpe, Carter.
+Ei, obrigado pelas iscas.
+
+36
+00:02:10,792 --> 00:02:12,282
+-Até logo.
+-Tchau.
+
+37
+00:02:12,282 --> 00:02:14,693
+<i>Faça o que você quer fazer</i>
+
+38
+00:02:14,693 --> 00:02:16,731
+<i>Seja o que você quer ser</i>
+
+39
+00:02:16,731 --> 00:02:19,562
+<i>Liberdade não tem mistério</i>
+
+40
+00:02:20,168 --> 00:02:22,602
+<i>Diga o que você quer dizer</i>
+
+41
+00:02:22,602 --> 00:02:24,764
+<i>Amanhã é outro dia</i>
+
+42
+00:02:26,108 --> 00:02:29,236
+Eu não suporto elas.
+Elas são tão princesas.
+
+43
+00:02:30,078 --> 00:02:32,569
+Você diz como se fosse algo ruim.
+
+44
+00:02:32,569 --> 00:02:35,810
+Carter, elas são adolescentes.
+Elas devem estar com ciúmes.
+
+45
+00:02:35,810 --> 00:02:38,114
+Sim, eu tenho certeza que não estão.
+
+46
+00:02:41,890 --> 00:02:44,757
+É o Mason. Sim, senhor.
+
+47
+00:02:46,261 --> 00:02:47,558
+Não, senhor.
+
+48
+00:02:49,631 --> 00:02:51,064
+Chego logo.
+
+49
+00:02:53,201 --> 00:02:54,429
+Você vai sair de novo?
+
+50
+00:02:54,429 --> 00:02:58,564
+Dois dias, no máximo. Não é grande coisa.
+É apenas uma operação de rotina.
+
+51
+00:02:58,564 --> 00:03:01,370
+Sim, é o que você sempre diz.
+
+52
+00:03:03,678 --> 00:03:06,340
+Tome cuidado. Certo?
+
+53
+00:03:06,340 --> 00:03:07,780
+Sempre.
+
+54
+00:03:22,197 --> 00:03:24,062
+Você e eu, amiguinha.
+
+55
+00:03:24,062 --> 00:03:25,759
+Você e eu, pai.
+
+56
+00:03:48,156 --> 00:03:54,823
+Sua Alteza Real,
+Rosalinda Marie Montoya Fiore.
+
+57
+00:03:54,823 --> 00:03:58,423
+<i>Princesa da Costa Luna.</i>
+
+58
+00:03:58,423 --> 00:04:05,406
+E você está andando e andando como
+se todos estivessem recebendo você.
+
+59
+00:04:06,241 --> 00:04:09,369
+Dimitri, minha coroação foi o mês passado.
+
+60
+00:04:09,369 --> 00:04:11,435
+-Porque temos que praticar agora?
+-Ah!
+
+61
+00:04:11,435 --> 00:04:15,778
+Ensaiamos tanto que tudo sairá perfeito.
+
+62
+00:04:16,651 --> 00:04:22,487
+<i>Princesa, que vestido de coroação
+lindo que você está usando.</i>
+
+63
+00:04:23,325 --> 00:04:26,590
+Quem, devo perguntar, desenhou ele?
+
+64
+00:04:26,590 --> 00:04:28,526
+Você, Sr. Elegante.
+
+65
+00:04:28,526 --> 00:04:31,964
+-Eu fiz. Eu sou brilhante, não?
+-Sim.
+
+66
+00:04:32,901 --> 00:04:35,301
+Obrigada por vir ajudar Rosalinda.
+
+67
+00:04:35,301 --> 00:04:37,338
+Agora que meu marido faleceu,
+
+68
+00:04:37,338 --> 00:04:40,169
+somente ela pode se tornar
+rainha da Costa Luna.
+
+69
+00:04:40,169 --> 00:04:42,836
+Mas isso é demais para alguém tão jovem.
+
+70
+00:04:42,836 --> 00:04:46,244
+E eu tenho medo que o General Kane
+tire vantagem disso.
+
+71
+00:04:46,244 --> 00:04:50,182
+Não, eu estarei lá, Sophia.
+Eu a protegerei como se fosse minha.
+
+72
+00:04:51,052 --> 00:04:53,850
+Eu sei que vai, Major Mason.
+Eu sei que vai.
+
+73
+00:04:54,990 --> 00:04:56,958
+Parece a sua música.
+
+74
+00:05:09,538 --> 00:05:12,666
+Vire-se para eles, Rosalinda.
+
+75
+00:05:12,666 --> 00:05:15,574
+Honrados convidados, família, amigos
+
+76
+00:05:15,574 --> 00:05:20,843
+<i>Eu lhes apresento Princesa
+Rosalinda Marie Montoya Fiore,</i>
+
+77
+00:05:20,843 --> 00:05:23,350
+herdeira do trono de Costa Luna.
+
+78
+00:05:23,350 --> 00:05:26,717
+Ela está disposta a ser sua rainha.
+
+79
+00:05:26,717 --> 00:05:33,489
+Se alguém tem alguma razão para
+interferir, diga agora para que seja ouvido.
+
+80
+00:05:37,432 --> 00:05:38,990
+Eu interfiro.
+
+81
+00:05:42,137 --> 00:05:45,038
+<i>A Princesa é muito jovem para ser rainha.</i>
+
+82
+00:05:45,038 --> 00:05:48,303
+Costa Luna e Costa Estrella
+são dois países minúsculos
+
+83
+00:05:48,303 --> 00:05:52,506
+que deveriam se unir e ficar juntos contra o mundo.
+
+84
+00:05:52,506 --> 00:05:57,746
+Portanto, para o bem dos dois países, eu,
+General Magnus Kane,
+
+85
+00:05:57,746 --> 00:06:02,654
+me declaro: O Presidente
+da República das Costas.
+
+86
+00:06:03,925 --> 00:06:05,392
+Fulminem eles!
+
+87
+00:06:19,541 --> 00:06:20,735
+-O que?
+-Está na hora.
+
+88
+00:06:20,735 --> 00:06:23,277
+Vá com o Major Mason. Vá!
+
+89
+00:06:27,082 --> 00:06:29,482
+Depressa, minha rainha,
+temos que ir agora.
+
+90
+00:06:36,791 --> 00:06:38,156
+Quem é você?
+Onde está me levando?
+
+91
+00:06:38,156 --> 00:06:40,217
+Estou aqui para proteger você,
+mas você tem que confiar em mim.
+
+92
+00:06:40,217 --> 00:06:41,455
+Mas e minha mãe?
+
+93
+00:06:41,455 --> 00:06:44,430
+Ela vai nos encontrar,
+mas temos que nos apressar.
+
+94
+00:06:53,608 --> 00:06:55,940
+-Você está bem, Mama?
+-Sim, sim, querida. Sim.
+
+95
+00:06:55,940 --> 00:06:59,003
+Eu sabia que o General Kane
+iria tentar algo desse tipo,
+
+96
+00:06:59,003 --> 00:07:00,775
+então eu criei um plano para proteger você.
+
+97
+00:07:00,775 --> 00:07:03,943
+Você tem que confiar no Major Mason.
+Você tem que fazer tudo o que ele disser.
+
+98
+00:07:03,943 --> 00:07:05,281
+Você promete que fará isso?
+
+99
+00:07:05,281 --> 00:07:06,877
+-Sim, Mama, eu prometo.
+-Precisamos ir.
+
+100
+00:07:06,877 --> 00:07:08,923
+-Certo. Vamos.
+-Mama, onde estamos indo?
+
+101
+00:07:08,923 --> 00:07:11,584
+Não, não "nós," querida. Você.
+
+102
+00:07:11,584 --> 00:07:13,719
+O General vai dizer que você
+abandonou o país,
+
+103
+00:07:13,719 --> 00:07:16,559
+mas eu tenho que ficar, para que saibam
+que você voltará quando for seguro.
+
+104
+00:07:16,559 --> 00:07:18,531
+Não! Não sem você.
+
+105
+00:07:21,069 --> 00:07:22,559
+Aqui.
+
+106
+00:07:22,559 --> 00:07:27,131
+Não importa o que aconteça,
+nunca esqueça que é uma princesa.
+
+107
+00:07:32,313 --> 00:07:36,181
+Não se preocupe, minha bela rainha,
+nós estaremos juntas em breve.
+
+108
+00:07:41,890 --> 00:07:43,949
+Temos que ir agora. Vamos.
+
+109
+00:08:02,744 --> 00:08:04,541
+Rápido! Entre!
+
+110
+00:08:09,551 --> 00:08:10,609
+Vai!
+
+111
+00:08:44,385 --> 00:08:46,615
+Você nunca a encontrará.
+
+112
+00:08:46,615 --> 00:08:50,590
+E enquanto ela permaneça livre,
+haverá esperança na Costa Luna
+
+113
+00:08:50,590 --> 00:08:52,717
+Concordo plenamente.
+
+114
+00:08:52,717 --> 00:08:57,993
+Mas a Princesa é apenas uma garota, madame.
+Ela vai manter contato com a mãe.
+
+115
+00:08:57,993 --> 00:09:01,001
+E quando fizer isso,
+Eu a trarei de volta a Costa Luna,
+
+116
+00:09:01,001 --> 00:09:04,971
+Onde ela vai apodrecer com a mãe
+em uma pequena cela suja.
+
+117
+00:09:04,971 --> 00:09:09,908
+Você duas se tornarão um símbolo trágico
+de futilidade para aqueles que me desafiam.
+
+118
+00:09:09,908 --> 00:09:11,570
+Levem ela!
+
+119
+00:09:45,180 --> 00:09:47,011
+Que lugar é esse?
+
+120
+00:09:47,011 --> 00:09:48,605
+Você verá.
+
+121
+00:10:01,930 --> 00:10:03,522
+<i>Abrindo a porta.</i>
+
+122
+00:10:14,342 --> 00:10:16,037
+Fechando a porta.
+
+123
+00:10:21,182 --> 00:10:25,346
+O que... Onde estou?
+Isso é um tipo de prisão?
+
+124
+00:10:25,346 --> 00:10:28,184
+<i>Não é prisão, é proteção.</i>
+
+125
+00:10:28,184 --> 00:10:30,588
+<i>Princesa Rosalinda
+Marie Montoya Fiore,</i>
+
+126
+00:10:30,588 --> 00:10:32,592
+<i>você está sob custódia</i>
+
+127
+00:10:32,592 --> 00:10:37,427
+<i>do Programa Internacional de Proteção
+as Princesas, o PPP.</i>
+
+128
+00:10:37,427 --> 00:10:38,760
+Nunca ouvi falar nisso.
+
+129
+00:10:38,760 --> 00:10:42,792
+<i>Ninguém nunca ouviu falar disso até
+que precise. Bom trabalho, Major.</i>
+
+130
+00:10:42,792 --> 00:10:43,929
+Obrigado, Diretora.
+
+131
+00:10:43,929 --> 00:10:45,870
+<i>Nível três. Segurança.</i>
+
+132
+00:10:47,342 --> 00:10:49,776
+Você ficará segura agora, Princesa.
+
+133
+00:10:54,983 --> 00:10:56,450
+Quanto tempo ficarei aqui?
+
+134
+00:10:56,450 --> 00:10:58,382
+<i>Até que esteja pronta para o nível quatro.</i>
+
+135
+00:10:58,382 --> 00:11:01,115
+Nível quatro? Qual é o nível um?
+
+136
+00:11:01,115 --> 00:11:04,249
+<i>Extração.
+Foi o que te trouxe aqui.</i>
+
+137
+00:11:04,249 --> 00:11:06,452
+-Nível dois?
+- Transição.
+
+138
+00:11:06,452 --> 00:11:10,019
+<i>-Transição para onde?
+-Nível três.</i>
+
+139
+00:11:10,019 --> 00:11:14,228
+<i>Por que você não entra?
+Eu te explicarei tudo.</i>
+
+140
+00:11:21,075 --> 00:11:23,600
+Bem-vinda, Rosalinda,
+ao núcleo operacional
+
+141
+00:11:23,600 --> 00:11:25,771
+do Programa de Proteção as Princesas,
+
+142
+00:11:25,771 --> 00:11:30,716
+agência super secreta criada pelas
+famílias do mundo Real.
+
+143
+00:11:30,716 --> 00:11:34,619
+Estamos ativamente protegendo 29 princesas,
+
+144
+00:11:34,619 --> 00:11:38,022
+todas as quais têm sido ameaçadas
+de uma maneira ou de outra.
+
+145
+00:11:39,394 --> 00:11:41,692
+-Chloe, me permite?
+-Claro, Diretora.
+
+146
+00:11:41,692 --> 00:11:43,924
+Essa é a Princesa Chandra.
+
+147
+00:11:43,924 --> 00:11:48,935
+Em janeiro passado, Major Manson a resgatou
+de um golpe politicamente-motivado.
+
+148
+00:11:48,935 --> 00:11:52,097
+Nós a colocamos em um lugar onde
+ninguém pode encontrá-la.
+
+149
+00:11:55,076 --> 00:11:59,137
+Vamos apenas dizer que ela está um pouquinho
+mais perto do norte do que antes.
+
+150
+00:11:59,137 --> 00:12:02,444
+-Ela está congelando!
+-Provavelmente. Mas ela está salva.
+
+151
+00:12:03,251 --> 00:12:05,617
+Vamos dar uma caminhada, certo?
+
+152
+00:12:09,257 --> 00:12:10,417
+Por favor.
+
+153
+00:12:12,026 --> 00:12:13,550
+Chloe, relatório.
+
+154
+00:12:13,550 --> 00:12:16,791
+"Princesa 383 teve sucesso na extração.
+
+155
+00:12:16,791 --> 00:12:19,560
+"Ela chega em algumas horas
+
+156
+00:12:19,560 --> 00:12:24,196
+"Princesa 299 ainda está rejeitando todas
+as tentativas de transformação.
+
+157
+00:12:24,196 --> 00:12:29,505
+"E a princesa 107 está precisando do nosso serviço."
+
+158
+00:12:38,186 --> 00:12:39,813
+E eu?
+Para onde estão me mandando?
+
+159
+00:12:39,813 --> 00:12:44,654
+Nenhum lugar ainda. Primeiro você tem que ir
+ao nível três, transformação.
+
+160
+00:12:44,654 --> 00:12:49,425
+Primeiro, nós começamos com o cabelo e
+depois com as roupas,
+
+161
+00:12:49,425 --> 00:12:52,694
+até que você não seja reconhecida como princesa.
+
+162
+00:13:01,709 --> 00:13:03,142
+Não! Pare!
+
+163
+00:13:05,813 --> 00:13:08,179
+Eu não conheço nenhum de vocês.
+
+164
+00:13:08,179 --> 00:13:12,083
+Eu quero falar com o Major Mason.
+Eu só confio no Major Mason.
+
+165
+00:13:30,438 --> 00:13:31,871
+Está tudo bem?
+
+166
+00:13:31,871 --> 00:13:34,032
+Me leve de volta para o meu país.
+
+167
+00:13:34,032 --> 00:13:37,305
+Princesa, me desculpe, mas o General Kane
+tomou o controle no seu país
+
+168
+00:13:37,305 --> 00:13:39,209
+e assumiu o comando do seu governo.
+
+169
+00:13:39,209 --> 00:13:41,475
+-Mas eu tenho que voltar.
+-E você vai.
+
+170
+00:13:41,475 --> 00:13:43,847
+Assim que encontrarmos um modo
+legal de tirá-lo.
+
+171
+00:13:43,847 --> 00:13:47,251
+Mas por enquanto,
+você tem que nos deixar protegê-la.
+
+172
+00:13:47,251 --> 00:13:49,551
+Mas e a minha mãe?
+Quem está protegendo minha mãe?
+
+173
+00:13:49,551 --> 00:13:51,819
+Você. Desde que você fique na
+Proteção de Princesas,
+
+174
+00:13:51,819 --> 00:13:54,418
+sua mãe estará segura. Por favor.
+
+175
+00:13:56,597 --> 00:13:59,157
+General Kane está esperando você
+contatar sua mãe
+
+176
+00:13:59,157 --> 00:14:01,565
+então ele saberá onde você está.
+
+177
+00:14:01,565 --> 00:14:02,728
+E se ele me encontrar?
+
+178
+00:14:02,728 --> 00:14:05,534
+Ele fará de você um exemplo
+lhe mandando para a prisão
+
+179
+00:14:05,534 --> 00:14:07,005
+ou para um trabalho na fazenda.
+
+180
+00:14:07,005 --> 00:14:09,543
+E Costa Luna se tornará parte de
+seu reino pessoal,
+
+181
+00:14:09,543 --> 00:14:13,046
+e a família real não será nada
+além de uma lembrança.
+
+182
+00:14:14,816 --> 00:14:19,913
+Primeiro, se você se importa com o seu
+país e com a segurança de sua mãe,
+
+183
+00:14:19,913 --> 00:14:22,649
+ninguém pode descobrir quem você realmente é.
+
+184
+00:14:30,765 --> 00:14:32,323
+Você precisa prosseguir.
+
+185
+00:14:45,713 --> 00:14:47,374
+Bom trabalho.
+
+186
+00:14:47,374 --> 00:14:50,076
+A partir de agora,
+você não é mais uma princesa.
+
+187
+00:14:50,076 --> 00:14:54,247
+Agora você é Rosie Gonzalez,
+uma adolescente americana normal.
+
+188
+00:14:54,247 --> 00:14:55,721
+O que acontece agora?
+
+189
+00:14:55,721 --> 00:14:59,419
+-Nível quatro. Relocalização.
+-Onde?
+
+190
+00:14:59,419 --> 00:15:01,359
+Num lugar onde o
+General Kane nunca
+
+191
+00:15:01,359 --> 00:15:04,660
+irá procurar a Princesa da Costa Luna.
+
+192
+00:15:07,468 --> 00:15:09,936
+Bem-vinda à Louisiana, Rosie.
+
+193
+00:15:43,704 --> 00:15:45,103
+Bem aqui.
+
+194
+00:15:56,050 --> 00:15:59,315
+Bem-vinda ao seu novo lar.
+Por um tempo, pelo menos.
+
+195
+00:16:00,154 --> 00:16:02,179
+Aqui, vou abrir a porta.
+
+196
+00:16:14,335 --> 00:16:16,166
+Vamos lá, querida.
+
+197
+00:16:17,972 --> 00:16:19,735
+Obrigada, Helen.
+
+198
+00:16:19,735 --> 00:16:22,640
+Ei, parece que alguém voltou para casa.
+
+199
+00:16:24,245 --> 00:16:25,940
+Te vejo amanhã!
+
+200
+00:16:34,555 --> 00:16:35,886
+Pai?
+
+201
+00:16:43,197 --> 00:16:44,459
+Pai?
+
+202
+00:16:52,373 --> 00:16:53,635
+-Olá.
+-Ei.
+
+203
+00:16:59,614 --> 00:17:02,412
+-Quem é você?
+-Rosa... Rosie.
+
+204
+00:17:03,117 --> 00:17:05,017
+Tem certeza?
+Por que não parece que tem.
+
+205
+00:17:05,017 --> 00:17:06,815
+Rosie. Tenho certeza.
+
+206
+00:17:07,788 --> 00:17:09,585
+Certo. Então, o que está fazendo aqui?
+
+207
+00:17:09,585 --> 00:17:12,785
+-Oh, Major Mason me deu este quarto.
+-Ele te deu, huh?
+
+208
+00:17:12,785 --> 00:17:15,693
+-Sim, ele tem sido muito amável.
+-Amável?
+
+209
+00:17:15,693 --> 00:17:17,628
+Claro, a suíte é muito menor do que
+estou acostumada,
+
+210
+00:17:17,628 --> 00:17:20,826
+mas vai parecer bem maior agora
+que eu removi aquela cama extra.
+
+211
+00:17:20,826 --> 00:17:24,496
+Não é extra, é minha.
+Me dá licença um segundo?
+
+212
+00:17:24,496 --> 00:17:26,540
+Sim. Você tem licença.
+
+213
+00:17:43,824 --> 00:17:44,813
+Ei, amiguinha!
+
+214
+00:17:44,813 --> 00:17:46,826
+Não me chame de amiguinha.
+
+215
+00:17:47,928 --> 00:17:49,589
+Você... Você conheceu a Rosie?
+
+216
+00:17:50,498 --> 00:17:53,990
+Sim. Quem é ela e porque ela
+está no meu quarto?
+
+217
+00:17:53,990 --> 00:17:58,198
+Bem,eu tive que trazê-la.
+A diretora não me deu outra escolha.
+
+218
+00:17:58,506 --> 00:18:00,371
+Certo. Só que, sabe, um pai normal
+
+219
+00:18:00,371 --> 00:18:02,500
+iria para um país estrangeiro
+em uma missão secreta
+
+220
+00:18:02,500 --> 00:18:06,012
+e traria para sua filha uma
+camiseta, não uma pessoa.
+
+221
+00:18:11,819 --> 00:18:14,014
+Você deveria ter me avisado.
+
+222
+00:18:14,922 --> 00:18:18,050
+Carter, eu não tive escolha.
+Ela não confia em ninguém além de mim.
+
+223
+00:18:18,050 --> 00:18:20,116
+Sim, eu sei como é.
+
+224
+00:18:20,116 --> 00:18:23,891
+Ei, o que eu faço é complicado.
+
+225
+00:18:24,832 --> 00:18:27,198
+Mas se eu tivesse pensado por um segundo
+que isso machucaria nossa família...
+
+226
+00:18:27,198 --> 00:18:28,895
+Pai, eu entendi.
+
+227
+00:18:30,304 --> 00:18:32,738
+-Então, você está dentro?
+-Eu tenho escolha?
+
+228
+00:18:33,441 --> 00:18:36,239
+Ótimo, por que eu vou precisar da sua ajuda.
+
+229
+00:18:36,239 --> 00:18:38,505
+Ela precisa ficar aqui por enquanto, irreconhecível.
+
+230
+00:18:38,505 --> 00:18:40,877
+E para que isso aconteça
+
+231
+00:18:40,877 --> 00:18:43,075
+ela tem que se misturar com
+uma adolescente americana normal.
+
+232
+00:18:43,075 --> 00:18:46,813
+Sim, não, isso não vai acontecer, pai.
+Ela é uma princesa.
+
+233
+00:18:48,356 --> 00:18:51,416
+-Legal. Quem eu digo que ela é?
+-Sua prima.
+
+234
+00:18:53,060 --> 00:18:56,120
+Carter, obrigado.
+Agora, se fizermos nosso trabalho direito,
+
+235
+00:18:56,120 --> 00:18:59,132
+ela vai embora daqui e volta para
+o seu país bem rápido.
+
+236
+00:18:59,132 --> 00:19:03,569
+-Certo. na terça-feira?
+-Será logo. Eu prometo.
+
+237
+00:19:05,139 --> 00:19:07,607
+-Ainda eu e você, amiguinha?
+-Não.
+
+238
+00:19:07,607 --> 00:19:09,472
+-Vamos lá. Vamos lá. Vamos lá.
+-Não. Não. Não.
+
+239
+00:19:09,472 --> 00:19:10,976
+-Está certo? Você vai ir...
+-Não!
+
+240
+00:19:10,976 --> 00:19:12,706
+-...para a água se não disser sim.
+-Me coloque no chão.
+
+241
+00:19:12,706 --> 00:19:14,873
+-Me coloque no chão.
+-Está certo.
+
+242
+00:19:16,617 --> 00:19:19,415
+-Você me deu uma dor de cabeça.
+-Seja legal.
+
+243
+00:19:29,864 --> 00:19:31,923
+Arranjou um lugar para dormir?
+
+244
+00:19:31,923 --> 00:19:37,301
+Olhe, o quarto não é seu. É nosso.
+Nós dividimos.
+
+245
+00:19:37,938 --> 00:19:39,371
+-Dividimos?
+-Dividimos.
+
+246
+00:19:39,371 --> 00:19:42,000
+Eu sei que isso é provavelmente um conceito
+estranho para uma princesa,
+
+247
+00:19:42,000 --> 00:19:45,204
+mas isso significa que você fica de
+um lado do quarto
+
+248
+00:19:45,204 --> 00:19:46,541
+e eu do outro.
+
+249
+00:19:46,541 --> 00:19:48,514
+Então fique no seu lado.
+
+250
+00:19:56,791 --> 00:19:58,520
+Eu não quero esta.
+
+251
+00:19:58,520 --> 00:20:00,082
+Está bem.
+
+252
+00:20:02,329 --> 00:20:05,628
+Eu pensei que princesas tinham roupas
+desenhadas e coisas assim.
+
+253
+00:20:05,628 --> 00:20:08,167
+Bem, ela teve que deixar tudo isso para trás.
+
+254
+00:20:08,167 --> 00:20:12,638
+Mas eu estava pensando que você poderia
+emprestar algumas das suas coisas.
+
+255
+00:20:14,008 --> 00:20:15,999
+Sim, claro. Por que não.
+
+256
+00:20:15,999 --> 00:20:19,534
+Obrigado. Agora, vá tentar de novo.
+
+257
+00:20:20,981 --> 00:20:24,007
+-Eu vou depois deste jogo.
+-Não, agora.
+
+258
+00:20:30,691 --> 00:20:32,955
+E não olhe minhas cartas.
+
+259
+00:20:44,305 --> 00:20:47,866
+Certo, a cozinha está fechando.
+Última chance de comer alguma coisa.
+
+260
+00:20:47,866 --> 00:20:50,240
+Não, obrigada. Eu queria dormir.
+
+261
+00:20:51,011 --> 00:20:52,376
+Certo.
+
+262
+00:20:53,080 --> 00:20:55,548
+Você pode ajudar a me preparar para a cama.
+
+263
+00:20:58,285 --> 00:21:00,378
+-Eu posso?
+-Sim.
+
+264
+00:21:01,422 --> 00:21:04,949
+Eu preciso de uma camisola.
+De preferência seda, de preferência rosa.
+
+265
+00:21:06,460 --> 00:21:09,190
+Seda rosa. Deixe-me ver o que eu tenho.
+
+266
+00:21:13,067 --> 00:21:14,193
+Aqui.
+
+267
+00:21:20,074 --> 00:21:21,098
+Huh?
+
+268
+00:21:21,098 --> 00:21:23,006
+Posso usar o seu banheiro?
+
+269
+00:21:23,006 --> 00:21:25,978
+Sim, é lá em cima. Primeira porta à direita.
+
+270
+00:21:29,817 --> 00:21:31,444
+Certo, que seja.
+
+271
+00:21:41,028 --> 00:21:42,620
+O que houve?
+
+272
+00:21:47,735 --> 00:21:49,600
+Qual é!
+
+273
+00:21:52,373 --> 00:21:54,637
+Não tem lagartos no seu país?
+
+274
+00:21:54,637 --> 00:21:58,474
+Talvez, mas eu nunca os vi.
+É por isso que temos Henry.
+
+275
+00:21:59,346 --> 00:22:01,473
+Você tem um caçador real de lagartos?
+
+276
+00:22:01,473 --> 00:22:04,677
+Sim. E você deveria ter um também.
+
+277
+00:22:05,419 --> 00:22:06,943
+Boa noite.
+
+278
+00:22:11,759 --> 00:22:13,386
+Ela vai ficar bem.
+
+279
+00:22:13,386 --> 00:22:16,327
+Não. Ela vai ter uma dor real.
+
+280
+00:22:34,648 --> 00:22:36,513
+-Bom dia.
+-Ei.
+
+281
+00:22:37,685 --> 00:22:38,982
+Ei.
+
+282
+00:22:44,658 --> 00:22:46,216
+-Suco?
+-Sim.
+
+283
+00:22:47,695 --> 00:22:50,960
+Certo. Aqui está. Café pronto?
+
+284
+00:22:52,633 --> 00:22:53,861
+Bom.
+
+285
+00:22:58,072 --> 00:23:01,132
+Não seja tímida, Rosie.
+Pegue o que parece bom.
+
+286
+00:23:05,045 --> 00:23:07,036
+-Ônibus chegou.
+-Tem certeza de que não quer uma carona?
+
+287
+00:23:07,036 --> 00:23:08,911
+Sim, eu vou ficar bem. Você vem?
+
+288
+00:23:08,911 --> 00:23:12,384
+-Onde estamos indo?
+-Escola. Você tem 16 anos. Você vai para escola.
+
+289
+00:23:13,387 --> 00:23:15,787
+Escola. Claro.
+
+290
+00:23:20,160 --> 00:23:21,525
+Tchau.
+
+291
+00:23:30,270 --> 00:23:32,830
+-Bom -dia, querida.
+-Ei, Helen.
+
+292
+00:23:32,830 --> 00:23:36,865
+-O que é isso agora?
+-É só a minha prima.
+
+293
+00:23:36,865 --> 00:23:39,344
+-Você não contou.
+-Olá.
+
+294
+00:23:39,344 --> 00:23:41,176
+Você não é uma gracinha?
+
+295
+00:23:41,176 --> 00:23:42,340
+Eu sou Rosie.
+
+296
+00:23:42,340 --> 00:23:46,182
+E eu estou atrasada. Vá em frente e
+escolha um lugar o mais rápido possível.
+
+297
+00:24:05,706 --> 00:24:08,368
+<i>Chamada feita.
+Desordenando o sinal.</i>
+
+298
+00:24:08,368 --> 00:24:10,307
+<i>Conexão PPP estabelecida.</i>
+
+299
+00:24:10,307 --> 00:24:13,073
+<i>Aqui é a diretora.
+Qual é o seu relatório da situação?</i>
+
+300
+00:24:13,073 --> 00:24:16,446
+Princesa 379 está em posição.
+Nível quatro completado.
+
+301
+00:24:16,446 --> 00:24:19,611
+<i>-Ela está segura, então?
+-Afirmativo, completamente segura.</i>
+
+302
+00:24:20,854 --> 00:24:24,051
+<i>A garota não pode suportar isso</i>
+
+303
+00:24:24,051 --> 00:24:27,184
+<i>A garota não pode suportar isso</i>
+
+304
+00:24:27,184 --> 00:24:30,924
+<i>A garota não pode suportar isso</i>
+
+305
+00:24:30,924 --> 00:24:32,829
+<i>Poderia ser essa a rainha?</i>
+
+306
+00:24:32,829 --> 00:24:35,095
+Óbvio que não, Ed.
+
+307
+00:24:35,095 --> 00:24:36,796
+Talvez essa seja a rainha.
+
+308
+00:24:36,796 --> 00:24:39,600
+Bem, tecnicamente não. Não ainda.
+
+309
+00:24:39,600 --> 00:24:42,471
+Legal. Honesta. Gosto disso.
+
+310
+00:24:45,112 --> 00:24:46,909
+Eu sou Ed, a propósito. E você é...
+
+311
+00:24:46,909 --> 00:24:48,948
+-Rosie.
+-Rosie.
+
+312
+00:24:48,948 --> 00:24:50,950
+Estou fazendo um documentário.
+
+313
+00:24:50,950 --> 00:24:54,613
+Escute, "O difícil caminho de
+uma humilde camponesa
+
+314
+00:24:54,613 --> 00:24:56,280
+"para se tornar rainha."
+
+315
+00:24:56,280 --> 00:24:58,984
+A rainha do baile?
+O que é esse negócio de baile?
+
+316
+00:24:58,984 --> 00:25:01,459
+Você não...
+Você nunca ouviu falar do baile?
+
+317
+00:25:01,459 --> 00:25:03,359
+Não. Não temos muitas coisas
+de onde eu venho.
+
+318
+00:25:03,359 --> 00:25:05,159
+Mesmo? Onde é?
+
+319
+00:25:05,159 --> 00:25:09,362
+Oh, é... De lowa. Ela é...
+O que você está fazendo?
+
+320
+00:25:09,362 --> 00:25:10,801
+-Estou indo para a escola.
+-Tchau, garotos.
+
+321
+00:25:10,801 --> 00:25:12,930
+Sim, e você supostamente deveria
+agir como uma garota americana normal.
+
+322
+00:25:12,930 --> 00:25:14,234
+Você tem que se encaixar.
+
+323
+00:25:14,234 --> 00:25:16,606
+-Estou tentando.
+-Tente mais.
+
+324
+00:25:21,148 --> 00:25:23,844
+Lá está ela, Princesa Carter.
+
+325
+00:25:23,844 --> 00:25:26,078
+-Sente-se.
+-Mandona, mandona.
+
+326
+00:25:27,187 --> 00:25:28,313
+Sente.
+
+327
+00:25:31,291 --> 00:25:32,849
+Eu gosto de mandonas.
+
+328
+00:25:34,995 --> 00:25:37,623
+Com licença, eu posso ter este acento?
+
+329
+00:25:38,766 --> 00:25:40,529
+Desculpe, eu acho que é propriedade da escola.
+
+330
+00:25:49,126 --> 00:25:52,453
+Sim, claro.
+
+331
+00:25:52,453 --> 00:25:54,444
+Muito obrigada.
+
+332
+00:25:55,849 --> 00:25:57,544
+O que? Ela é linda.
+
+333
+00:26:07,304 --> 00:26:08,631
+<i>Olá, classe.</i>
+
+334
+00:26:08,631 --> 00:26:10,645
+<i>Olá, professora.</i>
+
+335
+00:26:10,959 --> 00:26:12,458
+<i>Olá, como você está hoje?</i>
+
+336
+00:26:14,468 --> 00:26:19,701
+Essa deve ser a nossa nova aluna,
+prima da Carter Mason.
+
+337
+00:26:20,919 --> 00:26:22,616
+<i>Você já estudou francês?</i>
+
+338
+00:26:22,616 --> 00:26:26,396
+<i>Sim, é uma bela língua.</i>
+
+339
+00:26:26,396 --> 00:26:28,147
+<i>Eu falo seis línguas,</i>
+
+340
+00:26:28,147 --> 00:26:33,892
+<i>Inglês, italiano, francês, espanhol, português e japonês.</i>
+
+341
+00:26:33,892 --> 00:26:37,620
+<i>Mas eu prefiro inglês por que sou americana.</i>
+
+342
+00:26:38,015 --> 00:26:42,056
+<i>Você mora nos Estados Unidos, professora?</i>
+
+343
+00:26:42,307 --> 00:26:45,337
+<i>Sim. Obrigada, Rosie.</i>
+
+344
+00:26:52,039 --> 00:26:55,202
+<i>Onde está você, minha princesa?</i>
+
+345
+00:26:56,543 --> 00:26:57,601
+Ah!
+
+346
+00:26:57,601 --> 00:27:03,878
+Sophia. Obrigado por se juntar a mim.
+Tem alguma notícia de Rosalinda?
+
+347
+00:27:03,878 --> 00:27:05,782
+Não. E nunca terá.
+
+348
+00:27:05,782 --> 00:27:09,084
+Não, não, não, não.
+Não devemos ser tão negativos.
+
+349
+00:27:10,090 --> 00:27:15,892
+Talvez...Talvez nós devêssemos ter
+bons pensamentos. Devo começar?
+
+350
+00:27:15,892 --> 00:27:20,457
+Estou imaginando um jovem impetuoso general.
+
+351
+00:27:22,002 --> 00:27:25,267
+E ele está...está sentado em um trono.
+
+352
+00:27:25,267 --> 00:27:29,036
+A realeza observa ele com adoração.
+
+353
+00:27:31,178 --> 00:27:35,638
+E você sabia?
+Coroaram ele como rei!
+
+354
+00:27:36,850 --> 00:27:41,287
+Você nunca será o rei da Costa Luna,
+não enquanto eu estiver viva.
+
+355
+00:27:42,222 --> 00:27:46,056
+Você está estragando meus bons pensamentos.
+Tirem ela daqui.
+
+356
+00:28:05,209 --> 00:28:07,247
+Ei, sem furos!
+
+357
+00:28:07,247 --> 00:28:07,997
+Ei!
+
+358
+00:28:10,183 --> 00:28:11,707
+Final da fila.
+
+359
+00:28:11,707 --> 00:28:15,312
+-Perdão?
+-São as regras. Sem furos.
+
+360
+00:28:16,056 --> 00:28:18,320
+Claro. Então eu não vou furar.
+
+361
+00:28:18,320 --> 00:28:20,758
+Ei, Rosie, venha comigo.
+
+362
+00:28:30,504 --> 00:28:33,132
+Então? Você tem que escolher algo.
+
+363
+00:28:33,132 --> 00:28:34,298
+Oh!
+
+364
+00:28:38,312 --> 00:28:39,973
+Carne misteriosa.
+
+365
+00:28:40,447 --> 00:28:43,712
+Então eu vou querer um desses.
+O que é isso?
+
+366
+00:28:43,712 --> 00:28:45,308
+Um hamburger?
+
+367
+00:28:50,657 --> 00:28:51,715
+Próximo.
+
+368
+00:28:52,326 --> 00:28:55,784
+<i>Estou perdendo algo aqui?</i>
+
+369
+00:28:56,663 --> 00:28:58,722
+<i>Tenho que dizer que os sinais não estão claros</i>
+
+370
+00:28:58,722 --> 00:29:02,166
+Confissão sincera.
+Você vai comer essa coisa nojenta?
+
+371
+00:29:02,166 --> 00:29:05,136
+<i>Quando rio eu provo as lágrimas</i>
+
+372
+00:29:05,136 --> 00:29:09,369
+<i>Às vezes eu queria desaparecer</i>
+
+373
+00:29:09,369 --> 00:29:14,107
+<i>Estou tão confusa, mal entendida</i>
+
+374
+00:29:14,107 --> 00:29:16,012
+<i>Eu não posso ser livre</i>
+
+375
+00:29:16,616 --> 00:29:20,609
+<i>Sou só eu que sinto isso?</i>
+
+376
+00:29:20,609 --> 00:29:25,181
+<i>Tentando estar onde estou
+Tão fora do lugar</i>
+
+377
+00:29:25,181 --> 00:29:29,490
+<i>Posso apenas esperar para ver o que é certo?</i>
+
+378
+00:29:29,896 --> 00:29:34,390
+<i>Por que parece que somos cegos voando</i>
+
+379
+00:29:35,302 --> 00:29:38,066
+Olha ela.
+Quem ela pensa que é?
+
+380
+00:29:38,939 --> 00:29:41,737
+Eu sei. Ela pensa que é prima da Carter.
+
+381
+00:29:50,108 --> 00:29:53,209
+Oh, era a sua perna? Me desculpe.
+
+382
+00:29:54,454 --> 00:29:56,979
+Ela pode ser uma perdedora com a prima,
+mas ela é perigosa.
+
+383
+00:29:56,979 --> 00:30:00,322
+-Sério? Por quê?
+-Você está falando sério? Olha para ela.
+
+384
+00:30:00,322 --> 00:30:02,954
+Eu sei. Amei o cabelo.
+
+385
+00:30:10,537 --> 00:30:11,765
+O que você está fazendo?
+
+386
+00:30:11,765 --> 00:30:14,705
+Comendo um hamburger.
+Você já provou?
+
+387
+00:30:14,705 --> 00:30:17,642
+Sim. E FYl,
+eles tem hamburger em lowa.
+
+388
+00:30:18,412 --> 00:30:19,401
+Oh!
+
+389
+00:30:19,946 --> 00:30:21,174
+Certo.
+
+390
+00:30:21,748 --> 00:30:24,808
+-Você deveria estar se enturmando.
+-Eu estou me enturmando.
+
+391
+00:30:24,808 --> 00:30:26,910
+Falando francês fluentemente na aula?
+
+392
+00:30:26,910 --> 00:30:29,888
+E comendo hamburger como se estivesse
+tomando um chá com a Rainha?
+
+393
+00:30:29,888 --> 00:30:33,517
+-Bem, de que outro jeito poderia comer?
+-Assim.
+
+394
+00:30:35,429 --> 00:30:36,896
+Um pouco.
+
+395
+00:30:38,632 --> 00:30:40,361
+Aqui vamos.
+
+396
+00:30:45,705 --> 00:30:47,229
+Pare.
+
+397
+00:30:50,811 --> 00:30:52,039
+Agora.
+
+398
+00:30:55,182 --> 00:30:56,911
+-Assim?
+-Perfeito.
+
+399
+00:30:56,911 --> 00:30:59,213
+<i>Posso ter a atenção de vocês, por favor?
+Tenho um anuncio a fazer.</i>
+
+400
+00:30:59,213 --> 00:31:02,016
+<i>Podem sentar e se acalmar, por favor?</i>
+
+401
+00:31:02,856 --> 00:31:05,552
+<i>Na segunda-feira,
+estaremos recebendo nomeações</i>
+
+402
+00:31:05,552 --> 00:31:06,956
+<i>para a corte do baile.</i>
+
+403
+00:31:08,161 --> 00:31:11,460
+<i>Esse nomes devem ser de garotas
+de caráter exemplares.</i>
+
+404
+00:31:11,460 --> 00:31:14,932
+<i>Tipo, inteligente, honesta,
+membro de caridade</i>
+
+405
+00:31:14,932 --> 00:31:16,662
+<i>da comunidade do Lago Monroe.</i>
+
+406
+00:31:16,662 --> 00:31:19,204
+<i>As três garotas com mais votos</i>
+
+407
+00:31:19,204 --> 00:31:22,207
+<i>se tornará a princesa.</i>
+
+408
+00:31:25,078 --> 00:31:27,342
+<i>Tem mais, tem mais.</i>
+
+409
+00:31:27,342 --> 00:31:30,008
+<i>Na sexta-feira à noite, no baile anual,</i>
+
+410
+00:31:30,008 --> 00:31:32,517
+<i>uma dessa três garotas
+sortudas será coroada</i>
+
+411
+00:31:32,517 --> 00:31:35,749
+<i>a rainha do Lago Monroe High.</i>
+
+412
+00:31:35,749 --> 00:31:37,050
+Sim!
+
+413
+00:31:37,591 --> 00:31:39,058
+Obrigado.
+
+414
+00:31:41,294 --> 00:31:43,057
+Vocês votam na realeza?
+
+415
+00:31:43,057 --> 00:31:45,360
+Somos democratas. Nós votamos.
+
+416
+00:31:45,360 --> 00:31:49,960
+Então, qualquer uma pode ser princesa?
+Até você?
+
+417
+00:31:51,505 --> 00:31:53,132
+Teoricamente.
+
+418
+00:31:55,408 --> 00:31:57,933
+Com licença, pessoal.
+Posso ter sua atenção?
+
+419
+00:31:57,933 --> 00:31:59,842
+-O que você está fazendo? Sente!
+-Não, não.
+
+420
+00:32:00,439 --> 00:32:04,712
+Eu gostaria de nomear minha prima,
+Carter Mason, para ser sua rainha
+
+421
+00:32:05,085 --> 00:32:07,471
+Eu acho que ela seria uma ótima governante.
+
+422
+00:32:09,589 --> 00:32:10,920
+Carter?
+
+423
+00:32:12,492 --> 00:32:13,891
+Sim, certo.
+
+424
+00:32:14,661 --> 00:32:18,757
+-Carter. Carter!
+-Carter? Isso é hilário.
+
+425
+00:32:19,065 --> 00:32:21,124
+Isso aconteceu?
+
+426
+00:32:22,402 --> 00:32:23,596
+Oh, cara.
+
+427
+00:32:23,803 --> 00:32:25,828
+Parece que eu sou a rainha.
+
+428
+00:32:27,807 --> 00:32:29,069
+Carter!
+
+429
+00:32:30,310 --> 00:32:32,608
+-Carter!
+-Me deixe sozinha.
+
+430
+00:32:32,608 --> 00:32:34,544
+Eu te ordeno a parar.
+
+431
+00:32:36,049 --> 00:32:38,677
+Você me ordena? Você me ordena.
+
+432
+00:32:38,677 --> 00:32:41,277
+Eu ordeno você a fazer uma longa
+caminhada em um pequeno cais.
+
+433
+00:32:41,277 --> 00:32:43,117
+Você não pode me ordenar a fazer nada.
+
+434
+00:32:43,117 --> 00:32:44,623
+Quer apostar?
+Você está no meu reino agora.
+
+435
+00:32:44,623 --> 00:32:46,556
+Certo, certo. Ei, ei.
+
+436
+00:32:46,556 --> 00:32:47,717
+O que está acontecendo?
+
+437
+00:32:47,717 --> 00:32:50,763
+Pai, ela não consegue.
+Ela não pode parecer normal.
+
+438
+00:32:51,198 --> 00:32:53,257
+-Eu sou normal.
+-Mesmo? Certo.
+
+439
+00:32:53,257 --> 00:32:56,359
+Então, uma pessoa normal que nunca
+viu um hamburger antes
+
+440
+00:32:56,359 --> 00:32:58,301
+pode pedir um em seis línguas?
+
+441
+00:32:58,301 --> 00:32:59,668
+Sério? Vocês fez isso?
+
+442
+00:32:59,668 --> 00:33:01,570
+Eu sempre converso com a minha
+equipe no seu idioma.
+
+443
+00:33:01,570 --> 00:33:04,303
+Elas não são sua equipe.
+Elas servem o almoço, certo?
+
+444
+00:33:04,303 --> 00:33:06,106
+Pai, você não vê que isso
+não vai dar certo?
+
+445
+00:33:06,106 --> 00:33:10,309
+Carter, vai dar certo, está bem?
+Nós só temos que dar um tempo.
+
+446
+00:33:16,756 --> 00:33:18,223
+Vai funcionar.
+
+447
+00:33:56,729 --> 00:33:57,852
+-Ei, Ernie.
+-Oi, Carter.
+
+448
+00:33:57,852 --> 00:33:59,626
+-Olá.
+-Oh, ótimo.
+
+449
+00:33:59,626 --> 00:34:02,600
+Bom dia, Carter.
+O que está fazendo?
+
+450
+00:34:02,600 --> 00:34:03,966
+Tarefas.
+
+451
+00:34:04,704 --> 00:34:08,731
+-Tarefas. Eu não entendi.
+-Nã, claro que não.
+
+452
+00:34:09,576 --> 00:34:13,034
+Talvez eu possa aprender essas "tarefas".
+Você pode me ensinar.
+
+453
+00:34:14,414 --> 00:34:17,042
+Sabe, essa foi a melhor ideia que já teve.
+
+454
+00:34:17,042 --> 00:34:18,448
+O que devo fazer
+
+455
+00:34:18,448 --> 00:34:21,146
+Vamos começar com algo fácil. Inventário.
+
+456
+00:34:21,146 --> 00:34:23,382
+-lnventário?
+-Contar.
+
+457
+00:34:25,158 --> 00:34:31,097
+Você conta o que tem aqui e coloca
+aqui. Divirta-se.
+
+458
+00:34:31,898 --> 00:34:36,096
+Oh! E quando você terminar tem um
+monte na prateleira também.
+
+459
+00:34:55,789 --> 00:34:56,778
+Um.
+
+460
+00:34:59,326 --> 00:35:02,727
+-Tudo bem?
+-Sim. Só pintando.
+
+461
+00:35:04,264 --> 00:35:06,232
+-Tem um pincel?
+
+462
+00:35:06,232 --> 00:35:07,561
+Fique atrás da linha.
+
+463
+00:35:07,561 --> 00:35:09,568
+-Que linha?
+-Bem ali.
+
+464
+00:35:09,568 --> 00:35:10,830
+Certo.
+
+465
+00:35:20,046 --> 00:35:23,072
+Carter, o que a Rosie está fazendo
+na venda de iscas?
+
+466
+00:35:23,072 --> 00:35:24,582
+Tarefas.
+
+467
+00:35:26,186 --> 00:35:27,244
+Pai.
+
+468
+00:35:28,188 --> 00:35:29,382
+Rosie!
+
+469
+00:35:30,788 --> 00:35:33,632
+-Você está bem?
+-Eu estou bem.
+
+470
+00:35:34,996 --> 00:35:37,132
+Acho que preciso de um banho.
+
+471
+00:35:40,600 --> 00:35:43,569
+Carter, por que você não continua
+e limpa isso aqui??
+
+472
+00:35:44,170 --> 00:35:48,072
+-Porquê? Foi ela que fez isso.
+-Vamos lá, amiguinha. Eu te ajudo.
+
+473
+00:35:48,072 --> 00:35:51,042
+-Está certo... Não é engraçado.
+-Sim. Qual é...
+
+474
+00:35:51,042 --> 00:35:52,806
+-Você sabe que é um pouco engraçado.
+-Certo. Aqui. Vai.
+
+475
+00:35:52,806 --> 00:35:54,346
+-Você quer rir também.
+-Não. Eu não quero rir.
+
+476
+00:35:54,346 --> 00:35:55,813
+-Sim, você quer.
+-Isso é sério. Venha.
+
+477
+00:35:57,851 --> 00:36:00,081
+-O que você quer para o jantar esta noite?
+-Pizza.
+
+478
+00:36:00,081 --> 00:36:04,021
+Pizza? Nós comemos pizza na noite passada.
+Que tal... que tal hamburgers?
+
+479
+00:36:04,021 --> 00:36:06,456
+Que tal isso? Pizza e burgers.
+
+480
+00:36:07,127 --> 00:36:08,526
+-Pizza e burgers.
+-Sim. Eu quero os dois.
+
+481
+00:36:08,526 --> 00:36:11,996
+-Um como aperitivo ou os dois juntos?
+-Eu não sei.
+
+482
+00:36:16,202 --> 00:36:19,262
+Eu não sabia que a gente tinha tudo isso.
+
+483
+00:36:19,262 --> 00:36:21,864
+-O que é isso?
+-um bom jantar.
+
+484
+00:36:21,864 --> 00:36:23,408
+Para agradecer você por me ajudarem
+a limpar a bagunça
+
+485
+00:36:23,408 --> 00:36:25,671
+que eu fiz na venda de besouros.
+
+486
+00:36:25,671 --> 00:36:27,576
+-São iscas.
+-Estou ciente.
+
+487
+00:36:27,981 --> 00:36:29,073
+Certo.
+
+488
+00:36:32,719 --> 00:36:34,710
+-Aqui. Deixe que eu...
+-Não, não.
+
+489
+00:36:34,710 --> 00:36:37,416
+Obrigada, mas esta noite, eu sirvo vocês.
+
+490
+00:36:37,416 --> 00:36:40,186
+Bem, eu não vou dizer não.
+
+491
+00:36:40,427 --> 00:36:41,485
+Isso é para você.
+
+492
+00:36:41,485 --> 00:36:42,960
+-Para mim?
+
+493
+00:36:42,960 --> 00:36:45,657
+Para vestir. certo. Legal.
+
+494
+00:36:47,634 --> 00:36:49,363
+Qual é, Carter.
+
+495
+00:36:51,738 --> 00:36:55,606
+Então, você cozinha?
+Achei que você tinha empregados para isso.
+
+496
+00:36:55,606 --> 00:36:57,267
+Na verdade, minha mãe cresceu como camponesa.
+
+497
+00:36:58,678 --> 00:37:00,942
+Então ela me ensinou muitas receitas de família.
+
+498
+00:37:11,447 --> 00:37:13,355
+Sim, isso parece fantasia.
+
+499
+00:37:13,355 --> 00:37:17,021
+-Por que não pedimos pizza?
+-Não, é frango e arroz.
+
+500
+00:37:17,021 --> 00:37:19,394
+Fantástico. Pode trazer, Rosie.
+
+501
+00:37:20,867 --> 00:37:23,529
+Sabe, eu não como comida
+caseira desde que...
+
+502
+00:37:23,529 --> 00:37:25,002
+Sempre.
+
+503
+00:37:26,105 --> 00:37:27,402
+Certo.
+
+504
+00:37:28,241 --> 00:37:29,868
+Vamos comer!
+
+505
+00:37:32,912 --> 00:37:34,277
+-Você gostou?
+-Isso...
+
+506
+00:37:34,277 --> 00:37:37,510
+Isso é muito, muito bom.
+Caramba, não fazia ideia de que você cozinhava.
+
+507
+00:37:37,510 --> 00:37:40,712
+-Obrigada.
+-Isto é fantástico. Você é maravilhosa.
+
+508
+00:37:41,621 --> 00:37:44,021
+Obrigada. Você quer um pão?
+
+509
+00:37:44,021 --> 00:37:45,921
+-Você faz pães também?
+-Sim.
+
+510
+00:37:45,921 --> 00:37:48,187
+-Eu não fazia ideia.
+-Sim.
+
+511
+00:37:50,597 --> 00:37:53,327
+Deve ser legal brincar de camponesa por um dia.
+
+512
+00:37:57,704 --> 00:37:59,604
+Podem me dar licença?
+
+513
+00:38:28,434 --> 00:38:30,629
+Você não me conhece, Carter.
+
+514
+00:38:32,338 --> 00:38:33,771
+Qual é o problema?
+
+515
+00:38:33,771 --> 00:38:35,705
+Você vai voltar para os seus serviçais
+
+516
+00:38:35,705 --> 00:38:39,370
+e o seu chefe pessoal e seus tutores
+particulares muito em breve.
+
+517
+00:38:43,550 --> 00:38:46,314
+O quanto o seu pai contou sobre mim?
+
+518
+00:38:46,314 --> 00:38:49,355
+Nada além do óbvio,
+Eu acho que só temos que saber o básico.
+
+519
+00:38:49,355 --> 00:38:54,485
+Eu acho que você tem que saber que meu
+nome é Rosalinda Marie Montoya Fiore,
+
+520
+00:38:54,485 --> 00:38:57,621
+-e eu sou uma princesa real.
+-Não brinca.
+
+521
+00:38:57,621 --> 00:39:00,962
+Sou de uma pequena nação insular
+chamada Costa Luna.
+
+522
+00:39:00,962 --> 00:39:04,003
+-Nunca ouvi falar.
+-não está em muitos mapas.
+
+523
+00:39:04,304 --> 00:39:07,899
+É muito pequeno, muito pouco
+importante para países grandes
+
+524
+00:39:07,899 --> 00:39:10,465
+mas é muito importante para mim.
+
+525
+00:39:22,088 --> 00:39:24,955
+Quando meu pai morreu,
+ele deixou Costa Luna para mim.
+
+526
+00:39:29,262 --> 00:39:30,422
+Você não tem que me contar...
+
+527
+00:39:30,422 --> 00:39:33,863
+Um mês após minha coroação,
+nosso palácio foi atacado.
+
+528
+00:39:33,863 --> 00:39:37,528
+Seu pai foi muito valente.
+
+529
+00:39:37,528 --> 00:39:39,595
+Ele arriscou a vida por você, eu sei.
+
+530
+00:39:39,595 --> 00:39:43,301
+Esse é o trabalho dele. Ele resgata pobres,
+oprimidas princesas.
+
+531
+00:39:44,544 --> 00:39:47,775
+Ele te contou que tivemos que
+deixar minha mãe para trás?
+
+532
+00:39:47,775 --> 00:39:51,681
+O homem que invadiu Costa Luna
+tem ela como refém.
+
+533
+00:39:53,720 --> 00:39:54,744
+Eu não sabia.
+
+534
+00:39:54,744 --> 00:39:56,482
+Me disseram que me tornar Rosie Gonzalez
+
+535
+00:39:56,482 --> 00:39:58,581
+era a única maneira de mantê-la segura.
+
+536
+00:39:58,581 --> 00:40:00,626
+Pare. está bem.
+
+537
+00:40:00,626 --> 00:40:04,652
+Carter, seja lá o que eu fiz para você
+não gostar de mim, eu realmente sinto muito.
+
+538
+00:40:04,652 --> 00:40:09,430
+Eu vou tentar me encaixar.
+Vou tentar ser de lowa.
+
+539
+00:40:11,838 --> 00:40:14,830
+Esse é o único jeito de
+salvar a vida da minha mãe.
+
+540
+00:40:19,412 --> 00:40:21,380
+Vamos começar de novo.
+
+541
+00:40:22,382 --> 00:40:24,179
+Eu gostaria disso.
+
+542
+00:40:24,179 --> 00:40:26,980
+Mas você precisa esquecer essa
+coisa de princesa.
+
+543
+00:40:26,980 --> 00:40:28,315
+É muito chato.
+
+544
+00:40:28,315 --> 00:40:33,121
+Absolutamente. Por favor, eu só quero ser
+essa garota americana normal.
+
+545
+00:40:34,260 --> 00:40:37,286
+Sabe de uma coisa?
+Eu acho que podemos fazer isso.
+
+546
+00:40:43,236 --> 00:40:45,636
+Eu amo esse lugar. O que é isso?
+
+547
+00:40:46,339 --> 00:40:49,206
+É uma sala de boliche. É boliche.
+
+548
+00:40:49,206 --> 00:40:53,371
+Faça o que eu faço e não chame nenhuma
+atenção para você, por favor.
+
+549
+00:40:53,371 --> 00:40:54,708
+Certo.
+
+550
+00:40:58,918 --> 00:41:00,681
+-Obrigada.
+-Certo.
+
+551
+00:41:02,255 --> 00:41:04,689
+-Carter! Como você está?
+-Oi, Ed.
+
+552
+00:41:04,689 --> 00:41:07,988
+-Oi. Como você está, Rosie?
+-Estou bem, obrigada.
+
+553
+00:41:08,961 --> 00:41:11,555
+-o que vai ser?
+-Boliche, por favor.
+
+554
+00:41:11,555 --> 00:41:13,223
+Sem brincadeira.
+
+555
+00:41:16,369 --> 00:41:18,462
+Um 34 saindo.
+
+556
+00:41:19,338 --> 00:41:21,101
+-Obrigada.
+-Claro.
+
+557
+00:41:23,676 --> 00:41:25,837
+-Que tamanho?
+-Como?
+
+558
+00:41:26,579 --> 00:41:28,809
+Seus pés. Qual tamanho?
+
+559
+00:41:29,949 --> 00:41:32,941
+Eu não sei.
+Todos os meus sapatos são feitos para mim.
+
+560
+00:41:32,941 --> 00:41:35,613
+Isso é um choque.
+Dê algum sapato para ela.
+
+561
+00:41:35,613 --> 00:41:37,019
+Certo.
+
+562
+00:41:59,212 --> 00:42:00,702
+Vossa Alteza...
+
+563
+00:42:01,781 --> 00:42:03,646
+Obrigada, Edward.
+
+564
+00:42:04,650 --> 00:42:09,110
+-É Edwin, na verdade.
+-Edwin. É um nome maravilhoso.
+
+565
+00:42:09,110 --> 00:42:13,386
+Obrigado. Foi um prazer servi-la, madame.
+
+566
+00:42:13,386 --> 00:42:15,654
+Certo. Obrigada, Romeo.
+
+567
+00:42:16,462 --> 00:42:17,656
+Certo.
+
+568
+00:42:18,598 --> 00:42:21,066
+Você não está se encaixando.
+Escolha uma bola,
+
+569
+00:42:21,066 --> 00:42:22,226
+Você viu isso?
+
+570
+00:42:22,226 --> 00:42:26,362
+-Sim. Ninguém nunca fez isso para nós.
+-Eles fazem agora.
+
+571
+00:42:28,808 --> 00:42:31,743
+-Seu sapato está desamarrado.
+-Não tropece.
+
+572
+00:42:41,521 --> 00:42:43,113
+Tenha cuidado.
+
+573
+00:42:49,562 --> 00:42:52,190
+Donny, você não tem que carregar
+isso para ela.
+
+574
+00:42:52,190 --> 00:42:54,995
+Ela pode fazer isso sozinha
+como uma garota normal.
+
+575
+00:42:54,995 --> 00:42:58,400
+-Então eu vou pegar isso.
+-O que você disser...
+
+576
+00:42:59,972 --> 00:43:02,270
+-Carter.
+-Certo.
+
+577
+00:43:06,979 --> 00:43:10,881
+-Então, Donny é seu namorado?
+-O que? Não, não. Ele é apenas um amigo.
+
+578
+00:43:10,881 --> 00:43:12,975
+Mas ele é muito especial para você.
+
+579
+00:43:12,975 --> 00:43:17,250
+Eu vi o jeito que você olha para ele.
+É o mesmo jeito que o Ed olha para você.
+
+580
+00:43:17,924 --> 00:43:21,758
+Certo, obviamente você não é daqui,
+apenas jogue. Você primeiro.
+
+581
+00:43:22,728 --> 00:43:24,457
+Como eu ganho?
+
+582
+00:43:24,457 --> 00:43:27,624
+Você ganha derrubando aqueles pinos.
+
+583
+00:43:28,367 --> 00:43:30,198
+Certo, estou pronta.
+
+584
+00:43:31,871 --> 00:43:34,999
+-O que?
+-Você tem que acertar o alvo.
+
+585
+00:43:36,442 --> 00:43:38,467
+Você tem que acertar sozinha.
+
+586
+00:43:56,596 --> 00:43:58,154
+Impossível.
+
+587
+00:43:59,398 --> 00:44:01,127
+Ótimo tiro, Rosie!
+
+588
+00:44:20,353 --> 00:44:22,082
+Já terminou, Carter?
+
+589
+00:44:22,082 --> 00:44:25,055
+Sim. Nossa faixa está ficando
+um pouco cheia.
+
+590
+00:44:28,127 --> 00:44:31,096
+Você não gosta muito da sua prima, certo?
+
+591
+00:44:31,096 --> 00:44:37,932
+Não, é que... é que...
+Às vezes ela é meio...sabe...
+
+592
+00:44:37,932 --> 00:44:40,199
+Princesa. Ela pode vencer.
+
+593
+00:44:40,199 --> 00:44:42,264
+Ela está ficando muito popular.
+
+594
+00:44:42,264 --> 00:44:46,107
+A votação é na segunda. Não podemos deixar
+ela ser mais popular que nós.
+
+595
+00:44:46,107 --> 00:44:49,545
+Só tem uma coisa a fazer em
+uma situação como esta.
+
+596
+00:44:49,545 --> 00:44:54,951
+Com licença! Com licença! Roe!
+Com licença! Com licença! Roe.
+
+597
+00:44:54,951 --> 00:44:58,684
+Você é tão natural.
+Quer nos mostrar como jogar assim?
+
+598
+00:44:58,684 --> 00:45:03,661
+-Claro. Mas meu nome é Rosie.
+-Oh! Roe é um apelido que nós criamos.
+
+599
+00:45:03,661 --> 00:45:06,220
+Nós damos apelidos para todos os
+nossos amigos. Ela é a Chels.
+
+600
+00:45:06,220 --> 00:45:09,962
+E ela é Brookie você é Roe.
+Você é uma de nós agora.
+
+601
+00:45:15,074 --> 00:45:16,803
+Carter?
+O que?
+
+602
+00:45:16,803 --> 00:45:19,344
+Por quê você se importa tanto com
+esse menino, o Donny?
+
+603
+00:45:19,344 --> 00:45:21,243
+Quem disse que me importo?
+
+604
+00:45:23,716 --> 00:45:27,379
+Certo. Eu sou totalmente apaixonada por ele
+desde a terceira série,
+
+605
+00:45:27,379 --> 00:45:28,920
+quando ele me beijou em baixo
+da cesta de basquete.
+
+606
+00:45:28,920 --> 00:45:31,354
+-É isso que quer ouvir?
+-Ele é muito bonito.
+
+607
+00:45:31,354 --> 00:45:33,221
+Como um príncipe.
+
+608
+00:45:33,926 --> 00:45:37,123
+Eu me pergunto se ele é
+tão bonito por dentro.
+
+609
+00:45:38,798 --> 00:45:43,167
+-Vamos jogar boliche amanhã de novo?
+-Não posso. Estou trabalhando na cabana de iscas.
+
+610
+00:45:43,436 --> 00:45:45,199
+Eu nunca trabalhei antes.
+Isso é normal?
+
+611
+00:45:45,199 --> 00:45:47,432
+Sim. Muitas crianças tem trabalhos.
+
+612
+00:45:47,432 --> 00:45:49,599
+-Então eu vou te ajudar.
+-Você não pode.
+
+613
+00:45:49,599 --> 00:45:51,336
+-Por quê não?
+-Porque é meu.
+
+614
+00:45:51,336 --> 00:45:54,140
+Você não pode ter tudo que é meu!
+
+615
+00:45:54,140 --> 00:45:57,979
+Bem, você quer tanto um trabalho?
+Então procure um para você.
+
+616
+00:46:00,419 --> 00:46:01,750
+Tudo bem.
+
+617
+00:46:04,390 --> 00:46:06,153
+Boa noite, Carter.
+
+618
+00:46:21,340 --> 00:46:23,035
+Obrigada por me dar este trabalho, Chelsea.
+
+619
+00:46:23,035 --> 00:46:26,670
+Sem problema, Roe. É do papai,
+tipo, 17 Udderlys em todo o sul do país.
+
+620
+00:46:26,670 --> 00:46:29,544
+-Ele é o rei.
+-Seu pai é um rei?
+
+621
+00:46:29,544 --> 00:46:32,550
+Do iogurte congelado. Mais uma coisa.
+
+622
+00:46:34,620 --> 00:46:36,485
+Você tem que usar isso.
+
+623
+00:46:44,597 --> 00:46:46,497
+Essas são as máquinas de iogurte.
+
+624
+00:46:46,497 --> 00:46:48,032
+Você puxa a alavanca e quando sair
+
+625
+00:46:48,032 --> 00:46:50,159
+você coloca um pouco de calda
+em cima e está pronto, certo?
+
+626
+00:46:50,159 --> 00:46:52,136
+-Certo?
+-Isso vai ser ótimo.
+
+627
+00:46:52,136 --> 00:46:53,967
+E todos os seus amigos estarão
+aqui para te apoiar.
+
+628
+00:46:53,967 --> 00:46:56,702
+Todos nós queremos que você tenha
+sucesso no seu primeiro emprego.
+
+629
+00:47:24,236 --> 00:47:25,396
+Ed!
+
+630
+00:47:26,205 --> 00:47:27,832
+<i>Aqui está ela, pessoal,</i>
+
+631
+00:47:27,832 --> 00:47:31,934
+a futura princesa do Lago Monroe, Louisiana.
+
+632
+00:47:31,934 --> 00:47:34,138
+Quem é essa beleza natural, você pergunta?
+
+633
+00:47:34,138 --> 00:47:36,078
+Vai embora. Eu estou trabalhando.
+
+634
+00:47:36,078 --> 00:47:39,379
+Essa é Carter Mason.
+
+635
+00:47:39,379 --> 00:47:41,682
+<i>Identidade secreta? Garota das Iscas.</i>
+
+636
+00:47:41,682 --> 00:47:43,585
+Tão confiante de sua realeza inata,
+
+637
+00:47:43,585 --> 00:47:47,956
+ela está completamente sem medo de lidar
+com qualquer criatura repugnante...
+
+638
+00:47:47,956 --> 00:47:49,085
+Ei!
+
+639
+00:47:49,085 --> 00:47:51,789
+Não é... Não na minha câmera, por favor.
+
+640
+00:47:51,789 --> 00:47:53,058
+<i>Então desligue.</i>
+
+641
+00:47:53,058 --> 00:47:54,224
+Não.
+
+642
+00:47:54,224 --> 00:47:56,632
+Hoje é meu último dia para fazer a filmagem.
+
+643
+00:47:56,632 --> 00:47:58,101
+A votação é amanhã.
+
+644
+00:47:58,101 --> 00:48:00,138
+Bem, então vai filmar Chelsea ou Brooke.
+
+645
+00:48:00,138 --> 00:48:02,970
+Não. Eu já tenho toneladas delas.
+
+646
+00:48:02,970 --> 00:48:05,374
+-Elas me pagaram para filmar elas.
+-É por isso que está fazendo isso?
+
+647
+00:48:05,374 --> 00:48:07,708
+-Por causa do dinheiro?
+-Absolutamente.
+
+648
+00:48:07,708 --> 00:48:10,374
+Eu sou o único cara do ensino médio no
+Lago Monroe que não tem um carro.
+
+649
+00:48:10,374 --> 00:48:11,677
+Números.
+
+650
+00:48:14,053 --> 00:48:16,385
+Você realmente odeia essa coisa
+toda de princesa, certo?
+
+651
+00:48:16,385 --> 00:48:19,947
+Eu não odeio isso exatamente.
+Só acho isso muito baixo.
+
+652
+00:48:19,947 --> 00:48:23,256
+Garotas como Chelsea e Brooke,
+todas se preocupam com os sapatos.
+
+653
+00:48:23,256 --> 00:48:26,730
+Como se vestir a roupa certa
+fizesse delas superior.
+
+654
+00:48:26,730 --> 00:48:29,131
+Eu apenas quero fazer algo
+mais importante na minha vida,
+
+655
+00:48:29,131 --> 00:48:30,634
+como o meu pai.
+
+656
+00:48:31,570 --> 00:48:34,630
+Sim, sim
+Ele vende algumas iscas.
+
+657
+00:48:35,441 --> 00:48:36,499
+Certo.
+
+658
+00:48:36,499 --> 00:48:39,510
+Então, falando em princesa,
+onde está Rosie?
+
+659
+00:48:40,579 --> 00:48:41,568
+Como eu poderia saber?
+
+660
+00:48:47,453 --> 00:48:49,444
+Eu acho que a encontrei.
+
+661
+00:48:50,789 --> 00:48:53,349
+Ei, eu estou esperando a dez minutos.
+
+662
+00:48:53,792 --> 00:48:55,885
+Eu não tenho o dia todo!
+
+663
+00:48:56,695 --> 00:48:58,185
+Só um segundo.
+
+664
+00:49:06,205 --> 00:49:07,536
+Espere.
+
+665
+00:49:08,307 --> 00:49:09,296
+Oh, não!
+
+666
+00:49:23,322 --> 00:49:27,588
+Qual é, Chels.
+Ela está morrendo lá dentro. Ajude-a.
+
+667
+00:49:28,460 --> 00:49:31,725
+Você está completamente certo.
+Brookie, nós deveríamos entrar.
+
+668
+00:49:31,725 --> 00:49:34,595
+Oh, Chels.
+Se as nossas unhas tivessem secado.
+
+669
+00:49:39,138 --> 00:49:40,264
+Legal.
+
+670
+00:49:40,906 --> 00:49:43,875
+Bull, você me faz um grande favor?
+
+671
+00:49:44,476 --> 00:49:45,943
+Sim. Sim
+
+672
+00:49:51,951 --> 00:49:54,818
+Espere.
+Como eu vou saber qual é o certo?
+
+673
+00:49:55,087 --> 00:49:57,851
+É grande. É vermelho. Não tem como errar.
+
+674
+00:50:12,905 --> 00:50:15,430
+Não posso acreditar.
+Isso é ridículo!
+
+675
+00:50:15,430 --> 00:50:18,943
+Eu quero o meu iogurte, certo?
+Você precisa de alguma ajuda?
+
+676
+00:50:21,413 --> 00:50:22,402
+Olá?
+
+677
+00:50:23,549 --> 00:50:25,016
+Eu tenho que ir!
+
+678
+00:50:40,599 --> 00:50:42,032
+Oh, não!
+
+679
+00:51:14,199 --> 00:51:15,632
+O que você está fazendo?
+
+680
+00:51:15,632 --> 00:51:17,999
+Você está bem? Venha aqui, Rosie.
+
+681
+00:51:20,072 --> 00:51:24,168
+-Você disse para conseguir um trabalho.
+-Não esse! Esse é para perdedores.
+
+682
+00:51:24,168 --> 00:51:27,110
+Acredite, eu já tive este trabalho.
+A venda de iscas é melhor.
+
+683
+00:51:28,781 --> 00:51:30,612
+Ei, olha isso.
+
+684
+00:51:35,587 --> 00:51:38,750
+-O que está acontecendo?
+-Chelsea te enganou.
+
+685
+00:51:38,750 --> 00:51:43,022
+Ela convidou todas essas pessoas
+para verem você sendo uma boba.
+
+686
+00:51:43,022 --> 00:51:44,960
+Carter, está bem.
+
+687
+00:51:46,131 --> 00:51:47,462
+Eu não sou uma boba.
+
+688
+00:51:47,462 --> 00:51:50,366
+E ela não pode fazer com que eu
+seja algo que não sou.
+
+689
+00:51:50,366 --> 00:51:52,734
+Rosie, temos que fazer alguma coisa.
+
+690
+00:51:53,972 --> 00:51:58,033
+Vou dar o outro lado do rosto,
+porque é isso que princesas fazem.
+
+691
+00:52:24,236 --> 00:52:26,670
+Seu pai, o Rei dos Iogurtes,
+
+692
+00:52:27,706 --> 00:52:30,231
+ficaria muito desapontado com você.
+
+693
+00:52:42,823 --> 00:52:45,169
+Bem, eu não sou uma princesa.
+
+694
+00:52:54,333 --> 00:52:56,051
+Ela não pode ser a princesa!
+
+695
+00:52:56,051 --> 00:52:57,865
+Não enlouqueça, mas ela pode.
+
+696
+00:52:57,892 --> 00:53:00,302
+Eu já perguntei umas dez vezes.
+
+697
+00:53:00,302 --> 00:53:02,397
+Todos pensam que ela é demais.
+
+698
+00:53:02,397 --> 00:53:05,272
+Amanhã, quanto a escola toda votar
+nas três princesas,
+
+699
+00:53:05,272 --> 00:53:07,403
+ela pode ser uma delas.
+
+700
+00:53:07,403 --> 00:53:09,811
+-E se ela tiver votos suficiente...
+-Não diga isso.
+
+701
+00:53:09,811 --> 00:53:11,076
+...ela pode se tornar a rainha.
+
+702
+00:53:11,076 --> 00:53:13,675
+Não, eu sou a rainha! É o meu destino!
+
+703
+00:53:15,754 --> 00:53:17,551
+Isso é um pouco duvidoso agora.
+
+704
+00:53:17,551 --> 00:53:20,922
+Eu prefiro comer carboidrato
+do que ver ela usando minha coroa .
+
+705
+00:53:21,360 --> 00:53:23,385
+-Temos que pará-la.
+-Como?
+
+706
+00:53:24,830 --> 00:53:28,857
+Se ela nunca se tornar princesa,
+ela não poderá ser rainha, certo?
+
+707
+00:53:29,401 --> 00:53:31,665
+Eu não estou entendendo onde você quer chegar.
+
+708
+00:53:31,665 --> 00:53:35,434
+Pegue o celular.
+Temos muitas mensagens para mandar.
+
+709
+00:53:38,310 --> 00:53:40,608
+É uma habilidade que a maioria dos
+americanos tem desde, a terceira série
+
+710
+00:53:40,608 --> 00:53:43,648
+-mas nunca é tarde para aprender.
+-Estou pronta para tentar.
+
+711
+00:53:43,648 --> 00:53:45,046
+Boa sorte.
+
+712
+00:53:50,989 --> 00:53:52,217
+Legal.
+
+713
+00:53:52,724 --> 00:53:57,320
+Certo, da próxima vez vamos trabalhar o andar,
+o olhar e vamos falar com meu pai.
+
+714
+00:53:57,563 --> 00:54:01,294
+Se o Sr. Elegante me visse agora ele
+ficaria furioso comigo.
+
+715
+00:54:01,294 --> 00:54:04,358
+-Quem é Sr. Elegante?
+-Meu estilista real.
+
+716
+00:54:04,837 --> 00:54:06,327
+Você está brincando, certo?
+
+717
+00:54:06,327 --> 00:54:08,635
+Não. Ele é um amigo próximo da família.
+
+718
+00:54:08,635 --> 00:54:12,404
+Se tivéssemos uma emergência,
+ele seria o primeiro para quem ligaria.
+
+719
+00:54:12,945 --> 00:54:15,038
+Deve ser legar ser uma rainha.
+
+720
+00:54:15,747 --> 00:54:19,649
+Na verdade, não são somente vestidos
+e coroas, Carter.
+
+721
+00:54:19,649 --> 00:54:22,915
+Minha mãe me contou que meu pai
+nunca se chamava de rei.
+
+722
+00:54:22,915 --> 00:54:26,424
+Para o nosso povo ele era pai,
+irmão e amigo .
+
+723
+00:54:28,594 --> 00:54:31,927
+Eu espero ser como ele quando
+for a rainha da Costa Luna.
+
+724
+00:54:32,631 --> 00:54:35,327
+-Pai, irmão...
+-Não!
+
+725
+00:54:36,101 --> 00:54:38,262
+Eu quero fazer a diferença.
+
+726
+00:54:38,262 --> 00:54:40,430
+Fazer algo mais importante com a sua vida?
+
+727
+00:54:40,430 --> 00:54:41,564
+Sim.
+
+728
+00:54:45,611 --> 00:54:48,842
+Sabe, você é diferente de como eu
+pensei que uma princesa seria.
+
+729
+00:54:48,842 --> 00:54:51,382
+Espero que isso seja bom.
+
+730
+00:54:51,382 --> 00:54:52,849
+Sim, é.
+
+731
+00:54:53,852 --> 00:54:56,343
+Obrigada por me ajudar hoje.
+
+732
+00:54:56,343 --> 00:54:59,549
+Uma princesa nunca tem certeza
+de quem é seu amigo de verdade.
+
+733
+00:55:00,325 --> 00:55:01,952
+Hoje, eu tenho certeza.
+
+734
+00:55:02,628 --> 00:55:03,856
+Eu também.
+
+735
+00:55:14,640 --> 00:55:18,406
+Eu vou me dar esse e esse,
+
+736
+00:55:18,877 --> 00:55:21,368
+por bravura e honra.
+
+737
+00:55:21,368 --> 00:55:23,346
+Um ladrão não tem honra.
+
+738
+00:55:23,346 --> 00:55:25,383
+Sophia! Entre, entre, entre.
+
+739
+00:55:25,383 --> 00:55:29,284
+Temos um grande acordo para discutir.
+Você acha que é demais?
+
+740
+00:55:29,855 --> 00:55:33,791
+Eu quero estar ótimo quando
+anunciar o noivado hoje.
+
+741
+00:55:34,293 --> 00:55:37,888
+Quem seria tão infeliz de se
+tornar sua noiva?
+
+742
+00:55:38,430 --> 00:55:40,990
+Bem, de acordo com os fatos,
+
+743
+00:55:42,501 --> 00:55:45,766
+ela está nessa sala.
+
+744
+00:55:47,739 --> 00:55:50,765
+Isso é ridículo.
+Eu nunca vou me casar com você. Nunca.
+
+745
+00:55:50,765 --> 00:55:53,675
+É claro que não.
+
+746
+00:55:53,675 --> 00:55:56,043
+Mas Rosalinda não vai saber.
+
+747
+00:55:56,043 --> 00:56:00,312
+Ela vai ver o anúncio,
+supor que está tentando protegê-la,
+
+748
+00:56:00,519 --> 00:56:03,181
+e voltará correndo para o
+lado de sua mãe
+
+749
+00:56:03,181 --> 00:56:05,849
+a tempo de chegar para o exílio.
+
+750
+00:56:05,849 --> 00:56:07,858
+O povo de Costa Luna
+nunca vai aceitar isso.
+
+751
+00:56:07,858 --> 00:56:11,293
+A mesma coisa foi dita sobre o
+povo da Costa Estrella à 20 anos atrás,
+
+752
+00:56:11,293 --> 00:56:13,422
+e olhe o que aconteceu.
+
+753
+00:56:14,900 --> 00:56:16,731
+Leve-a de volta para a cela.
+
+754
+00:56:16,731 --> 00:56:20,101
+Oh, e tragam o pessoal do cabelo
+e maquiagem.
+
+755
+00:56:20,101 --> 00:56:23,369
+Temos que tirar este cinza
+antes de aparecer na câmera.
+
+756
+00:56:25,210 --> 00:56:26,336
+Sim.
+
+757
+00:56:27,646 --> 00:56:28,840
+Desculpe.
+
+758
+00:56:34,286 --> 00:56:35,651
+Espere, onde estão indo?
+
+759
+00:56:35,651 --> 00:56:37,621
+<i>Bom dia, alunos.</i>
+
+760
+00:56:37,621 --> 00:56:38,951
+<i>Os votos para as princesas...</i>
+
+761
+00:56:38,951 --> 00:56:40,048
+Temos que correr, Carter.
+
+762
+00:56:40,048 --> 00:56:41,990
+Certo, você está dentro dessa
+coisa de princesa.
+
+763
+00:56:41,990 --> 00:56:44,255
+<i>Agora, gostaria de
+anunciar as vencedoras.</i>
+
+764
+00:56:45,030 --> 00:56:48,989
+<i>E as princesas são:
+Chelsea Barnes!</i>
+
+765
+00:56:55,407 --> 00:56:58,240
+Obrigada!Obrigada!
+
+766
+00:56:58,610 --> 00:57:00,077
+<i>Carter Mason!</i>
+
+767
+00:57:02,881 --> 00:57:04,405
+"Carter Mason."
+
+768
+00:57:07,419 --> 00:57:10,752
+<i>E a terceira princesa é</i>
+
+769
+00:57:12,557 --> 00:57:14,252
+<i>Rosie Gonzalez!</i>
+
+770
+00:57:23,635 --> 00:57:25,899
+Obrigada! Obrigada!
+
+771
+00:57:31,076 --> 00:57:33,306
+-O que aconteceu?
+-Eu não sei!
+
+772
+00:57:33,512 --> 00:57:35,309
+Nós mandamos mensagem para todos da escola.
+
+773
+00:57:35,309 --> 00:57:37,575
+Deveriam votar na Carter ao invés da Rosie,
+
+774
+00:57:37,575 --> 00:57:39,480
+Não Carter e Rosie.
+
+775
+00:57:40,719 --> 00:57:43,654
+-Isso é sua culpa.
+-Como é minha culpa?
+
+776
+00:57:44,056 --> 00:57:47,617
+Se você fosse mais popular seria
+princesa, não ela.
+
+777
+00:57:52,898 --> 00:57:54,422
+Eu sou popular.
+
+778
+00:58:00,238 --> 00:58:03,435
+Isso, não está bom, certo?
+Eu ser princesa não é normal.
+
+779
+00:58:03,435 --> 00:58:04,185
+Ei.
+
+780
+00:58:06,211 --> 00:58:08,202
+Ei, Rosie, posso falar com você?
+
+781
+00:58:08,202 --> 00:58:10,009
+-Eu?
+-Ela?
+
+782
+00:58:10,009 --> 00:58:11,106
+Sim.
+
+783
+00:58:11,106 --> 00:58:14,619
+Você sabe desse baile e tudo mais...
+
+784
+00:58:14,619 --> 00:58:16,984
+Quer ir comigo ao baile, Rosie?
+
+785
+00:58:16,984 --> 00:58:18,818
+-Eu?
+-Ela?
+
+786
+00:58:18,818 --> 00:58:21,757
+Sim. Eu quero que seja minha
+acompanhante no baile.
+
+787
+00:58:21,757 --> 00:58:26,764
+Donny, isso é muito legal, mas não.
+
+788
+00:58:27,065 --> 00:58:28,532
+Me dá licença?
+
+789
+00:58:30,402 --> 00:58:31,528
+Claro.
+
+790
+00:58:34,106 --> 00:58:37,439
+Essa foi a coisa mais humilhante
+que já aconteceu na minha vida.
+
+791
+00:58:37,439 --> 00:58:39,875
+E eu já fui muito humilhada.
+
+792
+00:58:41,279 --> 00:58:45,079
+O que eu estava pensando? Um cara como o
+Donny nunca sairia comigo.
+
+793
+00:58:45,079 --> 00:58:47,345
+Então ele não é digno de você.
+
+794
+00:58:48,854 --> 00:58:51,914
+Sim, você pode dizer isso por que é
+toda alta e Real.
+
+795
+00:58:51,914 --> 00:58:55,084
+-Mas eu sou apenas uma garota que vende iscas.
+-Não.
+
+796
+00:58:56,261 --> 00:58:59,628
+Você é muito mais.
+Você é uma princesa agora.
+
+797
+00:59:00,265 --> 00:59:03,200
+Sim. Acredite, eu não sou princesa.
+
+798
+00:59:03,200 --> 00:59:04,792
+Sim, você é.
+
+799
+00:59:05,170 --> 00:59:07,570
+Você apenas não se sente uma ainda.
+
+800
+00:59:07,570 --> 00:59:11,439
+Quando eu cheguei aqui, você me ensinou a agir
+como uma garota normal, não Real.
+
+801
+00:59:12,911 --> 00:59:15,209
+Agora é minha vez de te ensinar.
+
+802
+00:59:15,847 --> 00:59:18,907
+Você acha quer ser princesa é superficial.
+
+803
+00:59:18,907 --> 00:59:20,042
+Sim, eu acho.
+
+804
+00:59:20,042 --> 00:59:23,417
+Isso é sobre o que você veste
+e como aparenta.
+
+805
+00:59:24,823 --> 00:59:27,417
+Bem, isso é um pouco sobre aparência
+
+806
+00:59:27,417 --> 00:59:29,551
+Mas o mais importante,
+
+807
+00:59:29,920 --> 00:59:33,982
+é sobre o que você tem a oferecer para
+o mundo e quem você é por dentro.
+
+808
+00:59:37,669 --> 00:59:40,433
+Qual é, Carter.
+Vamos encontrar sua princesa interior.
+
+809
+01:01:17,435 --> 01:01:19,960
+Você é tão boa com todo mundo.
+
+810
+01:01:19,960 --> 01:01:23,701
+Crianças, velhos,
+você é provavelmente boa com cachorros.
+
+811
+01:01:24,042 --> 01:01:25,509
+Isso é verdade.
+
+812
+01:01:26,077 --> 01:01:28,545
+Você é muito mais generosa do
+que eu pensei que era.
+
+813
+01:01:28,545 --> 01:01:31,207
+Ajudar as pessoas é o trabalho de uma princesa.
+
+814
+01:01:32,517 --> 01:01:35,042
+Eu acho que eu nunca pensei
+
+815
+01:01:35,042 --> 01:01:37,145
+o que realmente significa ser um princesa.
+
+816
+01:01:38,356 --> 01:01:40,347
+Como isso.
+
+817
+01:01:40,926 --> 01:01:43,087
+Eu não posso acreditar que você
+tem que fazer isso.
+
+818
+01:01:43,087 --> 01:01:44,822
+Oh, não, você não tem.
+
+819
+01:01:45,797 --> 01:01:48,322
+-Espere, então por quê estou fazendo?
+-Porque é engraçado.
+
+820
+01:01:48,322 --> 01:01:50,300
+O que? Eu odeio você.
+
+821
+01:01:50,802 --> 01:01:52,770
+-Você odeia?
+-Não, não, não. Não.
+
+822
+01:01:52,770 --> 01:01:55,362
+Não, eu não quis dizer isso.
+Eu não disse "eu te odeio" eu te odeio.
+
+823
+01:01:55,362 --> 01:01:58,534
+Eu disse "eu te odeio," tipo,
+você é minha melhor amiga.
+
+824
+01:01:58,534 --> 01:01:59,634
+Oh!
+
+825
+01:01:59,634 --> 01:02:01,372
+Bem, então, eu te odeio também.
+
+826
+01:02:01,372 --> 01:02:03,437
+E esse vestido é feio.
+
+827
+01:02:03,437 --> 01:02:05,483
+-É?
+-Não!
+
+828
+01:02:07,085 --> 01:02:10,020
+É lindo. E você também.
+
+829
+01:02:11,456 --> 01:02:12,582
+Olhe.
+
+830
+01:02:17,629 --> 01:02:20,393
+Você está se tornando uma princesa por dentro.
+
+831
+01:02:20,393 --> 01:02:22,797
+E agora você parece com uma também.
+
+832
+01:02:31,643 --> 01:02:35,636
+Com licença, eu tenho um trabalho para a
+aula de espanhol.
+
+833
+01:02:35,636 --> 01:02:37,909
+Você tem algo bem fácil
+
+834
+01:02:37,909 --> 01:02:39,883
+com bastante imagens?
+
+835
+01:02:44,990 --> 01:02:47,117
+Oh! Legal.
+
+836
+01:03:07,112 --> 01:03:11,105
+"Princesa Rosalinda"? Não pode ser!
+
+837
+01:03:25,497 --> 01:03:27,294
+É o Mason. O que está acontecendo?
+
+838
+01:03:27,294 --> 01:03:29,196
+<i>General Kane anunciou seu noivado</i>
+
+839
+01:03:29,196 --> 01:03:31,201
+com Sophia Montoya,
+
+840
+01:03:31,201 --> 01:03:34,670
+<i>saiu em várias revistas.</i>
+
+841
+01:03:34,670 --> 01:03:36,502
+<i>A história está contida,</i>
+
+842
+01:03:36,502 --> 01:03:39,771
+<i>mas eu mentiria se dissesse
+que não estou preocupada.</i>
+
+843
+01:03:39,771 --> 01:03:41,471
+Ela nunca concordaria em casar com ele.
+
+844
+01:03:41,471 --> 01:03:43,946
+<i>Não estou sugerindo que sim, Major.</i>
+
+845
+01:03:43,946 --> 01:03:46,415
+General Kane está tentando atrair Rosalinda.
+
+846
+01:03:46,415 --> 01:03:49,214
+Ele sabe que ela não permitiria que
+a mãe casasse forçada.
+
+847
+01:03:49,214 --> 01:03:50,447
+<i>Absolutamente.</i>
+
+848
+01:03:50,447 --> 01:03:54,288
+<i>é importante que Rosalinda
+não saiba disso.</i>
+
+849
+01:03:54,559 --> 01:03:56,322
+Sim senhora. Eu concordo.
+
+850
+01:03:56,322 --> 01:03:57,952
+<i>Major, ela fez alguma alteração?</i>
+
+851
+01:03:57,952 --> 01:04:01,089
+<i>Ninguém querendo expor a identidade dela?</i>
+
+852
+01:04:01,089 --> 01:04:02,326
+Não que eu saiba.
+
+853
+01:04:04,636 --> 01:04:07,434
+Vamos colocar o trono aqui.
+
+854
+01:04:08,039 --> 01:04:10,405
+Não. Não, na verdade, aqui.
+
+855
+01:04:12,343 --> 01:04:14,777
+Oh, Eu sei. Lá em cima.
+
+856
+01:04:17,849 --> 01:04:19,908
+E vamos colocar umas luzes em cima.
+
+857
+01:04:19,908 --> 01:04:21,975
+Isso vai ficar muito bom no meu
+tom de pele.
+
+858
+01:04:21,975 --> 01:04:23,953
+Nós temos que contratar um profissional.
+
+859
+01:04:23,953 --> 01:04:27,583
+O orçamento acabou, Chelsea.
+O que você vê é o que temos.
+
+860
+01:04:27,583 --> 01:04:31,183
+Certo, certo. Eu sei.
+
+861
+01:04:31,183 --> 01:04:33,696
+Uma luz somente em mim.
+
+862
+01:04:33,696 --> 01:04:36,598
+Talvez uma luz rosa ou
+amarelo como o sol.
+
+863
+01:04:37,302 --> 01:04:39,099
+É ótimo ser rainha.
+
+864
+01:04:39,571 --> 01:04:42,699
+Você não é rainha ainda. Carter pode ganhar,
+
+865
+01:04:42,699 --> 01:04:44,935
+-ou Rosie.
+-Pode, Muffy.
+
+866
+01:04:45,143 --> 01:04:48,010
+-Meu nome é Margaret.
+-Não é mais.
+
+867
+01:04:50,482 --> 01:04:52,973
+-Ei, Chels.
+-Não me chame assim.
+
+868
+01:04:52,973 --> 01:04:55,645
+Você perdeu o direito quando perdeu
+a coroa para a garota das iscas
+
+869
+01:04:55,645 --> 01:04:58,154
+e sua estranha prima.
+
+870
+01:04:58,154 --> 01:05:01,852
+Bem, e se eu puder impedir a Rosie
+de ganhar competição.
+
+871
+01:05:01,852 --> 01:05:04,622
+-Ela nunca venceria.
+-Ela pode.
+
+872
+01:05:04,622 --> 01:05:08,860
+<i>Ela não é quem ela diz ser.
+Ela é Princesa Rosalinda.</i>
+
+873
+01:05:11,436 --> 01:05:13,097
+Está em espanhol.
+
+874
+01:05:14,305 --> 01:05:17,172
+-O que diz na revista?
+-Não tenho certeza.
+
+875
+01:05:17,475 --> 01:05:21,206
+O que? Eu sou bonita, não inteligente.
+Certo, deixe-me tentar.
+
+876
+01:05:23,581 --> 01:05:25,879
+É sobre a Rosie e sua mãe.
+
+877
+01:05:26,718 --> 01:05:30,347
+Uma delas fugiu e a outra está
+em uma prisão
+
+878
+01:05:30,347 --> 01:05:31,649
+ou num saco de papel.
+
+879
+01:05:31,649 --> 01:05:33,418
+Eu confundo as duas.
+
+880
+01:05:33,418 --> 01:05:36,358
+Não muito. Bom trabalho, Brookie.
+
+881
+01:05:36,358 --> 01:05:37,985
+Obrigada, Chels.
+
+882
+01:05:39,764 --> 01:05:41,789
+Eu tenho o plano perfeito.
+
+883
+01:05:55,914 --> 01:05:59,179
+-Ei, garotas.
+-Oi, Sr. Mason. A Rosie está?
+
+884
+01:05:59,584 --> 01:06:01,814
+-Talvez. O que houve?
+-O que?
+
+885
+01:06:01,814 --> 01:06:05,378
+Bem, nós estamos planejando uma
+surpresa de princesa para a Carter.
+
+886
+01:06:05,378 --> 01:06:08,687
+-Para parabenizar ela.
+-Sim. Foi ideia da Rosie.
+
+887
+01:06:09,661 --> 01:06:11,788
+Ela está no quarto. Podem entrar.
+
+888
+01:06:29,280 --> 01:06:32,272
+Eu nunca ouvi falar em Costa Luna.
+Você já, Brookie?
+
+889
+01:06:32,272 --> 01:06:33,817
+Não, Chels.
+
+890
+01:06:34,352 --> 01:06:35,842
+Eu não sei do que estão falando.
+
+891
+01:06:35,842 --> 01:06:39,481
+Nós sabemos tudo sobre você e a
+sua mãe. E o saco de papel.
+
+892
+01:06:39,857 --> 01:06:42,758
+-O que?
+-Coitada da Princesa Rosalinda.
+
+893
+01:06:42,758 --> 01:06:45,022
+Você sabia que ela está se escondendo?
+
+894
+01:06:45,430 --> 01:06:49,025
+-Vocês não entendem.
+-Eu entendo que você mentiu para nós.
+
+895
+01:06:49,025 --> 01:06:51,967
+-Somente para proteger minha mãe.
+-Do saco de papel?
+
+896
+01:06:51,967 --> 01:06:53,162
+Não.
+
+897
+01:06:53,162 --> 01:06:56,298
+Olhe, eu vou recompensar vocês
+por guardarem o meu segredo.
+
+898
+01:06:56,541 --> 01:06:59,066
+-Nós sabemos disso.
+-Sabem?
+
+899
+01:06:59,811 --> 01:07:02,336
+E estamos prontas para escolher.
+
+900
+01:07:02,336 --> 01:07:05,041
+-Eu não entendi.
+-Sim, eu também não.
+
+901
+01:07:06,618 --> 01:07:08,711
+Você vai tirar a sua coroa, Princesa.
+
+902
+01:07:08,711 --> 01:07:12,347
+Você vai dizer à todos que
+existe uma única
+
+903
+01:07:12,347 --> 01:07:15,620
+e verdadeira rainha, e sou eu.
+
+904
+01:07:15,620 --> 01:07:17,422
+-Isso é bom.
+-Está bem.
+
+905
+01:07:17,895 --> 01:07:20,056
+Você pode tirar minha coroa,
+
+906
+01:07:20,598 --> 01:07:24,728
+mas você não vai tirar a da Carter.
+Ela não é uma ameaça para você, Chelsea.
+
+907
+01:07:26,471 --> 01:07:27,597
+Certo.
+
+908
+01:07:27,597 --> 01:07:30,505
+Vamos deixar a Garota das Iscas brincar
+de princesa por uma noite.
+
+909
+01:07:31,809 --> 01:07:33,470
+Ela só não vai parecer uma.
+
+910
+01:07:51,696 --> 01:07:53,630
+Divirta-se no baile!
+
+911
+01:08:09,747 --> 01:08:12,375
+Olha o que Chelsea e Brooke...
+
+912
+01:08:12,375 --> 01:08:14,748
+-O que houve?
+-Eu tenho que ir, Carter.
+
+913
+01:08:14,748 --> 01:08:16,548
+Ir? Ir para onde?
+
+914
+01:08:16,854 --> 01:08:18,617
+De volta ao meu país.
+
+915
+01:08:27,799 --> 01:08:30,893
+General Kane está forçando minha
+mãe a se casar.
+
+916
+01:08:31,402 --> 01:08:34,599
+-Papai nunca vai deixar você ir.
+-Ele nunca vai saber.
+
+917
+01:08:34,599 --> 01:08:36,833
+Sim, mas eu sei. E eu não vou deixar
+você ir também.
+
+918
+01:08:36,833 --> 01:08:38,967
+Carter, você tem que ficar fora disso.
+
+919
+01:08:38,967 --> 01:08:40,476
+Eu tenho um dever com o meu povo.
+
+920
+01:08:40,476 --> 01:08:43,878
+E isso é uma coisa que
+você nunca vai entender.
+
+921
+01:08:45,183 --> 01:08:47,811
+Eu adoraria morar aqui em Louisiana.
+
+922
+01:08:48,720 --> 01:08:51,917
+E eu queria que minha vida
+fosse assim todos os dias.
+
+923
+01:08:52,757 --> 01:08:54,748
+Mas isso não é realidade.
+
+924
+01:08:55,560 --> 01:09:00,463
+Quer dizer, você acha que minha vida
+como princesa é algum conto de fadas?
+
+925
+01:09:03,267 --> 01:09:05,462
+Isso aqui é um conto de fadas!
+
+926
+01:09:06,704 --> 01:09:09,002
+E eu não posso mais me esconder aqui.
+
+927
+01:09:09,774 --> 01:09:12,265
+Em breve serei Rainha da Costa Luna.
+
+928
+01:09:14,412 --> 01:09:16,209
+Meu país precisa de mim.
+
+929
+01:09:17,215 --> 01:09:20,480
+Você está certa. Eles precisam de você.
+
+930
+01:09:22,253 --> 01:09:25,381
+Eles precisam que você os conduza
+e os proteja.
+
+931
+01:09:26,791 --> 01:09:28,486
+E isso é uma coisa que você
+não poderá fazer na prisão,
+
+932
+01:09:28,486 --> 01:09:32,689
+onde você vai parar se voltar
+para Costa Luna.
+
+933
+01:09:41,339 --> 01:09:43,671
+Não tem jeito de eu deixar isso acontecer.
+
+934
+01:09:56,354 --> 01:09:58,879
+Olá, aqui é Elegante. Quem fala?
+
+935
+01:09:58,879 --> 01:10:00,150
+Isso não é importante.
+
+936
+01:10:00,150 --> 01:10:02,488
+Tudo o que importa é que sou
+uma amiga da Princesa Rosalinda,
+
+937
+01:10:02,488 --> 01:10:04,687
+<i>e ela está prestes a cometer
+um grande erro.</i>
+
+938
+01:10:04,687 --> 01:10:08,220
+<i>Minha princesa? Que erro é este?</i>
+
+939
+01:10:08,220 --> 01:10:10,199
+<i>Ela quer voltar para casa.</i>
+
+940
+01:10:10,535 --> 01:10:12,628
+Não, não, não. Ela não pode.
+
+941
+01:10:13,905 --> 01:10:15,304
+É muito perigoso.
+
+942
+01:10:15,807 --> 01:10:18,435
+Eu sei. Mas eu tenho um plano.
+
+943
+01:10:19,010 --> 01:10:21,205
+E eu preciso que você escute atentamente.
+
+944
+01:10:22,046 --> 01:10:25,379
+<i>Eu farei qualquer coisa pela Princesa.
+Qualquer coisa.</i>
+
+945
+01:10:26,017 --> 01:10:29,111
+Certo, para começar,
+vou precisar de dois vestidos.
+
+946
+01:10:38,896 --> 01:10:40,158
+Você está bem?
+
+947
+01:10:40,698 --> 01:10:42,893
+Eu vou sentir falta desse lugar.
+
+948
+01:10:44,335 --> 01:10:46,030
+Vou sentir falta de você, Carter.
+
+949
+01:10:46,030 --> 01:10:50,005
+Eu não acredito que estou dizendo isso,
+mas vou sentir falta de você também.
+
+950
+01:10:54,111 --> 01:10:57,444
+Rosie, você pode me fazer um grande
+favor antes de ir?
+
+951
+01:10:58,216 --> 01:10:59,240
+Qualquer coisa.
+
+952
+01:10:59,240 --> 01:11:02,309
+Você disse que é o trabalho de uma
+princesa ajudar os outros.
+
+953
+01:11:03,087 --> 01:11:03,587
+É.
+
+954
+01:11:04,455 --> 01:11:06,423
+Bem, o baile é sexta à noite,
+
+955
+01:11:06,423 --> 01:11:09,426
+e tem alguém que quero que ajude.
+
+956
+01:11:09,760 --> 01:11:13,423
+Eu quero fazer essa noite especial
+para eles, para todos nós.
+
+957
+01:11:13,998 --> 01:11:16,432
+Você pode ficar até lá?
+
+958
+01:11:17,201 --> 01:11:18,862
+Por eles, por favor.
+
+959
+01:11:45,029 --> 01:11:47,224
+É isso, mantenha o queixo erguido.
+
+960
+01:11:47,732 --> 01:11:48,926
+O que...
+
+961
+01:11:48,926 --> 01:11:52,766
+Certo, fique aí, está perfeito. Muito bom.
+
+962
+01:11:54,171 --> 01:11:56,139
+-Bom dia, pai.
+-Bom dia. O que...
+
+963
+01:11:56,139 --> 01:11:57,469
+O que vocês estão fazendo?
+
+964
+01:11:57,469 --> 01:11:59,772
+Apenas se divertindo com amigas da
+escola. Tudo bem?
+
+965
+01:11:59,772 --> 01:12:01,937
+Sim, sim. Certo. O que tem na caixa?
+
+966
+01:12:01,937 --> 01:12:04,140
+Coisas para o baile. Nada de mais.
+
+967
+01:12:13,991 --> 01:12:17,791
+<i>Você tem certeza sobre esse baile,
+Senhor Elegante?</i>
+
+968
+01:12:18,062 --> 01:12:19,427
+Absolutamente.
+
+969
+01:12:19,964 --> 01:12:23,331
+Eu sinto que estou traindo minha rainha,
+
+970
+01:12:23,331 --> 01:12:25,995
+mas eu achei que você deveria saber, General.
+
+971
+01:12:25,995 --> 01:12:29,096
+É para o bem de Costa Luna.
+
+972
+01:12:29,774 --> 01:12:33,175
+<i>Você fez o certo em contar, senhor.</i>
+
+973
+01:12:33,377 --> 01:12:34,867
+Preparem o jato!
+
+974
+01:12:35,346 --> 01:12:37,974
+Diga ao piloto que voaremos para Louisiana.
+
+975
+01:12:43,955 --> 01:12:47,288
+Uma linda cor. Linda mesmo.
+
+976
+01:12:47,825 --> 01:12:49,690
+Azul do Caribe, General.
+
+977
+01:12:49,690 --> 01:12:53,218
+Combina com o tom de pele
+da Princesa Rosalinda.
+
+978
+01:12:54,498 --> 01:12:57,831
+Bem, volte ao trabalho.
+Você tem um vestido para terminar.
+
+979
+01:13:01,272 --> 01:13:02,830
+Dois, na verdade.
+
+980
+01:13:13,284 --> 01:13:14,444
+Onde você conseguiu eles?
+
+981
+01:13:14,444 --> 01:13:17,510
+Bem, você disse para ligar para o Sr. Elegante
+se eu tivesse uma emergência.
+
+982
+01:13:17,510 --> 01:13:19,351
+E eu acho que isso é uma emergência da moda.
+
+983
+01:13:19,351 --> 01:13:23,154
+-Carter, você é brilhante.
+-Este é seu.
+
+984
+01:13:24,028 --> 01:13:26,292
+Ele disse que você fica melhor de rosa.
+
+985
+01:13:26,731 --> 01:13:29,791
+E este é meu.
+É azul do Caribe.
+
+986
+01:13:32,036 --> 01:13:35,597
+Obrigada, Carter.
+Esta noite eu lembrarei para sempre.
+
+987
+01:13:38,943 --> 01:13:40,274
+Espero que sim.
+
+988
+01:13:41,879 --> 01:13:44,370
+Vocês estão prontas?
+Está ficando um pouco tarde.
+
+989
+01:13:44,370 --> 01:13:45,881
+Vamos lá, garotas.
+
+990
+01:13:45,881 --> 01:13:49,147
+A Casa de Beleza da Helen
+está aberta!
+
+991
+01:13:56,460 --> 01:13:57,620
+Certo.
+
+992
+01:13:59,163 --> 01:14:01,358
+Oh, essa cor fica ótima em você.
+
+993
+01:14:15,479 --> 01:14:17,208
+Como eu estou, pai?
+
+994
+01:14:17,815 --> 01:14:19,874
+Acho que temos um problema.
+
+995
+01:14:21,152 --> 01:14:23,780
+Vou ter que parar de te chamar de "amiguinha".
+
+996
+01:14:29,627 --> 01:14:32,152
+Certo, eu tenho que atender isso.
+Vocês vão ficar bem?
+
+997
+01:14:32,152 --> 01:14:34,595
+-Sim, vamos ficar bem. Pode ir.
+-Tem certeza?
+
+998
+01:14:34,595 --> 01:14:36,155
+Claro. Não somos crianças.
+
+999
+01:14:36,155 --> 01:14:38,599
+Está certo. Divirtam-se.
+E tomem cuidado.
+
+1000
+01:14:39,570 --> 01:14:41,094
+-Mason.
+-Helen.
+
+1001
+01:14:41,605 --> 01:14:43,596
+Certo, Altezas.
+
+1002
+01:14:43,596 --> 01:14:46,871
+O tempo acabou.
+A festa começa em dez minutos.
+
+1003
+01:15:36,594 --> 01:15:39,654
+Máscaras? Ninguém falou nada
+sobre máscaras.
+
+1004
+01:15:42,800 --> 01:15:44,165
+Qual é!
+
+1005
+01:15:49,807 --> 01:15:50,527
+Ei!Ei!
+
+1006
+01:15:53,010 --> 01:15:56,309
+Eu estou presa!
+Abra a porta, Donny. Olá?
+
+1007
+01:15:58,187 --> 01:16:00,361
+Donny. Donny!
+
+1008
+01:16:08,425 --> 01:16:10,222
+Venha aqui, venha aqui.
+
+1009
+01:16:12,997 --> 01:16:15,795
+-Você está bem?
+-Saia daqui!
+
+1010
+01:16:42,827 --> 01:16:45,955
+Certo, calouros, eu acho que
+posso assumir agora.
+
+1011
+01:16:55,840 --> 01:16:58,434
+-Não.
+-Carter, qual é o problema?
+
+1012
+01:16:58,709 --> 01:17:01,405
+Eu pensei que nós tínhamos, sabe, algo.
+
+1013
+01:17:01,405 --> 01:17:04,072
+-Na verdade, não temos.
+-Certo, o que foi?
+
+1014
+01:17:04,648 --> 01:17:07,378
+Não é isso que você está esperando
+desde a terceira série?
+
+1015
+01:17:07,378 --> 01:17:11,387
+Antes de colocar este vestido,
+você nem lembrava do meu nome.
+
+1016
+01:17:12,890 --> 01:17:16,724
+Eu posso ser uma princesa esta noite,
+mas sempre serei a Garota das Iscas.
+
+1017
+01:17:17,061 --> 01:17:18,961
+E tenho orgulho disso.
+
+1018
+01:17:20,464 --> 01:17:23,092
+Carter, você está cometendo um grande erro.
+
+1019
+01:17:24,869 --> 01:17:27,394
+Não, Donny. Eu não acho que estou.
+
+1020
+01:17:33,844 --> 01:17:35,573
+Você merece mais do que ele, Carter.
+
+1021
+01:17:35,573 --> 01:17:38,809
+Eu sei. Pena que demorei tanto
+para perceber.
+
+1022
+01:17:39,850 --> 01:17:41,010
+Pessoal!
+
+1023
+01:17:52,363 --> 01:17:53,796
+O que aconteceu com você?
+
+1024
+01:17:53,796 --> 01:17:55,593
+Cale a boca e me ajude.
+
+1025
+01:17:55,593 --> 01:17:57,462
+-Você conseguiu uma coroa para mim?
+-Quem se importa?
+
+1026
+01:17:57,462 --> 01:17:59,365
+Em poucos minutos,
+isso não vai importar mesmo.
+
+1027
+01:17:59,365 --> 01:18:02,462
+Eu serei nomeada rainha e
+isso vai ter terminado.
+
+1028
+01:18:03,073 --> 01:18:05,371
+Pensei que estávamos juntas nessa.
+
+1029
+01:18:05,371 --> 01:18:08,070
+Nós estamos. Batom.
+
+1030
+01:18:08,412 --> 01:18:09,470
+Não.
+
+1031
+01:18:09,470 --> 01:18:11,446
+-O que?
+-Eu disse não.
+
+1032
+01:18:11,446 --> 01:18:13,176
+Você não pode mais usar meu batom.
+
+1033
+01:18:13,176 --> 01:18:15,741
+Mas eu tenho que estar bonita. Eu sou uma princesa.
+
+1034
+01:18:15,741 --> 01:18:17,753
+Sim, uma terrível.
+
+1035
+01:18:17,753 --> 01:18:20,881
+Uma princesa tem que ter um
+caráter exemplar,
+
+1036
+01:18:20,881 --> 01:18:22,892
+um modelo completo. Mas você,
+
+1037
+01:18:22,892 --> 01:18:26,418
+não é nem um pouco honesta e caridosa.
+
+1038
+01:18:27,131 --> 01:18:29,326
+Você nem é legal.
+
+1039
+01:18:29,326 --> 01:18:32,369
+Eu não acho que quero ser sua amiga.
+
+1040
+01:18:32,369 --> 01:18:35,233
+-Brookie...
+-Não me chame assim.
+
+1041
+01:18:40,144 --> 01:18:44,240
+Carter, Rosie,
+eu quero agradecer vocês por esta noite.
+
+1042
+01:18:44,915 --> 01:18:49,750
+Nunca pensei que poderia ficar bonita.
+Ou me sentir bonita, que seja.
+
+1043
+01:18:50,054 --> 01:18:51,749
+Margaret, você é bonita.
+
+1044
+01:18:53,357 --> 01:18:56,326
+E obrigada por não me chamarem de Muffy.
+
+1045
+01:18:56,660 --> 01:18:58,218
+De nada.
+
+1046
+01:18:59,596 --> 01:19:02,156
+Eu amo esta música! Vamos dançar!
+
+1047
+01:19:02,156 --> 01:19:04,257
+Por quê não vão vocês duas?
+Sejam princesas.
+
+1048
+01:19:04,257 --> 01:19:05,632
+Certo!
+
+1049
+01:19:12,109 --> 01:19:14,304
+Aí está você! Finalmente!
+
+1050
+01:19:14,304 --> 01:19:15,709
+Você não entendeu, senhorita.
+
+1051
+01:19:15,709 --> 01:19:18,942
+-Eu sou...
+-Segurança. Eu sei. Vocês estão atrasados.
+
+1052
+01:19:19,516 --> 01:19:22,485
+E que uniforme é esse?
+
+1053
+01:19:22,485 --> 01:19:25,078
+Ninguém está usando boinas esse ano.
+
+1054
+01:19:25,078 --> 01:19:28,181
+Fique aqui fora e cuide para
+que ninguém entre,
+
+1055
+01:19:28,181 --> 01:19:31,489
+a menos que sejam alunos do
+Lago Monroe. Entendeu?
+
+1056
+01:19:33,430 --> 01:19:36,763
+Entendi. Divirta-se na festa.
+
+1057
+01:19:50,647 --> 01:19:52,171
+Certo, pessoal. Ele já vai
+anunciar a vencedora.
+
+1058
+01:19:52,171 --> 01:19:55,116
+Vamos colocar as máscaras.
+
+1059
+01:20:09,266 --> 01:20:11,166
+Princesas em toda a parte.
+
+1060
+01:20:16,073 --> 01:20:20,305
+Azul do Caribe. Bonito mesmo.
+
+1061
+01:20:23,847 --> 01:20:27,943
+<i>Venha comigo agora, Princesa,
+e nada de ruim vai acontecer aos seus amigos.</i>
+
+1062
+01:20:33,357 --> 01:20:37,225
+<i>Posso ter a atenção de vocês, por favor?
+Eu tenho em minhas mãos</i>
+
+1063
+01:20:37,225 --> 01:20:42,231
+<i>o nome de nossa rainha do
+Lago Monroe 2008.</i>
+
+1064
+01:20:43,901 --> 01:20:45,630
+<i>E a vencedora é...</i>
+
+1065
+01:20:47,671 --> 01:20:49,969
+<i>Princesa Rosie Gonzalez.</i>
+
+1066
+01:20:52,543 --> 01:20:54,534
+<i>Rosie, você está aí?</i>
+
+1067
+01:21:19,236 --> 01:21:20,601
+Obrigada.
+
+1068
+01:21:21,238 --> 01:21:24,799
+<i>Desde que cheguei aqui,
+eu aprendi coisas maravilhosas.</i>
+
+1069
+01:21:24,799 --> 01:21:26,536
+A mais importante,
+
+1070
+01:21:28,612 --> 01:21:33,879
+<i>eu aprendi sobre amizade, lealdade e confiança.</i>
+
+1071
+01:21:35,119 --> 01:21:38,452
+<i>E essas coisas não são dadas,</i>
+
+1072
+01:21:39,590 --> 01:21:41,615
+<i>elas são merecidas.</i>
+
+1073
+01:21:43,393 --> 01:21:46,521
+<i>Então eu quero agradecer Carter Mason</i>
+
+1074
+01:21:47,531 --> 01:21:49,761
+<i>por me ensinar isso.</i>
+
+1075
+01:21:51,902 --> 01:21:53,893
+<i>E por ser minha amiga.</i>
+
+1076
+01:21:56,640 --> 01:21:59,234
+<i>Carter, onde está você?</i>
+
+1077
+01:22:17,227 --> 01:22:19,695
+Isso foi tão lindo, Rosie.
+
+1078
+01:22:19,695 --> 01:22:22,459
+Obrigada. Mas eu tenho que achar a Carter.
+
+1079
+01:22:33,177 --> 01:22:35,737
+Espere aí, Princesa.
+
+1080
+01:22:35,737 --> 01:22:37,973
+Minha coroa. Tire.
+
+1081
+01:22:38,482 --> 01:22:40,780
+-Chelsea, por favor...
+-Você não vai a lugar algum
+
+1082
+01:22:40,780 --> 01:22:42,785
+antes de tirar minha coroa.
+
+1083
+01:22:47,057 --> 01:22:47,807
+Não!
+
+1084
+01:22:50,661 --> 01:22:51,821
+Desculpe.
+
+1085
+01:22:51,821 --> 01:22:54,329
+Isso vai ter volta!
+
+1086
+01:22:58,635 --> 01:23:00,102
+General Kane!
+
+1087
+01:23:05,142 --> 01:23:09,875
+Bem, parece que todos querem ser princesa.
+
+1088
+01:23:09,875 --> 01:23:13,314
+Infelizmente, é hora do disfarce acabar.
+
+1089
+01:23:13,951 --> 01:23:17,216
+O que você está fazendo?
+O plano estava indo tão bem.
+
+1090
+01:23:17,421 --> 01:23:19,548
+Foi um plano muito bravo.
+
+1091
+01:23:20,624 --> 01:23:22,785
+Mas esta luta é minha, não sua.
+
+1092
+01:23:22,785 --> 01:23:25,589
+-Você não tem que ir com eles.
+-Já chega!
+
+1093
+01:23:26,163 --> 01:23:29,132
+<i>Como a Princesa tão
+eloquentemente salientou,</i>
+
+1094
+01:23:30,067 --> 01:23:32,001
+esta luta não é sua.
+
+1095
+01:23:46,216 --> 01:23:47,683
+General Kane.
+
+1096
+01:23:47,951 --> 01:23:50,681
+-Bom te ver de novo.
+-O que significa isso?
+
+1097
+01:23:50,681 --> 01:23:52,244
+Vocês estão atrapalhando um
+trabalho oficial
+
+1098
+01:23:52,244 --> 01:23:53,789
+das terras soberanas da Costa Luna.
+
+1099
+01:23:53,789 --> 01:23:57,486
+Talvez isso funcione no seu país mas,
+aqui, isso se chama sequestro.
+
+1100
+01:23:57,486 --> 01:24:01,190
+Nós vamos te entregar para as
+autoridades internacionais.
+
+1101
+01:24:01,999 --> 01:24:04,160
+-Peguem ele.
+-Não, deixa que eu faço.
+
+1102
+01:24:04,601 --> 01:24:06,000
+Vou me divertir com isso.
+
+1103
+01:24:20,751 --> 01:24:24,346
+Como é ser entregue para a justiça por
+uma garota de 16 anos, General?
+
+1104
+01:24:24,346 --> 01:24:25,945
+Não muito bom.
+
+1105
+01:24:32,663 --> 01:24:35,461
+Não acredito que você faria isso por mim.
+
+1106
+01:24:36,733 --> 01:24:38,792
+Isso é o que as princesas fazem.
+
+1107
+01:24:39,169 --> 01:24:41,069
+Elas fazem umas pelas outras.
+
+1108
+01:24:41,069 --> 01:24:44,232
+E você é uma verdadeira princesa
+agora, Carter Mason.
+
+1109
+01:24:45,542 --> 01:24:47,737
+Você certamente merece isso.
+
+1110
+01:24:53,417 --> 01:24:56,682
+Espere! Ninguém se mexa!
+
+1111
+01:24:57,354 --> 01:24:59,185
+Ninguém vai a lugar algum.
+
+1112
+01:25:01,525 --> 01:25:03,083
+Eu vou pegar isto.
+
+1113
+01:25:07,698 --> 01:25:10,064
+Deixa ela ir.
+Ela precisa muito mais do que eu.
+
+1114
+01:25:10,064 --> 01:25:11,430
+Certo. Venha. Ei, guarda.
+
+1115
+01:25:14,104 --> 01:25:15,537
+Pegou?
+
+1116
+01:25:16,373 --> 01:25:19,365
+Oh, eu estou encrencada.
+
+1117
+01:25:26,216 --> 01:25:28,446
+O que você estava pensando, Carter?
+
+1118
+01:25:28,446 --> 01:25:31,043
+Eu pensei que seria uma ótima isca.
+
+1119
+01:25:31,043 --> 01:25:33,282
+Entendeu? Eu sou a Garota das Iscas.
+
+1120
+01:25:33,282 --> 01:25:34,551
+Por que você não me contou?
+
+1121
+01:25:34,551 --> 01:25:37,320
+Pai, você nunca me deixaria fazer isso.
+
+1122
+01:25:38,662 --> 01:25:41,893
+-Você teve sorte que eu estava aqui.
+-Eu sabia que você estaria aqui.
+
+1123
+01:25:42,933 --> 01:25:45,094
+Você sempre está lá por mim.
+
+1124
+01:25:45,902 --> 01:25:49,167
+Você resgata princesas.
+É o que você faz.
+
+1125
+01:25:51,508 --> 01:25:53,135
+Você e eu, amiguinha.
+
+1126
+01:25:54,711 --> 01:25:56,303
+Você e eu, pai.
+
+1127
+01:26:11,962 --> 01:26:15,921
+Rainha Rosalinda Marie Montoya Fiore
+
+1128
+01:26:15,921 --> 01:26:17,796
+da Costa Luna!
+
+1129
+01:26:33,950 --> 01:26:36,316
+Longa vida à Rainha Rosie!
+
+1130
+01:26:40,056 --> 01:26:42,354
+Longa vida à Rainha Rosie!
+
+1131
+01:26:54,571 --> 01:26:57,938
+<i>Você teve os seus sonhos, eu tive os meus</i>
+
+1132
+01:26:58,542 --> 01:27:01,943
+<i>Você teve os seus medos, eu estava bem</i>
+
+1133
+01:27:02,345 --> 01:27:06,179
+<i>Você me mostrou o que não pude ver</i>
+
+1134
+01:27:06,179 --> 01:27:09,241
+<i>Quando dois mundos diferentes se colidiram</i>
+
+1135
+01:27:10,220 --> 01:27:15,954
+<i>Quando dois mundos diferentes se colidiram</i>
+
+1136
+01:27:26,269 --> 01:27:29,033
+Damas, vocês estão aqui. Excelente.
+
+1137
+01:27:29,033 --> 01:27:30,663
+estão prontas para a próxima cessão?
+
+1138
+01:27:30,663 --> 01:27:32,105
+-Eu estou.
+-Eu também.
+
+1139
+01:27:32,105 --> 01:27:33,733
+Mas nós podemos ir para um
+lugar um pouco mais quente?
+
+1140
+01:27:33,733 --> 01:27:36,142
+Meus pés ainda estão congelando
+daquela caminhada em Helsinki.
+
+1141
+01:27:40,383 --> 01:27:42,977
+Carter, você pode ser uma princesa.
+
+1142
+01:27:43,487 --> 01:27:44,579
+Alguma coisa errada nisso?
+
+1143
+01:27:44,579 --> 01:27:46,121
+<i>Abrindo a porta.</i>
+

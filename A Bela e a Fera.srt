@@ -1,6361 +1,5308 @@
 1
-00:00:00,000 --> 00:00:04,999
-<b>MysticSubs
-Apresenta</b>
+00:00:50,000 --> 00:00:53,000
+Walt Disney Pictures
+apresenta
 
 2
-00:00:05,000 --> 00:00:09,999
+00:00:54,500 --> 00:00:58,000
 
 
 3
-00:00:10,000 --> 00:00:14,999
+00:00:58,000 --> 00:00:59,800
 
 
 4
-00:00:15,000 --> 00:00:19,999
-
+00:01:19,700 --> 00:01:22,950
+<i>Era uma vez,
+numa terra distante,</i>
 
 5
-00:00:20,000 --> 00:00:24,999
-
+00:01:23,040 --> 00:01:27,000
+<i>um jovem príncipe que
+morava num castelo brilhante.</i>
 
 6
-00:00:25,000 --> 00:00:29,999
-
+00:01:27,080 --> 00:01:30,250
+<i>Apesar de ter tudo
+que desejasse,</i>
 
 7
-00:00:43,800 --> 00:00:46,800
-<i>Era uma vez,
-no interior da França,</i>
+00:01:30,340 --> 00:01:35,970
+<i>o príncipe era mimado,
+egoísta e rude.</i>
 
 8
-00:00:46,801 --> 00:00:50,900
-<i>um belo e jovem príncipe
-que vivia em um lindo castelo.</i>
+00:01:36,050 --> 00:01:38,260
+<i>Mas, numa noite de inverno,</i>
 
 9
-00:00:54,800 --> 00:00:57,700
-<i>Mesmo possuindo
-tudo que desejava,</i>
+00:01:38,340 --> 00:01:40,970
+<i>uma velha mendiga
+veio ao castelo...</i>
 
 10
-00:00:57,701 --> 00:01:00,400
-<i>o príncipe era egoísta
-e grosseiro.</i>
+00:01:41,060 --> 00:01:43,980
+<i>oferecendo uma simples rosa...</i>
 
 11
-00:01:00,401 --> 00:01:02,450
-Mestre, está na hora.
+00:01:44,060 --> 00:01:47,440
+<i>em troca de abrigo
+do frio intenso.</i>
 
 12
-00:01:02,451 --> 00:01:05,000
-<i>Cobrava impostos
-para encher o castelo</i>
+00:01:47,520 --> 00:01:49,940
+<i>Repugnado pela má
+aparência da mendiga,</i>
 
 13
-00:01:05,001 --> 00:01:07,800
-<i>- com os mais bonitos objetos.
-- Oui, maître.</i>
+00:01:50,020 --> 00:01:54,940
+<i>o Príncipe menosprezou o presente
+e mandou a velha embora</i>
 
 14
-00:01:07,801 --> 00:01:11,900
-<i>E as festas
-com as pessoas mais belas.</i>
+00:01:55,030 --> 00:01:58,490
+<i>Ela o advertiu para não se
+deixar enganar pelas aparências</i>
 
 15
-00:01:34,300 --> 00:01:36,500
-<i>Que divino</i>
+00:01:58,570 --> 00:02:01,740
+<i>Pois a beleza é mais profunda.</i>
 
 16
-00:01:36,501 --> 00:01:40,500
-<i>Glamour, música
-e magia combinados</i>
+00:02:01,830 --> 00:02:06,660
+<i>Quando voltou a expulsá-la, a
+feiúra da anciã desapareceu...</i>
 
 17
-00:01:40,501 --> 00:01:44,050
-<i>Veja as donzelas tão ansiosas
-para brilhar</i>
+00:02:06,750 --> 00:02:10,670
+<i>revelando uma linda feiticeira.</i>
 
 18
-00:01:44,051 --> 00:01:49,600
-<i>À espera de um sinal
-que aumente suas chances</i>
+00:02:10,750 --> 00:02:13,750
+<i>O Príncipe tentou se desculpar,
+mas era tarde demais.</i>
 
 19
-00:01:49,601 --> 00:01:53,000
-<i>Quem será a escolhida?</i>
-
-20
-00:01:53,001 --> 00:01:54,900
-<i>Que apresentação</i>
-
-21
-00:01:54,901 --> 00:01:58,300
-<i>De tirar o fôlego,
-emocionante</i>
-
-22
-00:01:58,301 --> 00:02:01,400
-<i>Cada um tem
-o seu dia de glória</i>
-
-23
-00:02:01,401 --> 00:02:04,400
-<i>E eu vou cantar com paixão
-e entusiasmo</i>
-
-24
-00:02:04,401 --> 00:02:10,400
-<i>Pronta para arrebentar,
-sem me preocupar com nada</i>
-
-25
-00:02:17,700 --> 00:02:19,250
-<i>Então,
-em uma determinada noite,</i>
-
-26
-00:02:19,251 --> 00:02:22,100
-<i>uma intrusa inesperada
-chegou ao castelo,</i>
-
-27
-00:02:22,101 --> 00:02:24,400
-<i>buscando abrigo
-da tempestade.</i>
-
-28
-00:02:25,900 --> 00:02:29,600
-<i>Como presente, ela ofereceu
-uma rosa ao príncipe.</i>
-
-29
-00:02:36,000 --> 00:02:38,600
-<i>Enojado pela feiura dela,</i>
-
-30
-00:02:38,601 --> 00:02:41,200
-<i>o príncipe a mandou
-embora.</i>
-
-31
-00:02:44,000 --> 00:02:47,500
-<i>Ela o advertiu a não se enganar
-pelas aparências...</i>
-
-32
-00:02:51,800 --> 00:02:54,600
-<i>pois a beleza vem
-do interior.</i>
-
-33
-00:02:57,400 --> 00:03:02,100
-<i>Ao dispensá-la mais uma vez,
-a aparência da senhora mudou.</i>
-
-34
-00:03:05,700 --> 00:03:09,800
-<i>Revelando
-uma bela feiticeira.</i>
-
-35
-00:03:16,800 --> 00:03:20,500
-<i>O príncipe implorou por perdão,
-mas já era tarde.</i>
-
-36
-00:03:21,800 --> 00:03:25,200
-<i>Pois ela percebeu que não havia
+00:02:13,840 --> 00:02:17,510
+<i>Ela havia visto que não existia
 amor no coração dele.</i>
 
-37
-00:03:25,201 --> 00:03:28,700
-Zip! Zip! Senhor!
+20
+00:02:17,590 --> 00:02:21,220
+<i>Como castigo, ela o transformou
+numa fera horrenda...</i>
 
-38
-00:03:31,100 --> 00:03:32,500
-<i>Como punição,</i>
+21
+00:02:21,300 --> 00:02:26,890
+<i>e colocou um poderoso feitiço
+no castelo e em seus moradores.</i>
 
-39
-00:03:32,501 --> 00:03:36,700
-<i>ela o transformou
-em uma hedionda fera.</i>
+22
+00:02:26,980 --> 00:02:29,480
+<i>Com vergonha
+do seu horrível físico,</i>
 
-40
-00:03:37,500 --> 00:03:40,000
-<i>E lançou um feitiço
-no castelo...</i>
+23
+00:02:29,560 --> 00:02:32,570
+<i>a fera fechou-se
+em seu castelo,</i>
 
-41
-00:03:40,400 --> 00:03:43,100
-<i>e em todos
-que viviam nele.</i>
+24
+00:02:32,650 --> 00:02:38,200
+<i>com um espelho mágico como sua
+única janela para o exterior.</i>
 
-42
-00:03:48,500 --> 00:03:50,800
-<i>Com o passar dos anos,</i>
+25
+00:02:38,280 --> 00:02:40,570
+<i>A rosa que ela ofereceu...</i>
 
-43
-00:03:50,801 --> 00:03:54,100
-<i>o príncipe e os servos dele
-foram esquecidos por todos.</i>
+26
+00:02:40,660 --> 00:02:43,160
+<i>era realmente uma rosa encantada,</i>
 
-44
-00:03:54,101 --> 00:03:57,000
-<i>Pois a feiticeira havia
-os apagado da memória</i>
+27
+00:02:43,240 --> 00:02:46,830
+<i>a qual floresceria até
+seu 21 º aniversário.</i>
 
-45
-00:03:57,001 --> 00:03:59,400
-<i>das pessoas
-que eles amavam.</i>
-
-46
-00:04:00,400 --> 00:04:04,500
-<i>Mas a rosa que ela ofereceu
-era encantada.</i>
-
-47
-00:04:05,300 --> 00:04:07,500
+28
+00:02:46,910 --> 00:02:49,620
 <i>Se ele aprendesse
-a amar alguém</i>
+a amar outra pessoa,</i>
 
-48
-00:04:07,501 --> 00:04:11,500
-<i>e fosse correspondido
+29
+00:02:49,710 --> 00:02:54,750
+<i>e merecesse o amor dela
 antes da última pétala cair,</i>
 
-49
-00:04:11,501 --> 00:04:13,400
-<i>o feitiço se quebraria.</i>
+30
+00:02:54,840 --> 00:02:58,130
+<i>o feitiço seria desfeito.</i>
 
-50
-00:04:14,000 --> 00:04:16,200
-<i>Caso contrário,
-ele seria condenado</i>
+31
+00:02:58,220 --> 00:03:00,890
+<i>Se não,
+ele seria fadado...</i>
 
-51
-00:04:16,201 --> 00:04:19,800
+32
+00:03:00,970 --> 00:03:05,470
 <i>a permanecer como fera
-por toda eternidade.</i>
+pela eternidade.</i>
 
-52
-00:04:21,200 --> 00:04:22,800
+33
+00:03:05,560 --> 00:03:07,640
 <i>Com o passar dos anos,</i>
 
-53
-00:04:22,801 --> 00:04:25,600
-<i>ele se entregou ao desespero
+34
+00:03:07,730 --> 00:03:13,190
+<i>ele entregou-se ao desespero,
 e perdeu as esperanças.</i>
 
+35
+00:03:13,270 --> 00:03:17,360
+<i>Afinal, quem poderia
+amar uma fera?</i>
+
+36
+00:03:17,360 --> 00:03:25,000
+<i><b>A Bela
+e a FERA</b></i>
+
+37
+00:03:43,840 --> 00:03:49,180
+<i>Tudo é igual
+Nesta minha aldeia</i>
+
+38
+00:03:49,270 --> 00:03:54,150
+<i>Sempre está
+Nesta mesma paz</i>
+
+39
+00:03:54,230 --> 00:03:58,610
+<i>De manhã
+Todos se levantam</i>
+
+40
+00:03:58,690 --> 00:04:03,890
+<i>Prontos pra dizer</i>
+
+41
+00:04:03,890 --> 00:04:03,910
+<i>"Bonjour".
+Prontos pra dizer</i>
+
+42
+00:04:03,910 --> 00:04:04,700
+<i>"Bonjour".</i>
+
+43
+00:04:04,700 --> 00:04:07,950
+<i>- "Bonjour".
+- "Bonjour".</i>
+
+44
+00:04:07,950 --> 00:04:11,750
+<i>Vem o padeiro
+com seu tabuleiro</i>
+
+45
+00:04:11,830 --> 00:04:15,000
+<i>Com pães e bolos
+pra ofertar</i>
+
+46
+00:04:15,080 --> 00:04:17,000
+<i>Todo o dia
+É sempre assim</i>
+
+47
+00:04:17,090 --> 00:04:18,800
+<i>Desde o dia em que eu vim</i>
+
+48
+00:04:18,880 --> 00:04:21,420
+<i>Pra esta aldeia do interior
+- Bom dia, Bela.</i>
+
+49
+00:04:21,510 --> 00:04:23,380
+- Bom dia, senhor.
+- Aonde vai?
+
+50
+00:04:23,470 --> 00:04:26,640
+À livraria. Acabo de ler
+uma história maravilhosa.
+
+51
+00:04:26,720 --> 00:04:29,180
+- Sobre um pé de feijão e um ogro e...
+- Que legal.
+
+52
+00:04:29,260 --> 00:04:32,560
+Marie! As baguetes!
+Depressa!
+
+53
+00:04:32,640 --> 00:04:36,060
+<i>Temos aqui
+Uma garota estranha</i>
+
 54
-00:04:26,000 --> 00:04:29,650
-<i>Afinal, quem seria capaz
-de amar uma fera?</i>
+00:04:36,150 --> 00:04:39,530
+<i>Tão distraída lá vai ela</i>
 
 55
-00:04:31,400 --> 00:04:35,700
-<b>A BELA E A FERA</b>
+00:04:39,610 --> 00:04:43,240
+<i>Não se dá com o pessoal
+Pensa que é muito especial</i>
 
 56
-00:04:54,300 --> 00:04:59,100
-<i>Cidadezinha,
-esta é uma aldeia sossegada</i>
+00:04:43,320 --> 00:04:47,530
+<i>Chega a ser muito
+engraçada a nossa Bela</i>
 
 57
-00:04:59,400 --> 00:05:04,800
-<i>Todos os dias
-são semelhantes</i>
+00:04:47,620 --> 00:04:49,540
+- ''Bonjour''
+- Bom dia
 
 58
-00:05:04,801 --> 00:05:11,200
-<i>Cidadezinha,
-habitada por pequenas pessoas</i>
+00:04:49,620 --> 00:04:51,250
+Como vão todos?
 
 59
-00:05:12,000 --> 00:05:17,600
-<i>Acordando e dizendo...</i>
+00:04:51,330 --> 00:04:53,370
+- ''Bonjour''
+- Bom dia
 
 60
-00:05:23,400 --> 00:05:25,200
-<i>- Bonjour.</i>
-<i>- Bonjour.</i>
+00:04:53,460 --> 00:04:55,080
+Como vai sua esposa?
 
 61
-00:05:25,201 --> 00:05:27,500
-<i>- Bonjour.
-- Bonjour.</i>
+00:04:55,170 --> 00:04:58,590
+- Eu preciso de seis ovos
+- São muito caros
 
 62
-00:05:27,501 --> 00:05:31,300
-<i>Lá vai o padeiro
-com sua bandeja, como sempre</i>
+00:04:58,670 --> 00:05:02,800
+<i>Eu quero mais que
+a vida do interior</i>
 
 63
-00:05:31,301 --> 00:05:34,100
-<i>O mesmo pão velho
-e rosquinhas para vender</i>
+00:05:02,880 --> 00:05:05,260
+- Ah, Bela!
+- Bom dia.
 
 64
-00:05:34,700 --> 00:05:36,500
-<i>Todas as manhãs são iguais</i>
+00:05:05,340 --> 00:05:08,220
+- Vim devolver o livro
+que peguei emprestado.
+- Já terminou?
 
 65
-00:05:36,501 --> 00:05:40,100
-<i>Desde a manhã que viemos
-para esta cidade do interior</i>
+00:05:08,300 --> 00:05:10,890
+- Não consegui largar-lo.
+- Você tem algo novo?
 
 66
-00:05:40,101 --> 00:05:43,450
-- Bom dia, Bela!
-- Bom dia, <i>monsieur</i> Jean!
+00:05:10,970 --> 00:05:12,770
+Desde ontem, não.
 
 67
-00:05:43,451 --> 00:05:45,000
-Perdeu algo de novo?
+00:05:12,850 --> 00:05:16,230
+Tudo bem. Levarei este!
 
 68
-00:05:45,001 --> 00:05:49,000
-Acredito que sim,
-mas eu não lembro o quê!
+00:05:16,310 --> 00:05:18,770
+Esse?
+Mas você já leu ele duas vezes.
 
 69
-00:05:49,001 --> 00:05:50,700
-Tenho certeza
-que irei me lembrar.
+00:05:18,860 --> 00:05:20,980
+E meu preferido!
+Lugares distantes,...
 
 70
-00:05:51,400 --> 00:05:53,100
-Para onde está indo?
+00:05:21,070 --> 00:05:24,240
+duelos arriscados, feitiços,
+um príncipe disfarçado...
 
 71
-00:05:53,101 --> 00:05:55,200
-Devolver este livro
-ao Père Robert.
+00:05:24,320 --> 00:05:27,490
+Já que gosta tanto,
+ele é seu.
 
 72
-00:05:55,201 --> 00:05:57,300
-É sobre dois amantes
-em Verona.
+00:05:27,570 --> 00:05:29,200
+- Mas, senhor...
+- Eu insisto.
 
 73
-00:05:57,301 --> 00:05:58,800
-Parece ser chato.
+00:05:29,280 --> 00:05:32,370
+Bem, obrigada.
+Muito obrigada.
 
 74
-00:05:59,200 --> 00:06:03,200
-<i>Olha, lá vai ela! Essa garota
-é estranha, sem dúvidas</i>
+00:05:32,450 --> 00:05:36,080
+<i>Essa garota é tão esquisita</i>
 
 75
-00:06:03,201 --> 00:06:05,601
-<i>Ela está sonhando acordada
-e distraída, não acha?</i>
+00:05:36,160 --> 00:05:39,420
+<i>O que será que há com ela?</i>
 
 76
-00:06:08,500 --> 00:06:10,500
-<i>Não interage com ninguém</i>
+00:05:39,500 --> 00:05:42,920
+<i>Sonhadora criatura...
+Tem mania de leitura</i>
 
 77
-00:06:10,501 --> 00:06:12,350
-<i>Porque vive sempre
-nas nuvens</i>
+00:05:43,010 --> 00:05:47,050
+<i>É um enigma para
+nós a nossa Bela</i>
 
 78
-00:06:12,351 --> 00:06:16,000
-<i>Não tem como negar que essa Bela
-é uma garota engraçada</i>
+00:05:47,130 --> 00:05:49,640
+<i>Oh,</i>
 
 79
-00:06:16,800 --> 00:06:20,650
-<i>Bonjour, bom dia!
-Como está sua família?</i>
+00:05:49,720 --> 00:05:53,270
+<i>Mas que lindo quadro</i>
 
 80
-00:06:20,651 --> 00:06:24,100
-<i>Bonjour, bom dia!
-Como está sua esposa?</i>
+00:05:53,350 --> 00:05:55,850
+<i>Quando os dois se encontram</i>
 
 81
-00:06:24,500 --> 00:06:28,000
-<i>Preciso de seis ovos,
-está caro demais!</i>
+00:05:55,930 --> 00:06:02,570
+<i>No jardim</i>
 
 82
-00:06:28,001 --> 00:06:32,800
-<i>Deve haver mais
-do que esta vida no interior.</i>
+00:06:02,650 --> 00:06:08,740
+<i>É o príncipe encantado</i>
 
 83
-00:06:35,100 --> 00:06:38,100
-Se não é a única leitora ávida
-nesta cidade.
+00:06:08,820 --> 00:06:12,910
+<i>E ela só descobre quem ele é...</i>
 
 84
-00:06:38,101 --> 00:06:41,000
-Então, para onde fugiu
-nesta semana?
+00:06:12,990 --> 00:06:16,370
+<i>quase no fim</i>
 
 85
-00:06:41,001 --> 00:06:42,850
-Para duas cidades
-no norte da Itália.
+00:06:16,450 --> 00:06:18,000
+Hey-hey!
+Hey-hey-hey!
 
 86
-00:06:42,851 --> 00:06:46,100
-Não queria ter voltado.
-Tem algum lugar novo para ir?
+00:06:18,080 --> 00:06:21,880
+<i>O nome dela
+quer dizer beleza</i>
 
 87
-00:06:46,101 --> 00:06:49,700
-Infelizmente não, mas pode reler
-um dos antigos que gosta.
+00:06:21,960 --> 00:06:25,090
+<i>Não há melhor
+nome para ela</i>
 
 88
-00:06:49,701 --> 00:06:51,100
-Obrigada.
+00:06:25,170 --> 00:06:28,840
+<i>Mas por trás dessa fachada
+Ela é muito fechada</i>
 
 89
-00:06:52,300 --> 00:06:55,200
-Sua biblioteca faz o pequeno
-parecer grande.
+00:06:28,930 --> 00:06:30,760
+<i>Ela é metida a inteligente</i>
 
 90
-00:06:55,201 --> 00:06:57,900
-<i>- Bon voyage.</i>
-- Tchau.
+00:06:30,840 --> 00:06:32,600
+<i>Não se parece com a gente</i>
 
 91
-00:06:58,800 --> 00:07:02,600
-<i>Olha, lá vai ela,
-essa garota é tão peculiar</i>
+00:06:32,680 --> 00:06:36,560
+<i>Se há uma moça
+diferente é a Bela!</i>
 
 92
-00:07:02,601 --> 00:07:05,400
-<i>Eu me pergunto se ela está
-se sentindo bem</i>
+00:06:42,400 --> 00:06:44,440
+Você não erra uma, Gaston!
 
 93
-00:07:06,100 --> 00:07:07,900
-<i>Com um olhar distante
-e sonhador</i>
-
-94
-00:07:07,901 --> 00:07:10,000
-<i>E o nariz enfiado
-em um livro</i>
-
-95
-00:07:10,001 --> 00:07:14,000
-<i>Como essa Bela
-é um enigma para todos nós</i>
-
-96
-00:07:14,001 --> 00:07:20,200
-<i>Não é incrível?</i>
-
-97
-00:07:20,201 --> 00:07:22,700
-<i>Essa é minha parte
-preferida</i>
-
-98
-00:07:22,701 --> 00:07:29,200
-<i>Você verá o porquê</i>
-
-99
-00:07:29,201 --> 00:07:35,600
-<i>Nessa parte, ela encontra
-o Príncipe Encantado</i>
-
-100
-00:07:35,601 --> 00:07:39,800
-<i>Mas ela só descobre
-quem ele é</i>
-
-101
-00:07:39,801 --> 00:07:44,200
-<i>No capítulo três</i>
-
-102
-00:07:45,100 --> 00:07:49,000
-<i>Faz sentido que o nome dela
-signifique beleza</i>
-
-103
-00:07:49,001 --> 00:07:52,000
-<i>A aparência dela
-não tem igual</i>
-
-104
-00:07:52,301 --> 00:07:54,250
-<i>Mas por trás
-dessa bela aparência</i>
-
-105
-00:07:54,251 --> 00:07:56,200
-<i>Temo que ela seja estranha</i>
-
-106
-00:07:56,201 --> 00:07:58,200
-<i>Muito diferente
-do resto de nós</i>
-
-107
-00:07:58,201 --> 00:08:00,150
-<i>Completamente diferente
-do resto de nós</i>
-
-108
-00:08:00,151 --> 00:08:04,400
-<i>Sim, Bela é diferente
-de nós</i>
-
-109
-00:08:08,900 --> 00:08:12,800
-Olhe para ela, LeFou.
-Minha futura esposa.
-
-110
-00:08:13,900 --> 00:08:16,800
-A Bela é a moça mais bonita
-de toda a aldeia.
-
-111
-00:08:16,801 --> 00:08:20,900
-- Isso a torna a melhor.
-- Mas ela é tão culta.
-
-112
-00:08:20,901 --> 00:08:25,700
-- E você é tão... atlético.
+00:06:44,520 --> 00:06:47,320
+- Você é o melhor caçador do mundo!
 - Eu sei.
 
+94
+00:06:47,400 --> 00:06:49,860
+Nenhuma fera teria
+chance contra você.
+
+95
+00:06:49,950 --> 00:06:52,820
+- Por sinal, nem uma garota.
+- E verdade, Lefou.
+
+96
+00:06:52,910 --> 00:06:55,370
+E eu estou de olho
+naquela ali.
+
+97
+00:06:55,450 --> 00:06:57,830
+- A filha do inventor?
+- É ela!
+
+98
+00:06:57,910 --> 00:07:00,120
+- A garota de sorte com quem vou me casar.
+- Mas ela é...
+
+99
+00:07:00,210 --> 00:07:02,380
+- A garota mais bela da cidade.
+- Eu sei, mas...
+
+100
+00:07:02,460 --> 00:07:04,840
+Por isso ela é a melhor!
+
+101
+00:07:04,920 --> 00:07:08,670
+- E não mereço o melhor?
+- Claro que sim.
+
+102
+00:07:08,760 --> 00:07:12,640
+<i>Desde o momento em que
+eu a vi, eu disse:</i>
+
+103
+00:07:12,720 --> 00:07:15,970
+<i>''Não há ninguém
+igual a ela''</i>
+
+104
+00:07:16,060 --> 00:07:18,020
+<i>Eu vi logo que ela tinha...</i>
+
+105
+00:07:18,100 --> 00:07:19,850
+<i>A beleza igual à minha</i>
+
+106
+00:07:19,930 --> 00:07:23,980
+<i>E é por isso que eu
+quero casar com ela</i>
+
+107
+00:07:24,060 --> 00:07:27,940
+<i>Lá vai Gaston ela
+Vive sonhando</i>
+
+108
+00:07:28,030 --> 00:07:31,150
+<i>Monsieur Gaston
+É bonitão</i>
+
+109
+00:07:31,240 --> 00:07:34,780
+<i>Quando ele passa
+eu fico arfando</i>
+
+110
+00:07:34,870 --> 00:07:39,330
+<i>É forte, é broto
+E é um solteirão</i>
+
+111
+00:07:39,410 --> 00:07:40,540
+<i>- ''Bonjour'', Pardon
+- Bom dia</i>
+
+112
+00:07:40,620 --> 00:07:42,620
+<i>- Mas isso é bacon?
+- Que belas uvas!</i>
+
 113
-00:08:25,701 --> 00:08:28,150
-Bela pode ser tão argumentativa
-quanto bonita.
+00:07:42,710 --> 00:07:43,920
+<i>- Mais queijo!
+- Dez metros!</i>
 
 114
-00:08:28,151 --> 00:08:31,000
-Exatamente! Quem precisa dela,
-quando tem a nós?
+00:07:44,000 --> 00:07:46,170
+<i>- Pardon
+- Eu pego a faca
+- Quero passar</i>
 
 115
-00:08:31,001 --> 00:08:32,600
-Sim.
+00:07:46,250 --> 00:07:49,460
+<i>- O pão, está velho!
+- Os peixes, já fedem!
+- Estão enganados</i>
 
 116
-00:08:32,601 --> 00:08:36,100
-Desde a guerra, eu sinto
-como se estivesse faltando algo.
+00:07:49,550 --> 00:07:53,300
+<i>A vida aqui nunca vai mudar</i>
 
 117
-00:08:36,401 --> 00:08:39,100
-E ela é a única garota
-que me dá essa sensação de...
+00:07:53,380 --> 00:07:57,510
+<i>Eu quero levar Bela
+para o altar</i>
 
 118
-00:08:39,500 --> 00:08:41,100
-<i>Je ne sais quoi?</i>
+00:07:57,600 --> 00:08:00,810
+<i>Nós nunca vimos
+moça tão estranha</i>
 
 119
-00:08:41,101 --> 00:08:42,900
-Não sei
-o que isso significa.
+00:08:00,890 --> 00:08:04,150
+<i>É especial essa donzela</i>
 
 120
-00:08:43,200 --> 00:08:47,200
-<i>Desde o momento
-que eu a vi</i>
+00:08:04,230 --> 00:08:07,650
+<i>Nem parece que é daqui...
+Pois não se adapta aqui</i>
 
 121
-00:08:47,201 --> 00:08:50,600
-<i>Eu disse: "Ela é linda"
-e me apaixonei</i>
+00:08:07,730 --> 00:08:10,070
+<i>Todo mundo aqui
+acha que ela</i>
 
 122
-00:08:50,900 --> 00:08:54,900
-<i>Aqui na cidade,
-só ela é tão bela quanto eu</i>
+00:08:10,150 --> 00:08:16,740
+<i>É filha de um matusquela
+Mas todo mundo diz que ela é...</i>
 
 123
-00:08:54,901 --> 00:08:58,900
-<i>Então estou planejando
-conquistar e me casar com a Bela</i>
+00:08:16,820 --> 00:08:20,910
+<i>Bela!</i>
 
 124
-00:08:59,300 --> 00:09:01,300
-<i>Olha, lá vai ele</i>
+00:08:25,920 --> 00:08:28,960
+- Oi, Bela.
+- Bom dia, Gaston.
 
 125
-00:09:01,301 --> 00:09:03,200
-<i>Ele não é o homem
-dos seus sonhos?</i>
+00:08:29,050 --> 00:08:31,050
+Pode me dar meu livro
+de volta, por favor?
 
 126
-00:09:03,201 --> 00:09:06,700
-<i>Monsieur Gaston,
-como ele é lindo!</i>
+00:08:31,130 --> 00:08:33,670
+Como pode ler isto?
+Não tem desenhos!
 
 127
-00:09:07,000 --> 00:09:10,400
-<i>Calma, coração,
-eu mal consigo respirar</i>
+00:08:33,760 --> 00:08:36,050
+Algumas pessoas
+usam a imaginação.
 
 128
-00:09:10,401 --> 00:09:15,400
-<i>Ele é tão alto, moreno,
-forte, belo e... bruto</i>
+00:08:36,140 --> 00:08:38,760
+Bela, está na hora de você
+tirar a cara dos livros...
 
 129
-00:09:21,200 --> 00:09:23,300
-Isso nunca vai acontecer,
-madames.
+00:08:38,850 --> 00:08:41,520
+e dedicar-se a coisas
+mais importantes.
 
 130
-00:09:28,400 --> 00:09:30,450
-<i>- Bonjour!
-- Bom dia!</i>
+00:08:41,600 --> 00:08:43,270
+Como a mim.
 
 131
-00:09:30,451 --> 00:09:32,400
-<i>- Isso é bacon?
-- Que flores lindas!</i>
+00:08:44,690 --> 00:08:47,020
+A cidade inteira
+está comentando.
 
 132
-00:09:32,401 --> 00:09:33,900
-<i>- Aceita queijo?
-- Meio quilo.</i>
+00:08:47,100 --> 00:08:49,110
+Ler não é bom para a mulher.
 
 133
-00:09:33,901 --> 00:09:36,200
-<i>Com licença,
-deixa eu passar</i>
+00:08:49,190 --> 00:08:51,900
+Logo ela começará
+a ter idéias e a pensar.
 
 134
-00:09:36,201 --> 00:09:39,800
-<i>- Este pão foi roubado.
-- Esses peixes fedem.</i>
+00:08:51,980 --> 00:08:56,160
+- Gaston, você é muito primitivo.
+- Ora, obrigado, Bela.
 
 135
-00:09:39,801 --> 00:09:43,550
-<i>Deve haver mais
-do que esta vida no interior!</i>
+00:08:56,240 --> 00:08:58,490
+O que acha de você
+e eu caminharmos...
 
 136
-00:09:43,551 --> 00:09:47,700
-<i>Só espere,
-eu vou me casar com a Bela!</i>
+00:08:58,570 --> 00:09:01,580
+- Até a taverna para ver meus troféus?
+- Talvez outra hora.
 
 137
-00:09:47,701 --> 00:09:51,500
-<i>Olhe, lá vai ela! Uma garota
-que é estranha, mas especial</i>
+00:09:01,660 --> 00:09:05,080
+- O que há com ela?
+- Está maluca!
+- Ele é lindo!
 
 138
-00:09:51,501 --> 00:09:54,950
-<i>Uma mademoiselle
-bem peculiar</i>
+00:09:05,160 --> 00:09:08,750
+Por favor, Gaston. Não posso.
+Tenho que voltar para casa e ajudar meu pai.
 
 139
-00:09:54,951 --> 00:09:58,700
-<i>É uma pena e um pecado,
-mas ela não se encaixa</i>
+00:09:08,830 --> 00:09:10,380
+Adeus.
 
 140
-00:09:58,701 --> 00:10:00,700
-<i>Porque ela é
-uma garota engraçada</i>
+00:09:10,460 --> 00:09:14,260
+Aquele velho maluco!
+Ele precisa de toda a ajuda possível!
 
 141
-00:10:00,701 --> 00:10:02,500
-<i>É bela, mas engraçada</i>
+00:09:14,340 --> 00:09:16,380
+Não fale assim do meu pai!
 
 142
-00:10:02,501 --> 00:10:07,700
-<i>Ela é realmente
-uma garota engraçada</i>
+00:09:16,470 --> 00:09:19,050
+Sim! Não fale
+assim do pai dela!
 
 143
-00:10:07,701 --> 00:10:12,650
-<i>Aquela Bela!</i>
+00:09:19,140 --> 00:09:21,470
+Meu pai não está louco.
+Ele é um gênio!
 
 144
-00:10:12,651 --> 00:10:17,100
-Bom dia, Bela!
-Esse é um belo livro.
+00:09:35,360 --> 00:09:39,410
+- Papai?
+- Como foi acontecer isso?
 
 145
-00:10:17,700 --> 00:10:19,200
-Você já o leu?
+00:09:39,490 --> 00:09:42,160
+- Droga.
+- Você está bem, papai?
 
 146
-00:10:19,600 --> 00:10:23,000
-Esse não,
-mas sabe como é, livros...
+00:09:42,240 --> 00:09:46,580
+Est..Estou quase desistindo
+dessa lata velha!
 
 147
-00:10:23,700 --> 00:10:25,350
-Para sua mesa de jantar.
+00:09:46,660 --> 00:09:49,750
+- Você sempre diz isso.
+- Desta vez é pra valer!
 
 148
-00:10:25,351 --> 00:10:27,101
-Devo me juntar a você
-hoje à noite?
+00:09:49,830 --> 00:09:52,750
+Nunca farei esta geringonça
+cabeça-dura funcionar.
 
 149
-00:10:28,400 --> 00:10:30,600
-Desculpa, hoje à noite, não.
+00:09:52,840 --> 00:09:56,170
+Fará, sim. E receberá o
+primeiro prêmio amanhã na feira.
 
 150
-00:10:30,900 --> 00:10:34,000
-- Estará ocupada?
-- Não...
+00:09:56,260 --> 00:10:00,340
+E será um inventor
+de fama internacional.
 
 151
-00:10:37,700 --> 00:10:41,400
-- Então, partirá para outra?
-- Não, LeFou.
+00:10:00,430 --> 00:10:04,140
+- Você acha mesmo?
+- Sempre achei.
 
 152
-00:10:41,700 --> 00:10:45,100
-As mais difíceis
-são as mais doces.
+00:10:04,220 --> 00:10:08,560
+O que estamos esperando?
+Consertarei essa coisa em dois toques.
 
 153
-00:10:45,450 --> 00:10:47,100
-É o que torna a Bela
-tão atraente.
+00:10:08,640 --> 00:10:11,810
+Alcance-me essa
+chave perna-de-cachorro.
 
 154
-00:10:47,101 --> 00:10:50,100
-Ela não se fez de boba
-só para ganhar os meus favores.
+00:10:11,900 --> 00:10:14,730
+- Divertiu-se na aldeia hoje?
 
 155
-00:10:50,500 --> 00:10:53,600
-- Como chamamos isso?
-- Dignidade?
+00:10:14,820 --> 00:10:17,110
+- Peguei mais um livro.
 
 156
-00:10:53,601 --> 00:10:57,000
-- É muito atraente, não é?
-- Gaston!
-
-157
-00:11:25,100 --> 00:11:29,200
-<i>Como um momento pode durar
-para sempre?</i>
-
-158
-00:11:29,900 --> 00:11:33,800
-<i>Como pode
-uma história nunca morrer?</i>
-
-159
-00:11:34,400 --> 00:11:39,000
-<i>É ao amor
-que devemos nos apegar</i>
-
-160
-00:11:39,400 --> 00:11:43,300
-<i>Nunca é fácil,
-mas nós tentamos</i>
-
-161
-00:11:44,900 --> 00:11:48,500
-<i>Às vezes,
-nossa felicidade é capturada</i>
-
-162
-00:11:49,700 --> 00:11:53,900
-<i>De algum modo,
-o tempo e o lugar resistem</i>
-
-163
-00:11:54,900 --> 00:12:00,100
-<i>O amor vive
-dentro de nossos corações</i>
-
-164
-00:12:00,900 --> 00:12:04,000
-<i>E sempre viverá</i>
-
-165
-00:12:07,800 --> 00:12:09,200
-Bela!
-
-166
-00:12:11,700 --> 00:12:14,600
-Você poderia
-entregar-me a...
-
-167
-00:12:17,600 --> 00:12:19,100
-Obrigado.
-
-168
-00:12:21,100 --> 00:12:24,500
-E também preciso...
-Não, não.
-
-169
-00:12:25,500 --> 00:12:29,300
-Na verdade... é o que preciso.
-Obrigado.
-
-170
-00:12:40,600 --> 00:12:42,600
+00:10:17,190 --> 00:10:20,160
 Papai, você me acha estranha?
 
-171
-00:12:43,000 --> 00:12:47,100
-Estranha?
+157
+00:10:20,240 --> 00:10:22,280
 Minha filha? Estranha?
 
+158
+00:10:22,370 --> 00:10:24,370
+De onde tirou essa idéia?
+
+159
+00:10:24,450 --> 00:10:28,790
+Não sei. Só não tenho certeza
+se me encaixo neste lugar.
+
+160
+00:10:28,870 --> 00:10:30,870
+Não tenho
+com quem conversar.
+
+161
+00:10:30,960 --> 00:10:34,460
+E aquele Gaston?
+E bem apessoado.
+
+162
+00:10:34,550 --> 00:10:38,260
+É bem apessoado, sim.
+E grosseiro, exibido e...
+
+163
+00:10:38,340 --> 00:10:42,340
+- Papai, ele não é para mim.
+- Não se preocupe...
+
+164
+00:10:42,430 --> 00:10:46,270
+porque esta invenção será o começo
+de uma nova vida para nós.
+
+165
+00:10:46,350 --> 00:10:49,270
+Acho que está pronta.
+Então, vamos tentar.
+
+166
+00:11:03,660 --> 00:11:07,290
+- Funciona!
+- Funciona?
+
+167
+00:11:07,370 --> 00:11:09,410
+- Funciona!
+- Você conseguiu!
+
+168
+00:11:09,500 --> 00:11:11,420
+Conseguiu mesmo!
+
+169
+00:11:11,500 --> 00:11:14,750
+Prepare o Philippe, garota!
+Estou indo para a feira!
+
+170
+00:11:16,630 --> 00:11:19,050
+Tchau, papai!
+Boa sorte!
+
+171
+00:11:19,130 --> 00:11:22,220
+Tchau, Bela! E cuide-se
+durante minha ausência!
+
 172
-00:12:47,101 --> 00:12:49,200
-Onde você ouviu isso?
+00:11:39,940 --> 00:11:42,110
+Já deveríamos ter chegado.
 
 173
-00:12:49,201 --> 00:12:51,900
-Não sei.
-As pessoas falam.
+00:11:42,200 --> 00:11:44,360
+Talvez tenhamos
+errado o caminho.
 
 174
-00:12:52,300 --> 00:12:56,700
-É uma aldeia pequena.
-Mentes pequenas, também.
+00:11:44,450 --> 00:11:47,740
+Acho que eu deveria ter...
+Espere aí.
 
 175
-00:12:58,200 --> 00:13:01,000
-Mas pequena
-também significa segura.
+00:11:52,120 --> 00:11:54,170
+Não. Vamos por aqui.
 
 176
-00:13:01,500 --> 00:13:04,100
-Em Paris, eu conheci
-uma garota como você
+00:12:04,970 --> 00:12:08,430
+Vamos, Philippe! E um atalho.
+Chegaremos lá em breve.
 
 177
-00:13:04,101 --> 00:13:07,500
-que era tão... precoce.
+00:12:28,330 --> 00:12:31,540
+Não pode ser por aqui.
+Aonde nos trouxe, Philippe?
 
 178
-00:13:08,100 --> 00:13:11,700
-Diferente.
-As pessoas zombavam dela.
+00:12:31,620 --> 00:12:34,330
+É melhor voltarmos.
 
 179
-00:13:12,600 --> 00:13:16,500
-Até o dia em que todos
-estavam imitando-a.
+00:12:35,830 --> 00:12:39,710
+Calma! Calma, garoto!
+Calma, Philippe.
 
 180
-00:13:24,100 --> 00:13:26,700
-Por favor,
-fale mais sobre ela.
+00:12:41,920 --> 00:12:45,260
+Cuidado! Não!
 
 181
-00:13:31,200 --> 00:13:35,300
-Sua mãe era... destemida.
+00:12:48,180 --> 00:12:51,770
+Calma, garoto!
 
 182
-00:13:39,000 --> 00:13:40,400
-Destemida.
+00:12:53,100 --> 00:12:55,850
+Para trás! Para trás!
 
 183
-00:14:00,200 --> 00:14:03,400
-Então,
-quer algo do mercado?
+00:12:55,940 --> 00:12:59,650
+Muito bem. Muito bem.
+É isso aí. Isso... Para trás.
 
 184
-00:14:04,000 --> 00:14:06,600
-Uma rosa.
-Como a da pintura.
+00:12:59,730 --> 00:13:02,360
+Calma. Calma ,agora
+Calma.
 
 185
-00:14:06,601 --> 00:14:10,400
-- Você pede isso todo ano!
-- E todo ano você a traz.
+00:13:02,440 --> 00:13:05,200
+Calma. Não! Philippe, não!
 
 186
-00:14:10,401 --> 00:14:12,000
-Então eu lhe trarei outra.
+00:13:12,330 --> 00:13:14,620
+Philippe?
 
 187
-00:14:12,500 --> 00:14:14,000
-Tem a minha palavra.
+00:13:16,250 --> 00:13:18,080
+Oh.
 
 188
-00:14:15,500 --> 00:14:17,600
-- Até logo, papai.
-- Tchau, Bela.
+00:13:40,060 --> 00:13:43,360
+Socorro!
+Tem... Tem alguém aí?
 
 189
-00:14:18,600 --> 00:14:20,000
-Vamos, Philippe.
+00:13:43,440 --> 00:13:44,940
+Socorro!
 
 190
-00:14:20,900 --> 00:14:23,300
-- Você sabe o caminho.
-- Eu te vejo amanhã!
+00:13:49,320 --> 00:13:51,070
+Oh!
 
 191
-00:14:23,301 --> 00:14:26,500
-Certo!
-Amanhã, com a rosa!
+00:14:12,390 --> 00:14:15,270
+... Oh!
 
 192
-00:14:32,700 --> 00:14:34,200
-Cuide-se.
+00:14:20,600 --> 00:14:22,610
+Olá?
 
 193
-00:15:13,700 --> 00:15:15,400
-O que está fazendo?
-
-194
-00:15:16,500 --> 00:15:18,000
-Lavando roupa.
-
-195
-00:15:19,000 --> 00:15:21,400
-Vem cá!
-
-196
-00:15:26,700 --> 00:15:31,000
-- "O pássaro azul..."
-- "Que voa...
-
-197
-00:15:31,001 --> 00:15:36,000
-sobre a floresta escura."
-
-198
-00:15:36,800 --> 00:15:38,400
-Isso foi incrível!
-
-199
-00:15:38,900 --> 00:15:41,400
-Que diabos está fazendo?
-
-200
-00:15:41,401 --> 00:15:43,800
-Ensinando outra menina
-a ler?
-
-201
-00:15:43,801 --> 00:15:45,900
-Uma só já não é o suficiente?
-
-202
-00:15:46,300 --> 00:15:48,200
-Temos que fazer algo.
-
-203
-00:15:59,900 --> 00:16:04,800
-Você é a coisa mais selvagem
-e linda que eu já vi.
-
-204
-00:16:05,200 --> 00:16:06,850
-Ninguém merece você,
-
-205
-00:16:06,851 --> 00:16:09,800
-mesmo assim sabemos
-que nossos filhos serão lindos.
-
-206
-00:16:09,801 --> 00:16:12,700
-- Estou interrompendo algo?
-- O que foi, LeFou?
-
-207
-00:16:12,701 --> 00:16:15,400
-Há uma certa donzela
-em perigo.
-
-208
-00:16:17,900 --> 00:16:19,500
-É hora de ser um herói.
-
-209
-00:16:20,900 --> 00:16:22,800
-Ainda não terminei
-com você.
-
-210
-00:16:25,400 --> 00:16:26,800
-Nem eu.
-
-211
-00:16:27,800 --> 00:16:30,600
-Bela! Disseram que você
-teve problemas com o diretor.
-
-212
-00:16:30,601 --> 00:16:32,400
-Ele nunca gostou de mim
-também.
-
-213
-00:16:32,401 --> 00:16:35,200
-Posso dar um conselho
-sobre os aldeões, Bela?
-
-214
-00:16:35,201 --> 00:16:38,400
-Nunca acreditarão na mudança
-que está tentando trazer.
-
-215
-00:16:39,950 --> 00:16:42,850
-Eu só queria ensinar
-uma criança a ler.
-
-216
-00:16:42,851 --> 00:16:45,800
-As únicas crianças
-com quem deveria se preocupar...
-
-217
-00:16:45,801 --> 00:16:47,300
-é com as suas.
-
-218
-00:16:48,100 --> 00:16:51,650
-Eu... não estou pronta
-para ter filhos.
-
-219
-00:16:51,651 --> 00:16:53,651
-Talvez não tenha conhecido
-o homem certo.
-
-220
-00:16:53,652 --> 00:16:57,000
-É uma aldeia pequena, Gaston.
-Conheci todos eles.
-
-221
-00:16:57,800 --> 00:17:00,200
-Bem, tente olhar
-mais uma vez.
-
-222
-00:17:00,201 --> 00:17:02,400
-Alguns de nós mudaram.
-
-223
-00:17:02,401 --> 00:17:05,700
-Gaston,
-nunca seríamos felizes juntos.
-
-224
-00:17:05,701 --> 00:17:08,600
-Ninguém poderia
-mudar tanto assim.
-
-225
-00:17:08,601 --> 00:17:10,200
-Bela...
-
-226
-00:17:11,000 --> 00:17:13,300
-Sabe o que acontece
-com solteiras nesta aldeia
-
-227
-00:17:13,301 --> 00:17:14,701
-depois que os pais morrem?
-
-228
-00:17:14,702 --> 00:17:16,600
-<i>Poderia me dar
-algumas moedas?</i>
-
-229
-00:17:16,601 --> 00:17:19,700
-Imploram por esmola,
-como a pobre Agathe.
-
-230
-00:17:19,701 --> 00:17:22,100
-Este é o nosso mundo, Bela.
-
-231
-00:17:22,400 --> 00:17:25,300
-Nada melhora
-para pessoas simples como nós.
-
-232
-00:17:25,600 --> 00:17:27,600
-Quero ser uma garota
-do campo,
-
-233
-00:17:27,601 --> 00:17:31,100
-mas não sou simples e...
-
-234
-00:17:32,000 --> 00:17:34,000
-Nunca me casarei com você,
-Gaston.
-
-235
-00:17:34,001 --> 00:17:35,500
-Sinto muito!
-
-236
-00:17:51,400 --> 00:17:52,800
-<i>Dá para imaginar?</i>
-
-237
-00:17:52,801 --> 00:17:57,300
-<i>Eu, esposa daquele grosseiro
-e cabeça oca.</i>
-
-238
-00:17:57,900 --> 00:18:01,800
-<i>Madame Gaston,
-dá para imaginar?</i>
-
-239
-00:18:01,801 --> 00:18:05,100
-<i>Madame Gaston,
-a mulherzinha dele</i>
-
-240
-00:18:05,600 --> 00:18:09,000
-<i>Não, senhor, eu não,
-garanto</i>
-
-241
-00:18:09,001 --> 00:18:13,600
-<i>Eu quero mais
-que a vida no interior</i>
-
-242
-00:18:23,100 --> 00:18:28,800
-<i>Eu quero viver uma aventura
-em um lugar vasto</i>
-
-243
-00:18:29,100 --> 00:18:33,200
-<i>Eu quero mais
-do que consigo imaginar</i>
-
-244
-00:18:34,300 --> 00:18:39,100
-<i>E, uma vez na vida,
-seria ótimo</i>
-
-245
-00:18:39,101 --> 00:18:43,600
-<i>Que alguém entendesse</i>
-
-246
-00:18:44,200 --> 00:18:52,200
-<i>Que eu quero muito mais
-do que eles idealizam</i>
-
-247
-00:19:04,000 --> 00:19:07,900
-A floresta está adorável.
-Queria poder reconhecê-la.
-
-248
-00:19:08,700 --> 00:19:11,300
-Sabe onde estamos, Philippe?
-Eu não sei.
-
-249
-00:19:17,000 --> 00:19:19,000
-Está tudo bem, Philippe.
-
-250
-00:19:24,000 --> 00:19:25,700
-Sim, podemos ir por ali.
-
-251
-00:19:26,200 --> 00:19:28,100
-Vamos, para a direita.
-
-252
-00:19:29,000 --> 00:19:32,400
-Isso! Mantenha-se firme!
-Vamos!
-
-253
-00:19:33,100 --> 00:19:35,500
-Quando um caminho se fecha,
-outro se abre.
-
-254
-00:19:37,600 --> 00:19:40,000
-Tudo bem, garoto,
-é apenas neve...
-
-255
-00:19:40,001 --> 00:19:42,000
-em pleno mês de junho.
-
-256
-00:19:42,700 --> 00:19:45,500
-Olhe por onde anda.
-É escorregadio.
-
-257
-00:19:56,700 --> 00:19:59,300
-Vamos, Philippe!
-Vamos!
-
-258
-00:20:07,300 --> 00:20:08,900
-Vamos lá!
-
-259
-00:20:09,400 --> 00:20:11,700
-Vai, Philippe! Vai!
-
-260
-00:20:43,400 --> 00:20:45,200
-Philippe!
-
-261
-00:20:46,600 --> 00:20:48,200
-Bom garoto!
-
-262
-00:20:50,300 --> 00:20:52,200
-Vai, garoto. Vai!
-
-263
-00:21:05,700 --> 00:21:07,600
-Philippe,
-você salvou a minha vida!
-
-264
-00:21:08,700 --> 00:21:10,100
-Muito bem.
-
-265
-00:21:12,000 --> 00:21:16,000
-Vão ter que conseguir o jantar
-em outro lugar, não é?
-
-266
-00:21:23,200 --> 00:21:27,600
-Olhe! É feno.
-E água.
-
-267
-00:21:27,601 --> 00:21:29,800
-Você está a salvo,
-meu velho amigo.
-
-268
-00:21:31,200 --> 00:21:35,700
-Vou cumprimentar
-nosso desconhecido anfitrião.
-
-269
-00:21:36,200 --> 00:21:38,600
-Seja lá quem ele for.
-
-270
-00:22:12,800 --> 00:22:14,300
-Obrigado.
-
-271
-00:22:14,900 --> 00:22:16,300
-Muito...
-
-272
-00:22:22,800 --> 00:22:24,200
-Olá?
-
-273
-00:22:26,700 --> 00:22:28,100
-Olá?
-
-274
-00:22:28,101 --> 00:22:31,900
-Perdoe-me por entrar,
-eu sou apenas um viajante...
-
-275
-00:22:32,500 --> 00:22:35,300
-procurando um abrigo
-para a tempestade.
-
-276
-00:22:36,700 --> 00:22:38,200
-Desculpe incomodar.
-
-277
-00:22:44,100 --> 00:22:47,100
-Alguém em casa?
-Alguém acordado?
-
-278
-00:22:49,900 --> 00:22:51,650
-Ele deve ter se perdido
-na floresta.
-
-279
-00:22:51,651 --> 00:22:53,800
-Quieto, seu idiota!
-
-280
-00:22:55,500 --> 00:22:56,900
-Perdão?
-
-281
-00:23:01,100 --> 00:23:02,600
-Lindo.
-
-282
-00:23:08,400 --> 00:23:10,000
-Extraordinário.
-
-283
-00:23:19,600 --> 00:23:22,600
-- Um homem de bom gosto.
-- Ele estava falando de mim.
-
-284
-00:23:38,500 --> 00:23:41,500
-Bem, seja lá
-quem você for...
-
-285
-00:23:42,400 --> 00:23:45,900
-vou apenas me aquecer
-perto da lareira.
-
-286
-00:23:53,500 --> 00:23:55,000
-Assim é melhor.
-
-287
-00:23:56,600 --> 00:23:58,000
-Bem melhor.
-
-288
-00:24:16,000 --> 00:24:17,500
-Obrigado.
-
-289
-00:24:31,000 --> 00:24:34,800
-A mamãe disse para não me mexer,
-porque você poderia se assustar.
-
-290
-00:24:36,000 --> 00:24:37,400
-Desculpe.
-
-291
-00:24:41,700 --> 00:24:43,100
-Está tudo bem.
-
-292
-00:24:50,400 --> 00:24:53,400
-Eu não tenho palavras
-para agradecer...
-
-293
-00:24:54,000 --> 00:24:55,500
-pela hospitalidade.
-
-294
-00:24:56,200 --> 00:24:57,600
-Eu vou...
-
-295
-00:24:59,200 --> 00:25:02,700
-despedir-me...
-
-296
-00:25:04,000 --> 00:25:05,400
-e boa noite.
-
-297
-00:25:06,100 --> 00:25:08,800
-Vamos, Philippe.
-Vamos!
-
-298
-00:25:11,200 --> 00:25:15,700
-Não, espere!
-Quase me esqueci da rosa.
-
-299
-00:25:16,200 --> 00:25:17,700
-Fique aqui.
-
-300
-00:25:18,800 --> 00:25:20,600
-Prometi à Bela
-que levaria uma rosa.
-
-301
-00:25:44,800 --> 00:25:46,200
-Pronto.
-
-302
-00:26:23,000 --> 00:26:24,400
-Philippe!
-
-303
-00:26:30,300 --> 00:26:31,800
-O que aconteceu?
-
-304
-00:26:32,700 --> 00:26:35,700
-Onde o papai está?
-Leve-me até ele!
-
-305
-00:27:28,200 --> 00:27:31,900
-Olhe! Horloge!
-Uma bela garota.
-
-306
-00:27:31,901 --> 00:27:34,500
-Sim, posso ver
-que é uma garota.
-
-307
-00:27:34,501 --> 00:27:36,400
-Perdi as mãos,
-mas meus olhos...
-
-308
-00:27:36,401 --> 00:27:39,600
-Mas e se for ela?
-Aquela que quebrará o feitiço?
-
-309
-00:27:40,600 --> 00:27:42,100
-Quem disse isso?
-
-310
-00:27:43,100 --> 00:27:44,600
-Quem está aí?
-
-311
-00:28:18,800 --> 00:28:20,300
-Papai?
-
-312
-00:28:26,500 --> 00:28:28,300
-Papai, é você?
-
-313
-00:28:28,900 --> 00:28:31,700
-Bela!
-Como me encontrou?
-
-314
-00:28:32,100 --> 00:28:35,100
-Suas mãos estão congeladas.
-Precisamos ir para casa!
-
-315
-00:28:35,101 --> 00:28:39,550
-Bela, você precisa sair daqui.
-O castelo está vivo.
-
-316
-00:28:39,551 --> 00:28:41,700
-Agora vá,
-antes que ele a encontre.
-
-317
-00:28:41,701 --> 00:28:43,200
-Quem?
-
-318
-00:28:51,900 --> 00:28:53,400
-Quem está aí?
-
-319
-00:28:54,200 --> 00:28:57,500
-- Quem é você?
-- Eu que pergunto.
-
-320
-00:28:58,100 --> 00:29:00,000
-Vim atrás do meu pai.
-
-321
-00:29:00,700 --> 00:29:03,600
-Seu pai é um ladrão.
-
-322
-00:29:03,601 --> 00:29:06,500
-- Mentiroso!
-- Ele roubou uma rosa.
-
-323
-00:29:06,900 --> 00:29:10,000
-Porque eu pedi.
-Puna a mim, não a ele.
-
-324
-00:29:10,001 --> 00:29:12,800
-Não! Isso é para sempre.
-
-325
-00:29:13,100 --> 00:29:17,000
-Parece que é o que acontece aqui
-quando se pega uma flor.
-
-326
-00:29:19,200 --> 00:29:21,600
-Prisão perpétua
-por causa de uma rosa?
-
-327
-00:29:23,900 --> 00:29:26,300
-Recebi condenação eterna
-por causa de uma.
-
-328
-00:29:26,301 --> 00:29:28,600
-Eu apenas o tranquei.
-
-329
-00:29:29,500 --> 00:29:33,100
-Ainda quer trocar de lugar
-com seu pai?
-
-330
-00:29:33,700 --> 00:29:35,200
-Saia para a luz.
-
-331
-00:29:43,900 --> 00:29:45,300
-Escolha.
-
-332
-00:29:45,301 --> 00:29:47,500
-Bela, não deixarei
-que faça isso.
-
-333
-00:29:47,501 --> 00:29:51,700
-Eu perdi a sua mãe.
-Não vou perdê-la também.
-
-334
-00:29:52,000 --> 00:29:54,100
-Agora vá! Vá!
-
-335
-00:29:56,300 --> 00:29:58,100
-Tudo bem, papai.
-Eu irei.
-
-336
-00:30:01,600 --> 00:30:03,300
-Preciso de minuto a sós
-com ele.
-
-337
-00:30:05,100 --> 00:30:08,700
-É cruel ao ponto de não deixar
-uma filha se despedir do pai?
-
-338
-00:30:11,200 --> 00:30:13,300
-"Para sempre"
-pode esperar um minuto.
-
-339
-00:30:32,400 --> 00:30:36,300
-Quando essa portão fechar,
-não será aberta novamente.
-
-340
-00:30:41,500 --> 00:30:45,000
-- Deveria ficar com você.
-- Bela, ouça-me.
-
-341
-00:30:45,400 --> 00:30:48,600
-Está tudo bem.
-Agora vá!
-
-342
-00:30:49,100 --> 00:30:50,600
-Viva sua vida...
-
-343
-00:30:50,601 --> 00:30:53,500
-- E me esqueça.
-- Esquecer você?
-
-344
-00:30:53,900 --> 00:30:56,200
-Tudo o que sou,
-é graças ao senhor.
-
-345
-00:30:56,700 --> 00:30:58,100
-Eu te amo, Bela.
-
-346
-00:30:58,500 --> 00:30:59,900
-Não tenha medo.
-
-347
-00:31:00,500 --> 00:31:02,400
-Eu também te amo, papai.
-
-348
-00:31:03,000 --> 00:31:04,600
-Não estou com medo.
-
-349
-00:31:07,600 --> 00:31:09,600
-E vou escapar, prometo.
-
-350
-00:31:10,500 --> 00:31:11,900
-O quê?
-
-351
-00:31:17,800 --> 00:31:20,500
-- Tomou o lugar dele.
-- Ele é meu pai.
-
-352
-00:31:20,501 --> 00:31:22,100
-Ele é um idiota...
-
-353
-00:31:22,800 --> 00:31:24,600
-Assim como você.
-
-354
-00:31:25,900 --> 00:31:27,300
-Bela.
-
-355
-00:31:28,000 --> 00:31:30,900
-Papai! Não o machuque!
-
-356
-00:31:30,901 --> 00:31:32,900
-- Papai!
-- Não!
-
-357
-00:31:34,700 --> 00:31:38,600
-Eu voltarei! Eu prometo!
-
-358
-00:31:50,000 --> 00:31:52,500
-Perdoe minha intrusão,
-<i>mademoiselle.</i></i>
-
-359
-00:31:52,501 --> 00:31:55,400
-Eu vim escoltá-la
-até o seu quarto.
-
-360
-00:31:55,700 --> 00:31:57,100
-Meu quarto?
-
-361
-00:31:57,900 --> 00:31:59,400
-- Mas pensei...
-- O quê?
-
-362
-00:31:59,401 --> 00:32:03,500
-"Quando essa porta fechar,
-não será aberta novamente"?
-
-363
-00:32:04,100 --> 00:32:07,000
-Eu sei,
-ele é tão dramático.
-
-364
-00:32:07,035 --> 00:32:08,400
+00:14:24,860 --> 00:14:26,230
 Olá!
 
-365
-00:32:12,500 --> 00:32:16,200
-Você é muito forte.
-É uma grande qualidade.
-
-366
-00:32:16,201 --> 00:32:17,601
-O que você é?
-
-367
-00:32:18,100 --> 00:32:22,100
-- Eu sou o Lumière!
-- E você fala?
-
-368
-00:32:22,101 --> 00:32:26,500
-É claro que ele fala.
-É tudo que ele faz.
-
-369
-00:32:27,000 --> 00:32:31,550
-Lumière, como chefe da casa,
-ordeno que a coloque na cela.
-
-370
-00:32:31,551 --> 00:32:33,400
-O que deseja ser
-o resto da vida?
-
-371
-00:32:33,401 --> 00:32:35,600
-Um homem
-ou um relógio racional?
-
-372
-00:32:36,400 --> 00:32:38,900
-Pronta, senhorita?
-Confie em mim.
-
-373
-00:32:41,700 --> 00:32:43,900
-Perdoe-me
-pelas primeiras impressões,
-
-374
-00:32:43,901 --> 00:32:45,600
-espero
-que não esteja assustada.
-
-375
-00:32:45,601 --> 00:32:48,450
-Por que eu estaria?
-Estou conversando com uma vela.
-
-376
-00:32:48,451 --> 00:32:51,500
-Candelabro, por favor.
-Sabe que há diferença.
-
-377
-00:32:51,501 --> 00:32:54,400
-Já que estou a seu serviço,
-o castelo é seu agora.
-
-378
-00:32:54,401 --> 00:32:56,400
-Sinta-se à vontade
-para ir aonde quiser.
-
-379
-00:32:56,401 --> 00:32:58,700
-Exceto à ala oeste.
-
-380
-00:32:59,500 --> 00:33:01,500
-Que não existe.
-
-381
-00:33:01,800 --> 00:33:04,300
-Por quê?
-O que há na ala oeste?
-
-382
-00:33:04,301 --> 00:33:06,800
-- Nada. É um depósito.
-- Nada.
-
-383
-00:33:06,801 --> 00:33:08,700
-- Isso mesmo.
-- Isso.
-
-384
-00:33:08,701 --> 00:33:10,600
-Por aqui, por favor.
-Para a ala leste.
-
-385
-00:33:10,601 --> 00:33:13,800
-Como eu gosto de chamar,
-a única ala.
-
-386
-00:33:14,700 --> 00:33:17,000
-<i>Preste atenção,
-s'il vou plait!</i>
-
-387
-00:33:25,700 --> 00:33:29,900
-Bem-vinda ao seu novo quarto!
-É modesto, mas confortável.
-
-388
-00:33:46,000 --> 00:33:48,900
-- É lindo.
-- Claro que é.
-
-389
-00:33:48,901 --> 00:33:52,800
-O mestre queria que ficasse
-no melhor quarto do castelo.
-
-390
-00:33:53,600 --> 00:33:56,400
-Caramba, não esperávamos
-por visitas.
-
-391
-00:33:56,401 --> 00:33:58,700
-<i>Enchanté, mademoiselle.</i>
-
-392
-00:33:59,200 --> 00:34:03,100
-Não se preocupe.
-Deixarei o quarto impecável.
-
-393
-00:34:06,600 --> 00:34:08,900
-Esse seu plano é perigoso.
-
-394
-00:34:08,901 --> 00:34:11,900
-Arriscaria qualquer coisa
-para beijá-la de novo, Plumette.
-
-395
-00:34:11,901 --> 00:34:15,850
-Amor, você já me queimou
-uma vez. Devemos resistir.
-
-396
-00:34:15,851 --> 00:34:18,900
-Como posso resistir
-quando você me deixa tão...
-
-397
-00:34:23,900 --> 00:34:25,600
-Tudo aqui está vivo?
-
-398
-00:34:26,500 --> 00:34:28,800
-Olá, qual seu nome?
-
-399
-00:34:30,600 --> 00:34:32,300
-Isso é uma escova de cabelo.
-
-400
-00:34:36,400 --> 00:34:39,600
-Não se assuste.
-Esse é o seu guarda-roupas.
-
-401
-00:34:39,601 --> 00:34:43,050
-Conheça a Madame De Garderobe,
-uma ótima cantora.
-
-402
-00:34:43,051 --> 00:34:44,600
-E que só pensa em dormir.
-
-403
-00:34:44,601 --> 00:34:48,600
-Horloge! Uma diva
-precisa de um belo descanso.
-
-404
-00:34:49,650 --> 00:34:51,300
-Fique acordada, madame.
-
-405
-00:34:51,301 --> 00:34:53,600
-Temos alguém
-para que possa vestir.
-
-406
-00:34:54,200 --> 00:34:57,800
-Finalmente!
-Uma mulher!
-
-407
-00:34:58,200 --> 00:35:01,200
-Olhos lindos.
-Rosto afilado.
-
-408
-00:35:01,201 --> 00:35:03,400
-Uma pele perfeita.
-Oba!
-
-409
-00:35:03,401 --> 00:35:06,500
-Encontrarei algo
-digno de uma princesa.
-
-410
-00:35:06,501 --> 00:35:09,100
-- Não sou uma princesa.
-- Bobagem!
-
-411
-00:35:09,101 --> 00:35:12,200
-Vamos ver o que tenho
-nas gavetas.
-
-412
-00:35:13,500 --> 00:35:15,500
-Que constrangedor!
-
-413
-00:35:16,000 --> 00:35:18,900
-Frou-Frou,
-venha ajudar a mamãe.
-
-414
-00:35:29,300 --> 00:35:31,100
-Perfeito!
-
-415
-00:35:31,101 --> 00:35:34,500
-<i>Sutil, discreto. Eu adorei!
-Au revoir!</i>
-
-416
-00:35:34,501 --> 00:35:38,000
-Frou-Frou, diga ao maestro
-que eu o amo.
-
-417
-00:36:12,500 --> 00:36:14,350
-Imagine, LeFou.
-
-418
-00:36:14,351 --> 00:36:15,800
-Uma cabana rústica,
-
-419
-00:36:15,801 --> 00:36:18,400
-a minha caça assando
-no fogo.
-
-420
-00:36:18,401 --> 00:36:21,600
-Crianças adoráveis correndo,
-enquanto meu amor...
-
-421
-00:36:22,000 --> 00:36:25,700
-esfrega meus pés cansados.
-Mas o que a Bela diz?
-
-422
-00:36:26,000 --> 00:36:28,600
-"Nunca me casarei com você,
-Gaston!"
-
-423
-00:36:28,601 --> 00:36:31,200
-Há outras garotas.
-
-424
-00:36:32,000 --> 00:36:34,800
-Um grande caçador
-não perde tempo com coelhos.
-
-425
-00:36:34,801 --> 00:36:38,000
-<i>Eu não me conformo
-em ver você assim, Gaston</i>
-
-426
-00:36:38,001 --> 00:36:41,000
-<i>Tão deprimido</i>
-
-427
-00:36:41,400 --> 00:36:44,700
-<i>Todos os caras aqui
-querem ser você, Gaston</i>
-
-428
-00:36:44,701 --> 00:36:47,200
-<i>Apesar de toda a tensão</i>
-
-429
-00:36:47,700 --> 00:36:50,800
-<i>Ninguém na cidade
-é tão admirado como você</i>
-
-430
-00:36:50,801 --> 00:36:54,400
-<i>Você é o favorito de todos</i>
-
-431
-00:36:54,401 --> 00:36:58,100
-<i>Todos se inspiram em você</i>
-
-432
-00:36:58,101 --> 00:37:05,300
-<i>E não é difícil
-de entender o motivo</i>
-
-433
-00:37:05,900 --> 00:37:10,000
-<i>Ninguém é tão habilidoso
-como o Gaston</i>
-
-434
-00:37:10,001 --> 00:37:11,700
-<i>Nem tão rápido
-como o Gaston</i>
-
-435
-00:37:11,701 --> 00:37:15,300
-<i>Nem tem o pescoço
-mais grosso que o Gaston</i>
-
-436
-00:37:15,301 --> 00:37:18,900
-<i>Não há ninguém na cidade
-tão másculo</i>
-
-437
-00:37:18,901 --> 00:37:22,001
-<i>Um modelo de perfeição</i>
-
-438
-00:37:22,036 --> 00:37:25,200
-<i>Pergunte
-ao Tom, Dick ou Stanley</i>
-
-439
-00:37:25,201 --> 00:37:30,600
-<i>E eles dirão
-em que time prefeririam estar</i>
-
-440
-00:37:30,601 --> 00:37:34,700
-<i>Quem joga...</i>
-
-441
-00:37:35,449 --> 00:37:36,849
-<i>Dardos como o Gaston!?</i>
-
-442
-00:37:36,850 --> 00:37:38,600
-<i>- Derrete corações
-- Como o Gaston!?</i>
-
-443
-00:37:38,601 --> 00:37:42,100
-<i>Ninguém é extraordinário
-como o Gaston</i>
-
-444
-00:37:42,101 --> 00:37:45,900
-<i>Um espécime, sim,
-eu sou intimidador</i>
-
-445
-00:37:45,901 --> 00:37:49,000
-<i>Meu Deus,
-esse Gaston é demais!</i>
-
-446
-00:37:49,001 --> 00:37:50,899
-<i>Eu precisava de incentivo</i>
-
-447
-00:37:50,900 --> 00:37:52,300
-<i>Obrigado, LeFou</i>
-
-448
-00:37:52,301 --> 00:37:57,900
-<i>Bem, ninguém é tão fácil
-de apoiar quanto você</i>
-
-449
-00:37:58,400 --> 00:38:01,000
-- Exagerei?
-- Exagerou.
-
-450
-00:38:01,001 --> 00:38:05,500
-<i>Ninguém luta
-como o Gaston</i>
-
-451
-00:38:05,501 --> 00:38:07,200
-<i>Ilumina como o Gaston</i>
-
-452
-00:38:07,201 --> 00:38:10,650
-<i>Em uma luta,
-ninguém morde como o Gaston</i>
-
-453
-00:38:10,651 --> 00:38:14,000
-<i>Quando eu caço,
-me esgueiro com minha arma</i>
-
-454
-00:38:14,300 --> 00:38:17,700
-<i>E os animais imploram
-por perdão</i>
-
-455
-00:38:19,100 --> 00:38:22,400
-<i>Porque eu miro
-direto no fígado</i>
-
-456
-00:38:22,401 --> 00:38:24,100
-<i>E então atiro por trás</i>
-
-457
-00:38:24,101 --> 00:38:26,500
-<i>- Isso é justo?
-- Não me importo.</i>
-
-458
-00:38:27,700 --> 00:38:29,200
-<i>Ninguém bate
-como o Gaston</i>
-
-459
-00:38:29,201 --> 00:38:30,900
-<i>Joga como o Gaston</i>
-
-460
-00:38:30,901 --> 00:38:34,300
-<i>Em um jogo de cuspir
-ninguém ganha do Gaston</i>
-
-461
-00:38:34,301 --> 00:38:38,500
-<i>Eu sou bom em escarrar</i>
-
-462
-00:38:42,100 --> 00:38:46,100
-<i>- Dez pontos para Gaston!</i>
-- Muito obrigado.
-
-463
-00:38:46,400 --> 00:38:49,400
-<i>Na infância, eu comia
-quatro dúzias de ovos pela manhã</i>
-
-464
-00:38:49,401 --> 00:38:53,000
-<i>Para eu ficar forte</i>
-
-465
-00:38:53,001 --> 00:38:56,300
-<i>E agora que cresci,
-eu como cinco dúzias de ovos</i>
-
-466
-00:38:56,301 --> 00:39:03,800
-<i>Então, eu estou
-quase do tamanho de uma barca</i>
-
-467
-00:40:01,400 --> 00:40:05,100
-<i>- Quem pensa...
-- Como o Gaston?</i>
-
-468
-00:40:05,101 --> 00:40:06,900
-<i>- Que diverte...
-- Como o Gaston?</i>
-
-469
-00:40:06,901 --> 00:40:09,900
-<i>Quem pode inventar
-esses intermináveis refrãos</i>
-
-470
-00:40:09,901 --> 00:40:12,900
-<i>Como Gaston?</i>
-
-471
-00:40:12,901 --> 00:40:20,000
-<i>Eu uso cabeças de animais
-em todas as minhas decorações</i>
-
-472
-00:40:20,001 --> 00:40:21,700
-<i>Repita</i>
-
-473
-00:40:22,600 --> 00:40:24,900
-<i>Quem é o maioral?</i>
-
-474
-00:40:25,800 --> 00:40:27,400
-<i>Quem é um sucesso absoluto?</i>
-
-475
-00:40:27,401 --> 00:40:29,100
-<i>Não sabe?
-Arrisca um chute?</i>
-
-476
-00:40:29,101 --> 00:40:32,500
-<i>Pergunte aos fãs
-e companheiros de viagem dele</i>
-
-477
-00:40:32,501 --> 00:40:39,500
-<i>Há apenas um cara na cidade
-que tem jeito para tudo</i>
-
-478
-00:40:39,501 --> 00:40:45,700
-<i>E o nome dele é G-A-S-T...</i>
-
-479
-00:40:45,701 --> 00:40:48,800
-<i>Eu acredito
-que tem outro "T"</i>
-
-480
-00:40:49,200 --> 00:40:52,300
-<i>Agora que me dei conta
-que sou analfabeto</i>
-
-481
-00:40:52,301 --> 00:40:56,800
-<i>E nunca tive que soletrar
-em voz alta</i>
-
-482
-00:40:56,801 --> 00:41:03,100
-<i>Gaston!</i>
-
-483
-00:41:08,600 --> 00:41:10,800
-LeFou, você é o melhor.
-
-484
-00:41:11,200 --> 00:41:13,800
-Como não conquistou
-nenhuma garota ainda?
-
-485
-00:41:13,801 --> 00:41:17,200
-Disseram que sou pegajoso,
-mas não entendi.
-
-486
-00:41:23,500 --> 00:41:25,900
-Por favor.
-Alguém, alguém.
-
-487
-00:41:25,935 --> 00:41:29,100
-Ajude-me.
-Deve me ajudar.
-
-488
-00:41:29,101 --> 00:41:32,300
-A Bela, ele a pegou
-e a trancou em uma masmorra!
-
-489
-00:41:32,301 --> 00:41:34,500
-- Quem a pegou?
-- Uma fera!
-
-490
-00:41:34,501 --> 00:41:38,400
-Uma fera enorme e horrenda!
-
-491
-00:41:40,000 --> 00:41:42,600
-A minha filha corre perigo,
-por que estão rindo?
-
-492
-00:41:42,601 --> 00:41:44,200
-Não é piada!
-
-493
-00:41:44,201 --> 00:41:48,200
-O castelo dele está escondido
-na floresta.
-
-494
-00:41:48,901 --> 00:41:52,900
-- Já é inverno lá.
-- Inverno em junho?
-
-495
-00:41:53,300 --> 00:41:56,300
-- Está louco, Maurice.
-- Ouçam-me!
-
-496
-00:41:57,700 --> 00:42:01,000
-A Fera é real.
-
-497
-00:42:01,600 --> 00:42:03,300
-Vocês entendem?
-
-498
-00:42:05,000 --> 00:42:06,800
-Ninguém me ajudará?
-
-499
-00:42:07,600 --> 00:42:09,700
-- Eu ajudarei, Maurice.
-- O quê?
-
-500
-00:42:09,701 --> 00:42:11,101
-Mesmo?
-
-501
-00:42:11,600 --> 00:42:13,200
-Pessoal...
-
-502
-00:42:13,201 --> 00:42:15,700
-parem de zombar desse homem
-ao menos uma vez.
-
-503
-00:42:16,100 --> 00:42:17,700
-Capitão, obrigado.
-
-504
-00:42:17,701 --> 00:42:19,700
-Não me agradeça, Maurice.
-
-505
-00:42:20,300 --> 00:42:22,100
-Leve-nos à Fera!
-
-506
-00:42:25,100 --> 00:42:26,500
-Sigam-me.
-
-507
-00:42:32,300 --> 00:42:34,100
-Mamãe!
-Há uma garota no castelo!
-
-508
-00:42:34,101 --> 00:42:37,300
-- Sim, Zip! Nós sabemos.
-- Ela gosta de que chá?
-
-509
-00:42:37,301 --> 00:42:41,800
-De ervas, oolong, camomila?
-Estou super animado!
-
-510
-00:42:41,801 --> 00:42:44,600
-Devagar,
-antes que quebre sua asa.
-
-511
-00:42:44,601 --> 00:42:46,400
-Atenção, madame Samovar.
-
-512
-00:43:04,700 --> 00:43:06,400
-<i>Lumière!</i>
-
-513
-00:43:06,401 --> 00:43:08,500
-Fique calmo.
-Deixe que eu falo.
-
-514
-00:43:09,400 --> 00:43:10,900
-Está fazendo jantar para ela?
-
-515
-00:43:10,901 --> 00:43:12,751
-Achamos que talvez
-quisesse companhia.
-
-516
-00:43:12,752 --> 00:43:14,300
-Mestre,
-eu só quero que saiba
-
-517
-00:43:14,301 --> 00:43:17,200
-que não faço parte
-deste plano inútil.
-
-518
-00:43:17,201 --> 00:43:21,400
-Preparar jantar, vesti-la,
-dar uma suíte...
-
-519
-00:43:21,401 --> 00:43:22,801
-na ala leste.
-
-520
-00:43:22,802 --> 00:43:26,300
-- Deu um quarto a ela?
-- Não, foi ele que deu.
-
-521
-00:43:26,301 --> 00:43:29,400
-É verdade, mas se ela puder
-quebrar o feitiço,
-
-522
-00:43:29,401 --> 00:43:32,400
-talvez possa conquistá-la
-através do jantar.
-
-523
-00:43:32,401 --> 00:43:34,450
-- Bem pensado, Horloge!
-- O quê?
-
-524
-00:43:34,451 --> 00:43:38,200
-Que ideia ridícula,
-conquistar a prisioneira?
-
-525
-00:43:38,201 --> 00:43:39,800
-Mas deve tentar, mestre.
-
-526
-00:43:39,801 --> 00:43:42,800
-A cada dia que passa,
-nos tornamos menos humanos.
-
-527
-00:43:42,801 --> 00:43:47,150
-Ela é filha de um ladrão.
-O que acha que ela é?
-
-528
-00:43:47,151 --> 00:43:51,900
-Não pode julgar as pessoas
-pelos pais delas, não é mesmo?
-
-529
-00:43:55,900 --> 00:43:59,050
-Você jantará comigo.
-Não é um pedido.
-
-530
-00:43:59,051 --> 00:44:00,451
-Gentilmente, mestre.
-
-531
-00:44:00,452 --> 00:44:04,150
-A garota perdeu o pai
-e a liberdade no mesmo dia.
-
-532
-00:44:04,151 --> 00:44:07,000
-A pobrezinha deve estar
-morrendo de medo.
-
-533
-00:44:07,001 --> 00:44:08,401
-Exatamente.
-
-534
-00:44:16,600 --> 00:44:18,000
-Só um minuto.
-
-535
-00:44:18,001 --> 00:44:22,100
-Viu? Aí está ela.
-Lembre-se, seja gentil.
-
-536
-00:44:22,101 --> 00:44:24,000
-- Cavalheiro.
-- Charmoso.
-
-537
-00:44:24,001 --> 00:44:26,300
-- E amável.
-- E quando ela abrir a porta...
-
-538
-00:44:26,301 --> 00:44:31,400
-dê um sorriso arrojado.
-Vamos, mostre o sorriso.
-
-539
-00:44:32,200 --> 00:44:33,900
-- Meu Deus!
-- Essa não.
-
-540
-00:44:38,900 --> 00:44:41,000
-Quer jantar comigo?
-
-541
-00:44:43,900 --> 00:44:47,400
-Você me aprisionou
-e agora quer jantar comigo?
-
-542
-00:44:48,300 --> 00:44:50,000
-Você é louco?
-
-543
-00:44:50,400 --> 00:44:52,600
-Essa não.
-Ele está perdendo o controle.
-
-544
-00:44:52,601 --> 00:44:54,001
-Meu Deus.
-
-545
-00:44:56,500 --> 00:44:58,800
-Eu perguntei
-se quer jantar comigo!
-
-546
-00:44:58,801 --> 00:45:00,700
-Eu disse que não!
-
-547
-00:45:01,900 --> 00:45:04,600
-Que horas são?
-O que está havendo?
-
-548
-00:45:04,601 --> 00:45:07,100
-Eu prefiro morrer de fome
-a jantar com você.
-
-549
-00:45:07,600 --> 00:45:09,100
-Fique à vontade!
-
-550
-00:45:09,101 --> 00:45:11,100
-<i>Morra de fome!</i>
-
-551
-00:45:13,000 --> 00:45:16,200
-Se ela não comer comigo,
-ficará com fome!
-
-552
-00:45:16,500 --> 00:45:18,000
-Idiotas!
-
-553
-00:45:19,500 --> 00:45:21,900
-Não pode falar assim conosco,
-eu proíbo!
-
-554
-00:45:23,800 --> 00:45:25,200
-Estou muito atrasado?
-
-555
-00:45:25,201 --> 00:45:27,801
-Que pena, estava pronto
-para lhe dizer umas verdades.
-
-556
-00:45:27,802 --> 00:45:30,100
-Mestre, o senhor voltou.
-
-557
-00:45:32,000 --> 00:45:34,100
-- Muito engraçado.
-- Eu te peguei.
-
-558
-00:45:53,600 --> 00:45:55,200
-Mostre-me a garota.
-
-559
-00:46:31,500 --> 00:46:33,200
-Outra pétala caiu.
-
-560
-00:46:33,201 --> 00:46:36,150
-Lumière, cresceram
-três penas novas.
-
-561
-00:46:36,151 --> 00:46:39,800
-- E eu conferi ontem.
-- Eu sei, querida.
-
-562
-00:46:40,700 --> 00:46:43,400
-Estou ficando mais metálico
-a cada dia.
-
-563
-00:46:43,401 --> 00:46:48,100
-Não, está acontecendo de novo.
-Perdão.
-
-564
-00:46:48,101 --> 00:46:52,750
-Acalmem-se,
-ainda temos tempo.
-
-565
-00:46:52,751 --> 00:46:55,500
-Mamãe, serei um garoto
-novamente?
-
-566
-00:46:55,501 --> 00:46:57,000
-Sim, Zip.
-
-567
-00:46:57,001 --> 00:46:59,100
-Você terá seus dias
-ao sol novamente.
-
-568
-00:46:59,101 --> 00:47:01,000
-Deixe comigo.
-
-569
-00:47:11,200 --> 00:47:13,100
-Eu disse para ir embora.
-
-570
-00:47:13,101 --> 00:47:16,900
-<i>Não se preocupe, querida.
-É a madame Samovar.</i>
-
-571
-00:47:25,800 --> 00:47:27,800
-Como você é linda!
-
-572
-00:47:27,801 --> 00:47:31,300
-É um prazer estar
-em sua presença.
-
-573
-00:47:34,100 --> 00:47:36,200
-É uma longa jornada.
-
-574
-00:47:36,201 --> 00:47:38,900
-Deixe-me cuidar
-de você antes de ir.
-
-575
-00:47:38,901 --> 00:47:43,000
-A maioria dos problemas
-parece melhorar
-
-576
-00:47:43,001 --> 00:47:45,900
-depois de uma xícara
-de chá.
-
-577
-00:47:45,901 --> 00:47:48,200
-Devagar, Zip.
-
-578
-00:47:54,300 --> 00:47:55,700
-Prazer em conhecê-la.
-
-579
-00:47:56,000 --> 00:47:57,800
-Quer ver um truque?
-
-580
-00:47:59,400 --> 00:48:00,800
-Zip.
-
-581
-00:48:01,300 --> 00:48:05,200
-Foi algo muito corajoso
-o que fez pelo seu pai, querida.
-
-582
-00:48:05,500 --> 00:48:09,100
-Isso. Todos nós achamos.
-
-583
-00:48:09,101 --> 00:48:13,400
-Estou preocupada com ele.
-Ele nunca ficou sozinho.
-
-584
-00:48:13,401 --> 00:48:17,500
-Anime-se, boneca.
-No fim, tudo vai dar certo.
-
-585
-00:48:17,501 --> 00:48:20,400
-Vai sentir-se melhor
-após o jantar.
-
-586
-00:48:20,700 --> 00:48:24,000
-Ele disse que se eu não comesse
-com ele, eu ficaria com fome.
-
-587
-00:48:24,001 --> 00:48:26,800
-As pessoas falam demais
-quando estão bravas.
-
-588
-00:48:26,801 --> 00:48:29,500
-É nossa escolha
-ouvir ou não.
-
-589
-00:48:29,501 --> 00:48:32,200
-- Você vem, boneca?
-- Vá.
-
-590
-00:48:32,700 --> 00:48:36,700
-- Estão vindo, checagem final.
-- Nada disso.
-
-591
-00:48:36,701 --> 00:48:39,400
-Se o mestre descobrir
-que desobedeceu as ordens dele,
-
-592
-00:48:39,401 --> 00:48:42,000
-- vai me culpar.
-- Vou me certificar disso.
-
-593
-00:48:42,001 --> 00:48:43,501
-Nós nos levantamos
-para ganhar.
-
-594
-00:48:43,502 --> 00:48:45,550
-Estou dizendo,
-ela é a escolhida.
-
-595
-00:48:45,551 --> 00:48:47,800
-Eles devem se apaixonar
-para sermos humanos,
-
-596
-00:48:47,801 --> 00:48:50,051
-e como se apaixonariam
-se ela ficar no quarto?
-
-597
-00:48:50,052 --> 00:48:51,800
-Ei, Chapeau,
-esqueceu daqui.
-
-598
-00:48:51,801 --> 00:48:53,600
-Você sabe
-que ela nunca o amará.
-
-599
-00:48:53,601 --> 00:48:55,851
-Um relógio quebrado
-está certo 2 vezes ao dia.
-
-600
-00:48:55,852 --> 00:48:58,250
-Essa não é uma dessas vezes.
-Fique em pé.
-
-601
-00:48:58,251 --> 00:49:00,300
-É hora de brilhar.
-
-602
-00:49:00,301 --> 00:49:03,700
-Não tenho paladar,
-mas digo que isso é requintado.
-
-603
-00:49:03,701 --> 00:49:05,400
-Saia!
-Saia enquanto trabalho.
-
-604
-00:49:05,401 --> 00:49:07,950
-- Pimenta moída.
-- Sal, uma pitada.
-
-605
-00:49:07,951 --> 00:49:10,800
-Não tão alto.
-Controle-se.
-
-606
-00:49:10,801 --> 00:49:14,800
-É claro. Mas o que é um jantar
-sem um pouco de música?
-
-607
-00:49:14,801 --> 00:49:16,201
-Música?
-
-608
-00:49:16,202 --> 00:49:18,800
-Maestro Cadenza, está pronto?
-
-609
-00:49:19,900 --> 00:49:23,100
-Faz tanto tempo
-desde a última vez que toquei.
-
-610
-00:49:23,101 --> 00:49:25,500
-Mal posso me lembrar
-como tocar.
-
-611
-00:49:31,350 --> 00:49:32,750
-Outro buraco.
-
-612
-00:49:32,751 --> 00:49:34,600
-Maestro sua esposa
-está lá em cima.
-
-613
-00:49:34,601 --> 00:49:37,300
-Achando cada vez mais difícil
-ficar acordada.
-
-614
-00:49:37,301 --> 00:49:40,200
-Ela está contando contigo
-para ajudar quebrar a maldição.
-
-615
-00:49:40,201 --> 00:49:43,500
-Então devo tocar
-mesmo com dor de dente.
-
-616
-00:49:43,501 --> 00:49:46,100
-Maestro, toque baixo,
-por favor.
-
-617
-00:49:46,101 --> 00:49:49,200
-Baixo. <i>Sottovoce</i>.
-Mas é claro.
-
-618
-00:49:49,201 --> 00:49:51,500
-Tem mais alguma
-exigência insípida
-
-619
-00:49:51,501 --> 00:49:53,550
-que quer fazer
-sobre a minha arte?
-
-620
-00:49:53,551 --> 00:49:56,600
-- Não, é só isso.
-- Chegamos, querida.
-
-621
-00:50:06,800 --> 00:50:08,900
-<i>Ma cherie mademoiselle...</i>
-
-622
-00:50:08,901 --> 00:50:13,300
-é com maior orgulho e prazer
-que a recebemos esta noite.
-
-623
-00:50:13,700 --> 00:50:18,500
-Aqui. E agora, nós a convidamos
-para relaxar.
-
-624
-00:50:18,501 --> 00:50:21,200
-Puxe uma cadeira,
-
-625
-00:50:21,201 --> 00:50:25,300
-enquanto a sala de jantar
-orgulhosamente apresenta...
-
-626
-00:50:35,500 --> 00:50:37,400
-o seu jantar.
-
-627
-00:50:39,600 --> 00:50:43,500
-<i>Fique... à... vontade</i>
-
-628
-00:50:43,501 --> 00:50:45,100
-<i>Fique à vontade</i>
-
-629
-00:50:45,101 --> 00:50:47,700
-<i>Ponha nosso serviço à prova</i>
-
-630
-00:50:47,701 --> 00:50:49,900
-<i>Amarre seu guardanapo
-no pescoço</i>
-
-631
-00:50:49,901 --> 00:50:52,800
-<i>E nós faremos o resto</i>
-
-632
-00:50:52,801 --> 00:50:55,500
-<i>Sopa do dia,
-aperitivos quentes</i>
-
-633
-00:50:55,501 --> 00:50:57,900
-<i>Vivemos exclusivamente
-para servir</i>
-
-634
-00:50:57,901 --> 00:51:00,400
-<i>Experimente a coisa cinza,
-é deliciosa</i>
-
-635
-00:51:00,401 --> 00:51:03,300
-<i>Não acredita?
-Pergunte aos pratos</i>
-
-636
-00:51:07,300 --> 00:51:09,800
-<i>Eles podem cantar,
-eles podem dançar</i>
-
-637
-00:51:09,801 --> 00:51:12,200
-<i>Afinal, senhorita,
-estamos na França</i>
-
-638
-00:51:12,201 --> 00:51:16,300
-<i>E um jantar aqui
-nunca é de segunda</i>
-
-639
-00:51:16,301 --> 00:51:18,800
-<i>Vá em frente,
-abra o cardápio</i>
-
-640
-00:51:18,801 --> 00:51:21,200
-<i>Dê uma olhada e então</i>
-
-641
-00:51:21,201 --> 00:51:23,500
-<i>Fique à vontade,
-sim, fique à vontade</i>
-
-642
-00:51:23,501 --> 00:51:25,900
-<i>Fique à vontade</i>
-
-643
-00:51:30,100 --> 00:51:32,300
-<i>Guisado de carne,
-suflê de queijo</i>
-
-644
-00:51:32,301 --> 00:51:34,600
-<i>Torta e pudim flambados</i>
-
-645
-00:51:34,601 --> 00:51:36,700
-<i>Vamos preparar
-e servir com estilo</i>
-
-646
-00:51:36,701 --> 00:51:38,900
-<i>Um cabaré culinário</i>
-
-647
-00:51:38,901 --> 00:51:41,400
-<i>Você está sozinha
-e com medo</i>
-
-648
-00:51:41,401 --> 00:51:43,300
-<i>Mas o banquete
-está preparado</i>
-
-649
-00:51:43,301 --> 00:51:45,500
-<i>Ninguém está triste
-ou reclamando</i>
-
-650
-00:51:45,501 --> 00:51:47,700
-<i>Enquanto os talheres
-estão entretendo</i>
-
-651
-00:51:47,701 --> 00:51:49,700
-<i>Nós contamos piadas,
-eu faço truques</i>
-
-652
-00:51:49,701 --> 00:51:52,100
-<i>Com meus companheiros
-castiçais</i>
-
-653
-00:51:52,101 --> 00:51:56,000
-<i>E está tudo saboroso,
-pode apostar</i>
-
-654
-00:51:56,001 --> 00:51:58,300
-<i>Venha e levante seu copo</i>
-
-655
-00:51:58,301 --> 00:52:00,500
-<i>Você ganhou
-o seu próprio passe livre</i>
-
-656
-00:52:00,501 --> 00:52:03,000
-<i>Para ser nossa convidada,
-se está estressada</i>
-
-657
-00:52:03,001 --> 00:52:05,100
-<i>Um bom jantar,
-nós sugerimos</i>
-
-658
-00:52:05,101 --> 00:52:11,700
-<i>Fique à vontade</i>
-
-659
-00:52:11,701 --> 00:52:14,500
-<i>A vida é tão enervante</i>
-
-660
-00:52:14,501 --> 00:52:17,200
-<i>Para um servo
-que não está servindo</i>
-
-661
-00:52:17,201 --> 00:52:22,000
-<i>Ele não está completo
-sem uma alma a quem atender</i>
-
-662
-00:52:22,001 --> 00:52:25,600
-<i>Aqueles bons e velhos tempos
-em que éramos úteis</i>
-
-663
-00:52:25,601 --> 00:52:27,400
-Não é, Horloge?
-
-664
-00:52:27,401 --> 00:52:32,900
-<i>De repente, os bons
-e velhos tempos se foram</i>
-
-665
-00:52:33,300 --> 00:52:36,400
-<i>Há muito tempo
-estamos enferrujando</i>
-
-666
-00:52:36,401 --> 00:52:39,600
-<i>Precisamos muito mais
-que ser espanados</i>
-
-667
-00:52:39,601 --> 00:52:41,001
-<i>Precisamos nos exercitar</i>
-
-668
-00:52:41,002 --> 00:52:44,100
-<i>E uma chance
-para usar nossas habilidades</i>
-
-669
-00:52:47,000 --> 00:52:51,300
-<i>Na maioria dos dias
-nos deitamos pelo castelo</i>
-
-670
-00:52:51,301 --> 00:52:52,800
-<i>Flácidos, gordos
-e preguiçosos</i>
-
-671
-00:52:52,801 --> 00:52:55,000
-<i>Você chegou e upa lalá</i>
-
-672
-00:52:55,001 --> 00:52:57,100
-<i>É uma convidada,
-é uma convidada</i>
-
-673
-00:52:57,101 --> 00:52:59,100
-<i>Por Deus, que bênção</i>
-
-674
-00:52:59,101 --> 00:53:01,200
-<i>O vinho está servido
-e graças ao Senhor</i>
-
-675
-00:53:01,201 --> 00:53:03,400
-<i>Os guardanapos
-estão passados</i>
-
-676
-00:53:03,401 --> 00:53:05,400
-<i>Com a sobremesa,
-ela vai querer chá</i>
-
-677
-00:53:05,401 --> 00:53:07,500
-<i>E, minha querida,
-tudo bem por mim</i>
-
-678
-00:53:07,501 --> 00:53:09,701
-<i>Enquanto as xícaras fazem
-uma suave arrumação</i>
-
-679
-00:53:09,702 --> 00:53:12,500
-<i>Estarei borbulhando
-e fermentando</i>
-
-680
-00:53:22,300 --> 00:53:24,300
-<i>Eu vou ficar morna
-e arder de tão quente</i>
-
-681
-00:53:24,301 --> 00:53:26,400
-<i>Minha nossa,
-isso é uma mancha?</i>
-
-682
-00:53:26,401 --> 00:53:30,400
-<i>Limpe, nós queremos
-que a visita fique impressionada</i>
-
-683
-00:53:30,401 --> 00:53:32,500
-<i>Temos muito o que fazer</i>
-
-684
-00:53:32,501 --> 00:53:34,500
-<i>Quer um ou dois
-cubos de açúcar?</i>
-
-685
-00:53:34,501 --> 00:53:35,901
-<i>Para você, nossa convidada</i>
-
-686
-00:53:35,902 --> 00:53:39,200
-<i>- Ela é nossa convidada
-- Ela é nossa convidada</i>
-
-687
-00:53:39,201 --> 00:53:41,300
-<i>Fique à vontade</i>
-
-688
-00:53:41,301 --> 00:53:43,400
-<i>A nossa ordem
-é o seu pedido</i>
-
-689
-00:53:43,401 --> 00:53:46,400
-<i>Há anos não recebemos
-ninguém aqui</i>
-
-690
-00:53:46,401 --> 00:53:49,800
-<i>- E estamos obcecados
-- Com a sua refeição</i>
-
-691
-00:53:49,801 --> 00:53:51,900
-<i>Com a sua facilidade</i>
-
-692
-00:53:51,901 --> 00:53:56,100
-<i>Sim, de fato,
-nosso objetivo é agradar</i>
-
-693
-00:53:56,101 --> 00:53:59,700
-<i>Enquanto a luz das velas
-ainda está brilhando</i>
-
-694
-00:54:00,600 --> 00:54:04,500
-<i>Deixe-nos ajudá-la,
-nós vamos continuar</i>
-
-695
-00:54:07,900 --> 00:54:12,400
-<i>Prato por prato</i>
-
-696
-00:54:12,401 --> 00:54:14,700
-<i>Um por um</i>
-
-697
-00:54:14,701 --> 00:54:17,700
-<i>Até você dizer:
-"Chega, eu estou satisfeita!"</i>
-
-698
-00:54:17,701 --> 00:54:21,800
-<i>Cantaremos para você dormir
-enquanto você digere</i>
-
-699
-00:54:21,801 --> 00:54:23,900
-<i>Hoje à noite,
-você levantará seus pés</i>
-
-700
-00:54:23,901 --> 00:54:25,800
-<i>Mas, por enquanto,
-vamos comer</i>
-
-701
-00:54:25,801 --> 00:54:31,100
-<i>Fique à vontade</i>
-
-702
-00:54:31,101 --> 00:54:34,500
-<i>Por favor, fique</i>
-
-703
-00:54:34,501 --> 00:54:41,200
-<i>À vontade</i>
-
-704
-00:54:41,201 --> 00:54:42,700
-Pudim?
-
-705
-00:54:45,700 --> 00:54:48,400
-<i>Não entendo por que estão sendo
-tão gentis comigo.</i>
-
-706
-00:54:48,401 --> 00:54:50,800
-Estão presos aqui
-tanto quanto eu.
-
-707
-00:54:50,801 --> 00:54:52,600
-Já quiseram escapar?
-
-708
-00:54:52,601 --> 00:54:57,200
-O mestre não é tão terrível
-como parece ser.
-
-709
-00:54:57,201 --> 00:54:59,700
-Em algum lugar,
-no fundo da alma dele,
-
-710
-00:54:59,701 --> 00:55:01,200
-há um príncipe...
-
-711
-00:55:01,201 --> 00:55:05,600
-Um rapaz esperando
-para ser libertado.
-
-712
-00:55:07,000 --> 00:55:09,500
-Lumière mencionou algo
-sobre a ala oeste.
-
-713
-00:55:09,501 --> 00:55:13,200
-Deixe isso para lá.
-Vá para a cama, boneca.
-
-714
-00:55:13,201 --> 00:55:16,000
-- Boa noite.
-- Boa noite.
-
-715
-00:55:20,000 --> 00:55:21,900
-Direto para a cama.
-
-716
-00:56:54,900 --> 00:56:57,300
-O que está fazendo aqui?
-O que fez com ela?
-
-717
-00:56:57,301 --> 00:56:59,600
-- Nada.
-- Sabe o que podia ter feito?
-
-718
-00:56:59,601 --> 00:57:02,400
-Podia ter arruinado a todos nós.
-Saia daqui!
-
-719
-00:57:02,800 --> 00:57:04,600
-Vá!
-
-720
-00:57:13,700 --> 00:57:18,100
-- Xeque-mate. De novo.
-- Está roubando de novo.
-
-721
-00:57:18,101 --> 00:57:20,500
-<i>Mademoiselle,</i>
-o que está fazendo?
-
-722
-00:57:20,601 --> 00:57:23,500
-- Saindo daqui.
-- Pare!
-
-723
-00:57:24,400 --> 00:57:25,900
-Vá, Frou-Frou.
-
-724
-00:57:27,400 --> 00:57:29,200
-Frou-Frou, detenha-a.
-
-725
-00:57:29,201 --> 00:57:31,600
-- Não deixe-a sair.
-- Detenha-a.
-
-726
-00:57:32,200 --> 00:57:35,000
-- Não, Frou-Frou.
-- Não é hora de brincar.
-
-727
-00:57:35,001 --> 00:57:38,000
-- Agora não, bobinho.
-- Cachorro mau.
-
-728
-00:57:38,300 --> 00:57:41,700
-Não, não, não.
-Por favor, não vá.
-
-729
-00:57:41,701 --> 00:57:44,600
-- É perigoso.
-- Minha nossa.
-
-730
-01:00:21,700 --> 01:00:23,700
-Você precisa me ajudar.
-
-731
-01:00:24,800 --> 01:00:26,500
-Você precisa se levantar.
-
-732
-01:00:43,800 --> 01:00:46,400
-Não. Tenho certeza
-de que é por aqui.
-
-733
-01:00:46,401 --> 01:00:47,900
-Estão ouvindo os lobos?
-
-734
-01:00:47,901 --> 01:00:51,000
-Isso significa que estamos
-nos aproximando do castelo.
-
-735
-01:00:51,001 --> 01:00:53,800
-Olhe, já chega.
-Precisamos voltar.
-
-736
-01:00:53,801 --> 01:00:57,400
-Pare!
-É ela! Ali está!
-
-737
-01:00:57,401 --> 01:01:00,300
-É essa a árvore.
-Eu tenho certeza.
-
-738
-01:01:01,000 --> 01:01:04,300
-Ela havia caído
-com o raio da outra vez,
-
-739
-01:01:04,301 --> 01:01:05,800
-mas agora...
-
-740
-01:01:06,300 --> 01:01:10,300
-voltou a ficar de pé
-através de...
-
-741
-01:01:10,301 --> 01:01:12,500
-mágica ou algo assim.
-
-742
-01:01:12,501 --> 01:01:14,900
-Você realmente quer entrar
-para essa família?
-
-743
-01:01:14,901 --> 01:01:16,700
-Isso significa...
-
-744
-01:01:16,701 --> 01:01:18,900
-que o castelo é por...
-Não.
-
-745
-01:01:18,901 --> 01:01:20,900
-Que... Não, é por...
-
-746
-01:01:23,300 --> 01:01:26,200
-Por ali.
-Com certeza, por ali.
-
-747
-01:01:26,201 --> 01:01:29,600
-Cansei
-dessa sua brincadeira.
-
-748
-01:01:29,601 --> 01:01:31,500
-Onde está a Bela?
-
-749
-01:01:31,501 --> 01:01:35,900
-- A Fera a levou, e ela...
-- Feras não existem.
-
-750
-01:01:35,901 --> 01:01:39,300
-Nem xícaras falantes,
-nem mágica.
-
-751
-01:01:39,301 --> 01:01:42,800
-Mas existem lobos,
-frio e fome!
-
-752
-01:01:43,500 --> 01:01:47,000
-Respire fundo, Gaston.
-Respire fundo.
-
-753
-01:01:50,200 --> 01:01:53,500
-Por que não damos meia-volta
-e voltamos a Villeneuve?
-
-754
-01:01:53,501 --> 01:01:56,500
-Estou certo de que a Bela está
-em casa preparando o jantar.
-
-755
-01:01:56,501 --> 01:02:00,850
-Se acha que inventei tudo isso,
-por que ofereceu ajuda?
-
-756
-01:02:00,851 --> 01:02:03,000
-Porque quero me casar
-com sua filha!
-
-757
-01:02:05,100 --> 01:02:09,700
-- Agora, vamos para casa.
-- Bela não está em casa!
-
-758
-01:02:09,701 --> 01:02:13,800
-- Ela está com...
-- Se disser "Fera" mais uma vez,
-
-759
-01:02:13,801 --> 01:02:15,600
-eu o darei
-para os lobos comerem!
-
-760
-01:02:15,601 --> 01:02:18,500
-Gaston! Pare, respire.
-
-761
-01:02:18,501 --> 01:02:21,100
-Pensamentos felizes.
-Volte à guerra.
-
-762
-01:02:21,101 --> 01:02:24,900
-Sangue. Explosões.
-Incontáveis viúvas.
-
-763
-01:02:24,901 --> 01:02:28,200
-- Viúvas.
-- Sim, sim. Isso mesmo.
-
-764
-01:02:29,000 --> 01:02:30,400
-Isso mesmo.
-
-765
-01:02:32,900 --> 01:02:34,500
-Maurice!
-
-766
-01:02:35,500 --> 01:02:37,900
-Por favor, perdoe-me,
-meu caro.
-
-767
-01:02:37,901 --> 01:02:41,300
-Isso não é jeito de falar
-com meu futuro sogro, não é?
-
-768
-01:02:41,301 --> 01:02:43,900
-- Futuro sogro?
-- É.
-
-769
-01:02:43,901 --> 01:02:48,100
-Você jamais se casará
-com minha filha.
-
-770
-01:02:53,900 --> 01:02:55,400
-Eu esperava por isso.
-
-771
-01:02:55,900 --> 01:02:58,300
-Se Maurice
-não der permissão,
-
-772
-01:02:58,301 --> 01:03:00,200
-então
-ele está no meu caminho.
-
-773
-01:03:00,500 --> 01:03:02,100
-Quando os lobos acabarem
-com ele,
-
-774
-01:03:02,101 --> 01:03:04,400
-Bela só terá a mim
-para cuidar dela.
-
-775
-01:03:04,700 --> 01:03:06,900
-Só para considerar
-todas as nossas opções,
-
-776
-01:03:06,901 --> 01:03:09,200
-talvez queira pensar
-em uma alternativa...
-
-777
-01:03:09,500 --> 01:03:12,100
-- um pouco menos horrorosa?
-- Você vem?
-
-778
-01:03:26,100 --> 01:03:27,400
-Isso dói!
-
-779
-01:03:27,401 --> 01:03:30,100
-Se ficasse parado,
-não doeria tanto.
-
-780
-01:03:30,101 --> 01:03:32,351
-Se não tivesse fugido,
-nada disso aconteceria.
-
-781
-01:03:32,352 --> 01:03:34,800
-Se não tivesse me assustado,
-eu não teria fugido!
-
-782
-01:03:34,801 --> 01:03:37,000
-Bem, você não devia estar
-na ala oeste!
-
-783
-01:03:37,001 --> 01:03:39,800
-Bem, você deveria aprender
-a controlar sua raiva!
-
-784
-01:03:48,600 --> 01:03:50,500
-Tente descansar.
-
-785
-01:03:51,100 --> 01:03:54,800
-- Obrigada, senhorita.
-- Somos eternamente gratos.
-
-786
-01:03:55,100 --> 01:03:57,300
-Por que se importam tanto
-com ele?
-
-787
-01:03:57,301 --> 01:04:00,100
-Cuidamos dele a vida toda.
-
-788
-01:04:00,101 --> 01:04:02,300
-Mas, de alguma forma,
-ele amaldiçoou vocês.
-
-789
-01:04:02,301 --> 01:04:04,600
-Por quê?
-Vocês não fizeram nada.
-
-790
-01:04:04,900 --> 01:04:07,200
-Você está certa, querida.
-
-791
-01:04:07,600 --> 01:04:10,700
-Sabe, quando o mestre
-perdeu a mãe,
-
-792
-01:04:10,701 --> 01:04:15,200
-e seu pai cruel pegou
-aquele menino doce e inocente...
-
-793
-01:04:15,700 --> 01:04:18,600
-e o deturpou
-até ficar igual a ele,
-
-794
-01:04:18,601 --> 01:04:20,400
-não fizemos nada.
-
-795
-01:04:20,700 --> 01:04:22,300
-Deixem-no dormir.
-
-796
-01:04:34,200 --> 01:04:36,900
-<i>Dias ao sol</i>
-
-797
-01:04:36,901 --> 01:04:40,800
-<i>Quando minha vida
-mal havia começado</i>
-
-798
-01:04:40,801 --> 01:04:45,100
-<i>Até que toda minha vida
-tenha acabado</i>
-
-799
-01:04:45,101 --> 01:04:50,100
-<i>Será que a deixarei?</i>
-
-800
-01:05:10,500 --> 01:05:14,200
-<i>Será que voltarei a vibrar</i>
-
-801
-01:05:14,201 --> 01:05:18,400
-<i>Ao refrão maravilhoso
-da minha querida?</i>
-
-802
-01:05:18,401 --> 01:05:22,500
-<i>Será que você ficará
-eternamente</i>
-
-803
-01:05:22,501 --> 01:05:27,300
-<i>Fora do alcance
-de meus braços?</i>
-
-804
-01:05:27,301 --> 01:05:30,900
-<i>Todos aqueles dias ao sol</i>
-
-805
-01:05:30,901 --> 01:05:35,000
-<i>O que eu não daria
-para reviver ao menos um</i>
-
-806
-01:05:35,101 --> 01:05:36,500
-Boa noite, mamãe.
-
-807
-01:05:36,501 --> 01:05:39,100
-<i>Desfazer o que foi feito</i>
-
-808
-01:05:39,101 --> 01:05:44,000
-<i>E trazer a luz de volta</i>
-
-809
-01:05:44,001 --> 01:05:47,600
-<i>Ah, eu poderia cantar</i>
-
-810
-01:05:47,601 --> 01:05:52,900
-<i>Sobre a dor
-que esses dias sombrios trazem</i>
-
-811
-01:05:52,901 --> 01:05:57,900
-<i>O feitiço
-sob o qual estamos</i>
-
-812
-01:05:57,901 --> 01:06:01,000
-<i>Ainda assim,
-é sobre a maravilha que somos</i>
-
-813
-01:06:01,001 --> 01:06:03,100
-<i>Que canto esta noite</i>
-
-814
-01:06:03,101 --> 01:06:06,800
-<i>Como,
-em meio a tanto pesar</i>
-
-815
-01:06:06,801 --> 01:06:10,700
-<i>Tanta esperança e amor
-podem aguentar?</i>
-
-816
-01:06:10,701 --> 01:06:14,700
-<i>Eu era inocente
-e determinada</i>
-
-817
-01:06:14,701 --> 01:06:19,100
-<i>Agora sou mais sábia,
-mas insegura</i>
-
-818
-01:06:19,101 --> 01:06:22,800
-<i>- Dias atrás...
-- Não posso voltar à infância</i>
-
-819
-01:06:22,801 --> 01:06:28,500
-<i>- Todos os dias preciosos...
-- Que meu pai fez segura</i>
-
-820
-01:06:28,501 --> 01:06:32,600
-<i>Posso sentir
-a mudança em mim</i>
-
-821
-01:06:32,601 --> 01:06:37,600
-<i>Agora sou mais forte,
-mas ainda não sou livre</i>
-
-822
-01:06:37,900 --> 01:06:40,800
-<i>Dias ao sol</i>
-
-823
-01:06:40,801 --> 01:06:46,000
-<i>Retornarão,
-precisamos acreditar</i>
-
-824
-01:06:46,001 --> 01:06:50,600
-<i>Como amantes acreditam</i>
-
-825
-01:06:50,601 --> 01:06:53,800
-<i>Que os dias ao sol</i>
-
-826
-01:06:53,801 --> 01:07:03,000
-<i>Irão raiar</i>
-
-827
-01:07:04,200 --> 01:07:06,500
-O que acontece
-quando a última pétala cair?
-
-828
-01:07:06,501 --> 01:07:09,000
-O mestre continuará
-como uma fera para sempre.
-
-829
-01:07:09,001 --> 01:07:11,500
-- E nos tornamos...
-- Antiguidades.
-
-830
-01:07:11,501 --> 01:07:14,100
-- Quinquilharias.
-- Utensílios levemente usados.
-
-831
-01:07:14,101 --> 01:07:16,700
-Lixo.
-Nós nos tornamos lixo.
-
-832
-01:07:17,700 --> 01:07:19,700
-Eu quero ajudá-los.
-
-833
-01:07:19,701 --> 01:07:22,200
-Deve haver um modo
-de quebrar a maldição.
-
-834
-01:07:22,201 --> 01:07:24,200
-Bem, há um.
-
-835
-01:07:24,500 --> 01:07:27,250
-Não precisa se preocupar
-com isso, querida.
-
-836
-01:07:27,251 --> 01:07:30,900
-Fizemos nossa cama
-e nos deitaremos nela.
-
-837
-01:08:22,800 --> 01:08:24,200
-Beba.
-
-838
-01:08:30,600 --> 01:08:33,600
-Obrigado, Agathe.
-
-839
-01:08:33,601 --> 01:08:37,100
-"O amor pode dar forma
-e dignidade.
-
-840
-01:08:37,101 --> 01:08:41,150
-O amor não enxerga
-com os olhos, e sim com a mente.
-
-841
-01:08:41,151 --> 01:08:44,000
-- E por isso..."
-- "E por isso, o alado Cupido...
-
-842
-01:08:44,001 --> 01:08:45,800
-é representado cego."
-
-843
-01:08:47,600 --> 01:08:49,500
-Conhece Shakespeare?
-
-844
-01:08:51,200 --> 01:08:53,800
-Tive uma educação ampla.
-
-845
-01:08:55,100 --> 01:08:58,100
-Na verdade, "Romeu e Julieta"
-é minha peça favorita.
-
-846
-01:08:58,900 --> 01:09:01,600
-Por que isso
-não me surpreende?
-
-847
-01:09:02,200 --> 01:09:03,700
-Como é?
-
-848
-01:09:03,701 --> 01:09:07,400
-Todo aquele sofrimento,
-anseio e...
-
-849
-01:09:08,700 --> 01:09:11,200
-Tantas coisas melhores
-para ler.
-
-850
-01:09:11,500 --> 01:09:13,000
-Tipo o quê?
-
-851
-01:09:13,501 --> 01:09:17,900
-Tem algumas coisas aqui
-pelas quais você pode começar.
-
-852
-01:09:21,800 --> 01:09:23,400
-Você está bem?
-
-853
-01:09:30,900 --> 01:09:33,400
-É maravilhosa.
-
-854
-01:09:36,600 --> 01:09:39,300
-É, acho que sim.
-
-855
-01:09:42,200 --> 01:09:46,700
-Se gosta tanto dela,
-então é sua.
-
-856
-01:09:52,500 --> 01:09:54,500
-Você realmente leu
-todos esses livros?
-
-857
-01:09:54,501 --> 01:09:56,001
-O quê?
-
-858
-01:09:57,000 --> 01:10:00,000
-Bem, nem todos.
-
-859
-01:10:00,001 --> 01:10:02,000
-Alguns estão em grego.
-
-860
-01:10:02,600 --> 01:10:04,600
-Isso foi uma piada?
-
-861
-01:10:05,600 --> 01:10:07,600
-Você faz piadas agora?
-
-862
-01:10:09,400 --> 01:10:10,800
-Talvez.
-
-863
-01:10:44,700 --> 01:10:48,500
-<i>"O ar é azul,
-penetrante e frio.</i>
-
-864
-01:10:48,501 --> 01:10:51,700
-E envolto
-em um invólucro congelado.
-
-865
-01:10:51,701 --> 01:10:55,500
-Cada galho, cada ramo,
-cada lâmina de grama
-
-866
-01:10:55,501 --> 01:10:58,200
-parece milagrosamente
-revestido...
-
-867
-01:10:59,200 --> 01:11:00,700
-de vidro."
-
-868
-01:11:07,700 --> 01:11:10,900
-Parece que estou vendo isso
-pela primeira vez.
-
-869
-01:11:15,400 --> 01:11:17,100
-Tem mais?
-
-870
-01:11:22,800 --> 01:11:27,200
-"Mas naquele silêncio solene
-ouve-se o sussurro
-
-871
-01:11:27,201 --> 01:11:29,700
-de todas as coisas
-adormecidas.
-
-872
-01:11:30,000 --> 01:11:32,800
-Olhe, olhe para mim.
-
-873
-01:11:34,400 --> 01:11:36,400
-Venha me despertar...
-
-874
-01:11:38,400 --> 01:11:40,600
-pois ainda estarei aqui."
-
-875
-01:12:09,100 --> 01:12:13,200
-<i>Há algo doce e quase gentil</i>
-
-876
-01:12:13,201 --> 01:12:17,000
-<i>Mas ele era mau,
-ele era rude e mal-educado</i>
-
-877
-01:12:17,001 --> 01:12:21,050
-<i>Agora ele é gentil
-e tão inseguro</i>
-
-878
-01:12:21,051 --> 01:12:24,700
-<i>Eu me pergunto
-como não vi isso antes</i>
-
-879
-01:12:35,500 --> 01:12:39,500
-<i>Ela olhou para mim,
-pensei ter visto</i>
-
-880
-01:12:39,501 --> 01:12:43,200
-<i>E quando nos tocamos,
-ela não teve repulsa pela pata</i>
-
-881
-01:12:43,201 --> 01:12:47,100
-<i>Não pode ser, vou ignorar</i>
-
-882
-01:12:47,101 --> 01:12:51,000
-<i>Mas ela jamais
-me olhou assim antes</i>
-
-883
-01:13:21,200 --> 01:13:24,100
-<i>Recente</i>
-
-884
-01:13:24,101 --> 01:13:27,800
-<i>E um pouco alarmante</i>
-
-885
-01:13:27,801 --> 01:13:36,800
-<i>Quem pensou
-que poderia ser assim?</i>
-
-886
-01:13:36,801 --> 01:13:39,300
-<i>De certo</i>
-
-887
-01:13:39,301 --> 01:13:43,200
-<i>Ele não é
-um príncipe encantado</i>
-
-888
-01:13:43,201 --> 01:13:50,100
-<i>Mas há algo nele
-que eu não havia visto</i>
-
-889
-01:13:51,700 --> 01:13:53,900
-<i>- Quem diria?
-- Não posso crer</i>
-
-890
-01:13:53,901 --> 01:13:55,900
-<i>- Quem poderia saber?
-- Quem, mesmo</i>
-
-891
-01:13:55,901 --> 01:13:58,800
-<i>Quem adivinharia que eles
-se juntariam por conta própria?</i>
-
-892
-01:13:58,801 --> 01:14:00,700
-<i>Que peculiar,
-é esperar para ver</i>
-
-893
-01:14:00,701 --> 01:14:03,300
-<i>Esperar para ver
-por mais alguns dias</i>
-
-894
-01:14:03,301 --> 01:14:07,200
-<i>Talvez haja algo aí
-que não existia antes</i>
-
-895
-01:14:07,201 --> 01:14:09,100
-Que coisa.
-
-896
-01:14:09,101 --> 01:14:13,300
-<i>Talvez haja algo aí
-que não existia antes</i>
-
-897
-01:14:13,301 --> 01:14:15,100
-O que, mamãe?
-
-898
-01:14:15,600 --> 01:14:23,400
-<i>Talvez haja algo aí
-que não existia antes</i>
-
-899
-01:14:23,401 --> 01:14:25,700
-O quê? O que é?
-
-900
-01:14:25,701 --> 01:14:28,200
-Eu conto
-quando for mais velho.
-
-901
-01:14:29,100 --> 01:14:31,500
-Certo, estou mais velho.
-
-902
-01:14:32,200 --> 01:14:33,700
-Zip.
-
-903
-01:14:34,300 --> 01:14:36,600
-Você é uma figura.
-
-904
-01:14:51,000 --> 01:14:53,900
-- O que está lendo?
-- Nada.
-
-905
-01:14:55,000 --> 01:14:58,800
-- "Guinevere e Lancelot".
-- Na verdade...
-
-906
-01:14:58,801 --> 01:15:02,000
-"Rei Artur e os Cavaleiros
-da Távola Redonda."
-
-907
-01:15:02,001 --> 01:15:04,600
-Homens, espadas
-e tudo mais.
-
-908
-01:15:05,600 --> 01:15:07,000
-Ainda assim...
-
-909
-01:15:07,600 --> 01:15:10,300
-- É um romance.
-- Está bem.
-
-910
-01:15:13,611 --> 01:15:16,165
-Eu nunca te agradeci
-por salvar minha vida.
-
-911
-01:15:16,639 --> 01:15:18,832
-Eu nunca te agradeci
-
-912
-01:15:18,833 --> 01:15:21,459
-por não me deixar
-ser comido por lobos.
-
-913
-01:15:25,321 --> 01:15:27,308
-Eles sabem
-como se divertir.
-
-914
-01:15:27,309 --> 01:15:31,250
-Sim, mas quando eu apareço,
-a diversão dissipa.
-
-915
-01:15:32,252 --> 01:15:33,652
-Eu também.
-
-916
-01:15:35,598 --> 01:15:38,005
-Os aldeões dizem
-que sou uma garota engraçada.
-
-917
-01:15:38,006 --> 01:15:40,363
-Mas tenho certeza
-que não é um elogio.
-
-918
-01:15:40,364 --> 01:15:41,765
-Sinto muito.
-
-919
-01:15:42,644 --> 01:15:44,965
-Sua aldeia parece horrível.
-
-920
-01:15:45,811 --> 01:15:47,811
-Quase tão solitária
-quanto o seu castelo.
-
-921
-01:15:49,238 --> 01:15:51,471
-O que você acha
-de fugirmos?
-
-922
-01:16:03,913 --> 01:16:07,248
-Outro pequeno presente
-da feiticeira.
-
-923
-01:16:10,742 --> 01:16:13,660
-Um livro
-que te permitirá escapar.
-
-924
-01:16:19,905 --> 01:16:21,505
-Surpreendente!
-
-925
-01:16:22,009 --> 01:16:24,477
-De todos,
-era o truque mais cruel dela.
-
-926
-01:16:24,935 --> 01:16:27,136
-Era apenas
-mais uma maldição.
-
-927
-01:16:27,337 --> 01:16:31,405
-O mundo exterior não tem lugar
-para uma criatura como eu.
-
-928
-01:16:31,983 --> 01:16:33,583
-Mas tem para você.
-
-929
-01:16:39,386 --> 01:16:42,810
-Pense no lugar
-que você sempre quis ver.
-
-930
-01:16:45,926 --> 01:16:49,343
-Agora, visualize esse lugar.
-
-931
-01:16:49,943 --> 01:16:51,928
-E então sinta
-em seu coração.
-
-932
-01:17:22,218 --> 01:17:24,238
-Aonde você nos trouxe?
-
-933
-01:17:24,839 --> 01:17:26,239
-Paris.
-
-934
-01:17:26,808 --> 01:17:29,118
-Eu adorava Paris.
-
-935
-01:17:30,487 --> 01:17:32,443
-O que você gostaria
-de ver primeiro?
-
-936
-01:17:32,444 --> 01:17:35,705
-Notre Dame?
-Los Champs-Élysées?
-
-937
-01:17:36,077 --> 01:17:38,353
-Não? Muito turísticos?
-
-938
-01:17:39,959 --> 01:17:42,607
-É muito mais
-do que eu imaginava.
-
-939
-01:17:52,373 --> 01:17:56,282
-<i>Esta é a Paris
-da minha infância</i>
-
-940
-01:17:57,234 --> 01:18:01,084
-<i>Estas foram as fronteiras
-da minha vida</i>
-
-941
-01:18:01,492 --> 01:18:05,817
-<i>Neste sótão empoeirado</i>
-
-942
-01:18:05,818 --> 01:18:10,342
-<i>Onde um artista
-amava a esposa dele</i>
-
-943
-01:18:10,947 --> 01:18:15,500
-<i>Fácil de lembrar</i>
-
-944
-01:18:15,501 --> 01:18:20,036
-<i>Difícil de seguir
-com a vida</i>
-
-945
-01:18:22,208 --> 01:18:26,401
-<i>Sabendo que a Paris
-da minha infância</i>
-
-946
-01:18:27,235 --> 01:18:29,988
-<i>Acabou-se</i>
-
-947
-01:18:37,038 --> 01:18:38,776
-O que aconteceu
-com sua mãe?
-
-948
-01:18:38,777 --> 01:18:42,074
-Era a única história que o papai
-não conseguiria contar.
-
-949
-01:18:42,075 --> 01:18:43,906
-Achava melhor não perguntar.
-
-950
-01:18:46,542 --> 01:18:48,364
-A máscara do doutor.
-
-951
-01:18:56,481 --> 01:18:57,881
-A praga.
-
-952
-01:19:03,420 --> 01:19:06,082
-Deve ir. Agora.
-
-953
-01:19:10,020 --> 01:19:12,793
-Depressa.
-Antes que a leve também.
-
-954
-01:19:30,090 --> 01:19:32,884
-Sinto muito por ter chamado
-seu pai de ladrão.
-
-955
-01:19:36,090 --> 01:19:37,690
-Vamos para casa.
-
-956
-01:19:44,261 --> 01:19:46,350
-Que tempestade!
-
-957
-01:19:46,351 --> 01:19:48,154
-Pelo menos,
-não estamos amarrados
-
-958
-01:19:48,155 --> 01:19:49,822
-a uma árvore
-no meio do nada,
-
-959
-01:19:49,823 --> 01:19:51,884
-cercados
-por sanguessugas e lobos.
-
-960
-01:19:52,285 --> 01:19:55,367
-Não é tarde demais.
-Podemos voltar atrás...
-
-961
-01:19:57,918 --> 01:20:01,232
-Sempre que fecho
-os meus olhos,
-
-962
-01:20:01,233 --> 01:20:03,645
-imagino que Maurice
-estava sozinho.
-
-963
-01:20:03,646 --> 01:20:06,267
-E quando eu os abro,
-ele está...
-
-964
-01:20:07,822 --> 01:20:09,322
-Maurice?
-
-965
-01:20:11,820 --> 01:20:15,448
-Gaston, você tentou matar
-o Maurice?
-
-966
-01:20:19,008 --> 01:20:22,186
-Maurice! Graças a Deus!
-
-967
-01:20:22,705 --> 01:20:26,097
-Passei os últimos cinco dias
-tentando encontrá-lo!
-
-968
-01:20:26,098 --> 01:20:29,056
-Você tentou me matar.
-Você me deixou para os lobos.
-
-969
-01:20:29,057 --> 01:20:30,543
-Lobos?
-
-970
-01:20:30,544 --> 01:20:33,108
-Delirar sobre suas ilusões
-é uma coisa,
-
-971
-01:20:33,109 --> 01:20:36,053
-me acusar de tentativa
-de assassinato é outra.
-
-972
-01:20:36,054 --> 01:20:40,005
-Maurice, você tem alguma prova
-do que está dizendo?
-
-973
-01:20:42,550 --> 01:20:44,797
-Pergunte à Agathe.
-Ela me resgatou.
-
-974
-01:20:44,798 --> 01:20:46,212
-Agathe!
-
-975
-01:20:46,703 --> 01:20:49,326
-Você sustentaria
-as suas acusações
-
-976
-01:20:49,327 --> 01:20:52,077
-com o testemunho
-de uma bruxa imunda?
-
-977
-01:20:52,078 --> 01:20:53,479
-Sem ofensa, Agathe.
-
-978
-01:20:56,930 --> 01:20:58,398
-<i>Monsieur</i> LeFou.
-
-979
-01:20:58,399 --> 01:21:01,104
-Ele estava lá.
-Ele viu tudo.
-
-980
-01:21:01,754 --> 01:21:04,240
-- Eu?
-- Você está certo!
-
-981
-01:21:04,839 --> 01:21:06,670
-Não tome minha palavra nisso.
-
-982
-01:21:07,144 --> 01:21:08,544
-LeFou!
-
-983
-01:21:09,058 --> 01:21:11,126
-Meu querido companheiro.
-
-984
-01:21:11,127 --> 01:21:16,018
-Eu, seu amigo mais antigo
-e compatriota mais leal,
-
-985
-01:21:16,019 --> 01:21:19,705
-tentaria matar o pai
-da única mulher que já amei?
-
-986
-01:21:19,706 --> 01:21:23,986
-É uma pergunta complicada,
-se considerar certas coisas.
-
-987
-01:21:25,057 --> 01:21:26,491
-Mas, não.
-
-988
-01:21:27,825 --> 01:21:29,225
-Não, ele não fez isso.
-
-989
-01:21:30,396 --> 01:21:31,796
-Você...
-
-990
-01:21:38,449 --> 01:21:43,003
-Maurice, me dói dizer,
-mas você se tornou
-
-991
-01:21:43,004 --> 01:21:45,205
-um perigo para si mesmo
-e para os outros.
-
-992
-01:21:45,206 --> 01:21:48,045
-Não me admira
-a Bela ter fugido.
-
-993
-01:21:48,046 --> 01:21:49,808
-Precisa de ajuda, senhor.
-
-994
-01:21:49,809 --> 01:21:52,370
-Um lugar para curar
-sua mente perturbada.
-
-995
-01:21:55,423 --> 01:21:57,178
-Tudo ficará bem.
-
-996
-01:21:57,949 --> 01:21:59,349
-Muito bem.
-
-997
-01:22:02,549 --> 01:22:04,959
-<i>Eu a vi no salão</i> e disse:
-
-998
-01:22:04,960 --> 01:22:07,823
-"você deixou tudo tão bonito,
-devemos ter um baile hoje".
-
-999
-01:22:07,824 --> 01:22:10,325
-Nunca imaginei
-que ela concordaria.
-
-1000
-01:22:10,326 --> 01:22:14,210
-- O que eu estava pensando?
-- Não, mestre. É perfeito!
-
-1001
-01:22:14,211 --> 01:22:16,854
-A rosa só tem quatro pétalas,
-significa que hoje...
-
-1002
-01:22:16,855 --> 01:22:19,378
-Você pode dizer a ela
-como se sente.
-
-1003
-01:22:19,379 --> 01:22:21,741
-Eu me sinto um idiota.
-
-1004
-01:22:21,742 --> 01:22:25,456
-- Ela nunca me amará.
-- Não desanime.
-
-1005
-01:22:26,427 --> 01:22:30,686
-- Ela é a escolhida.
-- Pare de dizer isso!
-
-1006
-01:22:31,766 --> 01:22:35,172
-- Não existe "a escolhida".
-- Você não se importa com ela?
-
-1007
-01:22:35,173 --> 01:22:39,650
-Então, vá cortejá-la com música
-e luz de velas romântica.
-
-1008
-01:22:39,651 --> 01:22:42,717
-Sim, e quando chegar
-no momento certo...
-
-1009
-01:22:43,147 --> 01:22:46,292
-- Bem, como vou saber?
-- Vai sentir um pouco enjoado.
-
-1010
-01:22:46,293 --> 01:22:48,902
-Não se preocupe, mestre.
-Você vai fazer bem.
-
-1011
-01:22:48,903 --> 01:22:53,370
-Apenas não fique tão nervoso
-e diga à Bela como se sente.
-
-1012
-01:22:53,371 --> 01:22:55,197
-Pois se você não disser,
-eu prometo
-
-1013
-01:22:55,198 --> 01:22:57,682
-que beberá chá frio
-pelo resto da sua vida!
-
-1014
-01:22:57,683 --> 01:22:59,720
-- No escuro.
-- Coberto de poeira.
-
-1015
-01:22:59,721 --> 01:23:02,094
-Escuro e muito,
-muito empoeirado.
-
-1016
-01:23:02,922 --> 01:23:05,877
-Comece com o cabelo.
-Mulheres adoram cabelo arrumado!
-
-1017
-01:23:05,878 --> 01:23:07,648
-Fico com os dedos das mãos
-e dos pés.
-
-1018
-01:23:07,649 --> 01:23:10,023
-Chapeau, escove os dentes.
-Eles precisam.
-
-1019
-01:23:15,139 --> 01:23:18,634
-Polir as unhas.
-Dar brilho no chifre.
-
-1020
-01:23:18,635 --> 01:23:21,983
-- Olhos fechados.
-- E para completar...
-
-1021
-01:23:23,699 --> 01:23:25,099
-<i>Voilà!</i>
-
-1022
-01:23:26,343 --> 01:23:29,128
-Certo, posso dar
-um jeito nisso.
-
-1023
-01:23:38,208 --> 01:23:41,875
-Linda!
-Mas está faltando algo.
-
-1024
-01:23:43,117 --> 01:23:44,813
-Isso!
-
-1025
-01:23:45,357 --> 01:23:48,356
-O toque final!
-
-1026
-01:24:53,423 --> 01:24:56,615
-<i>Uma história tão antiga
-quanto o tempo</i>
-
-1027
-01:24:58,642 --> 01:25:02,300
-<i>Tão verdadeira
-quanto pode ser</i>
-
-1028
-01:25:04,287 --> 01:25:07,062
-<i>Apenas amigos</i>
-
-1029
-01:25:07,063 --> 01:25:12,750
-<i>Então alguém cede
-inesperadamente</i>
-
-1030
-01:25:15,048 --> 01:25:18,294
-<i>Apenas uma pequena mudança</i>
-
-1031
-01:25:20,199 --> 01:25:23,133
-<i>Pequena,
-para dizer no mínimo</i>
-
-1032
-01:25:23,134 --> 01:25:25,899
-<i>Ambos um pouco assustados</i>
-
-1033
-01:25:25,900 --> 01:25:29,147
-<i>Nenhum dos dois preparados</i>
-
-1034
-01:25:29,148 --> 01:25:34,298
-<i>A Bela e a Fera</i>
-
-1035
-01:25:44,359 --> 01:25:48,532
-<i>Sempre exatamente o mesmo</i>
-
-1036
-01:25:50,835 --> 01:25:55,385
-<i>Sempre uma surpresa</i>
-
-1037
-01:25:57,938 --> 01:26:00,489
-<i>Sempre como antes</i>
-
-1038
-01:26:00,490 --> 01:26:03,906
-<i>Sempre tão certo</i>
-
-1039
-01:26:03,907 --> 01:26:08,861
-<i>Quanto o sol vai nascer</i>
-
-1040
-01:26:10,996 --> 01:26:14,485
-<i>Uma história tão antiga
-quanto o tempo</i>
-
-1041
-01:26:17,302 --> 01:26:22,015
-<i>Uma melodia tão antiga
-quanto a canção</i>
-
-1042
-01:26:23,694 --> 01:26:26,230
-<i>Agridoce e estranho</i>
-
-1043
-01:26:26,231 --> 01:26:29,300
-<i>Descobrindo
-que você pode mudar</i>
-
-1044
-01:26:29,301 --> 01:26:33,450
-<i>Aprendendo
-que você estava errado</i>
-
-1045
-01:26:45,664 --> 01:26:49,431
-<i>Tão certo quanto o sol</i>
-
-1046
-01:26:52,117 --> 01:26:55,136
-<i>Nasce ao leste</i>
-
-1047
-01:26:55,137 --> 01:26:57,857
-<i>Uma história tão antiga
-quanto o tempo</i>
-
-1048
-01:26:58,158 --> 01:27:01,694
-<i>Uma canção tão antiga
-quanto a rima</i>
-
-1049
-01:27:01,695 --> 01:27:06,180
-<i>A Bela e a Fera</i>
-
-1050
-01:27:08,177 --> 01:27:11,528
-<i>Uma história tão antiga
-quanto o tempo</i>
-
-1051
-01:27:11,529 --> 01:27:16,100
-<i>Uma canção tão antiga
-quanto a rima</i>
-
-1052
-01:27:16,101 --> 01:27:24,350
-<i>A Bela e a Fera</i>
-
-1053
-01:27:39,588 --> 01:27:41,608
-Há anos que não danço.
-
-1054
-01:27:42,665 --> 01:27:44,745
-Quase esqueci
-como é a sensação.
-
-1055
-01:27:54,558 --> 01:27:56,887
-É tolice, suponho eu...
-
-1056
-01:27:57,703 --> 01:28:00,799
-para uma criatura como eu,
-esperar...
-
-1057
-01:28:00,800 --> 01:28:03,419
-que um dia
-possa ganhar o seu carinho.
-
-1058
-01:28:04,781 --> 01:28:07,474
-- Eu não sei.
-- Mesmo?
-
-1059
-01:28:09,272 --> 01:28:11,279
-Você acha
-que poderia ser feliz aqui?
-
-1060
-01:28:16,402 --> 01:28:18,942
-Alguém pode ser feliz
-quando não está livre?
-
-1061
-01:28:29,361 --> 01:28:31,499
-Meu pai me ensinou a dançar.
-
-1062
-01:28:32,032 --> 01:28:34,191
-Eu pisava muito
-nos pés dele.
-
-1063
-01:28:37,651 --> 01:28:39,308
-Você deve sentir falta dele.
-
-1064
-01:28:42,285 --> 01:28:43,785
-Muita.
-
-1065
-01:28:50,331 --> 01:28:52,151
-Gostaria de vê-lo?
-
-1066
-01:29:01,021 --> 01:29:03,041
-Eu gostaria de ver meu pai.
-
-1067
-01:29:06,638 --> 01:29:08,038
+194
+00:14:26,320 --> 00:14:28,650
+O coitado deve ter
+se perdido na floresta.
+
+195
+00:14:28,740 --> 00:14:31,780
+Fique quieto.
+Talvez ele vá embora.
+
+196
+00:14:31,860 --> 00:14:34,910
+Tem alguém aí?
+
+197
+00:14:34,990 --> 00:14:37,620
+Nem uma palavra, Lumiere.
+Nem uma palavra.
+
+198
+00:14:37,700 --> 00:14:42,000
+Não queria importunar,
+mas perdi meu cavalo...
+
+199
+00:14:42,080 --> 00:14:44,960
+e...e preciso de um lugar
+para passar a noite.
+
+200
+00:14:45,040 --> 00:14:47,170
+Orloge, tenha dó.
+
+201
+00:14:47,260 --> 00:14:49,590
+Shh!
+
+202
+00:14:49,670 --> 00:14:51,010
+O-O-Ow! Ow! Ow!
+
+203
+00:14:51,090 --> 00:14:53,300
+Claro, senhor,
+será bem-vindo aqui.
+
+204
+00:14:53,390 --> 00:14:54,930
+Quem disse isso?
+
+205
+00:14:55,010 --> 00:14:56,930
+Por aqui!
+
+206
+00:14:57,020 --> 00:14:59,100
+- Onde?
+- Oi!
+
+207
+00:15:02,600 --> 00:15:04,360
+lncrível!
+
+208
+00:15:04,440 --> 00:15:06,270
+Agora sim, Lumiere.
+
+209
+00:15:06,360 --> 00:15:09,150
+Excelente. Muito bonito.
+
+210
+00:15:09,240 --> 00:15:12,610
+- Como se faz isso?
+- Solte-me! De imediato!
+
+211
+00:15:12,700 --> 00:15:15,280
+Pare com isso!
+Pare, eu disse!
+
+212
+00:15:21,620 --> 00:15:24,080
+Senhor! Feche isso de uma vez!
+
+213
+00:15:24,170 --> 00:15:26,540
+- Você se importa?
+- Com... Com licença!
+
+214
+00:15:26,630 --> 00:15:29,960
+Peço desculpas. É que
+nunca vi um relógio que...
+
+215
+00:15:38,430 --> 00:15:40,560
+O senhor está
+encharcado até a alma.
+
+216
+00:15:40,640 --> 00:15:42,730
+Venha.
+Aqueça-se perto da lareira.
+
+217
+00:15:42,810 --> 00:15:46,190
+- Obrigado.
+- Não, não, não!
+
+218
+00:15:46,270 --> 00:15:48,320
+Você sabe o que o mestre
+fará se o encontrar aqui.
+
+219
+00:15:48,400 --> 00:15:51,990
+Eu exijo que pare onde está.
+
+220
+00:15:52,070 --> 00:15:55,320
+Não, não, não!
+Não na cadeira do mestre!
+
+221
+00:15:57,700 --> 00:16:00,290
+Não pode ser!
+Não pode ser!
+
+222
+00:16:00,370 --> 00:16:04,040
+Olá, garoto.
+
+223
+00:16:08,210 --> 00:16:10,550
+- Que serviço!
+- Muito bem!
+
+224
+00:16:10,630 --> 00:16:13,880
+Isto já foi longe demais!
+Eu mando aqui.
+
+225
+00:16:13,970 --> 00:16:17,850
+Gostaria de uma xícara de chá, senhor?
+Ficará aquecido bem depressa.
+
+226
+00:16:17,930 --> 00:16:21,180
+Não! Nada de chá.
+Nada de chá!
+
+227
+00:16:23,680 --> 00:16:26,350
+O bigode dele
+faz cócegas, mamãe!
+
+228
+00:16:26,440 --> 00:16:29,730
+Oh! Olá!
+
+229
+00:16:33,990 --> 00:16:35,610
+Uh-oh.
+
+230
+00:16:44,460 --> 00:16:46,370
+Há um estranho aqui.
+
+231
+00:16:46,460 --> 00:16:49,670
+Mestre, deixe-me explicar.
+O cavalheiro estava perdido na floresta.
+
+232
+00:16:49,750 --> 00:16:52,000
+Estava com frio e molhado, então...
+
+233
+00:16:54,470 --> 00:16:57,510
+Mestre, gostaria de
+aproveitar para dizer...
+
+234
+00:16:57,590 --> 00:16:59,800
+que fui contra desde o início.
+Foi tudo culpa dele.
+
+235
+00:16:59,890 --> 00:17:03,020
+Tentei impedi-los.
+Mas me ouviram? Não, não...
+
+236
+00:17:08,190 --> 00:17:10,440
+Quem é você?
+O que faz aqui?
+
+237
+00:17:10,520 --> 00:17:12,940
+E..E..Eu me perdi na floresta e...
+
+238
+00:17:13,030 --> 00:17:17,110
+- Você não é bem-vindo aqui!
+- D..D..Desculpe.
+
+239
+00:17:17,200 --> 00:17:19,320
+- O que você está olhando?
+- N..Nada.
+
+240
+00:17:19,410 --> 00:17:23,080
+- Então, você veio ver a Fera, não?
+
+241
+00:17:23,160 --> 00:17:26,580
+Por favor, não quis importunar.
+Precisava de um lugar para ficar.
+
+242
+00:17:26,660 --> 00:17:31,590
+- Darei um lugar para você ficar!
+- Não, não, por favor! Não! Não!
+
+243
+00:17:36,510 --> 00:17:40,680
+Puxa, a Bela terá uma grande
+surpresa. Não é, Gaston?
+
+244
+00:17:40,760 --> 00:17:43,600
+Sim. Este é seu dia de sorte.
+
+245
+00:17:46,680 --> 00:17:49,770
+Gostaria de agradecer a todos
+por virem ao meu casamento.
+
+246
+00:17:49,850 --> 00:17:53,440
+Primeiro, é melhor eu
+pedi-la em casamento.
+
+247
+00:17:55,570 --> 00:17:58,490
+E você, Lefou, quando a Bela
+e eu sairmos pela porta...
+
+248
+00:17:58,570 --> 00:18:01,200
+Eu sei. Eu sei.
+Mando a banda tocar!
+
+249
+00:18:05,080 --> 00:18:07,450
+- Ainda não!
+- Desculpe.
+
+250
+00:18:17,170 --> 00:18:18,760
+Oh!
+
+251
+00:18:18,840 --> 00:18:22,180
+Gaston.
+Que surpresa agradável.
+
+252
+00:18:22,260 --> 00:18:25,600
+Não é?
+Estou cheio de surpresas.
+
+253
+00:18:25,680 --> 00:18:30,060
+Bela, não há uma garota nesta cidade
+que não gostaria de estar em seu lugar.
+
+254
+00:18:30,140 --> 00:18:31,730
+Chegou o dia...
+
+255
+00:18:34,820 --> 00:18:37,320
+Chegou o dia dos seus
+sonhos virarem realidade.
+
+256
+00:18:37,400 --> 00:18:40,280
+O que você entende
+dos meus sonhos, Gaston?
+
+257
+00:18:40,360 --> 00:18:43,620
+Muito!
+Veja. Imagine só.
+
+258
+00:18:43,700 --> 00:18:48,870
+Uma cabana rústica de caça.
+Minha caça assando ao fogo,
+
+259
+00:18:48,950 --> 00:18:52,000
+minha esposa
+massageando meus pés...
+
+260
+00:18:52,080 --> 00:18:54,920
+enquanto os pequenos brincam
+com os cães no chão.
+
+261
+00:18:55,000 --> 00:18:57,210
+- Teremos seis ou sete.
+- Cães?
+
+262
+00:18:57,300 --> 00:18:58,840
+Não, Bela!
+
+263
+00:18:58,920 --> 00:19:01,430
+- Garotos fortes, como eu!
+- Imagine só.
+
+264
+00:19:01,510 --> 00:19:04,220
+- E sabe quem será essa esposa?
+- Deixe-me pensar...
+
+265
+00:19:04,300 --> 00:19:06,430
+- Você, Bela!
+- Gaston, estou...
+
+266
+00:19:06,510 --> 00:19:08,970
+Sem palavras.
+
+267
+00:19:09,060 --> 00:19:11,520
+Realmente não sei o que dizer.
+
+268
+00:19:11,600 --> 00:19:15,730
+- Diga que se casará comigo.
+- Sinto muito, Gaston, mas...
+
+269
+00:19:15,810 --> 00:19:19,860
+mas não mereço você.
+
+270
+00:19:33,790 --> 00:19:36,420
+Então, como foi?
+
+271
+00:19:36,500 --> 00:19:39,460
+A Bela será minha esposa,
+
+272
+00:19:39,550 --> 00:19:42,590
+Pode apostar nisso!
+
+273
+00:19:44,010 --> 00:19:45,720
+Nervosinho!
+
+274
+00:19:52,640 --> 00:19:55,650
+Ele já foi?
+
+275
+00:19:55,730 --> 00:19:58,900
+Dá para acreditar?
+Pediu-me em casamento.
+
+276
+00:19:58,980 --> 00:20:03,320
+Eu! Esposa desse grosso,
+cabeça oca...
+
+277
+00:20:03,400 --> 00:20:05,280
+<i>Madame Gaston</i>
+
+278
+00:20:05,360 --> 00:20:07,280
+<i>Casar com ele</i>
+
+279
+00:20:07,370 --> 00:20:10,910
+<i>Madame Gaston
+Ele se engana</i>
+
+280
+00:20:10,990 --> 00:20:14,660
+<i>Jamais serei
+Esposa dele</i>
+
+281
+00:20:14,750 --> 00:20:19,710
+<i>Eu quero mais que
+a vida provinciana</i>
+
+282
+00:20:28,300 --> 00:20:33,310
+<i>Quero viver num mundo
+Bem mais amplo</i>
+
+283
+00:20:33,390 --> 00:20:37,940
+<i>Com coisas lindas para ver</i>
+
+284
+00:20:38,020 --> 00:20:41,360
+<i>E o que eu mais desejo ter</i>
+
+285
+00:20:41,440 --> 00:20:45,610
+<i>É alguém pra me entender</i>
+
+286
+00:20:45,700 --> 00:20:52,370
+<i>Tenho tantas coisas pra fazer</i>
+
+287
+00:20:54,120 --> 00:20:58,000
+Philippe? O que está
+fazendo aqui? Onde está...
+
+288
+00:20:58,080 --> 00:21:01,750
+Onde está o papai?
+Onde? O que aconteceu?
+
+289
+00:21:01,840 --> 00:21:05,090
+Temos que encontrá-lo!
+Você tem que me levar a ele!
+
+290
+00:21:19,190 --> 00:21:21,360
+Que lugar é este?
+
+291
+00:21:22,480 --> 00:21:24,820
+Por favor, calma!
+
+292
+00:21:26,400 --> 00:21:28,740
+Calma.
+
+293
+00:21:31,280 --> 00:21:32,780
 Papai!
 
-1068
-01:29:09,423 --> 01:29:13,109
-O que estão fazendo com ele?
-Ele está em apuros.
+294
+00:21:32,870 --> 00:21:35,700
+Não podia ficar
+em silêncio, podia?
 
-1069
-01:29:14,357 --> 01:29:16,057
-Você deve ir até ele.
+295
+00:21:35,790 --> 00:21:38,290
+Tinha que convidá-lo para ficar.
 
-1070
-01:29:18,326 --> 01:29:19,726
-O que você disse?
+296
+00:21:38,370 --> 00:21:41,540
+Servir chá para ele.
+Sentá-lo na poltrona do mestre.
 
-1071
-01:29:20,697 --> 01:29:22,606
-Você deve ir até ele.
+297
+00:21:41,630 --> 00:21:44,550
+- Acariciar o totó.
+- Só estava sendo hospitaleiro.
 
-1072
-01:29:24,468 --> 01:29:26,168
-Não há tempo a perder.
+298
+00:21:45,920 --> 00:21:50,090
+Oi!
+Tem alguém aí?
 
-1073
-01:29:31,657 --> 01:29:34,071
-Não. Leve com você.
+299
+00:21:50,180 --> 00:21:52,600
+Oi!
 
-1074
-01:29:36,221 --> 01:29:39,109
-Assim, você sempre poderá
-me ver.
+300
+00:21:52,680 --> 00:21:56,020
+Papai!
+Papai?
 
-1075
-01:29:44,478 --> 01:29:45,878
-Obrigada.
+301
+00:21:56,100 --> 00:21:58,180
+Você está aqui?
 
-1076
-01:30:31,421 --> 01:30:34,984
-Tive minhas dúvidas, mestre,
-mas tudo está nos conformes.
+302
+00:21:58,270 --> 00:22:01,190
+Mamãe! Tem uma
+garota no castelo!
 
-1077
-01:30:34,985 --> 01:30:37,579
-O amor verdadeiro
-sempre vence!
+303
+00:22:01,270 --> 00:22:04,440
+Ora, Zip, não o deixarei
+inventar tamanhas histórias.
 
-1078
-01:30:40,218 --> 01:30:43,729
-- Eu a deixei ir.
+304
+00:22:04,520 --> 00:22:06,860
+- É verdade! Eu a vi!
+
+305
+00:22:06,940 --> 00:22:09,030
+- Nem mais uma palavra. Já para o banho.
+- Mas...
+
+306
+00:22:09,110 --> 00:22:12,820
+Uma garota!
+Vi uma garota no castelo!
+
+307
+00:22:12,910 --> 00:22:14,740
+Viu? Eu disse!
+
+308
+00:22:14,830 --> 00:22:19,040
+Irresponsável, descuidado,
+surdo, boca-aberta...
+
+309
+00:22:19,120 --> 00:22:21,670
+Papai?
+
+310
+00:22:21,750 --> 00:22:25,210
+Viu isso?
+
+311
+00:22:25,290 --> 00:22:28,380
+- É uma garota!
+- Sei que é uma garota.
+
+312
+00:22:28,460 --> 00:22:31,720
+Não entende? É ela!
+A garota por quem esperávamos!
+
+313
+00:22:31,800 --> 00:22:34,600
+- Veio desfazer o feitiço!
+- Só um minuto! Só um minuto.
+
+314
+00:22:38,310 --> 00:22:41,140
+Papai?
+
+315
+00:22:41,230 --> 00:22:42,440
+Papai?
+
+316
+00:22:44,770 --> 00:22:47,440
+Oi!
+Tem alguém aqui?
+
+317
+00:22:47,530 --> 00:22:50,860
+Espere!
+Estou procurando meu pai! Eu...
+
+318
+00:22:53,780 --> 00:22:58,540
+Engraçado. Eu podia jurar
+que havia alguém.
+
+319
+00:22:58,620 --> 00:23:00,330
+T..Tem alguém aqui?
+
+320
+00:23:00,410 --> 00:23:03,290
+- Bela?
+- Papai!
+
+321
+00:23:05,250 --> 00:23:08,550
+- C..Co..Como me encontrou?
+- Suas mãos estão geladas!
+
+322
+00:23:08,630 --> 00:23:11,720
+- Temos que tirá-lo daqui.
+- Bela. Quero que você saia daqui.
+
+323
+00:23:11,800 --> 00:23:14,260
+- Quem fez isso com você?
+- Não há tempo para explicações.
+
+324
+00:23:14,340 --> 00:23:16,760
+- Você deve partir. Agora!
+- Não deixarei você!
+
+325
+00:23:16,850 --> 00:23:18,890
+- O que está fazendo aqui?
+- Corra, Bela!
+
+326
+00:23:18,970 --> 00:23:23,520
+- Quem está aí? Quem é você?
+- O Mestre deste castelo.
+
+327
+00:23:23,600 --> 00:23:26,440
+Vim buscar meu pai.
+Por favor, solte-o.
+
+328
+00:23:26,520 --> 00:23:29,860
+- Não está vendo? Ele está doente.
+- Então não devia ter entrado aqui.
+
+329
+00:23:29,940 --> 00:23:32,820
+Ele poderá morrer!
+Por favor, farei qualquer coisa.
+
+330
+00:23:32,900 --> 00:23:36,910
+Não há nada que possa fazer.
+Ele é meu prisioneiro.
+
+331
+00:23:36,990 --> 00:23:40,330
+Deve haver um jeito de eu...
+Espere!
+
+332
+00:23:46,380 --> 00:23:49,590
+- Aceite-me no lugar dele.
+- Você?
+
+333
+00:23:50,750 --> 00:23:53,800
+Você tomaria o lugar dele?
+
+334
+00:23:53,880 --> 00:23:56,090
+Bela, não? Você não sabe
+o que está fazendo!
+
+335
+00:23:56,180 --> 00:23:59,050
+Se eu ficasse,
+você o deixaria ir?
+
+336
+00:23:59,140 --> 00:24:03,680
+Sim, mas você deve prometer que
+ficará aqui para sempre.
+
+337
+00:24:06,230 --> 00:24:09,020
+Venha para a luz.
+
+338
+00:24:19,740 --> 00:24:23,700
+Não, Bela!
+Não a deixarei fazer isso!
+
+339
+00:24:25,620 --> 00:24:28,040
+- Tem minha palavra.
+- Feito!
+
+340
+00:24:31,920 --> 00:24:35,300
+Não, Bela. Ouça. Sou velho.
+Já vivi minha vida.
+
+341
+00:24:35,380 --> 00:24:37,470
+- Espere!
+- Bela!
+- Espere!
+
+342
+00:24:39,010 --> 00:24:41,810
+Não, por favor!
+Poupe minha filha! Por favor!
+
+343
+00:24:41,890 --> 00:24:45,310
+Ela não é mais preocupação sua!
+Levem-no à aldeia!
+
+344
+00:24:45,390 --> 00:24:47,980
+Solte-me.
+Por favor, solte-me!
+
+345
+00:24:48,060 --> 00:24:52,230
+Solte-me!
+Por favor! Por favor!
+
+346
+00:24:58,110 --> 00:24:59,410
+- Mestre?
 - O quê?
 
-1079
-01:30:43,730 --> 01:30:45,644
-Mestre,
-como pôde fazer isso?
+347
+00:24:59,490 --> 00:25:03,540
+Já que a garota ficará
+conosco por tanto tempo,
 
-1080
-01:30:45,645 --> 01:30:47,652
-Eu precisei.
+348
+00:25:03,620 --> 00:25:08,330
+pensei que talvez queira lhe oferecer
+um quarto mais confortável.
 
-1081
-01:30:48,153 --> 01:30:51,566
-- Mas por quê?
-- Porque ele a ama.
+349
+00:25:10,000 --> 00:25:11,540
+Por outro lado, talvez não.
 
-1082
-01:30:51,896 --> 01:30:53,707
-Então por que
-não viramos humanos?
+350
+00:25:14,340 --> 00:25:16,970
+Você nem deixou que
+eu me despedisse.
 
-1083
-01:30:53,708 --> 01:30:57,499
-Porque ela não o ama.
+351
+00:25:17,050 --> 00:25:19,260
+Nunca mais o verei.
+
+352
+00:25:19,340 --> 00:25:24,060
+- E não pude dizer adeus.
+- Levarei você ao seu quarto.
+
+353
+00:25:24,140 --> 00:25:27,680
+Meu quarto? Mas pensei...
+
+354
+00:25:27,770 --> 00:25:29,810
+- Você quer ficar na torre?
+- Não.
+
+355
+00:25:29,900 --> 00:25:32,310
+Então, siga-me.
+
+356
+00:25:52,420 --> 00:25:55,960
+- Diga algo para ela.
+- Huh? Oh.
+
+357
+00:25:56,050 --> 00:25:59,510
+Eu, uh, espero que goste daqui.
+
+358
+00:26:01,840 --> 00:26:06,060
+O castelo é seu lar agora. Pode ir aonde
+você quiser, exceto a ala oeste.
+
+359
+00:26:06,140 --> 00:26:08,890
+- O que há na ala...
+- Ela é proibida!
+
+360
+00:26:15,770 --> 00:26:19,150
+Agora, se precisar de algo,
+meus serventes a atenderão.
+
+361
+00:26:19,240 --> 00:26:21,860
+Convide-a para jantar.
+
+362
+00:26:21,950 --> 00:26:25,990
+Você jantará comigo!
+Isso não é um pedido!
+
+363
+00:26:44,390 --> 00:26:48,470
+Quem ela pensa que é?
+A garota mexeu com o homem errado.
+
+364
+00:26:48,560 --> 00:26:51,560
+- Ninguém diz não para o Gaston!
+- Você tem razão!
+
+365
+00:26:51,640 --> 00:26:55,940
+Dispensado. Rejeitado.
+Humilhado em público.
+
+366
+00:26:56,020 --> 00:26:57,820
+É mais do que
+posso suportar.
+
+367
+00:26:57,900 --> 00:27:01,400
+- Mais cerveja?
+- Para quê? Nada ajuda.
+
+368
+00:27:01,490 --> 00:27:04,530
+- Fui desonrado.
+- Quem, você? Nunca!
+
+369
+00:27:05,200 --> 00:27:09,040
+Gaston, você tem
+que se recompor.
+
+370
+00:27:09,120 --> 00:27:12,250
+<i>Não me conformo
+em vê-lo, Gaston</i>
+
+371
+00:27:12,330 --> 00:27:15,290
+<i>Triste e desanimado</i>
+
+372
+00:27:15,380 --> 00:27:18,500
+<i>Qualquer um quer
+ser você, Gaston</i>
+
+373
+00:27:18,590 --> 00:27:21,800
+<i>Mesmo que mal-humorado</i>
+
+374
+00:27:21,880 --> 00:27:25,050
+<i>Ninguém nesta aldeia
+é tão respeitado</i>
+
+375
+00:27:25,130 --> 00:27:28,560
+<i>Não há quem te possa enfrentar</i>
+
+376
+00:27:28,640 --> 00:27:31,520
+<i>Ninguém aqui é tão admirado</i>
+
+377
+00:27:31,600 --> 00:27:34,980
+<i>E não há quem não
+queira te imitar</i>
+
+378
+00:27:35,060 --> 00:27:38,610
+<i>Não há...</i>
+
+379
+00:27:40,570 --> 00:27:43,570
+<i>ninguém igual...</i>
+
+380
+00:27:43,650 --> 00:27:46,780
+<i>a Gaston
+Nem melhor que Gaston</i>
+
+381
+00:27:46,860 --> 00:27:49,990
+<i>Nem pescoço mais grosso
+que o teu, oh, Gaston</i>
+
+382
+00:27:50,080 --> 00:27:53,910
+<i>Nesta aldeia ninguém
+é tão homem</i>
+
+383
+00:27:54,000 --> 00:27:56,500
+<i>Modelo de perfeição</i>
+
+384
+00:27:56,580 --> 00:27:59,960
+<i>Se há valentes
+aqui todos somem</i>
+
+385
+00:28:00,040 --> 00:28:05,220
+<i>Pois quando você briga
+põe todos no chão</i>
+
+386
+00:28:05,300 --> 00:28:08,470
+<i>Não há...</i>
+
+387
+00:28:08,550 --> 00:28:11,560
+<i>igual à Gaston
+Mais herói que Gaston</i>
+
+388
+00:28:11,640 --> 00:28:14,680
+<i>Não há queixo mais
+másculo que o de Gaston</i>
+
+389
+00:28:14,770 --> 00:28:18,520
+<i>Sou um tipo de homem
+impressionante</i>
+
+390
+00:28:18,600 --> 00:28:21,690
+<i>Mas que machão é Gaston</i>
+
+391
+00:28:21,770 --> 00:28:25,070
+<i>No bar, na rua
+Na praça ou na rinha</i>
+
+392
+00:28:25,150 --> 00:28:30,450
+<i>Gaston é o melhor
+e o resto é florinha</i>
+
+393
+00:28:30,530 --> 00:28:33,620
+<i>Ninguém...</i>
+
+394
+00:28:33,700 --> 00:28:36,580
+<i>enche o Gaston
+Ninguém vence o Gaston</i>
+
+395
+00:28:36,660 --> 00:28:39,880
+<i>Numa briga ninguém
+morde mais que o Gaston</i>
+
+396
+00:28:39,960 --> 00:28:43,340
+<i>Ele é forte
+e tão musculoso</i>
+
+397
+00:28:43,420 --> 00:28:46,590
+<i>Tenho muque
+para dar e vender</i>
+
+398
+00:28:46,670 --> 00:28:50,550
+<i>Seu defeito
+é ser orgulhoso</i>
+
+399
+00:28:50,640 --> 00:28:53,850
+<i>Verdade, sou todo peludo
+não vou esconder</i>
+
+400
+00:28:53,930 --> 00:28:56,680
+<i>- Ninguém bate em Gaston
+- Nem combate Gaston</i>
+
+401
+00:28:56,770 --> 00:29:00,020
+<i>Ninguém cospe à distância
+melhor que Gaston</i>
+
+402
+00:29:00,100 --> 00:29:04,150
+<i>Vejam como sou bom
+numa cusparada</i>
+
+403
+00:29:04,230 --> 00:29:07,070
+<i>Venceu o Gaston!</i>
+
+404
+00:29:07,150 --> 00:29:10,110
+<i>Duas dúzias de ovos
+comi todo dia</i>
+
+405
+00:29:10,200 --> 00:29:13,660
+<i>Pois eu sempre quis
+ser bem fortão</i>
+
+406
+00:29:13,740 --> 00:29:16,830
+<i>E com cinco dúzias
+que como hoje em dia</i>
+
+407
+00:29:16,910 --> 00:29:22,840
+<i>Eu fiquei maior
+que um carroção</i>
+
+408
+00:29:22,920 --> 00:29:26,340
+<i>Bom de...</i>
+
+409
+00:29:26,420 --> 00:29:29,630
+<i>caça é Gaston
+Bela raça é Gaston</i>
+
+410
+00:29:29,720 --> 00:29:32,930
+<i>Ninguém monta a cavalo
+melhor que Gaston</i>
+
+411
+00:29:33,010 --> 00:29:36,850
+<i>Tenho caça empalhada
+por toda a casa</i>
+
+412
+00:29:36,930 --> 00:29:39,390
+<i>Ele é o maior...</i>
+
+413
+00:29:39,480 --> 00:29:46,150
+<i>Gaston!</i>
+
+414
+00:29:49,610 --> 00:29:52,450
+- Socorro! Alguém me ajude!
+- Maurice?
+
+415
+00:29:52,530 --> 00:29:54,740
+Por favor! Por favor!
+Preciso da sua ajuda.
+
+416
+00:29:54,830 --> 00:29:57,240
+Ele a pegou!
+Ele a trancou na masmorra!
+
+417
+00:29:57,330 --> 00:29:59,370
+- Quem?
+- A Bela! Temos que ir!
+
+418
+00:29:59,460 --> 00:30:01,250
+Não há tempo a perder!
+
+419
+00:30:01,330 --> 00:30:03,580
+Devagar, Maurice.
+
+420
+00:30:03,670 --> 00:30:05,670
+Quem trancou
+a Bela na masmorra?
+
+421
+00:30:05,750 --> 00:30:09,670
+Uma fera! Uma fera
+horrível, monstruosa!
+
+422
+00:30:14,930 --> 00:30:16,510
+- Uma fera grande?
+- Enorme!
+
+423
+00:30:16,600 --> 00:30:19,770
+- Com um focinho feio e comprido?
+- Horrendamente feio!
+
+424
+00:30:19,850 --> 00:30:23,600
+- E garras afiadas E cruéis?
+- Sim, sim! Vão me ajudar?
+
+425
+00:30:23,690 --> 00:30:25,980
+Muito bem, velho.
+Ajudaremos você.
+
+426
+00:30:26,070 --> 00:30:29,900
+Ajudarão? Muito obrigado.
+Obrigado. Obrigado.
+
+427
+00:30:31,990 --> 00:30:34,450
+O velho e louco Maurice.
+
+428
+00:30:34,530 --> 00:30:38,160
+Sempre nos faz rir.
+
+429
+00:30:38,240 --> 00:30:41,160
+Velho e louco Maurice?
+
+430
+00:30:42,290 --> 00:30:45,500
+Velho e louco Maurice.
+
+431
+00:30:45,580 --> 00:30:49,250
+<i>Lefou, eu estive pensado</i>
+
+432
+00:30:49,340 --> 00:30:52,590
+<i>- Cuidado com isso
+- Eu sei</i>
+
+433
+00:30:52,670 --> 00:30:55,640
+<i>A cabeça do pai
+de quem amo</i>
+
+434
+00:30:55,720 --> 00:30:58,760
+<i>Cada dia se torna
+mais louca</i>
+
+435
+00:30:58,850 --> 00:31:02,140
+<i>Minha mente ficou
+funcionando</i>
+
+436
+00:31:02,230 --> 00:31:05,270
+<i>Quando olhei para
+esse pobre insano</i>
+
+437
+00:31:05,350 --> 00:31:08,820
+<i>Como eu quero casar
+com a filha do velho</i>
+
+438
+00:31:08,900 --> 00:31:13,150
+<i>Comecei a armar
+o meu plano</i>
+
+439
+00:31:13,240 --> 00:31:15,610
+- Se eu...
+- Sim?
+
+440
+00:31:15,700 --> 00:31:18,700
+- Então, nós...
+- Não! Ela...
+
+441
+00:31:18,780 --> 00:31:20,330
+- Adivinhe.
+- Agora eu entendi!
+
+442
+00:31:20,410 --> 00:31:22,660
+- Vamos lá!
+- Vamos lá!
+
+443
+00:31:22,750 --> 00:31:25,460
+<i>Bom de...</i>
+
+444
+00:31:25,540 --> 00:31:28,590
+<i>trama é o Gaston
+Quando ama, o Gaston</i>
+
+445
+00:31:28,670 --> 00:31:31,840
+<i>Para explorar um maluco
+só mesmo o Gaston</i>
+
+446
+00:31:31,920 --> 00:31:37,590
+<i>Muito em breve
+teremos o casamento</i>
+
+447
+00:31:37,680 --> 00:31:39,970
+<i>Do nosso herói</i>
+
+448
+00:31:40,060 --> 00:31:44,230
+<i>Gaston!</i>
+
+449
+00:31:47,650 --> 00:31:51,020
+Ninguém vai me ajudar?
+
+450
+00:31:59,120 --> 00:32:01,450
+- Quem é?
+- É a Madame Samovar, querida.
+
+451
+00:32:03,450 --> 00:32:05,540
+Pensei que gostaria
+de uma taça de chá.
+
+452
+00:32:05,620 --> 00:32:07,790
+Mas você é... é...
+
+453
+00:32:07,870 --> 00:32:11,460
+- Cuidado.
+- Isto é impossível.
+
+454
+00:32:11,550 --> 00:32:14,210
+Sei que é.
+Mas cá estamos nós.
+
+455
+00:32:14,300 --> 00:32:17,050
+Eu disse que ela era
+bonita, mamãe. Não foi?
+
+456
+00:32:17,130 --> 00:32:20,390
+Está bem, Zip. Já chega.
+
+457
+00:32:20,470 --> 00:32:24,140
+- Devagar. Não derrame.
+- Obrigada.
+
+458
+00:32:24,220 --> 00:32:26,270
+Quer me ver
+fazer um truque?
+
+459
+00:32:27,810 --> 00:32:30,770
+- Zip!
+- Oops, desculpe.
+
+460
+00:32:30,860 --> 00:32:33,360
+O que você fez foi
+de muita coragem, querida.
+
+461
+00:32:33,440 --> 00:32:36,650
+- Todos achamos isso.
+- Mas perdi meu pai,...
+
+462
+00:32:36,740 --> 00:32:38,660
+meus sonhos, tudo.
+
+463
+00:32:38,740 --> 00:32:43,660
+Anime-se, filha.
+Tudo vai dar certo.
+
+464
+00:32:43,740 --> 00:32:46,080
+Você verá.
+Veja só. Eu aqui...
+
+465
+00:32:46,160 --> 00:32:48,670
+batendo papo enquanto o jantar
+está por fazer.
+
+466
+00:32:48,750 --> 00:32:52,000
+- Zip?
+- Tchau!
+
+467
+00:32:52,090 --> 00:32:54,800
+Bem, como vamos vesti-la
+para o jantar?
+
+468
+00:32:54,880 --> 00:32:57,510
+Vejamos o que tenho
+nas minhas gavetas!
+
+469
+00:32:57,590 --> 00:33:01,390
+Que vergonha!
+
+470
+00:33:01,470 --> 00:33:04,100
+Aqui está!
+Ficará deslumbrante!
+
+471
+00:33:04,180 --> 00:33:09,640
+É muita gentileza sua,
+mas não vou jantar.
+
+472
+00:33:09,730 --> 00:33:12,270
+Você tem que ir!
+
+473
+00:33:12,400 --> 00:33:14,770
+Ahem, ahem, ahem, ahem, ahem.
+
+474
+00:33:14,860 --> 00:33:17,690
+O jantar está servido!
+
+475
+00:33:19,860 --> 00:33:23,370
+Qual é a demora?
+Eu disse para ela descer.
+
+476
+00:33:23,450 --> 00:33:27,040
+- Por que ainda não chegou?
+- Tenha paciência, senhor.
+
+477
+00:33:27,120 --> 00:33:30,500
+A garota perdeu seu pai e sua liberdade,
+tudo no mesmo dia.
+
+478
+00:33:30,580 --> 00:33:32,580
+Mestre, já pensou
+que talvez...
+
+479
+00:33:32,670 --> 00:33:34,880
+esta garota possa
+desfazer o feitiço?
+
+480
+00:33:34,960 --> 00:33:37,710
+Claro que sim!
+Não sou nenhum idiota.
+
+481
+00:33:37,800 --> 00:33:40,590
+Ótimo.
+Então você se apaixona por ela...
+
+482
+00:33:40,680 --> 00:33:43,090
+ela por você e ''poof''!
+
+483
+00:33:43,180 --> 00:33:46,180
+O feitiço se desfaz.
+Amanhã à meia-noite seremos humanos.
+
+484
+00:33:46,260 --> 00:33:49,230
+Não é tão fácil assim, Lumiere.
+Essas coisas demoram.
+
+485
+00:33:49,310 --> 00:33:51,390
+Mas a rosa já começou
+a murchar.
+
+486
+00:33:51,480 --> 00:33:53,810
+É inútil.
+
+487
+00:33:53,900 --> 00:33:57,440
+Ela é tão linda e eu...
+Olhem para mim!
+
+488
+00:34:00,030 --> 00:34:02,740
+Você tem que ajudá-la
+a ver além de tudo isso.
+
+489
+00:34:02,820 --> 00:34:04,910
+Não sei como.
+
+490
+00:34:04,990 --> 00:34:07,700
+Pode começar fazendo-se
+mais apresentável.
+
+491
+00:34:07,790 --> 00:34:09,750
+Endireite-se.
+Aja como um cavalheiro.
+
+492
+00:34:09,830 --> 00:34:14,000
+Sim. Quando ela entrar, dê um
+sorriso cativante, agradável.
+
+493
+00:34:14,080 --> 00:34:16,630
+Vamos, mostre-me um sorriso.
+
+494
+00:34:16,710 --> 00:34:20,470
+- Mas não assuste a coitada.
+- Impressione-a com sua esperteza afiada.
+
+495
+00:34:20,590 --> 00:34:22,010
+- Mas seja carinhoso.
+
+496
+00:34:22,090 --> 00:34:24,050
+- Cubra-a de elogios.
+- Mas seja sincero.
+
+497
+00:34:24,140 --> 00:34:28,600
+E acima de tudo você
+deve controlar seu temperamento!
+
+498
+00:34:28,680 --> 00:34:30,480
+Aí está ela!
+
+499
+00:34:32,230 --> 00:34:34,350
+Boa tarde.
+
+500
+00:34:34,440 --> 00:34:36,440
+- Bem? Onde está ela?
+
+501
+00:34:36,520 --> 00:34:41,150
+Quem? Oh, há há há!
+A garota. Sim, a garota.
+
+502
+00:34:41,280 --> 00:34:45,200
+Na verdade, ela está
+no processo de...
+
+503
+00:34:45,280 --> 00:34:47,330
+Devido às circunstâncias...
+
+504
+00:34:47,410 --> 00:34:49,700
+Ela não virá.
+
+505
+00:34:50,870 --> 00:34:52,500
+O quê?
+
+506
+00:34:52,580 --> 00:34:55,790
+Excelência! Sua Graça!
+Eminência!
+
+507
+00:34:55,880 --> 00:34:57,630
+Não seja impulsivo!
+
+508
+00:35:00,510 --> 00:35:04,180
+- Eu pensei que tivesse lhe dito para vir jantar!
+- Não estou com fome.
+
+509
+00:35:04,260 --> 00:35:07,680
+Saia ou eu.. eu.. eu derrubarei a porta!
+
+510
+00:35:07,760 --> 00:35:11,680
+Mestre, posso estar enganado,
+mas acho que essa...
+
+511
+00:35:11,810 --> 00:35:14,100
+não é a melhor forma
+de conquistá-la.
+
+512
+00:35:14,190 --> 00:35:17,690
+Por favor. Tente
+ser um cavalheiro.
+
+513
+00:35:17,770 --> 00:35:20,530
+Mas ela está sendo tão difícil!
+
+514
+00:35:20,610 --> 00:35:23,610
+Com calma. Com calma.
+
+515
+00:35:24,990 --> 00:35:28,370
+- Vai descer para o jantar?
+- Não!
+
+516
+00:35:28,450 --> 00:35:30,830
+Suavemente, com gentileza.
+
+517
+00:35:30,910 --> 00:35:34,960
+Seria um grande prazer se...
+
+518
+00:35:35,040 --> 00:35:37,040
+me acompanhasse no jantar.
+
+519
+00:35:37,120 --> 00:35:39,090
+Pode dizer ''por favor''?
+
+520
+00:35:39,170 --> 00:35:40,630
+- Por favor.
+- Não, obrigada!
+
+521
+00:35:40,710 --> 00:35:42,840
+- Não pode ficar aí dentro para sempre!
+- Posso, sim!
+
+522
+00:35:42,960 --> 00:35:47,590
+Tudo bem!
+Então morra de fome!
+
+523
+00:35:47,680 --> 00:35:53,220
+Se não vai comer comigo,
+não vai comer.
+
+524
+00:35:55,810 --> 00:35:58,440
+Nossa, não teve um
+bom resultado, não é?
+
+525
+00:35:58,520 --> 00:36:01,730
+Lumiere, vigie a porta...
+
+526
+00:36:01,820 --> 00:36:04,900
+e me avise assim que houver
+qualquer mudança.
+
+527
+00:36:04,990 --> 00:36:07,360
+Pode contar comigo, capitão.
+
+528
+00:36:07,450 --> 00:36:12,330
+Bem, é melhor descer
+e começar a limpar.
+
+529
+00:36:13,490 --> 00:36:15,960
+Pedi gentilmente
+e ela recusou-se!
+
+530
+00:36:16,040 --> 00:36:19,630
+O que ela quer que eu faça?
+Implore?
+
+531
+00:36:19,710 --> 00:36:22,170
+Mostre-me a garota.
+
+532
+00:36:23,710 --> 00:36:27,380
+O mestre não é tão ruim assim
+depois que você o conhece.
+
+533
+00:36:27,470 --> 00:36:31,220
+- Por que não dá uma chance para ele?
+- Não quero conhecê-lo.
+
+534
+00:36:31,350 --> 00:36:34,100
+Não quero ter nada
+a ver com ele.
+
+535
+00:36:36,100 --> 00:36:38,060
+Só estou me enganando.
+
+536
+00:36:38,190 --> 00:36:40,560
+Ela nunca me verá como...
+
+537
+00:36:40,650 --> 00:36:43,190
+nada além de um monstro.
+
+538
+00:36:47,860 --> 00:36:49,820
+É inútil.
+
+539
+00:37:07,340 --> 00:37:09,220
+- Oh, Não!
+- Oh, Sim!
+
+540
+00:37:09,340 --> 00:37:12,010
+- Oh, Não!
+- Oh, Sim, sim, sim!
+
+541
+00:37:12,090 --> 00:37:14,720
+Você já me queimou antes!
+
+542
+00:37:17,520 --> 00:37:19,560
+Nossa! Ela saiu!
+
+543
+00:37:24,150 --> 00:37:27,480
+Vamos, Zip. Para o armário
+com suas irmãs e irmãos.
+
+544
+00:37:29,240 --> 00:37:30,900
+Mas não estou com sono.
+
+545
+00:37:30,990 --> 00:37:34,160
+- Está sim.
+- Não, não estou.
+
+546
+00:37:34,240 --> 00:37:37,450
+Eu trabalho e me esforço
+o dia todo para quê?
+
+547
+00:37:37,540 --> 00:37:40,580
+Uma obra prima gastronômica
+desperdiçada!
+
+548
+00:37:40,660 --> 00:37:43,830
+Pare de resmungar.
+Foi uma noite comprida para todos nós.
+
+549
+00:37:43,960 --> 00:37:47,050
+Se quer saber, acho
+que ela foi cabeça-dura.
+
+550
+00:37:47,130 --> 00:37:48,760
+Afinal, ele disse por favor.
+
+551
+00:37:48,880 --> 00:37:52,300
+Mas se o mestre não aprender a controlar
+seu temperamento, o feitiço nunca será que...
+
+552
+00:37:52,380 --> 00:37:55,720
+bom vê-la por aqui, mademoiselle.
+
+553
+00:37:55,800 --> 00:37:59,140
+Sou o Orloge,
+supervisor da casa.
+
+554
+00:38:00,730 --> 00:38:03,810
+- Este é o Lumiere.
+- Muito prazer, querida.
+
+555
+00:38:03,900 --> 00:38:07,570
+Se houver...Pare com isso.
+...algo que possamos...Por favor.
+
+556
+00:38:07,690 --> 00:38:10,400
+...fazer para tornar sua
+estadia mais agradável...
+
+557
+00:38:10,490 --> 00:38:12,780
+- Estou com fome.
+- Está?
+
+558
+00:38:12,860 --> 00:38:14,490
+Ouviram?
+Ela está com fome.
+
+559
+00:38:14,570 --> 00:38:17,700
+Aticem o fogo. Tragam as pratarias.
+Acordem a louça chinesa.
+
+560
+00:38:17,780 --> 00:38:20,160
+Lembre-se do que o Mestre disse.
+
+561
+00:38:20,290 --> 00:38:23,540
+Bobagem! Não vou deixar a
+coitada passar fome.
+
+562
+00:38:23,620 --> 00:38:26,590
+Muito bem. Um copo de água,
+um pedaço de pão e...
+
+563
+00:38:26,670 --> 00:38:29,050
+Orloge! Você me espanta.
+
+564
+00:38:29,380 --> 00:38:31,760
+Ela não é uma prisioneira.
+E nossa hóspede.
+
+565
+00:38:31,840 --> 00:38:35,590
+Devemos deixá-la à vontade.
+Por aqui, senhorita.
+
+566
+00:38:35,720 --> 00:38:37,550
+Não façam barulho.
+
+567
+00:38:37,640 --> 00:38:40,020
+Se o mestre descobrir,
+vai querer nossos pescoços.
+
+568
+00:38:40,100 --> 00:38:42,140
+Claro, claro.
+
+569
+00:38:42,270 --> 00:38:45,690
+Mas o que é um jantar
+sem um pouco de música?
+
+570
+00:38:45,770 --> 00:38:47,110
+Música?
+
+571
+00:38:50,900 --> 00:38:54,320
+Minha querida, é com muito
+orgulho e grande prazer...
+
+572
+00:38:54,450 --> 00:38:56,240
+que lhe damos as boas-vindas.
+
+573
+00:38:56,360 --> 00:38:58,950
+E agora, queremos
+que fique à vontade.
+
+574
+00:38:59,030 --> 00:39:03,910
+Puxe uma cadeira enquanto a sala de
+jantar tem o orgulho de apresentar...
+
+575
+00:39:04,000 --> 00:39:05,620
+o seu jantar.
+
+576
+00:39:06,750 --> 00:39:10,500
+<i>À vontade!</i>
+
+577
+00:39:10,590 --> 00:39:13,920
+<i>À vontade prove
+a nossa qualidade</i>
+
+578
+00:39:14,010 --> 00:39:18,640
+<i>Ponha o guardanapo agora, cherie
+E sirva-se à vontade</i>
+
+579
+00:39:18,760 --> 00:39:21,060
+<i>''Soup du jour''
+e os ''Hors d'oeuvres''</i>
+
+580
+00:39:21,140 --> 00:39:23,270
+<i>Veja se o serviço serve</i>
+
+581
+00:39:23,390 --> 00:39:25,600
+<i>É um serviço que tem vida</i>
+
+582
+00:39:25,690 --> 00:39:27,900
+<i>Observe se duvida</i>
+
+583
+00:39:27,980 --> 00:39:30,190
+<i>Tudo canta, tudo dança</i>
+
+584
+00:39:30,270 --> 00:39:32,650
+<i>Afinal, aqui é a França</i>
+
+585
+00:39:32,780 --> 00:39:36,530
+<i>E a comida aqui
+é uma especialidade</i>
+
+586
+00:39:36,610 --> 00:39:38,990
+<i>Abra o ''menu'' e veja</i>
+
+587
+00:39:39,120 --> 00:39:42,200
+<i>E agora esteja em sua casa</i>
+
+588
+00:39:42,330 --> 00:39:45,500
+<i>À vontade! À vontade!</i>
+
+589
+00:39:45,580 --> 00:39:49,880
+<i>''Beef ragout'' com um suflê
+Vários pratos ''en flambé''</i>
+
+590
+00:39:50,000 --> 00:39:54,130
+<i>A comida é preparada
+Especialmente pra você</i>
+
+591
+00:39:54,260 --> 00:39:58,550
+<i>Como vê, só você
+É a nossa convidada</i>
+
+592
+00:39:58,640 --> 00:40:00,850
+<i>Sejam facas ou colheres</i>
+
+593
+00:40:00,970 --> 00:40:03,180
+<i>Toda louça e os talheres</i>
+
+594
+00:40:03,260 --> 00:40:07,270
+<i>Todo o mundo vai brincar
+Todos querem festejar</i>
+
+595
+00:40:07,350 --> 00:40:11,190
+<i>E o bom chope já chegou
+para alegrar</i>
+
+596
+00:40:11,270 --> 00:40:15,490
+<i>Vamos então brindar
+para te homenagear</i>
+
+597
+00:40:15,610 --> 00:40:17,820
+<i>E convidar</i>
+
+598
+00:40:17,950 --> 00:40:19,820
+<i>É verdade,
+fique muito à vontade</i>
+
+599
+00:40:19,950 --> 00:40:23,700
+<i>À vontade! À vontade!
+À vontade!</i>
+
+600
+00:40:25,950 --> 00:40:30,580
+<i>Como a vida é triste
+Se o serviço não existe</i>
+
+601
+00:40:30,710 --> 00:40:33,960
+<i>Não faz bem vivermos
+sem servir alguém</i>
+
+602
+00:40:34,050 --> 00:40:35,760
+Saia!
+
+603
+00:40:35,840 --> 00:40:39,590
+<i>Ah, como era bom
+nós sermos úteis</i>
+
+604
+00:40:39,720 --> 00:40:44,350
+<i>- Huh?
+- Hoje não servimos mais ninguém</i>
+
+605
+00:40:44,470 --> 00:40:47,390
+<i>- Oh!
+- Dez anos sem dono...</i>
+
+606
+00:40:47,480 --> 00:40:49,850
+<i>Nós penamos no abandono</i>
+
+607
+00:40:49,940 --> 00:40:55,230
+<i>Sem um exercício
+para nos manter em forma</i>
+
+608
+00:40:55,320 --> 00:41:00,030
+<i>Vagando e chorando
+pelos cantos</i>
+
+609
+00:41:00,110 --> 00:41:03,370
+<i>Já sem auto-estima
+você chega e nos anima!</i>
+
+610
+00:41:03,490 --> 00:41:07,160
+<i>Veio alguém, veio alguém
+que chegou para nosso bem</i>
+
+611
+00:41:07,290 --> 00:41:11,120
+<i>Já tem vinho e com carinho
+Vou querer servir também</i>
+
+612
+00:41:11,250 --> 00:41:15,090
+<i>E depois da sobremesa
+Eu vou pôr o chá na mesa</i>
+
+613
+00:41:15,210 --> 00:41:18,800
+<i>Vendo as xícaras dançando
+Vou fervendo e borbulhando</i>
+
+614
+00:41:18,920 --> 00:41:22,760
+<i>Hoje não falta nada
+Ai, meu Deus, estou manchada</i>
+
+615
+00:41:22,840 --> 00:41:26,100
+<i>Vou limpar
+Não se admite coisa errada</i>
+
+616
+00:41:26,180 --> 00:41:30,100
+<i>Eu tudo vou fazer
+para satisfazer</i>
+
+617
+00:41:30,230 --> 00:41:32,440
+<i>- A convidada
+- Convidada</i>
+
+618
+00:41:32,520 --> 00:41:34,980
+<i>- Convidada
+- Convidada</i>
+
+619
+00:41:35,060 --> 00:41:38,230
+<i>- Convidada... Convidada... Convidada..
+- Pessoal, a música acabou.
+Por aqui. Façam fila.</i>
+
+620
+00:41:38,360 --> 00:41:42,030
+<i>Nenhum homem ou mulher</i>
+
+621
+00:41:42,110 --> 00:41:45,950
+<i>Hoje o nosso prazer
+E só ver você comer</i>
+
+622
+00:41:46,030 --> 00:41:48,580
+<i>Nossas velas vão brilhando</i>
+
+623
+00:41:48,660 --> 00:41:52,870
+<i>Seu jantar vão alegrando</i>
+
+624
+00:41:52,960 --> 00:41:57,500
+<i>Um a um...</i>
+
+625
+00:41:57,590 --> 00:41:59,630
+<i>E o pessoal vai assim..</i>
+
+626
+00:41:59,710 --> 00:42:02,470
+<i>lhe servindo até o fim</i>
+
+627
+00:42:02,550 --> 00:42:06,300
+<i>Todo o mundo
+na maior felicidade</i>
+
+628
+00:42:06,390 --> 00:42:10,060
+<i>Enquanto se festeja
+Por favor esteja</i>
+
+629
+00:42:10,180 --> 00:42:12,060
+<i>À vontade!</i>
+
+630
+00:42:12,140 --> 00:42:15,060
+<i>À vontade!
+À vontade!</i>
+
+631
+00:42:15,150 --> 00:42:18,400
+<i>À vontade!</i>
+
+632
+00:42:18,520 --> 00:42:24,610
+<i>Bem à vontade!</i>
+
+633
+00:42:26,950 --> 00:42:31,580
+- Bravo! Que maravilha!
+- Obrigado.
+
+634
+00:42:31,660 --> 00:42:36,880
+Obrigado, senhorita.
+Bom show, não? Sim, pessoal.
+
+635
+00:42:37,000 --> 00:42:41,460
+Nossa, veja a hora.
+Para a cama. Para a cama.
+
+636
+00:42:41,550 --> 00:42:44,010
+Eu não posso ir
+para a cama agora.
+
+637
+00:42:44,090 --> 00:42:46,050
+É minha primeira vez
+num castelo encantado e...
+
+638
+00:42:46,180 --> 00:42:48,300
+Encantado?
+
+639
+00:42:48,390 --> 00:42:51,560
+Quem falou que o castelo
+é encantado?
+
+640
+00:42:51,680 --> 00:42:55,100
+- Foi você, não foi?
+- Eu descobri sozinha.
+
+641
+00:42:57,350 --> 00:42:59,480
+Eu gostaria de dar uma olhada,
+se possível.
+
+642
+00:42:59,570 --> 00:43:02,900
+- Oh, você quer um tour?
+- Espere aí, espere aí.
+
+643
+00:43:02,990 --> 00:43:05,280
+Não sei se é uma boa idéia.
+
+644
+00:43:05,400 --> 00:43:10,700
+Não podemos deixá-la bisbilhotar em
+certos lugares, se é que me entendem.
+
+645
+00:43:10,780 --> 00:43:15,410
+Talvez queira me acompanhar. Tenho certeza
+que você sabe tudo sobre o castelo.
+
+646
+00:43:15,540 --> 00:43:18,630
+Bem... Na verdade, eu...
+
+647
+00:43:18,750 --> 00:43:21,130
+Sim, eu sei.
+
+648
+00:43:21,250 --> 00:43:24,840
+Como pode ver,
+a fachada falsa foi removida...
+
+649
+00:43:24,970 --> 00:43:27,180
+revelando um desenho
+rococó minimalista.
+
+650
+00:43:27,300 --> 00:43:30,390
+Veja o teto de abóbadas
+invertidas, fora do comum.
+
+651
+00:43:30,510 --> 00:43:33,850
+Este é mais um exemplo
+de barroco neoclássico.
+
+652
+00:43:33,970 --> 00:43:37,810
+E como sempre digo,
+se não for ''barro-co'' é lama.
+
+653
+00:43:40,150 --> 00:43:42,360
+Onde estava?
+
+654
+00:43:42,440 --> 00:43:44,650
+Atenção!
+
+655
+00:43:44,740 --> 00:43:49,370
+Então, se prestar atenção nos
+contrafortes elevados acima...
+
+656
+00:43:49,490 --> 00:43:50,870
+Uh, Senhorita?
+
+657
+00:43:56,660 --> 00:43:58,960
+- O que há lá?
+- Onde? lá?
+
+658
+00:43:59,080 --> 00:44:01,210
+Nada. Absolutamente nada
+de interessante na ala oeste.
+
+659
+00:44:01,290 --> 00:44:03,960
+Empoeirada, chata, um tédio.
+
+660
+00:44:04,050 --> 00:44:06,510
+Então essa é a ala oeste!
+
+661
+00:44:06,630 --> 00:44:08,840
+Muito bem.
+
+662
+00:44:08,930 --> 00:44:11,390
+O que será que ele
+esconde aí em cima?
+
+663
+00:44:11,470 --> 00:44:15,390
+- Esconde? O mestre não esconde nada.
+- Então não seria proibido.
+
+664
+00:44:15,470 --> 00:44:19,850
+Talvez, uh, a senhorita queira
+ver, uh, uh, mais alguma coisa?
+
+665
+00:44:19,980 --> 00:44:22,650
+Temos tapeçarias
+raras da época de...
+
+666
+00:44:22,730 --> 00:44:24,940
+- Talvez depois.
+- Uh... Os jardins...
+
+667
+00:44:25,030 --> 00:44:27,070
+ou, ou, talvez
+a biblioteca?
+
+668
+00:44:27,190 --> 00:44:28,990
+Vocês têm uma biblioteca?
+
+669
+00:44:29,070 --> 00:44:31,110
+- Sim! Certamente!
+- Com livros!
+
+670
+00:44:31,240 --> 00:44:33,990
+- Milhares de livros!
+- Montanhas de livros!
+
+671
+00:44:34,080 --> 00:44:35,330
+- Florestas de livros!
+- Cascatas!
+
+672
+00:44:35,410 --> 00:44:36,660
+- Nuvens!
+- Pântanos de livros!
+
+673
+00:44:36,750 --> 00:44:39,580
+Mais livros do que poderá
+ler em toda sua vida.
+
+674
+00:44:39,670 --> 00:44:41,790
+Livros sobre todos
+os assuntos já estudados.
+
+675
+00:44:41,920 --> 00:44:44,880
+De todos os escritores
+a tocar num papel.
+
+676
+00:45:36,930 --> 00:45:38,720
+Oh, oh.
+
+677
+00:46:24,940 --> 00:46:28,110
+- Por que veio aqui?
+- Sinto muito.
+
+678
+00:46:28,190 --> 00:46:32,030
+- Eu a preveni de nunca vir aqui!
+- Não foi por má intenção.
+
+679
+00:46:32,110 --> 00:46:35,200
+Percebeu o que podia
+ter causado?
+
+680
+00:46:35,320 --> 00:46:36,870
+Por favor! Pare!
+
+681
+00:46:36,990 --> 00:46:39,740
+- Saia!
+- Não!
+
+682
+00:46:41,290 --> 00:46:44,460
+Saia!
+
+683
+00:46:56,180 --> 00:46:58,390
+- Onde está indo?
+- Com promessa ou sem,
+
+684
+00:46:58,470 --> 00:47:00,350
+não posso ficar aqui
+nem mais um minuto.
+
+685
+00:47:00,470 --> 00:47:03,890
+Não. Espere! Por favor!
+Por favor, espere!
+
+686
+00:48:19,090 --> 00:48:20,720
+Não
+
+687
+00:49:30,250 --> 00:49:32,830
+Ora, ora. Não faça isso.
+
+688
+00:49:36,670 --> 00:49:38,880
+Fique quieto.
+
+689
+00:49:40,340 --> 00:49:43,340
+- Dói!
+- Se ficasse quieto não doeria tanto.
+
+690
+00:49:43,470 --> 00:49:45,680
+Se você não tivesse fugido,
+isso não teria acontecido.
+
+691
+00:49:45,760 --> 00:49:49,350
+Se não tivesse me assustado,
+eu não teria fugido.
+
+692
+00:49:49,430 --> 00:49:52,180
+Você não devia
+estar na ala oeste!
+
+693
+00:49:52,270 --> 00:49:54,400
+Você deveria aprender
+a controlar seu temperamento!
+
+694
+00:49:57,860 --> 00:50:01,110
+Fique quieto.
+Talvez arda um pouco.
+
+695
+00:50:04,240 --> 00:50:08,530
+Por sinal, obrigada...
+por salvar minha vida.
+
+696
+00:50:13,080 --> 00:50:15,040
+De nada.
+
+697
+00:50:21,590 --> 00:50:25,800
+Geralmente não saio do
+hospício no meio da noite,
+
+698
+00:50:25,880 --> 00:50:29,720
+mas ele disse
+que valeria a pena.
+
+699
+00:50:31,220 --> 00:50:34,390
+- Estou ouvindo.
+- É o seguinte.
+
+700
+00:50:34,520 --> 00:50:37,350
+Decidi que quero
+me casar com a Bela,
+
+701
+00:50:37,480 --> 00:50:40,900
+Mas ela precisa ser persuadida.
+
+702
+00:50:41,030 --> 00:50:43,280
+Ela o rejeitou de cara.
+
+703
+00:50:43,400 --> 00:50:45,780
+Todos sabem que o pai
+dela está louco.
+
+704
+00:50:45,900 --> 00:50:49,490
+Esteve aqui esta noite falando
+de uma fera em um castelo.
+
+705
+00:50:49,580 --> 00:50:51,120
+O Maurice é inofensivo.
+
+706
+00:50:51,240 --> 00:50:54,330
+A Bela faria de tudo para...
+
+707
+00:50:54,460 --> 00:50:57,620
+impedir que ele fosse internado.
+
+708
+00:50:57,750 --> 00:50:59,710
+Sim, até se casaria com ele.
+
+709
+00:51:02,460 --> 00:51:05,130
+Então quer que eu
+interne o pai dela...
+
+710
+00:51:05,220 --> 00:51:08,640
+a não ser que ela concorde
+em se casar com você.
+
+711
+00:51:08,760 --> 00:51:13,640
+Que desprezível!
+Adorei!
+
+712
+00:51:16,230 --> 00:51:19,270
+Se ninguém me ajudar,
+voltarei lá sozinho.
+
+713
+00:51:19,350 --> 00:51:22,400
+Sim, isso é tudo?
+Custe o que custar,
+
+714
+00:51:22,480 --> 00:51:25,110
+encontrarei o castelo,
+e darei um jeito
+
+715
+00:51:25,190 --> 00:51:27,360
+de tirá-la de lá.
+
+716
+00:51:33,330 --> 00:51:36,120
+- Bela? Maurice?
+- Bem...
+
+717
+00:51:36,200 --> 00:51:38,500
+Acho que não vai dar certo.
+
+718
+00:51:38,580 --> 00:51:40,960
+Terão que voltar alguma hora.
+
+719
+00:51:41,040 --> 00:51:44,840
+E quando voltarem,
+estaremos prontos para eles.
+
+720
+00:51:44,920 --> 00:51:49,180
+Lefou, não saia daí...
+
+721
+00:51:49,260 --> 00:51:51,300
+enquanto Bela e seu pai
+não voltarem.
+
+722
+00:51:51,390 --> 00:51:54,600
+Mas... Mas eu...
+
+723
+00:51:54,680 --> 00:51:57,100
+Droga!
+
+724
+00:52:19,210 --> 00:52:22,130
+Nunca senti isso por ninguém.
+
+725
+00:52:23,880 --> 00:52:27,760
+Quero fazer algo por ela.
+Mas o quê?
+
+726
+00:52:27,840 --> 00:52:29,840
+Bem, tem o de sempre:
+
+727
+00:52:29,930 --> 00:52:33,090
+flores, chocolate,
+promessas que não pretende cumprir...
+
+728
+00:52:33,180 --> 00:52:37,220
+Ah, não, não, tem que ser algo
+muito especial.
+
+729
+00:52:37,310 --> 00:52:40,940
+Algo que a deixe interessada.
+Espere aí!
+
+730
+00:52:43,190 --> 00:52:45,070
+Bela?
+
+731
+00:52:45,150 --> 00:52:47,730
+Tem algo que eu
+quero lhe mostrar.
+
+732
+00:52:49,400 --> 00:52:51,860
+Mas, primeiro, feche os olhos.
+
+733
+00:52:53,990 --> 00:52:57,160
+É uma surpresa.
+
+734
+00:53:06,420 --> 00:53:10,130
+- Posso abrir?
+- Não. Ainda Não.
+
+735
+00:53:10,220 --> 00:53:12,880
+Espere aqui.
+
+736
+00:53:17,100 --> 00:53:21,390
+- Agora Posso abrir?
+- Está bem. Agora!
+
+737
+00:53:29,780 --> 00:53:32,490
+Não acredito!
+
+738
+00:53:32,570 --> 00:53:34,740
+Nunca vi tantos livros
+assim na vida.
+
+739
+00:53:34,820 --> 00:53:37,910
+- Gostou?
+- É maravilhoso!
+
+740
+00:53:37,990 --> 00:53:42,120
+- Então, é seu.
+- Muito obrigada.
+
+741
+00:53:42,210 --> 00:53:45,250
+- Dá para acreditar?
+- Eu sabia que daria certo.
+
+742
+00:53:45,330 --> 00:53:47,750
+- O quê? O que deu certo?
+
+743
+00:53:47,840 --> 00:53:51,090
+- É muito positivo.
+- Não é emocionante?
+
+744
+00:53:51,170 --> 00:53:53,720
+- Não vi nada.
+- Venha, Zip.
+
+745
+00:53:53,800 --> 00:53:55,970
+Temos afazeres na cozinha.
+
+746
+00:53:56,050 --> 00:53:59,600
+Mas do que estão falando?
+O que está havendo? Ora, mãe!
+
+747
+00:54:46,270 --> 00:54:49,980
+<i>Ele foi bom
+E delicado</i>
+
+748
+00:54:50,060 --> 00:54:53,610
+<i>Mas era mau
+e era tão mal-educado</i>
+
+749
+00:54:53,690 --> 00:54:57,660
+<i>Foi tão gentil
+e tão cortez</i>
+
+750
+00:54:57,740 --> 00:55:02,080
+<i>Por que será que não
+notei nenhuma vez?</i>
+
+751
+00:55:14,920 --> 00:55:18,720
+<i>Eu reparei
+o seu olhar</i>
+
+752
+00:55:18,800 --> 00:55:22,390
+<i>E não tremeu quando
+chegou a me tocar</i>
+
+753
+00:55:22,470 --> 00:55:26,350
+<i>Não pode ser
+que insensatez</i>
+
+754
+00:55:26,430 --> 00:55:30,350
+<i>Jamais alguém me olhou
+assim alguma vez</i>
+
+755
+00:55:32,940 --> 00:55:38,900
+<i>Como ele está mudado</i>
+
+756
+00:55:38,990 --> 00:55:41,620
+<i>Claro que ele está</i>
+
+757
+00:55:41,700 --> 00:55:48,250
+<i>Longe de ser um...</i>
+
+758
+00:55:48,330 --> 00:55:50,460
+<i>verdadeiro...</i>
+
+759
+00:55:50,540 --> 00:55:54,340
+<i>príncipe encantado</i>
+
+760
+00:55:54,420 --> 00:55:57,010
+<i>Mas algum encanto</i>
+
+761
+00:55:57,090 --> 00:56:02,510
+<i>Ele tem eu posso ver</i>
+
+762
+00:56:02,600 --> 00:56:04,640
+<i>- Mas vejam só
+- Não posso crer</i>
+
+763
+00:56:04,720 --> 00:56:06,720
+<i>- Nem eu também
+- Não pode ser</i>
+
+764
+00:56:06,810 --> 00:56:09,440
+<i>Como é que podem se
+entender assim tão bem?</i>
+
+765
+00:56:09,520 --> 00:56:12,100
+<i>Que coisa estranha, vamos esperar
+- Vamos esperar</i>
+
+766
+00:56:12,190 --> 00:56:14,190
+<i>Mais alguns dias</i>
+
+767
+00:56:14,270 --> 00:56:19,530
+<i>O que será
+que pode haver?</i>
+
+768
+00:56:19,610 --> 00:56:23,740
+<i>Estamos vendo alguma
+coisa acontecer?</i>
+
+769
+00:56:23,820 --> 00:56:25,620
+O quê?
+
+770
+00:56:25,700 --> 00:56:29,330
+<i>Estamos vendo alguma
+coisa acontecer</i>
+
+771
+00:56:29,410 --> 00:56:32,040
+O que, mamãe?
+- Shh.
+
+772
+00:56:32,120 --> 00:56:34,880
+Contarei quando você crescer.
+
+773
+00:56:37,250 --> 00:56:38,800
+Já sabem por que estamos aqui.
+
+774
+00:56:38,880 --> 00:56:42,340
+Temos exatamente 12 horas
+36 minutos e 15 segundos...
+
+775
+00:56:42,430 --> 00:56:44,260
+Para criar o mais mágico,
+espontâneo...
+
+776
+00:56:44,350 --> 00:56:47,640
+e romântico clima conhecido por
+homens ou feras.
+
+777
+00:56:53,560 --> 00:56:56,150
+Bem... Apenas lembrando
+
+778
+00:56:56,230 --> 00:56:59,360
+que se a última pétala
+cair desta rosa...
+
+779
+00:56:59,440 --> 00:57:02,530
+o feitiço jamais será quebrado.
+
+780
+00:57:03,610 --> 00:57:06,120
+Muito bem.
+Conhecem suas tarefas.
+
+781
+00:57:06,200 --> 00:57:09,660
+Metade vai para a ala oeste.
+Metade vai para a ala leste.
+
+782
+00:57:09,750 --> 00:57:12,370
+E o restante, vem comigo.
+
+783
+00:57:16,750 --> 00:57:20,460
+Sossegue, Orloge, e deixe
+a natureza fazer a sua parte.
+
+784
+00:57:20,550 --> 00:57:22,720
+Evidente que há
+uma faísca entre eles.
+
+785
+00:57:22,800 --> 00:57:26,350
+É, claro. Mas não faz mal
+que peguem fogo,...
+
+786
+00:57:26,430 --> 00:57:27,470
+um pouco.
+
+787
+00:57:28,010 --> 00:57:31,600
+Mas devem se apaixonar hoje,
+se queremos ser humanos outra vez.
+
+788
+00:57:31,680 --> 00:57:34,600
+- Humano outra vez.
+- Humana outra vez.
+
+789
+00:57:34,690 --> 00:57:38,270
+Sim. Pensem no que isso significa.
+
+790
+00:57:40,610 --> 00:57:45,490
+<i>Com meu corpo outra vez
+Procurar outra vez</i>
+
+791
+00:57:45,570 --> 00:57:48,950
+<i>Belas mademoiselles achar</i>
+
+792
+00:57:49,410 --> 00:57:53,040
+<i>Ser humano outra vez
+Só humano outra vez</i>
+
+793
+00:57:53,120 --> 00:57:56,920
+<i>Com meu charme,
+eu vou abafar</i>
+
+794
+00:57:57,000 --> 00:58:00,670
+<i>Desfilando outra vez
+Elegante outra vez</i>
+
+795
+00:58:00,750 --> 00:58:04,510
+<i>Os maridos vão se apavorar</i>
+
+796
+00:58:04,590 --> 00:58:07,930
+<i>Vou da estante saltar
+Tenho que me arrumar</i>
+
+797
+00:58:08,010 --> 00:58:11,560
+<i>Pois serei um humano
+outra vez</i>
+
+798
+00:58:13,810 --> 00:58:17,060
+<i>Ser humano outra vez
+Só humano outra vez</i>
+
+799
+00:58:17,150 --> 00:58:20,650
+<i>De utensílio
+não vou mais ficar</i>
+
+800
+00:58:20,730 --> 00:58:24,070
+<i>Ninguém mais aqui não
+Vai viver na ilusão</i>
+
+801
+00:58:24,150 --> 00:58:27,660
+<i>Ah, cherie,
+já cansei de sonhar</i>
+
+802
+00:58:27,740 --> 00:58:31,330
+<i>Vou passar o meu ruge
+Vou tirar a ferrugem</i>
+
+803
+00:58:31,410 --> 00:58:34,750
+<i>Pela porta eu quero passar</i>
+
+804
+00:58:34,830 --> 00:58:36,920
+<i>Meu cabelo soltar</i>
+
+805
+00:58:37,000 --> 00:58:38,750
+<i>Trajes finos usar</i>
+
+806
+00:58:38,830 --> 00:58:42,920
+<i>Mas que bom
+ser humana outra vez</i>
+
+807
+00:58:47,050 --> 00:58:50,430
+<i>Ser humano outra vez
+Só humano outra vez</i>
+
+808
+00:58:50,510 --> 00:58:53,890
+<i>Muito grande será a emoção</i>
+
+809
+00:58:53,970 --> 00:58:55,600
+<i>Corda já não vou ter</i>
+
+810
+00:58:55,680 --> 00:58:57,190
+<i>Isso é o que eu quero ver</i>
+
+811
+00:58:57,270 --> 00:59:00,770
+<i>E assim não terei
+mais tensão</i>
+
+812
+00:59:00,860 --> 00:59:04,070
+<i>Junto ao mar vou viver
+Um bom chá vou beber</i>
+
+813
+00:59:04,150 --> 00:59:07,450
+<i>Recebendo uma boa pensão</i>
+
+814
+00:59:07,530 --> 00:59:11,240
+<i>E não vou me queimar
+Dessas chamas...</i>
+
+815
+00:59:11,320 --> 00:59:16,370
+<i>- eu vou me livrar!
+- Ser humano outra vez</i>
+
+816
+00:59:16,450 --> 00:59:19,750
+<i>A casa vamos limpar</i>
+
+817
+00:59:19,830 --> 00:59:23,380
+<i>As salas iluminar</i>
+
+818
+00:59:23,460 --> 00:59:26,170
+<i>Já se pode sentir
+Que alguém vai destruir</i>
+
+819
+00:59:26,260 --> 00:59:30,180
+<i>O feitiço</i>
+
+820
+00:59:30,260 --> 00:59:33,310
+<i>Tudo aqui tem que brilhar</i>
+
+821
+00:59:33,390 --> 00:59:36,310
+<i>Vassouras, a trabalhar</i>
+
+822
+00:59:36,390 --> 00:59:40,190
+<i>Se correr tudo bem
+Venceremos também</i>
+
+823
+00:59:40,270 --> 00:59:43,650
+<i>O feitiço</i>
+
+824
+00:59:43,730 --> 00:59:47,070
+<i>Abram janelas,
+tem que ventilar</i>
+
+825
+00:59:47,150 --> 00:59:51,200
+<i>Todas as coisas
+vão para seu lugar</i>
+
+826
+00:59:51,280 --> 00:59:54,490
+<i>Até que enfim
+O pranto e o pesar</i>
+
+827
+00:59:54,580 --> 00:59:59,210
+<i>Já vão se acabar</i>
+
+828
+01:00:03,590 --> 01:00:08,050
+<i>Ser humano outra vez
+Só humano outra vez</i>
+
+829
+01:00:08,130 --> 01:00:11,550
+<i>Então livres poderemos ser</i>
+
+830
+01:00:11,630 --> 01:00:14,850
+<i>Florescendo outra vez
+Renascendo outra vez</i>
+
+831
+01:00:14,930 --> 01:00:18,520
+<i>Reassumindo
+a alegria de viver</i>
+
+832
+01:00:18,600 --> 01:00:21,810
+<i>Desfrutando outra vez
+Festejando outra vez</i>
+
+833
+01:00:21,900 --> 01:00:25,320
+<i>Nunca mais vamos
+ter que pedir</i>
+
+834
+01:00:25,400 --> 01:00:27,030
+<i>Belos trajes vestir
+Acabar de fingir</i>
+
+835
+01:00:27,110 --> 01:00:29,360
+<i>Eles vão se amar</i>
+
+836
+01:00:29,440 --> 01:00:34,280
+<i>E afinal seremos humanos outra vez</i>
+
+837
+01:00:35,240 --> 01:00:37,620
+E jamais houve história
+mais triste...
+
+838
+01:00:37,700 --> 01:00:40,290
+do que a desta Julieta
+e o seu Romeu.
+
+839
+01:00:42,620 --> 01:00:45,840
+- Pode ler outra vez?
+- Bom então, por que você não lê pra mim?
+
+840
+01:00:45,920 --> 01:00:48,340
+Está bem.
+
+841
+01:00:52,840 --> 01:00:55,640
+- Eu não sei.
+- Então você nunca aprendeu?
+
+842
+01:00:55,720 --> 01:00:58,810
+Aprendi.
+Um pouquinho.
+
+843
+01:00:58,890 --> 01:01:01,520
+Mas... É que já
+faz tantos anos.
+
+844
+01:01:01,600 --> 01:01:03,900
+Espere, eu te ajudo.
+
+845
+01:01:03,980 --> 01:01:06,940
+- Vamos começar aqui.
+- Aqui...
+
+846
+01:01:08,730 --> 01:01:10,860
+- Dois?
+- Duas.
+
+847
+01:01:10,940 --> 01:01:15,280
+Duas. Eu já sabia.
+'Duas famílias inimigas viviam...''
+
+848
+01:01:15,870 --> 01:01:21,830
+<i>E dançar outra vez
+Rodopiar outra vez</i>
+
+849
+01:01:21,910 --> 01:01:25,210
+<i>Acabar com a insipidez</i>
+
+850
+01:01:25,290 --> 01:01:28,250
+<i>Sendo humano outra vez
+Só humano outra vez</i>
+
+851
+01:01:28,340 --> 01:01:31,960
+<i>Valsaremos cantando
+um, dois, três</i>
+
+852
+01:01:32,050 --> 01:01:35,220
+<i>Flutuando outra vez
+Deslizando outra vez</i>
+
+853
+01:01:35,300 --> 01:01:38,850
+<i>No salão,
+na maior fluidez</i>
+
+854
+01:01:38,930 --> 01:01:42,230
+<i>Vamos ser outra vez</i>
+
+855
+01:01:42,310 --> 01:01:45,770
+<i>Como o mundo nos fez</i>
+
+856
+01:01:45,850 --> 01:01:49,980
+<i>Belo amanhecer
+Glória de renascer</i>
+
+857
+01:01:50,070 --> 01:01:53,950
+<i>Ser humano</i>
+
+858
+01:01:54,030 --> 01:02:02,870
+<i>Outra vez</i>
+
+859
+01:02:11,920 --> 01:02:13,920
+Esta é a noite.
+
+860
+01:02:16,130 --> 01:02:19,390
+- Não sei se conseguirei.
+- Não É hora de encabular-se.
+
+861
+01:02:19,470 --> 01:02:21,680
+Dever ser arrojado. Ousado.
+
+862
+01:02:21,760 --> 01:02:23,770
+Arrojado. Ousado.
+
+863
+01:02:26,980 --> 01:02:31,020
+Haverá música e uma
+romântica luz de velas,
+
+864
+01:02:31,110 --> 01:02:33,030
+providenciada por mim,
+
+865
+01:02:33,110 --> 01:02:37,030
+e quando for a hora certa
+você vai declarar seu amor.
+
+866
+01:02:37,110 --> 01:02:39,160
+Sim. Eu decla...
+
+867
+01:02:39,240 --> 01:02:41,240
+Não, não posso.
+
+868
+01:02:41,330 --> 01:02:45,040
+- Você gosta dela, não?
+- Mais que qualquer outra coisa.
+
+869
+01:02:45,120 --> 01:02:48,790
+Então, deve dizer
+isso para ela.
+
+870
+01:02:48,870 --> 01:02:52,670
+''Voilà''! Você está tão...
+
+871
+01:02:52,750 --> 01:02:54,710
+Idiota.
+
+872
+01:02:54,800 --> 01:02:57,010
+Não era bem a palavra
+que eu procurava.
+
+873
+01:02:57,090 --> 01:02:59,800
+Talvez um pouco
+mais do topo.
+
+874
+01:03:03,760 --> 01:03:06,230
+Sua dama aguarda.
+
+875
+01:03:30,460 --> 01:03:33,210
+<i>Um conto tão velho quanto o tempo</i>
+
+876
+01:03:35,710 --> 01:03:38,510
+<i>Tão verdadeiro quanto pode ser</i>
+
+877
+01:03:40,800 --> 01:03:43,510
+<i>Mal são amigos</i>
+
+878
+01:03:43,600 --> 01:03:46,140
+<i>E então alguém se curva</i>
+
+879
+01:03:46,220 --> 01:03:48,640
+<i>Inesperadamente</i>
+
+880
+01:03:51,310 --> 01:03:54,270
+<i>Só uma pequena mudança</i>
+
+881
+01:03:56,320 --> 01:03:58,860
+<i>Pequena, pra não dizer nada</i>
+
+882
+01:03:58,940 --> 01:04:01,450
+<i>Os dois um pouco assustados</i>
+
+883
+01:04:01,530 --> 01:04:04,070
+<i>Nenhum dos dois preparados</i>
+
+884
+01:04:04,160 --> 01:04:07,450
+<i>A Bela e a Fera</i>
+
+885
+01:04:09,870 --> 01:04:13,460
+<i>Sempre iguais</i>
+
+886
+01:04:15,000 --> 01:04:17,880
+<i>Sempre uma surpresa</i>
+
+887
+01:04:20,220 --> 01:04:24,800
+<i>Sempre como antes
+Sempre com a certeza </i>
+
+888
+01:04:24,890 --> 01:04:28,470
+<i>De como quando nasce o sol</i>
+
+889
+01:04:30,020 --> 01:04:32,940
+<i>Um conto tão velho quanto o tempo</i>
+
+890
+01:04:35,230 --> 01:04:37,860
+<i>Uma canção tão velha quanto a música</i>
+
+891
+01:04:40,030 --> 01:04:44,950
+<i>Amarga e estranha
+Descobrindo que você pode mudar</i>
+
+892
+01:04:45,030 --> 01:04:48,660
+<i>Aprendendo que você estava errado</i>
+
+893
+01:04:50,160 --> 01:04:53,040
+<i>Certo como o sol</i>
+
+894
+01:04:55,040 --> 01:04:57,670
+<i>Nascendo no leste</i>
+
+895
+01:04:57,750 --> 01:05:03,180
+<i>Um conto tão velho quanto o tempo
+Uma canção tão velha quanto a rima</i>
+
+896
+01:05:03,260 --> 01:05:06,260
+<i>A Bela e a Fera</i>
+
+897
+01:05:06,350 --> 01:05:09,180
+Shh.
+
+898
+01:05:09,260 --> 01:05:12,480
+<i>Um conto tão velho quanto o tempo</i>
+
+899
+01:05:12,560 --> 01:05:16,650
+<i>Uma canção tão velha quanto a música</i>
+
+900
+01:05:16,730 --> 01:05:22,900
+<i>A Bela e a Fera</i>
+
+901
+01:05:24,320 --> 01:05:26,660
+Para o armário, Zip.
+
+902
+01:05:26,740 --> 01:05:29,160
+Já passou da hora de dormir.
+
+903
+01:05:30,580 --> 01:05:32,580
+Boa noite, meu amor.
+
+904
+01:05:56,100 --> 01:05:58,100
+Bela...
+
+905
+01:05:59,900 --> 01:06:03,030
+Você está feliz aqui comigo?
+
+906
+01:06:03,110 --> 01:06:05,110
+Sim.
+
+907
+01:06:09,160 --> 01:06:11,910
+O que foi?
+
+908
+01:06:11,990 --> 01:06:15,660
+Se ao menos eu pudesse ver meu
+pai de novo. Só por um momento.
+
+909
+01:06:15,750 --> 01:06:18,630
+Sinto tanto a falta dele...
+
+910
+01:06:23,000 --> 01:06:25,010
+Há um jeito.
+
+911
+01:06:27,630 --> 01:06:30,140
+Este espelho mostrará
+o que você quiser.
+
+912
+01:06:30,220 --> 01:06:33,060
+Tudo o que quiser ver.
+
+913
+01:06:33,140 --> 01:06:36,310
+Gostaria de ver meu pai,
+por favor.
+
+914
+01:06:42,980 --> 01:06:45,990
+Papai! Não!
+
+915
+01:06:46,070 --> 01:06:51,370
+Ele está doente. Pode estar morrendo,
+e está sozinho.
+
+916
+01:06:56,620 --> 01:07:01,420
+- Então, você deve ir até ele.
+- O que disse?
+
+917
+01:07:01,500 --> 01:07:04,960
+Eu a liberto.
+Não é mais minha prisioneira.
+
+918
+01:07:05,050 --> 01:07:08,220
+Quer dizer que estou livre?
+
+919
+01:07:08,300 --> 01:07:12,180
+- Sim.
+- Oh. Obrigada.
+
+920
+01:07:12,260 --> 01:07:14,680
+Espere, papai.
+Estou indo.
+
+921
+01:07:17,560 --> 01:07:20,310
+Leve-o com você.
+Assim poderá...
+
+922
+01:07:20,400 --> 01:07:24,690
+olhar para trás e lembrar-se de mim.
+
+923
+01:07:27,490 --> 01:07:30,320
+Obrigada por entender
+o quanto ele precisa de mim.
+
+924
+01:07:38,960 --> 01:07:41,580
+Alteza, devo dizer...
+
+925
+01:07:41,670 --> 01:07:43,880
+que tudo está indo às mil maravilhas.
+
+926
+01:07:43,960 --> 01:07:46,880
+Eu sabia que conseguiria.
+
+927
+01:07:46,960 --> 01:07:49,010
+Eu a deixei ir.
+
+928
+01:07:49,090 --> 01:07:51,800
+Sim. Ótimo.
+
+929
+01:07:51,880 --> 01:07:56,100
+O quê?
+Como pôde fazer isso?
+
+930
+01:07:56,180 --> 01:08:00,640
+- Tive que fazer.
+- Sim, mas... mas... por quê?
+
+931
+01:08:00,730 --> 01:08:04,310
+Porque a amo.
+
+932
+01:08:04,400 --> 01:08:06,020
+Ele fez o quê?
+
+933
+01:08:06,110 --> 01:08:10,190
+- Sim. Temo que seja verdade.
+- Ela está indo embora?
+
+934
+01:08:10,280 --> 01:08:12,280
+Ele esteve tão próximo.
+
+935
+01:08:12,360 --> 01:08:16,870
+Depois de todo esse tempo,
+finalmente aprendeu a amar.
+
+936
+01:08:16,950 --> 01:08:19,620
+É isso aí!
+O feitiço deveria desfazer-se!
+
+937
+01:08:19,700 --> 01:08:24,210
+Mas não basta isso.
+Ela tem que amá-lo também.
+
+938
+01:08:24,290 --> 01:08:27,000
 E agora é tarde demais.
 
-1084
-01:30:57,500 --> 01:31:00,406
-- Mas ela ainda pode voltar.
-- Não.
-
-1085
-01:31:01,347 --> 01:31:02,847
-Eu a libertei.
-
-1086
-01:31:04,320 --> 01:31:07,070
-Sinto muito que não pude
-fazer o mesmo por vocês.
-
-1087
-01:31:07,371 --> 01:31:11,186
-Agora vão.
-Nosso tempo está quase acabando.
-
-1088
-01:31:15,878 --> 01:31:17,428
-Vamos, minha amada.
-
-1089
-01:31:20,228 --> 01:31:23,285
-<i>Eu tinha tudo</i>
-
-1090
-01:31:25,142 --> 01:31:28,028
-<i>Era dono do meu destino</i>
-
-1091
-01:31:29,742 --> 01:31:34,456
-<i>Nunca precisei de alguém
-em minha vida</i>
-
-1092
-01:31:34,457 --> 01:31:38,142
-<i>Eu descobri tarde demais</i>
-
-1093
-01:31:39,314 --> 01:31:42,800
-<i>Nunca afastarei a dor</i>
-
-1094
-01:31:43,857 --> 01:31:47,628
-<i>Fecho meus olhos
-e ainda a vejo</i>
-
-1095
-01:31:48,657 --> 01:31:52,885
-<i>Eu a deixo invadir
-meu melancólico coração</i>
-
-1096
-01:31:53,657 --> 01:31:57,228
-<i>É mais do que posso aguentar</i>
-
-1097
-01:31:59,828 --> 01:32:04,628
-<i>Agora sei
-que nunca me deixará</i>
-
-1098
-01:32:05,228 --> 01:32:09,855
-<i>Mesmo se ela fugir</i>
-
-1099
-01:32:09,856 --> 01:32:14,379
-<i>Ainda irá me atormentar,
-me acalmar, me machucar</i>
-
-1100
-01:32:14,380 --> 01:32:17,800
-<i>Me motivar, seja o que for</i>
-
-1101
-01:32:19,057 --> 01:32:22,942
-<i>Envelhecendo nesta torre</i>
-
-1102
-01:32:23,600 --> 01:32:27,742
-<i>Esperando uma porta abrir</i>
-
-1103
-01:32:28,942 --> 01:32:32,085
-<i>Irei me enganar,
-e ela voltará</i>
-
-1104
-01:32:34,000 --> 01:32:38,986
-<i>E ficará comigo até o fim</i>
-
-1105
-01:32:40,942 --> 01:32:44,228
-<i>Desafiando as provas do amor</i>
-
-1106
-01:32:45,657 --> 01:32:48,428
-<i>Amaldiçoo o apagar da luz</i>
-
-1107
-01:32:49,971 --> 01:32:54,114
-<i>Por mais que esteja
-fora de alcance</i>
-
-1108
-01:32:54,485 --> 01:33:00,713
-<i>Ela ainda estará
-perto de mim</i>
-
-1109
-01:33:00,714 --> 01:33:05,142
-<i>Agora sei
-que nunca me deixará</i>
-
-1110
-01:33:05,928 --> 01:33:10,627
-<i>Mesmo se sumir de vista</i>
-
-1111
-01:33:10,628 --> 01:33:12,884
-<i>Ela ainda vai me inspirar</i>
-
-1112
-01:33:12,885 --> 01:33:18,885
-<i>Ser parte do que eu fizer</i>
-
-1113
-01:33:19,457 --> 01:33:23,300
-<i>Envelhecendo nesta torre</i>
-
-1114
-01:33:24,242 --> 01:33:28,100
-<i>Esperando uma porta abrir</i>
-
-1115
-01:33:29,071 --> 01:33:32,257
-<i>Irei me enganar,
-e ela voltará</i>
-
-1116
-01:33:33,471 --> 01:33:36,828
-<i>E as noites mais longas
-a começar</i>
-
-1117
-01:33:37,900 --> 01:33:41,214
-<i>Pensando em tudo
-que eu poderia ser</i>
-
-1118
-01:33:41,900 --> 01:33:48,300
-<i>Esperando aqui até o fim</i>
-
-1119
-01:33:48,301 --> 01:33:59,400
-<i>Até o fim</i>
-
-1120
-01:34:09,956 --> 01:34:11,556
-Este homem está fraco!
-
-1121
-01:34:12,187 --> 01:34:15,139
-Ele precisa ir ao hospital.
-Não a um hospício!
-
-1122
-01:34:18,051 --> 01:34:21,167
-Você já viu como é
-dentro de um manicômio, Maurice?
-
-1123
-01:34:21,562 --> 01:34:23,203
-Não duraria uma semana.
-
-1124
-01:34:23,204 --> 01:34:25,798
-Dê-me a mão de sua filha,
-e eu o liberto.
-
-1125
-01:34:25,799 --> 01:34:27,199
-Nunca.
-
-1126
-01:34:29,920 --> 01:34:31,320
-Levem-no!
-
-1127
-01:34:39,755 --> 01:34:41,155
-Parem!
-
-1128
-01:34:53,834 --> 01:34:55,354
-- Papai!
-- Bela.
-
-1129
-01:34:55,355 --> 01:34:56,758
-Achei que tinha te perdido.
-
-1130
-01:34:56,759 --> 01:34:58,540
-Deixem-no sair!
-Ele está ferido!
-
-1131
-01:34:58,541 --> 01:35:01,896
-Não podemos,
-mas iremos cuidar bem dele.
-
-1132
-01:35:01,897 --> 01:35:05,447
-Meu pai não é louco!
-Gaston, conte a ele!
-
-1133
-01:35:05,448 --> 01:35:07,748
-Sabe o quanto sou leal
-à sua família,
-
-1134
-01:35:07,749 --> 01:35:10,473
-mas seu pai
-fez acusações inacreditáveis.
-
-1135
-01:35:10,474 --> 01:35:12,142
-É verdade, Bela.
-
-1136
-01:35:12,143 --> 01:35:15,687
-Ele falou de uma fera
-dentro de um castelo!
-
-1137
-01:35:15,688 --> 01:35:18,488
-Eu acabei de vir do castelo
-e essa fera existe!
-
-1138
-01:35:18,489 --> 01:35:21,696
-Você diria tudo para soltá-lo.
-Sua palavra não é prova!
-
-1139
-01:35:21,697 --> 01:35:23,230
-Você quer uma prova?
-
-1140
-01:35:25,112 --> 01:35:26,912
-Mostre-me a Fera!
-
-1141
-01:35:36,668 --> 01:35:38,068
-Aí está a prova de vocês!
-
-1142
-01:35:39,486 --> 01:35:41,286
-Isso é bruxaria!
-
-1143
-01:35:43,214 --> 01:35:44,787
-Olhem esta fera!
-
-1144
-01:35:45,787 --> 01:35:49,635
-Olhem a cara dela!
-As garras!
-
-1145
-01:35:49,636 --> 01:35:51,868
-Não tenham medo!
-
-1146
-01:35:52,185 --> 01:35:54,702
-Ele é gentil e bondoso.
-
-1147
-01:35:56,376 --> 01:35:59,431
-O monstro a enfeitiçou!
-
-1148
-01:35:59,432 --> 01:36:03,224
-Se não a conhecesse melhor,
-diria que ela gosta dele!
-
-1149
-01:36:03,718 --> 01:36:06,981
-Ele não é um monstro, Gaston!
-Você é!
-
-1150
-01:36:08,329 --> 01:36:10,511
-A Fera
-não machucaria ninguém.
-
-1151
-01:36:10,512 --> 01:36:12,531
-Ouvi sobre os efeitos
-da magia negra,
-
-1152
-01:36:12,532 --> 01:36:15,149
-mas nunca tinha visto
-com meus próprios olhos!
-
-1153
-01:36:15,150 --> 01:36:17,763
-É uma ameaça
-à nossa existência!
-
-1154
-01:36:19,212 --> 01:36:21,730
-Não podemos deixá-la solta
-para avisar a Fera.
-
-1155
-01:36:21,731 --> 01:36:23,149
-Prendam-na também.
-
-1156
-01:36:23,150 --> 01:36:25,800
-- Não! Não!
-- Prendam-na! Calada!
-
-1157
-01:36:25,801 --> 01:36:27,800
-Não vai se safar dessa,
-Gaston!
-
-1158
-01:36:31,103 --> 01:36:34,719
-- Gaston, com todo o respeito...
-- Quer ser o próximo?
-
-1159
-01:36:35,320 --> 01:36:36,925
-Traga meu cavalo.
-
-1160
-01:36:37,410 --> 01:36:39,597
-Fiquem de guarda!
-Não deixem que escapem!
-
-1161
-01:36:39,959 --> 01:36:42,895
-Essa criatura nos amaldiçoará,
-se não a impedirmos.
-
-1162
-01:36:44,227 --> 01:36:46,698
-Então digo
-para matarmos essa fera!
-
-1163
-01:36:46,699 --> 01:36:48,099
-Matem a fera!
-
-1164
-01:36:50,515 --> 01:36:52,304
-<i>Só estaremos seguros
-com a sua morte</i>
-
-1165
-01:36:52,305 --> 01:36:53,900
-<i>Ele nos perseguirá à noite</i>
-
-1166
-01:36:53,901 --> 01:36:57,506
-<i>Sacrificando nossas crianças
-para seu monstruoso apetite</i>
-
-1167
-01:36:57,507 --> 01:37:00,792
-<i>Ele destruirá nossa aldeia
-se o deixarmos por aí</i>
-
-1168
-01:37:00,793 --> 01:37:04,366
-<i>Rapazes, é hora de agir</i>
-
-1169
-01:37:04,367 --> 01:37:10,705
-<i>É hora de me seguir</i>
-
-1170
-01:37:10,706 --> 01:37:14,283
-<i>Pela névoa, pela floresta,
-pela escuridão da noite</i>
-
-1171
-01:37:14,284 --> 01:37:17,218
-<i>Uma viagem que pode
-se tornar um pesadelo</i>
-
-1172
-01:37:17,219 --> 01:37:20,928
-<i>Quando virem, já estaremos
-na ponte do castelo</i>
-
-1173
-01:37:20,929 --> 01:37:24,106
-<i>E há algo terrível
-bem lá dentro</i>
-
-1174
-01:37:24,107 --> 01:37:27,458
-<i>Uma fera,
-com presas bem afiadas</i>
-
-1175
-01:37:27,459 --> 01:37:30,798
-<i>Garras grandes,
-sempre prontas para um banquete</i>
-
-1176
-01:37:30,799 --> 01:37:32,663
-<i>Ouçam-no rugir,
-para então correr</i>
-
-1177
-01:37:32,664 --> 01:37:35,824
-<i>Mas não voltaremos
-até ele morrer</i>
-
-1178
-01:37:35,825 --> 01:37:37,624
-<i>É melhor morto!</i>
-
-1179
-01:37:37,625 --> 01:37:39,225
-<i>Matem a fera!</i>
-
-1180
-01:37:40,886 --> 01:37:42,684
-<i>Com suas tochas,
-seus cavalos</i>
-
-1181
-01:37:42,685 --> 01:37:44,723
-<i>Levem sua coragem
-para a batalha</i>
-
-1182
-01:37:44,724 --> 01:37:47,734
-<i>Contamos com Gaston
-para nos guiar</i>
-
-1183
-01:37:47,735 --> 01:37:51,202
-<i>Uma guerra, uma ameaça,
-todos vão querer seguir</i>
-
-1184
-01:37:51,203 --> 01:37:54,504
-<i>Nessas horas,
-é só fazer o que eu disser</i>
-
-1185
-01:37:54,505 --> 01:37:57,624
-<i>Tem uma fera à solta,
-isso é fato</i>
-
-1186
-01:37:57,625 --> 01:38:01,175
-<i>Mas temo que o verdadeiro mostro
-esteja solto</i>
-
-1187
-01:38:01,176 --> 01:38:04,607
-<i>Todos juntos! Vamos lá!
-Nossa força! Nossa raça!</i>
-
-1188
-01:38:04,608 --> 01:38:09,607
-<i>Vamos acabar com a ameaça!</i>
-
-1189
-01:38:12,258 --> 01:38:14,022
-Mostre-me o castelo!
-
-1190
-01:38:15,734 --> 01:38:18,475
-Ao menos,
-ele aprendeu a amar.
-
-1191
-01:38:18,476 --> 01:38:21,665
-Teria sido melhor para nós,
-se ela o amasse também.
-
-1192
-01:38:21,666 --> 01:38:26,093
-Foi a primeira vez
-que achei que ela o amaria.
-
-1193
-01:38:26,094 --> 01:38:29,377
-Ouviu isso, mamãe?
-É ela? Ela está voltando?
-
-1194
-01:38:29,378 --> 01:38:31,843
-- Será mesmo?
-- Eu falei.
-
-1195
-01:38:32,500 --> 01:38:36,304
-- <i>Sacrebleu!</i> Invasores!
-- Rufiões!
-
-1196
-01:38:36,305 --> 01:38:38,261
-Para onde vão?
-
-1197
-01:38:38,262 --> 01:38:40,217
-É muito exagero
-por amor verdadeiro.
-
-1198
-01:38:40,518 --> 01:38:45,209
-Levantem as barricadas
-e mantenham-nas firmes!
-
-1199
-01:38:45,210 --> 01:38:46,626
-Saiam da frente!
-
-1200
-01:38:46,627 --> 01:38:49,909
-<i>Todos juntos, como um só,
-vamos à batalha</i>
-
-1201
-01:38:49,910 --> 01:38:53,093
-<i>Destemidos,
-mesmo com o grande perigo</i>
-
-1202
-01:38:54,648 --> 01:38:56,400
-<i>Em frente, cantando</i>
-
-1203
-01:38:56,401 --> 01:38:58,014
-<i>Continuem,
-com a nossa união</i>
-
-1204
-01:38:58,015 --> 01:39:02,503
-<i>Não temos outra opção,
-vamos matar a Fera!</i>
-
-1205
-01:39:05,692 --> 01:39:07,292
-Precisamos de ajuda.
-
-1206
-01:39:10,343 --> 01:39:11,885
-Tenho que avisar a Fera.
-
-1207
-01:39:12,230 --> 01:39:14,819
-Avisá-lo?
-Como conseguiu escapar dele?
-
-1208
-01:39:16,415 --> 01:39:18,415
-Ele me libertou, papai.
-
-1209
-01:39:18,888 --> 01:39:20,972
-Ele me mandou de volta
-para você.
-
-1210
-01:39:21,683 --> 01:39:23,383
-Não entendo.
-
-1211
-01:39:28,924 --> 01:39:32,533
-- Onde você...?
-- Ele me levou até lá.
-
-1212
-01:39:36,281 --> 01:39:38,386
-Eu sei o que aconteceu
-com a mamãe.
-
-1213
-01:39:39,105 --> 01:39:41,460
-Então sabe
-por que a deixei lá.
-
-1214
-01:39:41,879 --> 01:39:45,523
-Tive que proteger você.
-Sempre protegi minha garotinha.
-
-1215
-01:39:45,524 --> 01:39:47,701
-Provavelmente, até demais.
-
-1216
-01:39:48,163 --> 01:39:49,847
-Eu entendo.
-
-1217
-01:39:57,923 --> 01:40:00,972
-- Vai me ajudar dessa vez?
-- É perigoso.
-
-1218
-01:40:01,486 --> 01:40:04,617
-Sim!
-É perigoso, sim.
-
-1219
-01:40:08,260 --> 01:40:10,201
-Eu poderia tentar
-abrir a fechadura.
-
-1220
-01:40:11,011 --> 01:40:13,178
-Afinal, são apenas...
-
-1221
-01:40:13,179 --> 01:40:16,476
-engrenagens e molas.
-
-1222
-01:40:18,779 --> 01:40:22,813
-Mas vou precisar
-de algo longo e afiado.
-
-1223
-01:40:24,633 --> 01:40:26,989
-Como isto. Perfeito.
-
-1224
-01:40:31,228 --> 01:40:35,120
-Perdão, mestre.
-Desculpe incomodá-lo.
-
-1225
-01:40:35,121 --> 01:40:38,558
-- Ela não vai voltar.
-- Não.
-
-1226
-01:40:38,859 --> 01:40:41,091
-Eles vão derrubar
-as portas.
-
-1227
-01:40:41,712 --> 01:40:45,266
-Não importa mais.
-Deixe que venham.
-
-1228
-01:40:46,100 --> 01:40:48,895
-<i>Matem a fera!
-Matem a fera!</i>
-
-1229
-01:40:48,896 --> 01:40:51,740
-- Não está funcionando.
-- Eu sei o que fazer.
-
-1230
-01:40:51,741 --> 01:40:56,566
-<i>Matem a fera! Matem a fera!
-Matem a fera!</i>
-
-1231
-01:41:03,896 --> 01:41:07,608
-Não está preocupado
-de esse castelo ser assombrado?
-
-1232
-01:41:09,533 --> 01:41:11,540
-Não fique nervoso, LeFou.
-
-1233
-01:41:12,141 --> 01:41:13,541
-Onde estamos?
-
-1234
-01:41:14,668 --> 01:41:18,847
-Este lugar...
-me parece familiar.
-
-1235
-01:41:18,848 --> 01:41:20,899
-Parece que já estive aqui.
-
-1236
-01:41:24,015 --> 01:41:28,805
-Olá. Você deve ser
-a xícara falante.
-
-1237
-01:41:29,223 --> 01:41:32,289
-E você deve ser a avó dele.
-
-1238
-01:41:32,290 --> 01:41:35,074
-Avó? Atacar!
-
-1239
-01:41:36,251 --> 01:41:37,851
-Oizinho!
-
-1240
-01:41:52,468 --> 01:41:54,268
-Gaston!
-
-1241
-01:41:58,073 --> 01:42:00,466
-Gaston! Ajude-me.
-
-1242
-01:42:00,467 --> 01:42:03,807
-Desculpe, velho amigo.
-É hora de virar herói.
-
-1243
-01:42:24,475 --> 01:42:25,875
-Olá.
-
-1244
-01:42:27,292 --> 01:42:28,692
-Acredito que isto seja seu.
-
-1245
-01:42:34,907 --> 01:42:36,707
-Ela é bem cabeça dura.
-
-1246
-01:42:38,053 --> 01:42:39,503
-Você tem filhos?
-
-1247
-01:42:42,652 --> 01:42:45,541
-Ninguém para te proteger,
-não é?
-
-1248
-01:42:54,828 --> 01:42:57,866
-Um, dois, três, quatro,
-
-1249
-01:42:57,867 --> 01:43:01,747
-- cinco, seis, sete, oito.
-- Belos arremessos, Zip!
-
-1250
-01:43:02,559 --> 01:43:05,006
-Excelente!
-A infantaria chegou!
-
-1251
-01:43:05,558 --> 01:43:08,201
-Agora, vão ensinar umas lições.
-Vão!
-
-1252
-01:43:09,698 --> 01:43:13,706
-São chamados de livros,
-seus mosqueteiros fajutos!
-
-1253
-01:43:15,986 --> 01:43:17,486
-Estou de saída.
-
-1254
-01:43:24,334 --> 01:43:25,834
-Sou só um relógio.
-
-1255
-01:43:27,379 --> 01:43:30,177
-Venham cá, garotinhos.
-
-1256
-01:43:30,178 --> 01:43:32,700
-<i>Eu giro assim
-e visto as roupas</i>
-
-1257
-01:43:32,701 --> 01:43:35,911
-Que garotinhos lindos!
-
-1258
-01:43:37,452 --> 01:43:39,311
-Estão um arraso!
-
-1259
-01:43:39,312 --> 01:43:42,778
-Vão! Sejam livres!
-Livres!
-
-1260
-01:43:55,325 --> 01:43:57,399
-Como querem o chá de vocês?
-
-1261
-01:43:57,400 --> 01:44:01,217
-Muito quente?
-Ou fervendo?
-
-1262
-01:44:02,142 --> 01:44:04,271
-Sr. Samovar!
-
-1263
-01:44:07,300 --> 01:44:08,700
-Mamãe!
-
-1264
-01:44:10,687 --> 01:44:12,287
-Obrigada!
-
-1265
-01:44:14,846 --> 01:44:16,346
-Tomem isso!
-
-1266
-01:44:16,883 --> 01:44:18,379
-Foi incrível!
-
-1267
-01:44:18,380 --> 01:44:22,291
-Eu estava com o Gaston,
-mas não estamos muito bem.
-
-1268
-01:44:22,292 --> 01:44:24,622
-- Você é bom demais para ele.
-- Sim.
-
-1269
-01:44:24,623 --> 01:44:26,223
-Não devemos voltar a lutar?
-
-1270
-01:44:29,082 --> 01:44:31,905
-Que música encantadora!
-Para trás!
-
-1271
-01:44:32,274 --> 01:44:35,400
-- Peguem este instrumento!
-- O quê? Essa não.
-
-1272
-01:44:35,401 --> 01:44:38,016
-- Maestro!
-- Finalmente, querida!
-
-1273
-01:44:38,017 --> 01:44:39,993
-Estou indo, meu amor!
-
-1274
-01:44:40,278 --> 01:44:45,094
-É agora!
-A gorda está cantando!
-
-1275
-01:44:49,700 --> 01:44:51,600
-Bravíssima!
-
-1276
-01:44:56,997 --> 01:44:58,625
-Cuidado com os pés!
-
-1277
-01:45:02,377 --> 01:45:04,447
-Acabou!
-Vão! Vão!
-
-1278
-01:45:05,047 --> 01:45:06,647
-<i>Bon voyage!</i>
-
-1279
-01:45:12,334 --> 01:45:15,217
-- Façam uma boa viagem.
-- E mantenham distância!
-
-1280
-01:45:35,445 --> 01:45:37,083
-Olá, Fera!
-
-1281
-01:45:40,075 --> 01:45:41,759
-Eu sou o Gaston.
-
-1282
-01:45:42,621 --> 01:45:44,361
-A Bela me mandou aqui.
-
-1283
-01:45:46,792 --> 01:45:48,894
-Estava apaixonado por ela?
-
-1284
-01:45:51,101 --> 01:45:54,155
-Achou mesmo
-que ela iria te querer?
-
-1285
-01:46:09,739 --> 01:46:11,251
-Bela!
-
-1286
-01:46:12,562 --> 01:46:14,039
-Onde ele está?
-
-1287
-01:46:14,614 --> 01:46:17,804
-Quando voltarmos à aldeia,
-você se casará comigo.
-
-1288
-01:46:17,963 --> 01:46:20,764
-E a cabeça da Fera
-ficará presa em nossa parede.
-
-1289
-01:46:20,765 --> 01:46:22,179
-Nunca!
-
-1290
-01:46:36,924 --> 01:46:39,337
-Eu vou te pegar, Fera!
-
-1291
-01:47:00,164 --> 01:47:02,634
-- Não!
+939
+01:08:35,390 --> 01:08:38,430
+Papai! Papai!
+
+940
+01:08:52,860 --> 01:08:55,570
+Eles voltaram.
+
+941
+01:08:56,780 --> 01:08:59,160
+- Bela!
+- Shh.
+
+942
+01:08:59,240 --> 01:09:03,210
+Tudo bem, papai.
+Eu voltei.
+
+943
+01:09:03,290 --> 01:09:06,630
+Pensei que nunca mais fosse vê-la.
+
+944
+01:09:06,710 --> 01:09:09,170
+- Senti tanto sua falta.
+- Mas, e a fera?
+
+945
+01:09:09,250 --> 01:09:12,050
+- Você... Como fugiu?
+- Não fugi, papai.
+
+946
+01:09:12,130 --> 01:09:15,590
+- Ele me deixou partir.
+- Aquela fera horrível?
+
+947
+01:09:15,680 --> 01:09:19,810
+Mas ele é diferente agora.
+Ele mudou.
+
+948
+01:09:25,310 --> 01:09:28,810
+- Oi!
+- Um clandestino.
+
+949
+01:09:28,900 --> 01:09:31,780
+Oi, pequenino. Não pensei...
+
+950
+01:09:31,860 --> 01:09:34,200
+que fosse voltar a vê-lo.
+
+951
+01:09:34,280 --> 01:09:36,910
+Bela, por que partiu?
+
+952
+01:09:36,990 --> 01:09:39,160
+Não gosta mais de nós?
+
+953
+01:09:39,240 --> 01:09:42,830
+Zip, claro que sim.
+E que...
+
+954
+01:09:45,870 --> 01:09:49,420
+- Posso lhe ajudar?
+- Vim buscar seu pai.
+
+955
+01:09:49,500 --> 01:09:52,210
+- Meu pai?
+- Não se preocupe, senhorita.
+
+956
+01:09:52,300 --> 01:09:54,800
+Cuidaremos bem dele.
+HOSPÍCIO DOS DOIDOS
+
+957
+01:09:56,220 --> 01:09:59,430
+- Meu pai não está louco.
+- Estava gritando como um lunático.
+
+958
+01:09:59,510 --> 01:10:03,430
+- Todos o ouvimos, não foi?
+- Sim
+
+959
+01:10:03,560 --> 01:10:06,560
+- Não! Não deixarei!
 - Bela?
 
-1292
-01:47:07,075 --> 01:47:08,552
-Bela!
+960
+01:10:06,640 --> 01:10:09,310
+Maurice! Diga de novo, coroa,
 
-1293
-01:47:09,494 --> 01:47:12,631
-- Você voltou!
-- Eu tentei detê-los!
+961
+01:10:09,400 --> 01:10:13,030
+que tamanho tinha a fera?
 
-1294
-01:47:12,932 --> 01:47:15,459
-Fique aí! Eu estou indo.
+962
+01:10:13,110 --> 01:10:16,610
+Ele era... Como posso dizer...
+Era... Era enorme!
 
-1295
-01:47:42,386 --> 01:47:44,904
-Gaston! Não!
+963
+01:10:16,700 --> 01:10:21,080
+Eu diria que pelo menos dois,
+não, uns três metros.
 
-1296
-01:47:58,879 --> 01:48:00,456
-Não me solte.
+964
+01:10:22,530 --> 01:10:25,000
+Não se pode ser mais
+louco que isso.
 
-1297
-01:48:01,213 --> 01:48:04,235
-Por favor.
-Eu farei qualquer coisa.
+965
+01:10:26,290 --> 01:10:28,500
+É verdade, estou dizendo!
 
-1298
-01:48:04,533 --> 01:48:06,280
-Não me solte, Fera.
+966
+01:10:28,580 --> 01:10:31,750
+- Tirem-no daqui!
+- Solte-me!
 
-1299
-01:48:15,262 --> 01:48:18,821
-Eu não sou... uma fera.
+967
+01:10:31,840 --> 01:10:35,210
+Não! Não pode fazer isso!
 
-1300
-01:48:25,207 --> 01:48:26,621
-Vá!
+968
+01:10:35,300 --> 01:10:38,430
+Pobre Bela.
+Pena isso do seu pai.
 
-1301
-01:48:27,604 --> 01:48:29,350
+969
+01:10:38,510 --> 01:10:41,220
+Você sabe que ele
+não está louco, Gaston.
+
+970
+01:10:41,300 --> 01:10:46,310
+Eu talvez possa esclarecer
+esse mal-entendido, se...
+
+971
+01:10:46,390 --> 01:10:49,190
+- Se o quê?
+- Se você se casar comigo.
+
+972
+01:10:49,270 --> 01:10:51,360
+- O quê?
+- Só uma palavrinha, Bela.
+
+973
+01:10:51,440 --> 01:10:53,440
+- É só isso.
+- Nunca!
+
+974
+01:10:53,520 --> 01:10:58,650
+- Como quiser.
+- Bela? Soltem-me!
+
+975
+01:10:58,740 --> 01:11:01,320
+Meu pai não está louco
+e eu posso provar isso.
+
+976
+01:11:01,410 --> 01:11:03,660
+Mostre-me a Fera!
+
+977
+01:11:08,250 --> 01:11:11,460
+- Ele é perigoso?
+- Não. Nunca machucaria ninguém.
+
+978
+01:11:11,540 --> 01:11:16,630
+Por favor, sei que parece feroz
+mas é muito bom e amável.
+
+979
+01:11:16,710 --> 01:11:18,880
+- É meu amigo.
+- Se eu não soubesse, diria...
+
+980
+01:11:18,970 --> 01:11:21,970
+que você gosta desse monstro.
+
+981
+01:11:22,050 --> 01:11:24,600
+Ele não é um monstro, Gaston.
+Você que é!
+
+982
+01:11:25,890 --> 01:11:28,730
+Ela é tão louca
+quanto o velho!
+
+983
+01:11:28,890 --> 01:11:31,140
+A Fera pegará as
+crianças de vocês.
+
+984
+01:11:31,230 --> 01:11:33,150
+- Ele virá à noite!
+- Não!
+
+985
+01:11:33,230 --> 01:11:35,690
+Não estaremos seguros enquanto a
+cabeça dele não estiver na minha parede.
+
+986
+01:11:35,770 --> 01:11:38,530
+Devemos matar a Fera!
+
+987
+01:11:38,610 --> 01:11:41,820
+<i>- Ele vivo é uma ameaça
+- Poderá nos atacar</i>
+
+988
+01:11:41,910 --> 01:11:45,450
+<i>Vai comer nossas crianças
+e isso só para começar</i>
+
+989
+01:11:45,530 --> 01:11:49,120
+<i>E o massacre desta aldeia
+nós iremos assistir</i>
+
+990
+01:11:49,200 --> 01:11:52,870
+<i>Quem for homem
+vai ter que lutar</i>
+
+991
+01:11:52,960 --> 01:11:58,130
+<i>Terá que me seguir</i>
+
+992
+01:11:59,840 --> 01:12:02,680
+<i>Vamos lá, pelo mato
+Pelas trevas e a neblina</i>
+
+993
+01:12:02,760 --> 01:12:06,010
+<i>Na jornada que será
+Um pesadelo</i>
+
+994
+01:12:06,100 --> 01:12:09,430
+<i>E depois de passar
+Pela ponte levadiça</i>
+
+995
+01:12:09,520 --> 01:12:12,850
+<i>Com certeza
+Cada um de nós vai vê-lo</i>
+
+996
+01:12:12,940 --> 01:12:15,730
+<i>Ele é um monstro
+De caninos afiados</i>
+
+997
+01:12:15,810 --> 01:12:19,030
+<i>Tem bocarra
+E tem garra de pantera</i>
+
+998
+01:12:19,110 --> 01:12:22,650
+<i>Vai urrar, espumar
+Mas não vamos voltar</i>
+
+999
+01:12:22,740 --> 01:12:25,950
+<i>Sem lutar!</i>
+
+1000
+01:12:26,030 --> 01:12:28,240
+- Sem matar essa fera!
+- Não deixarei que façam isso!
+
+1001
+01:12:28,330 --> 01:12:30,830
+Se não estiver conosco,
+está contra nós!
+
+1002
+01:12:30,910 --> 01:12:33,830
+- Tragam o velho!
+- Tirem suas mãos de mim!
+
+1003
+01:12:33,920 --> 01:12:36,540
+Não podemos deixá-los
+avisar a Fera!
+
+1004
+01:12:36,630 --> 01:12:40,170
+- Tirem-nos daqui.
+- Livraremos a aldeia desta Fera!
+
+1005
+01:12:40,260 --> 01:12:43,260
+- Quem está comigo?
+- Eu estou! Eu estou!
+
+1006
+01:12:43,340 --> 01:12:45,300
+<i>- Eu estou!
+Tocha acesa, Com presteza</i>
+
+1007
+01:12:45,390 --> 01:12:47,300
+<i>Quero em todos
+O maior furor</i>
+
+1008
+01:12:47,390 --> 01:12:50,270
+<i>Contamos com Gaston
+Pra comandar</i>
+
+1009
+01:12:50,350 --> 01:12:53,350
+<i>A cavalo ou a pé
+Vamos todos ao castelo</i>
+
+1010
+01:12:53,440 --> 01:12:56,400
+<i>Onde a fera poderá
+Nos espreitar</i>
+
+1011
+01:12:56,480 --> 01:13:00,280
+<i>Esta fera é um monstro
+um gigante</i>
+
+1012
+01:13:00,360 --> 01:13:03,190
+<i>E esse monstro
+terá que morrer</i>
+
+1013
+01:13:03,280 --> 01:13:06,610
+<i>Com a arma na mão
+Na maior decisão</i>
+
+1014
+01:13:06,700 --> 01:13:08,200
+<i>Segue o nosso batalhão</i>
+
+1015
+01:13:08,280 --> 01:13:12,410
+Invadiremos o castelo e
+traremos de volta a cabeça dele.
+
+1016
+01:13:12,500 --> 01:13:15,620
+Tenho que avisar a Fera.
+E tudo culpa minha.
+
+1017
+01:13:15,710 --> 01:13:17,880
+Papai, o que vamos fazer?
+
+1018
+01:13:17,960 --> 01:13:21,550
+Ora. Pensaremos em algo.
+
+1019
+01:13:28,050 --> 01:13:31,180
+<i>Não gostamos daquilo
+Que nunca entendemos</i>
+
+1020
+01:13:31,260 --> 01:13:34,810
+<i>E esse monstro
+Pode nos devorar</i>
+
+1021
+01:13:34,890 --> 01:13:37,940
+<i>Tragam facas e lanças
+Pra salvar suas crianças</i>
+
+1022
+01:13:38,020 --> 01:13:41,110
+<i>Liquidemos essa fera</i>
+
+1023
+01:13:41,190 --> 01:13:43,190
+<i>Vamos matar!</i>
+
+1024
+01:13:43,280 --> 01:13:46,450
+Eu sabia. Eu sabia
+que era bobagem iludir-se.
+
+1025
+01:13:46,530 --> 01:13:49,240
+Teria sido melhor
+ela nem ter vindo.
+
+1026
+01:13:50,580 --> 01:13:52,450
+- Será?
+- É ela?
+
+1027
+01:13:52,540 --> 01:13:54,950
+Nossa Senhora!
+Invasores!
+
+1028
+01:13:55,040 --> 01:13:57,580
+- Usurpadores!
+- E estão com o espelho!
+
+1029
+01:13:57,710 --> 01:14:00,710
+Avise o mestre!
+Se querem briga, estaremos preparados!
+
+1030
+01:14:00,790 --> 01:14:02,710
+Quem está comigo?
+
+1031
+01:14:02,800 --> 01:14:04,800
+Roubem o que quiserem,
+mas lembrem,
+
+1032
+01:14:04,880 --> 01:14:07,880
+a Fera é minha.
+
+1033
+01:14:07,970 --> 01:14:10,850
+<i>Com coragem e fé
+Lutaremos destemidos</i>
+
+1034
+01:14:10,930 --> 01:14:14,140
+<i>Sem saber
+O que iremos enfrentar</i>
+
+1035
+01:14:14,220 --> 01:14:17,310
+<i>Nós queremos ação
+E cantando esta canção</i>
+
+1036
+01:14:17,390 --> 01:14:20,440
+<i>Vamos cumprir nossa missão</i>
+
+1037
+01:14:20,520 --> 01:14:22,360
+<i>Vamos matar!</i>
+
+1038
+01:14:22,900 --> 01:14:25,780
+- Com licença, mestre.
+- Deixe-me em paz.
+
+1039
+01:14:25,860 --> 01:14:28,360
+Mas, senhor, o castelo
+está sendo atacado.
+
+1040
+01:14:28,450 --> 01:14:32,240
+<i>Vai morrer!
+Vai morrer!</i>
+
+1041
+01:14:32,330 --> 01:14:35,950
+- Não está dando certo.
+- Lumiere, temos que fazer algo.
+
+1042
+01:14:36,040 --> 01:14:38,410
+Esperem! Já sei!
+
+1043
+01:14:38,500 --> 01:14:40,750
+<i>Vai morrer!
+Vai morrer!</i>
+
+1044
+01:14:42,380 --> 01:14:44,590
+O que faremos, mestre?
+
+1045
+01:14:44,670 --> 01:14:48,380
+Não importa mais.
+Deixe eles virem.
+
+1046
+01:14:48,470 --> 01:14:51,720
+<i>Vai morrer!
+Vai morrer!</i>
+
+1047
+01:14:51,800 --> 01:14:54,760
+<i>Vai morrer!</i>
+
+1048
+01:15:05,980 --> 01:15:08,320
+Agora!
+
+1049
+01:15:27,630 --> 01:15:29,630
+Oba!
+
+1050
+01:15:32,590 --> 01:15:34,260
+Lá vamos nós!
+
+1051
+01:15:37,720 --> 01:15:40,270
+Que diabos...?
+
+1052
+01:15:40,390 --> 01:15:42,900
+Bela, cuidado!
+
+1053
+01:15:48,190 --> 01:15:51,030
+Vocês têm que tentar isto.
+
+1054
+01:15:55,490 --> 01:15:58,490
+Aqui em cima,
+seus vigaristas!
+
+1055
+01:15:58,580 --> 01:16:01,460
+Agora!
+
+1056
+01:17:09,730 --> 01:17:12,070
+E fiquem fora daqui!
+
+1057
+01:17:41,720 --> 01:17:45,140
+Levante-se.
+
+1058
+01:17:45,230 --> 01:17:46,980
+Levante-se.
+
+1059
+01:17:47,060 --> 01:17:50,270
+O que foi, Fera?
+
+1060
+01:17:50,360 --> 01:17:53,320
+Bom e amável demais
+para revidar?
+
+1061
+01:18:00,700 --> 01:18:03,370
+Não!
+
+1062
+01:18:05,040 --> 01:18:08,290
+- Bela!
+- Não! Gaston, não!
+
+1063
+01:18:13,960 --> 01:18:16,840
+Vamos, Philippe!
+
+1064
+01:18:40,490 --> 01:18:43,370
+Saia e lute!
+
+1065
+01:18:44,740 --> 01:18:47,580
+Estava apaixonado
+por ela, Fera?
+
+1066
+01:18:47,660 --> 01:18:50,290
+Realmente achou
+que ela ia querer você,
+
+1067
+01:18:50,370 --> 01:18:53,920
+tendo alguém como eu?
+
+1068
+01:19:04,390 --> 01:19:08,270
+Acabou, Fera!
+A Bela é minha!
+
+1069
+01:19:13,690 --> 01:19:16,940
+Solte-me! Solte-me, por favor!
+Não me machuque!
+
+1070
+01:19:17,030 --> 01:19:19,860
+Farei o que quiser!
+Qualquer coisa!
+
+1071
+01:19:33,210 --> 01:19:35,920
 Saia daqui.
 
-1302
-01:48:30,914 --> 01:48:33,453
-Não! Está longe demais!
+1072
+01:19:36,000 --> 01:19:39,300
+- Fera!
+- Bela.
 
-1303
-01:48:49,356 --> 01:48:50,836
-Por favor!
+1073
+01:19:48,430 --> 01:19:50,560
+Bela?
 
-1304
-01:48:54,005 --> 01:48:55,494
-Vamos.
-
-1305
-01:49:24,747 --> 01:49:26,234
+1074
+01:19:55,400 --> 01:19:57,570
 Você voltou.
 
-1306
-01:49:27,193 --> 01:49:31,294
+1075
+01:20:36,350 --> 01:20:40,400
+Você...Você voltou.
+
+1076
+01:20:40,480 --> 01:20:42,650
 Claro que voltei.
-Nunca mais vou deixá-lo.
 
-1307
-01:49:31,881 --> 01:49:34,084
-Temo que seja minha hora
-de partir.
+1077
+01:20:42,740 --> 01:20:46,740
+Não podia deixar que...
+É tudo culpa minha.
 
-1308
-01:49:34,085 --> 01:49:35,676
-Estamos juntos agora.
+1078
+01:20:46,820 --> 01:20:48,830
+Se eu tivesse chegado antes...
 
-1309
-01:49:36,086 --> 01:49:38,091
-Vai ficar tudo bem.
+1079
+01:20:48,910 --> 01:20:53,330
+Talvez seja...
+melhor assim.
 
-1310
-01:49:38,092 --> 01:49:41,932
-Pelo menos eu pude vê-la...
-pela última vez.
+1080
+01:20:53,410 --> 01:20:55,790
+Não diga isso.
 
-1311
-01:49:47,801 --> 01:49:50,514
-Não! Por favor, não.
+1081
+01:20:55,870 --> 01:20:58,290
+Você ficará bem.
 
-1312
-01:49:53,638 --> 01:49:55,375
-Volte.
+1082
+01:20:58,380 --> 01:21:03,170
+Estamos juntos.
+Tudo ficará bem, você verá.
 
-1313
-01:50:02,828 --> 01:50:07,195
-Nós conseguimos, Plumette.
-A vitória é nossa!
+1083
+01:21:04,470 --> 01:21:06,470
+Pelo menos...
 
-1314
-01:50:07,921 --> 01:50:09,567
-Plumette?
+1084
+01:21:06,550 --> 01:21:10,970
+pude ver você, uma última vez.
 
-1315
-01:50:10,060 --> 01:50:11,656
-Plumette?
+1085
+01:21:21,860 --> 01:21:24,650
+Não! Não!
 
-1316
-01:50:12,511 --> 01:50:15,268
-Minha querida Plumette.
+1086
+01:21:24,740 --> 01:21:27,200
+Por favor... Por favor...
 
-1317
-01:50:16,207 --> 01:50:17,864
-Não...
+1087
+01:21:27,280 --> 01:21:29,620
+Por favor, não me abandone!
 
-1318
-01:50:17,865 --> 01:50:21,511
-Maestro,
-você foi tão corajoso.
-
-1319
-01:50:21,512 --> 01:50:24,037
-Adeus, meu amor.
-
-1320
-01:50:25,253 --> 01:50:29,507
-Amor! Não! Não me deixe!
-
-1321
-01:50:49,130 --> 01:50:52,000
-Zip! Zip!
-
-1322
-01:50:52,001 --> 01:50:54,837
-Vocês viram o Zip?
-Ele sumiu.
-
-1323
-01:50:57,438 --> 01:50:59,478
-Onde está meu garotinho?
-
-1324
-01:51:03,976 --> 01:51:05,876
-- Mamãe!
-- Essa não.
-
-1325
-01:51:05,877 --> 01:51:07,655
-Mãe!
-
-1326
-01:51:23,874 --> 01:51:27,159
-Lumière, eu não consigo...
-
-1327
-01:51:27,160 --> 01:51:28,584
-falar.
-
-1328
-01:51:28,585 --> 01:51:31,200
-- Tudo bem, Horloge.
-- Eu não consigo...
-
-1329
-01:51:31,201 --> 01:51:32,900
-Lumière...
-
-1330
-01:51:32,901 --> 01:51:34,386
-Meu amigo...
-
-1331
-01:51:34,387 --> 01:51:37,433
-Foi uma honra
-servir com você.
-
-1332
-01:51:40,003 --> 01:51:42,986
-A honra foi minha.
-
-1333
-01:52:10,547 --> 01:52:13,562
-Volte!
-Por favor, não me deixe.
-
-1334
-01:52:16,663 --> 01:52:18,508
+1088
+01:21:32,660 --> 01:21:35,370
 Eu te amo.
 
-1335
-01:54:35,085 --> 01:54:38,195
-Maestro!
+1089
+01:23:12,930 --> 01:23:16,010
+Bela, sou eu.
 
-1336
-01:54:41,798 --> 01:54:46,235
-- Madame!
-- Maestro!
+1090
+01:23:31,360 --> 01:23:33,360
+É você.
 
-1337
-01:55:03,993 --> 01:55:05,947
-Lumière!
+1091
+01:24:06,190 --> 01:24:08,190
+Lumiere!
 
-1338
-01:55:06,711 --> 01:55:09,086
-Horloge,
-ganhamos do relógio!
+1092
+01:24:08,270 --> 01:24:10,900
+Orloge!
 
-1339
-01:55:09,600 --> 01:55:11,100
-<i>Mon ami.</i>
+1093
+01:24:10,980 --> 01:24:13,610
+Madame Samovar!
 
-1340
-01:55:13,992 --> 01:55:17,877
-Plumette! Plumette!
+1094
+01:24:13,700 --> 01:24:15,740
+- Vejam só!
+- Mamãe! Mamãe!
 
-1341
-01:55:20,514 --> 01:55:22,273
-<i>Mon amour.</i>
+1095
+01:24:21,250 --> 01:24:24,540
+- Nossa!
+- É um milagre!
 
-1342
-01:55:44,118 --> 01:55:46,438
-Zip! Olha só para você.
+1096
+01:24:34,300 --> 01:24:36,550
+Ah, l'amour.
 
-1343
-01:55:47,100 --> 01:55:50,443
-Você é um garoto de novo.
-O que eu disse, querido?
+1097
+01:24:40,600 --> 01:24:44,020
+Bem, Lumiere, velho amigo.
+Vamos deixar o passado para trás?
 
-1344
-01:55:50,444 --> 01:55:52,966
-Você é tão cheiroso.
+1098
+01:24:44,100 --> 01:24:46,940
+Claro, amigo! Eu disse
+que ela desfaria o feitiço.
 
-1345
-01:56:00,375 --> 01:56:02,478
-Frou-Frou, finalmente!
+1099
+01:24:47,020 --> 01:24:51,570
+Com licença, velho amigo,
+mas fui eu quem disse.
 
-1346
-01:56:03,116 --> 01:56:04,772
-Querida?
+1100
+01:24:51,650 --> 01:24:53,650
+Não foi, não. Eu disse.
 
-1347
-01:56:05,479 --> 01:56:07,822
-- Sr. Samovar!
-- Beatrice!
+1101
+01:24:53,740 --> 01:24:57,360
+Você não disse mesmo,
+seu pomposo cabeça de parafina!
 
-1348
-01:56:07,823 --> 01:56:10,281
-Eu me lembro! Eu lembro!
+1102
+01:24:57,450 --> 01:25:00,830
+''En garde''! Seu relógio
+de bolso crescido!
 
-1349
-01:56:15,785 --> 01:56:17,277
-Henry?
+1103
+01:25:00,910 --> 01:25:03,120
+- Tome!
+- Pare de me empurrar.
 
-1350
-01:56:18,020 --> 01:56:20,622
-- Henry!
-- Minha nossa...
+1104
+01:25:06,120 --> 01:25:09,380
+Eles vão viver felizes
+para sempre, mamãe?
 
-1351
-01:56:23,619 --> 01:56:25,707
-Eu estive tão solitária.
+1105
+01:25:09,460 --> 01:25:12,000
+Claro, querido.
 
-1352
-01:56:25,708 --> 01:56:29,307
-Volte a ser um relógio.
-Volte a ser um relógio.
+1106
+01:25:12,090 --> 01:25:14,300
+Claro.
 
-1353
-01:56:30,258 --> 01:56:32,162
-Lumière, olhe.
+1107
+01:25:14,380 --> 01:25:17,010
+Ainda tenho que dormir
+no armário?
 
-1354
-01:56:34,369 --> 01:56:36,567
-Meu príncipe.
+1108
+01:25:20,600 --> 01:25:24,310
+<i>Certo como o sol</i>
 
-1355
-01:56:38,666 --> 01:56:40,274
-Olá, velho amigo.
+1109
+01:25:25,730 --> 01:25:28,060
+<i>Nascendo no leste</i>
 
-1356
-01:56:40,538 --> 01:56:41,993
-É tão bom vê-lo.
+1110
+01:25:28,150 --> 01:25:33,360
+<i>Um conto tão velho quanto o tempo
+Uma canção tão velha quanto a rima</i>
 
-1357
-01:56:41,994 --> 01:56:43,774
-Salvou nossas vidas,
-<i>mademoiselle</i>.
-
-1358
-01:56:43,775 --> 01:56:46,833
-Bela, sou eu! O Zip!
-
-1359
-01:56:51,291 --> 01:56:55,373
-<i>Uma história tão antiga
-quanto o tempo</i>
-
-1360
-01:56:55,809 --> 01:57:00,098
-<i>Uma melodia tão antiga
-quanto a canção</i>
-
-1361
-01:57:00,099 --> 01:57:04,866
-<i>Agridoce e estranho,
-descobrindo que você pode mudar</i>
-
-1362
-01:57:04,867 --> 01:57:09,866
-<i>Aprendendo
-que estava errado</i>
-
-1363
-01:57:27,997 --> 01:57:31,376
-<i>O inverno se torna primavera</i>
-
-1364
-01:57:33,621 --> 01:57:36,528
-<i>A fome se torna um banquete</i>
-
-1365
-01:57:36,529 --> 01:57:39,413
-<i>A natureza aponta
-o caminho</i>
-
-1366
-01:57:39,749 --> 01:57:42,944
-<i>Nada mais a dizer</i>
-
-1367
-01:57:43,964 --> 01:57:50,550
+1111
+01:25:33,440 --> 01:25:38,070
 <i>A Bela e a Fera</i>
 
-1368
-01:57:52,335 --> 01:57:54,169
-O quê? O que foi?
+1112
+01:25:39,490 --> 01:25:42,330
+<i>Um conto tão velho quanto o tempo</i>
 
-1369
-01:57:54,170 --> 01:57:56,314
-O que acha
-de deixar a barba?
+1113
+01:25:42,410 --> 01:25:45,870
+<i>Uma canção tão velha quanto a rima</i>
 
-1370
-01:58:03,174 --> 01:58:08,173
-<i>Tão certo quanto o sol</i>
-
-1371
-01:58:08,736 --> 01:58:11,817
-<i>Nasce ao leste</i>
-
-1372
-01:58:11,818 --> 01:58:14,582
-<i>Uma história tão antiga
-quanto o tempo</i>
-
-1373
-01:58:14,583 --> 01:58:17,356
-<i>Uma canção tão antiga
-quanto a rima</i>
-
-1374
-01:58:17,357 --> 01:58:20,833
+1114
+01:25:45,950 --> 01:25:51,210
 <i>A Bela e a Fera</i>
 
-1375
-01:58:23,079 --> 01:58:26,558
-<i>Uma história tão antiga
-quanto o tempo</i>
+1115
+01:26:16,320 --> 01:26:20,610
+<i>Um conto tão velho quanto o tempo</i>
 
-1376
-01:58:26,559 --> 01:58:29,946
-<i>Uma canção tão antiga
-quanto a rima</i>
+1116
+01:26:22,490 --> 01:26:26,750
+<i>Tão verdadeiro quanto pode ser</i>
 
-1377
-01:58:29,947 --> 01:58:34,946
+1117
+01:26:28,830 --> 01:26:31,880
+<i>Mal são amigos</i>
+
+1118
+01:26:31,960 --> 01:26:35,090
+<i>E então alguém se curva</i>
+
+1119
+01:26:35,170 --> 01:26:39,670
+<i>Inesperadamente</i>
+
+1120
+01:26:41,260 --> 01:26:44,930
+<i>Só uma pequena mudança</i>
+
+1121
+01:26:47,600 --> 01:26:50,560
+<i>Pequena, pra não dizer nada</i>
+
+1122
+01:26:50,640 --> 01:26:53,730
+<i>Os dois um pouco assustados</i>
+
+1123
+01:26:53,810 --> 01:26:56,820
+<i>Nenhum dos dois preparados</i>
+
+1124
+01:26:56,900 --> 01:27:01,570
 <i>A Bela e a Fera</i>
 
-1378
-01:58:43,150 --> 01:58:47,200
-<b>@MysticSubs
-Facebook.com/MysticSubs</b>
+1125
+01:27:03,240 --> 01:27:07,950
+<i>Sempre iguais</i>
+
+1126
+01:27:09,410 --> 01:27:14,630
+<i>Sempre uma surpresa</i>
+
+1127
+01:27:15,750 --> 01:27:21,670
+<i>Sempre como antes
+Sempre com a certeza </i>
+
+1128
+01:27:21,760 --> 01:27:26,180
+<i>De como quando nasce o sol</i>
+
+1129
+01:27:53,080 --> 01:27:57,540
+<i>Sempre iguais</i>
+
+1130
+01:27:59,300 --> 01:28:05,430
+<i>Sempre uma surpresa</i>
+
+1131
+01:28:05,510 --> 01:28:08,600
+<i>Sempre como antes</i>
+
+1132
+01:28:08,680 --> 01:28:11,640
+<i>Sempre com a certeza </i>
+
+1133
+01:28:11,720 --> 01:28:15,520
+<i>De como quando nasce o sol</i>
+
+1134
+01:28:21,360 --> 01:28:25,200
+<i>Um conto tão velho quanto o tempo</i>
+
+1135
+01:28:27,490 --> 01:28:31,580
+<i>Uma canção tão velha quanto a música</i>
+
+1136
+01:28:33,830 --> 01:28:36,870
+<i>Amarga e estranha</i>
+
+1137
+01:28:36,960 --> 01:28:39,960
+<i>Descobrindo que você pode mudar</i>
+
+1138
+01:28:40,040 --> 01:28:44,380
+<i>Aprendendo que você estava errado</i>
+
+1139
+01:28:46,260 --> 01:28:49,300
+<i>Certo como o sol</i>
+
+1140
+01:28:49,390 --> 01:28:52,430
+<i>Certo como o sol</i>
+
+1141
+01:28:52,520 --> 01:28:55,560
+<i>Nascendo no leste</i>
+
+1142
+01:28:55,640 --> 01:28:58,560
+<i>Um conto tão velho quanto o tempo</i>
+
+1143
+01:28:58,650 --> 01:29:01,770
+<i>Uma canção tão velha quanto a rima</i>
+
+1144
+01:29:01,860 --> 01:29:06,400
+<i>A Bela e a Fera</i>
+
+1145
+01:29:08,160 --> 01:29:11,080
+<i>Um conto tão velho quanto o tempo</i>
+
+1146
+01:29:11,160 --> 01:29:14,540
+<i>Uma canção tão velha quanto a rima</i>
+
+1147
+01:29:14,620 --> 01:29:21,840
+<i>A Bela e a Fera</i>
+
+1148
+01:29:45,690 --> 01:29:54,870
+<i>A Bela e a Fera</i>
+
+1149
+01:29:54,870 --> 01:31:15,000
+Legendado por: YWentz
+
+1150
+01:31:17,300 --> 01:31:21,300
+AO NOSSO AMIGO, HOWARD,
+QUE DEU A UMA SEREIA A SUA VOZ
+E A UMA BESTA A SUA ALMA,
+NÓS SEREMOS ETERNAMENTE GRATOS.
+HOWARD ASHMAN
+1950-1991
 
