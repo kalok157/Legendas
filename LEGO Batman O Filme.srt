@@ -1,0 +1,9431 @@
+1
+00:00:09,092 --> 00:00:10,218
+<i>Preto.</i>
+
+2
+00:00:11,302 --> 00:00:15,473
+<i>Todo filme importante começa
+com um fundo preto.</i>
+
+3
+00:00:16,933 --> 00:00:18,309
+<i>E música..</i>
+
+4
+00:00:18,476 --> 00:00:21,062
+<i>Música tensa e sinistra,</i>
+
+5
+00:00:21,229 --> 00:00:24,524
+<i>que deixa pais e diretores
+de estúdio nervosos.</i>
+
+6
+00:00:26,776 --> 00:00:28,028
+<i>E logos...</i>
+
+7
+00:00:28,611 --> 00:00:32,323
+<i>demorados e muito dramáticos.</i>
+
+8
+00:00:32,490 --> 00:00:34,159
+<i>Warner Bros.</i>
+
+9
+00:00:34,325 --> 00:00:36,870
+<i>Por que não "Warner Brothers"? Eu não sei.</i>
+
+10
+00:00:41,082 --> 00:00:42,751
+<i>DC.</i>
+
+11
+00:00:43,168 --> 00:00:45,670
+<i>A casa que o Batman construiu.</i>
+
+12
+00:00:46,546 --> 00:00:48,798
+<i>Vai encarar, Superman?</i>
+
+13
+00:00:48,965 --> 00:00:50,967
+<i>Pode vir, mano.</i>
+
+14
+00:00:51,134 --> 00:00:53,011
+<i>Sou sua kryptonita.</i>
+
+15
+00:01:00,769 --> 00:01:04,314
+<i>Não sei o que a RatPac faz,
+mas o logo é irado.</i>
+
+16
+00:01:05,648 --> 00:01:07,025
+<i>Gostei.</i>
+
+17
+00:01:07,817 --> 00:01:08,943
+<i>Está bem.</i>
+
+18
+00:01:09,110 --> 00:01:12,072
+<i>Pode se preparar para uma</i>
+
+19
+00:01:12,238 --> 00:01:13,073
+<i>leitura.</i>
+
+20
+00:01:13,990 --> 00:01:15,950
+<i>"Se quiser tornar o mundo melhor,</i>
+
+21
+00:01:16,868 --> 00:01:18,161
+<i>olhe para si mesmo...</i>
+
+22
+00:01:18,328 --> 00:01:19,788
+<i>e mude."</i>
+
+23
+00:01:22,123 --> 00:01:23,416
+<i>Não. Eu disse isso.</i>
+
+24
+00:01:24,668 --> 00:01:26,670
+<i>O Batman é muito sábio.</i>
+
+25
+00:01:26,836 --> 00:01:29,255
+<i>Também tenho grande peitoral
+e nove gominhos.</i>
+
+26
+00:01:31,466 --> 00:01:32,926
+<i>Tenho um gominho secreto.</i>
+
+27
+00:01:33,551 --> 00:01:34,678
+<i>Agora, vamos começar o filme.</i>
+
+28
+00:01:35,095 --> 00:01:40,809
+ESPAÇO AÉREO DE GOTHAM CITY 10h25
+
+29
+00:01:44,854 --> 00:01:49,150
+<i>Torre de Gotham,
+aqui é Linhas Aéreas McGancho, voo 1138.</i>
+
+30
+00:01:49,359 --> 00:01:51,986
+<i>Estamos transportando
+11 milhões de bastões de dinamite,</i>
+
+31
+00:01:52,153 --> 00:01:53,988
+<i>8 mil kg de explosivos C-4,</i>
+
+32
+00:01:54,155 --> 00:01:56,825
+<i>umas 150 bombinhas clássicas superfofas,</i>
+
+33
+00:01:56,991 --> 00:01:58,159
+e dois melhores amigos!
+
+34
+00:01:58,326 --> 00:01:59,077
+AEROPORTO DE GOTHAM CITY
+
+35
+00:01:59,244 --> 00:02:02,163
+<i>Pedimos permissão para passar
+pela cidade mais perigosa do mundo.</i>
+
+36
+00:02:02,414 --> 00:02:03,164
+<i>Câmbio.</i>
+
+37
+00:02:03,331 --> 00:02:05,750
+Estou olhando para a cara do pessoal
+aqui na torre.
+
+38
+00:02:05,917 --> 00:02:06,668
+-Beleza.
+-Por mim, tudo bem.
+
+39
+00:02:06,835 --> 00:02:07,836
+-Deixe!
+-É, são melhores amigos.
+
+40
+00:02:08,003 --> 00:02:08,670
+Positivo!
+
+41
+00:02:08,837 --> 00:02:10,213
+É, pode passar, sim.
+
+42
+00:02:31,568 --> 00:02:32,569
+<i>Senhores,</i>
+
+43
+00:02:32,736 --> 00:02:37,032
+<i>abertura em cinco, quatro, três, dois, um!</i>
+
+44
+00:02:39,034 --> 00:02:39,826
+O que foi isso?
+
+45
+00:02:39,993 --> 00:02:41,578
+-Um de nós deveria olhar.
+-Está bem.
+
+46
+00:02:41,745 --> 00:02:43,038
+Tesoura, papel, pedra.
+
+47
+00:02:43,204 --> 00:02:44,164
+-Papel.
+-Tesoura.
+
+48
+00:02:44,330 --> 00:02:45,498
+Você sempre escolhe papel.
+
+49
+00:02:45,665 --> 00:02:47,959
+Sou um fracasso em casa
+e um fracasso no trabalho.
+
+50
+00:02:50,545 --> 00:02:51,546
+Caramba!
+
+51
+00:02:56,217 --> 00:02:58,178
+Capitão Dale, está tudo bem?
+
+52
+00:02:58,345 --> 00:03:02,015
+<i>O Capitão deixou você na mão.</i>
+
+53
+00:03:02,182 --> 00:03:03,850
+<i>Sou o novo copiloto.</i>
+
+54
+00:03:04,184 --> 00:03:06,269
+E sempre venho trabalhar
+
+55
+00:03:06,436 --> 00:03:08,188
+com um sorriso!
+
+56
+00:03:13,109 --> 00:03:15,028
+-Era para se apavorar.
+-Por quê?
+
+57
+00:03:15,195 --> 00:03:18,156
+Porque vou dominar a cidade.
+
+58
+00:03:19,574 --> 00:03:21,493
+-O quê?
+-O Batman não vai deixar.
+
+59
+00:03:22,160 --> 00:03:22,952
+Ele nunca deixa.
+
+60
+00:03:23,119 --> 00:03:24,079
+Nada disso.
+
+61
+00:03:24,245 --> 00:03:25,914
+E aquela vez com os dois barcos?
+
+62
+00:03:26,081 --> 00:03:27,916
+Isso é melhor que os dois barcos.
+
+63
+00:03:29,000 --> 00:03:31,753
+É, mas hoje será diferente!
+
+64
+00:03:32,253 --> 00:03:35,006
+<i>Hoje será meu maior plano de todos.</i>
+
+65
+00:03:35,173 --> 00:03:36,591
+<i>E acredite,
+o Batman nem vai desconfiar.</i>
+
+66
+00:03:36,758 --> 00:03:37,759
+USINA ELÉTRICA DE GOTHAM
+
+67
+00:03:37,926 --> 00:03:40,303
+<i>Como aquela vez do desfile
+e a música do Prince?</i>
+
+68
+00:03:40,470 --> 00:03:41,304
+<i>Ei, silêncio!</i>
+
+69
+00:03:41,513 --> 00:03:43,223
+-Boa noite, Steve.
+-Se cuida, Jeff.
+
+70
+00:03:43,390 --> 00:03:44,224
+TENHA UM BOM DIA
+
+71
+00:03:44,391 --> 00:03:46,101
+Eu adoro esse cara.
+
+72
+00:03:46,267 --> 00:03:48,311
+Tomara que nada de ruim
+aconteça com ele.
+
+73
+00:03:50,605 --> 00:03:52,982
+<i>Nada de ruim acontece comigo...</i>
+
+74
+00:03:53,942 --> 00:03:54,818
+<i>O que...</i>
+
+75
+00:03:54,984 --> 00:03:56,528
+<i>Sua cidade está sendo atacada</i>
+
+76
+00:03:56,695 --> 00:03:59,072
+<i>pelos maiores criminosos de Gotham.</i>
+
+77
+00:03:59,239 --> 00:04:00,490
+<i>Incluindo</i>
+
+78
+00:04:00,782 --> 00:04:01,533
+<i>o Charada,</i>
+
+79
+00:04:03,410 --> 00:04:04,452
+<i>o Espantalho...</i>
+
+80
+00:04:04,619 --> 00:04:06,329
+Chegou a pizza.
+
+81
+00:04:07,914 --> 00:04:09,749
+<i>-Bane!
+</i>-Olá.
+
+82
+00:04:09,916 --> 00:04:10,667
+<i>Duas-Caras!</i>
+
+83
+00:04:10,834 --> 00:04:12,002
+Abra a porta para nós, querida!
+
+84
+00:04:13,294 --> 00:04:14,045
+<i>Mulher-Gato.</i>
+
+85
+00:04:14,212 --> 00:04:15,046
+Miau. Aberta!
+
+86
+00:04:15,213 --> 00:04:16,423
+Sai da frente!
+
+87
+00:04:18,383 --> 00:04:20,593
+<i>E não vamos esquecer
+o Cara de Barro.</i>
+
+88
+00:04:23,680 --> 00:04:24,556
+<i>Hera Venenosa.</i>
+
+89
+00:04:26,474 --> 00:04:27,475
+-Congele!
+<i>-Não!</i>
+
+90
+00:04:27,642 --> 00:04:28,435
+Congele você!
+
+91
+00:04:28,601 --> 00:04:29,811
+<i>Senhor Frio!</i>
+
+92
+00:04:30,186 --> 00:04:32,856
+<i>Pinguim, Remendo Maluco, Borracha.</i>
+
+93
+00:04:33,023 --> 00:04:35,400
+<i>Homem-Bolinhas, Mímica, Tarântula.</i>
+
+94
+00:04:35,567 --> 00:04:39,320
+<i>Rei Tut, Orca, Mariposa, Lebre de Março,
+Mestre Zodíaco, Cavalheiro Fantasma.</i>
+
+95
+00:04:39,487 --> 00:04:41,531
+<i>Rei Relógio, Homem-Calendário, Homem-Pipa,</i>
+
+96
+00:04:41,698 --> 00:04:43,867
+<i>Homem-Gato,
+Homem-Zebra e Rei dos Condimentos.</i>
+
+97
+00:04:45,910 --> 00:04:47,495
+Você inventou alguns desses?
+
+98
+00:04:47,662 --> 00:04:49,122
+Não, todos existem.
+
+99
+00:04:49,289 --> 00:04:50,707
+Pode procurar no Google.
+
+100
+00:04:50,874 --> 00:04:52,876
+DEPARTAMENTO DE POLÍCIA
+DE GOTHAM CITY
+
+101
+00:04:53,084 --> 00:04:54,794
+-Ei, cuidado!
+-Comissário Gordon!
+
+102
+00:04:54,961 --> 00:04:55,962
+O que foi, O'Hara?
+
+103
+00:04:56,129 --> 00:04:57,088
+Recebemos uma denúncia!
+
+104
+00:04:57,255 --> 00:04:59,758
+Todos os vilões de classe Z invadiram
+a usina elétrica!
+
+105
+00:04:59,924 --> 00:05:00,925
+O que vamos fazer, senhor?
+
+106
+00:05:01,092 --> 00:05:04,012
+O que sempre fazemos.
+Apertar o botão do Bat-Sinal!
+
+107
+00:05:04,179 --> 00:05:04,929
+Apertei!
+
+108
+00:05:05,096 --> 00:05:06,014
+<i>Comissário, na escuta?</i>
+
+109
+00:05:06,181 --> 00:05:07,891
+O Bat-Sinal foi "ovacionado".
+
+110
+00:05:08,641 --> 00:05:09,851
+<i>Foi o Cabeça de Ovo, senhor.</i>
+
+111
+00:05:10,018 --> 00:05:11,603
+Conheço bem o trabalho dele.
+
+112
+00:05:11,770 --> 00:05:13,897
+Minha Nossa!
+Vocês destruíram o Bat-Sinal.
+
+113
+00:05:14,064 --> 00:05:15,648
+Você pensou em tudo.
+
+114
+00:05:15,815 --> 00:05:17,233
+É, eu sei!
+
+115
+00:05:17,400 --> 00:05:18,777
+<i>Depois que eu dominar Gotham City...</i>
+
+116
+00:05:18,943 --> 00:05:21,237
+<i>Abrindo portas do núcleo do reator.</i>
+
+117
+00:05:21,488 --> 00:05:23,281
+<i>...o Batman vai se ajoelhar aos pés</i>
+
+118
+00:05:23,573 --> 00:05:25,367
+<i>do seu maior arqui-inimigo!</i>
+
+119
+00:05:26,493 --> 00:05:28,620
+Eu! O Coringa!
+
+120
+00:05:30,663 --> 00:05:32,123
+Coringa, na escuta?
+
+121
+00:05:32,290 --> 00:05:33,416
+Afirmativo, querida.
+
+122
+00:05:33,583 --> 00:05:34,834
+<i>Tudo pronto aqui, pudinzinho.</i>
+
+123
+00:05:35,043 --> 00:05:37,420
+Então, vamos pôr a casa abaixo!
+
+124
+00:05:38,296 --> 00:05:39,714
+Lá vai bomba!
+
+125
+00:05:47,681 --> 00:05:49,140
+O'Hara, já tentou o Bat-fone?
+
+126
+00:05:49,307 --> 00:05:51,643
+Já, mas só toca uma musiquinha de espera.
+
+127
+00:05:53,687 --> 00:05:54,604
+Adorei.
+
+128
+00:05:57,899 --> 00:05:59,734
+-Quero atiradores naquele prédio!
+-Pode deixar!
+
+129
+00:05:59,901 --> 00:06:02,028
+-Quero reforço aéreo e marítimo agora!
+-Sim, senhor!
+
+130
+00:06:02,195 --> 00:06:03,697
+E preciso da Swat aqui agora!
+
+131
+00:06:03,863 --> 00:06:04,906
+Ligação para o Comissário Gordon.
+
+132
+00:06:05,073 --> 00:06:05,949
+Alô? Batman?
+
+133
+00:06:06,116 --> 00:06:08,410
+Oi, Jimmy. É o Coringuinha.
+
+134
+00:06:08,827 --> 00:06:10,203
+Ninguém o chama assim.
+
+135
+00:06:11,079 --> 00:06:12,288
+É claro que me chamam.
+
+136
+00:06:12,455 --> 00:06:13,415
+Escute aqui.
+
+137
+00:06:13,581 --> 00:06:14,833
+Vamos!
+
+138
+00:06:15,000 --> 00:06:18,628
+<i>Agora mesmo, uma superbomba</i>
+
+139
+00:06:18,795 --> 00:06:22,882
+<i>está sendo presa
+dentro do núcleo de energia da usina.</i>
+
+140
+00:06:23,049 --> 00:06:26,761
+Se a prefeita não vier em cinco minutos
+para negociar a rendição da cidade,
+
+141
+00:06:26,928 --> 00:06:30,598
+<i>eu destruirei Gotham City.</i>
+
+142
+00:06:30,765 --> 00:06:32,142
+Eu fiz alguma coisa!
+
+143
+00:06:32,308 --> 00:06:34,894
+<i>Doutor, isso parece assustador
+e muito complicado.</i>
+
+144
+00:06:35,061 --> 00:06:36,062
+<i>Explique para nós.</i>
+
+145
+00:06:36,354 --> 00:06:37,480
+GEÓLOGO CHEFE
+UNIVERSIDADE DE GOTHAM
+
+146
+00:06:37,647 --> 00:06:39,482
+<i>Não quero assustar nenhuma criança
+que esteja nos ouvindo,</i>
+
+147
+00:06:39,649 --> 00:06:41,860
+<i>mas poucas pessoas sabem
+que Gotham City</i>
+
+148
+00:06:42,027 --> 00:06:45,238
+<i>foi construída
+sobre placas bem frágeis empilhadas.</i>
+
+149
+00:06:45,405 --> 00:06:47,532
+<i>Não tem literalmente nada debaixo de nós,</i>
+
+150
+00:06:47,699 --> 00:06:51,161
+<i>exceto um abismo infinito
+com cheiro de cueca suja.</i>
+
+151
+00:06:51,327 --> 00:06:53,246
+<i>Se a bomba do Coringa explodir,</i>
+
+152
+00:06:53,413 --> 00:06:55,248
+<i>as placas vão se separar,</i>
+
+153
+00:06:55,415 --> 00:06:57,083
+<i>jogando os cidadãos de Gotham</i>
+
+154
+00:06:57,250 --> 00:06:59,794
+<i>num abismo eterno para sempre.</i>
+
+155
+00:06:59,961 --> 00:07:01,713
+<i>E ninguém quer isso, não é?</i>
+
+156
+00:07:01,880 --> 00:07:04,632
+Então, mandem a prefeita!
+Coringa desligando!
+
+157
+00:07:04,799 --> 00:07:07,469
+Sra. Prefeita,
+não posso lhe pedir que faça isso.
+
+158
+00:07:07,635 --> 00:07:09,304
+Jim, encontrou o Batman?
+
+159
+00:07:09,471 --> 00:07:10,221
+Não, senhora.
+
+160
+00:07:10,388 --> 00:07:11,848
+Então não temos escolha.
+
+161
+00:07:12,015 --> 00:07:16,394
+O Coringa está com a vantagem.
+Temos que entregar Gotham City.
+
+162
+00:07:16,561 --> 00:07:17,812
+Ah, não.
+
+163
+00:07:17,979 --> 00:07:19,731
+Sinto muito!
+
+164
+00:07:20,648 --> 00:07:22,400
+<i>Transportando a prefeita agora.</i>
+
+165
+00:07:22,567 --> 00:07:24,778
+<i>Equipe Swat, prepare as armas de choque!</i>
+
+166
+00:07:24,944 --> 00:07:26,404
+-Não letal.
+-É!
+
+167
+00:07:26,571 --> 00:07:28,615
+<i>Descendo prefeita pelo buraco.</i>
+
+168
+00:07:29,699 --> 00:07:31,201
+Sra. Prefeita!
+
+169
+00:07:31,368 --> 00:07:32,786
+Obrigado pela visita.
+
+170
+00:07:33,745 --> 00:07:36,247
+Só tenho uma coisa
+a lhe dizer, Coringa.
+
+171
+00:07:36,414 --> 00:07:38,208
+Bom, é melhor dizer rápido.
+
+172
+00:07:38,375 --> 00:07:39,417
+Gosta de apostar?
+
+173
+00:07:39,584 --> 00:07:40,669
+Com certeza.
+
+174
+00:07:40,835 --> 00:07:42,587
+Joga roleta?
+
+175
+00:07:42,754 --> 00:07:43,797
+Às vezes.
+
+176
+00:07:43,963 --> 00:07:45,757
+Então, vou lhe dar um conselho.
+
+177
+00:07:45,924 --> 00:07:46,800
+Sou todo ouvidos.
+
+178
+00:07:46,966 --> 00:07:48,176
+Quando jogar roleta...
+
+179
+00:07:48,343 --> 00:07:49,010
+Sim?
+
+180
+00:07:50,220 --> 00:07:52,263
+...aposte sempre no preto.
+
+181
+00:07:52,430 --> 00:07:53,264
+Batman?
+
+182
+00:07:53,431 --> 00:07:55,892
+O que é isso?
+Está em desvantagem aqui!
+
+183
+00:07:56,059 --> 00:07:57,143
+Ficou louco?
+
+184
+00:07:57,310 --> 00:07:58,937
+Quer ficar louco? Está bem!
+
+185
+00:07:59,104 --> 00:08:00,188
+<i>Vamos enlouquecer!</i>
+
+186
+00:08:00,355 --> 00:08:01,189
+VAMOS ENLOUQUECER Mix
+
+187
+00:08:01,356 --> 00:08:03,983
+Escrevi uma música
+para acabar com a festa de vocês!
+
+188
+00:08:04,484 --> 00:08:06,736
+Peguem-no antes
+que comece a cantar!
+
+189
+00:08:11,616 --> 00:08:13,576
+<i>Na noite escura</i>
+
+190
+00:08:14,452 --> 00:08:16,621
+<i>Ponho vilões pra correr</i>
+
+191
+00:08:17,372 --> 00:08:18,915
+<i>Todos outros heróis
+melhor que eu</i>
+
+192
+00:08:19,082 --> 00:08:20,625
+Computador, pode exagerar.
+
+193
+00:08:20,792 --> 00:08:21,876
+<i>não podem ser.</i>
+
+194
+00:08:22,043 --> 00:08:23,044
+<i>Estou a caminho, senhor.</i>
+
+195
+00:08:23,336 --> 00:08:24,921
+<i>-Quem tem acessórios legais?
+-Batman</i>
+
+196
+00:08:25,171 --> 00:08:26,089
+BATITUDE
+
+197
+00:08:26,423 --> 00:08:29,384
+<i>-Quem tem o carro preparado?
+-Batman</i>
+
+198
+00:08:29,551 --> 00:08:32,345
+<i>-Quem faz saltos irados?
+-Batman</i>
+
+199
+00:08:33,638 --> 00:08:35,181
+<i>Batman</i>
+
+200
+00:08:35,348 --> 00:08:38,018
+<i>Eu! Eu! Eu! Eu!
+Batman</i>
+
+201
+00:08:40,353 --> 00:08:41,521
+<i>Batman</i>
+
+202
+00:08:41,688 --> 00:08:42,814
+<i>Você me acha forte?</i>
+
+203
+00:08:43,064 --> 00:08:43,982
+Obrigado.
+
+204
+00:08:44,399 --> 00:08:45,900
+<i>Sou também inteligente!</i>
+
+205
+00:08:46,860 --> 00:08:49,195
+<i>Garotas, podem olhar</i>
+
+206
+00:08:49,362 --> 00:08:50,363
+<i>Por quê?</i>
+
+207
+00:08:50,530 --> 00:08:53,199
+<i>Porque tenho dinheiro pra gastar!</i>
+
+208
+00:08:53,366 --> 00:08:56,494
+Concentração, galera! Estou passando
+vergonha na frente do Batman!
+
+209
+00:08:56,911 --> 00:08:57,912
+Computador, cadê a bomba?
+
+210
+00:08:58,079 --> 00:09:00,999
+<i>Está localizada
+na base do núcleo de energia.</i>
+
+211
+00:09:01,916 --> 00:09:02,876
+O que...
+
+212
+00:09:03,043 --> 00:09:05,086
+<i>Quem ri por último sou eu
+A risada vem de mim</i>
+
+213
+00:09:05,628 --> 00:09:08,506
+<i>Jogo você no hospício junto
+com Arlequina.</i>
+
+214
+00:09:08,673 --> 00:09:11,468
+<i>Deixo o Duas-Caras de cara roxa</i>
+
+215
+00:09:11,718 --> 00:09:14,512
+<i>Eu não sou mesmo o Bruce Wayne</i>
+
+216
+00:09:15,013 --> 00:09:16,765
+Beije-me, Batman.
+
+217
+00:09:17,474 --> 00:09:20,435
+<i>-Quem é o mais macho?
+-Batman</i>
+
+218
+00:09:20,602 --> 00:09:22,228
+<i>-E tem bumbum de aço?
+-Batman</i>
+
+219
+00:09:22,395 --> 00:09:23,396
+Computador.
+
+220
+00:09:23,646 --> 00:09:26,232
+<i>-Quem pode enforcar um urso?
+-Batman</i>
+
+221
+00:09:26,399 --> 00:09:29,110
+<i>-E não pular o exercício?
+-Batman</i>
+
+222
+00:09:29,444 --> 00:09:30,987
+<i>Quem paga sempre seu imposto?</i>
+
+223
+00:09:31,154 --> 00:09:32,322
+<i>Não é o Batman</i>
+
+224
+00:09:33,448 --> 00:09:36,117
+Como ele está ganhando
+de todos vocês de novo?
+
+225
+00:09:37,118 --> 00:09:38,119
+Porque...
+
+226
+00:09:38,286 --> 00:09:39,412
+<i>Eu! Eu! Eu! Eu!</i>
+
+227
+00:09:39,579 --> 00:09:40,872
+<i>Eu sou o Batman!</i>
+
+228
+00:09:41,039 --> 00:09:42,374
+Vai explodir!
+
+229
+00:09:42,540 --> 00:09:44,084
+<i>Eu sou o Batman!</i>
+
+230
+00:09:44,292 --> 00:09:45,251
+<i>Eu! Eu! Eu! Eu!</i>
+
+231
+00:09:45,418 --> 00:09:47,504
+<i>Eu sou o Batman!</i>
+
+232
+00:09:48,421 --> 00:09:52,300
+Oi, Batman! Que estranho
+a gente viver se esbarrando.
+
+233
+00:09:56,471 --> 00:09:57,806
+<i>Batman</i>
+
+234
+00:09:58,390 --> 00:10:00,183
+Seu plano fracassou.
+
+235
+00:10:00,350 --> 00:10:04,270
+É questão de tempo
+até eu dominar Gotham City.
+
+236
+00:10:09,150 --> 00:10:12,112
+Quando foi que isso ocorreu? Computador!
+
+237
+00:10:12,278 --> 00:10:13,571
+<i>Calculando.</i>
+
+238
+00:10:13,738 --> 00:10:14,447
+<i>Nunca.</i>
+
+239
+00:10:14,614 --> 00:10:15,281
+RASTREANDO CORINGA
+
+240
+00:10:15,448 --> 00:10:16,449
+Sabe por quê?
+
+241
+00:10:16,616 --> 00:10:18,660
+Estou sempre
+um passo à sua frente.
+
+242
+00:10:18,827 --> 00:10:20,453
+E eu sempre escapo.
+
+243
+00:10:22,539 --> 00:10:23,832
+Não desta vez.
+
+244
+00:10:26,167 --> 00:10:27,919
+Porque desta vez...
+
+245
+00:10:28,420 --> 00:10:29,713
+eu peguei você.
+
+246
+00:10:29,879 --> 00:10:30,839
+Ah, é?
+
+247
+00:10:31,006 --> 00:10:33,091
+Bom, só tem um problema.
+
+248
+00:10:33,717 --> 00:10:35,510
+<i>Quem vai desativar a bomba?</i>
+
+249
+00:10:35,677 --> 00:10:37,345
+É uma coisa ou outra, Batman.
+
+250
+00:10:37,512 --> 00:10:41,808
+Salvar a cidade
+ou pegar seu arqui-inimigo.
+
+251
+00:10:41,975 --> 00:10:43,018
+Não pode fazer as duas coisas.
+
+252
+00:10:43,184 --> 00:10:44,227
+Desculpe, o que disse?
+
+253
+00:10:44,394 --> 00:10:45,311
+Que não pode fazer as duas coisas.
+
+254
+00:10:45,478 --> 00:10:46,604
+Não, a outra coisa.
+
+255
+00:10:46,771 --> 00:10:48,690
+Salvar a cidade
+ou pegar seu arqui-inimigo.
+
+256
+00:10:48,857 --> 00:10:50,108
+Acha que é meu arqui-inimigo?
+
+257
+00:10:50,275 --> 00:10:52,444
+Sim! Você é obcecado por mim!
+
+258
+00:10:53,069 --> 00:10:53,737
+Não sou, não.
+
+259
+00:10:53,903 --> 00:10:54,988
+-É, sim.
+-Não sou, não.
+
+260
+00:10:55,155 --> 00:10:58,450
+Quem faz você passar dos limites
+como eu faço?
+
+261
+00:10:58,616 --> 00:10:59,826
+-Bane.
+-Não, qual é.
+
+262
+00:10:59,993 --> 00:11:00,702
+O Superman.
+
+263
+00:11:00,869 --> 00:11:02,120
+O Superman nem é vilão!
+
+264
+00:11:02,287 --> 00:11:05,165
+Então, eu não tenho
+um arqui-inimigo no momento.
+
+265
+00:11:05,331 --> 00:11:07,751
+Estou lutando
+com vários inimigos diferentes.
+
+266
+00:11:07,917 --> 00:11:08,668
+O quê?
+
+267
+00:11:08,835 --> 00:11:09,794
+Gosto de variar.
+
+268
+00:11:09,961 --> 00:11:12,630
+Olhe, eu não ligo
+se lutar com mais gente
+
+269
+00:11:12,797 --> 00:11:16,634
+se você quiser,
+mas o que nós temos é especial.
+
+270
+00:11:17,093 --> 00:11:18,011
+Então, quando perguntarem:
+
+271
+00:11:18,178 --> 00:11:20,221
+"Quem é seu inimigo nº 1?",
+você responde...
+
+272
+00:11:20,388 --> 00:11:21,306
+O Superman.
+
+273
+00:11:21,473 --> 00:11:26,061
+Está dizendo que não existe nada
+de especial entre nós?
+
+274
+00:11:27,812 --> 00:11:30,398
+Entenda uma coisa, Coringuinha.
+
+275
+00:11:30,565 --> 00:11:33,360
+Não tem essa de relação.
+
+276
+00:11:33,526 --> 00:11:34,319
+O quê?
+
+277
+00:11:34,486 --> 00:11:36,821
+Essa coisa de relação.
+
+278
+00:11:37,614 --> 00:11:40,283
+<i>Não existe esse "nós".</i>
+
+279
+00:11:40,450 --> 00:11:43,703
+<i>Batman e Coringa não são nada.</i>
+
+280
+00:11:44,788 --> 00:11:46,414
+<i>Não preciso de você.</i>
+
+281
+00:11:47,374 --> 00:11:49,292
+<i>Não preciso de ninguém.</i>
+
+282
+00:11:51,002 --> 00:11:54,005
+Você não é nada para mim.
+
+283
+00:11:58,176 --> 00:11:59,969
+Nem você, nem ninguém.
+
+284
+00:12:11,189 --> 00:12:12,315
+SUPERBOMBA CORINGA
+CONTAGEM REGRESSIVA!
+
+285
+00:12:27,288 --> 00:12:29,332
+Valeu, Batman!
+
+286
+00:12:29,499 --> 00:12:30,709
+<i>Você conseguiu!</i>
+
+287
+00:12:30,875 --> 00:12:32,043
+De nada.
+
+288
+00:12:32,210 --> 00:12:34,004
+-Obrigado, Batman.
+-Foi um prazer.
+
+289
+00:12:35,588 --> 00:12:37,173
+Batman, nós amamos você!
+
+290
+00:12:37,340 --> 00:12:39,968
+Obrigado! Estou vermelho
+debaixo da máscara.
+
+291
+00:12:40,135 --> 00:12:41,720
+<i>Grazie,</i> Batman!
+
+292
+00:12:41,886 --> 00:12:42,721
+<i>Prego.</i>
+
+293
+00:12:42,887 --> 00:12:44,389
+-Você é o melhor, Batman!
+-Nem tanto.
+
+294
+00:12:44,556 --> 00:12:47,058
+-Obrigada, Batman!
+-Sou supermodesto. Obrigado.
+
+295
+00:12:47,225 --> 00:12:49,394
+-Batman, você é demais!
+-Amém.
+
+296
+00:12:49,978 --> 00:12:52,230
+-Obrigada por salvar a cidade!
+-De nada.
+
+297
+00:12:52,397 --> 00:12:53,773
+Batman, amo você
+mais que meus filhos!
+
+298
+00:12:54,357 --> 00:12:55,358
+<i>Eu também, cara!</i>
+
+299
+00:12:56,234 --> 00:12:57,444
+PARA SEMPRE
+
+300
+00:13:01,698 --> 00:13:03,408
+<i>Você é nosso herói, Batman.</i>
+
+301
+00:13:04,492 --> 00:13:06,036
+Eu amo minha vida.
+
+302
+00:13:06,202 --> 00:13:07,078
+Computador.
+
+303
+00:13:07,245 --> 00:13:08,121
+<i>Pode falar.</i>
+
+304
+00:13:08,288 --> 00:13:10,165
+<i>-Estamos perto do orfanato?
+-Sim.</i>
+
+305
+00:13:10,331 --> 00:13:13,543
+Ótimo. Vamos pôr
+um sorriso naquelas carinhas.
+
+306
+00:13:16,296 --> 00:13:17,213
+ORFANATO
+
+307
+00:13:17,380 --> 00:13:18,798
+Parece que é o Batmóvel.
+
+308
+00:13:21,468 --> 00:13:22,594
+Mentira!
+
+309
+00:13:23,136 --> 00:13:24,387
+Órfãos! Vejam quem chegou!
+
+310
+00:13:25,138 --> 00:13:26,056
+É o Batman!
+
+311
+00:13:26,389 --> 00:13:29,184
+Oi, crianças. Quem quer
+um tiro de brindezuca?
+
+312
+00:13:29,351 --> 00:13:31,144
+-Eu quero!
+-Beleza!
+
+313
+00:13:31,311 --> 00:13:32,812
+<i>-Cabum!
+</i>-Ganhei uma lancheira!
+
+314
+00:13:32,979 --> 00:13:34,856
+<i>-Cabum!
+</i>-Ganhei uma garrafinha!
+
+315
+00:13:35,023 --> 00:13:37,817
+<i>-Cabum!
+</i>-Ganhei um Batarangue!
+
+316
+00:13:38,026 --> 00:13:39,778
+E o resto vai ganhar Bat-Grana.
+
+317
+00:13:39,944 --> 00:13:41,196
+<i>Cabum!</i>
+
+318
+00:13:41,363 --> 00:13:43,406
+Lembrem-se, se quiserem
+ser como o Batman,
+
+319
+00:13:43,573 --> 00:13:45,241
+cuidem do tanquinho. Batman saindo.
+
+320
+00:13:45,408 --> 00:13:48,119
+Batman!
+
+321
+00:13:55,001 --> 00:13:56,961
+Obrigado, Batman. Você é o meu herói!
+
+322
+00:14:15,021 --> 00:14:18,358
+MANSÃO WAYNE NA ILHA WAYNE
+
+323
+00:14:19,025 --> 00:14:20,193
+<i>Qual é a senha?</i>
+
+324
+00:14:20,360 --> 00:14:21,778
+Homem de Ferro fraco.
+
+325
+00:14:21,945 --> 00:14:23,029
+<i>Obrigado.</i>
+
+326
+00:14:24,155 --> 00:14:24,906
+ÚLTIMAS NOTÍCIAS
+DEVE SER DEMAIS SER O BATMAN
+
+327
+00:14:25,073 --> 00:14:26,241
+<i>Deve ser demais ser o Batman.</i>
+
+328
+00:14:27,117 --> 00:14:31,079
+<i>Imagino que esteja indo para casa
+agora para comemorar a noite inteira</i>
+
+329
+00:14:31,246 --> 00:14:34,833
+<i>cercado de amigos e jogadoras de tênis.</i>
+
+330
+00:14:44,092 --> 00:14:45,593
+Oi, Computador.
+
+331
+00:14:46,302 --> 00:14:47,178
+Cheguei.
+
+332
+00:14:51,516 --> 00:14:52,726
+<i>Seja bem-vindo, senhor.</i>
+
+333
+00:14:52,892 --> 00:14:55,729
+<i>Iniciando sistema operacional
+da Bat-Caverna.</i>
+
+334
+00:14:58,106 --> 00:14:59,107
+Computador.
+
+335
+00:15:00,483 --> 00:15:02,485
+<i>O que foi, Batman?</i>
+
+336
+00:15:03,611 --> 00:15:05,238
+Ponha esta bomba no museu.
+
+337
+00:15:05,405 --> 00:15:06,531
+<i>Sim, senhor.</i>
+
+338
+00:15:06,740 --> 00:15:07,407
+SALA DE TROFÉUS DO BATMAN
+
+339
+00:15:07,615 --> 00:15:08,700
+<i>-Obrigado.
+-Não esquenta.</i>
+
+340
+00:15:08,867 --> 00:15:09,534
+ESTOQUE DE BOMBAS CONFISCADAS
+DO BATMAN
+
+341
+00:15:09,743 --> 00:15:11,745
+Alguma novidade boa enquanto eu saí?
+
+342
+00:15:11,911 --> 00:15:13,371
+<i>O senhor tem quatro itens no correio.</i>
+
+343
+00:15:13,538 --> 00:15:14,873
+Ótimo. O que chegou?
+
+344
+00:15:15,040 --> 00:15:20,086
+<i>O catálogo de promoções da semana, duas
+contas e um vale-desconto de uma loja.</i>
+
+345
+00:15:20,253 --> 00:15:22,088
+<i>Válido por duas semanas.</i>
+
+346
+00:15:22,255 --> 00:15:25,425
+<i>Mas algumas lojas aceitam
+depois da data de validade.</i>
+
+347
+00:15:25,592 --> 00:15:26,426
+Entendido.
+
+348
+00:15:26,593 --> 00:15:30,722
+<i>Alfred está no 17º andar limpando
+azulejos do segundo banheiro</i>
+
+349
+00:15:30,889 --> 00:15:32,265
+<i>da quinta suíte máster.</i>
+
+350
+00:15:33,141 --> 00:15:35,060
+<i>Digo ao Alfred que você chegou?</i>
+
+351
+00:15:35,226 --> 00:15:37,979
+Não precisa, Computador.
+Obrigado pelas notícias.
+
+352
+00:15:38,146 --> 00:15:39,856
+Acho que vou jantar.
+
+353
+00:15:40,023 --> 00:15:42,359
+<i>Alfred deixou
+sua lagosta à Thermidor na geladeira.</i>
+
+354
+00:15:42,525 --> 00:15:43,526
+É meu prato favorito.
+
+355
+00:15:44,110 --> 00:15:45,862
+Mal posso esperar.
+
+356
+00:16:03,713 --> 00:16:07,050
+Não, 20 minutos, não. Droga.
+
+357
+00:17:14,325 --> 00:17:15,452
+SEM SINAL
+NENHUM DISPOSITIVO DETECTADO
+
+358
+00:17:15,618 --> 00:17:17,120
+Não, calma.
+
+359
+00:17:17,287 --> 00:17:19,748
+Qual era mesmo?
+
+360
+00:17:20,665 --> 00:17:21,666
+Pronto.
+
+361
+00:17:30,175 --> 00:17:33,011
+<i>Você me completa.</i>
+
+362
+00:17:34,262 --> 00:17:37,599
+<i>Pare com isso.
+Um "oi" era suficiente.</i>
+
+363
+00:17:39,309 --> 00:17:40,477
+Adorei!
+
+364
+00:18:19,057 --> 00:18:20,350
+<i>Oi, mamãe.</i>
+
+365
+00:18:21,393 --> 00:18:22,852
+<i>Oi, papai.</i>
+
+366
+00:18:25,814 --> 00:18:27,732
+Salvei a cidade de novo hoje.
+
+367
+00:18:31,569 --> 00:18:33,363
+<i>Eu queria que vocês me vissem.</i>
+
+368
+00:18:35,073 --> 00:18:37,367
+Iam ficar muito orgulhosos.
+
+369
+00:18:40,203 --> 00:18:41,204
+Aí está você.
+
+370
+00:18:42,706 --> 00:18:45,333
+Alfred, desculpe mesmo.
+
+371
+00:18:45,500 --> 00:18:47,043
+Tenho reflexos incríveis.
+
+372
+00:18:47,210 --> 00:18:48,545
+Não, a culpa é minha, senhor.
+
+373
+00:18:48,712 --> 00:18:50,880
+Eu não deveria pegá-lo
+de surpresa assim.
+
+374
+00:18:51,047 --> 00:18:53,508
+Desculpe, eu estava pensando,
+e você sabe,
+
+375
+00:18:53,675 --> 00:18:55,260
+quando penso, me desligo.
+
+376
+00:18:55,427 --> 00:18:57,846
+Estava olhando as velhas fotos
+da família de novo?
+
+377
+00:18:58,388 --> 00:19:00,557
+Olhando o quê? As velhas fotos...
+
+378
+00:19:00,724 --> 00:19:02,767
+Ah, sim! Agora eu entendi.
+
+379
+00:19:02,934 --> 00:19:05,228
+<i>Olha só! É a galera.</i>
+
+380
+00:19:05,395 --> 00:19:07,439
+É. Não estava, não.
+
+381
+00:19:08,565 --> 00:19:09,899
+Entendo.
+
+382
+00:19:10,066 --> 00:19:13,528
+Senhor, com todo respeito,
+estou um pouco preocupado.
+
+383
+00:19:13,695 --> 00:19:19,242
+Já o vi em crises parecidas
+em 2016, 2012, 2008 e 2005
+
+384
+00:19:19,409 --> 00:19:22,454
+<i>e em 1997, 1995, 1992 e 1989</i>
+
+385
+00:19:22,620 --> 00:19:25,957
+<i>e a mais esquisita, em 1966.</i>
+
+386
+00:19:26,124 --> 00:19:28,960
+Quer conversar
+sobre os seus sentimentos?
+
+387
+00:19:29,127 --> 00:19:31,254
+Não falo de sentimentos, Alfred.
+
+388
+00:19:31,421 --> 00:19:33,089
+Eu não tenho isso,
+nunca vi isso.
+
+389
+00:19:33,256 --> 00:19:37,886
+Eu sou um justiceiro inimigo do crime
+que ataca à noite e uma máquina do rap.
+
+390
+00:19:38,053 --> 00:19:41,097
+Eu não sinto emoção nenhuma
+além de raiva.
+
+391
+00:19:41,264 --> 00:19:44,934
+O dia inteiro, todos os dias do ano,
+um milhão por cento.
+
+392
+00:19:45,101 --> 00:19:47,771
+E se acha que tem algo
+por trás disso, está maluco.
+
+393
+00:19:47,937 --> 00:19:48,772
+Boa noite, Alfred.
+
+394
+00:19:48,938 --> 00:19:50,273
+Senhor, está de manhã.
+
+395
+00:19:52,942 --> 00:19:56,988
+Patrão Bruce, o senhor mora numa ilha,
+figurativa e literalmente.
+
+396
+00:19:57,155 --> 00:19:58,448
+<i>Sim. Eu adoro.</i>
+
+397
+00:19:58,615 --> 00:20:01,618
+Não pode passar o resto da vida
+sozinho, vestido de preto,
+
+398
+00:20:01,785 --> 00:20:03,953
+ouvindo música raivosa
+e virando a noite.
+
+399
+00:20:04,120 --> 00:20:06,664
+Posso sim, porque sou o Batman.
+
+400
+00:20:06,831 --> 00:20:09,918
+Mas não acha que está na hora
+
+401
+00:20:10,085 --> 00:20:13,129
+de enfrentar seu maior medo?
+
+402
+00:20:13,296 --> 00:20:14,339
+-De cobra?
+-Não.
+
+403
+00:20:14,506 --> 00:20:15,298
+-Palhaço?
+-Não.
+
+404
+00:20:15,465 --> 00:20:16,299
+Palhaço-cobra?
+
+405
+00:20:16,466 --> 00:20:17,801
+Bruce, escute.
+
+406
+00:20:19,135 --> 00:20:21,262
+Seu maior medo é
+
+407
+00:20:22,347 --> 00:20:24,808
+fazer parte de uma família de novo.
+
+408
+00:20:34,192 --> 00:20:37,153
+Não, agora é de palhaço-cobra,
+pois você botou isso na minha cabeça.
+
+409
+00:20:37,320 --> 00:20:38,780
+-Senhor?
+-Hora da flexão!
+
+410
+00:20:38,947 --> 00:20:40,824
+Um, dois... vamos até mil.
+
+411
+00:20:40,990 --> 00:20:42,367
+Acho que não será possível.
+
+412
+00:20:42,534 --> 00:20:44,369
+É possível. Já estou no vinte.
+
+413
+00:20:44,536 --> 00:20:47,372
+Está confirmado na festa de aposentadoria
+de Jim Gordon.
+
+414
+00:20:47,539 --> 00:20:50,625
+O quê? Não quero ir.
+
+415
+00:20:50,792 --> 00:20:52,627
+-O senhor vai se divertir!
+-Não!
+
+416
+00:20:52,794 --> 00:20:54,170
+Pode conhecer pessoas novas!
+
+417
+00:20:54,337 --> 00:20:55,380
+Não!
+
+418
+00:20:55,547 --> 00:20:56,673
+Pode até fazer novos amigos.
+
+419
+00:20:56,840 --> 00:20:58,508
+Não!
+
+420
+00:21:02,178 --> 00:21:02,887
+Não!
+
+421
+00:21:03,054 --> 00:21:05,849
+E antes de sair,
+podemos fazer o que mais gosta.
+
+422
+00:21:06,683 --> 00:21:08,018
+Festa no provador.
+
+423
+00:21:17,318 --> 00:21:19,070
+Senhor, não está
+esquecendo uma coisa?
+
+424
+00:21:19,237 --> 00:21:19,988
+Não.
+
+425
+00:21:20,155 --> 00:21:21,239
+Sua máscara.
+
+426
+00:21:21,406 --> 00:21:22,198
+Minha o quê?
+
+427
+00:21:22,866 --> 00:21:26,369
+Seu disfarce blindado de rosto?
+
+428
+00:21:28,538 --> 00:21:29,539
+Ótimo.
+
+429
+00:21:31,374 --> 00:21:32,208
+Está feliz?
+
+430
+00:21:32,375 --> 00:21:33,251
+Sem dúvida.
+
+431
+00:21:33,418 --> 00:21:35,337
+Ótimo. Deve ser legal ser feliz.
+
+432
+00:21:35,712 --> 00:21:40,592
+<i>Hoje, no</i> Metrópolis em Foco,
+<i>temos o nosso astro preferido: o Superman!</i>
+
+433
+00:21:40,759 --> 00:21:42,552
+<i>E aí, Gotham?</i>
+
+434
+00:21:44,012 --> 00:21:46,056
+<i>Superman, diga-me.
+Como se sente</i>
+
+435
+00:21:46,222 --> 00:21:49,225
+<i>agora que baniu o General Zod
+para a Zona Fantasma?</i>
+
+436
+00:21:49,392 --> 00:21:52,729
+<i>Olhe, Pippa. É complicado, sabe?</i>
+
+437
+00:21:52,896 --> 00:21:56,858
+<i>Eu e Zod tivemos batalhas épicas
+ao longo dos anos.</i>
+
+438
+00:21:58,526 --> 00:22:01,571
+<i>Eu não seria o Superman
+sem lutar com o Zod.</i>
+
+439
+00:22:01,738 --> 00:22:06,076
+Viu? O Superman entende.
+Por que o Batman não?
+
+440
+00:22:06,242 --> 00:22:09,913
+Olha só, pessoal.
+Montei um porta-CD.
+
+441
+00:22:11,748 --> 00:22:14,042
+E como vou conseguir
+o respeito do Batman
+
+442
+00:22:14,209 --> 00:22:17,128
+trabalhando com esses fedorentos?
+
+443
+00:22:17,295 --> 00:22:18,963
+Olhe para mim.
+
+444
+00:22:19,422 --> 00:22:22,550
+Você é muito bom para o Batman.
+Ele tem que abrir os olhos
+
+445
+00:22:22,717 --> 00:22:25,095
+e ver como é
+quando você não está por aí, sacou?
+
+446
+00:22:25,261 --> 00:22:28,264
+<i>É, Pippa, eu não podia mandar
+Zod para uma prisão normal.</i>
+
+447
+00:22:28,431 --> 00:22:30,266
+<i>É o Zod! Qual é!</i>
+
+448
+00:22:30,433 --> 00:22:31,601
+A FRIA RELAÇÃO SUPERMAN/ZOD
+CEDIDA POR Z. SNYDER E A. MOKRI
+
+449
+00:22:31,810 --> 00:22:35,105
+<i>Tive que pô-lo num lugar
+onde nunca mais fizesse mal a Metrópolis.</i>
+
+450
+00:22:35,980 --> 00:22:37,273
+<i>A Zona Fantasma.</i>
+
+451
+00:22:37,440 --> 00:22:39,442
+<i>Sim, a terrível cadeia espacial</i>
+
+452
+00:22:39,609 --> 00:22:41,986
+<i>que prende os maiores supervilões
+de todos os tempos.</i>
+
+453
+00:22:42,153 --> 00:22:44,906
+<i>Prendemos os mais barra-pesada
+lá dentro.</i>
+
+454
+00:22:45,073 --> 00:22:46,116
+<i>Lá tem esse cara.</i>
+
+455
+00:22:46,282 --> 00:22:48,159
+<i>-E ela.
+-Vou pegar você, queridinho!</i>
+
+456
+00:22:48,326 --> 00:22:50,912
+<i>-Sem falar nele.
+</i>-Wingardium Leviosa.
+
+457
+00:22:51,079 --> 00:22:51,830
+<i>E esses caras.</i>
+
+458
+00:22:51,996 --> 00:22:52,956
+<i>Exterminar!</i>
+
+459
+00:22:53,123 --> 00:22:56,626
+Estou começando
+a ter uma ideia, chuchuzinho.
+
+460
+00:23:02,132 --> 00:23:03,091
+Bruce, aqui!
+
+461
+00:23:03,258 --> 00:23:04,634
+Vamos lá, câmeras, atenção, é agora.
+
+462
+00:23:04,801 --> 00:23:05,969
+Vou fazer três poses. Prontos?
+
+463
+00:23:06,136 --> 00:23:07,137
+"Biquinho."
+
+464
+00:23:07,303 --> 00:23:08,596
+"Opa, olha eu de novo."
+
+465
+00:23:08,763 --> 00:23:10,807
+E o "malvadão".
+Vai fazer o quê?
+
+466
+00:23:10,974 --> 00:23:13,143
+Vou nessa, galera. Obrigado.
+
+467
+00:23:13,309 --> 00:23:14,811
+-Deputada.
+-Sr. Wayne, prazer em vê-lo.
+
+468
+00:23:14,978 --> 00:23:15,937
+BAILE EM HONRA À APOSENTADORIA
+DO COMISSÁRIO JIM GORDON.
+
+469
+00:23:16,104 --> 00:23:17,522
+<i>-Olá, senador. Que elegância.
+-Bruce.</i>
+
+470
+00:23:17,689 --> 00:23:20,984
+<i>Vou começar com o homem no espelho</i>
+
+471
+00:23:21,151 --> 00:23:22,527
+Algum conselho
+para o novo comissário?
+
+472
+00:23:22,694 --> 00:23:25,321
+Se souber apertar
+o botão do Bat-Sinal, está tudo certo.
+
+473
+00:23:25,488 --> 00:23:26,948
+Bruce, como fez isso tudo?
+
+474
+00:23:27,115 --> 00:23:28,491
+Se não provar, não foi você.
+
+475
+00:23:28,658 --> 00:23:30,201
+Sr. Wayne, prazer em vê-lo!
+Junte-se a nós!
+
+476
+00:23:30,368 --> 00:23:31,661
+Primeiro-ministro.
+
+477
+00:23:31,828 --> 00:23:33,121
+O senhor fez plástica?
+
+478
+00:23:35,165 --> 00:23:36,166
+Não acredito!
+
+479
+00:23:37,667 --> 00:23:38,877
+<i>Bruce Wayne!</i>
+
+480
+00:23:39,044 --> 00:23:40,837
+O maior órfão de todos os tempos.
+
+481
+00:23:43,965 --> 00:23:46,009
+-Prazer em vê-lo, embaixador.
+-Sr. Wayne!
+
+482
+00:23:46,176 --> 00:23:48,011
+-Quer uma foto?
+-Seria ótimo.
+
+483
+00:23:48,178 --> 00:23:49,846
+Vamos lá. Cara de festa.
+
+484
+00:23:50,013 --> 00:23:51,306
+Bum! É seu.
+
+485
+00:23:51,473 --> 00:23:52,349
+Obrigado, Sr. Wayne.
+
+486
+00:23:52,515 --> 00:23:53,683
+Chame de Bruce, rapaz.
+
+487
+00:23:53,850 --> 00:23:55,310
+Estou animadaço por conhecer o senhor.
+
+488
+00:23:55,477 --> 00:23:56,853
+Desculpe, disse "animadaço"?
+
+489
+00:23:57,020 --> 00:24:00,357
+Sim! Meu nome é Richard Grayson,
+mas no orfanato me chamam de Dick.
+
+490
+00:24:00,523 --> 00:24:02,192
+-As crianças e seus apelidos.
+-É.
+
+491
+00:24:02,359 --> 00:24:03,568
+-Prazer em vê-lo, Bruce.
+-Prazer em vê-lo, senhor.
+
+492
+00:24:03,735 --> 00:24:06,029
+-Tenho uma pergunta para o senhor.
+-Pode mandar.
+
+493
+00:24:06,196 --> 00:24:07,864
+Tem algum conselho
+sobre como ser adotado?
+
+494
+00:24:08,031 --> 00:24:09,032
+-Ah, sim.
+-Tem?
+
+495
+00:24:09,199 --> 00:24:10,700
+-Sr. Wayne, me dá um autógrafo?
+-Claro.
+
+496
+00:24:11,326 --> 00:24:12,994
+Por exemplo,
+clarear os dentes é bom?
+
+497
+00:24:13,161 --> 00:24:14,496
+-Tome aqui, amigo.
+-Valeu!
+
+498
+00:24:14,662 --> 00:24:15,663
+-É mesmo?
+-Sim.
+
+499
+00:24:15,830 --> 00:24:17,374
+-Está bonito, Bruce.
+-Muito obrigado.
+
+500
+00:24:17,540 --> 00:24:19,376
+E usar lápis de olho
+ou uma língua estrangeira?
+
+501
+00:24:19,542 --> 00:24:20,877
+-Tente os dois.
+<i>-Bueno.</i>
+
+502
+00:24:21,044 --> 00:24:22,379
+Olhe, é a nova comissária!
+
+503
+00:24:22,545 --> 00:24:24,381
+-Onde? Está com a prefeita!
+-Certo. Vamos ver.
+
+504
+00:24:24,547 --> 00:24:25,548
+Aqui está ela, pessoal!
+
+505
+00:24:25,715 --> 00:24:27,217
+-Minha querida!
+-Oi, papai.
+
+506
+00:24:33,056 --> 00:24:34,057
+Sr. Wayne?
+
+507
+00:24:34,766 --> 00:24:37,185
+Devo fazer cirurgia
+para deixar os olhos maiores
+
+508
+00:24:37,352 --> 00:24:38,728
+e uma aparência vulnerável?
+
+509
+00:24:40,397 --> 00:24:41,523
+Isso aí.
+
+510
+00:24:50,198 --> 00:24:51,741
+Sr. Wayne?
+
+511
+00:24:51,908 --> 00:24:54,244
+Está interessado em adotar uma criança?
+
+512
+00:24:54,744 --> 00:24:56,204
+-Sim.
+-Jura?
+
+513
+00:24:56,371 --> 00:24:57,914
+-Sim.
+-Puxa.
+
+514
+00:24:58,081 --> 00:24:59,791
+Está procurando
+um órfão normalzinho
+
+515
+00:24:59,958 --> 00:25:02,210
+-ou um com mais habilidades?
+-Isso.
+
+516
+00:25:02,377 --> 00:25:03,753
+-Cozinhar e esculpir?
+-É.
+
+517
+00:25:03,920 --> 00:25:05,046
+-Habilidade acrobática?
+-É.
+
+518
+00:25:05,213 --> 00:25:06,756
+Fazer truques de mágica
+tipo David Blaine?
+
+519
+00:25:06,923 --> 00:25:08,800
+-Achei tudo ótimo.
+-Jura?
+
+520
+00:25:08,967 --> 00:25:12,387
+Porque está parecendo comigo.
+
+521
+00:25:12,554 --> 00:25:15,390
+Sr. Wayne,
+estaria interessado em me adotar
+
+522
+00:25:15,557 --> 00:25:17,100
+como seu futuro filho órfão?
+
+523
+00:25:17,267 --> 00:25:18,059
+Com certeza.
+
+524
+00:25:18,435 --> 00:25:19,894
+Que maravilha!
+
+525
+00:25:20,061 --> 00:25:23,273
+Tudo que quero é
+ser adotado para não ficar mais
+
+526
+00:25:25,817 --> 00:25:27,110
+sozinho.
+
+527
+00:25:28,445 --> 00:25:29,571
+<i>Estamos reunidos aqui hoje</i>
+
+528
+00:25:29,738 --> 00:25:31,823
+<i>em homenagem
+à aposentadoria de Jim Gordon.</i>
+
+529
+00:25:31,990 --> 00:25:32,949
+Adeus.
+
+530
+00:25:33,116 --> 00:25:37,954
+<i>E divirta-se, Jim,
+no safári pelas selvas da África do Sul!</i>
+
+531
+00:25:38,121 --> 00:25:39,080
+Obrigado.
+
+532
+00:25:39,247 --> 00:25:40,957
+<i>Agora apresentamos</i>
+
+533
+00:25:41,124 --> 00:25:43,126
+<i>a incrível substituta do Jim.</i>
+
+534
+00:25:43,293 --> 00:25:45,795
+<i>Pessoal, a nova comissária!</i>
+
+535
+00:25:47,797 --> 00:25:50,342
+<i>Apresento-lhes Barbara Gordon!</i>
+
+536
+00:25:50,508 --> 00:25:53,845
+<i>A nova comissária de Gotham City!</i>
+
+537
+00:25:54,971 --> 00:25:58,433
+<i>Foi a primeira da turma
+na Harvard Policial.</i>
+
+538
+00:25:58,600 --> 00:26:02,479
+<i>Limpou as ruas da cidade vizinha
+de Gotham City, Blüdhaven,</i>
+
+539
+00:26:02,645 --> 00:26:04,814
+<i>usando estatísticas</i>
+
+540
+00:26:04,981 --> 00:26:06,983
+<i>e compaixão.</i>
+
+541
+00:26:07,150 --> 00:26:09,778
+<i>E agora, ela traz suas novas ideias</i>
+
+542
+00:26:09,944 --> 00:26:13,615
+<i>e seus nunchakus para Gotham City.</i>
+
+543
+00:26:13,782 --> 00:26:15,658
+Parabéns, querida.
+
+544
+00:26:15,825 --> 00:26:17,786
+-Obrigada, papai.
+-É ela, pessoal!
+
+545
+00:26:17,952 --> 00:26:19,287
+Obrigada!
+
+546
+00:26:20,830 --> 00:26:21,873
+Srta. Gordon, aqui!
+
+547
+00:26:22,040 --> 00:26:23,458
+-Dê um sorriso!
+-Puxa.
+
+548
+00:26:23,625 --> 00:26:26,294
+<i>Obrigada pela chave gigante
+do Asilo Arkham.</i>
+
+549
+00:26:26,461 --> 00:26:28,213
+<i>E o que é isto?</i>
+
+550
+00:26:28,380 --> 00:26:31,675
+<i>Obrigada pelo botão do Bat-Sinal.</i>
+
+551
+00:26:31,841 --> 00:26:33,051
+<i>Legal.</i>
+
+552
+00:26:34,511 --> 00:26:39,474
+<i>Papai, você sempre fez
+um belo trabalho protegendo Gotham City.</i>
+
+553
+00:26:39,641 --> 00:26:41,726
+Apertei! Sou eu.
+
+554
+00:26:41,893 --> 00:26:44,688
+<i>Obrigado. Ao Batman também, é claro.</i>
+
+555
+00:26:44,854 --> 00:26:46,189
+Vamos aplaudir o Batman!
+
+556
+00:26:46,398 --> 00:26:48,024
+<i>Que eu queria que estivesse aqui agora.</i>
+
+557
+00:26:48,191 --> 00:26:49,567
+Com certeza ele está ouvindo.
+
+558
+00:26:49,859 --> 00:26:51,653
+<i>Quero lhes fazer uma pergunta.</i>
+
+559
+00:26:51,820 --> 00:26:53,738
+<i>Estão cansados do crime?</i>
+
+560
+00:26:54,322 --> 00:26:56,074
+-Todos nós estamos.
+-É, ninguém aguenta.
+
+561
+00:26:56,241 --> 00:27:00,537
+<i>Ótimo. Então vamos falar de melhorias
+reais para acabar com o ciclo do crime.</i>
+
+562
+00:27:00,870 --> 00:27:04,249
+<i>Tenho um plano de ação
+de quatro pontos que adoraria expor.</i>
+
+563
+00:27:04,416 --> 00:27:06,042
+Quero ouvir os quatro pontos.
+
+564
+00:27:06,209 --> 00:27:07,377
+<i>-Ele se chama...
+</i>-Estou pronto.
+
+565
+00:27:07,544 --> 00:27:08,378
+<i>É preciso união...</i>
+
+566
+00:27:08,545 --> 00:27:10,005
+Melhor começo para qualquer título.
+
+567
+00:27:10,171 --> 00:27:11,673
+<i>Não um Batman.</i>
+
+568
+00:27:12,590 --> 00:27:13,550
+-Garçom.
+-Senhor?
+
+569
+00:27:13,717 --> 00:27:14,551
+-Posso?
+-É claro.
+
+570
+00:27:14,718 --> 00:27:15,885
+-Obrigado.
+-O prazer é meu.
+
+571
+00:27:16,052 --> 00:27:17,053
+Muito obrigado.
+
+572
+00:27:19,389 --> 00:27:21,057
+-O quê?
+<i>-Vejam.</i>
+
+573
+00:27:21,224 --> 00:27:25,061
+<i>O Batman já está no serviço
+há muito, muito,</i>
+
+574
+00:27:27,564 --> 00:27:28,606
+<i>muito tempo.</i>
+
+575
+00:27:28,773 --> 00:27:30,525
+Ele envelheceu muito bem.
+
+576
+00:27:30,692 --> 00:27:34,612
+<i>Porém, apesar do ótimo trabalho
+que o Batman fez por nós,</i>
+
+577
+00:27:34,779 --> 00:27:39,534
+<i>Gotham City ainda é a cidade
+onde há mais crimes no mundo.</i>
+
+578
+00:27:39,701 --> 00:27:40,702
+-Ela tem toda a razão.
+-Interessante.
+
+579
+00:27:40,869 --> 00:27:42,746
+Historicamente, isso está correto.
+
+580
+00:27:42,912 --> 00:27:44,456
+<i>-Ele não capturou o Charada.
+-Ela está certa.</i>
+
+581
+00:27:44,622 --> 00:27:45,915
+<i>Não capturou o Bane.</i>
+
+582
+00:27:46,082 --> 00:27:48,043
+<i>Nem a Mulher-Gato.</i>
+
+583
+00:27:48,209 --> 00:27:52,088
+<i>Nem o Duas-Caras
+ou qualquer outro vilão de Gotham!</i>
+
+584
+00:27:52,255 --> 00:27:53,298
+Ele não é bom no que faz.
+
+585
+00:27:53,465 --> 00:27:54,924
+<i>Nem o Coringa!</i>
+
+586
+00:27:55,091 --> 00:27:56,468
+Faz todo sentido.
+
+587
+00:27:57,218 --> 00:27:58,762
+Com licença. Desculpe.
+
+588
+00:27:58,928 --> 00:28:00,472
+<i>Nós amamos você, Barbara!</i>
+
+589
+00:28:00,638 --> 00:28:02,390
+<i>-Sim.
+</i>-Oi. Bruce Wayne.
+
+590
+00:28:02,557 --> 00:28:04,934
+Bilionário, bon vivant,
+despreocupado, playboy,
+
+591
+00:28:05,101 --> 00:28:06,728
+o solteirão mais cobiçado
+de Gotham há 90 anos.
+
+592
+00:28:06,895 --> 00:28:07,896
+O SOLTEIRO MAIS COBIÇADO DE GOTHAM!
+
+593
+00:28:08,063 --> 00:28:09,773
+<i>-Sou euzinho.
+-Sei bem quem é, Sr. Wayne.</i>
+
+594
+00:28:09,981 --> 00:28:14,110
+Claro que sabe. Perguntinha:
+Qual o seu problema com o Batman?
+
+595
+00:28:14,277 --> 00:28:16,613
+E outra: Qual é o seu problema?
+
+596
+00:28:16,780 --> 00:28:18,239
+<i>Que bom que perguntou, Sr. Wayne.</i>
+
+597
+00:28:18,406 --> 00:28:20,450
+<i>Não odeio o Batman.</i>
+
+598
+00:28:20,658 --> 00:28:23,078
+<i>Mas não precisamos
+de um homem adulto sem supervisão</i>
+
+599
+00:28:23,244 --> 00:28:25,914
+<i>atacando pobres coitados
+fantasiado para o Dia das Bruxas.</i>
+
+600
+00:28:26,247 --> 00:28:28,833
+<i>Peguemos o que há de bom no Batman</i>
+
+601
+00:28:29,000 --> 00:28:33,588
+<i>e juntemos com leis de verdade,
+ética justa</i>
+
+602
+00:28:33,755 --> 00:28:35,173
+<i>e responsabilidade.</i>
+
+603
+00:28:35,340 --> 00:28:36,591
+Odeio tudo o que acabou de dizer.
+
+604
+00:28:36,758 --> 00:28:41,680
+<i>Porque meu sonho é
+que a polícia se una ao Batman.</i>
+
+605
+00:28:41,930 --> 00:28:42,764
+Garçom.
+
+606
+00:28:42,931 --> 00:28:44,140
+<i>Não seria melhor?</i>
+
+607
+00:28:44,808 --> 00:28:48,103
+<i>Eu sei que, juntos,
+o maior detetive do mundo</i>
+
+608
+00:28:48,687 --> 00:28:50,647
+<i>e a polícia de Gotham</i>
+
+609
+00:28:50,814 --> 00:28:52,857
+<i>poderiam limpar
+essas ruas do crime</i>
+
+610
+00:28:55,151 --> 00:28:56,319
+<i>para sempre.</i>
+
+611
+00:28:56,486 --> 00:28:57,987
+Todos para o chão!
+
+612
+00:29:00,990 --> 00:29:02,367
+Grande entrada!
+
+613
+00:29:02,826 --> 00:29:05,328
+<i>Pessoal, para as saídas imediatamente!</i>
+
+614
+00:29:05,537 --> 00:29:06,663
+Corram!
+
+615
+00:29:06,955 --> 00:29:08,832
+Equipe Bane, feche as saídas.
+
+616
+00:29:08,998 --> 00:29:10,291
+Vai a algum lugar?
+
+617
+00:29:10,500 --> 00:29:13,211
+Cara de Barro, Frio,
+tragam a nova Comissária Gordon.
+
+618
+00:29:13,378 --> 00:29:15,005
+-Pode deixar.
+-Beleza.
+
+619
+00:29:15,171 --> 00:29:17,007
+E Arlequina, já sabe o que fazer.
+
+620
+00:29:17,173 --> 00:29:18,133
+Com certeza.
+
+621
+00:29:18,299 --> 00:29:21,845
+É hora da operação
+"Roupa Suja".
+
+622
+00:29:22,846 --> 00:29:25,056
+Mordomo Um, aqui é Morcego Um.
+Na escuta?
+
+623
+00:29:25,223 --> 00:29:26,641
+-Pode falar, Morcego Um.
+<i>-Disfarce blindado de rosto agora!</i>
+
+624
+00:29:26,808 --> 00:29:27,934
+ESTABELECENDO LIMITES PARA SUA
+CRIANÇA DESCONTROLADA
+
+625
+00:29:28,101 --> 00:29:29,310
+Só se disser a palavra mágica.
+
+626
+00:29:29,561 --> 00:29:30,562
+-Agora!
+<i>-Não.</i>
+
+627
+00:29:30,729 --> 00:29:31,688
+Está demitido.
+
+628
+00:29:31,855 --> 00:29:32,647
+Não. Senhor, conversaremos melhor
+
+629
+00:29:32,814 --> 00:29:33,523
+ALVO ENCONTRADO
+
+630
+00:29:33,690 --> 00:29:34,691
+na Bat-Caverna.
+
+631
+00:29:37,027 --> 00:29:38,153
+-Computador.
+<i>-Sim?</i>
+
+632
+00:29:38,319 --> 00:29:40,030
+Iniciar música de megaconstrução.
+
+633
+00:29:40,196 --> 00:29:41,322
+<i>Agora mesmo.</i>
+
+634
+00:29:41,990 --> 00:29:45,076
+<i>Estimativa de danos colaterais sugere
+o Apressado, senhor.</i>
+
+635
+00:29:45,243 --> 00:29:46,327
+Bom plano.
+
+636
+00:29:51,750 --> 00:29:53,335
+Sra. Prefeita, fique perto de mim.
+
+637
+00:29:53,501 --> 00:29:55,045
+Corra para a saída sul.
+
+638
+00:29:55,211 --> 00:29:56,046
+Agora, senhora.
+
+639
+00:29:58,173 --> 00:29:59,049
+Vá!
+
+640
+00:29:59,215 --> 00:30:00,717
+Querida, deixe o Batman
+cuidar disso.
+
+641
+00:30:00,884 --> 00:30:02,218
+Papai, eu me viro.
+
+642
+00:30:14,564 --> 00:30:16,066
+<i>Apressado ativado.</i>
+
+643
+00:30:16,232 --> 00:30:18,443
+Chefe O'Hara, estamos chegando.
+
+644
+00:30:18,610 --> 00:30:19,444
+Estou quase aí.
+
+645
+00:30:24,574 --> 00:30:26,117
+Chefe, deixe a prefeita em segurança.
+
+646
+00:30:27,243 --> 00:30:29,579
+Computador, o Coringa está na minha mira.
+
+647
+00:30:29,746 --> 00:30:31,873
+Equipe, o Coringa está na minha mira.
+
+648
+00:30:32,290 --> 00:30:33,708
+HARVARD POLICIAL
+
+649
+00:30:36,628 --> 00:30:37,462
+Coringa!
+
+650
+00:30:37,629 --> 00:30:38,463
+Coringa!
+
+651
+00:30:38,630 --> 00:30:40,256
+Com licença? Eu já ia...
+
+652
+00:30:40,423 --> 00:30:43,134
+Acionar o Bat-Sinal? Boa ideia.
+Gostei do seu instinto.
+
+653
+00:30:43,301 --> 00:30:45,261
+Tenho uma surpresa para vocês.
+
+654
+00:30:45,428 --> 00:30:47,472
+Que vai fazê-los sorrir.
+
+655
+00:30:48,098 --> 00:30:49,599
+O riso dele é nossa tristeza.
+
+656
+00:30:49,766 --> 00:30:50,725
+<i>Todos para o chão.</i>
+
+657
+00:30:50,892 --> 00:30:51,643
+Eu...
+
+658
+00:30:51,810 --> 00:30:52,769
+Coringa, não!
+
+659
+00:30:53,603 --> 00:30:54,771
+...me rendo.
+
+660
+00:30:55,146 --> 00:30:56,106
+O quê?
+
+661
+00:30:58,274 --> 00:30:59,442
+O que disse?
+
+662
+00:30:59,609 --> 00:31:02,904
+Eu disse: "Eu me rendo."
+
+663
+00:31:03,071 --> 00:31:04,155
+Coringa, o que está fazendo?
+
+664
+00:31:04,447 --> 00:31:06,491
+Desculpe, minhas Bat-orelhas
+não ouviram bem,
+
+665
+00:31:06,658 --> 00:31:07,492
+porque ouvi...
+
+666
+00:31:07,659 --> 00:31:08,451
+Eu me rendo!
+
+667
+00:31:08,660 --> 00:31:11,162
+Não, espere. Pare.
+Você é um criminoso.
+
+668
+00:31:11,329 --> 00:31:13,331
+Você corre, eu pego você.
+
+669
+00:31:13,498 --> 00:31:14,833
+Não é mais assim, Batman.
+
+670
+00:31:15,000 --> 00:31:17,002
+Tem razão. Não existe "nós".
+
+671
+00:31:17,168 --> 00:31:20,463
+Então, não há por que eu tentar
+lutar mais com você.
+
+672
+00:31:20,630 --> 00:31:22,966
+Portanto, vou me entregar
+
+673
+00:31:23,133 --> 00:31:25,844
+à nossa determinada e moderna
+nova comissária.
+
+674
+00:31:26,011 --> 00:31:27,804
+Pisca, pisca!
+
+675
+00:31:27,971 --> 00:31:28,680
+É muito suspeito.
+
+676
+00:31:29,139 --> 00:31:31,141
+É, sim.
+O que está aprontando, Coringa?
+
+677
+00:31:31,307 --> 00:31:33,810
+Só quero ir para Arkham
+pagar pelos meus crimes.
+
+678
+00:31:33,977 --> 00:31:35,603
+Pisca, pisca!
+
+679
+00:31:35,770 --> 00:31:37,772
+Jura que está falando "pisca"?
+
+680
+00:31:37,939 --> 00:31:39,190
+Não! Pisca, pisca.
+
+681
+00:31:39,357 --> 00:31:40,358
+<i>Coringa! Chega.</i>
+
+682
+00:31:40,525 --> 00:31:42,110
+Obrigado, Babi. Deixa comigo.
+
+683
+00:31:42,277 --> 00:31:45,655
+Calma lá, Batman.
+Não pode mais bater em mim.
+
+684
+00:31:45,864 --> 00:31:46,865
+Eu saí do mercado.
+
+685
+00:31:47,032 --> 00:31:48,783
+De que está falando?
+
+686
+00:31:48,950 --> 00:31:50,702
+Saí do menu!
+
+687
+00:31:50,869 --> 00:31:53,663
+Você não bate
+em mais nada disso aqui agora.
+
+688
+00:31:53,997 --> 00:31:55,665
+Por que eu fui perguntar?
+
+689
+00:31:55,832 --> 00:31:58,793
+Mas divirta-se na cadeia, e...
+
+690
+00:31:58,960 --> 00:32:00,128
+Batman, o que vai fazer?
+
+691
+00:32:01,212 --> 00:32:02,047
+Bater no Bane.
+
+692
+00:32:02,213 --> 00:32:03,882
+Isso foi desnecessário.
+
+693
+00:32:04,049 --> 00:32:06,343
+Não, também não pode
+mais bater no Bane.
+
+694
+00:32:06,509 --> 00:32:07,635
+Sério?
+
+695
+00:32:07,802 --> 00:32:11,389
+É, nem no Charada, na Mulher-Gato,
+no Rei dos Condimentos...
+
+696
+00:32:12,349 --> 00:32:13,183
+Por quê?
+
+697
+00:32:13,350 --> 00:32:17,187
+Porque nós todos nos rendemos.
+Não é, galera?
+
+698
+00:32:17,354 --> 00:32:18,188
+Ah, é?
+
+699
+00:32:18,396 --> 00:32:19,522
+Sim!
+
+700
+00:32:26,696 --> 00:32:27,572
+PARA GOTHAM
+COM AMOR DO CORINGA
+
+701
+00:32:27,739 --> 00:32:29,908
+<i>O que aconteceu?</i>
+
+702
+00:32:30,075 --> 00:32:31,534
+É o fim do crime!
+
+703
+00:32:31,868 --> 00:32:32,702
+Isso aí!
+
+704
+00:32:32,869 --> 00:32:33,912
+-Que incrível!
+-Aqui!
+
+705
+00:32:34,162 --> 00:32:34,829
+Conseguiu!
+
+706
+00:32:34,996 --> 00:32:36,498
+É claro que consegui. Eu sou...
+
+707
+00:32:36,664 --> 00:32:39,209
+Desculpe, você não.
+Estamos falando da Comissária Gordon.
+
+708
+00:32:39,376 --> 00:32:41,211
+-Bom, foi um trabalho em equipe.
+-Deixe comigo, Babi.
+
+709
+00:32:41,378 --> 00:32:42,712
+Comissária, como se sente?
+
+710
+00:32:42,879 --> 00:32:45,048
+Incrível! Foi um ótimo primeiro dia.
+
+711
+00:32:45,215 --> 00:32:46,383
+Calma aí.
+
+712
+00:32:46,549 --> 00:32:47,759
+-Pergunta para o Batman.
+-Manda.
+
+713
+00:32:47,926 --> 00:32:49,344
+O que vai fazer pelo resto da vida?
+
+714
+00:32:49,511 --> 00:32:51,054
+Como assim, pelo resto da vida?
+
+715
+00:32:51,221 --> 00:32:54,182
+Não precisamos de um justiceiro inimigo
+do crime agora que não tem crime.
+
+716
+00:32:54,349 --> 00:32:55,266
+Precisam, sim.
+
+717
+00:32:55,433 --> 00:32:57,894
+Vai poder aproveitar
+um tempo com sua família.
+
+718
+00:32:58,770 --> 00:32:59,771
+Minha...
+
+719
+00:33:04,526 --> 00:33:06,945
+Certo, Batman. Assumimos daqui.
+
+720
+00:33:07,112 --> 00:33:10,782
+Escutem. Vocês têm o direito
+de permanecer calados.
+
+721
+00:33:10,949 --> 00:33:12,033
+Vamos embora!
+
+722
+00:33:12,200 --> 00:33:13,076
+Tchauzinho, Batman!
+
+723
+00:33:13,243 --> 00:33:14,703
+-Tchau, Batman.
+<i>-Au revoir,</i> Batman.
+
+724
+00:33:14,869 --> 00:33:15,745
+<i>Tchau, Batman.</i>
+
+725
+00:33:15,912 --> 00:33:17,247
+<i>Tchau, Batman!</i>
+
+726
+00:33:23,712 --> 00:33:25,922
+<i>Hoje é uma vitória</i>
+
+727
+00:33:26,089 --> 00:33:29,259
+<i>para os cidadãos de Gotham City.</i>
+
+728
+00:33:30,093 --> 00:33:33,138
+Chega de crime!
+
+729
+00:33:33,304 --> 00:33:36,391
+Chega de crime!
+
+730
+00:33:36,558 --> 00:33:39,728
+Chega de crime!
+
+731
+00:33:39,894 --> 00:33:42,814
+TAXA DE FELICIDADE DO BATMAN
+
+732
+00:33:43,606 --> 00:33:46,609
+Está tudo bem, senhor?
+Mal tocou na sua lagosta à Thermidor.
+
+733
+00:33:46,776 --> 00:33:49,279
+Não tenho tempo
+para comer lagosta à Thermidor agora!
+
+734
+00:33:49,946 --> 00:33:52,782
+ASILO ARKHAM
+
+735
+00:33:53,450 --> 00:33:54,784
+Guerreiro dois.
+
+736
+00:33:54,951 --> 00:33:57,912
+Posição do pombo. Posição da árvore.
+
+737
+00:34:02,000 --> 00:34:03,126
+Posição da árvore.
+
+738
+00:34:03,293 --> 00:34:04,419
+Oi, Batman!
+
+739
+00:34:04,586 --> 00:34:05,795
+Barbara!
+
+740
+00:34:05,962 --> 00:34:06,796
+O que está fazendo?
+
+741
+00:34:06,963 --> 00:34:08,798
+Nada. Minha vida é bem ocupada.
+
+742
+00:34:08,965 --> 00:34:11,426
+Não. O que está fazendo aqui?
+
+743
+00:34:11,593 --> 00:34:14,929
+Vigiando o Coringa.
+
+744
+00:34:15,096 --> 00:34:17,932
+Batman, sabemos
+que o Coringa está aprontando.
+
+745
+00:34:18,099 --> 00:34:21,311
+Então não podemos
+deixá-lo à solta numa prisão.
+
+746
+00:34:21,478 --> 00:34:22,270
+Ele não está solto!
+
+747
+00:34:22,437 --> 00:34:24,272
+Ele precisa ir
+para um lugar fora das leis.
+
+748
+00:34:24,439 --> 00:34:25,106
+LAVANDERIA
+ZONA FANTASMAGÓRICA
+
+749
+00:34:25,273 --> 00:34:26,274
+-Fora das leis?
+-É.
+
+750
+00:34:26,441 --> 00:34:28,485
+Um lugar como...
+
+751
+00:34:28,651 --> 00:34:31,696
+Oi, gente. Sou da Lavanderia
+Zona Fantasmagórica.
+
+752
+00:34:31,863 --> 00:34:33,823
+Vim pegar essas suas roupas sujas.
+
+753
+00:34:33,990 --> 00:34:36,659
+Espere. É isso. A Zona Fantasma.
+
+754
+00:34:36,826 --> 00:34:38,661
+A Zona Fantasma? Não mesmo!
+
+755
+00:34:38,828 --> 00:34:42,499
+Isso é superilegal
+e fora da nossa jurisdição.
+
+756
+00:34:42,791 --> 00:34:46,044
+Que tal a gente trabalhar junto,
+
+757
+00:34:46,211 --> 00:34:48,797
+dentro da lei,
+para descobrir o plano dele?
+
+758
+00:34:48,963 --> 00:34:51,800
+O Batman trabalha sozinho.
+É o meu lema. Marca registrada.
+
+759
+00:34:53,009 --> 00:34:57,180
+Batman, não permitimos mais
+justiceiros em Gotham City.
+
+760
+00:34:57,347 --> 00:34:58,807
+Está bem, entendi.
+
+761
+00:34:58,973 --> 00:35:02,477
+Então tenho que entrar no meu modo
+superjusticeiro ultrassecreto.
+
+762
+00:35:02,977 --> 00:35:04,979
+Você disse isso em voz alta.
+
+763
+00:35:05,563 --> 00:35:08,483
+Eu sei que ela disse que falei
+em voz alta, mas isso é impossível.
+
+764
+00:35:08,650 --> 00:35:11,653
+Ela não faz ideia
+do que minha supermente está pensando.
+
+765
+00:35:11,820 --> 00:35:12,904
+Supermente?
+
+766
+00:35:13,697 --> 00:35:15,031
+Bomba de fumaça!
+
+767
+00:35:19,911 --> 00:35:22,747
+Computador, como ponho
+o Coringa na Zona Fantasma?
+
+768
+00:35:22,914 --> 00:35:25,041
+Rota mais rápida, sem via expressa.
+
+769
+00:35:25,208 --> 00:35:26,668
+MODO DORMIR
+SENHA:
+
+770
+00:35:28,211 --> 00:35:29,546
+Computador, está ouvindo?
+
+771
+00:35:32,048 --> 00:35:33,717
+Olá, Patrão Bruce.
+
+772
+00:35:33,883 --> 00:35:36,386
+Alfred, deu problema no Bat-Computador.
+Veja isto.
+
+773
+00:35:36,553 --> 00:35:38,263
+Computador. Nada.
+
+774
+00:35:38,430 --> 00:35:40,223
+Computador. Entendeu?
+
+775
+00:35:40,390 --> 00:35:41,558
+Não há nada de errado, senhor.
+
+776
+00:35:41,725 --> 00:35:44,352
+Eu só bloqueei
+seu acesso ao computador.
+
+777
+00:35:44,894 --> 00:35:47,063
+CONTROLE PARENTAL
+
+778
+00:35:47,230 --> 00:35:49,065
+Controle parental? Não pode fazer isso.
+
+779
+00:35:49,232 --> 00:35:54,029
+Posso, sim. Andei lendo <i>Estabelecendo
+Limites Para Sua Criança Descontrolada.</i>
+
+780
+00:35:54,195 --> 00:35:55,113
+Quer saber? Não importa,
+
+781
+00:35:55,280 --> 00:35:58,742
+Eu tenho uma supersenha ultrassecreta
+que desbloqueia o controle parental.
+
+782
+00:35:58,908 --> 00:36:02,245
+Quer dizer "Alfred-o-Mor-tonto",
+tudo junto?
+
+783
+00:36:03,413 --> 00:36:06,583
+Senhor, é hora de parar
+com esse comportamento doentio.
+
+784
+00:36:06,750 --> 00:36:07,625
+Não é, não.
+
+785
+00:36:07,792 --> 00:36:09,919
+Precisa assumir
+responsabilidades na vida.
+
+786
+00:36:10,086 --> 00:36:10,962
+No momento, não.
+
+787
+00:36:11,129 --> 00:36:13,757
+E vai começar criando seu filho.
+
+788
+00:36:17,052 --> 00:36:17,927
+Desculpe.
+
+789
+00:36:18,094 --> 00:36:20,972
+Não faço ideia do que está falando.
+
+790
+00:36:21,139 --> 00:36:24,100
+O jovem órfão
+que adotou na festa, lembra-se?
+
+791
+00:36:26,186 --> 00:36:26,853
+CÂMERA DE SEGURANÇA
+
+792
+00:36:27,020 --> 00:36:27,729
+<i>Uau! Escadas.</i>
+
+793
+00:36:29,773 --> 00:36:32,067
+Já está morando aqui há uma semana.
+
+794
+00:36:32,233 --> 00:36:34,152
+<i>Olá, mesa!</i>
+
+795
+00:36:34,986 --> 00:36:38,573
+<i>E saiba que acabei
+me apegando a esse rapazinho.</i>
+
+796
+00:36:38,740 --> 00:36:40,658
+<i>Olá, câmera secreta.</i>
+
+797
+00:36:40,825 --> 00:36:42,452
+<i>O senhor devia conhecê-lo.</i>
+
+798
+00:36:43,745 --> 00:36:45,413
+<i>Vocês dois têm muito em comum.</i>
+
+799
+00:36:45,580 --> 00:36:46,414
+<i>En garde.</i>
+
+800
+00:36:48,291 --> 00:36:50,001
+Olá, fotos de família.
+
+801
+00:36:50,168 --> 00:36:52,629
+<i>Ele perdeu os pais muito jovem.</i>
+
+802
+00:36:54,255 --> 00:36:55,965
+Eu sempre quis uma dessas.
+
+803
+00:36:58,134 --> 00:37:02,138
+Ele não merece
+a chance de alguém o acolher
+
+804
+00:37:03,139 --> 00:37:06,351
+como eu o acolhi?
+
+805
+00:37:09,479 --> 00:37:12,190
+Alfred, você anda
+vendo muito filme de drama
+
+806
+00:37:12,357 --> 00:37:13,316
+e bebendo <i>chardonnay</i> demais.
+
+807
+00:37:13,483 --> 00:37:15,151
+-É <i>Pinot grigio,</i> senhor.
+-Tanto faz.
+
+808
+00:37:15,318 --> 00:37:18,988
+Escute, você não tem família.
+Já está satisfeito me servindo.
+
+809
+00:37:19,614 --> 00:37:21,950
+<i>O que você sabe
+sobre ter um filho adotivo?</i>
+
+810
+00:37:22,492 --> 00:37:24,035
+<i>Olhe, vou combater o crime.</i>
+
+811
+00:37:24,202 --> 00:37:27,205
+Ponha o garoto no primeiro avião
+para o orfanato, entendeu?
+
+812
+00:37:29,040 --> 00:37:30,166
+Como quiser, senhor.
+
+813
+00:37:31,876 --> 00:37:33,336
+Puxa vida.
+
+814
+00:37:34,838 --> 00:37:35,964
+<i>Espere, o que você fez?</i>
+
+815
+00:37:36,131 --> 00:37:36,840
+Espanei.
+
+816
+00:37:37,007 --> 00:37:38,341
+Não pode deixá-lo
+entrar na Bat-Caverna!
+
+817
+00:37:38,508 --> 00:37:41,636
+Não deixei.
+Deixei entrar na sua vida
+
+818
+00:37:41,803 --> 00:37:43,346
+pela Bat-Caverna.
+
+819
+00:37:53,314 --> 00:37:54,315
+O quê?
+
+820
+00:37:56,026 --> 00:37:58,069
+É a Bat-Caverna!
+
+821
+00:37:58,403 --> 00:37:59,654
+Ai meu Deus!
+
+822
+00:38:09,080 --> 00:38:10,582
+Batman!
+
+823
+00:38:10,790 --> 00:38:11,958
+Isso mesmo.
+
+824
+00:38:12,125 --> 00:38:14,419
+O Batman mora
+no porão do Bruce Wayne?
+
+825
+00:38:14,586 --> 00:38:16,755
+Não. Bruce Wayne mora
+no sótão do Batman.
+
+826
+00:38:16,921 --> 00:38:19,007
+-Vai ter festa do pijama toda noite!
+-Nada disso.
+
+827
+00:38:19,174 --> 00:38:21,259
+-Uau! É o Bat-Submarino!
+-Espere, não encoste!
+
+828
+00:38:21,426 --> 00:38:23,803
+-E esse é o Bat-Ônibus Espacial.
+-Por favor, não mexa nele.
+
+829
+00:38:23,970 --> 00:38:25,472
+-Esse é o Bat-Zepelim.
+-Não mexa também.
+
+830
+00:38:25,638 --> 00:38:26,598
+-O Bat-Trem!
+-Não!
+
+831
+00:38:26,765 --> 00:38:27,932
+-É o Bat-Caiaque.
+<i>-Não!</i>
+
+832
+00:38:28,099 --> 00:38:29,142
+-Esse aqui é o Bat-Buggy.
+<i>-Não!</i>
+
+833
+00:38:29,309 --> 00:38:31,102
+É o Bat-Repelente de tubarão?
+
+834
+00:38:31,269 --> 00:38:32,771
+BAT-REPELENTE DE TUBARÃO
+
+835
+00:38:32,937 --> 00:38:35,940
+Pode mexer nesse.
+É totalmente inútil.
+
+836
+00:38:36,524 --> 00:38:37,567
+Valeu, Batman!
+
+837
+00:38:37,734 --> 00:38:39,819
+Por favor, fique ali.
+
+838
+00:38:39,986 --> 00:38:42,530
+E não toque, olhe ou faça nada
+
+839
+00:38:42,697 --> 00:38:44,449
+pelos próximos momentos
+em minha presença.
+
+840
+00:38:44,616 --> 00:38:45,658
+Está bem. Show.
+
+841
+00:38:45,825 --> 00:38:47,243
+-Computador.
+<i>-Pode falar.</i>
+
+842
+00:38:47,410 --> 00:38:49,537
+Como ponho o Coringa na Zona Fantasma?
+
+843
+00:38:49,704 --> 00:38:53,625
+<i>O Coringa só pode ser mandado para lá
+usando o Projetor de Zona Fantasma.</i>
+
+844
+00:38:53,792 --> 00:38:55,001
+<i>Localização atual...</i>
+
+845
+00:38:55,168 --> 00:38:57,170
+<i>Fortaleza da Solidão do Superman,</i>
+
+846
+00:38:57,337 --> 00:38:59,339
+<i>dentro do Caldeirão Atômico.</i>
+
+847
+00:38:59,506 --> 00:39:03,885
+<i>Porém, só uma pessoa que não seja
+sarada, forte ou muito grande</i>
+
+848
+00:39:04,094 --> 00:39:05,345
+<i>pode entrar no caldeirão.</i>
+
+849
+00:39:06,179 --> 00:39:07,180
+Sou forte demais.
+
+850
+00:39:07,347 --> 00:39:09,057
+<i>É sarado demais, senhor.</i>
+
+851
+00:39:09,224 --> 00:39:10,600
+É a cruz que carrego.
+
+852
+00:39:10,767 --> 00:39:12,894
+<i>Além disso,
+uma vez dentro do caldeirão,</i>
+
+853
+00:39:13,061 --> 00:39:15,689
+<i>diversos sistemas de defesa
+kryptonianos ativam,</i>
+
+854
+00:39:15,855 --> 00:39:19,567
+<i>inclusive o Fosso de Ácido,
+o Anel de Fogo e Mandíbulas Mortais.</i>
+
+855
+00:39:19,734 --> 00:39:23,279
+<i>A chance de fracasso total
+da missão é de 110%.</i>
+
+856
+00:39:23,446 --> 00:39:25,448
+Não são chances boas.
+
+857
+00:39:26,032 --> 00:39:26,825
+Espere aí.
+
+858
+00:39:26,991 --> 00:39:28,201
+-Garoto.
+-Sim, senhor?
+
+859
+00:39:28,368 --> 00:39:30,036
+-É superágil, certo?
+-Com certeza!
+
+860
+00:39:30,203 --> 00:39:31,246
+-E pequeno?
+-Muito.
+
+861
+00:39:31,413 --> 00:39:33,081
+-E quieto.
+-Quando quero ser.
+
+862
+00:39:33,248 --> 00:39:35,166
+E 110% descartável?
+
+863
+00:39:35,333 --> 00:39:37,085
+Não entendi, mas pode ser.
+
+864
+00:39:37,252 --> 00:39:38,878
+Ótimo, venha comigo.
+
+865
+00:39:39,045 --> 00:39:41,881
+Vamos roubar o Projetor de Zona Fantasma
+do Superman.
+
+866
+00:39:42,048 --> 00:39:43,008
+-Roubar?
+-É.
+
+867
+00:39:43,174 --> 00:39:44,759
+Para resolver um problema.
+
+868
+00:39:44,926 --> 00:39:48,054
+E, às vezes, para resolver,
+temos que criar um problema.
+
+869
+00:39:48,221 --> 00:39:49,055
+Gandhi disse isso.
+
+870
+00:39:49,222 --> 00:39:50,306
+Tem certeza
+de que Gandhi disse?
+
+871
+00:39:50,473 --> 00:39:51,307
+Eu parafraseei.
+
+872
+00:39:51,474 --> 00:39:52,267
+Bacana!
+
+873
+00:39:52,434 --> 00:39:54,436
+<i>Preparando equipamento
+para invasão da Fortaleza da Solidão.</i>
+
+874
+00:39:54,602 --> 00:39:57,522
+Puxa! Olhe para isso! Vou ganhar
+uniforme para a missão também?
+
+875
+00:39:57,689 --> 00:40:01,484
+Acho que vai ficar parecendo criança
+em Dia das Bruxas, não acha?
+
+876
+00:40:01,651 --> 00:40:02,694
+Não toque nisso.
+
+877
+00:40:05,030 --> 00:40:06,072
+<i>-El Mariachi.
+-Gostei desse aí!</i>
+
+878
+00:40:06,239 --> 00:40:07,741
+<i>-Esse é culturalmente ofensivo.
+-Terror Noturno.</i>
+
+879
+00:40:07,907 --> 00:40:08,825
+-Esse aí!
+<i>-Não mesmo.</i>
+
+880
+00:40:08,992 --> 00:40:10,035
+-Esse aí?
+<i>-Mercador Mortal.</i>
+
+881
+00:40:10,201 --> 00:40:11,036
+<i>-Não.
+</i>-Eu estou bem.
+
+882
+00:40:11,202 --> 00:40:12,370
+-Esse aqui.
+<i>-Incendiário.</i>
+
+883
+00:40:12,537 --> 00:40:14,039
+-Esse?
+<i>-Rei das Garras.</i>
+
+884
+00:40:14,205 --> 00:40:15,498
+<i>-Excalibat.
+</i>-Esse?
+
+885
+00:40:15,707 --> 00:40:16,958
+<i>-Silencioso e Mortal.
+</i>-Não.
+
+886
+00:40:17,125 --> 00:40:18,752
+<i>Bat-ryshnikov.</i>
+
+887
+00:40:18,918 --> 00:40:19,961
+O que achou desse?
+
+888
+00:40:20,128 --> 00:40:22,088
+"Festa no provador" é coisa de adulto.
+
+889
+00:40:22,255 --> 00:40:23,465
+Espere. Qual é aquele ali?
+
+890
+00:40:23,631 --> 00:40:26,176
+<i>Foi o que usei na missão
+O Roubo Jamaicano.</i>
+
+891
+00:40:26,343 --> 00:40:28,345
+<i>Fui chamado de Reggae Man.</i>
+
+892
+00:40:28,511 --> 00:40:29,637
+Adorei!
+
+893
+00:40:29,804 --> 00:40:31,639
+Parece que foi feito para mim.
+
+894
+00:40:31,806 --> 00:40:32,974
+O problema é
+
+895
+00:40:33,475 --> 00:40:35,060
+que a calça está meio apertada.
+
+896
+00:40:35,226 --> 00:40:37,354
+Não sei se dá
+para chutar ou pular com ela.
+
+897
+00:40:37,520 --> 00:40:40,190
+Tive uma ideia. Rasguei. Bem melhor.
+
+898
+00:40:40,357 --> 00:40:41,775
+Agora estou livre.
+Agora eu me mexo.
+
+899
+00:40:41,941 --> 00:40:44,027
+Vamos, Batman. Mostre o remelexo!
+
+900
+00:40:44,194 --> 00:40:46,112
+Só consigo olhar
+para os seus olhos agora...
+
+901
+00:40:46,279 --> 00:40:48,823
+-Senhor, o que está fazendo?
+-Como assim?
+
+902
+00:40:48,990 --> 00:40:51,242
+Por que o Patrão Dick está
+vestido assim?
+
+903
+00:40:51,409 --> 00:40:54,913
+Como ousa querer me ensinar a criar
+o filho que conheci agora?
+
+904
+00:40:55,080 --> 00:40:56,122
+Para o Batmóvel!
+
+905
+00:40:56,289 --> 00:40:57,374
+Vamos agora!
+
+906
+00:41:00,293 --> 00:41:02,128
+<i>Guarda-veículos acionado.</i>
+
+907
+00:41:02,671 --> 00:41:04,839
+<i>Retirando o Batmóvel.</i>
+
+908
+00:41:05,840 --> 00:41:07,467
+<i>Baterias atômicas funcionando.</i>
+
+909
+00:41:07,634 --> 00:41:08,551
+<i>Turbinas em ação.</i>
+
+910
+00:41:09,094 --> 00:41:10,720
+Ei, garoto. Vamos.
+
+911
+00:41:11,388 --> 00:41:12,222
+Droga!
+
+912
+00:41:12,389 --> 00:41:13,056
+O quê?
+
+913
+00:41:13,682 --> 00:41:15,642
+É melhor eu não sair
+
+914
+00:41:15,809 --> 00:41:19,521
+sem permissão do meu novo papai,
+Bruce Wayne.
+
+915
+00:41:21,231 --> 00:41:23,274
+É. Escute aqui.
+
+916
+00:41:25,151 --> 00:41:27,529
+Eu e o Bruno resolvemos
+
+917
+00:41:27,696 --> 00:41:29,614
+compartilhar sua guarda.
+
+918
+00:41:29,781 --> 00:41:31,741
+Então, eu autorizo,
+
+919
+00:41:31,908 --> 00:41:33,993
+e missão aprovada.
+
+920
+00:41:34,160 --> 00:41:36,287
+Não brinca! Sério mesmo?
+
+921
+00:41:36,830 --> 00:41:37,580
+Sim.
+
+922
+00:41:38,998 --> 00:41:40,417
+Um mês atrás, eu não tinha pai.
+
+923
+00:41:40,583 --> 00:41:42,585
+Depois tive um pai. Agora tenho dois!
+
+924
+00:41:42,752 --> 00:41:44,921
+-E um deles é o Batman!
+-É.
+
+925
+00:41:45,088 --> 00:41:46,423
+<i>Está chovendo pai!</i>
+
+926
+00:41:46,589 --> 00:41:47,507
+Então,
+
+927
+00:41:47,674 --> 00:41:49,759
+está pronto para seguir o Batman
+
+928
+00:41:49,926 --> 00:41:52,804
+e aprender umas lições de vida
+no caminho?
+
+929
+00:41:52,971 --> 00:41:54,431
+Claro, Pai Dois!
+
+930
+00:41:54,597 --> 00:41:56,433
+Mas primeiro, cadê meu cinto?
+
+931
+00:41:56,599 --> 00:41:58,101
+A primeira lição é:
+
+932
+00:41:58,268 --> 00:42:00,103
+a vida não dá cintos!
+
+933
+00:42:00,270 --> 00:42:00,937
+Vamos lá!
+
+934
+00:42:02,605 --> 00:42:03,815
+<i>É isso aí!</i>
+
+935
+00:42:05,483 --> 00:42:07,110
+<i>Mais rápido, pai!</i>
+
+936
+00:42:08,653 --> 00:42:09,320
+É!
+
+937
+00:42:09,612 --> 00:42:10,280
+É!
+
+938
+00:42:10,447 --> 00:42:11,364
+Isso!
+
+939
+00:42:13,116 --> 00:42:15,660
+Caramba, desculpe mesmo.
+
+940
+00:42:15,827 --> 00:42:17,620
+Volte aqui para o banco. Isso.
+
+941
+00:42:17,787 --> 00:42:19,789
+Olhe, assim que eu voltar
+para a Bat-Caverna,
+
+942
+00:42:19,956 --> 00:42:22,459
+vou mandar o Alfred
+botar uns cintos aqui.
+
+943
+00:42:22,625 --> 00:42:25,670
+Mas por enquanto,
+vou deixar meu braço assim.
+
+944
+00:42:25,837 --> 00:42:28,965
+<i>E vamos sair bem devagarinho daqui.</i>
+
+945
+00:42:29,132 --> 00:42:30,967
+<i>E vamos lá.</i>
+
+946
+00:42:35,388 --> 00:42:38,641
+FÉRIAS NO ÁRTICO COM A FAMÍLIA
+FERRIS AIR
+
+947
+00:42:41,144 --> 00:42:43,813
+FORTALEZA DA SOLIDÃO
+
+948
+00:42:43,980 --> 00:42:46,316
+Seguinte: como todo super-herói,
+
+949
+00:42:46,483 --> 00:42:48,985
+o Superman não tem amigos
+
+950
+00:42:49,152 --> 00:42:53,073
+e passa muito tempo jogado numa doce
+solidão no palácio solitário dele.
+
+951
+00:42:53,365 --> 00:42:54,657
+Vou distraí-lo,
+
+952
+00:42:54,824 --> 00:42:57,660
+você entra na tubulação
+e pega o Projetor. Entendeu?
+
+953
+00:42:57,827 --> 00:42:59,204
+Entendi. Tive uma ideia.
+
+954
+00:42:59,371 --> 00:43:00,997
+-Eu posso...
+-Nem termine a frase.
+
+955
+00:43:01,164 --> 00:43:01,998
+Viu o placar?
+
+956
+00:43:02,165 --> 00:43:02,832
+PLACAR DAS BOAS IDEIAS
+BATMAN 5.678.483 O RESTO 0
+
+957
+00:43:02,999 --> 00:43:03,833
+São as boas ideias do Batman.
+
+958
+00:43:04,084 --> 00:43:07,003
+Os outros nunca tiveram boas ideias.
+Então, nem tente.
+
+959
+00:43:07,170 --> 00:43:08,171
+Seu superpoder
+
+960
+00:43:08,880 --> 00:43:11,508
+é total obediência e execução
+das minhas ideias.
+
+961
+00:43:11,675 --> 00:43:13,385
+-Vamos tentar.
+-Legal!
+
+962
+00:43:13,635 --> 00:43:14,469
+Deite no chão.
+
+963
+00:43:14,678 --> 00:43:15,345
+Mortal de costas.
+
+964
+00:43:15,512 --> 00:43:16,221
+Mortal para frente.
+
+965
+00:43:16,429 --> 00:43:17,180
+Giro triplo.
+
+966
+00:43:17,347 --> 00:43:19,516
+Plié. Relevé. Jeté.
+Teorema de Pitágoras.
+
+967
+00:43:19,683 --> 00:43:21,184
+A ao quadrado mais B ao quadrado
+é igual a C ao quadrado.
+
+968
+00:43:21,351 --> 00:43:22,185
+Fisicamente!
+
+969
+00:43:22,352 --> 00:43:24,521
+A ao quadrado mais B ao quadrado
+
+970
+00:43:24,688 --> 00:43:26,523
+é igual a C ao quadrado.
+
+971
+00:43:26,690 --> 00:43:27,691
+-Como foi, pai?
+-Medíocre.
+
+972
+00:43:27,857 --> 00:43:28,525
+Isso!
+
+973
+00:43:28,733 --> 00:43:31,111
+E não me chame de pai.
+Agora, comece a missão.
+
+974
+00:43:31,277 --> 00:43:32,028
+Sim, papa.
+
+975
+00:43:32,195 --> 00:43:34,406
+"Papa" entra na categoria de "pai".
+
+976
+00:43:52,215 --> 00:43:53,383
+E aí, Super?
+
+977
+00:43:54,050 --> 00:43:56,052
+Nossa! É o Batman.
+
+978
+00:43:56,219 --> 00:43:58,054
+E está na minha casa.
+
+979
+00:43:58,221 --> 00:43:59,389
+Agora.
+
+980
+00:43:59,556 --> 00:44:00,765
+O que está fazendo aqui?
+
+981
+00:44:00,932 --> 00:44:03,893
+Não se preocupe, amigo.
+Não vim para brigar.
+
+982
+00:44:04,102 --> 00:44:05,729
+Eu acabaria com você.
+
+983
+00:44:06,563 --> 00:44:08,398
+Vai nessa. Claro.
+
+984
+00:44:08,565 --> 00:44:10,316
+Olhe, agradeça depois,
+
+985
+00:44:10,483 --> 00:44:12,068
+mas eu ia passando
+
+986
+00:44:12,235 --> 00:44:15,113
+e achei que podia lhe fazer
+
+987
+00:44:15,280 --> 00:44:17,490
+57ª FESTA ANUAL DE ANIVERSÁRIO DA
+LIGA DA JUSTIÇA
+
+988
+00:44:18,324 --> 00:44:19,743
+companhia.
+
+989
+00:44:21,911 --> 00:44:23,288
+Espere aí.
+
+990
+00:44:24,622 --> 00:44:29,586
+Estão fazendo a 57ª Festa Anual
+de Aniversário da Liga da Justiça
+
+991
+00:44:29,794 --> 00:44:31,129
+sem mim?
+
+992
+00:44:31,921 --> 00:44:32,589
+Não.
+
+993
+00:44:32,756 --> 00:44:33,673
+Não!
+
+994
+00:44:33,923 --> 00:44:36,676
+Deve ter dado problema no e-mail.
+
+995
+00:44:36,843 --> 00:44:37,844
+Que loucura, cara.
+
+996
+00:44:38,011 --> 00:44:40,972
+Total! Problema com e-mail
+sempre acontece.
+
+997
+00:44:41,139 --> 00:44:43,433
+Às vezes não recebo
+e-mail do Superman por
+
+998
+00:44:44,309 --> 00:44:45,185
+anos.
+
+999
+00:44:45,352 --> 00:44:46,644
+Pode crer, Lanterna.
+
+1000
+00:44:46,811 --> 00:44:48,521
+Bom. Tudo resolvido, certo?
+
+1001
+00:44:48,688 --> 00:44:49,522
+Aproveite a festa, irmão.
+
+1002
+00:44:49,689 --> 00:44:52,025
+Som na caixa, DJ Wonder Dog.
+
+1003
+00:44:53,902 --> 00:44:57,113
+<i>Sou o Superman na superfesta
+Sou o Superman na superfesta</i>
+
+1004
+00:44:59,449 --> 00:45:01,409
+Batman, vamos tirar uma foto?
+
+1005
+00:45:01,576 --> 00:45:02,911
+Vamos. Onde eu fico?
+
+1006
+00:45:03,078 --> 00:45:05,288
+Aí está perfeito.
+Tome a câmera.
+
+1007
+00:45:05,747 --> 00:45:07,707
+Vamos, pessoal, junte-se aí.
+
+1008
+00:45:07,874 --> 00:45:09,250
+Legal. Todo mundo diga...
+
+1009
+00:45:09,417 --> 00:45:11,252
+Superamigos!
+
+1010
+00:45:11,419 --> 00:45:12,420
+Deixe-me ver!
+
+1011
+00:45:12,587 --> 00:45:14,464
+Perfeita. Pegou todo mundo.
+
+1012
+00:45:15,090 --> 00:45:16,549
+É, todo mundo.
+
+1013
+00:45:16,716 --> 00:45:17,801
+Valeu, Batman.
+
+1014
+00:45:17,967 --> 00:45:20,637
+Valeu. Tirei várias.
+
+1015
+00:45:20,804 --> 00:45:22,806
+<i>Esta festa está demais.</i>
+
+1016
+00:45:22,972 --> 00:45:26,393
+Olhe para mim! Está mais
+para Dançador de Marte, não é?
+
+1017
+00:45:27,977 --> 00:45:29,312
+Computador, ligue para o garoto.
+
+1018
+00:45:30,146 --> 00:45:31,064
+Bat-Pai?
+
+1019
+00:45:31,481 --> 00:45:34,651
+Como estamos?
+Porque está tudo muito bom aqui.
+
+1020
+00:45:34,818 --> 00:45:35,819
+Estou vendo o alvo.
+
+1021
+00:45:35,985 --> 00:45:38,488
+<i>Mas tem uma parada de energia laser
+que não dá para passar.</i>
+
+1022
+00:45:38,655 --> 00:45:40,490
+Beleza, vou tentar desligar.
+
+1023
+00:45:40,657 --> 00:45:42,575
+Mas vou ter que sair da festa
+
+1024
+00:45:42,742 --> 00:45:44,244
+sem ninguém perceber.
+
+1025
+00:45:45,662 --> 00:45:46,663
+Tchau.
+
+1026
+00:45:48,123 --> 00:45:49,791
+Garoto, avise quando desligar, viu?
+
+1027
+00:45:49,958 --> 00:45:50,667
+-Foi?
+<i>-Não.</i>
+
+1028
+00:45:50,834 --> 00:45:51,501
+-Foi?
+<i>-Não.</i>
+
+1029
+00:45:51,668 --> 00:45:52,419
+-Foi?
+<i>-Ainda não.</i>
+
+1030
+00:45:52,585 --> 00:45:53,336
+-Foi?
+<i>-Não.</i>
+
+1031
+00:45:53,503 --> 00:45:54,504
+<i>-Meu filho...
+-Não.</i>
+
+1032
+00:45:54,671 --> 00:45:57,173
+<i>Os cristais insubstituíveis contêm
+todo o meu conhecimento,</i>
+
+1033
+00:45:57,340 --> 00:45:59,259
+<i>e agora passo para...</i>
+
+1034
+00:45:59,426 --> 00:46:01,511
+Droga. Tem que ser um destes.
+Será este?
+
+1035
+00:46:02,429 --> 00:46:04,514
+Caramba! Conseguiu, <i>Padre.</i> Desligou.
+
+1036
+00:46:04,681 --> 00:46:05,473
+<i>Está bem.</i>
+
+1037
+00:46:05,640 --> 00:46:07,308
+Agora desça até o Caldeirão Atômico
+
+1038
+00:46:07,475 --> 00:46:09,019
+e pegue o Projetor de Zona Fantasma.
+
+1039
+00:46:09,185 --> 00:46:11,187
+<i>-Siga todas as instruções.
+</i>-Entendido.
+
+1040
+00:46:11,354 --> 00:46:12,605
+Vamos lá. Pule.
+
+1041
+00:46:14,274 --> 00:46:15,150
+<i>Mortal para frente.</i>
+
+1042
+00:46:15,316 --> 00:46:16,151
+<i>Mortal de costas.</i>
+
+1043
+00:46:17,444 --> 00:46:19,612
+<i>Corra. Caia.</i>
+
+1044
+00:46:19,779 --> 00:46:21,156
+Obediência inacreditável.
+
+1045
+00:46:21,322 --> 00:46:22,282
+<i>Atravesse.</i>
+
+1046
+00:46:22,449 --> 00:46:24,659
+<i>Siga à esquerda. Siga à direita.</i>
+
+1047
+00:46:24,826 --> 00:46:25,702
+<i>Desvie.</i>
+
+1048
+00:46:25,869 --> 00:46:27,829
+Andei pensando.
+Já que vou ser um super-herói
+
+1049
+00:46:27,996 --> 00:46:31,541
+e sair em missões incríveis
+de super-herói, posso ter codinome?
+
+1050
+00:46:32,834 --> 00:46:33,835
+Eu posso ser Robin.
+
+1051
+00:46:34,002 --> 00:46:35,670
+-Desculpe, como é?
+<i>-Robin.</i>
+
+1052
+00:46:35,837 --> 00:46:38,340
+O passarinho frágil
+do centro-oeste americano?
+
+1053
+00:46:38,506 --> 00:46:41,176
+<i>É. Já tenho até frase de efeito:
+Piu-Piu, escapuliu.</i>
+
+1054
+00:46:41,343 --> 00:46:42,719
+-Não mesmo.
+<i>-E uma música.</i>
+
+1055
+00:46:42,886 --> 00:46:44,304
+<i>Voe, Robin, voe.</i>
+
+1056
+00:46:44,471 --> 00:46:46,222
+De jeito nenhum.
+Agora escorregue!
+
+1057
+00:46:47,223 --> 00:46:48,350
+<i>Garoto, vou ensiná-lo</i>
+
+1058
+00:46:48,516 --> 00:46:50,685
+<i>a fazer uma megaconstrução
+para entrar nisso.</i>
+
+1059
+00:46:50,852 --> 00:46:51,728
+Legal!
+
+1060
+00:46:51,895 --> 00:46:55,815
+<i>Pegue os 2 por 6, puxe os blocos de eixo,
+desmonte as placas 6 por 10.</i>
+
+1061
+00:46:55,982 --> 00:46:56,733
+Assim?
+
+1062
+00:46:57,192 --> 00:46:58,735
+Obediência inacreditável.
+
+1063
+00:46:58,902 --> 00:47:00,070
+<i>Agora vá surfar.</i>
+
+1064
+00:47:00,236 --> 00:47:01,404
+<i>Pise na frente.</i>
+
+1065
+00:47:01,571 --> 00:47:02,864
+<i>Pode curtir a onda.</i>
+
+1066
+00:47:03,031 --> 00:47:04,699
+-É!
+-Vamos, criatividade.
+
+1067
+00:47:04,866 --> 00:47:07,077
+<i>Mande o seu freestyle.
+Muito bom, garoto!</i>
+
+1068
+00:47:07,243 --> 00:47:09,245
+É como olhar no Bat-Espelho.
+
+1069
+00:47:09,412 --> 00:47:10,580
+<i>Vamos, pule.</i>
+
+1070
+00:47:14,167 --> 00:47:16,002
+-Peguei o Projetor, pai.
+<i>-Boa!</i>
+
+1071
+00:47:16,169 --> 00:47:19,172
+Agora faça tudo que já fez...
+ao contrário.
+
+1072
+00:47:22,258 --> 00:47:23,760
+Tome aqui, pai. Conseguimos.
+
+1073
+00:47:23,927 --> 00:47:27,097
+É! Missão cumprida.
+Foi divertido.
+
+1074
+00:47:29,265 --> 00:47:32,268
+Tudo bem, Batman?
+Está parecendo o oposto de sério.
+
+1075
+00:47:33,019 --> 00:47:34,771
+Sim, tudo bem. É que
+
+1076
+00:47:34,938 --> 00:47:37,440
+ver você lá dentro
+
+1077
+00:47:37,607 --> 00:47:41,111
+foi como se o mundo
+não fosse só escuridão.
+
+1078
+00:47:42,570 --> 00:47:44,614
+<i>Por um breve momento,</i>
+
+1079
+00:47:44,781 --> 00:47:47,701
+eu podia jurar que senti algo.
+
+1080
+00:47:48,118 --> 00:47:50,537
+<i>A sensação foi orgulho, senhor.</i>
+
+1081
+00:47:51,204 --> 00:47:52,539
+Verdade.
+
+1082
+00:47:52,706 --> 00:47:54,416
+Estou superorgulhoso.
+
+1083
+00:47:56,209 --> 00:47:58,044
+De mim mesmo.
+
+1084
+00:47:58,211 --> 00:48:01,464
+Por ser um professor tão bom, óbvio.
+
+1085
+00:48:01,798 --> 00:48:04,050
+Sim, é um grande professor.
+
+1086
+00:48:04,217 --> 00:48:05,218
+Sou?
+
+1087
+00:48:05,385 --> 00:48:08,430
+É! Quero ser igualzinho a você
+quando crescer, <i>Padre.</i>
+
+1088
+00:48:08,596 --> 00:48:10,265
+Espere, me chamou de quê?
+
+1089
+00:48:11,307 --> 00:48:12,892
+Chamei de <i>Padre.</i>
+
+1090
+00:48:13,727 --> 00:48:16,479
+É pai em espanhol. Desculpe.
+
+1091
+00:48:16,646 --> 00:48:19,899
+Bom, também não é um jeito legal
+em espanhol de dizer "amigo"?
+
+1092
+00:48:20,066 --> 00:48:21,985
+É, eu posso falar com esse sentido.
+
+1093
+00:48:22,152 --> 00:48:23,319
+Então eu deixo.
+
+1094
+00:48:23,486 --> 00:48:24,821
+Você é um ótimo <i>padre.</i>
+
+1095
+00:48:25,488 --> 00:48:26,322
+O que é isso?
+
+1096
+00:48:26,489 --> 00:48:28,491
+Estou tentando lhe dar um abraço.
+
+1097
+00:48:28,658 --> 00:48:29,993
+Pensei que estava me atacando.
+
+1098
+00:48:31,077 --> 00:48:33,663
+<i>Ei, topa mais uma missão
+de super-herói ultrassecreta</i>
+
+1099
+00:48:33,830 --> 00:48:35,123
+<i>para derrotar o Coringa?</i>
+
+1100
+00:48:35,290 --> 00:48:37,417
+<i>Estou doido para derrotar o palhaço.</i>
+
+1101
+00:48:37,584 --> 00:48:39,836
+Mas não quero deixar meu outro pai,
+Bruce Wayne, bravo.
+
+1102
+00:48:40,003 --> 00:48:41,338
+A gente acaba
+antes da hora de dormir?
+
+1103
+00:48:41,504 --> 00:48:42,505
+Hora de dormir?
+
+1104
+00:48:42,672 --> 00:48:44,174
+Lição de vida do Batman número dois.
+
+1105
+00:48:44,341 --> 00:48:46,176
+Justiceiros não têm hora de dormir.
+
+1106
+00:48:46,343 --> 00:48:47,344
+Isso!
+
+1107
+00:48:47,510 --> 00:48:50,597
+Então, qual é a regra dos justiceiros
+para biscoitos?
+
+1108
+00:48:50,847 --> 00:48:52,766
+Liberados!
+
+1109
+00:48:53,350 --> 00:48:54,517
+ASILO ARKHAM
+
+1110
+00:48:54,684 --> 00:48:57,020
+<i>Garoto, temos que evitar
+a Comissária Gordon.</i>
+
+1111
+00:48:58,188 --> 00:48:59,939
+<i>Então, lição número três.</i>
+
+1112
+00:49:00,523 --> 00:49:01,941
+Quando se esconder,
+
+1113
+00:49:02,108 --> 00:49:05,653
+esconda todas as suas partes,
+física e emocionalmente.
+
+1114
+00:49:06,696 --> 00:49:07,822
+-Entendeu?
+-Sim.
+
+1115
+00:49:07,989 --> 00:49:08,823
+Já errou.
+
+1116
+00:49:08,990 --> 00:49:10,658
+O que precisa fazer
+
+1117
+00:49:10,825 --> 00:49:14,537
+é usar as áreas mais escuras
+do seu uniforme
+
+1118
+00:49:14,704 --> 00:49:18,333
+e se misturar às partes escuras
+deste ambiente.
+
+1119
+00:49:18,500 --> 00:49:19,542
+Está bem.
+
+1120
+00:49:19,709 --> 00:49:21,544
+-Está me vendo?
+-Sim.
+
+1121
+00:49:21,711 --> 00:49:23,630
+-E agora?
+-Sim.
+
+1122
+00:49:23,797 --> 00:49:25,632
+-E agora?
+-Sim.
+
+1123
+00:49:25,799 --> 00:49:27,509
+Sim. Você já era, garoto.
+
+1124
+00:49:27,676 --> 00:49:29,636
+-Batman?
+-Barbara?
+
+1125
+00:49:32,138 --> 00:49:34,015
+Batman!
+
+1126
+00:49:34,641 --> 00:49:35,892
+Olá. Que surpresa.
+
+1127
+00:49:36,059 --> 00:49:37,560
+-Quem é esse?
+-Oi, Dona Policial.
+
+1128
+00:49:37,727 --> 00:49:39,229
+-É seu filho?
+-Sou, sim.
+
+1129
+00:49:39,396 --> 00:49:41,356
+Se é meu filho... não, que esquisito.
+
+1130
+00:49:41,523 --> 00:49:42,857
+É pior se não for seu filho.
+
+1131
+00:49:43,024 --> 00:49:44,234
+Certo. Não, eu...
+
+1132
+00:49:45,527 --> 00:49:47,487
+não estou namorando nem nada.
+
+1133
+00:49:47,654 --> 00:49:49,239
+Eu podia ter um filho.
+
+1134
+00:49:49,739 --> 00:49:52,075
+<i>Se conhecesse a mulher certa,</i>
+
+1135
+00:49:52,242 --> 00:49:55,203
+ela estivesse bem na minha frente,
+
+1136
+00:49:55,370 --> 00:49:58,415
+e nos olhássemos e pensássemos:
+"Ei, é isso.
+
+1137
+00:49:58,581 --> 00:50:00,417
+Vamos ficar juntos."
+
+1138
+00:50:00,583 --> 00:50:02,002
+-Batman?
+-Sim?
+
+1139
+00:50:02,168 --> 00:50:05,088
+Espero que tenha vindo
+porque decidiu trabalhar junto
+
+1140
+00:50:05,255 --> 00:50:06,423
+no caso do Coringa.
+
+1141
+00:50:08,091 --> 00:50:10,427
+Sim. Com certeza.
+
+1142
+00:50:10,593 --> 00:50:11,428
+Ótimo.
+
+1143
+00:50:12,762 --> 00:50:14,431
+Asilo Arkham.
+
+1144
+00:50:14,597 --> 00:50:17,183
+Antes de interrogar o Coringa,
+preciso que entregue suas armas.
+
+1145
+00:50:17,350 --> 00:50:19,269
+Bem, não sei se tenho alguma...
+
+1146
+00:50:20,770 --> 00:50:22,105
+Tem esses dois aqui. Pronto.
+
+1147
+00:50:22,272 --> 00:50:23,440
+-É só isso?
+-É.
+
+1148
+00:50:23,606 --> 00:50:24,441
+Claro.
+
+1149
+00:50:24,607 --> 00:50:26,526
+E o cinto de utilidades?
+Não tem nada na capa?
+
+1150
+00:50:26,693 --> 00:50:27,944
+Debaixo da máscara?
+
+1151
+00:50:28,111 --> 00:50:29,362
+E nas botas?
+
+1152
+00:50:29,529 --> 00:50:30,530
+Pronto.
+
+1153
+00:50:31,114 --> 00:50:32,407
+Fiquei até sem graça.
+
+1154
+00:50:32,574 --> 00:50:34,576
+Desculpe. A bota faz parte da calça.
+
+1155
+00:50:37,078 --> 00:50:38,288
+-Batman?
+-Sim?
+
+1156
+00:50:38,455 --> 00:50:40,081
+Por que o seu "não filho"
+
+1157
+00:50:40,248 --> 00:50:42,792
+quer entrar com um Projetor
+de Zona Fantasma no Arkham?
+
+1158
+00:50:43,043 --> 00:50:45,462
+O quê? Garoto, o que é isso?
+
+1159
+00:50:45,795 --> 00:50:47,714
+Batman, dê-me
+o Projetor de Zona Fantasma.
+
+1160
+00:50:47,881 --> 00:50:48,757
+-Não.
+-Batman!
+
+1161
+00:50:48,923 --> 00:50:50,425
+Entregue o Projetor de Zona Fantasma!
+
+1162
+00:50:50,592 --> 00:50:51,968
+Não. Boa.
+
+1163
+00:50:52,260 --> 00:50:54,554
+Treinei jiu-jitsu brasileiro
+na Harvard Policial.
+
+1164
+00:50:54,721 --> 00:50:57,390
+Ah, é? E eu tenho doutorado
+em bombas de fumaça!
+
+1165
+00:50:57,557 --> 00:50:58,391
+Dr. Batman.
+
+1166
+00:50:58,558 --> 00:50:59,809
+Guardas! Peguem-nos!
+
+1167
+00:50:59,976 --> 00:51:00,977
+Parado, Batman!
+
+1168
+00:51:01,144 --> 00:51:04,397
+Garoto. É um exercício de treinamento.
+Eles são meus amigos.
+
+1169
+00:51:04,564 --> 00:51:05,982
+-Pode acabar com eles também.
+-Legal.
+
+1170
+00:51:06,232 --> 00:51:07,150
+Oi, Frank.
+
+1171
+00:51:07,317 --> 00:51:08,234
+Quer um pouquinho de Robin?
+
+1172
+00:51:08,401 --> 00:51:10,070
+Barney! Bela fratura exposta!
+
+1173
+00:51:10,236 --> 00:51:11,946
+Está a fim de um soco, Glen?
+
+1174
+00:51:13,156 --> 00:51:13,990
+Código Vermelho.
+
+1175
+00:51:14,157 --> 00:51:15,784
+Preciso de tranca
+de segurança total agora!
+
+1176
+00:51:18,745 --> 00:51:19,954
+Om!
+
+1177
+00:51:21,456 --> 00:51:22,749
+E aí, Coringa?
+
+1178
+00:51:22,916 --> 00:51:24,167
+Namastê, Batman.
+
+1179
+00:51:24,334 --> 00:51:25,835
+-Namastê.
+-Credo.
+
+1180
+00:51:26,002 --> 00:51:27,462
+Tanguinha. Também uso.
+
+1181
+00:51:27,629 --> 00:51:29,798
+Chega de papo.
+Garoto, segure a porta, sim?
+
+1182
+00:51:29,964 --> 00:51:31,174
+Claro! Tome essa, Alan!
+
+1183
+00:51:32,092 --> 00:51:34,761
+Você parece estar indo longe só por mim.
+
+1184
+00:51:34,928 --> 00:51:37,097
+Eu devo ser seu arqui-inimigo, afinal.
+
+1185
+00:51:37,263 --> 00:51:38,515
+Certo, Batman?
+
+1186
+00:51:38,848 --> 00:51:40,016
+Sei o que você quer fazer.
+
+1187
+00:51:40,183 --> 00:51:40,934
+O que é?
+
+1188
+00:51:41,101 --> 00:51:43,978
+Quer me prender numa relação.
+
+1189
+00:51:44,145 --> 00:51:44,854
+Sério?
+
+1190
+00:51:45,021 --> 00:51:46,189
+É, e não vai dar certo.
+
+1191
+00:51:46,439 --> 00:51:49,943
+Vai, sim.
+Porque estou na sua cabeça.
+
+1192
+00:51:50,485 --> 00:51:51,361
+-Não está, não.
+-Não está, não.
+
+1193
+00:51:52,028 --> 00:51:52,821
+Sabia que ia dizer isso.
+
+1194
+00:51:52,987 --> 00:51:53,863
+-Não sabia, não.
+-Não sabia, não.
+
+1195
+00:51:54,364 --> 00:51:56,157
+E eu sabia que ia dizer isso!
+
+1196
+00:51:56,324 --> 00:51:58,493
+Viu? Não somos tão diferentes assim,
+eu e você.
+
+1197
+00:51:58,660 --> 00:51:59,494
+-É "você e eu"!
+-É "você e eu"!
+
+1198
+00:52:00,537 --> 00:52:02,872
+Admita. Sou seu arqui-inimigo.
+
+1199
+00:52:03,039 --> 00:52:04,374
+Não é meu arqui-inimigo, Coringa.
+
+1200
+00:52:04,541 --> 00:52:06,835
+Certo, então me mande
+para a Zona Fantasma.
+
+1201
+00:52:07,002 --> 00:52:07,961
+Certo, vou mandar.
+
+1202
+00:52:08,128 --> 00:52:10,797
+E prove que sou seu arqui-inimigo.
+
+1203
+00:52:12,132 --> 00:52:13,508
+Batman, não faça isso.
+
+1204
+00:52:13,675 --> 00:52:17,178
+Se você estiver na Zona Fantasma,
+Gotham City estará a salvo,
+
+1205
+00:52:17,345 --> 00:52:19,014
+e isso é tudo que importa.
+
+1206
+00:52:19,180 --> 00:52:20,473
+Adeus, Coringa.
+
+1207
+00:52:20,640 --> 00:52:22,726
+Ah, Batman, obrigado.
+
+1208
+00:52:24,894 --> 00:52:27,897
+Isso é o que eu chamo
+de salvar a cidade de novo.
+
+1209
+00:52:28,565 --> 00:52:30,233
+Batman, o que está fazendo?
+
+1210
+00:52:30,400 --> 00:52:32,652
+Estou Batmando.
+
+1211
+00:52:33,069 --> 00:52:34,988
+<i>Eu sou o Batman
+Eu sou demais</i>
+
+1212
+00:52:35,155 --> 00:52:36,156
+<i>Eu sou sarado</i>
+
+1213
+00:52:36,364 --> 00:52:37,365
+<i>Pare!</i>
+
+1214
+00:52:37,741 --> 00:52:39,242
+Batman, não acredito que fez isso.
+
+1215
+00:52:39,409 --> 00:52:40,368
+Oi, Dona Policial.
+
+1216
+00:52:40,535 --> 00:52:41,745
+E pior ainda,
+
+1217
+00:52:41,911 --> 00:52:44,247
+você transformou o garoto
+em cúmplice do seu crime.
+
+1218
+00:52:45,415 --> 00:52:46,416
+Desculpe, garoto.
+
+1219
+00:52:46,583 --> 00:52:49,502
+Tudo bem, dona.
+Se eu ficar preso aqui com meu pai,
+
+1220
+00:52:49,669 --> 00:52:51,212
+para mim, está tudo bem.
+
+1221
+00:52:51,379 --> 00:52:53,423
+Guardas, levem o Projetor
+para a sala de provas.
+
+1222
+00:52:53,590 --> 00:52:55,258
+-Pode deixar.
+-E tragam calças para esse homem.
+
+1223
+00:52:55,425 --> 00:52:56,384
+Estou bem assim.
+
+1224
+00:52:56,551 --> 00:52:59,387
+Gordon, por que ninguém
+ainda me deu parabéns?
+
+1225
+00:53:00,764 --> 00:53:03,767
+Sabe, quando eu era criança,
+
+1226
+00:53:04,434 --> 00:53:06,895
+queria ser você, Batman.
+
+1227
+00:53:07,437 --> 00:53:12,275
+Queria ser forte,
+rápida e esperta como o Batman.
+
+1228
+00:53:13,276 --> 00:53:15,278
+Mas você não é quem eu pensava.
+
+1229
+00:53:16,196 --> 00:53:17,113
+Como assim?
+
+1230
+00:53:17,864 --> 00:53:21,576
+Não dá para ser herói
+se só liga para si mesmo.
+
+1231
+00:53:22,285 --> 00:53:24,287
+Barbara, eu...
+
+1232
+00:53:26,539 --> 00:53:30,460
+acho que subestima a importância
+de o Coringa estar na Zona Fantasma.
+
+1233
+00:53:31,127 --> 00:53:33,421
+Sério, isso é um golpe de mestre.
+
+1234
+00:53:33,588 --> 00:53:34,589
+Ei, aonde vai?
+
+1235
+00:53:34,756 --> 00:53:38,301
+Eu mandei o Coringa para o único lugar
+em que não pode machucar ninguém.
+
+1236
+00:53:39,636 --> 00:53:40,637
+É.
+
+1237
+00:53:41,471 --> 00:53:45,725
+Mas e se você deu
+ao Coringa o que ele queria?
+
+1238
+00:54:16,089 --> 00:54:18,425
+Olha esse lugar! Eu falei muito alto?
+
+1239
+00:54:19,843 --> 00:54:21,428
+<i>-Oi!
+</i>-Ai, socorro!
+
+1240
+00:54:22,262 --> 00:54:23,346
+<i>Desculpe. Sempre faço isso.</i>
+
+1241
+00:54:23,513 --> 00:54:24,514
+Avise na próxima.
+
+1242
+00:54:24,681 --> 00:54:26,016
+<i>Você está certo.
+Eu que estou errada.</i>
+
+1243
+00:54:26,182 --> 00:54:28,018
+<i>Bem-vindo à Zona Fantasma, vilão.</i>
+
+1244
+00:54:28,184 --> 00:54:29,185
+É, vilão.
+
+1245
+00:54:29,352 --> 00:54:31,312
+<i>-Meu nome é Phyllis.
+</i>-Era o nome da minha avó.
+
+1246
+00:54:31,479 --> 00:54:34,024
+<i>Fique parado para eu examinar você.</i>
+
+1247
+00:54:34,816 --> 00:54:35,817
+<i>Analisando maldade.</i>
+
+1248
+00:54:35,984 --> 00:54:37,610
+<i>Tentando avaliar se você é mau.</i>
+
+1249
+00:54:42,782 --> 00:54:44,325
+<i>Você é obviamente mau.</i>
+
+1250
+00:54:44,617 --> 00:54:46,828
+Sim, sou uma pessoa muito ruim.
+
+1251
+00:54:46,995 --> 00:54:48,872
+<i>Mas com vulnerabilidades.</i>
+
+1252
+00:54:49,039 --> 00:54:50,790
+Quem, eu? Não mesmo.
+
+1253
+00:54:51,041 --> 00:54:53,877
+Onde fica a galera do mal
+aqui neste lugar?
+
+1254
+00:54:54,210 --> 00:54:55,795
+<i>Bem atrás de você.</i>
+
+1255
+00:54:58,548 --> 00:54:59,382
+Olá, pessoal.
+
+1256
+00:54:59,549 --> 00:55:00,842
+Prazer em conhecer vocês.
+Eu sou...
+
+1257
+00:55:01,009 --> 00:55:02,844
+Toca aqui? Aperto de mão?
+
+1258
+00:55:03,845 --> 00:55:05,138
+Não importa. Sou o Coringa.
+
+1259
+00:55:05,305 --> 00:55:06,681
+Vejam só o novato aqui.
+
+1260
+00:55:06,848 --> 00:55:09,142
+Já vi que qualquer um entra aqui.
+
+1261
+00:55:09,309 --> 00:55:10,727
+Não. Sou bem mau também.
+
+1262
+00:55:10,894 --> 00:55:13,063
+Não viram o meu videozinho?
+
+1263
+00:55:13,229 --> 00:55:14,481
+-Chato!
+-O quê?
+
+1264
+00:55:14,647 --> 00:55:15,357
+Você é chato.
+
+1265
+00:55:15,523 --> 00:55:16,358
+Parece uma delícia.
+
+1266
+00:55:17,025 --> 00:55:17,901
+Vamos devorar esse cara.
+
+1267
+00:55:19,235 --> 00:55:21,696
+Parem com a violência um segundo!
+
+1268
+00:55:21,863 --> 00:55:25,241
+E se eu disser
+que posso tirá-los daqui?
+
+1269
+00:55:26,576 --> 00:55:27,577
+Desculpe, o que disse?
+
+1270
+00:55:27,744 --> 00:55:32,499
+Isso mesmo! Sou tão mau que fiz
+me jogarem neste buraco de propósito.
+
+1271
+00:55:32,665 --> 00:55:33,750
+Explique melhor.
+
+1272
+00:55:33,917 --> 00:55:35,919
+Agora fiquei interessado.
+
+1273
+00:55:36,169 --> 00:55:40,423
+Todos aqui sabem como é
+ser ferido por um herói, certo?
+
+1274
+00:55:40,590 --> 00:55:42,592
+Fomos todos deixados de lado, não é?
+
+1275
+00:55:42,759 --> 00:55:44,427
+-É, brô.
+-Eu concordo.
+
+1276
+00:55:44,594 --> 00:55:48,223
+Por isso eu vim
+para esta prisão espacial.
+
+1277
+00:55:48,390 --> 00:55:49,849
+Para recrutar os maiores vilões...
+
+1278
+00:55:50,016 --> 00:55:50,892
+Nós topamos.
+
+1279
+00:55:51,434 --> 00:55:52,227
+Como é?
+
+1280
+00:55:52,394 --> 00:55:55,563
+Você ia dizer que veio
+recrutar os maiores vilões do universo
+
+1281
+00:55:55,730 --> 00:55:58,233
+para derrotar um super-herói.
+
+1282
+00:55:58,400 --> 00:56:00,110
+-Acertei?
+-Sim.
+
+1283
+00:56:00,276 --> 00:56:01,194
+Nós topamos!
+
+1284
+00:56:02,237 --> 00:56:03,446
+Jura? Trouxe até um PowerPoint...
+
+1285
+00:56:03,613 --> 00:56:04,781
+Muito chato.
+
+1286
+00:56:04,948 --> 00:56:06,032
+É. Acabe logo com isso.
+
+1287
+00:56:06,282 --> 00:56:07,867
+Quer que a gente o humilhe?
+
+1288
+00:56:08,034 --> 00:56:09,077
+Com certeza. Sim.
+
+1289
+00:56:09,244 --> 00:56:11,788
+Quer deixá-lo
+ajoelhado a seus pés?
+
+1290
+00:56:11,955 --> 00:56:13,790
+Eu quero muito ver isso!
+
+1291
+00:56:13,957 --> 00:56:15,959
+Quer acabar com ele?
+
+1292
+00:56:16,209 --> 00:56:17,419
+Sim!
+
+1293
+00:56:17,585 --> 00:56:21,214
+Quer manchar os rios de Gotham
+com o sangue dele?
+
+1294
+00:56:21,381 --> 00:56:22,382
+Opa, aí...
+
+1295
+00:56:22,549 --> 00:56:24,926
+Sem sangue? Que tal lava?
+
+1296
+00:56:25,093 --> 00:56:26,636
+-Sim! Lava.
+-Fechado.
+
+1297
+00:56:27,554 --> 00:56:29,806
+-Estou louco pra quebrar uns prédios.
+-Com licença. Oi!
+
+1298
+00:56:30,056 --> 00:56:31,558
+Eu aqui. Sem ser estraga-prazeres,
+
+1299
+00:56:31,808 --> 00:56:33,935
+mas como vamos
+escapar desta prisão?
+
+1300
+00:56:34,102 --> 00:56:36,980
+Deixe isso comigo.
+
+1301
+00:56:37,564 --> 00:56:38,773
+Não quero dar azar,
+
+1302
+00:56:38,940 --> 00:56:42,986
+mas vou ficar mais feliz quando o Projetor
+de Zona Fantasma estiver bem guardado.
+
+1303
+00:56:44,446 --> 00:56:45,739
+Subindo, senhora?
+
+1304
+00:56:45,905 --> 00:56:49,075
+Não, vocês vão descer!
+
+1305
+00:56:49,659 --> 00:56:51,411
+Cuidado! Marreta!
+
+1306
+00:56:52,078 --> 00:56:54,622
+Até que acertou.
+Vou subir, sim.
+
+1307
+00:56:56,875 --> 00:56:57,542
+LIBERTEM TODOS OS PRISIONEIROS.
+
+1308
+00:56:57,709 --> 00:56:58,626
+Aí vem
+
+1309
+00:56:59,169 --> 00:57:01,921
+a Zona Fantasma!
+
+1310
+00:57:07,719 --> 00:57:09,054
+Vou começar a roubar.
+
+1311
+00:57:09,220 --> 00:57:12,515
+Olá, Gotham City!
+
+1312
+00:57:12,682 --> 00:57:15,185
+O Palhaço Príncipe do Crime
+
+1313
+00:57:15,477 --> 00:57:16,978
+<i>voltou!</i>
+
+1314
+00:57:17,145 --> 00:57:19,564
+Comissária Gordon, tem que ver isso.
+
+1315
+00:57:19,814 --> 00:57:20,648
+<i>O que é isso?</i>
+
+1316
+00:57:20,815 --> 00:57:22,942
+Um macaco e um cachorro amigos.
+
+1317
+00:57:23,109 --> 00:57:24,361
+Isso, não. Isso!
+
+1318
+00:57:24,527 --> 00:57:27,572
+<i>Eu vim para finalmente
+dominar a cidade.</i>
+
+1319
+00:57:27,739 --> 00:57:29,699
+<i>Mas para fazer isso,</i>
+
+1320
+00:57:29,866 --> 00:57:33,661
+<i>preciso tirar meus amigos
+de uma prisão gigante sinistra.</i>
+
+1321
+00:57:33,828 --> 00:57:35,205
+Galera, somos nós!
+
+1322
+00:57:36,373 --> 00:57:37,624
+<i>E não estou falando</i>
+
+1323
+00:57:37,791 --> 00:57:40,460
+<i>desses idiotas vestidos de cosplay!</i>
+
+1324
+00:57:42,629 --> 00:57:44,839
+Estou falando da galera nova!
+
+1325
+00:57:45,006 --> 00:57:46,508
+São iguais a mim.
+
+1326
+00:57:46,758 --> 00:57:50,011
+Os maiores vilões que já viram.
+
+1327
+00:57:50,178 --> 00:57:51,012
+Querem conhecer?
+
+1328
+00:57:51,262 --> 00:57:52,931
+-Não.
+-Que pena.
+
+1329
+00:57:54,224 --> 00:57:55,642
+<i>Ele é mau, ele é mágico,</i>
+
+1330
+00:57:55,850 --> 00:57:58,603
+<i>e seu fim vai ser trágico.</i>
+
+1331
+00:57:58,853 --> 00:58:00,397
+<i>É o Voldemort.</i>
+
+1332
+00:58:00,563 --> 00:58:01,856
+Magia!
+
+1333
+00:58:03,441 --> 00:58:04,859
+Você vira peixe.
+
+1334
+00:58:05,026 --> 00:58:06,027
+Você vira sapo.
+
+1335
+00:58:06,194 --> 00:58:07,153
+Você vira peixe-sapo.
+
+1336
+00:58:07,320 --> 00:58:09,823
+<i>Ele é a encarnação da maldade,
+tem nove mil anos,</i>
+
+1337
+00:58:09,989 --> 00:58:11,700
+<i>sempre de olho em joias.</i>
+
+1338
+00:58:11,866 --> 00:58:13,451
+<i>Aplausos para o Sauron!</i>
+
+1339
+00:58:13,618 --> 00:58:15,662
+Boa tarde. Gotham City.
+
+1340
+00:58:20,250 --> 00:58:23,169
+<i>Ele adora escalar prédios altos
+e históricos.</i>
+
+1341
+00:58:23,336 --> 00:58:24,713
+<i>É o King Kong!</i>
+
+1342
+00:58:24,879 --> 00:58:26,089
+Pode vir, Gotham!
+
+1343
+00:58:28,049 --> 00:58:31,261
+Comissária Gordon,
+esses monstros são poderosos demais.
+
+1344
+00:58:31,928 --> 00:58:33,346
+Consegue segurá-los aí no centro?
+
+1345
+00:58:34,014 --> 00:58:35,265
+Isso vai ser impossível.
+
+1346
+00:58:35,432 --> 00:58:37,142
+Metade da força policial virou peixe.
+
+1347
+00:58:37,308 --> 00:58:39,728
+Sargento Jackson, pare de se debater!
+
+1348
+00:58:39,894 --> 00:58:42,022
+<i>E para fechar as estrelas da maldade,</i>
+
+1349
+00:58:42,188 --> 00:58:43,314
+<i>a Bruxa Má!</i>
+
+1350
+00:58:43,481 --> 00:58:44,691
+<i>Medusa.</i>
+
+1351
+00:58:44,858 --> 00:58:46,317
+<i>E robôs britânicos!</i>
+
+1352
+00:58:46,484 --> 00:58:47,569
+Exterminar!
+
+1353
+00:58:47,736 --> 00:58:48,903
+<i>Perguntem aos seus amigos nerds.</i>
+
+1354
+00:58:49,654 --> 00:58:52,032
+<i>Olá! Vilões?</i>
+
+1355
+00:58:55,994 --> 00:58:59,080
+Que equipe, hein?
+E todos trabalham para mim.
+
+1356
+00:58:59,247 --> 00:59:03,043
+Quem é o maior vilão de todos
+agora, Batman?
+
+1357
+00:59:03,209 --> 00:59:04,336
+Ainda não é você.
+
+1358
+00:59:04,502 --> 00:59:06,504
+Na verdade,
+isso é bem aterrorizante, Bat-Pai.
+
+1359
+00:59:07,881 --> 00:59:09,382
+Que destruição bonita.
+
+1360
+00:59:09,549 --> 00:59:10,550
+<i>Vai tropeçar!</i>
+
+1361
+00:59:10,717 --> 00:59:12,177
+<i>Bom trabalho, gente!</i>
+
+1362
+00:59:12,344 --> 00:59:14,304
+Agora só o que falta fazer é
+
+1363
+00:59:14,471 --> 00:59:17,390
+esfregar na Bat-Cara do Batman.
+
+1364
+00:59:17,557 --> 00:59:19,851
+Ei, Sauron, esse seu olho de fogo
+
+1365
+00:59:20,018 --> 00:59:22,812
+tem a habilidade de olhar
+através do tempo e espaço?
+
+1366
+00:59:23,813 --> 00:59:26,900
+Olha, preciso achar o Batman.
+Onde é a caverna do garotão?
+
+1367
+00:59:27,817 --> 00:59:28,818
+Só um segundo.
+
+1368
+00:59:28,985 --> 00:59:30,111
+Barulho assustador.
+
+1369
+00:59:30,278 --> 00:59:31,946
+É debaixo da Mansão Wayne.
+
+1370
+00:59:33,281 --> 00:59:34,282
+Espere um pouco.
+
+1371
+00:59:34,449 --> 00:59:36,117
+Está querendo me dizer
+
+1372
+00:59:36,284 --> 00:59:38,953
+que Bruce Wayne e o Batman
+
+1373
+00:59:39,788 --> 00:59:41,039
+dividem apê?
+
+1374
+00:59:42,332 --> 00:59:43,333
+Sim.
+
+1375
+00:59:43,958 --> 00:59:46,920
+Exército maligno,
+vamos para a Bat-Caverna.
+
+1376
+00:59:51,383 --> 00:59:52,384
+Céus!
+
+1377
+01:00:05,105 --> 01:00:06,398
+Oi, Batman.
+
+1378
+01:00:06,648 --> 01:00:08,441
+O Coringa chegou.
+
+1379
+01:00:10,527 --> 01:00:12,654
+Estou esfregando
+o bumbum nas suas coisas.
+
+1380
+01:00:12,821 --> 01:00:14,906
+Pode começar a chamar
+de Bumbum-Móvel.
+
+1381
+01:00:16,950 --> 01:00:18,034
+Exército maligno.
+
+1382
+01:00:18,201 --> 01:00:19,619
+Eu quero o Batman aqui.
+
+1383
+01:00:19,786 --> 01:00:21,121
+Vão buscá-lo!
+
+1384
+01:00:21,287 --> 01:00:22,664
+Coringa desliga.
+
+1385
+01:00:27,002 --> 01:00:28,128
+<i>Padre?</i>
+
+1386
+01:00:28,294 --> 01:00:29,295
+<i>Sim?</i>
+
+1387
+01:00:29,462 --> 01:00:30,880
+Você sente medo?
+
+1388
+01:00:31,548 --> 01:00:32,465
+Não.
+
+1389
+01:00:33,508 --> 01:00:36,761
+É, eu já imaginava,
+porque é o Batman.
+
+1390
+01:00:43,143 --> 01:00:46,438
+Garoto, sabe quem sente medo?
+
+1391
+01:00:46,938 --> 01:00:47,772
+<i>Quem?</i>
+
+1392
+01:00:47,939 --> 01:00:49,274
+Bruce Wayne.
+
+1393
+01:00:49,441 --> 01:00:50,275
+<i>Sério?</i>
+
+1394
+01:00:50,442 --> 01:00:51,276
+É.
+
+1395
+01:00:51,443 --> 01:00:53,069
+O Bruno um dia me disse
+
+1396
+01:00:53,236 --> 01:00:56,489
+que o único jeito de afastar a tristeza
+
+1397
+01:00:56,656 --> 01:00:58,241
+é treinar boxe.
+
+1398
+01:00:58,742 --> 01:01:00,702
+E esse boxe
+
+1399
+01:01:00,869 --> 01:01:02,245
+é de beatbox.
+
+1400
+01:01:08,209 --> 01:01:09,210
+<i>Sinta</i>
+
+1401
+01:01:10,128 --> 01:01:12,130
+<i>Dick Grayson no microfone, vai</i>
+
+1402
+01:01:18,970 --> 01:01:21,014
+Caramba! Eu estou melhor mesmo.
+
+1403
+01:01:21,181 --> 01:01:22,265
+Legal. Solo do Batman.
+
+1404
+01:01:22,432 --> 01:01:24,642
+<i>Bat, bat, bat
+Ninguém me bate!</i>
+
+1405
+01:01:24,809 --> 01:01:26,311
+<i>Ninguém me bat!
+Bat...</i>
+
+1406
+01:01:26,478 --> 01:01:27,312
+O Bat-Fax!
+
+1407
+01:01:29,356 --> 01:01:31,149
+A cidade precisa de mim.
+
+1408
+01:01:31,316 --> 01:01:34,819
+Com licença.
+Pode chamar a comissária e mostrar isso?
+
+1409
+01:01:34,986 --> 01:01:35,653
+Batman.
+
+1410
+01:01:35,820 --> 01:01:37,322
+Pare de fazer isso.
+
+1411
+01:01:37,864 --> 01:01:39,699
+Enviei o Bat-Fax.
+
+1412
+01:01:40,492 --> 01:01:42,369
+Detesto dizer isso,
+mas tem razão.
+
+1413
+01:01:42,535 --> 01:01:43,536
+A cidade precisa de você.
+
+1414
+01:01:43,703 --> 01:01:44,788
+Isso. Solte-me.
+
+1415
+01:01:44,954 --> 01:01:47,665
+Só vou soltar você
+sob uma condição.
+
+1416
+01:01:47,874 --> 01:01:48,541
+Fale.
+
+1417
+01:01:48,792 --> 01:01:50,794
+Não pode agir sozinho.
+
+1418
+01:01:53,421 --> 01:01:54,839
+Beleza. Com quem vou agir?
+
+1419
+01:01:55,006 --> 01:01:57,467
+Fuzileiros Navais? Força da Raposa Cinco?
+Esquadrão Suicida?
+
+1420
+01:01:57,634 --> 01:01:58,718
+Não.
+
+1421
+01:01:58,885 --> 01:01:59,678
+Comigo.
+
+1422
+01:01:59,844 --> 01:02:00,845
+Quero ajudar também!
+
+1423
+01:02:01,012 --> 01:02:02,389
+Eu vou junto também.
+
+1424
+01:02:02,555 --> 01:02:04,265
+Alfred Pennyworth
+ao seu dispor, senhora.
+
+1425
+01:02:04,432 --> 01:02:05,975
+-Como você...
+-Alfred, tem que me tirar daqui.
+
+1426
+01:02:06,142 --> 01:02:09,270
+Senhor, as criaturas lá fora são
+diferentes de tudo que já vimos.
+
+1427
+01:02:09,437 --> 01:02:10,563
+Só para você.
+
+1428
+01:02:10,730 --> 01:02:12,607
+Você não sabe tudo que já vi.
+Nunca contei tudo.
+
+1429
+01:02:12,774 --> 01:02:15,402
+E nunca vai conseguir derrotá-los sozinho.
+
+1430
+01:02:15,568 --> 01:02:17,612
+E vai ser mais legal
+se fizermos isso juntos.
+
+1431
+01:02:17,779 --> 01:02:19,531
+O que é o pior que pode acontecer?
+
+1432
+01:02:19,698 --> 01:02:21,491
+De que tem tanto medo?
+
+1433
+01:02:21,658 --> 01:02:23,535
+Do que tenho mais medo?
+
+1434
+01:02:28,665 --> 01:02:30,834
+Vou ser sincero:
+de palhaços-cobra.
+
+1435
+01:02:31,001 --> 01:02:32,168
+Isso nem existe.
+
+1436
+01:02:32,335 --> 01:02:35,296
+Então não tenho medo de nada.
+
+1437
+01:02:35,463 --> 01:02:36,172
+Está bem.
+
+1438
+01:02:37,382 --> 01:02:38,216
+Prove.
+
+1439
+01:02:38,383 --> 01:02:40,010
+-Vou provar.
+-Ótimo.
+
+1440
+01:02:40,176 --> 01:02:42,470
+Sabe o que quer dizer
+o B-A-T do Batman?
+
+1441
+01:02:42,637 --> 01:02:43,346
+Não.
+
+1442
+01:02:43,513 --> 01:02:44,764
+Bom ajudante do time.
+
+1443
+01:02:44,931 --> 01:02:47,392
+Bom ajudante do time-man é
+meu nome completo.
+
+1444
+01:02:47,559 --> 01:02:49,352
+Eba! Vai ser um passeio em família.
+
+1445
+01:02:49,519 --> 01:02:51,104
+Não vai ser um passeio em família.
+
+1446
+01:02:51,271 --> 01:02:52,439
+Posso até usar meu uniforme.
+
+1447
+01:02:52,605 --> 01:02:54,691
+É, e a nossa sorte é
+que você deixou seu uniforme...
+
+1448
+01:02:54,858 --> 01:02:55,775
+Rasguei!
+
+1449
+01:02:56,276 --> 01:02:58,486
+Claro, debaixo da roupa.
+Que perfeito.
+
+1450
+01:02:58,653 --> 01:02:59,446
+Rasguei!
+
+1451
+01:02:59,612 --> 01:03:00,989
+Alfred, o que está fazendo?
+
+1452
+01:03:01,156 --> 01:03:02,115
+Saudade dos anos 60.
+
+1453
+01:03:02,282 --> 01:03:03,491
+Ei, o Espantalho pode ajudar?
+
+1454
+01:03:03,658 --> 01:03:05,201
+-Sim.
+-Ele está destruindo nossa cidade também!
+
+1455
+01:03:05,368 --> 01:03:07,495
+Deixem a gente dar uma ajudinha.
+
+1456
+01:03:07,662 --> 01:03:09,289
+Por que não usamos esses caras?
+
+1457
+01:03:09,456 --> 01:03:12,250
+Quer que eu use criminosos
+para lutar contra outros criminosos?
+
+1458
+01:03:12,417 --> 01:03:13,960
+Mas que péssima ideia!
+
+1459
+01:03:17,630 --> 01:03:19,507
+Beleza, gente. Este é o plano:
+
+1460
+01:03:19,674 --> 01:03:21,760
+-O Coringa levou o Projetor para a mansão.
+-Mansão Wayne.
+
+1461
+01:03:21,926 --> 01:03:23,386
+Isso. Obrigada, Batman.
+
+1462
+01:03:23,553 --> 01:03:24,763
+-Precisamos do Projetor.
+-Projetor.
+
+1463
+01:03:24,929 --> 01:03:26,556
+-Senão, não dá para mandar os monstros...
+-Os monstros.
+
+1464
+01:03:26,723 --> 01:03:28,433
+-...para a Zona Fantasma.
+-Zona Fantasma. É.
+
+1465
+01:03:28,600 --> 01:03:30,101
+Batman, não preciso
+que termine minhas...
+
+1466
+01:03:30,268 --> 01:03:31,311
+-Fábulas.
+-Não.
+
+1467
+01:03:31,478 --> 01:03:32,562
+-Faculdades.
+-Não.
+
+1468
+01:03:32,729 --> 01:03:34,439
+-Fábricas de coisas?
+-Não.
+
+1469
+01:03:34,898 --> 01:03:35,899
+Galera...
+
+1470
+01:03:36,066 --> 01:03:38,860
+O Batman está no Asilo Arkham.
+
+1471
+01:03:39,069 --> 01:03:40,737
+Peguem-no!
+
+1472
+01:03:40,904 --> 01:03:42,113
+Aqui, todo mundo.
+Segurem em mim.
+
+1473
+01:03:48,536 --> 01:03:49,788
+Temos que nos proteger!
+
+1474
+01:03:51,289 --> 01:03:53,750
+-O Coringa está de olho em nós.
+-Onde?
+
+1475
+01:03:53,917 --> 01:03:57,337
+Não, ele está literalmente
+com um olho gigante em nós.
+
+1476
+01:03:57,504 --> 01:03:59,381
+<i>Acho que pode ver
+cada movimento nosso!</i>
+
+1477
+01:04:00,757 --> 01:04:04,302
+Temos que destruir isso,
+ou jamais chegaremos à Mansão Wayne.
+
+1478
+01:04:04,469 --> 01:04:05,553
+Bat-Pai?
+
+1479
+01:04:05,720 --> 01:04:06,971
+Devia ver isso aqui.
+
+1480
+01:04:07,138 --> 01:04:08,682
+Inspeção de estrutura!
+
+1481
+01:04:09,432 --> 01:04:11,142
+Este prédio não passou no teste.
+
+1482
+01:04:18,733 --> 01:04:19,776
+Peguei.
+
+1483
+01:04:23,071 --> 01:04:24,280
+Isso é lava de verdade?
+
+1484
+01:04:26,116 --> 01:04:26,950
+Eu estou bem.
+
+1485
+01:04:27,117 --> 01:04:28,868
+PIPOCA
+
+1486
+01:04:29,160 --> 01:04:30,495
+Pode crer, é 100% lava.
+
+1487
+01:04:32,455 --> 01:04:34,207
+Pessoal, mande blocos para mim.
+
+1488
+01:04:34,374 --> 01:04:35,709
+-É pra já, senhor.
+<i>-Quero um 4 por 6. Rápido.</i>
+
+1489
+01:04:35,875 --> 01:04:36,710
+-Tome.
+<i>-Um cotovelo.</i>
+
+1490
+01:04:36,876 --> 01:04:37,544
+Cotovelo.
+
+1491
+01:04:51,599 --> 01:04:53,893
+<i>Isso. Consegui. Bem legal, não é?</i>
+
+1492
+01:04:54,060 --> 01:04:55,562
+<i>-Batman?
+-Sim?</i>
+
+1493
+01:04:55,729 --> 01:04:58,106
+Por que montou isso com só um assento?
+
+1494
+01:04:58,273 --> 01:05:00,358
+Porque só tenho um bumbum.
+
+1495
+01:05:00,525 --> 01:05:01,276
+O que...
+
+1496
+01:05:01,443 --> 01:05:02,110
+MANSÃO WAYNE NA ILHA WAYNE
+
+1497
+01:05:04,404 --> 01:05:05,155
+MANSÃO CORINGA NA ILHA CORINGA
+
+1498
+01:05:05,321 --> 01:05:06,614
+<i>Ei, Batman, adivinha!</i>
+
+1499
+01:05:06,781 --> 01:05:08,366
+Descobri um dos seus segredos.
+
+1500
+01:05:09,200 --> 01:05:11,161
+O que temos aqui, Batman?
+
+1501
+01:05:11,327 --> 01:05:13,371
+Parece uma coleção
+de comédias românticas.
+
+1502
+01:05:13,538 --> 01:05:14,289
+Qual é esta aqui?
+
+1503
+01:05:14,456 --> 01:05:15,290
+<i>Procura-se um Amor
+que Goste de Cachorros.</i>
+
+1504
+01:05:15,457 --> 01:05:16,541
+Procuram-se lágrimas.
+
+1505
+01:05:16,708 --> 01:05:17,417
+<i>Marley & Eu.</i>
+
+1506
+01:05:17,584 --> 01:05:18,710
+Adorei o final.
+
+1507
+01:05:19,711 --> 01:05:21,463
+<i>Escrito nas Estrelas?</i>
+
+1508
+01:05:21,629 --> 01:05:23,256
+Tem <i>Escrito nas Estrelas?
+</i>Amo esse filme!
+
+1509
+01:05:23,423 --> 01:05:25,175
+<i>Para quem é solitário, Batman,</i>
+
+1510
+01:05:25,342 --> 01:05:28,678
+<i>você curte bastante filmes
+sobre relacionamento.</i>
+
+1511
+01:05:28,845 --> 01:05:29,929
+E olha o que mais eu achei!
+
+1512
+01:05:30,430 --> 01:05:32,599
+<i>Todos os seus brinquedos maravilhosos.</i>
+
+1513
+01:05:34,976 --> 01:05:36,269
+<i>Accio...</i>
+
+1514
+01:05:36,436 --> 01:05:38,772
+tempestade!
+
+1515
+01:05:40,273 --> 01:05:41,483
+Segurem-se.
+
+1516
+01:05:47,572 --> 01:05:50,658
+<i>Gremlins, desmontem o avião agora!</i>
+
+1517
+01:05:51,910 --> 01:05:53,328
+Monstros feiosos à direita.
+
+1518
+01:05:54,954 --> 01:05:56,706
+<i>-Padre?
+</i>-Agora não, garoto.
+
+1519
+01:05:58,541 --> 01:06:00,126
+<i>Estou meio ocupado.</i>
+
+1520
+01:06:01,961 --> 01:06:04,005
+Tudo preparado. Disparar.
+
+1521
+01:06:07,926 --> 01:06:09,636
+-Batman?
+-O que foi, amigo?
+
+1522
+01:06:10,178 --> 01:06:11,513
+<i>Estamos chegando na Mansão Wayne?</i>
+
+1523
+01:06:11,680 --> 01:06:12,889
+<i>Por quê?</i>
+
+1524
+01:06:13,765 --> 01:06:15,141
+Seu número dois quer fazer número um.
+
+1525
+01:06:15,308 --> 01:06:17,477
+Eu mandei você fazer na prisão.
+
+1526
+01:06:17,644 --> 01:06:19,437
+-Eu tentei, mas Bane estava lá.
+-E?
+
+1527
+01:06:19,604 --> 01:06:21,898
+Ele tem uma cara
+de "sai do meu banheiro agora".
+
+1528
+01:06:22,065 --> 01:06:24,567
+<i>Eu sabia que era melhor não te dar água.</i>
+
+1529
+01:06:26,277 --> 01:06:28,029
+Consegue segurar
+que nem um homenzinho?
+
+1530
+01:06:28,613 --> 01:06:29,656
+Motor um detonado.
+
+1531
+01:06:29,823 --> 01:06:31,282
+Nada de mais. Vai dar tudo certo.
+
+1532
+01:06:31,449 --> 01:06:32,409
+Motor dois detonado.
+
+1533
+01:06:32,575 --> 01:06:33,785
+Acontece às vezes.
+
+1534
+01:06:33,952 --> 01:06:34,994
+<i>Perdemos o motor três.</i>
+
+1535
+01:06:35,161 --> 01:06:36,496
+Dá para viver sem.
+
+1536
+01:06:38,248 --> 01:06:39,708
+<i>Motor quatro.</i>
+
+1537
+01:06:41,459 --> 01:06:42,711
+Esse, eu tenho que consertar.
+
+1538
+01:06:42,877 --> 01:06:45,046
+Pelo menos o problema
+do banheiro passou.
+
+1539
+01:06:47,632 --> 01:06:49,259
+<i>Esperem aí
+enquanto eu conserto o motor.</i>
+
+1540
+01:06:49,426 --> 01:06:52,137
+Relaxe, Batman.
+Você conserta o Batwing, e eu piloto.
+
+1541
+01:06:52,303 --> 01:06:54,055
+Obrigado, Babi,
+mas tem piloto automático.
+
+1542
+01:06:54,222 --> 01:06:55,056
+Pronto.
+
+1543
+01:06:55,348 --> 01:06:57,142
+<i>Piloto automático?
+Isso é uma corda.</i>
+
+1544
+01:06:57,308 --> 01:07:00,520
+Exato. Seguinte, gente:
+Até eu voltar, a corda manda.
+
+1545
+01:07:00,729 --> 01:07:01,396
+EJETAR
+
+1546
+01:07:01,563 --> 01:07:02,605
+Valeu, corda.
+
+1547
+01:07:04,983 --> 01:07:07,736
+Deixe-me ver. Freio de disco aqui.
+
+1548
+01:07:07,902 --> 01:07:10,488
+Freio de motor a jato aqui, e...
+
+1549
+01:07:11,656 --> 01:07:13,700
+Fora daqui. Não, me dê...
+Não! Pare!
+
+1550
+01:07:13,867 --> 01:07:15,410
+Vamos, Patrão Dick.
+Temos que ajudá-lo.
+
+1551
+01:07:15,577 --> 01:07:16,578
+Estamos juntos, vovô!
+
+1552
+01:07:16,745 --> 01:07:17,829
+Soltem o meu <i>Padre!</i>
+
+1553
+01:07:17,996 --> 01:07:19,956
+Soltem-no, seus monstrinhos endiabrados.
+
+1554
+01:07:20,123 --> 01:07:23,251
+O que estão fazendo aqui?
+Mandei ficar na cabine.
+
+1555
+01:07:24,169 --> 01:07:26,046
+Você me desobedeceu.
+Está de castigo.
+
+1556
+01:07:26,212 --> 01:07:27,756
+Batman, você está de castigo.
+
+1557
+01:07:27,922 --> 01:07:30,216
+O quê? Alfred,
+tire-me desse castigo agora.
+
+1558
+01:07:30,383 --> 01:07:32,719
+Não. Só depois de tirar
+o castigo do Patrão Dick.
+
+1559
+01:07:34,095 --> 01:07:35,764
+Gente, todos fora do castigo!
+
+1560
+01:07:35,930 --> 01:07:36,890
+Temos um problema.
+
+1561
+01:07:37,057 --> 01:07:38,767
+-Senhor, cuidado com os...
+-O que está fazendo?
+
+1562
+01:07:45,190 --> 01:07:46,775
+Está bem, todo mundo sem castigo.
+
+1563
+01:07:47,525 --> 01:07:48,485
+Meu pai mandou em mim!
+
+1564
+01:07:48,651 --> 01:07:49,444
+Batman, posso ajudar você.
+
+1565
+01:07:49,611 --> 01:07:50,737
+Não. Proteja a corda.
+
+1566
+01:07:50,904 --> 01:07:52,364
+A corda está bem.
+
+1567
+01:07:52,530 --> 01:07:53,573
+Salve o Patrão Dick!
+
+1568
+01:07:53,740 --> 01:07:56,493
+Eu estou bem.
+É só fazer umas acrobacias...
+
+1569
+01:07:58,078 --> 01:07:59,162
+Não!
+
+1570
+01:08:05,043 --> 01:08:05,919
+Dick...
+
+1571
+01:08:09,673 --> 01:08:10,840
+Peguei!
+
+1572
+01:08:14,427 --> 01:08:16,429
+Segure, Alfred. Já estou chegando.
+
+1573
+01:08:17,931 --> 01:08:18,598
+Não!
+
+1574
+01:08:21,768 --> 01:08:23,645
+Alfred!
+
+1575
+01:08:32,570 --> 01:08:33,738
+Não!
+
+1576
+01:08:38,410 --> 01:08:39,911
+Não!
+
+1577
+01:08:41,121 --> 01:08:42,205
+Sai pra lá, corda!
+
+1578
+01:08:44,416 --> 01:08:45,542
+<i>Aguente firme!</i>
+
+1579
+01:08:59,389 --> 01:09:00,390
+Peguei!
+
+1580
+01:09:01,683 --> 01:09:02,809
+Barbara, viu isso?
+
+1581
+01:09:02,976 --> 01:09:04,436
+A Bat-Corda salvou o Alfred.
+
+1582
+01:09:04,644 --> 01:09:07,188
+Parabéns, corda.
+Nunca duvidei de você.
+
+1583
+01:09:07,355 --> 01:09:09,441
+<i>Na verdade, senhor,
+foi a Srta. Gordon.</i>
+
+1584
+01:09:09,607 --> 01:09:10,859
+Corda! Mentiu para mim!
+
+1585
+01:09:11,818 --> 01:09:14,320
+Espere aí. Então, sem você
+
+1586
+01:09:14,529 --> 01:09:15,780
+o Alfred viraria
+
+1587
+01:09:16,573 --> 01:09:17,907
+<i>panqueca?</i>
+
+1588
+01:09:18,116 --> 01:09:20,618
+Batman, confie em nós.
+
+1589
+01:09:20,785 --> 01:09:22,579
+Vamos conseguir.
+
+1590
+01:09:22,746 --> 01:09:24,789
+Sim, eu luto Gymkata.
+
+1591
+01:09:24,956 --> 01:09:25,665
+Espere, luta o quê?
+
+1592
+01:09:25,832 --> 01:09:27,542
+Uma arte marcial
+com base em acrobacias.
+
+1593
+01:09:27,834 --> 01:09:30,003
+Posso jogar os monstros
+dos anos 80 para fora.
+
+1594
+01:09:30,628 --> 01:09:31,379
+Está bem.
+
+1595
+01:09:31,838 --> 01:09:33,798
+<i>Naves inimigas na retaguarda.</i>
+
+1596
+01:09:33,965 --> 01:09:35,133
+Senhor, eu posso cuidar delas.
+
+1597
+01:09:35,300 --> 01:09:37,010
+Fui atirador da Força Aérea.
+
+1598
+01:09:37,177 --> 01:09:38,553
+Preparado, senhor!
+
+1599
+01:09:38,720 --> 01:09:39,596
+Boa. Adorei.
+
+1600
+01:09:39,763 --> 01:09:41,598
+Tive uma ideia. Vamos mudar a rota.
+
+1601
+01:09:41,765 --> 01:09:43,892
+<i>Quero que vá direto
+para o olho de fogo.</i>
+
+1602
+01:09:44,059 --> 01:09:44,809
+O quê?
+
+1603
+01:09:44,976 --> 01:09:46,853
+Barbara, confie em mim.
+
+1604
+01:09:47,604 --> 01:09:49,773
+Está bem. Vamos nessa.
+
+1605
+01:09:57,072 --> 01:09:58,698
+Monstro marinho gigante ali na frente!
+
+1606
+01:09:58,865 --> 01:09:59,866
+Estou vendo.
+
+1607
+01:10:01,409 --> 01:10:03,453
+-Chamamos atenção.
+-Estamos na mira.
+
+1608
+01:10:08,792 --> 01:10:10,043
+Agora eu pego você.
+
+1609
+01:10:14,631 --> 01:10:16,257
+Tome chumbo!
+
+1610
+01:10:16,424 --> 01:10:18,635
+Hora de educar,
+monstros malas sem alça!
+
+1611
+01:10:25,058 --> 01:10:26,351
+Prepare-se, Babi. É agora.
+
+1612
+01:10:26,518 --> 01:10:28,728
+Leve-nos para o meio do olho
+e espere o meu sinal.
+
+1613
+01:10:28,937 --> 01:10:29,896
+Pode ser agora?
+
+1614
+01:10:30,063 --> 01:10:31,690
+Dá para mandar o sinal agora?
+
+1615
+01:10:31,856 --> 01:10:32,816
+Quase lá.
+
+1616
+01:10:32,982 --> 01:10:34,818
+<i>Quase lá!</i>
+
+1617
+01:10:34,984 --> 01:10:35,735
+Fogo!
+
+1618
+01:10:36,194 --> 01:10:37,112
+Batman...
+
+1619
+01:10:37,278 --> 01:10:38,446
+O fogo está chegando quente!
+
+1620
+01:10:38,613 --> 01:10:39,656
+Quente!
+
+1621
+01:10:40,240 --> 01:10:41,700
+Agora, Barbara. Mergulhe!
+
+1622
+01:10:44,703 --> 01:10:46,454
+Meu olho!
+
+1623
+01:10:48,581 --> 01:10:49,416
+Sauron!
+
+1624
+01:10:49,582 --> 01:10:50,542
+ERRO
+SEM SINAL
+
+1625
+01:10:56,131 --> 01:10:57,590
+Não tem ninguém aqui.
+
+1626
+01:11:05,432 --> 01:11:07,684
+-É! Isso foi irado!
+-Conseguimos, pessoal!
+
+1627
+01:11:07,851 --> 01:11:10,228
+-Isso foi demais. Arrasamos, equipe!
+-Parabéns para nós!
+
+1628
+01:11:10,395 --> 01:11:11,604
+Isso foi incrível!
+
+1629
+01:11:11,771 --> 01:11:12,772
+Estou animadaço!
+
+1630
+01:11:12,939 --> 01:11:14,149
+Eu digo "animadaço".
+
+1631
+01:11:14,357 --> 01:11:16,484
+Tenho que admitir, Batman.
+Foi ótimo.
+
+1632
+01:11:16,651 --> 01:11:17,944
+-Você foi ótima.
+-Obrigada.
+
+1633
+01:11:18,111 --> 01:11:19,279
+<i>-E você foi ótimo.
+</i>-Adoro elogios.
+
+1634
+01:11:19,446 --> 01:11:21,197
+Você foi ótimo, e eu fui o máximo.
+
+1635
+01:11:21,364 --> 01:11:23,116
+Eu não quero me vangloriar, óbvio,
+
+1636
+01:11:23,283 --> 01:11:25,827
+mas só queria garantir
+que todos foram parabenizados.
+
+1637
+01:11:25,994 --> 01:11:27,495
+-Pois isso é bom.
+-É bom mesmo.
+
+1638
+01:11:27,662 --> 01:11:30,999
+Você teve uma boa ideia, e você,
+você também, e eu tive uma ótima ideia.
+
+1639
+01:11:31,291 --> 01:11:32,917
+Quer saber? Acho que,
+juntando tudo, eu vou botar...
+
+1640
+01:11:33,084 --> 01:11:34,627
+PLACAR DAS BOAS IDEIAS
+BATMAN: 5.678.483  O RESTO 0
+
+1641
+01:11:35,170 --> 01:11:36,588
+um.
+
+1642
+01:11:36,755 --> 01:11:37,964
+-Mentira!
+-Isso!
+
+1643
+01:11:38,173 --> 01:11:39,257
+Isso é muito bom.
+
+1644
+01:11:39,424 --> 01:11:40,925
+A melhor equipe de todas!
+
+1645
+01:11:41,092 --> 01:11:43,428
+Vamos tirar uma foto!
+Vai, galera, aperta aí.
+
+1646
+01:11:43,595 --> 01:11:44,429
+Calma um pouquinho.
+
+1647
+01:11:44,596 --> 01:11:46,556
+-Pose bonita!
+-Vou forçar os músculos. Vale a pena.
+
+1648
+01:11:46,723 --> 01:11:48,975
+-Todo mundo pronto?
+-Meu tanquinho não é brincadeira.
+
+1649
+01:11:49,142 --> 01:11:50,727
+Todo mundo diz "Bat-Família"!
+
+1650
+01:11:50,894 --> 01:11:51,978
+Bat-Família!
+
+1651
+01:11:52,812 --> 01:11:54,105
+Como ficou?
+
+1652
+01:11:55,273 --> 01:11:56,441
+<i>Olha só!</i>
+
+1653
+01:11:56,608 --> 01:11:57,984
+-Esplêndido.
+-Puxa.
+
+1654
+01:11:58,651 --> 01:12:00,278
+Não é que ficou legal?
+
+1655
+01:12:01,112 --> 01:12:03,323
+Galera,
+é a minha primeira foto em família.
+
+1656
+01:12:33,520 --> 01:12:34,688
+Ei, Bat-Pai...
+
+1657
+01:12:35,855 --> 01:12:36,690
+O que é isso?
+
+1658
+01:12:36,856 --> 01:12:39,109
+Eu só queria lhe dar um abração.
+
+1659
+01:12:39,275 --> 01:12:40,652
+Olha só...
+
+1660
+01:12:42,028 --> 01:12:44,030
+Batman, tudo bem?
+
+1661
+01:12:44,781 --> 01:12:46,449
+Tudo, sim.
+
+1662
+01:12:46,616 --> 01:12:48,743
+Somos só um grande e feliz
+
+1663
+01:12:48,910 --> 01:12:52,247
+grupo de pessoas
+que fizeram um ótimo trabalho juntas.
+
+1664
+01:12:53,873 --> 01:12:55,500
+Não conheço um jeito melhor de dizer.
+
+1665
+01:12:55,667 --> 01:12:56,334
+Legal.
+
+1666
+01:12:56,501 --> 01:12:58,003
+Então, gente, vamos lá!
+
+1667
+01:12:58,169 --> 01:12:59,796
+Pegar o Projetor do Coringa
+
+1668
+01:12:59,963 --> 01:13:02,048
+será a missão mais perigosa até agora.
+
+1669
+01:13:02,215 --> 01:13:03,633
+-Uma missão de batalha em família!
+-Isso.
+
+1670
+01:13:03,800 --> 01:13:06,511
+Peguem o que puderem do Apressado
+e deem uma olhada por aí,
+
+1671
+01:13:06,678 --> 01:13:09,097
+procurem água mineral ou algo assim,
+e depois entramos.
+
+1672
+01:13:09,264 --> 01:13:11,391
+-Agora mesmo, senhor.
+- É pra já, <i>padre.</i>
+
+1673
+01:13:16,479 --> 01:13:18,273
+Acho que preciso de sapatos de neve.
+
+1674
+01:13:18,440 --> 01:13:21,943
+Não precisa de sapatos de neve,
+mas pode pegar aquela lanterna?
+
+1675
+01:13:22,110 --> 01:13:23,194
+-Batman?
+<i>-Padre?</i>
+
+1676
+01:13:23,361 --> 01:13:24,237
+Senhor?
+
+1677
+01:13:24,404 --> 01:13:27,032
+O que é isso? Ei, Batman.
+
+1678
+01:13:27,198 --> 01:13:28,491
+Por favor, espere!
+
+1679
+01:13:28,658 --> 01:13:29,701
+Computador.
+
+1680
+01:13:31,661 --> 01:13:32,829
+<i>Sim, senhor?</i>
+
+1681
+01:13:32,996 --> 01:13:34,706
+Estou enviando coordenadas agora.
+
+1682
+01:13:36,082 --> 01:13:39,919
+Leve o Apressado para a vendinha de tacos
+na divisa de Gotham City e Blüdhaven.
+
+1683
+01:13:40,086 --> 01:13:40,879
+Não!
+
+1684
+01:13:41,046 --> 01:13:45,216
+Quero que compre para eles
+umas chimichangas e três Jarritos.
+
+1685
+01:13:45,383 --> 01:13:46,092
+Senhor!
+
+1686
+01:13:46,259 --> 01:13:49,220
+E deixe-os lá até esse ataque
+a Gotham City ser resolvido.
+
+1687
+01:13:49,387 --> 01:13:52,098
+<i>Padre,</i> por favor. Não faça isso.
+
+1688
+01:13:52,265 --> 01:13:54,309
+Batman, você precisa de nós!
+
+1689
+01:13:54,601 --> 01:13:56,519
+Quantas vezes tenho que dizer?
+
+1690
+01:13:57,145 --> 01:13:59,356
+O Batman trabalha sozinho.
+
+1691
+01:13:59,981 --> 01:14:01,608
+Não, temos que ficar juntos.
+
+1692
+01:14:02,984 --> 01:14:03,943
+Por favor.
+
+1693
+01:14:04,110 --> 01:14:05,820
+Ande, Apressado. Vá!
+
+1694
+01:14:06,905 --> 01:14:08,740
+-Vá embora daqui.
+-Batman.
+
+1695
+01:14:08,907 --> 01:14:09,991
+<i>-Padre!
+</i>-Vá logo!
+
+1696
+01:14:10,158 --> 01:14:11,326
+Por favor!
+
+1697
+01:14:11,534 --> 01:14:12,535
+Vá.
+
+1698
+01:14:12,702 --> 01:14:13,912
+Batman! Por favor, espere!
+
+1699
+01:14:14,079 --> 01:14:15,413
+Apressado, dispensado!
+
+1700
+01:14:15,580 --> 01:14:16,873
+<i>Está cometendo um erro.</i>
+
+1701
+01:14:17,040 --> 01:14:19,668
+<i>-Escute-me! Não faça isso!
+-Senhor, por favor.</i>
+
+1702
+01:14:19,834 --> 01:14:21,169
+<i>Não!</i>
+
+1703
+01:14:43,024 --> 01:14:45,151
+Procurando intrusos.
+
+1704
+01:14:45,318 --> 01:14:46,861
+Procurando intrusos.
+
+1705
+01:14:50,281 --> 01:14:51,199
+Oi, Morcego.
+
+1706
+01:14:51,366 --> 01:14:52,826
+O que você fez com a minha...
+
+1707
+01:14:52,992 --> 01:14:54,536
+Com a casa do Bruce Wayne?
+
+1708
+01:14:54,703 --> 01:14:57,497
+É melhor torcer para ele ser legal
+e não surtar com isso.
+
+1709
+01:14:57,664 --> 01:14:59,332
+Cadê seus amigos?
+
+1710
+01:14:59,499 --> 01:15:02,752
+Não preciso de amigos
+nem de ninguém para acabar com você.
+
+1711
+01:15:04,796 --> 01:15:06,214
+Tem certeza disso?
+
+1712
+01:15:06,381 --> 01:15:08,174
+Olhe no espelho, Batman.
+
+1713
+01:15:09,884 --> 01:15:12,554
+Quando o vi trabalhando
+com sua família de amigos,
+
+1714
+01:15:13,555 --> 01:15:15,223
+pensei que tivesse mudado.
+
+1715
+01:15:15,974 --> 01:15:16,850
+Mas não.
+
+1716
+01:15:17,017 --> 01:15:18,601
+Só fez afastá-los.
+
+1717
+01:15:22,063 --> 01:15:24,774
+Você fugiu de todas as pessoas
+da sua vida.
+
+1718
+01:15:24,941 --> 01:15:27,360
+Mas está sempre atrás de mim.
+
+1719
+01:15:27,569 --> 01:15:29,821
+É tudo por causa
+da palhaçada de arqui-inimigo?
+
+1720
+01:15:29,988 --> 01:15:31,489
+Não é, não.
+
+1721
+01:15:32,824 --> 01:15:34,034
+Agora não é mais.
+
+1722
+01:15:34,284 --> 01:15:35,285
+Arrasa, Coringa!
+
+1723
+01:15:35,452 --> 01:15:36,786
+É hora de recomeçar.
+
+1724
+01:15:36,953 --> 01:15:38,038
+<i>Ele não vale isso tudo.</i>
+
+1725
+01:15:38,204 --> 01:15:41,583
+Eu acho que, depois de 78 anos,
+eu mereço respeito!
+
+1726
+01:15:41,750 --> 01:15:43,585
+Isso mesmo. Respeito!
+
+1727
+01:15:44,169 --> 01:15:48,298
+Tem noção de que nunca
+
+1728
+01:15:48,465 --> 01:15:50,133
+falou para mim:
+
+1729
+01:15:50,300 --> 01:15:51,801
+"Coringa, eu odeio você"?
+
+1730
+01:15:51,968 --> 01:15:52,927
+Nunca.
+
+1731
+01:15:53,094 --> 01:15:56,348
+Estou começando
+a ficar irritado com você agora.
+
+1732
+01:15:56,514 --> 01:15:57,390
+Posso garantir.
+
+1733
+01:15:57,557 --> 01:15:59,934
+Irritado não é a mesma coisa.
+
+1734
+01:16:00,643 --> 01:16:02,562
+Escute, Batman.
+
+1735
+01:16:03,104 --> 01:16:04,856
+Eu
+
+1736
+01:16:05,023 --> 01:16:06,274
+odeio você.
+
+1737
+01:16:06,900 --> 01:16:08,151
+Que bonito.
+
+1738
+01:16:08,943 --> 01:16:10,070
+Agora, fale você.
+
+1739
+01:16:12,238 --> 01:16:13,239
+Eu também.
+
+1740
+01:16:17,077 --> 01:16:19,537
+Não quer! Não vai mudar.
+
+1741
+01:16:19,704 --> 01:16:22,374
+Não consegue.
+Não quer e não pode.
+
+1742
+01:16:22,582 --> 01:16:24,042
+Batman jamais mudará.
+
+1743
+01:16:24,209 --> 01:16:26,252
+Quer saber, querido?
+Acabe com isso.
+
+1744
+01:16:26,419 --> 01:16:28,546
+Esses lunáticos doentes estão certos.
+
+1745
+01:16:28,713 --> 01:16:29,673
+Sim, estamos!
+
+1746
+01:16:29,839 --> 01:16:32,092
+Não vou mais fazer parte
+
+1747
+01:16:32,258 --> 01:16:34,886
+de uma relação sozinho!
+
+1748
+01:16:35,053 --> 01:16:36,054
+<i>-Isso!
+</i>-De que está falando?
+
+1749
+01:16:36,221 --> 01:16:38,181
+-Nós terminamos!
+-Qual é o seu problema?
+
+1750
+01:16:38,348 --> 01:16:39,224
+A fila andou!
+
+1751
+01:16:39,391 --> 01:16:40,642
+Que ridículo.
+
+1752
+01:16:40,809 --> 01:16:42,560
+E para fechar bem,
+
+1753
+01:16:42,727 --> 01:16:45,730
+vou explodir Gotham City!
+
+1754
+01:16:45,897 --> 01:16:47,774
+Não, isso não é sério.
+
+1755
+01:16:47,982 --> 01:16:49,025
+<i>Wingardium Leviosa!</i>
+
+1756
+01:16:49,651 --> 01:16:50,735
+Não!
+
+1757
+01:16:50,902 --> 01:16:52,987
+Pela primeira vez, Batman.
+você tem razão.
+
+1758
+01:16:53,154 --> 01:16:55,407
+Não sou seu arqui-inimigo.
+
+1759
+01:16:55,573 --> 01:16:57,325
+Seu arqui-inimigo
+
+1760
+01:16:57,492 --> 01:16:58,660
+é você mesmo.
+
+1761
+01:16:58,868 --> 01:17:00,912
+<i>-Tchau, Batman.
+</i>-Calma, espere um pouco.
+
+1762
+01:17:01,454 --> 01:17:02,872
+<i>Arrasou, querido!</i>
+
+1763
+01:17:04,124 --> 01:17:05,375
+Pessoal, pegue a bomba. Vamos lá.
+
+1764
+01:17:05,542 --> 01:17:07,293
+Bomba. Vamos bombar.
+
+1765
+01:17:11,006 --> 01:17:11,923
+SUPERBOMBA CORINGA
+
+1766
+01:17:12,090 --> 01:17:14,217
+<i>Adeus, Gotham City!</i>
+
+1767
+01:17:26,146 --> 01:17:26,980
+<i>Oi!</i>
+
+1768
+01:17:28,565 --> 01:17:30,066
+Eu sinto muito.
+
+1769
+01:17:30,233 --> 01:17:31,568
+<i>A culpa é minha,
+eu sempre faço isso.</i>
+
+1770
+01:17:31,735 --> 01:17:33,945
+<i>Bem-vindo à Zona Fantasma, vilão.</i>
+
+1771
+01:17:34,112 --> 01:17:35,405
+De que está falando?
+
+1772
+01:17:35,572 --> 01:17:36,489
+Não sou vilão.
+
+1773
+01:17:36,698 --> 01:17:38,366
+<i>Mas está todo de preto,
+tem uma capa</i>
+
+1774
+01:17:38,533 --> 01:17:40,076
+<i>e usa uma máscara assustadora.</i>
+
+1775
+01:17:40,243 --> 01:17:40,994
+Mas não sou.
+
+1776
+01:17:41,161 --> 01:17:42,454
+<i>E ainda chutou a minha cara.</i>
+
+1777
+01:17:42,620 --> 01:17:44,539
+Escute, sou o Batman.
+
+1778
+01:17:44,873 --> 01:17:46,499
+<i>Você até fala como vilão.</i>
+
+1779
+01:17:46,708 --> 01:17:48,084
+Juro que sou do bem.
+
+1780
+01:17:48,335 --> 01:17:50,170
+<i>Está bem, Sr. Batman.</i>
+
+1781
+01:17:50,337 --> 01:17:52,005
+<i>Fique parado para eu examiná-lo.</i>
+
+1782
+01:17:52,672 --> 01:17:53,882
+<i>Analisando maldade.</i>
+
+1783
+01:17:54,257 --> 01:17:55,091
+<i>Sim, senhor?</i>
+
+1784
+01:17:55,258 --> 01:17:57,093
+<i>-Você é superágil, não é?
+-Eu sou, sim!</i>
+
+1785
+01:17:57,260 --> 01:17:59,262
+<i>E 110% descartável?</i>
+
+1786
+01:17:59,429 --> 01:18:01,181
+<i>Não sei o que quer dizer,
+mas pode ser.</i>
+
+1787
+01:18:01,348 --> 01:18:02,307
+<i>-Como foi, pai?
+-Medíocre.</i>
+
+1788
+01:18:02,474 --> 01:18:03,183
+<i>Isso!</i>
+
+1789
+01:18:03,350 --> 01:18:04,351
+<i>E não me chame de pai.</i>
+
+1790
+01:18:04,809 --> 01:18:05,810
+<i>Desculpe.</i>
+
+1791
+01:18:07,687 --> 01:18:10,231
+<i>Alfred, bote o garoto
+no primeiro jato para o orfanato.</i>
+
+1792
+01:18:10,982 --> 01:18:15,195
+<i>Mas ele não merece a chance de ter
+alguém para acolhê-lo sob suas asas</i>
+
+1793
+01:18:15,570 --> 01:18:18,406
+<i>como acolhi o senhor nas minhas?</i>
+
+1794
+01:18:18,740 --> 01:18:20,617
+<i>Escute, você não tem família.</i>
+
+1795
+01:18:20,950 --> 01:18:23,453
+<i>Então o que sabe
+sobre ter um filho adotivo?</i>
+
+1796
+01:18:27,248 --> 01:18:28,083
+<i>Batman!</i>
+
+1797
+01:18:28,917 --> 01:18:31,002
+<i>Nós temos que ficar juntos.</i>
+
+1798
+01:18:31,711 --> 01:18:32,796
+<i>Por favor.</i>
+
+1799
+01:18:35,090 --> 01:18:38,301
+<i>Coringa, você não é nada para mim.</i>
+
+1800
+01:18:40,887 --> 01:18:42,138
+<i>Nem você, nem ninguém.</i>
+
+1801
+01:18:47,060 --> 01:18:48,978
+<i>Você não é um vilão comum.</i>
+
+1802
+01:18:49,813 --> 01:18:52,273
+<i>Mas também não é do bem.</i>
+
+1803
+01:18:52,482 --> 01:18:53,608
+<i>-Batman?
+</i>-Padre?
+
+1804
+01:18:54,067 --> 01:18:55,694
+<i>Até abandonou seus amigos.</i>
+
+1805
+01:18:55,902 --> 01:18:56,611
+O quê?
+
+1806
+01:18:56,778 --> 01:18:58,488
+<i>Ande, Apressado. Vá.</i>
+
+1807
+01:18:58,655 --> 01:19:00,156
+<i>-Batman, não!
+-Não faça isso!</i>
+
+1808
+01:19:00,323 --> 01:19:01,700
+Abandonei? Não.
+
+1809
+01:19:01,866 --> 01:19:03,451
+Eu tentei protegê-los.
+
+1810
+01:19:03,618 --> 01:19:05,412
+<i>Afastando-os?</i>
+
+1811
+01:19:05,578 --> 01:19:06,788
+É.
+
+1812
+01:19:07,956 --> 01:19:10,458
+<i>São eles que você quer proteger?</i>
+
+1813
+01:19:13,670 --> 01:19:15,547
+<i>Computador, o Batman está em perigo.</i>
+
+1814
+01:19:15,714 --> 01:19:17,590
+<i>Por favor, Computador,
+leve-nos de volta!</i>
+
+1815
+01:19:17,757 --> 01:19:19,843
+<i>Você quer que o homem
+que o criou se machuque?</i>
+
+1816
+01:19:20,010 --> 01:19:20,677
+DESTINO:
+BLÜDHAVEN
+
+1817
+01:19:20,844 --> 01:19:21,511
+<i>Batman me programou para obedecer a ele.</i>
+
+1818
+01:19:21,678 --> 01:19:22,345
+ACIONAR MANUALMENTE
+
+1819
+01:19:22,554 --> 01:19:24,723
+<i>Mas ele não disse para não resgatá-lo.</i>
+
+1820
+01:19:24,889 --> 01:19:25,640
+O que eles estão fazendo?
+
+1821
+01:19:25,890 --> 01:19:27,100
+Anda, gente. Vamos embora.
+
+1822
+01:19:27,267 --> 01:19:29,477
+Gotham City não vai
+se explodir sozinha.
+
+1823
+01:19:30,478 --> 01:19:32,063
+<i>Ah, olá!</i>
+
+1824
+01:19:37,569 --> 01:19:39,821
+Computador, ativar método supersecreto.
+
+1825
+01:19:43,033 --> 01:19:43,867
+Segure!
+
+1826
+01:19:44,034 --> 01:19:44,784
+Não!
+
+1827
+01:19:44,951 --> 01:19:48,747
+Amigos, eles três são minhas últimas
+lembranças dolorosas do Batman.
+
+1828
+01:19:49,164 --> 01:19:49,956
+Corra!
+
+1829
+01:19:50,123 --> 01:19:51,332
+Venha, Alfred. Por aqui.
+
+1830
+01:19:51,499 --> 01:19:52,834
+Espere, cadê o Dick?
+
+1831
+01:19:53,001 --> 01:19:54,210
+<i>O baixinho? Ele está ali.</i>
+
+1832
+01:19:54,377 --> 01:19:56,212
+<i>Iniciando sistema operacional
+da Bat-Caverna.</i>
+
+1833
+01:19:56,379 --> 01:19:57,130
+O que ele está fazendo?
+
+1834
+01:19:57,297 --> 01:19:58,882
+<i>Tenho que salvar minha família!</i>
+
+1835
+01:19:59,049 --> 01:19:59,841
+Pense.
+
+1836
+01:20:00,008 --> 01:20:02,052
+-O que o Batman faria?
+-O quê?
+
+1837
+01:20:02,260 --> 01:20:03,887
+Já sei. Não obedeceria a ninguém.
+
+1838
+01:20:04,054 --> 01:20:04,721
+Seria mau com os outros.
+
+1839
+01:20:04,888 --> 01:20:05,555
+ASA NOTURNA
+
+1840
+01:20:05,722 --> 01:20:07,182
+Destruiria o máximo
+de coisas possível.
+
+1841
+01:20:07,349 --> 01:20:09,225
+Falaria com uma voz grossa bem grave
+
+1842
+01:20:09,476 --> 01:20:11,061
+e agiria sozinho.
+
+1843
+01:20:11,227 --> 01:20:12,228
+Garoto, não faça isso.
+
+1844
+01:20:12,437 --> 01:20:13,938
+<i>Baterias atômicas funcionando.</i>
+
+1845
+01:20:14,105 --> 01:20:15,065
+<i>Turbinas em ação.</i>
+
+1846
+01:20:15,231 --> 01:20:16,191
+Não faça o que eu faria!
+
+1847
+01:20:16,358 --> 01:20:17,817
+<i>Eu nem ensinei você a dirigir!</i>
+
+1848
+01:20:17,984 --> 01:20:19,736
+Espere um pouco, Moça-Bloco.
+
+1849
+01:20:19,903 --> 01:20:22,155
+Desculpe, mas tenho
+que voltar para lá e impedir isso.
+
+1850
+01:20:22,322 --> 01:20:24,866
+<i>Não posso soltar você.
+Meu chefe ficaria uma fera.</i>
+
+1851
+01:20:25,033 --> 01:20:26,576
+Sim, mas aposto
+que seu chefe iria gostar
+
+1852
+01:20:26,743 --> 01:20:28,661
+se conseguisse
+trazer os vilões de volta pra cá.
+
+1853
+01:20:29,245 --> 01:20:30,246
+<i>Iria mesmo.</i>
+
+1854
+01:20:30,413 --> 01:20:32,791
+Deixe-me tentar.
+Deixe-me voltar para ajudá-los.
+
+1855
+01:20:32,957 --> 01:20:34,918
+<i>Mas você já não tentou ajudar?</i>
+
+1856
+01:20:36,419 --> 01:20:37,962
+<i>Por aqui, Alfred.</i>
+
+1857
+01:20:39,547 --> 01:20:41,925
+<i>Você faz a mesma coisa
+de novo e de novo.</i>
+
+1858
+01:20:46,096 --> 01:20:47,597
+<i>O que vai mudar?</i>
+
+1859
+01:20:47,764 --> 01:20:48,890
+<i>Não!</i>
+
+1860
+01:20:50,767 --> 01:20:52,602
+Sei o que preciso fazer.
+
+1861
+01:20:52,769 --> 01:20:54,979
+Dê-me 24 horas, e voltarei.
+
+1862
+01:20:57,565 --> 01:20:59,275
+Tem que me deixar voltar para salvá-los.
+
+1863
+01:21:01,861 --> 01:21:02,862
+Farei o que você quiser.
+
+1864
+01:21:04,197 --> 01:21:04,948
+Por favor.
+
+1865
+01:21:05,115 --> 01:21:06,282
+<i>Exterminar!</i>
+
+1866
+01:21:06,491 --> 01:21:07,367
+Por favor.
+
+1867
+01:21:07,534 --> 01:21:10,120
+<i>Sim, mas preciso
+de todos os vilões de volta aqui.</i>
+
+1868
+01:21:10,286 --> 01:21:10,995
+Eu prometo.
+
+1869
+01:21:13,456 --> 01:21:15,667
+<i>E estou falando de todos eles.</i>
+
+1870
+01:21:17,127 --> 01:21:18,503
+Um destes botões tem
+que salvar meus amigos.
+
+1871
+01:21:18,670 --> 01:21:19,337
+BOTÃO DE LANÇAMENTO
+
+1872
+01:21:19,504 --> 01:21:20,588
+<i>Autodestruição ativada.</i>
+
+1873
+01:21:20,797 --> 01:21:21,673
+Auto o quê?
+
+1874
+01:21:23,008 --> 01:21:23,883
+Patrão Dick!
+
+1875
+01:21:24,050 --> 01:21:24,801
+Não!
+
+1876
+01:21:27,137 --> 01:21:27,846
+Dick!
+
+1877
+01:21:28,888 --> 01:21:30,807
+Olha quem voltou!
+
+1878
+01:21:32,350 --> 01:21:33,059
+O quê?
+
+1879
+01:21:42,152 --> 01:21:44,571
+Todos bem? Dick, Alfred, Barbara?
+
+1880
+01:21:44,738 --> 01:21:46,740
+<i>-Estão todos...
+</i>-Estamos bem, Batman.
+
+1881
+01:21:49,534 --> 01:21:52,829
+Olha, eu só queria pedir
+
+1882
+01:21:55,665 --> 01:21:57,334
+muita mesmo,
+
+1883
+01:21:58,376 --> 01:22:00,670
+muita, muita,
+
+1884
+01:22:02,255 --> 01:22:03,840
+muita, muita, muita,
+
+1885
+01:22:04,007 --> 01:22:05,342
+muita, muita...
+
+1886
+01:22:15,852 --> 01:22:16,770
+Desculpa?
+
+1887
+01:22:16,936 --> 01:22:19,022
+É. Consegui!
+
+1888
+01:22:21,941 --> 01:22:24,194
+Não sei por que
+se preocupou em voltar.
+
+1889
+01:22:27,197 --> 01:22:28,782
+<i>Eu tive</i>
+
+1890
+01:22:29,699 --> 01:22:30,700
+<i>medo.</i>
+
+1891
+01:22:31,659 --> 01:22:33,161
+O quê?
+
+1892
+01:22:34,704 --> 01:22:36,539
+Meu motivo para voltar
+
+1893
+01:22:37,207 --> 01:22:39,042
+foi o mesmo por que deixei vocês.
+
+1894
+01:22:42,128 --> 01:22:43,797
+Tive medo
+
+1895
+01:22:45,215 --> 01:22:46,841
+de sentir
+
+1896
+01:22:48,051 --> 01:22:50,470
+a dor que se sente
+
+1897
+01:22:51,888 --> 01:22:53,640
+quando se perde
+
+1898
+01:22:54,808 --> 01:22:57,477
+alguém próximo.
+
+1899
+01:23:05,068 --> 01:23:07,153
+Gotham precisa de nós.
+
+1900
+01:23:07,696 --> 01:23:10,824
+Então voltei para fazer isso.
+
+1901
+01:23:11,491 --> 01:23:12,325
+Vire.
+
+1902
+01:23:13,868 --> 01:23:15,870
+Vire? Como assim? Eu não...
+
+1903
+01:23:16,037 --> 01:23:17,539
+É para você virar.
+
+1904
+01:23:19,457 --> 01:23:22,127
+<i>Eu chamo de Babi-sinal.</i>
+
+1905
+01:23:22,293 --> 01:23:24,754
+<i>E vou apertar o botão
+para chamar você.</i>
+
+1906
+01:23:24,921 --> 01:23:28,925
+Porque salvar a cidade é
+importante demais para uma pessoa.
+
+1907
+01:23:29,092 --> 01:23:30,635
+Apertei.
+
+1908
+01:23:35,432 --> 01:23:37,767
+<i>O que me diz, comissa?</i>
+
+1909
+01:23:37,934 --> 01:23:40,603
+Quer vir comigo?
+
+1910
+01:23:41,187 --> 01:23:42,939
+Preciso da sua ajuda.
+
+1911
+01:23:44,274 --> 01:23:46,109
+Pensei que não fosse pedir.
+
+1912
+01:23:47,694 --> 01:23:50,321
+Estou muito orgulhoso do senhor.
+
+1913
+01:23:50,488 --> 01:23:54,534
+Mas ainda somos quatro
+contra o exército inteiro do Coringa.
+
+1914
+01:23:54,701 --> 01:23:56,703
+Por isso eu chamei um reforço.
+
+1915
+01:23:56,870 --> 01:23:58,872
+Aperte!
+
+1916
+01:24:01,458 --> 01:24:03,626
+Vimos seu sinal e viemos ajudar.
+
+1917
+01:24:03,960 --> 01:24:06,546
+O Coringa não quer nada com a gente,
+mas ainda queremos algo com ele.
+
+1918
+01:24:06,713 --> 01:24:08,965
+Nós vamos acabar com o Coringa.
+
+1919
+01:24:09,132 --> 01:24:11,176
+O Coringa disse
+coisas horríveis para nós.
+
+1920
+01:24:11,468 --> 01:24:13,053
+Você estava certa, Barbara.
+
+1921
+01:24:13,219 --> 01:24:16,139
+É preciso união, não um Batman.
+
+1922
+01:24:18,558 --> 01:24:20,518
+Certo, escute, pessoal.
+
+1923
+01:24:20,685 --> 01:24:24,314
+<i>Esses monstros querem
+destruir Gotham City.</i>
+
+1924
+01:24:24,481 --> 01:24:25,231
+<i>Isso mesmo.</i>
+
+1925
+01:24:25,398 --> 01:24:26,649
+<i>Precisamos de veículos irados.</i>
+
+1926
+01:24:26,816 --> 01:24:28,818
+<i>Um arsenal de armas avançadas.</i>
+
+1927
+01:24:28,985 --> 01:24:31,488
+Uniformes combinando
+com as nossas personalidades.
+
+1928
+01:24:31,654 --> 01:24:32,655
+Rasguei!
+
+1929
+01:24:32,822 --> 01:24:34,908
+E codinomes
+para usar nos walkie-talkies.
+
+1930
+01:24:35,075 --> 01:24:36,076
+Vamos lá.
+
+1931
+01:24:36,242 --> 01:24:37,535
+Seu nome é Lady Bat.
+
+1932
+01:24:37,702 --> 01:24:38,828
+-Lady Bat?
+<i>-Bat Lady?</i>
+
+1933
+01:24:38,995 --> 01:24:39,996
+-Não!
+<i>-El Batarina.</i>
+
+1934
+01:24:40,163 --> 01:24:40,830
+-Não. O quê?
+<i>-Torcedora-Bat?</i>
+
+1935
+01:24:40,997 --> 01:24:41,873
+FÃ CLUBE DO BATMAN
+
+1936
+01:24:42,040 --> 01:24:43,667
+Que tal um uniforme legal?
+
+1937
+01:24:43,833 --> 01:24:44,834
+Boa!
+
+1938
+01:24:45,001 --> 01:24:46,336
+O nome desse é Batgirl.
+
+1939
+01:24:46,544 --> 01:24:48,672
+Eu sou a Batgirl.
+Você pode ser o Batboy?
+
+1940
+01:24:48,838 --> 01:24:51,341
+E por último,
+uma estratégia de ataque coordenada
+
+1941
+01:24:51,508 --> 01:24:53,218
+e uma música de fundo bacana!
+
+1942
+01:24:53,385 --> 01:24:54,219
+Robin?
+
+1943
+01:24:54,844 --> 01:24:56,429
+Meu codinome de super-herói!
+
+1944
+01:24:56,596 --> 01:24:57,889
+Isso aí! Manda!
+
+1945
+01:24:58,056 --> 01:24:59,057
+Claro.
+
+1946
+01:25:01,184 --> 01:25:01,851
+Não!
+
+1947
+01:25:06,773 --> 01:25:07,857
+De jeito nenhum.
+
+1948
+01:25:10,860 --> 01:25:13,947
+Essa música me enche de raiva.
+
+1949
+01:25:14,114 --> 01:25:15,532
+Vamos usá-la!
+
+1950
+01:25:16,950 --> 01:25:19,035
+Preciso dos nomes de vocês
+e de seus superpoderes.
+
+1951
+01:25:19,244 --> 01:25:20,245
+Eu sou um gigante de barro!
+
+1952
+01:25:20,412 --> 01:25:22,080
+-Eu sou irritante.
+-Eu tenho um saco na cabeça.
+
+1953
+01:25:22,247 --> 01:25:23,373
+Eu tomo decisões imprevisíveis.
+
+1954
+01:25:23,540 --> 01:25:24,457
+Eu subo as apostas!
+
+1955
+01:25:24,624 --> 01:25:25,959
+Eu atiro ketchup.
+
+1956
+01:25:26,126 --> 01:25:27,544
+Ótimo! Orca.
+
+1957
+01:25:27,711 --> 01:25:29,295
+Eu sou uma baleia!
+
+1958
+01:25:29,462 --> 01:25:30,922
+Está tudo nos trinques!
+
+1959
+01:25:31,089 --> 01:25:32,132
+<i>Vamos, equipe!</i>
+
+1960
+01:25:35,051 --> 01:25:36,052
+Baleia, é!
+
+1961
+01:25:39,723 --> 01:25:40,765
+Silêncio.
+
+1962
+01:25:40,932 --> 01:25:43,143
+Quem está tocando
+esse som bacana?
+
+1963
+01:25:43,309 --> 01:25:45,395
+<i>-A gente!
+-Miau!</i>
+
+1964
+01:25:45,562 --> 01:25:46,896
+Batman?
+
+1965
+01:25:47,063 --> 01:25:48,815
+Exército maligno, pegue-os!
+
+1966
+01:25:49,733 --> 01:25:51,234
+Time Família de Gotham,
+
+1967
+01:25:51,401 --> 01:25:52,444
+<i>ativar!</i>
+
+1968
+01:25:52,610 --> 01:25:53,778
+Deixa comigo.
+
+1969
+01:25:56,114 --> 01:25:57,782
+Vamos lá.
+
+1970
+01:25:58,408 --> 01:25:59,784
+É!
+
+1971
+01:26:01,077 --> 01:26:01,911
+<i>Bombarda!</i>
+
+1972
+01:26:03,163 --> 01:26:04,497
+Esmaga!
+
+1973
+01:26:08,460 --> 01:26:10,086
+Batman, desative a bomba do Coringa.
+
+1974
+01:26:10,253 --> 01:26:11,588
+Eu pego o Projetor!
+
+1975
+01:26:12,088 --> 01:26:13,256
+<i>Entendido, Gordon.</i>
+
+1976
+01:26:14,466 --> 01:26:16,968
+Frio, Cara de Barro,
+acabem com esse cara.
+
+1977
+01:26:17,135 --> 01:26:18,803
+Estou passando!
+
+1978
+01:26:23,308 --> 01:26:24,934
+Alfred, bota para ferver!
+
+1979
+01:26:26,770 --> 01:26:29,773
+Botando, senhor.
+Pela rainha e pelo país!
+
+1980
+01:26:31,649 --> 01:26:33,151
+Foram unidos pelo reino!
+
+1981
+01:26:35,820 --> 01:26:36,863
+Robin, prepare-se.
+
+1982
+01:26:37,030 --> 01:26:38,990
+Vou lhe ensinar
+umas coisas de pai para filho.
+
+1983
+01:26:39,783 --> 01:26:41,117
+Primeiro: dirigir.
+
+1984
+01:26:41,284 --> 01:26:42,118
+Mãos em dez para as duas.
+
+1985
+01:26:42,285 --> 01:26:43,119
+Está bem.
+
+1986
+01:26:43,286 --> 01:26:45,872
+Agora voe! Vire à esquerda!
+
+1987
+01:26:46,706 --> 01:26:48,124
+Atropele os esqueletos.
+
+1988
+01:26:48,291 --> 01:26:49,626
+Agora suba a parede.
+
+1989
+01:26:51,127 --> 01:26:52,962
+-Boa direção.
+-Obrigado, <i>Padre.</i>
+
+1990
+01:26:54,673 --> 01:26:55,507
+É!
+
+1991
+01:26:56,633 --> 01:26:57,676
+Legal, Robin.
+
+1992
+01:26:57,842 --> 01:27:00,011
+Juntos, nós vamos bater
+tão feio nesses caras
+
+1993
+01:27:00,178 --> 01:27:01,638
+que palavras descrevendo o impacto
+
+1994
+01:27:01,805 --> 01:27:04,808
+vão aparecer
+espontaneamente no ar.
+
+1995
+01:27:04,974 --> 01:27:06,559
+É!
+
+1996
+01:27:11,189 --> 01:27:12,524
+Isso!
+
+1997
+01:27:16,319 --> 01:27:17,237
+Toca aqui!
+
+1998
+01:27:17,570 --> 01:27:19,698
+Pare de se mexer, sua Trouxa!
+
+1999
+01:27:19,906 --> 01:27:22,075
+Beleza, time. Vamos acabar com ele.
+
+2000
+01:27:22,742 --> 01:27:23,493
+Orca!
+
+2001
+01:27:23,660 --> 01:27:24,828
+Vamos, garota!
+
+2002
+01:27:25,370 --> 01:27:27,205
+Quer ver um truque de mágica?
+
+2003
+01:27:27,372 --> 01:27:29,165
+Vou fazer você sumir.
+
+2004
+01:27:29,332 --> 01:27:32,002
+<i>-Wingardium Levio...
+</i>-Miau.
+
+2005
+01:27:32,210 --> 01:27:34,212
+<i>Wingardium Levio...</i> Cale a boca!
+
+2006
+01:27:34,379 --> 01:27:35,338
+Não!
+
+2007
+01:27:35,505 --> 01:27:37,173
+<i>Bem-vindo à Zona Fantasma, vilão!</i>
+
+2008
+01:27:37,340 --> 01:27:38,341
+Droga!
+
+2009
+01:27:39,175 --> 01:27:40,593
+<i>Vamos lá, Bat-Time!</i>
+
+2010
+01:27:40,844 --> 01:27:42,220
+Batman, pense rápido!
+
+2011
+01:27:45,348 --> 01:27:47,058
+<i>Bem-vindo à Zona Fantasma, vilão!</i>
+
+2012
+01:27:47,225 --> 01:27:48,184
+Robin, segure.
+
+2013
+01:27:48,351 --> 01:27:49,102
+<i>Boa pegada.</i>
+
+2014
+01:27:49,269 --> 01:27:50,270
+É!
+
+2015
+01:27:52,355 --> 01:27:54,065
+<i>Não acredito. É!</i>
+
+2016
+01:27:54,274 --> 01:27:55,233
+Tome aí, vovô.
+
+2017
+01:27:57,277 --> 01:27:58,361
+Ei, Batman!
+
+2018
+01:28:01,865 --> 01:28:03,783
+Solte o meu <i>padre!</i>
+
+2019
+01:28:05,076 --> 01:28:06,619
+Acabou não sendo inútil.
+
+2020
+01:28:06,786 --> 01:28:08,705
+Acabe com isso, Batgirl!
+
+2021
+01:28:11,249 --> 01:28:13,209
+<i>Adiós,</i> tubarão.
+
+2022
+01:28:14,753 --> 01:28:17,547
+Ótimo, volto já.
+Vou desativar essa...
+
+2023
+01:28:30,602 --> 01:28:31,728
+É o fim de Gotham City!
+
+2024
+01:28:31,895 --> 01:28:33,396
+ÚLTIMAS NOTÍCIAS
+CATÁSTROFE EM GOTHAM!
+
+2025
+01:28:33,563 --> 01:28:36,107
+<i>Como previ, é o nosso fim!</i>
+
+2026
+01:28:37,400 --> 01:28:39,069
+Não é o fim. Eu resolvo.
+
+2027
+01:28:40,570 --> 01:28:41,821
+Todo mundo me segura.
+
+2028
+01:28:41,988 --> 01:28:43,114
+Certo.
+
+2029
+01:28:43,281 --> 01:28:45,909
+Vamos, gente.
+Temos que segurar esta cidade.
+
+2030
+01:28:48,411 --> 01:28:49,579
+Bat-Corda, não!
+
+2031
+01:28:49,788 --> 01:28:51,414
+Pessoal, corre!
+
+2032
+01:28:51,581 --> 01:28:53,583
+Não, temos que nos unir.
+
+2033
+01:28:53,750 --> 01:28:54,751
+Não é, Batman?
+
+2034
+01:28:54,918 --> 01:28:56,252
+Temos que usar a cabeça.
+
+2035
+01:28:56,419 --> 01:28:57,921
+Vamos montar algo juntos.
+
+2036
+01:28:58,088 --> 01:28:59,255
+<i>-Cabeça.
+-Nos unir.</i>
+
+2037
+01:28:59,422 --> 01:29:00,256
+<i>Montar algo.</i>
+
+2038
+01:29:00,423 --> 01:29:01,257
+<i>Juntos.</i>
+
+2039
+01:29:01,424 --> 01:29:02,592
+<i>-Montar.
+-Juntos.</i>
+
+2040
+01:29:02,759 --> 01:29:03,426
+<i>Juntos.</i>
+
+2041
+01:29:03,593 --> 01:29:04,928
+<i>Vamos montar algo juntos.</i>
+
+2042
+01:29:06,596 --> 01:29:07,514
+Já sei.
+
+2043
+01:29:07,681 --> 01:29:10,600
+Tem razão, Babi.
+Temos que nos unir.
+
+2044
+01:29:10,767 --> 01:29:11,976
+Literalmente.
+
+2045
+01:29:12,143 --> 01:29:13,520
+Robin, rápido, me levante.
+
+2046
+01:29:13,687 --> 01:29:14,604
+Pode vir, <i>Padre.</i>
+
+2047
+01:29:14,771 --> 01:29:16,815
+Nós vamos nos unir
+usando a cabeça
+
+2048
+01:29:16,981 --> 01:29:19,359
+e a arma mais poderosa de todas:
+
+2049
+01:29:19,526 --> 01:29:21,945
+tanquinho definido. Vamos nessa.
+
+2050
+01:29:22,112 --> 01:29:23,321
+-Miau.
+-Vamos nessa.
+
+2051
+01:29:23,530 --> 01:29:24,781
+-Pronto?
+-Vamos lá.
+
+2052
+01:29:24,948 --> 01:29:25,949
+Você aguenta, Alfred?
+
+2053
+01:29:26,116 --> 01:29:27,951
+Sim, senhor. Abdômen de aço.
+
+2054
+01:29:28,118 --> 01:29:28,952
+Ótimo!
+
+2055
+01:29:29,119 --> 01:29:30,120
+Agora incline,
+
+2056
+01:29:30,286 --> 01:29:32,455
+e eu seguro a outra ponta!
+
+2057
+01:29:33,456 --> 01:29:34,332
+Não!
+
+2058
+01:29:34,499 --> 01:29:36,209
+<i>-Batman, o que está acontecendo?
+-Você está bem?</i>
+
+2059
+01:29:36,793 --> 01:29:38,294
+Eu estou aqui.
+
+2060
+01:29:40,839 --> 01:29:41,715
+Coringa!
+
+2061
+01:29:41,881 --> 01:29:43,842
+<i>Por favor, ajude!</i>
+
+2062
+01:29:44,009 --> 01:29:45,677
+Não vou ajudar.
+
+2063
+01:29:45,844 --> 01:29:49,514
+Pelo menos, se a cidade for
+destruída, morrerei sabendo
+
+2064
+01:29:49,681 --> 01:29:51,474
+que sou seu arqui-inimigo!
+
+2065
+01:29:51,641 --> 01:29:53,685
+Eu tenho que morrer para saber.
+
+2066
+01:29:53,852 --> 01:29:56,896
+Cale a boca, Coringa!
+Se não houver Gotham,
+
+2067
+01:29:57,063 --> 01:29:59,232
+eu não tenho
+como lutar com você de novo.
+
+2068
+01:30:00,316 --> 01:30:01,651
+O quê?
+
+2069
+01:30:02,485 --> 01:30:04,904
+Você é meu motivo para acordar
+às quatro da tarde
+
+2070
+01:30:05,071 --> 01:30:07,657
+e puxar ferro até meu peito
+ficar todo dolorido.
+
+2071
+01:30:07,907 --> 01:30:09,492
+<i>Você é meu motivo para abrir mão</i>
+
+2072
+01:30:09,659 --> 01:30:12,871
+<i>de uma vida com bailarinas russas
+e supermodelos lindas.</i>
+
+2073
+01:30:13,496 --> 01:30:14,831
+E se não fosse você,
+
+2074
+01:30:14,998 --> 01:30:18,251
+eu não teria aprendido como estou ligado
+a todas essas pessoas.
+
+2075
+01:30:19,502 --> 01:30:20,337
+E a você.
+
+2076
+01:30:22,047 --> 01:30:24,591
+<i>Então, se me ajudar a salvar Gotham,</i>
+
+2077
+01:30:26,843 --> 01:30:28,595
+vai ajudar a nos salvar.
+
+2078
+01:30:29,596 --> 01:30:31,931
+Disse "nos salvar".
+
+2079
+01:30:32,182 --> 01:30:36,186
+Sim. Batman e Coringa.
+
+2080
+01:30:38,021 --> 01:30:39,689
+<i>O que me diz?</i>
+
+2081
+01:30:40,523 --> 01:30:42,525
+Já tinha me convencido
+no "cale a boca".
+
+2082
+01:30:44,361 --> 01:30:45,695
+Como vai seu tanquinho?
+
+2083
+01:30:45,862 --> 01:30:49,032
+Está mais para máquina de lavar.
+Por quê?
+
+2084
+01:30:49,199 --> 01:30:51,034
+Porque vai ter que fazer força.
+
+2085
+01:30:51,368 --> 01:30:52,744
+<i>Cidadãos de Gotham,</i>
+
+2086
+01:30:52,911 --> 01:30:57,749
+<i>precisamos que todos se juntem a nós
+e ajudem a reunir esta cidade.</i>
+
+2087
+01:31:23,900 --> 01:31:26,069
+Eu vou dizer logo de uma vez:
+
+2088
+01:31:26,236 --> 01:31:27,570
+Odeio você, Coringa.
+
+2089
+01:31:28,780 --> 01:31:30,657
+-Também odeio você.
+-Eu odeio mais.
+
+2090
+01:31:30,824 --> 01:31:32,575
+Eu odeio mais ainda.
+
+2091
+01:31:32,742 --> 01:31:34,577
+Eu odeio para sempre.
+
+2092
+01:31:35,161 --> 01:31:36,162
+Esplêndido!
+
+2093
+01:31:37,831 --> 01:31:38,998
+Conseguimos, pessoal!
+
+2094
+01:31:43,753 --> 01:31:46,089
+Bane está se sentindo
+feliz e amado.
+
+2095
+01:31:51,094 --> 01:31:52,178
+Padre,
+
+2096
+01:31:52,971 --> 01:31:54,097
+aonde vai?
+
+2097
+01:31:55,140 --> 01:31:56,766
+Fiz uma promessa.
+
+2098
+01:31:56,933 --> 01:31:58,935
+Tenho que voltar à Zona Fantasma.
+
+2099
+01:31:59,936 --> 01:32:01,021
+<i>Desculpe, garoto.</i>
+
+2100
+01:32:01,187 --> 01:32:03,148
+<i>Padre,</i> por favor.
+
+2101
+01:32:03,314 --> 01:32:05,316
+Não me chame de <i>Padre.</i>
+
+2102
+01:32:05,859 --> 01:32:07,277
+Está bem.
+
+2103
+01:32:07,819 --> 01:32:08,945
+Chame
+
+2104
+01:32:12,949 --> 01:32:14,117
+de pais.
+
+2105
+01:32:15,118 --> 01:32:18,038
+Meus dois pais são o mesmo pai.
+
+2106
+01:32:19,122 --> 01:32:21,875
+Mas os dois vão embora.
+
+2107
+01:32:23,001 --> 01:32:24,627
+Vai ficar tudo bem, garoto.
+
+2108
+01:32:26,212 --> 01:32:28,715
+Às vezes,
+perder pessoas faz parte da vida.
+
+2109
+01:32:29,549 --> 01:32:32,469
+Mas não quer dizer
+que deva afastar as outras.
+
+2110
+01:32:33,219 --> 01:32:36,139
+<i>Pessoas inteligentes
+me ensinaram isso.</i>
+
+2111
+01:32:37,015 --> 01:32:38,516
+<i>Minha figura paterna.</i>
+
+2112
+01:32:40,060 --> 01:32:42,562
+<i>Minha colega de trabalho platônica</i>
+
+2113
+01:32:42,729 --> 01:32:45,315
+<i>que é mulher, mas é só amiga.</i>
+
+2114
+01:32:46,983 --> 01:32:48,193
+<i>E você.</i>
+
+2115
+01:32:48,985 --> 01:32:50,320
+Mi hijo.
+
+2116
+01:32:50,987 --> 01:32:52,364
+<i>Em espanhol</i>
+
+2117
+01:32:53,156 --> 01:32:54,532
+<i>é "filho".</i>
+
+2118
+01:32:56,659 --> 01:32:58,411
+Essa é a minha família,
+
+2119
+01:32:59,662 --> 01:33:01,581
+mas é a sua família também.
+
+2120
+01:34:05,937 --> 01:34:07,147
+Você tem uma faca?
+
+2121
+01:34:07,313 --> 01:34:08,314
+Por quê?
+
+2122
+01:34:08,481 --> 01:34:12,068
+Alguém tem que cortar a tensão
+que rola entre nós imediatamente.
+
+2123
+01:34:13,403 --> 01:34:14,904
+Está bem, eu mereci.
+
+2124
+01:34:15,071 --> 01:34:16,489
+<i>-Oi.
+</i>-Espere um minuto.
+
+2125
+01:34:16,656 --> 01:34:17,574
+O que houve?
+
+2126
+01:34:17,741 --> 01:34:20,118
+Eu voltei, como eu disse.
+
+2127
+01:34:20,285 --> 01:34:24,581
+<i>Sabe, Sr. Batman, sendo um tijolo falante
+que trabalha na Zona Fantasma,</i>
+
+2128
+01:34:24,748 --> 01:34:27,250
+<i>a gente vê muita coisa doida.</i>
+
+2129
+01:34:27,417 --> 01:34:29,085
+<i>Mas finalmente vi um homem que,</i>
+
+2130
+01:34:29,252 --> 01:34:31,588
+<i>para fazer do mundo um lugar melhor,</i>
+
+2131
+01:34:31,755 --> 01:34:34,299
+<i>olhou para si e mudou.</i>
+
+2132
+01:34:35,425 --> 01:34:36,301
+Quem?
+
+2133
+01:34:36,801 --> 01:34:37,677
+<i>O Superman.</i>
+
+2134
+01:34:37,844 --> 01:34:38,595
+O quê?
+
+2135
+01:34:38,762 --> 01:34:40,013
+<i>Brincadeira. É você.</i>
+
+2136
+01:34:43,475 --> 01:34:45,769
+Bom, a gente se vê pelas ruas, Batman.
+
+2137
+01:34:45,935 --> 01:34:47,937
+Sim. Até a próxima, Coringa.
+
+2138
+01:34:48,104 --> 01:34:49,481
+Vamos, galera.
+
+2139
+01:34:49,647 --> 01:34:50,482
+Espere aí.
+
+2140
+01:34:50,648 --> 01:34:52,942
+Não vamos deixar
+os criminosos fugirem, certo?
+
+2141
+01:34:53,109 --> 01:34:54,611
+Qual é, comissa. Aceite.
+
+2142
+01:34:54,778 --> 01:34:56,780
+Eles não são páreo para nós quatro.
+
+2143
+01:34:56,946 --> 01:34:58,615
+Dê uma vantagem de meia hora.
+
+2144
+01:34:58,782 --> 01:35:01,326
+E não dá para combater o crime
+de barriga vazia.
+
+2145
+01:35:04,287 --> 01:35:05,497
+Computador!
+
+2146
+01:35:05,663 --> 01:35:06,873
+Chegamos.
+
+2147
+01:35:10,543 --> 01:35:11,670
+<i>Qual é a senha?</i>
+
+2148
+01:35:11,836 --> 01:35:13,505
+Homem de Ferro fraco!
+
+2149
+01:35:25,642 --> 01:35:28,478
+Quando eu lutei com o papai,
+mandei minhas melhores piadas.
+
+2150
+01:35:29,354 --> 01:35:30,313
+<i>Você</i>
+
+2151
+01:35:32,482 --> 01:35:33,817
+<i>me completa.</i>
+
+2152
+01:35:47,372 --> 01:35:50,417
+Santa foto de família, Batman. Adorei.
+
+2153
+01:35:57,382 --> 01:35:58,508
+<i>Branco.</i>
+
+2154
+01:35:58,675 --> 01:36:02,846
+<i>Todo filme importante acaba
+com uma tela branca.</i>
+
+2155
+01:36:03,388 --> 01:36:05,515
+<i>E amarrando pontas soltas.</i>
+
+2156
+01:36:05,682 --> 01:36:07,726
+Nós estamos chegando, Gotham City.
+
+2157
+01:36:07,892 --> 01:36:09,352
+<i>Como esses palhaços-cobra.</i>
+
+2158
+01:36:09,519 --> 01:36:10,520
+<i>Palhaços-cobra?</i>
+
+2159
+01:36:10,687 --> 01:36:11,521
+<i>Eu disse que existiam.</i>
+
+2160
+01:36:11,688 --> 01:36:13,898
+<i>Você prendeu perucas em cobras?</i>
+
+2161
+01:36:14,065 --> 01:36:15,942
+<i>-Talvez.
+-Isso é tão esquisito.</i>
+
+2162
+01:36:16,109 --> 01:36:17,694
+<i>Posso pôr a música que eu fiz
+para os créditos finais?</i>
+
+2163
+01:36:17,861 --> 01:36:18,695
+<i>De jeito nenhum.</i>
+
+2164
+01:36:18,862 --> 01:36:19,696
+<i>-Qual é.
+-Não!</i>
+
+2165
+01:36:19,863 --> 01:36:20,947
+<i>Deixe o garoto ouvir
+a música que ele quiser.</i>
+
+2166
+01:36:21,114 --> 01:36:22,699
+<i>-Não!
+-Por favor!</i>
+
+2167
+01:36:22,866 --> 01:36:23,783
+<i>-Não.
+</i>-Padre?
+
+2168
+01:36:25,035 --> 01:36:25,994
+<i>Está bem. Computador.</i>
+
+2169
+01:36:26,411 --> 01:36:27,412
+<i>Está bem, senhor.</i>
+
+2170
+01:36:28,580 --> 01:36:29,539
+"ÓTIMO. COMPUTADOR"
+OK SENHOR.
+
+2171
+01:36:29,706 --> 01:36:31,541
+<i>Reproduzindo a música pop
+feliz do Robin.</i>
+
+2172
+01:36:31,708 --> 01:36:34,919
+<i>Do tipo que deixa pais
+e diretores de estúdio felizes.</i>
+
+2173
+01:36:39,549 --> 01:36:41,426
+EI, ROBIN,
+SÃO 7H30!
+
+2174
+01:36:53,271 --> 01:36:54,564
+PAI
+
+2175
+01:36:54,731 --> 01:36:56,232
+FILHO
+
+2176
+01:36:56,399 --> 01:36:58,735
+PAI MAIS VELHO  PAI  FILHO
+
+2177
+01:36:58,943 --> 01:36:59,944
+Venha, pessoal!
+
+2178
+01:37:06,743 --> 01:37:08,244
+AMIGOS SÃO FAMÍLIA
+
+2179
+01:37:20,799 --> 01:37:21,466
+MELHOR AMIGO
+
+2180
+01:37:44,322 --> 01:37:44,989
+APOSTE NO PRETO
+
+2181
+01:37:45,156 --> 01:37:45,824
+ISSO É UM FATO.
+
+2182
+01:37:46,032 --> 01:37:47,283
+VENHA ROBIN
+ME DÊ COBERTURA
+
+2183
+01:37:53,289 --> 01:37:55,333
+AMIGOS
+
+2184
+01:37:55,500 --> 01:37:56,292
+MELHORES AMIGOS
+
+2185
+01:38:28,575 --> 01:38:29,534
+AMIZADE É O MELHOR
+
+2186
+01:38:43,256 --> 01:38:47,761
+LEGO(Registered Trademark) BATMAN - O FILME
+
+2187
+01:38:47,927 --> 01:38:50,388
+<i>Puxa, foi divertido!</i>
+
+2188
+01:38:50,555 --> 01:38:52,932
+<i>Espero que ninguém tenha
+filmado isso.</i>
+
+2189
+01:38:53,099 --> 01:38:55,685
+Deixe-me ver. Isso está ligado.
+Está gravando.
+
+2190
+01:44:12,836 --> 01:44:15,922
+LEGO(Registered Trademark) BATMAN - O FILME
+
+2191
+01:44:23,847 --> 01:44:25,849
+Tradução: Paulo Frederico Costa
+
