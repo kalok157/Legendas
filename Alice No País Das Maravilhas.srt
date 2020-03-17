@@ -1,4369 +1,4255 @@
 1
-00:00:47,276 --> 00:00:49,569
-
+00:00:16,476 --> 00:00:18,520
+ALICE NO PAÍS DAS MARAVILHAS
 
 2
-00:00:52,333 --> 00:00:56,755
-ALICE NO PAÍS
-DAS MARAVILHAS
+00:00:18,603 --> 00:00:22,941
+<i>Alice, o teu país</i>
 
 3
-00:00:56,756 --> 00:00:59,338
-
+00:00:23,024 --> 00:00:27,529
+<i>Maravilhoso e tão feliz</i>
 
 4
-00:00:59,339 --> 00:01:01,883
-
+00:00:27,612 --> 00:00:31,199
+<i>Onde ele está? Quero saber</i>
 
 5
-00:01:01,884 --> 00:01:04,784
-
+00:00:31,282 --> 00:00:35,829
+<i>Porém ninguém me diz</i>
 
 6
-00:01:04,785 --> 00:01:07,885
+00:00:35,912 --> 00:00:40,166
+<i>Alice, o teu país</i>
 
 7
-00:01:07,886 --> 00:01:11,171
-
+00:00:40,250 --> 00:00:44,045
+<i>Maravilhoso e tão feliz</i>
 
 8
-00:01:11,172 --> 00:01:14,071
+00:00:44,129 --> 00:00:48,049
+<i>Dizem que só se pode ver</i>
 
 9
-00:01:14,072 --> 00:01:16,975
-Charles, finalmente
-você ficou inSano.
+00:00:48,133 --> 00:00:53,138
+<i>Nos sonhos infantis</i>
 
 10
-00:01:16,976 --> 00:01:19,776
--Este empreendimento é impossível!
--Para alguns...
+00:00:53,221 --> 00:00:56,891
+<i>Onde ele está?</i>
 
 11
-00:01:19,777 --> 00:01:22,618
-Cavalheiros, a única forma
-de chegar ao impossível
+00:00:56,975 --> 00:01:00,937
+<i>Quem me dera</i>
 
 12
-00:01:22,619 --> 00:01:24,577
-é acreditar
-que é possível.
+00:01:01,020 --> 00:01:04,649
+<i>Poder também sonhar</i>
 
 13
-00:01:24,578 --> 00:01:28,043
--Isso pode te arruinar!
--Correrei o risco.
+00:01:04,733 --> 00:01:08,862
+<i>Pois só quem sonha</i>
 
 14
-00:01:28,044 --> 00:01:30,798
-Imagine fazer negócios
-em Rangoon,
+00:01:08,945 --> 00:01:13,658
+<i>Teu país pode alcançar</i>
 
 15
-00:01:30,799 --> 00:01:33,576
-Bangkok, Chicago.
+00:01:15,452 --> 00:01:21,541
+<i>Alice, o teu país</i>
 
 16
-00:01:38,428 --> 00:01:40,555
-O pesadelo novamente?
+00:01:21,624 --> 00:01:26,629
+<i>Maravilhoso e tão feliz</i>
 
 17
-00:01:45,450 --> 00:01:46,777
-Não demorarei.
+00:01:26,713 --> 00:01:32,177
+<i>Ah, quem me dera um dia achar</i>
 
 18
-00:01:48,393 --> 00:01:50,548
-Estou caindo.
+00:01:33,386 --> 00:01:40,685
+<i>O teu país</i>
 
 19
-00:01:50,549 --> 00:01:52,984
-Dentro de um buraco negro.
+00:01:56,242 --> 00:01:59,788
+queriam líderes,
+e ultimamente já se tinham
 
 20
-00:01:52,985 --> 00:01:56,750
-Então, vejo criaturas estranhas.
+00:01:59,871 --> 00:02:04,167
+acostumado a usurpadores e a conquistas.
 
 21
-00:01:56,751 --> 00:01:59,131
-Que tipo de criaturas?
+00:02:04,250 --> 00:02:10,131
+Edwin e Morcar, os Condes de Mercia
+e Northumbria estavam a seu favor,
 
 22
-00:01:59,132 --> 00:02:04,068
-Tem um pássaro Dodô,
-um coelho de colete,
+00:02:10,215 --> 00:02:12,550
+e até mesmo Stigand..."
 
 23
-00:02:04,069 --> 00:02:08,311
--e um gato que sorri.
--Não sabia que gatos sorriam.
+00:02:12,634 --> 00:02:14,385
+Alice.
 
 24
-00:02:08,312 --> 00:02:10,599
-Nem eu.
+00:02:15,678 --> 00:02:16,930
+Estou ouvindo.
 
 25
-00:02:10,600 --> 00:02:14,300
-E tem uma lagarta azul.
+00:02:17,013 --> 00:02:20,308
+"E até mesmo Stigand,
+o Arcebispo de Canterbury,
 
 26
-00:02:14,301 --> 00:02:17,101
-Uma lagarta azul?
+00:02:20,391 --> 00:02:25,188
+concordou em encontrar-se com
+William e oferecer-lhe a coroa."
 
 27
-00:02:19,002 --> 00:02:22,286
-Acha que estou enlouquecendo?
+00:02:25,271 --> 00:02:28,274
+"A conduta de William
+era inicialmente..."
 
 28
-00:02:26,061 --> 00:02:27,822
-Acho que sim.
+00:02:28,358 --> 00:02:29,734
+Alice.
 
 29
-00:02:28,338 --> 00:02:32,268
-Você está louca, maluca,
-perdeu a razão.
+00:02:29,818 --> 00:02:32,237
+Por favor, preste atenção
+à sua lição de história.
 
 30
-00:02:32,559 --> 00:02:35,294
-Mas vou te contar um segredo.
+00:02:32,320 --> 00:02:35,907
+Desculpe. Mas como é
+que alguém pode prestar atenção
 
 31
-00:02:35,295 --> 00:02:37,905
-As melhores pessoas são.
+00:02:36,032 --> 00:02:38,076
+a um livro sem figuras?
 
 32
-00:02:37,906 --> 00:02:41,606
-É só um sonho, Alice.
-Nada pode te acontecer lá.
+00:02:38,159 --> 00:02:44,165
+Minha querida, há muitos bons livros
+neste mundo que não contém figuras.
 
 33
-00:02:41,607 --> 00:02:45,007
-Mas se ficar muito assustada,
-você sempre pode acordar...
+00:02:44,249 --> 00:02:45,917
+Neste mundo, só se for.
 
 34
-00:02:45,008 --> 00:02:46,308
-Assim.
+00:02:46,000 --> 00:02:49,921
+Mas no meu mundo os livros não
+teriam nada além de figuras.
 
 35
-00:02:55,077 --> 00:02:58,168
-TREZE ANOS DEPOIS
+00:02:50,004 --> 00:02:53,258
+Seu mundo? Ora, que absurdo.
 
 36
-00:03:06,241 --> 00:03:08,009
-Temos que ir?
+00:02:53,341 --> 00:02:56,010
+- Absurdo?
+- Mais uma vez, do começo.
 
 37
-00:03:09,076 --> 00:03:11,811
-Duvido que percebam
-se não formos.
+00:02:56,094 --> 00:02:57,595
+É isso, Dinah.
 
 38
-00:03:11,812 --> 00:03:13,256
-Eles perceberão.
+00:02:58,513 --> 00:03:02,225
+Se eu tivesse um mundo só meu,
+ele seria feito só de absurdos.
 
 39
-00:03:16,305 --> 00:03:18,111
-Onde está o seu espartilho?
+00:03:02,308 --> 00:03:06,729
+Nada seria o que é,
+pois tudo seria o que não é.
 
 40
-00:03:23,606 --> 00:03:26,407
--E sem meias.
--Sou contra elas.
+00:03:06,855 --> 00:03:10,775
+E ao contrário, o que é, não seria.
 
 41
-00:03:26,408 --> 00:03:28,208
-Mas não está
-apropriadamente vestida.
+00:03:10,859 --> 00:03:14,028
+E o que não seria, seria. Não é?
 
 42
-00:03:28,209 --> 00:03:30,741
-Quem diz o que é apropriado?
+00:03:15,864 --> 00:03:19,450
+No meu mundo, você não diria "miau".
 
 43
-00:03:30,742 --> 00:03:34,107
-E se falarem que é apropriado usar
-um bacalhau na sua cabeça,
+00:03:19,534 --> 00:03:22,453
+Você diria: "Sim, Srta. Alice."
 
 44
-00:03:34,108 --> 00:03:36,516
--você o usaria?
--Alice...
+00:03:23,288 --> 00:03:26,457
+Isso mesmo.
+Você seria como uma pessoa, Dinah.
 
 45
-00:03:36,517 --> 00:03:39,138
-Para mim,
-espartilho é como um bacalhau.
+00:03:26,541 --> 00:03:29,002
+E todos os outros animais também.
 
 46
-00:03:39,139 --> 00:03:40,797
-Por favor, hoje não.
+00:03:29,085 --> 00:03:30,753
+Ora, no meu mundo...
 
 47
-00:03:41,713 --> 00:03:43,713
-Papai acharia engraçado.
+00:03:30,837 --> 00:03:37,302
+<i>Meu gatinho
+Ia ter um lindo Castelinho</i>
 
 48
-00:03:45,314 --> 00:03:47,461
-Me desculpe.
+00:03:37,385 --> 00:03:43,516
+<i>E andar todo bem vestidinho</i>
 
 49
-00:03:47,462 --> 00:03:51,515
-Estou cansada.
-Não dormi bem noite passada.
+00:03:43,600 --> 00:03:48,187
+<i>Nesse mundo só meu</i>
 
 50
-00:03:51,516 --> 00:03:55,560
--Tendo pesadelos de novo?
--Só um.
+00:03:48,271 --> 00:03:54,611
+<i>Minhas flores
+Quanta coisa eu não diria às flores</i>
 
 51
-00:03:55,561 --> 00:03:59,063
-É sempre o mesmo
-desde que me lembro.
+00:03:54,694 --> 00:03:58,823
+<i>Contaria histórias para as flores</i>
 
 52
-00:03:59,064 --> 00:04:01,618
-Acha que é normal?
+00:03:58,948 --> 00:04:05,163
+<i>Se eu vivesse nesse mundo só meu</i>
 
 53
-00:04:01,619 --> 00:04:04,019
-As pessoas não têm
-sonhos diferentes?
+00:04:05,246 --> 00:04:07,498
+<i>Passarinhos</i>
 
 54
-00:04:05,139 --> 00:04:06,820
-Não sei.
+00:04:07,582 --> 00:04:11,461
+<i>Onde estão vocês, meus passarinhos?</i>
 
 55
-00:04:14,404 --> 00:04:18,402
-Pronto.
-Está linda.
+00:04:11,878 --> 00:04:17,091
+<i>Vocês iam ter milhões de ninhos</i>
 
 56
-00:04:18,403 --> 00:04:20,205
-Agora, que tal um sorriso?
+00:04:17,175 --> 00:04:22,680
+<i>Nesse mundo só meu</i>
 
 57
-00:04:36,821 --> 00:04:39,835
-Finalmente.
-Achamos que nunca chegariam.
+00:04:22,764 --> 00:04:27,518
+<i>Poderia num regato a rir</i>
 
 58
-00:04:39,836 --> 00:04:43,136
-Alice, Hamish te espera
-para dançar.
+00:04:27,602 --> 00:04:32,690
+<i>Ouvir cantar uma canção sem fim</i>
 
 59
-00:04:43,137 --> 00:04:44,737
-Vá.
+00:04:33,691 --> 00:04:39,948
+<i>Quem me dera que ele fosse assim</i>
 
 60
-00:04:47,843 --> 00:04:49,943
-Notou que já passou
-das quatro horas?
+00:04:40,031 --> 00:04:48,206
+<i>Maravilhosamente só pra mim</i>
 
 61
-00:04:49,944 --> 00:04:51,943
-Agora teremos
-que apressar tudo.
+00:05:01,344 --> 00:05:04,055
+É só um coelho de colete e de relógio.
 
 62
-00:04:51,944 --> 00:04:54,444
--Lamento.
--Não importa.
+00:05:04,180 --> 00:05:06,766
+Ai, os meus bigodes. É tarde.
 
 63
-00:04:58,386 --> 00:04:59,738
-Perdoe minha esposa.
+00:05:06,849 --> 00:05:10,645
+Isso é estranho. Para o que
+um coelho pode estar atrasado?
 
 64
-00:04:59,739 --> 00:05:02,640
-Ela está planejando esse romance
-há mais de 20 anos.
+00:05:10,728 --> 00:05:12,772
+Ei, senhor.
 
 65
-00:05:03,675 --> 00:05:08,694
--Se Charles estivesse aqui.
--Minhas condolências.
+00:05:12,855 --> 00:05:15,441
+<i>É tarde, e tarde,
+Tão tarde até que arde</i>
 
 66
-00:05:08,695 --> 00:05:10,900
-Frequentemente
-penso no seu marido.
+00:05:15,525 --> 00:05:18,319
+<i>Ai, ai, meu deus, alô, adeus
+E tarde, é tarde, é tarde.</i>
 
 67
-00:05:10,901 --> 00:05:13,401
-Ele era, verdadeiramente,
-um homem de visão.
+00:05:18,403 --> 00:05:22,198
+Deve ser uma coisa muito importante,
+como uma festa, por exemplo.
 
 68
-00:05:14,389 --> 00:05:18,089
-Espero que não ache
-que me aproveitei de sua desgraça.
+00:05:22,281 --> 00:05:24,325
+Sr. Coelho. Espere.
 
 69
-00:05:18,090 --> 00:05:19,690
-Claro que não.
+00:05:24,409 --> 00:05:28,329
+<i>Não, não, não, eu tenho pressa
+Eu tenho pressa à beça</i>
 
 70
-00:05:19,691 --> 00:05:21,949
-Fico feliz
-que tenha comprado a empresa.
+00:05:28,413 --> 00:05:31,833
+<i>Ai, ai, meu deus, alô, adeus
+E tarde, é tarde, é tarde</i>
 
 71
-00:05:22,850 --> 00:05:26,850
-Fui tolo por não ter investido
-na época, na louca aventura dele.
+00:05:31,916 --> 00:05:36,087
+Puxa.
+Que lugar esquisito para uma festa.
 
 72
-00:05:27,751 --> 00:05:29,931
-Charles também pensou isso.
+00:05:37,547 --> 00:05:42,427
+Não devíamos estar fazendo isso.
 
 73
-00:05:48,681 --> 00:05:51,816
-Hamish, nunca se cansa
-de dançar quadrilha?
+00:05:43,678 --> 00:05:48,349
+Afinal, não fomos convidadas
 
 74
-00:05:51,817 --> 00:05:54,682
-Ao contrário,
-acho revigorante.
+00:05:49,350 --> 00:05:52,812
+e a curiosidade
+pode não dar em boa coisa.
 
 75
-00:06:00,856 --> 00:06:02,627
--Eu te divirto?
--Não.
+00:05:57,025 --> 00:06:00,236
+Adeus, Dinah.
+Adeus.
 
 76
-00:06:03,328 --> 00:06:05,028
-Eu tive uma visão súbita.
+00:06:06,909 --> 00:06:12,957
+Depois disso, rolar as escadas
+não vai ser mais problema pra mim.
 
 77
-00:06:05,029 --> 00:06:08,219
-De todas as damas de calças
-e os cavalheiros de vestido.
+00:06:49,827 --> 00:06:55,625
+Minha nossa. E se eu cair,
+e passar pelo centro da Terra
 
 78
-00:06:08,820 --> 00:06:11,728
-Seria melhor
-não compartilhar suas visões.
+00:06:57,502 --> 00:07:01,422
+e sair do outro lado onde as pessoas
+andam de cabeça para baixo?
 
 79
-00:06:11,729 --> 00:06:13,853
-Na dúvida,
-permaneça em silêncio.
+00:07:01,506 --> 00:07:04,175
+Mas isso é bobagem. Ninguém...
 
 80
-00:06:22,282 --> 00:06:25,907
-Desculpe-nos, a Srtª Kingsley
-está distraída hoje.
+00:07:09,972 --> 00:07:14,018
+Sr. Coelho. Espere. Por favor.
 
 81
-00:06:25,908 --> 00:06:29,808
--Onde está sua cabeça?
--Pensava em como seria voar.
+00:07:30,952 --> 00:07:33,621
+Que coisa. Que coisa.
 
 82
-00:06:30,494 --> 00:06:33,609
-Por que perde seu tempo
-pensando em algo tão impossível?
+00:07:39,127 --> 00:07:40,711
+Queira me desculpar.
 
 83
-00:06:33,610 --> 00:06:34,910
-Por que não?
+00:07:42,505 --> 00:07:45,258
+Tudo bem, mas você me deu
+uma bela amassada.
 
 84
-00:06:34,911 --> 00:06:37,329
-Meu pai disse que, às vezes,
-ele acreditava
+00:07:45,341 --> 00:07:48,970
+- Eu estava seguindo...
+- Essa é boa, né? Maçaneta amassada.
 
 85
-00:06:37,330 --> 00:06:40,193
-em seis coisas impossíveis
-antes do café da manhã.
+00:07:49,053 --> 00:07:51,639
+Por favor, senhor.
 
 86
-00:06:42,817 --> 00:06:44,117
-Vamos.
+00:07:51,722 --> 00:07:54,142
+Uma bela girada merece outra.
 
 87
-00:06:46,551 --> 00:06:50,118
-Alice, encontre-me no gazebo
-daqui a exatos 10 minutos.
+00:07:54,225 --> 00:07:57,603
+- O que posso fazer por você?
+- Estou procurando um coelho branco.
 
 88
-00:06:52,105 --> 00:06:53,905
-Temos um segredo para contar.
+00:07:57,687 --> 00:08:00,398
+Então, se não se importa...
 
 89
-00:06:53,906 --> 00:06:56,006
-Se me contarem,
-não será mais segredo.
+00:08:01,607 --> 00:08:03,818
+AI¡ está ele.
+Eu preciso passar.
 
 90
-00:06:56,007 --> 00:06:58,007
--Melhor não.
--Decidimos que sim.
+00:08:03,901 --> 00:08:07,155
+Sinto muito. Você e muito grande.
+E simplesmente impassável.
 
 91
-00:06:58,008 --> 00:07:00,013
-Se contarmos,
-não ficará surpresa.
+00:08:07,238 --> 00:08:11,242
+- Você quer dizer impossível.
+- Não, impassável. Nada é impossível.
 
 92
-00:07:00,014 --> 00:07:02,349
--Ficará surpresa?
--Não se me contarem.
+00:08:12,326 --> 00:08:15,663
+- Tente a garrafa na mesa.
+- Mesa?
 
 93
-00:07:02,350 --> 00:07:04,710
-Mas agora que começaram,
-têm que contar.
+00:08:16,914 --> 00:08:21,169
+Leia o rótulo. E será diretamente
+direcionada na direção certa.
 
 94
-00:07:04,711 --> 00:07:07,829
--Não, não temos.
--Não iremos contar.
+00:08:21,252 --> 00:08:23,421
+"Beba-me."
 
 95
-00:07:08,879 --> 00:07:12,612
-Será que a mãe de vocês sabe que
-nadaram nuas no Lago Havershim?
+00:08:24,547 --> 00:08:29,260
+Melhor ter cuidado, pois se bebemos de
+um vidro em que esteja escrito "Veneno",
 
 96
-00:07:13,750 --> 00:07:16,450
--Não faria isso.
--Faria, sim.
+00:08:29,343 --> 00:08:33,431
+é quase certo que
+cedo ou tarde isso nos fará mal.
 
 97
-00:07:16,451 --> 00:07:18,493
-Olha ela bem ali.
+00:08:34,182 --> 00:08:38,060
+- O que disse?
+- Só estou me dando um bom conselho.
 
 98
-00:07:19,194 --> 00:07:21,494
-Hamish irá pedir a sua mão.
+00:08:38,144 --> 00:08:39,896
+Mas...
 
 99
-00:07:21,495 --> 00:07:23,637
-Estragaram a surpresa!
+00:08:41,272 --> 00:08:43,774
+Tem gosto de cereja.
 
 100
-00:07:23,638 --> 00:07:26,362
-Eu poderia estrangulá-las!
+00:08:45,234 --> 00:08:48,196
+Pudim, abacaxi, peru assado.
 
 101
-00:07:26,363 --> 00:07:29,522
-Todos se esforçaram muito
-para guardar o segredo.
+00:08:48,279 --> 00:08:50,448
+Minha nossa.
 
 102
-00:07:29,523 --> 00:07:33,189
--Todos sabem?
--Por isso que estão aqui.
+00:08:50,531 --> 00:08:52,825
+O que foi que eu fiz?
 
 103
-00:07:33,190 --> 00:07:35,690
-Esta é a sua festa de noivado.
+00:08:52,909 --> 00:08:55,244
+Quase se apagou, tal qual uma vela.
 
 104
-00:07:35,691 --> 00:07:37,891
-Hamish pedirá sua mão
-no gazebo.
+00:08:55,328 --> 00:08:58,456
+Mas veja. Estou do tamanho certo.
 
 105
-00:07:37,892 --> 00:07:39,570
-Quando disser sim...
+00:08:59,081 --> 00:09:04,712
+Não adianta. Esqueci de lhe dizer.
+Estou trancada.
 
 106
-00:07:39,571 --> 00:07:42,110
-Mas não sei
-se quero casar com ele.
+00:09:04,795 --> 00:09:07,215
+Ah, não.
 
 107
-00:07:42,111 --> 00:07:45,439
-Com quem, então?
-Não achará melhor que um Lorde.
+00:09:07,298 --> 00:09:10,968
+- Mas você tem a chave, portanto...
+- Que chave?
 
 108
-00:07:48,187 --> 00:07:53,304
-Em breve terá 20 anos, Alice. Seu
-belo rosto não durará eternamente.
+00:09:11,052 --> 00:09:14,013
+Não vá me dizer que deixou Iá em cima.
 
 109
-00:07:53,305 --> 00:07:55,755
-Não quer terminar como
-a tia Imogene.
+00:09:14,847 --> 00:09:16,974
+Puxa vida.
 
 110
-00:07:56,563 --> 00:08:00,163
--Quer ser um fardo para sua mãe?
--Não.
+00:09:23,272 --> 00:09:27,777
+- O que farei?
+- Abra a caixa, naturalmente.
 
 111
-00:08:00,164 --> 00:08:02,464
-Então, se casará com Hamish...
+00:09:29,487 --> 00:09:31,530
+"Coma-me". Tudo bem.
 
 112
-00:08:02,465 --> 00:08:06,165
-será tão feliz como sou com
-Lowell e sua vida será perfeita.
+00:09:31,614 --> 00:09:35,326
+Mas sabe-se Iá no que isso vai dar.
 
 113
-00:08:06,166 --> 00:08:07,466
-Já está decidido.
+00:09:39,497 --> 00:09:41,582
+O que disse?
 
 114
-00:08:07,467 --> 00:08:08,952
-Alice, querida.
+00:09:41,666 --> 00:09:45,753
+Disse que passou um pouquinho do ponto.
 
 115
-00:08:10,465 --> 00:08:12,029
-Deixarei vocês.
+00:09:45,836 --> 00:09:48,089
+Não acho graça.
 
 116
-00:08:12,030 --> 00:08:14,892
-Vamos dar uma
-caminhada relaxante pelo jardim?
+00:09:48,172 --> 00:09:51,342
+Agora nunca vou conseguir sair.
 
 117
-00:08:14,893 --> 00:08:16,769
-Apenas nós duas.
+00:09:52,343 --> 00:09:54,929
+Ora, deixe disso. Chorar não adianta.
 
 118
-00:08:21,496 --> 00:08:25,800
--Sabe o que sempre temi?
--O declínio da aristocracia?
+00:09:55,012 --> 00:10:01,018
+Eu sei, mas não consigo parar.
 
 119
-00:08:25,801 --> 00:08:27,601
-Netos feios.
+00:10:02,478 --> 00:10:04,522
+Isso não vai dar certo.
 
 120
-00:08:27,602 --> 00:08:30,773
-Mas você é linda.
-Está obrigada a fazer pequenos...
+00:10:07,066 --> 00:10:09,402
+Isso não vai dar nada certo.
 
 121
-00:08:30,774 --> 00:08:32,716
-imbecis!
+00:10:11,279 --> 00:10:13,948
+Ei, você aí em cima, pare.
 
 122
-00:08:32,717 --> 00:08:36,383
-Os jardineiros plantaram rosas
-brancas e ordenei vermelhas.
+00:10:14,031 --> 00:10:15,950
+Olhe.
 
 123
-00:08:36,384 --> 00:08:40,302
--Pode pintá-las de vermelho.
--Que coisa estranha para ser dita.
+00:10:16,033 --> 00:10:18,661
+O vidro.
 
 124
-00:08:41,547 --> 00:08:45,614
-Deve saber que meu filho tem
-uma digestão muito delicada.
+00:10:29,547 --> 00:10:32,675
+Puxa vida.
+Não queria ter chorado tanto.
 
 125
-00:08:47,552 --> 00:08:49,827
--Viu aquilo?
--O quê?
+00:10:40,766 --> 00:10:42,810
+<i>Marinheiro eu sou
+Vivo sempre assim</i>
 
 126
-00:08:49,828 --> 00:08:52,828
--Acho que era um coelho.
--Criaturas desagradáveis.
+00:10:42,893 --> 00:10:45,187
+<i>Navegando eu vou
+Pelo mar sem fim</i>
 
 127
-00:08:52,829 --> 00:08:55,093
-Adoraria soltar os cães neles.
+00:10:45,271 --> 00:10:47,565
+<i>Nunca nunca me interesso pelo tempo</i>
 
 128
-00:08:56,030 --> 00:08:58,250
-Se servir alimentos errados
-para o Hamish,
+00:10:47,648 --> 00:10:51,235
+<i>Pois o tempo nada nada
+Nada faz por mim</i>
 
 129
-00:08:58,251 --> 00:09:00,903
-ele poderá ter
-uma obstrução.
+00:10:51,360 --> 00:10:54,655
+<i>Marinheiro eu sou
+Vivo sempre assim</i>
 
 130
-00:09:00,904 --> 00:09:02,900
--Viu agora?
--Vi o quê?
+00:10:56,157 --> 00:10:57,199
+<i>Nunca, nunca...</i>
 
 131
-00:09:02,901 --> 00:09:05,089
--O coelho!
--Não grite.
+00:10:57,283 --> 00:11:00,119
+Terra à vista,
+e outras expressões náuticas.
 
 132
-00:09:05,090 --> 00:09:07,090
-Agora, preste atenção.
+00:11:00,202 --> 00:11:03,497
+- Chegamos!
+- Onde estamos, Dodo?
 
 133
-00:09:07,091 --> 00:09:09,543
-Hamish disse que você
-se distrai fácil.
+00:11:03,581 --> 00:11:04,498
+Dodo?
 
 134
-00:09:09,544 --> 00:09:12,898
--O que eu estava dizendo?
--A obstrução de Hamish.
+00:11:04,582 --> 00:11:07,501
+Três pontos a estibordo.
+Vamos com isso, marujos.
 
 135
-00:09:13,710 --> 00:09:17,448
-Não poderia estar mais interessada
-mas terá que me desculpar.
+00:11:07,585 --> 00:11:11,505
+Já, já, iremos atracar.
 
 136
-00:09:23,025 --> 00:09:24,390
-Tia Imogene?
+00:11:11,589 --> 00:11:16,093
+Sr. Dodo. Por favor. Ajude-me.
 
 137
-00:09:25,571 --> 00:09:27,680
-Acho que estou ficando louca.
+00:11:21,182 --> 00:11:26,270
+Com licença, mas importam-se
+em me ajudar? Por favor?
 
 138
-00:09:27,681 --> 00:09:30,430
-Continuo vendo
-um coelho de colete.
+00:11:29,815 --> 00:11:31,942
+Ajudem-me. Por favor.
 
 139
-00:09:30,431 --> 00:09:33,293
-Não me incomode
-com seu coelho de faz de conta.
+00:11:35,988 --> 00:11:38,032
+Ajudem-me.
 
 140
-00:09:33,294 --> 00:09:35,149
-Estou esperando meu noivo.
+00:11:39,617 --> 00:11:42,870
+<i>Roda, roda, roda,
+Roda, roda sem parar</i>
 
 141
-00:09:36,329 --> 00:09:38,196
-Você tem um noivo?
+00:11:42,953 --> 00:11:45,956
+<i>Pois rodando assim
+A nossa roupa vai secar</i>
 
 142
-00:09:40,843 --> 00:09:43,899
-Ali! Você viu?
+00:11:46,082 --> 00:11:49,126
+<i>Pula, pula, pula
+Quem parar faz muito mal</i>
 
 143
-00:09:43,900 --> 00:09:45,719
-Ele é um príncipe.
+00:11:49,210 --> 00:11:52,505
+<i>Todos bem felizes nesta roda colossal</i>
 
 144
-00:09:45,720 --> 00:09:48,220
-Infelizmente, ele não
-pode se casar comigo.
+00:11:52,588 --> 00:11:55,466
+<i>Salta, salta, salta
+Nesta grande confusão</i>
 
 145
-00:09:48,221 --> 00:09:50,721
-A não ser que renuncie ao trono.
+00:11:55,549 --> 00:11:58,552
+<i>Pois quem vive alegre
+Não tem preocupação</i>
 
 146
-00:09:50,722 --> 00:09:52,322
-É trágico, não é?
+00:11:58,636 --> 00:12:02,056
+<i>Gira, gira, gira
+Por aqui e por ali</i>
 
 147
-00:09:52,923 --> 00:09:54,223
-Muito.
+00:12:02,139 --> 00:12:04,934
+<i>Tanta correria neste mundo eu nunca...</i>
 
 148
-00:10:04,335 --> 00:10:05,842
-Lowell?
+00:12:05,017 --> 00:12:08,104
+<i>Vira, vira, vira
+Vira vira sem parar</i>
 
 149
-00:10:05,843 --> 00:10:08,736
-Alice! Estávamos...
+00:12:08,187 --> 00:12:11,107
+<i>Pois virando assim
+A nossa roupa vai secar</i>
 
 150
-00:10:09,778 --> 00:10:13,795
--Patty é uma velha amiga.
--Vejo que são muito próximos.
+00:12:12,191 --> 00:12:16,195
+- Ora, deste jeito nunca vai secar.
+- Secar?
 
 151
-00:10:13,796 --> 00:10:16,796
-Não mencione
-isso para sua irmã, certo?
+00:12:16,278 --> 00:12:20,199
+Tem que correr com os outros.
+Primeira regra da corrida.
 
 152
-00:10:16,797 --> 00:10:19,897
-Não sei.
-Estou confusa.
+00:12:20,282 --> 00:12:22,368
+Mas como posso...?
 
 153
-00:10:19,898 --> 00:10:22,498
--Preciso de tempo para pensar.
--Pense sobre Margaret.
+00:12:23,285 --> 00:12:26,539
+Assim está melhor.
+Logo ficará bem seca.
 
 154
-00:10:22,499 --> 00:10:25,199
-Ela nunca confiaria
-em mim outra vez.
+00:12:26,622 --> 00:12:28,999
+Ninguém fica seco deste jeito.
 
 155
-00:10:25,200 --> 00:10:27,500
-Não quer arruinar nosso
-casamento, quer?
+00:12:29,083 --> 00:12:32,253
+Que bobagem.
+Eu estou bem sequinho.
 
 156
-00:10:27,701 --> 00:10:29,401
-Eu?
+00:12:32,837 --> 00:12:35,798
+- Sim, mas...
+- Muito bem. Vamos logo com isso.
 
 157
-00:10:29,402 --> 00:10:34,002
-Mas não sou eu que estou
-agindo pelas costas dela.
+00:12:35,881 --> 00:12:38,008
+Animem-se.
 
 158
-00:10:34,003 --> 00:10:35,556
-Aqui está você!
+00:12:38,926 --> 00:12:42,012
+O coelho branco. Sr. Coelho.
 
 159
-00:10:48,268 --> 00:10:51,630
--Alice Kingsley...
--Hamish.
+00:12:42,847 --> 00:12:46,934
+- Oh, céus. É tarde.
+- Não vá embora. Eu já volto.
 
 160
-00:10:52,459 --> 00:10:55,550
--O que foi?
--Tem uma lagarta no seu ombro.
+00:12:47,017 --> 00:12:49,186
+- É tarde.
+- Não pise no peixe.
 
 161
-00:10:58,935 --> 00:11:00,734
-Não a machuque.
+00:12:49,270 --> 00:12:51,605
+Cuidado. Não chute a sardinha.
 
 162
-00:11:05,939 --> 00:11:08,309
-Você vai querer
-lavar esse dedo.
+00:12:51,689 --> 00:12:54,191
+Brilhante. Muito bem feito.
 
 163
-00:11:13,082 --> 00:11:14,600
-Alice Kingsley...
+00:12:56,193 --> 00:12:58,320
+Sr. Coelho.
 
 164
-00:11:19,778 --> 00:11:21,474
-Aceita ser minha esposa?
+00:12:59,530 --> 00:13:02,867
+Puxa. Tenho certeza
+que ele veio para cá.
 
 165
-00:11:25,110 --> 00:11:26,410
-Bem...
+00:13:02,950 --> 00:13:05,703
+Será que ele
+pode estar se escondendo?
 
 166
-00:11:28,792 --> 00:11:31,696
-Todos esperam que eu seja.
+00:13:08,539 --> 00:13:10,374
+Aqui não.
 
 167
-00:11:31,697 --> 00:11:35,112
-E você é um Lorde.
+00:13:11,542 --> 00:13:13,586
+Será...
 
 168
-00:11:35,113 --> 00:11:39,354
-Meu rosto não vai durar.
-E não quero acabar como...
+00:13:22,678 --> 00:13:25,723
+Não. Acho que ele deve ter...
 
 169
-00:11:42,759 --> 00:11:45,389
-Isso está acontecendo
-tão rápido, eu...
+00:13:25,806 --> 00:13:29,059
+Que bonequinhos esquisitos.
 
 170
-00:11:47,130 --> 00:11:48,812
-acho que...
+00:13:30,227 --> 00:13:33,939
+Tweedle Dee e Tweedle Dum.
 
 171
-00:11:56,905 --> 00:12:01,520
-Acho que...
-preciso de um momento.
+00:13:34,064 --> 00:13:36,901
+Se acha que somos de cera,
+terá de um bilhete pagar.
 
 172
-00:12:39,880 --> 00:12:41,426
-Olá?
+00:13:37,026 --> 00:13:40,571
+Se acha que somos de verdade,
+terá de nos cumprimentar.
 
 173
-00:15:36,820 --> 00:15:38,120
-BEBA-ME
+00:13:47,036 --> 00:13:48,537
+Isso é lógica.
 
 174
-00:15:44,538 --> 00:15:45,913
-É apenas um sonho...
+00:13:49,830 --> 00:13:53,334
+Foi um prazer conhecê-los. Adeus.
 
 175
-00:16:28,368 --> 00:16:32,160
-Achou que ela lembraria
-de tudo da primeira vez.
+00:13:53,417 --> 00:13:57,838
+- Você está começando do final.
+- Quando chega, a visita diz...
 
 176
-00:16:34,028 --> 00:16:36,534
-Você trouxe a Alice errada.
+00:13:57,922 --> 00:14:01,175
+<i>Como passou?
+Aperte a minha mão</i>
 
 177
-00:16:36,535 --> 00:16:39,227
-Ela é a certa.
-Tenho certeza.
+00:14:01,258 --> 00:14:05,346
+<i>Diga o seu nome
+E as coisas, as coisas como vão?</i>
 
 178
-00:16:52,870 --> 00:16:54,445
-COMA-ME
+00:14:05,429 --> 00:14:08,349
+- Isso são boas maneiras.
+- Ah, é?
 
 179
-00:17:25,769 --> 00:17:27,931
-Ela é a Alice errada!
+00:14:08,432 --> 00:14:11,560
+Meu nome e Alice
+e estou seguindo um coelho branco.
 
 180
-00:17:27,932 --> 00:17:29,272
-Dê uma chance a ela.
+00:14:11,644 --> 00:14:15,397
+- Não pode ir ainda.
+- A visita mal começou.
 
 181
-00:18:46,380 --> 00:18:48,821
-Estranho e curioso.
+00:14:15,481 --> 00:14:19,401
+- Sinto muito.
+- Quer brincar de esconde-esconde?
 
 182
-00:18:54,310 --> 00:18:56,737
-Eu disse que era a Alice certa.
+00:14:19,485 --> 00:14:22,363
+- Ou de passa-anel?
+- Não, obrigada.
 
 183
-00:18:56,738 --> 00:18:58,237
-Não estou convencido.
+00:14:22,446 --> 00:14:24,907
+Se ficar um pouco mais
+podemos travar uma luta.
 
 184
-00:18:58,238 --> 00:18:59,858
-Quanta gratidão!
+00:14:26,242 --> 00:14:29,286
+Isso é muito gentil,
+mas preciso ir.
 
 185
-00:18:59,859 --> 00:19:01,323
-Estive fora por semanas.
+00:14:29,870 --> 00:14:32,456
+- Por quê?
+- Porque sigo um coelho branco.
 
 186
-00:19:01,324 --> 00:19:03,262
-Procurando uma Alice
-atrás da outra.
+00:14:32,540 --> 00:14:37,545
+- Por quê?
+- Estou curiosa para saber aonde foi.
 
 187
-00:19:03,263 --> 00:19:05,739
-E quase fui comido
-por outros animais.
+00:14:37,628 --> 00:14:39,755
+Ah, está curiosa.
 
 188
-00:19:05,740 --> 00:19:08,682
-Podem imaginar? Eles ficam
-completamente despidos.
+00:14:40,214 --> 00:14:42,883
+As ostras também
+eram curiosas, não é mesmo?
 
 189
-00:19:08,683 --> 00:19:12,636
-E eles fazem "shukm" em público.
-Tive que desviar o olhar.
+00:14:42,967 --> 00:14:46,136
+É, e você se lembra
+do que aconteceu com elas.
 
 190
-00:19:12,637 --> 00:19:14,591
-Você não se parece
-à nossa Alice.
+00:14:47,555 --> 00:14:50,057
+Tadinhas.
 
 191
-00:19:14,592 --> 00:19:16,797
-Isso porque
-ela é a Alice errada.
+00:14:50,140 --> 00:14:52,601
+Porquê?
+O que aconteceu com as ostras?
 
 192
-00:19:16,798 --> 00:19:18,487
-Bem, se ela era,
-talvez seja.
+00:14:52,685 --> 00:14:55,312
+- Você não estaria interessada.
+- Mas estou.
 
 193
-00:19:18,688 --> 00:19:21,633
--Mas se não é ela, não é.
--Mas se fosse, poderia ser.
+00:14:55,396 --> 00:14:58,315
+Está com muita pressa.
 
 194
-00:19:21,634 --> 00:19:22,953
-Não é ela.
-Não mesmo.
+00:14:58,399 --> 00:15:00,693
+Talvez eu tenha um tempinho.
 
 195
-00:19:22,954 --> 00:19:26,141
-Como posso ser a Alice errada
-quando é o meu sonho?
+00:15:00,776 --> 00:15:03,112
+Tem? Bem...
 
 196
-00:19:27,280 --> 00:19:29,198
-E quem é você,
-se posso perguntar?
+00:15:04,321 --> 00:15:07,074
+"A Foca e o Carpinteiro"
 
 197
-00:19:29,199 --> 00:19:31,170
-Sou Twiddle-Dee,
-ele é Twiddle-Dum.
+00:15:07,157 --> 00:15:11,120
+Ou "A História das Ostras Curiosas."
 
 198
-00:19:31,171 --> 00:19:33,758
-Na verdade, sou Twiddle-Dum,
-ele é Twiddle-Dee.
+00:15:15,833 --> 00:15:19,753
+<i>O sol brilhava sobre o mar
+Brilhava bem bem cheio</i>
 
 199
-00:19:33,759 --> 00:19:35,372
-Deveríamos consultar
-Absolem.
+00:15:19,837 --> 00:15:24,091
+<i>E bem cumpria o seu dever
+Sem nunca ter receio</i>
 
 200
-00:19:35,373 --> 00:19:37,492
-Exatamente!
-Absolem saberá quem ela é.
+00:15:24,174 --> 00:15:26,927
+<i>Mas qual o quê, mesmo porque</i>
 
 201
-00:19:37,493 --> 00:19:41,060
--Eu a escoltarei.
--Nem é o seu turno! Tão injusto.
+00:15:27,011 --> 00:15:29,513
+<i>A noite estava em meio</i>
 
 202
-00:19:41,095 --> 00:19:43,052
--Cai fora.
--Vamos!
+00:15:37,479 --> 00:15:41,483
+<i>A foca e o carpinteiro
+Estavam ali a passear</i>
 
 203
-00:19:43,053 --> 00:19:45,331
--Eles são sempre assim?
--Coisa de família.
+00:15:41,567 --> 00:15:45,571
+<i>Tudo ia bem, mas só que tem
+Que a areia era demais</i>
 
 204
-00:19:45,332 --> 00:19:47,540
-Vocês dois podem escoltá-la.
+00:15:45,654 --> 00:15:47,990
+<i>Seu Foca, disse o carpinteiro</i>
 
 205
-00:19:55,750 --> 00:19:57,213
-Quem é este tal Absolem?
+00:15:48,073 --> 00:15:50,200
+<i>A coisa não vai bem</i>
 
 206
-00:19:57,214 --> 00:19:59,014
-Ele é sábio. Ele é absoluto.
+00:15:50,284 --> 00:15:54,622
+<i>Vamos varrer até morrer
+Se isto lhe convém</i>
 
 207
-00:19:59,015 --> 00:20:00,315
-Ele é absoluto.
+00:15:54,705 --> 00:15:56,206
+Varrer?
 
 208
-00:20:25,058 --> 00:20:26,403
-Quem é você?
+00:15:57,499 --> 00:16:00,085
+<i>- Então eu digo, oh, meu amigo
+- Chegou agora a vez</i>
 
 209
-00:20:27,685 --> 00:20:29,445
-Absolem?
+00:16:00,169 --> 00:16:01,629
+<i>De se falar de coisas mais</i>
 
 210
-00:20:29,446 --> 00:20:31,565
-Você não é Absolem.
-Eu sou Absolem.
+00:16:01,712 --> 00:16:06,091
+<i>De couves e de reis</i>
 
 211
-00:20:31,566 --> 00:20:36,237
-A questão é:
-Quem é você?
+00:16:06,175 --> 00:16:10,429
+<i>Do mar que está a fervilhar
+De porcos e pastéis</i>
 
 212
-00:20:36,238 --> 00:20:37,744
-Alice.
+00:16:10,512 --> 00:16:13,932
+<i>Calou, calei, só falareis</i>
 
 213
-00:20:37,745 --> 00:20:39,800
-Veremos.
+00:16:14,016 --> 00:16:17,436
+<i>De couves e de reis</i>
 
 214
-00:20:39,801 --> 00:20:41,361
-O que quer dizer com isso?
+00:16:50,302 --> 00:16:52,429
+<i>Ostrinhas bonitinhas
+Não querem passear?</i>
 
 215
-00:20:41,362 --> 00:20:42,983
-Devo saber quem eu sou.
+00:16:52,513 --> 00:16:54,932
+<i>A morte é certa</i>
 
 216
-00:20:42,984 --> 00:20:45,628
-Sim, deve, garota estúpida.
+00:16:55,015 --> 00:16:59,770
+<i>A vida é bela
+E o sol está a brilhar</i>
 
 217
-00:20:46,298 --> 00:20:49,333
-Resolva o Oráculo.
+00:16:59,853 --> 00:17:05,609
+<i>E se der fome no caminho
+Podemos almoçar</i>
 
 218
-00:20:54,372 --> 00:20:59,815
-O Oráculo: o Calendário
-Compêndio do Mundo Subterrâneo.
+00:17:08,696 --> 00:17:13,701
+<i>Mas Mamãe Ostra piscou o seu olhinho</i>
 
 219
-00:21:02,827 --> 00:21:06,001
--É um calendário.
--Compêndio.
+00:17:13,784 --> 00:17:18,622
+<i>E disse não porque a estação
+De ostra está a caminho</i>
 
 220
-00:21:06,002 --> 00:21:08,559
-Fala sobre cada
-e todos os dias
+00:17:18,706 --> 00:17:22,459
+<i>Tenham descanso, o mar é manso</i>
 
 221
-00:21:08,560 --> 00:21:10,692
-desde o início.
+00:17:22,543 --> 00:17:25,379
+<i>- Fiquem aqui
+- Mamãe disse</i>
 
 222
-00:21:11,564 --> 00:21:13,786
-Hoje é o dia de Griblig
+00:17:25,462 --> 00:17:27,131
+Sim, sim, claro.
 
 223
-00:21:13,787 --> 00:21:16,303
-na época da Rainha de Copas.
+00:17:27,214 --> 00:17:31,009
+<i>Chegou a hora, minha senhora</i>
 
 224
-00:21:18,016 --> 00:21:21,147
-Mostre a ela o dia do Fabuloso.
+00:17:31,093 --> 00:17:33,387
+<i>De se falar de coisas mais</i>
 
 225
-00:21:21,860 --> 00:21:25,206
-Sim. Fabuloso é o dia
-que você mata o Jabberwocky.
+00:17:33,470 --> 00:17:37,474
+<i>De couves e de reis</i>
 
 226
-00:21:26,448 --> 00:21:28,779
-Desculpe? Mata o quê?
+00:17:37,558 --> 00:17:43,397
+<i>Do mar que está a fervilhar
+De porcos e pastéis</i>
 
 227
-00:21:28,780 --> 00:21:31,215
-Lá. Mostrando você
-com uma espada Vorpal.
+00:17:43,480 --> 00:17:46,400
+<i>Calou, calei, passeareis</i>
 
 228
-00:21:31,216 --> 00:21:33,707
-Nenhuma outra espada
-pode matar Jabberwocky.
+00:17:46,483 --> 00:17:49,820
+<i>Com couves e com reis</i>
 
 229
-00:21:33,708 --> 00:21:35,849
--De jeito nenhum.
--Se não fosse Vorpal,
+00:18:19,183 --> 00:18:21,185
+FRUTOS DO MAR
 
 230
-00:21:35,850 --> 00:21:37,368
-não estaria morto.
+00:18:28,901 --> 00:18:32,488
+Ora, deixe-me ver.
 
 231
-00:21:37,369 --> 00:21:39,147
-Essa não sou eu.
+00:18:35,866 --> 00:18:38,368
+Um bom pão é o que vamos querer.
 
 232
-00:21:39,148 --> 00:21:41,012
-Eu sei.
+00:18:42,956 --> 00:18:45,876
+E que tal pimenta, sal e vinagre?
 
 233
-00:21:41,013 --> 00:21:42,912
-Resolva isso para nós, Absolem.
+00:18:45,959 --> 00:18:49,755
+Esplêndida idéia. Muito boa mesmo.
 
 234
-00:21:42,913 --> 00:21:45,281
-Ela é a Alice certa?
+00:18:51,340 --> 00:18:57,304
+Se estão prontas, ostrinhas,
+podemos começar a refeição.
 
 235
-00:21:45,282 --> 00:21:47,838
-Dificilmente.
+00:18:57,387 --> 00:18:59,515
+PRATO DO DIA
+OSTRAS
 
 236
-00:21:50,945 --> 00:21:53,302
--Eu te disse.
--Querida...
+00:18:59,598 --> 00:19:02,601
+- Refeição?
+- Sim.
 
 237
-00:21:53,303 --> 00:21:55,006
--Eu disse isso.
--Eu disse isso.
+00:19:02,684 --> 00:19:06,313
+<i>Chegou a hora, meus anjinhos
+De falar de alimentos</i>
 
 238
-00:21:55,007 --> 00:21:57,131
-Ao contrário,
-disse que poderia ser.
+00:19:06,396 --> 00:19:09,817
+<i>De carne, pão, de pimentão
+E outros condimentos</i>
 
 239
-00:21:57,132 --> 00:21:59,279
-Não, você disse
-que seria se fosse ela.
+00:19:09,900 --> 00:19:13,278
+<i>Mexendo bem, coma também
+De tudo que é dos reis</i>
 
 240
-00:21:59,280 --> 00:22:02,833
-Impostora. Fingindo ser Alice.
-Deveria estar envergonhada.
+00:19:13,362 --> 00:19:16,198
+<i>Calou, calei, eu comerei</i>
 
 241
-00:22:02,834 --> 00:22:05,036
-Tinha tanta certeza de você.
+00:19:16,281 --> 00:19:21,161
+<i>Com couves e com reis</i>
 
 242
-00:22:05,037 --> 00:22:07,471
-Sinto muito, não quis ser
-a Alice errada.
+00:19:25,833 --> 00:19:28,460
+<i>Eu sinto muito</i>
 
 243
-00:22:08,463 --> 00:22:12,406
-Espere.
-Esse sonho é meu.
+00:19:28,544 --> 00:19:31,964
+<i>A sorte é muito ingrata</i>
 
 244
-00:22:12,407 --> 00:22:15,056
-Vou acordar agora
-e vocês todos desaparecerão.
+00:19:32,047 --> 00:19:37,553
+<i>Embora vossa companhia
+Me fosse muito grata</i>
 
 245
-00:22:23,243 --> 00:22:26,529
-Isso é estranho. Beliscar
-normalmente faz o truque.
+00:19:38,220 --> 00:19:41,139
+<i>Ostrinhas, ostrinhas</i>
 
 246
-00:22:26,530 --> 00:22:29,099
-Posse te acertar
-se isso ajudar.
+00:19:41,223 --> 00:19:44,142
+<i>Mas a resposta foi nenhuma</i>
 
 247
-00:22:29,100 --> 00:22:30,464
-De fato, pode, obrigado.
+00:19:44,226 --> 00:19:50,399
+<i>Isso porque elas tinham sido
+Comidas uma a uma</i>
 
 248
-00:22:30,465 --> 00:22:31,766
-O prazer é meu.
+00:19:57,281 --> 00:19:59,283
+<i>Chegou agora a vez</i>
 
 249
-00:22:37,031 --> 00:22:38,945
--Bandersnatch!
--Bandersnatch!
+00:20:08,292 --> 00:20:14,381
+<i>Com couves e com reis</i>
 
 250
-00:23:29,081 --> 00:23:30,392
-Espere.
+00:20:14,464 --> 00:20:15,549
+Fim.
 
 251
-00:23:33,178 --> 00:23:36,617
-É só um sonho.
-Nada pode me machucar.
+00:20:15,632 --> 00:20:17,467
+Que história mais triste.
 
 252
-00:23:40,783 --> 00:23:42,452
-O que ela está fazendo?
+00:20:17,551 --> 00:20:21,430
+- E ela tem uma moral.
+- Uma moral muito boa.
 
 253
-00:23:42,453 --> 00:23:44,139
-Não pode me machucar.
+00:20:21,513 --> 00:20:23,557
+Se fôssemos uma ostra.
 
 254
-00:23:50,686 --> 00:23:52,248
-Corra minha querida!
+00:20:23,640 --> 00:20:26,768
+- Foi uma visita muita boa.
+- Outra história.
 
 255
-00:24:57,095 --> 00:24:59,222
-Por aqui.
-Leste para Queast.
+00:20:26,852 --> 00:20:28,979
+Chamada "Papai Guilhermino."
 
 256
-00:24:59,223 --> 00:25:00,933
-Não, sul para Snud.
+00:20:29,062 --> 00:20:30,522
+Primeiro verso:
 
 257
-00:25:50,217 --> 00:25:53,567
-Alguém roubou três das
-minhas tortas de frutas!
+00:20:30,606 --> 00:20:32,900
+<i>Todo o povo dizia
+Você, Papai Guilhermino</i>
 
 258
-00:26:01,974 --> 00:26:03,938
--Você as roubou?
--Não, Sua Majestade.
+00:20:32,983 --> 00:20:35,068
+<i>Está velho demais</i>
 
 259
-00:26:04,850 --> 00:26:06,506
--Foi você?
--Não, Sua Majestade.
+00:20:35,152 --> 00:20:37,613
+<i>No entanto
+Você vive dando pinote</i>
 
 260
-00:26:06,507 --> 00:26:08,731
--Você as roubou?
--Não, Sua Majestade.
+00:20:37,696 --> 00:20:41,867
+<i>Você acha que isso se faz?
+Se faz?</i>
 
 261
-00:26:42,196 --> 00:26:44,101
-Você roubou
-minhas tortas de frutas?
+00:20:42,993 --> 00:20:46,413
+<i>E então, o velhinho dizia pro povo</i>
 
 262
-00:26:45,104 --> 00:26:46,588
-Não, Sua Majestade.
+00:20:46,496 --> 00:20:48,999
+<i>Eu faço isso tudo de novo, de novo...</i>
 
 263
-00:26:53,378 --> 00:26:55,232
-Tem gosto de geléia.
+00:20:57,633 --> 00:21:00,344
+Quem será que mora aqui?
 
 264
-00:26:55,233 --> 00:26:57,303
-Estava faminto!
-Não tinha a intenção de...
+00:21:01,178 --> 00:21:06,099
+Mary Ann. Danadinha.
+Onde ela as terá posto?
 
 265
-00:26:57,304 --> 00:26:59,328
-Cortem a cabeça dele!
+00:21:06,183 --> 00:21:08,435
+O coelho.
 
 266
-00:26:59,329 --> 00:27:02,356
-Por favor, não! Tenho que
-cuidar dos meus filhinhos!
+00:21:09,853 --> 00:21:12,731
+Não dá para esperar.
+Ai, ai, meu deus, é tarde.
 
 267
-00:27:02,357 --> 00:27:04,399
-Vá à casa dele
-e pegue seus filhos.
+00:21:12,814 --> 00:21:15,275
+Com licença, senhor,
+mas eu tenho tentado...
 
 268
-00:27:04,400 --> 00:27:06,999
-Adoro girinos tostados,
-quase tanto quanto caviar.
+00:21:15,359 --> 00:21:18,487
+Mary Ann, o que está fazendo aí?
 
 269
-00:27:07,000 --> 00:27:08,300
-Sim, Sua Majestade.
+00:21:18,570 --> 00:21:21,114
+Não fique aí parada.
 
 270
-00:27:11,977 --> 00:27:13,277
-Bebida.
+00:21:21,198 --> 00:21:24,785
+- Não. Vá buscar minhas luvas. É tarde.
+- Para o quê? E isso que eu...
 
 271
-00:27:18,514 --> 00:27:19,910
-Majestade.
+00:21:24,868 --> 00:21:28,163
+Minhas luvas. Pra já. Ouviu?
 
 272
-00:27:22,513 --> 00:27:25,356
-Ilosovic Stayne.
+00:21:28,288 --> 00:21:32,042
+Que coisa. Acho que a próxima
+a me dar ordens será Dinah.
 
 273
-00:27:25,357 --> 00:27:27,797
-Onde estava se escondendo?
+00:21:33,710 --> 00:21:36,129
+Deixe-me ver.
 
 274
-00:27:28,398 --> 00:27:30,682
-Majestade...
+00:21:36,213 --> 00:21:40,092
+Se eu fosse um coelho,
+onde guardaria minhas luvas?
 
 275
-00:27:30,729 --> 00:27:32,761
-Eu encontrei...
+00:21:40,217 --> 00:21:42,094
+COMA-ME
+PEGUE UM
 
 276
-00:27:32,762 --> 00:27:34,843
-o Oráculo.
+00:21:42,177 --> 00:21:44,554
+Obrigada. Espero que não se importe.
 
 277
-00:27:36,776 --> 00:27:39,982
-Isso parece muito comum
-para ser o Oráculo.
+00:21:50,310 --> 00:21:52,396
+Ah, não. De novo, não.
 
 278
-00:27:39,983 --> 00:27:42,953
-Veja aqui.
-O Dia Fabuloso.
+00:21:54,523 --> 00:21:56,566
+Mary Ann.
 
 279
-00:27:45,397 --> 00:27:48,765
-Reconheceria este cabelo
-desarrumado em qualquer lugar.
+00:21:58,902 --> 00:22:01,029
+Vai se ver comigo.
 
 280
-00:27:48,766 --> 00:27:51,008
-É Alice?
+00:22:11,707 --> 00:22:14,167
+Socorro. U m monstro.
 
 281
-00:27:51,009 --> 00:27:52,876
-Creio que é.
+00:22:14,251 --> 00:22:16,378
+Socorro. Acudam.
 
 282
-00:27:52,877 --> 00:27:55,867
-O que ela está fazendo
-com meu querido Jabberwocky?
+00:22:21,383 --> 00:22:25,846
+- Um monstro, Dodo, na minha casa.
+- Dodo?
 
 283
-00:27:55,868 --> 00:27:58,524
-Parece que ela
-o está matando.
+00:22:25,929 --> 00:22:28,015
+- Minha pobre casa.
+- Calma, meu camarada.
 
 284
-00:27:58,525 --> 00:28:01,428
-Ela matou meu
-JabberbAbywocky?
+00:22:28,098 --> 00:22:31,685
+- Não pode ser assim tão ruim.
+- Minhas pobres vigas e telhados.
 
 285
-00:28:01,429 --> 00:28:02,929
-Ainda não, mas...
+00:22:31,768 --> 00:22:34,229
+Minhas paredes. Aí está.
 
 286
-00:28:02,930 --> 00:28:06,634
-acontecerá
-se não a determos.
+00:22:34,312 --> 00:22:38,108
+Minha nossa. Fenomenal, não?
 
 287
-00:28:06,635 --> 00:28:08,869
-Encontre a Alice, Stayne.
+00:22:38,191 --> 00:22:40,193
+Faça alguma coisa.
 
 288
-00:28:08,870 --> 00:28:10,508
-Encontre-a!
+00:22:40,277 --> 00:22:43,488
+Sim, claro.
+E uma situação extraordinária, mas...
 
 289
-00:28:11,693 --> 00:28:13,752
-Encontre o cheiro
-da garota humana,
+00:22:43,572 --> 00:22:45,157
+Mas o quê?
 
 290
-00:28:13,753 --> 00:28:15,605
-e ganhará sua liberdade.
+00:22:47,951 --> 00:22:49,453
+Mas eu tenho uma solução muito simples.
 
 291
-00:28:15,606 --> 00:28:17,911
-Para minha mulher
-e filhotes também?
+00:22:49,536 --> 00:22:52,039
+- Graças a Deus.
+- E qual é?
 
 292
-00:28:19,563 --> 00:28:21,956
-Todos poderão ir para casa.
+00:22:52,122 --> 00:22:55,459
+- É só puxar a chaminé.
+- Vá em frente. Puxe-a.
 
 293
-00:28:34,911 --> 00:28:38,534
-Cachorros acreditam
-em qualquer coisa.
+00:22:55,542 --> 00:22:58,336
+Quem? Eu? Não seja ridículo.
 
 294
-00:29:11,069 --> 00:29:13,202
-Parece que entrou
-em conflito
+00:22:58,462 --> 00:23:00,797
+O que precisamos é...
 
 295
-00:29:13,203 --> 00:29:16,849
-com algo de garras perversas.
+00:23:02,466 --> 00:23:05,385
+...de um lagarto com uma escada.
 
 296
-00:29:16,850 --> 00:29:18,832
-Ainda estou sonhando.
+00:23:05,969 --> 00:23:09,681
+Bill, precisamos
+de um largada com um escaldo.
 
 297
-00:29:18,833 --> 00:29:20,956
-Quem fez isso com você?
+00:23:10,640 --> 00:23:13,310
+- Pode nos ajudar?
+- As suas ordens, chefe.
 
 298
-00:29:20,957 --> 00:29:22,655
-Foi o bander ou o bandips...
+00:23:13,393 --> 00:23:16,521
+Bill, meu jovem,
+já desceu por uma chaminé?
 
 299
-00:29:22,656 --> 00:29:24,093
-O Bandersnatch?
+00:23:16,605 --> 00:23:18,899
+Chefe, já desci mais chaminés...
 
 300
-00:29:25,456 --> 00:29:27,320
-É melhor eu dar
-uma olhada nisso.
+00:23:18,982 --> 00:23:24,738
+Excelente. Então arranque esta
+chaminé e tire o monstro de Iá.
 
 301
-00:29:27,321 --> 00:29:29,018
-O que está fazendo?
+00:23:24,821 --> 00:23:27,908
+Certo, chefe. Monstro?
 
 302
-00:29:29,019 --> 00:29:30,536
-Precisa ser limpo
+00:23:37,167 --> 00:23:39,586
+Assim é melhor.
 
 303
-00:29:30,537 --> 00:29:32,648
-por alguém
-com habilidades de cura
+00:23:39,669 --> 00:23:42,005
+Está perdendo uma oportunidade de ouro.
 
 304
-00:29:32,649 --> 00:29:36,626
-ou vai supurar e putrefazer.
+00:23:42,089 --> 00:23:44,174
+- Estou?
+- Você pode ficar famoso.
 
 305
-00:29:36,627 --> 00:29:38,429
-Prefiro que não o faça.
+00:23:44,257 --> 00:23:45,342
+Posso?
 
 306
-00:29:38,430 --> 00:29:40,657
-Estarei bem assim que acordar.
+00:23:45,467 --> 00:23:48,220
+Claro. Que rapaz corajoso.
 
 307
-00:29:40,658 --> 00:29:42,988
-Ao menos posso
-fazer uma atadura?
+00:23:48,303 --> 00:23:51,348
+Podein
+Não há de ser nada, garotão.
 
 308
-00:29:44,787 --> 00:29:47,075
-Como se chama?
+00:23:51,431 --> 00:23:55,519
+Basta Iaçar o pescoço do monstro
+com o seu rabo e puxá-Io para fora.
 
 309
-00:29:47,076 --> 00:29:50,196
--Alice.
--"A" Alice?
+00:23:55,602 --> 00:23:58,980
+- Mas, chefe...
+- Boa sorte, Bill.
 
 310
-00:29:51,188 --> 00:29:53,105
-Houve um certo debate
-sobre isso.
+00:24:11,493 --> 00:24:15,038
+Lá se foi o Bill.
 
 311
-00:29:53,106 --> 00:29:55,238
-Nunca me envolvi em política.
+00:24:16,081 --> 00:24:17,374
+Pobre Bill.
 
 312
-00:29:56,175 --> 00:29:58,383
-Você deve seguir
-seu próprio caminho.
+00:24:18,625 --> 00:24:22,462
+Talvez devêssemos tentar
+um remédio mais energético.
 
 313
-00:29:58,384 --> 00:30:00,074
-Que caminho?
+00:24:22,546 --> 00:24:24,631
+Qualquer coisa, mas ande logo.
 
 314
-00:30:00,075 --> 00:30:02,846
-Tudo que tenho a fazer
-é acordar deste sonho.
+00:24:24,714 --> 00:24:27,717
+Eu proponho que...
 
 315
-00:30:02,847 --> 00:30:07,460
-Tudo bem. Vou te levar
-até a Lebre e ao Chapeleiro.
+00:24:28,718 --> 00:24:31,888
+- Ande.
+- Eu proponho que...
 
 316
-00:30:07,461 --> 00:30:09,107
-Mas é só o que farei.
+00:24:34,015 --> 00:24:37,102
+Já sei.
+Vamos queimar a casa.
 
 317
-00:30:17,125 --> 00:30:18,703
-Venha comigo.
+00:24:37,185 --> 00:24:39,729
+Sim. Queimar a casa...? O quê?
 
 318
-00:31:08,993 --> 00:31:10,480
-Olhe o que está fazendo!
+00:24:39,813 --> 00:24:41,982
+Ah, não.
 
 319
-00:31:10,481 --> 00:31:11,781
-Cuidado!
+00:24:42,065 --> 00:24:44,442
+<i>Ho, ho, o monstro vai pagar</i>
 
 320
-00:31:16,938 --> 00:31:18,511
-É você.
+00:24:44,526 --> 00:24:46,570
+<i>Nós vamos defumar</i>
 
 321
-00:31:18,512 --> 00:31:20,088
-Não, não é.
+00:24:46,653 --> 00:24:48,738
+<i>Uns móveis
+O que houver de pau</i>
 
 322
-00:31:20,089 --> 00:31:22,244
-Com certeza
-esta é a Alice errada.
+00:24:48,864 --> 00:24:52,784
+<i>- Pois isso não é nada mau</i>
+- <i>Oh,</i> não.
 
 323
-00:31:22,245 --> 00:31:24,025
-A Alice errada?
+00:24:52,868 --> 00:24:54,661
+<i>Nós vamos defumar</i>
 
 324
-00:31:24,026 --> 00:31:25,481
-É definitivamente a Alice.
+00:24:54,744 --> 00:24:57,581
+<i>Nós vamos cozinhar</i>
 
 325
-00:31:25,482 --> 00:31:28,822
-Você é sem dúvida a Alice,
-a reconheceria em qualquer lugar.
+00:24:57,706 --> 00:25:00,584
+Minha casinha de passarinho, não.
 
 326
-00:31:28,823 --> 00:31:30,824
-Eu a reconheceria
-em qualquer lugar!
+00:25:00,667 --> 00:25:03,086
+<i>Oh, nós vamos queimar o pé</i>
 
 327
-00:31:32,755 --> 00:31:35,537
-Bem, como pode ver ainda
-estamos tomando chá.
+00:25:03,170 --> 00:25:06,131
+<i>E o seu nariz até
+Me traz aqui, a grade ali</i>
 
 328
-00:31:35,538 --> 00:31:37,640
-Porque fui obrigado
-a passar o tempo
+00:25:06,214 --> 00:25:09,009
+<i>Não quero um monstro aqui</i>
 
 329
-00:31:37,641 --> 00:31:39,505
-enquanto esperava
-por sua volta.
+00:25:09,092 --> 00:25:13,180
+- Ai, ai, meu deus.
+- Um fósforo. Obrigado.
 
 330
-00:31:39,506 --> 00:31:41,455
-Está terrivelmente
-atrasada, sabe?
+00:25:13,263 --> 00:25:17,809
+<i>Não há o que duvidar
+Nós vamos defumar</i>
 
 331
-00:31:41,456 --> 00:31:42,885
-Danadinha.
+00:25:17,893 --> 00:25:19,269
+<i>Nós vamos defumar...</i>
 
 332
-00:31:42,886 --> 00:31:46,104
-De qualquer jeito,
-o tempo para ofensas acabou,
+00:25:19,352 --> 00:25:22,564
+Não, não! Minha casinha e meus móveis!
 
 333
-00:31:46,105 --> 00:31:48,480
-num estalo de dedos.
+00:25:22,647 --> 00:25:25,275
+Puxa vida. Isso é sério.
 
 334
-00:31:50,158 --> 00:31:52,357
-Tempo pode ser divertido
-nos sonhos.
+00:25:25,400 --> 00:25:28,028
+Eu tenho que... Uma horta.
 
 335
-00:31:52,358 --> 00:31:54,497
-Sim, é claro,
-mas agora que voltou.
+00:25:28,111 --> 00:25:33,200
+Talvez se eu comesse alguma
+coisa, diminuísse de tamanho.
 
 336
-00:31:54,498 --> 00:31:56,195
-Temos que ir
-até o Dia Fabuloso.
+00:25:33,283 --> 00:25:35,368
+Solte-me! Socorro!
 
 337
-00:31:56,196 --> 00:31:58,335
-Dia Fabuloso!
+00:25:35,452 --> 00:25:40,957
+- Desculpe, mas tenho que comer algo.
+- Mas não eu, seu bárbaro.
 
 338
-00:31:58,336 --> 00:32:01,352
-Tenho investigado coisas
-que começam com a letra "M".
+00:25:41,708 --> 00:25:43,084
+Socorro!
 
 339
-00:32:02,866 --> 00:32:06,678
-Sabe por que um corvo
-é como uma escrivaninha?
+00:25:43,627 --> 00:25:45,670
+Monstro!
 
 340
-00:32:06,679 --> 00:32:08,469
-Abaixo à maldita
-cabeçuda!
+00:25:46,463 --> 00:25:48,548
+Socorro!
 
 341
-00:32:08,470 --> 00:32:11,356
--Como?
--Abaixo à maldita cabeçuda!
+00:25:49,466 --> 00:25:52,761
+É tarde. Oh, estou aqui.
+Devia estar ali. É tarde.
 
 342
-00:32:11,357 --> 00:32:14,010
-E a maldita cabeçuda
-é a Rainha de Copas.
+00:25:52,844 --> 00:25:56,973
+- Ei, você tem um fósforo?
+- Devo ir. Alô, adeus.
 
 343
-00:32:14,011 --> 00:32:16,121
-Temos que
-começar a matança.
+00:25:57,057 --> 00:25:59,726
+- É tarde. É tarde. É tarde.
+- Por favor, espere.
 
 344
-00:32:16,122 --> 00:32:17,547
-Portanto,
-já era tempo
+00:25:59,809 --> 00:26:02,437
+Senhorita, teria um fósforo?
 
 345
-00:32:17,548 --> 00:32:20,048
-de perdoar e esquecer,
-ou esquecer e perdoar.
+00:26:02,520 --> 00:26:04,898
+Não, sinto muito.
+Sr. Coelho!
 
 346
-00:32:20,049 --> 00:32:22,732
-O que vier primeiro,
-ou o mais conveniente.
+00:26:04,981 --> 00:26:07,359
+Ninguém ajuda.
 
 347
-00:32:22,733 --> 00:32:24,419
-Estou esperando.
+00:26:07,442 --> 00:26:09,569
+Não quero saber de monstros aqui.
 
 348
-00:32:24,420 --> 00:32:26,530
-O tempo está correndo.
+00:26:09,653 --> 00:26:12,364
+Vou ter que resolver sozinho.
 
 349
-00:32:26,531 --> 00:32:29,032
-Essa conversa
-sobre sangue e matança...
+00:26:16,952 --> 00:26:20,080
+Espere. Por favor. Só um minuto.
 
 350
-00:32:29,033 --> 00:32:31,195
-me afastou do meu chá.
+00:26:20,914 --> 00:26:25,043
+Puxa vida. Nunca vou
+alcançá-Io, sendo tão pequenina.
 
 351
-00:32:33,293 --> 00:32:35,301
-O mundo inteiro
-está desabando...
+00:26:27,128 --> 00:26:30,924
+- Que borboletas engraçadas.
+- Quer dizer, que <i>asas</i> torradas.
 
 352
-00:32:35,302 --> 00:32:38,347
-e o pobre
-Gato Risonho ficou sem chá.
+00:26:31,007 --> 00:26:33,093
+Sim, claro.
 
 353
-00:32:38,348 --> 00:32:42,058
-O que aconteceu naquele dia
-não foi minha culpa.
+00:26:35,011 --> 00:26:37,138
+Quem será que...?
 
 354
-00:32:44,485 --> 00:32:46,758
-Meu Deus.
+00:26:42,185 --> 00:26:46,273
+Uma mosca.
+Digo moscavalo.
 
 355
-00:32:46,759 --> 00:32:49,718
-Você apenas quer salvar
-sua própria pele.
+00:26:46,356 --> 00:26:51,027
+- Naturalmente.
+- Com sua licença, mas você...?
 
 356
-00:32:49,719 --> 00:32:52,092
-Seu medroso,
-trapaceiro, nojento,
+00:26:52,028 --> 00:26:55,490
+Isso é absurdo. Flores não falam.
 
 357
-00:32:52,093 --> 00:32:53,705
-maldito,
-sem escrúpulos,
+00:26:55,573 --> 00:26:57,701
+Claro que falamos, querida.
 
 358
-00:32:53,706 --> 00:32:55,685
-mal nascido Barlemot!
+00:26:57,784 --> 00:27:00,370
+Se há alguém com
+quem valha a pena falar.
 
 359
-00:32:55,686 --> 00:32:57,499
-Chapeleiro!
+00:27:00,453 --> 00:27:02,539
+Ou se há sobre o que falar.
 
 360
-00:32:57,500 --> 00:33:00,259
--Obrigado.
--Minha nossa.
+00:27:02,622 --> 00:27:04,958
+- E cantamos também.
+- Cantam?
 
 361
-00:33:00,260 --> 00:33:01,560
-Estou bem.
+00:27:05,041 --> 00:27:08,086
+Sim. <i>Gostaria de</i> ouvir
+<i>A Canção das Tulipas?</i>
 
 362
-00:33:01,561 --> 00:33:03,410
-O que há de errado
-com você, Tarrant?
+00:27:08,169 --> 00:27:11,923
+- Vamos cantar sobre nós.
+- Sabemos a da violeta tímida.
 
 363
-00:33:03,411 --> 00:33:05,079
-Costumava ser a alma da festa.
+00:27:12,007 --> 00:27:14,634
+- Essa é muito velha.
+- Lindo Lírio do Vale
 
 364
-00:33:05,080 --> 00:33:07,121
-Costumava fazer
-a melhor futterwacken
+00:27:14,718 --> 00:27:16,261
+- Um dueto de margaridas?
+- Ela não ia gostar.
 
 365
-00:33:07,122 --> 00:33:08,446
-do toda a WitzEnd.
+00:27:17,387 --> 00:27:22,058
+<i>Meninas.</i>
+Vamos <i>cantar O Jardim das Flores.</i>
 
 366
-00:33:08,447 --> 00:33:10,630
--Futter o quê?
--Futterwacken!
+00:27:22,142 --> 00:27:23,977
+É sobre todas nós.
 
 367
-00:33:10,631 --> 00:33:11,931
-É uma dança.
+00:27:24,978 --> 00:27:27,314
+Solte um Iá, Lily.
 
 368
-00:33:13,206 --> 00:33:15,212
-Um dia,
-no Dia Fabuloso,
+00:27:45,332 --> 00:27:49,586
+<i>Borboletas e tulipas se beijam</i>
 
 369
-00:33:15,915 --> 00:33:18,755
-quando a Rainha Branca
-usar novamente a coroa...
+00:27:49,711 --> 00:27:53,340
+<i>Se enche a terra de alegrias mil</i>
 
 370
-00:33:19,713 --> 00:33:24,320
-Neste dia
-eu dançarei o Futterwacken.
+00:27:53,423 --> 00:27:57,469
+<i>Novas cores no jardim vicejam</i>
 
 371
-00:33:24,321 --> 00:33:25,908
-Vigorosamente.
+00:27:57,552 --> 00:28:01,598
+<i>Sob o céu primaveril</i>
 
 372
-00:33:34,420 --> 00:33:36,851
--Knave!
--Até mais.
+00:28:01,681 --> 00:28:05,518
+<i>Tantas flores, tantas cores vibrando</i>
 
 373
-00:33:38,441 --> 00:33:40,292
-Beba isso, rápido.
+00:28:05,602 --> 00:28:09,606
+<i>Tantas Violetas a cantar</i>
 
 374
-00:33:47,677 --> 00:33:49,187
-Essa não.
+00:28:09,689 --> 00:28:13,610
+<i>As tigrinhas e os leões brincando</i>
 
 375
-00:33:56,270 --> 00:33:58,057
-Fique calada.
+00:28:13,693 --> 00:28:16,654
+<i>Todo o bosque a sonhar</i>
 
 376
-00:34:11,821 --> 00:34:14,002
-Deixe-me sair!
+00:28:16,738 --> 00:28:19,699
+<i>Todo o bosque a sonhar</i>
 
 377
-00:34:16,205 --> 00:34:20,971
-Ora, se não é
-meu trio favorito...
+00:28:19,783 --> 00:28:23,912
+<i>As lagartas da floresta
+Brigam como cão e gato</i>
 
 378
-00:34:20,972 --> 00:34:22,834
-de lunáticos.
+00:28:23,995 --> 00:28:27,499
+<i>Margaridas boas-vidas</i>
 
 379
-00:34:22,835 --> 00:34:24,714
-Gostaria de se juntar a nós?
+00:28:27,582 --> 00:28:32,379
+<i>Na rede a sonhar</i>
 
 380
-00:34:25,985 --> 00:34:27,913
-Está atrasado para o chá!
+00:28:32,462 --> 00:28:36,591
+<i>Sonhar</i>
 
 381
-00:34:32,945 --> 00:34:35,236
-Procuramos por
-uma menina
+00:28:38,885 --> 00:28:42,764
+<i>Tudo pode se aprender entre as flores</i>
 
 382
-00:34:35,237 --> 00:34:36,669
-chamada
+00:28:42,847 --> 00:28:46,851
+<i>Sobretudo aquelas em botão</i>
 
 383
-00:34:36,670 --> 00:34:38,155
-Alice.
+00:28:46,935 --> 00:28:51,856
+<i>Quem aspira o aroma destas flores</i>
 
 384
-00:34:38,156 --> 00:34:39,456
-Falando na Rainha,
+00:28:51,940 --> 00:28:57,654
+<i>Sente o bater de um coração</i>
 
 385
-00:34:39,457 --> 00:34:42,461
-há uma canção que adoramos
-cantar em sua homenagem.
+00:29:18,842 --> 00:29:21,344
+<i>Sente o bater de um coração</i>
 
 386
-00:34:42,462 --> 00:34:44,852
-Brilha, brilha morceguinho.
+00:29:21,428 --> 00:29:26,724
+<i>De um coração</i>
 
 387
-00:34:44,853 --> 00:34:47,545
-Quero saber onde você está.
-Sobre...
+00:29:27,809 --> 00:29:33,273
+<i>Tudo pode se aprender entre as flores</i>
 
 388
-00:34:48,688 --> 00:34:50,772
-Se a estão escondendo...
+00:29:33,356 --> 00:29:38,445
+<i>Sobretudo aquelas em botão</i>
 
 389
-00:34:50,773 --> 00:34:52,951
-perderão suas cabeças.
+00:29:38,528 --> 00:29:44,617
+<i>Quem aspira o aroma destas flores</i>
 
 390
-00:34:52,952 --> 00:34:54,369
-Nós já a perdemos.
+00:29:44,701 --> 00:29:45,994
+<i>Sente...</i>
 
 391
-00:34:56,026 --> 00:34:57,470
-Agora todos juntos.
+00:29:47,203 --> 00:29:52,041
+<i>O bater de um coração</i>
 
 392
-00:34:57,471 --> 00:34:59,409
-Sobre o mundo voará
+00:30:05,972 --> 00:30:09,017
+- Isso foi lindo.
+- Obrigada, querida.
 
 393
-00:34:59,410 --> 00:35:01,678
-como uma bandeja de chá.
+00:30:09,100 --> 00:30:11,478
+De que tipo de jardim você vem?
 
 394
-00:35:01,679 --> 00:35:04,131
-Brilha, brilha...
+00:30:11,561 --> 00:30:15,482
+- Não venho de nenhum jardim.
+- Acha que ela e uma flor silvestre?
 
 395
-00:35:04,132 --> 00:35:06,822
-Brilha, brilha...
+00:30:15,565 --> 00:30:18,151
+Não, não sou uma flor silvestre.
 
 396
-00:35:14,378 --> 00:35:16,334
-Abaixo à maldita
-cabeçuda!
+00:30:18,234 --> 00:30:22,655
+De que espécie, ou melhor,
+de que gênero é você, querida?
 
 397
-00:35:20,649 --> 00:35:22,523
-Gostaria de um pouco
-de creme?
+00:30:22,739 --> 00:30:28,036
+Bem, acho que me chamariam
+de uma "generus humanus" Alice.
 
 398
-00:35:27,385 --> 00:35:30,311
--Fatia de bolo de baunilha?
--Sigam o cachorro.
+00:30:28,119 --> 00:30:30,663
+Já viu uma Alice
+florescer deste jeito?
 
 399
-00:35:30,312 --> 00:35:32,522
--Açúcar?
--Sim, por favor.
+00:30:30,747 --> 00:30:34,501
+Pensando bem,
+você já viu alguma Alice?
 
 400
-00:35:32,523 --> 00:35:34,566
-Olha, é sólido.
+00:30:34,584 --> 00:30:37,754
+E reparou em suas pétalas?
 
 401
-00:35:34,567 --> 00:35:36,478
-Vocês estão todos loucos.
+00:30:37,837 --> 00:30:41,633
+- Que cor pitoresca.
+- E não tem cheiro.
 
 402
-00:35:36,479 --> 00:35:38,192
-Muito obrigado.
+00:30:42,759 --> 00:30:46,846
+- E vejam só as hastes.
+- Meio magricelas, eu diria.
 
 403
-00:35:39,928 --> 00:35:42,197
-Poderia pegar os bolinhos,
-por favor.
+00:30:46,930 --> 00:30:49,849
+- Eu a acho bonita.
+- Quieto, Bud.
 
 404
-00:35:45,181 --> 00:35:46,580
-Desculpe.
+00:30:49,933 --> 00:30:53,686
+- Mas eu não sou uma flor.
+- Como eu suspeitei.
 
 405
-00:35:48,517 --> 00:35:50,117
-Um segundo.
+00:30:53,770 --> 00:30:57,941
+Ela não passa de uma
+"mobile vulgaris" comum.
 
 406
-00:35:59,617 --> 00:36:01,494
-Prove este aqui.
+00:30:58,066 --> 00:31:00,193
+Ah, não.
 
 407
-00:36:13,301 --> 00:36:14,675
-Gostei!
+00:31:00,276 --> 00:31:04,155
+- Uma o quê?
+- Para ser franca, uma erva daninha.
 
 408
-00:36:14,676 --> 00:36:17,207
-Sorte que o cão de caça
-está do nosso lado,
+00:31:04,239 --> 00:31:06,157
+Não sou erva daninha.
 
 409
-00:36:17,208 --> 00:36:18,628
-ou você estaria...
+00:31:06,241 --> 00:31:09,661
+- Não iria admitir.
+- Já pensaram?
 
 410
-00:36:18,629 --> 00:36:20,248
-O que querem comigo?
+00:31:09,744 --> 00:31:12,830
+- Minha nossa.
+- Não a deixe contaminar as sementes.
 
 411
-00:36:20,249 --> 00:36:22,735
-É melhor levá-la
-para a Rainha Branca,
+00:31:12,914 --> 00:31:15,375
+- Vá.
+- Por favor, vá.
 
 412
-00:36:22,736 --> 00:36:24,533
-estaria a salvo lá.
+00:31:15,458 --> 00:31:19,754
+- Não queremos ervas daninhas por aqui.
+- Vá andando.
 
 413
-00:36:24,534 --> 00:36:25,871
-Colher.
+00:31:25,677 --> 00:31:28,721
+Tudo bem. Se querem assim.
 
 414
-00:36:27,758 --> 00:36:29,687
-Sua carruagem,
-madame.
+00:31:28,805 --> 00:31:33,226
+Se eu estivesse do meu tamanho normal,
+poderia arrancá-Ias à vontade.
 
 415
-00:36:29,688 --> 00:36:31,594
--O chapéu?
--Claro.
+00:31:33,309 --> 00:31:35,645
+E aprenderiam a lição.
 
 416
-00:36:31,595 --> 00:36:34,024
-Qualquer um pode viajar
-de trem ou a cavalo,
+00:31:41,985 --> 00:31:45,029
+Tudo pode se aprender entre as flores.
 
 417
-00:36:34,025 --> 00:36:36,074
-mas a melhor forma de viajar
+00:31:46,155 --> 00:31:49,659
+Para mim, elas é que poderiam
+aprender uns bons modos.
 
 418
-00:36:36,075 --> 00:36:38,084
-é em um chapéu.
+00:31:53,329 --> 00:31:58,960
+<i>A, E, I, O,U</i>
 
 419
-00:36:38,085 --> 00:36:39,634
-Acabei de fazer uma rima.
+00:32:00,670 --> 00:32:05,425
+<i>A, E, I, O,U</i>
 
 420
-00:36:39,635 --> 00:36:42,441
-Adoro viajar em um chapéu.
+00:32:05,508 --> 00:32:09,679
+<i>A, E, I, O,U</i>
 
 421
-00:36:42,442 --> 00:36:44,746
-Mally!
-Só a Alice, por favor.
+00:32:12,015 --> 00:32:18,313
+<i>O, U, E, I, O,A</i>
 
 422
-00:36:44,747 --> 00:36:46,257
-Boa viagem a todos.
+00:32:19,022 --> 00:32:23,526
+<i>U, E, l,A</i>
 
 423
-00:36:53,591 --> 00:36:55,036
-Era "briluz",
+00:32:24,193 --> 00:32:30,199
+<i>A, E, I, O,U</i>
 
 424
-00:36:55,037 --> 00:36:57,020
-as "lesmolisas touvas" rodavam
+00:32:37,749 --> 00:32:41,294
+Quem é você?
 
 425
-00:36:57,021 --> 00:36:58,735
-e "relviam" nos "gramilvos".
+00:32:43,004 --> 00:32:45,048
+Sequer sei, senhor.
 
 426
-00:36:58,736 --> 00:37:00,876
-Estavam "mimsicais"
-as "pintalouvas",
+00:32:45,131 --> 00:32:47,800
+Mudei tantas vezes, sabe.
 
 427
-00:37:00,877 --> 00:37:03,047
-e os "momirratos"
-davam "grilvos".
+00:32:47,884 --> 00:32:50,678
+Eu não sei.
 
 428
-00:37:03,048 --> 00:37:04,558
-Desculpe,
-o que dizia?
+00:32:50,762 --> 00:32:55,141
+- Explique-se.
+- Acho que não saberia me explicar.
 
 429
-00:37:05,637 --> 00:37:06,972
-Algumas palavras.
+00:32:55,224 --> 00:32:59,646
+- Porque não sou eu mesma, sabe.
+- Eu não sei.
 
 430
-00:37:09,958 --> 00:37:12,346
-O Jabberwocky,
-com olhos de fogo,
+00:32:59,729 --> 00:33:03,608
+Não sei ser mais clara,
+pois não está claro para mim.
 
 431
-00:37:12,347 --> 00:37:15,187
-dentes que mordem,
-garras que arranham.
+00:33:03,733 --> 00:33:07,904
+Você? Quem é você?
 
 432
-00:37:15,188 --> 00:37:17,696
-Foge do Jabberwocky,
-filho!
+00:33:08,029 --> 00:33:11,115
+Bem, não acha que deve me dizer...
 
 433
-00:37:17,697 --> 00:37:19,946
-Do frumioso Babassurra!
+00:33:13,242 --> 00:33:16,245
+...antes, quem é você?
 
 434
-00:37:21,012 --> 00:37:23,552
-Ele arrancou
-sua espada Vorpal.
+00:33:16,996 --> 00:33:18,581
+Porquê?
 
 435
-00:37:23,553 --> 00:37:26,558
-Vaivém, vem-vai,
-para trás, para diante!
+00:33:19,874 --> 00:33:23,169
+Puxa vida. Está tudo tão confuso.
 
 436
-00:37:26,559 --> 00:37:28,278
-Cabeça fere, corta e,
+00:33:23,252 --> 00:33:26,214
+- Não está.
+- Para mim, está.
 
 437
-00:37:28,279 --> 00:37:29,929
-fera morta.
+00:33:26,297 --> 00:33:30,009
+- Por quê?
+- Não me lembro mais das coisas.
 
 438
-00:37:29,930 --> 00:37:32,619
-Ei-lo que volta galunfante.
+00:33:30,093 --> 00:33:32,178
+Recite.
 
 439
-00:37:34,149 --> 00:37:36,868
-É tudo sobre você, sabia?
+00:33:33,638 --> 00:33:35,807
+Sim, senhor.
 
 440
-00:37:36,869 --> 00:37:39,005
-Não matarei nada.
+00:33:36,265 --> 00:33:39,102
+Com que destreza a abelhinha
+Faz cada...
 
 441
-00:37:39,006 --> 00:37:41,921
-Não farei isto.
-Pode tirar isso da mente.
-
-442
-00:37:46,165 --> 00:37:47,594
-Mente.
-
-443
-00:37:54,278 --> 00:37:56,837
-Espere.
-Não pode me deixar aqui.
-
-444
-00:37:59,751 --> 00:38:01,795
-Não vai matar?
-
-445
-00:38:01,796 --> 00:38:04,568
-Sabe o que
-a Rainha de Copas fez?
-
-446
-00:38:05,192 --> 00:38:07,233
-Não matará?
-
-447
-00:38:07,234 --> 00:38:09,590
-Mesmo que quisesse,
-não poderia.
-
-448
-00:38:11,995 --> 00:38:14,897
-Você não é a mesma
-de antes.
-
-449
-00:38:14,898 --> 00:38:16,894
-Era bem mais...
-
-450
-00:38:16,895 --> 00:38:18,258
-grandiosa.
-
-451
-00:38:18,259 --> 00:38:20,808
-Perdeu sua grandiosidade.
-
-452
-00:38:20,809 --> 00:38:22,243
-Minha grandiosidade?
-
-453
-00:38:22,975 --> 00:38:24,327
-Ai dentro,
-
-454
-00:38:24,328 --> 00:38:25,941
-algo está faltando.
-
-455
-00:38:25,942 --> 00:38:28,412
-Diga-me o que
-a Rainha de Copas fez.
-
-456
-00:38:31,278 --> 00:38:32,819
-Não é agradável
-de contar.
-
-457
-00:38:33,682 --> 00:38:35,019
-Diga-me mesmo assim.
-
-458
-00:38:46,984 --> 00:38:48,311
-Foi bem aqui.
-
-459
-00:38:49,802 --> 00:38:52,954
-Eu era o chapeleiro
-da Rainha Branca.
-
-460
-00:38:53,905 --> 00:38:56,897
-Mas o Jabberwocky
-era empregado da corte.
-
-461
-00:40:48,848 --> 00:40:50,340
-Chapeleiro.
-
-462
-00:40:50,341 --> 00:40:51,734
-Chapeleiro!
-
-463
-00:40:52,547 --> 00:40:54,029
-Estou bem.
-
-464
-00:40:54,888 --> 00:40:56,409
-Está?
-
-465
-00:40:58,967 --> 00:41:00,355
-Escutou isso?
-
-466
-00:41:00,356 --> 00:41:02,897
-Tenho certeza de ter
-escutado algo.
-
-467
-00:41:02,898 --> 00:41:04,678
-O quê?
-
-468
-00:41:04,679 --> 00:41:07,083
-Valetes de Copas
-
-469
-00:41:41,936 --> 00:41:43,965
-Vá para o sul,
-até o fundo de Trotter.
-
-470
-00:41:43,966 --> 00:41:46,571
-O Castelo da Rainha Branca
-está logo depois.
-
-471
-00:41:46,572 --> 00:41:47,878
-Segure firme.
-
-472
-00:41:51,612 --> 00:41:54,281
-Fim à tirania
-da Rainha de Copas.
-
-473
-00:42:53,959 --> 00:42:56,096
-Achamos que os levaria
-para longe!
-
-474
-00:42:56,097 --> 00:42:57,691
-O chapeleiro confiou em você.
-
-475
-00:42:57,692 --> 00:43:00,228
-Raptaram meus filhos
-e minha esposa.
-
-476
-00:43:00,229 --> 00:43:01,811
-Como você se chama?
-
-477
-00:43:01,812 --> 00:43:03,205
-Bayard.
-
-478
-00:43:03,206 --> 00:43:04,559
-Senta.
-
-479
-00:43:06,152 --> 00:43:09,450
-E por acaso,
-seu nome é Alice?
-
-480
-00:43:09,451 --> 00:43:12,304
-Sim, mas não sou a Alice
-que todos falam.
-
-481
-00:43:12,305 --> 00:43:14,191
-O Chapeleiro
-não se entregaria
-
-482
-00:43:14,192 --> 00:43:15,819
-por uma Alice qualquer.
-
-483
-00:43:15,820 --> 00:43:17,379
-Para onde o levaram?
-
-484
-00:43:17,380 --> 00:43:19,268
-Ao castelo
-da Rainha de Copas,
-
-485
-00:43:19,269 --> 00:43:20,996
-em Salazen Grum.
-
-486
-00:43:20,997 --> 00:43:22,741
-Então vamos resgatá-lo.
-
-487
-00:43:22,742 --> 00:43:24,451
-Não foi o planejado.
-
-488
-00:43:24,452 --> 00:43:25,970
-E daí?
-
-489
-00:43:25,971 --> 00:43:28,152
-Foi capturado
-por minha culpa.
-
-490
-00:43:28,153 --> 00:43:30,933
-O Dia Fabuloso
-está chegando.
-
-491
-00:43:30,934 --> 00:43:33,563
-Deve preparar-se para
-enfrentar ao Jabberwocky.
-
-492
-00:43:33,564 --> 00:43:35,709
-Desde que caí naquele
-buraco de coelho,
-
-493
-00:43:35,710 --> 00:43:38,388
-foi me falado o que fazer,
-e quem devo ser.
-
-494
-00:43:38,389 --> 00:43:40,783
-Fui encolhida,
-esticada, arranhada,
-
-495
-00:43:40,784 --> 00:43:42,464
-e enfiada numa chaleira.
-
-496
-00:43:42,465 --> 00:43:44,784
-Fui acusada de ser
-e não ser Alice,
-
-497
-00:43:44,785 --> 00:43:46,439
-e esse sonho é meu!
-
-498
-00:43:46,440 --> 00:43:48,795
-Eu decidirei daqui em diante.
-
-499
-00:43:48,796 --> 00:43:50,552
-Se você sair do caminho...
-
-500
-00:43:50,553 --> 00:43:52,115
-Eu crio o caminho!
-
-501
-00:44:03,872 --> 00:44:06,192
-Leve-me até Salazen Grum,
-Bayard.
-
-502
-00:44:06,193 --> 00:44:08,119
-e não se esqueça
-do chapéu.
-
-503
-00:44:54,290 --> 00:44:56,147
-Há somente uma
-forma de atravessar.
-
-504
-00:45:02,204 --> 00:45:04,567
-Perdi minha grandiosidade?
-
-505
-00:45:48,531 --> 00:45:50,414
-Bayard, o chapéu!
-
-506
-00:46:20,092 --> 00:46:21,551
-Sua Majestade.
-
-507
-00:46:30,710 --> 00:46:32,170
-Sinto muito.
-
-508
-00:46:41,820 --> 00:46:43,915
-Esplêndida jogada!
-
-509
-00:46:46,417 --> 00:46:48,555
-Onde está minha bola?
-Page!
-
-510
-00:46:48,556 --> 00:46:50,459
-Sim, Sua Majestade.
-
-511
-00:46:52,941 --> 00:46:54,444
-Quero ajudá-lo.
-
-512
-00:46:59,755 --> 00:47:02,605
-Bem,
-se não é a falsa Alice.
-
-513
-00:47:03,552 --> 00:47:05,529
-O que a traz aqui?
-
-514
-00:47:05,530 --> 00:47:07,050
-Vim resgatar o chapeleiro.
-
-515
-00:47:07,051 --> 00:47:09,879
-Como pode resgatar alguém
-do tamanho de um hamster?
-
-516
-00:47:09,880 --> 00:47:12,744
-Teria algum pedaço daquele
-bolo que me fez crescer?
-
-517
-00:47:12,745 --> 00:47:16,064
-Upelkuchen? Na verdade,
-tenho um pedaço sobrando.
-
-518
-00:47:25,243 --> 00:47:26,920
-Não tudo!
-
-519
-00:47:27,642 --> 00:47:29,184
-Oh não, pare!
-
-520
-00:47:29,185 --> 00:47:30,611
-Não, não, não!
-
-521
-00:47:32,380 --> 00:47:33,971
-Page!
-
-522
-00:47:34,773 --> 00:47:36,081
-Oh querida...
-
-523
-00:47:41,532 --> 00:47:43,157
-E o que é isto?
-
-524
-00:47:43,158 --> 00:47:45,547
-É "quem", Majestade.
-
-525
-00:47:45,548 --> 00:47:47,756
-Isto é... hum...
-
-526
-00:47:48,908 --> 00:47:50,343
-Hum?
-
-527
-00:47:51,152 --> 00:47:52,718
-De Umbradge.
-
-528
-00:47:52,719 --> 00:47:54,594
-O que aconteceu
-com sua roupas?
-
-529
-00:47:55,439 --> 00:47:56,777
-Eu cresci demais.
-
-530
-00:47:56,778 --> 00:47:59,381
-Tenho crescido terrivelmente.
-
-531
-00:47:59,382 --> 00:48:02,649
-Eu me sobressaio sobre
-os demais em Umbradge.
-
-532
-00:48:02,650 --> 00:48:04,078
-Eles riem de mim.
-
-533
-00:48:04,079 --> 00:48:07,857
-Vim aqui na esperança de que
-entenda como é se sentir assim.
-
-534
-00:48:07,858 --> 00:48:11,409
-Minha querida, qualquer um
-com uma cabeça grande assim,
-
-535
-00:48:11,410 --> 00:48:12,963
-é bem-vindo
-em meu castelo.
-
-536
-00:48:12,964 --> 00:48:14,557
-Encontre alguma roupa.
-
-537
-00:48:14,558 --> 00:48:18,574
-Usem as cortinas se precisarem,
-mas vistam esta enorme menina.
-
-538
-00:48:27,647 --> 00:48:29,395
-Preciso de um porco aqui.
-
-539
-00:48:34,420 --> 00:48:38,114
-Gosto de por meus pés doloridos
-na barriga aquecida de um porco.
-
-540
-00:48:38,115 --> 00:48:39,604
-Gostaria de um?
-
-541
-00:48:39,605 --> 00:48:41,027
-Não, obrigada.
-
-542
-00:48:41,028 --> 00:48:42,405
-Sente-se.
-
-543
-00:48:44,759 --> 00:48:46,064
-Sente-se!
-
-544
-00:48:49,530 --> 00:48:50,870
-Vão embora!
-
-545
-00:48:54,145 --> 00:48:57,177
-Onde estão meus gorduchos?
-Precisa conhecê-los.
-
-546
-00:48:57,178 --> 00:48:58,601
-Gorduchos!
-
-547
-00:49:01,002 --> 00:49:03,611
-Lá estão eles.
-Não são adoráveis?
-
-548
-00:49:03,612 --> 00:49:05,563
-Eles tem um modo
-estranho de falar.
-
-549
-00:49:05,564 --> 00:49:07,725
-Falem garotos.
-Divirtam-nos.
-
-550
-00:49:14,875 --> 00:49:16,552
-Falem!
-
-551
-00:49:17,625 --> 00:49:20,633
--Não é aquela...?
--Não, não é. De jeito nenhum.
-
-552
-00:49:20,634 --> 00:49:22,235
-Ao contrário, creio que é...
-
-553
-00:49:22,236 --> 00:49:24,864
-Não! Não é isso que...
-De maneira alguma!
-
-554
-00:49:28,029 --> 00:49:30,896
-Adoro meus gorduchos.
-Agora, caiam fora.
-
-555
-00:50:00,532 --> 00:50:04,184
-Quem é esta adorável criatura?
-
-556
-00:50:07,016 --> 00:50:08,914
-Hum, minha nova favorita.
-
-557
-00:50:08,915 --> 00:50:10,604
--Ela tem nome?
--Hum.
-
-558
-00:50:10,605 --> 00:50:13,945
-Creio que seu nome
-fugiu da memória da rainha.
-
-559
-00:50:13,946 --> 00:50:16,149
-O nome dela é Hum, idiota!
-
-560
-00:50:17,867 --> 00:50:19,264
-De Umbradge.
-
-561
-00:50:19,265 --> 00:50:20,955
-Alguma sorte com o prisioneiro?
-
-562
-00:50:20,956 --> 00:50:23,058
-Ele é teimoso.
-
-563
-00:50:23,744 --> 00:50:25,124
-Ou você é muito mole.
-
-564
-00:50:25,813 --> 00:50:27,325
-Tragam-no!
-
-565
-00:50:50,746 --> 00:50:53,508
-Sabemos que Alice
-retornou ao Mundo Subterrâneo.
-
-566
-00:50:53,509 --> 00:50:54,909
-Sabe onde ela está?
-
-567
-00:50:57,145 --> 00:51:01,477
-Estive considerando coisas
-que começam com a letra "M".
-
-568
-00:51:01,478 --> 00:51:04,492
-Mentalmente mutilada.
-Maldosa.
-
-569
-00:51:04,493 --> 00:51:08,284
-Maníaca. Meretriz.
-
-570
-00:51:08,285 --> 00:51:10,661
-Procuramos por um "A", agora.
-
-571
-00:51:10,662 --> 00:51:12,992
-Onde está Alice?
-
-572
-00:51:12,993 --> 00:51:14,819
-Que coisa encantadora.
-
-573
-00:51:14,820 --> 00:51:16,897
-Não saberia dizer.
-
-574
-00:51:16,898 --> 00:51:20,026
-E se eu arrancasse sua cabeça?
-Saberia então?
-
-575
-00:51:21,470 --> 00:51:23,136
+00:33:39,185 --> 00:33:41,270
 Pare.
 
+442
+00:33:42,105 --> 00:33:45,274
+Não está recitando correctamente. É:
+
+443
+00:33:47,819 --> 00:33:49,946
+Com...
+
+444
+00:33:59,455 --> 00:34:04,043
+Com que destreza o crocodilo
+Não espadana a cauda
+
+445
+00:34:04,127 --> 00:34:09,507
+E na água rápida do Nilo
+Como ele não se espalda?
+
+446
+00:34:10,550 --> 00:34:12,927
+Que graça...
+
+447
+00:34:13,010 --> 00:34:14,512
+Que graça...
+
+448
+00:34:21,978 --> 00:34:24,564
+Que graça e que leveza aquela
+
+449
+00:34:24,647 --> 00:34:27,859
+Como ele é sedutor
+
+450
+00:34:27,942 --> 00:34:30,403
+E engole os peixinhos pela goela
+
+451
+00:34:30,486 --> 00:34:34,073
+Com um sorriso encantador
+
+452
+00:34:35,158 --> 00:34:37,660
+Eu nunca a ouvi desta forma antes.
+
+453
+00:34:37,744 --> 00:34:40,663
+Eu sei. Eu a melhorei.
+
+454
+00:34:40,747 --> 00:34:42,957
+Bem...
+
+455
+00:34:43,040 --> 00:34:46,252
+- Se me perguntasse...
+- Você?
+
+456
+00:34:46,335 --> 00:34:49,172
+Quem é você?
+
+457
+00:35:06,147 --> 00:35:08,941
+Você aí, garota.
+
+458
+00:35:09,025 --> 00:35:11,736
+Espere. Volte.
+
+459
+00:35:11,819 --> 00:35:13,988
+Tenho algo importante a dizer.
+
+460
+00:35:14,697 --> 00:35:16,282
+Puxa vida.
+
+461
+00:35:17,825 --> 00:35:20,536
+O que será que ele quer agora?
+
+462
+00:35:32,215 --> 00:35:33,508
+E então?
+
+463
+00:35:35,134 --> 00:35:38,596
+Controle seu humor.
+
+464
+00:35:38,679 --> 00:35:41,766
+- É só isso?
+- Não.
+
+465
+00:35:43,726 --> 00:35:47,647
+Qual é o seu problema exactamente?
+
+466
+00:35:47,730 --> 00:35:52,985
+É exactamente... É precisamente este.
+
+467
+00:35:53,069 --> 00:35:55,321
+Eu gostaria de estar
+um pouco maior, senhor.
+
+468
+00:35:55,404 --> 00:35:56,656
+Porquê?
+
+469
+00:35:56,739 --> 00:36:00,910
+Ora, três polegadas
+é uma altura tão desprezível.
+
+470
+00:36:00,993 --> 00:36:04,330
+Eu tenho exactamente três polegadas,
+
+471
+00:36:04,413 --> 00:36:07,166
+e esta é uma altura muito boa.
+
+472
+00:36:08,918 --> 00:36:13,422
+Mas eu não estou acostumada,
+e o senhor não precisava gritar.
+
+473
+00:36:16,509 --> 00:36:18,219
+Puxa vida.
+
+474
+00:36:18,302 --> 00:36:21,180
+Mudando de assunto,
+tenho uma dica pra você.
+
+475
+00:36:21,264 --> 00:36:25,184
+- Um lado a fará crescer.
+- Um lado do quê?
+
+476
+00:36:25,268 --> 00:36:28,187
+E o outro lado a fará encolher.
+
+477
+00:36:28,271 --> 00:36:32,275
+- O outro lado do quê?
+- Do cogumelo, é claro!
+
+478
+00:36:41,576 --> 00:36:44,537
+Um lado me fará...
+
+479
+00:36:44,620 --> 00:36:46,622
+Mas qual é qual?
+
+480
+00:36:49,166 --> 00:36:52,837
+Depois de tudo o que aconteceu,
+será que devo...
+
+481
+00:36:52,920 --> 00:36:54,964
+Ah, eu nem ligo.
+
+482
+00:36:56,465 --> 00:36:59,468
+Estou cansada de só ter três polegadas.
+
+483
+00:37:11,480 --> 00:37:13,190
+Uma serpente.
+
+484
+00:37:13,274 --> 00:37:16,652
+Socorro! Serpente!
+
+485
+00:37:17,194 --> 00:37:19,071
+Ei, calma.
+
+486
+00:37:19,155 --> 00:37:23,200
+Saia! Vá embora! Serpente!
+
+487
+00:37:23,284 --> 00:37:25,578
+Mas não sou uma serpente.
+
+488
+00:37:25,661 --> 00:37:28,748
+Mesmo? Então o que você é?
+
+489
+00:37:28,831 --> 00:37:32,919
+- Sou só uma pequena garota.
+- Pequena? Pequena?
+
+490
+00:37:34,503 --> 00:37:37,673
+Sou. Quer dizer, eu era.
+
+491
+00:37:37,757 --> 00:37:41,385
+E não vai me dizer
+que também não come ovos?
+
+492
+00:37:41,469 --> 00:37:44,931
+- Sim, eu como.
+- Eu sabia. Eu sabia.
+
+493
+00:37:45,056 --> 00:37:48,392
+Serpente. Serpente!
+
+494
+00:37:48,476 --> 00:37:50,353
+Pelo amor de Deus.
+
+495
+00:37:52,688 --> 00:37:55,983
+- E o outro lado...
+- Que idéia.
+
+496
+00:37:56,067 --> 00:37:59,862
+Perder meu tempo botando ovos
+para serpentes como ela.
+
+497
+00:38:09,372 --> 00:38:13,793
+Minha nossa.
+Será que algum dia eu pego o jeito?
+
+498
+00:38:21,133 --> 00:38:23,803
+Pronto. Bem melhor.
+
+499
+00:38:25,554 --> 00:38:27,682
+É bom eu guardá-los.
+
+500
+00:38:31,227 --> 00:38:34,355
+Vejamos. Onde eu estava?
+
+501
+00:38:35,564 --> 00:38:38,317
+POR AQUI
+POR ALI
+
+502
+00:38:38,401 --> 00:38:40,486
+Para que lado eu devo ir?
+
+503
+00:38:40,569 --> 00:38:45,741
+<i>Faz um briligue e estale os oves</i>
+
+504
+00:38:45,825 --> 00:38:49,996
+<i>E indicaire o bou que lhe de¡</i>
+
+505
+00:38:50,079 --> 00:38:54,291
+<i>A mu-zi-zin
+É do borogoves</i>
+
+506
+00:38:54,375 --> 00:38:59,005
+<i>E os momerats cantei</i>
+
+507
+00:38:59,088 --> 00:39:02,174
+Quando é que iríamos imaginar...
+
+508
+00:39:02,258 --> 00:39:04,552
+Perdeu alguma coisa?
+
+509
+00:39:07,013 --> 00:39:09,598
+Não, só estava me perguntando...
+
+510
+00:39:09,724 --> 00:39:11,809
+Tudo bem.
+
+511
+00:39:11,892 --> 00:39:13,936
+Um momento, por favor.
+
+512
+00:39:18,107 --> 00:39:19,608
+Segundo refrão:
+
+513
+00:39:19,692 --> 00:39:23,863
+<i>Faz um briligue e estale os oves</i>
+
+514
+00:39:23,946 --> 00:39:28,701
+<i>E indicaire o bou que lhe de¡</i>
+
+515
+00:39:28,784 --> 00:39:33,039
+- Ora, você é um gato.
+- Um gato de Cheshire.
+
+516
+00:39:33,122 --> 00:39:37,376
+<i>A mu-zi-zin
+É do borogoves</i>
+
+517
+00:39:37,460 --> 00:39:40,463
+Espere. Não se vá, por favor.
+
+518
+00:39:41,005 --> 00:39:43,382
+Está bem. Terceiro refrão.
+
+519
+00:39:43,466 --> 00:39:48,054
+Não. Obrigada, mas eu só queria
+saber para que lado devo ir.
+
+520
+00:39:48,137 --> 00:39:53,976
+Bem, isso depende
+de onde você quer chegar.
+
+521
+00:39:54,101 --> 00:39:56,479
+Isso não importa,
+contanto que eu...
+
+522
+00:39:56,604 --> 00:40:02,151
+Então não importa
+para que lado você vá.
+
+523
+00:40:12,328 --> 00:40:15,081
+Por falar nisso,
+
+524
+00:40:15,164 --> 00:40:20,336
+se quer mesmo saber,
+ele foi para aquele lado.
+
+525
+00:40:21,337 --> 00:40:23,506
+- Quem?
+- O coelho branco.
+
+526
+00:40:23,589 --> 00:40:25,841
+- Ele foi?
+- Ele foi para onde?
+
+527
+00:40:25,966 --> 00:40:27,593
+- Para aquele lado.
+- Quem foi?
+
+528
+00:40:27,676 --> 00:40:30,012
+- O coelho branco.
+- Que coelho?
+
+529
+00:40:30,096 --> 00:40:33,516
+Mas não acabou de dizer...
+Achei que... Puxa vida.
+
+530
+00:40:33,599 --> 00:40:36,393
+Sabe ficar de ponta-cabeça?
+
+531
+00:40:38,354 --> 00:40:44,026
+No entanto, se eu estivesse
+à procura de um coelho branco,
+
+532
+00:40:44,110 --> 00:40:46,695
+eu perguntaria ao Chapeleiro Louco.
+
+533
+00:40:46,779 --> 00:40:50,407
+O Chapeleiro Louco?
+Não, eu não quero...
+
+534
+00:40:50,491 --> 00:40:55,955
+Ou então, tem sempre
+a Lebre naquela direção.
+
+535
+00:40:56,038 --> 00:40:58,833
+Obrigada. Acho que irei visitá-Ia.
+
+536
+00:40:58,916 --> 00:41:02,128
+Claro que ela é maluca também.
+
+537
+00:41:02,211 --> 00:41:04,964
+Mas eu não quero
+me meter com gente maluca.
+
+538
+00:41:05,047 --> 00:41:07,716
+Isso você não pode evitar.
+
+539
+00:41:07,800 --> 00:41:10,511
+A maioria das pessoas são malucas aqui.
+
+540
+00:41:14,431 --> 00:41:17,226
+Você deve ter reparado
+
+541
+00:41:17,309 --> 00:41:21,897
+que eu estou mais pra Iá do que pra cá.
+
+542
+00:41:25,025 --> 00:41:29,071
+<i>E os momerats cantei</i>
+
+543
+00:41:29,155 --> 00:41:32,408
+Minha nossa.
+Se <i>as</i> pessoas aqui são assim,
+
+544
+00:41:32,491 --> 00:41:35,202
+melhor não contrariá-las.
+
+545
+00:41:37,413 --> 00:41:39,999
+Que coisa mais esquisita.
+
+546
+00:41:40,082 --> 00:41:43,335
+<i>Se não houver protesto
+Cantaremos numa vez</i>
+
+547
+00:41:43,419 --> 00:41:47,006
+<i>- Um feliz des-aniversário
+- Um bom des-aniversário</i>
+
+548
+00:41:47,089 --> 00:41:50,676
+<i>Um bom des-aniversário para nós</i>
+
+549
+00:42:08,360 --> 00:42:11,822
+<i>Um bom des-aniversário para mim</i>
+
+550
+00:42:11,906 --> 00:42:13,365
+<i>- Para quem?
+- Para mim</i>
+
+551
+00:42:13,449 --> 00:42:16,994
+<i>- Um bom des-aniversário para ti
+- Para mim?</i>
+
+552
+00:42:17,077 --> 00:42:20,122
+<i>Vamos cumprimentar-nos
+Com uma xícara de chá</i>
+
+553
+00:42:20,206 --> 00:42:23,250
+<i>Bom des-aniversário</i>
+
+554
+00:42:23,334 --> 00:42:28,923
+<i>Para t¡</i>
+
+555
+00:42:31,967 --> 00:42:33,385
+Não tem lugar.
+
+556
+00:42:35,471 --> 00:42:38,307
+- Não tem lugar.
+- Mas achei que estivesse vazio.
+
+557
+00:42:38,390 --> 00:42:40,643
+É feio sentar-se sem ter sido convidada.
+
+558
+00:42:40,768 --> 00:42:45,356
+É feio.
+É muito, muito feio mesmo.
+
+559
+00:42:45,439 --> 00:42:48,234
+Muito, muito, muito feio mesmo.
+
+560
+00:42:48,317 --> 00:42:51,570
+Eu sinto muito.
+Mas gostei muito da música.
+
+561
+00:42:51,654 --> 00:42:55,074
+- Será que podiam me dizer...
+- Gostou da nossa música?
+
+562
+00:42:55,157 --> 00:42:57,910
+Que menina gentil.
+
+563
+00:42:59,161 --> 00:43:01,997
+Estou tão emocionado.
+Nunca recebemos elogios.
+
+564
+00:43:02,081 --> 00:43:05,417
+- Precisa tomar um chá.
+- Sim, claro. O chá.
+
+565
+00:43:05,501 --> 00:43:08,587
+- Precisa tomar um chá.
+- Isto seria ótimo.
+
+566
+00:43:08,671 --> 00:43:11,966
+Desculpem ter interrompido a festa
+de aniversário de vocês. Obrigada.
+
+567
+00:43:12,049 --> 00:43:16,428
+Aniversário? Minha cara,
+isto não é uma festa de aniversário.
+
+568
+00:43:16,512 --> 00:43:19,265
+Claro que não.
+
+569
+00:43:19,348 --> 00:43:22,268
+Esta é uma festa de des-aniversário.
+
+570
+00:43:22,351 --> 00:43:26,272
+Des-aniversário?
+Desculpem, mas acho que não entendi.
+
+571
+00:43:26,397 --> 00:43:30,192
+É muito simples.
+São 30 dias no mês de set... Não.
+
+572
+00:43:31,235 --> 00:43:34,947
+Um des-aniversário...
+Se você faz aniversário, aí...
+
+573
+00:43:36,699 --> 00:43:39,076
+Ela não sabe o que é um des-aniversário.
+
+574
+00:43:39,159 --> 00:43:41,203
+Que tola.
+
+575
+00:43:46,375 --> 00:43:48,877
+Elucidarei.
+
 576
-00:51:23,137 --> 00:51:26,610
-Que lamentável
-grande cabeça você tem.
+00:43:54,466 --> 00:43:58,762
+<i>As estatísticas provam
+Que só há um aniversário</i>
 
 577
-00:51:26,611 --> 00:51:28,880
-Gostaria muito de vesti-la.
+00:43:58,846 --> 00:44:01,432
+<i>Menino!
+Um somente a cada ano</i>
 
 578
-00:51:28,881 --> 00:51:31,060
--Vesti-la?
--Sim.
+00:44:01,515 --> 00:44:06,270
+<i>Ah, mas há 364 des-aniversários</i>
 
 579
-00:51:31,061 --> 00:51:33,429
-Tinha a Rainha Branca,
-sabe,
+00:44:06,353 --> 00:44:08,981
+<i>Por isso nós estamos juntos
+aqui para brindar.</i>
 
 580
-00:51:33,430 --> 00:51:37,554
-não era bom trabalhar com ela,
-a cabeça era tão pequena.
+00:44:09,064 --> 00:44:11,775
+Então hoje é meu
+des-aniversário também.
 
 581
-00:51:37,555 --> 00:51:39,977
-Minúscula.
-Uma cabeça de alfinete.
+00:44:11,859 --> 00:44:15,237
+- É?
+- Que mundo pequeno.
 
 582
-00:51:39,978 --> 00:51:41,278
-Mas esta...
+00:44:15,321 --> 00:44:17,156
+Neste caso...
 
 583
-00:51:42,049 --> 00:51:45,874
-O que poderia fazer
-com este monumento...
+00:44:17,740 --> 00:44:20,034
+<i>Um bom des-aniversário</i>
 
 584
-00:51:45,875 --> 00:51:48,588
-Com todo este...
+00:44:20,117 --> 00:44:22,161
+<i>- Para mim?
+- Sim, sim</i>
 
 585
-00:51:48,589 --> 00:51:53,795
-Magnífico e heróico globo.
+00:44:22,244 --> 00:44:24,997
+<i>- Um bom des-aniversário
+- Para mim?</i>
 
 586
-00:51:56,965 --> 00:51:58,454
-O que poderia fazer?
+00:44:25,080 --> 00:44:26,165
+<i>Sim, sim</i>
 
 587
-00:52:00,313 --> 00:52:02,043
-Solte-o, Stayne.
+00:44:26,248 --> 00:44:30,502
+<i>Agora sopra a vela
+Mas não queimes o nariz</i>
 
 588
-00:52:03,007 --> 00:52:05,382
-Como pode trabalhar,
-se as mãos estão algemadas?
+00:44:33,881 --> 00:44:39,887
+<i>Um des-aniversário feliz</i>
 
 589
-00:52:14,103 --> 00:52:15,438
-Então...
+00:44:41,513 --> 00:44:44,808
+Brilha, brilha, morceguinho
 
 590
-00:52:15,439 --> 00:52:18,048
-Seria melhor
-um laço ou uma presilha?
+00:44:44,892 --> 00:44:47,353
+Brilha bem devagarinho
 
 591
-00:52:18,049 --> 00:52:21,167
-Ou algo de sua penteadeira.
+00:44:47,436 --> 00:44:50,481
+Desce, desce, vem pousar
 
 592
-00:52:21,168 --> 00:52:23,258
-Brincos. Broches.
+00:44:50,564 --> 00:44:53,525
+Aqui no bule do meu chá
 
 593
-00:52:23,259 --> 00:52:26,901
-Presilhas, pentes.
-Tiaras, enfeites.
+00:44:54,234 --> 00:44:58,864
+- Isso foi lindo.
+- E agora, minha querida...
 
 594
-00:52:26,902 --> 00:52:32,747
-Casquete, capeline,
-canotier, breton, meio breton...
+00:44:58,947 --> 00:45:01,700
+Você dizia que queria ver...
 
 595
-00:52:33,048 --> 00:52:35,245
--Chapeleiro!
--Sim?
+00:45:01,784 --> 00:45:03,285
+Perdão.
 
 596
-00:52:39,829 --> 00:52:41,684
-Deixem-nos!
+00:45:04,370 --> 00:45:07,498
+Estava procurando
+por alguma informação?
 
 597
-00:52:53,901 --> 00:52:56,933
-As árvores parecem tristes.
-Têm conversado com elas?
+00:45:07,581 --> 00:45:09,625
+Sim, estou procurando por um...
 
 598
-00:52:56,934 --> 00:53:00,585
--Sim, Sua Majestade.
--Talvez sendo mais gentil.
+00:45:09,708 --> 00:45:14,671
+- Trocar de xícara. E de lugar.
+- Mas eu nem usei a minha.
 
 599
-00:53:03,762 --> 00:53:06,475
-Poderiam me dar licença
-por um momento? Obrigada.
+00:45:14,755 --> 00:45:18,133
+<i>De xícara trocar, trocar de lugar
+De xícara trocar, trocar de lugar</i>
 
 600
-00:53:16,858 --> 00:53:18,449
-Que notícias traz, Bayard?
+00:45:18,217 --> 00:45:20,844
+Gostaria de um pouco mais de chá?
 
 601
-00:53:18,450 --> 00:53:21,518
-Alice retornou para
-o Mundo Subterrâneo.
+00:45:20,969 --> 00:45:24,223
+Mas ainda não tomei nenhum,
+logo não posso tomar mais.
 
 602
-00:53:21,519 --> 00:53:24,941
--Onde ela está agora?
--Em Salazen Grum.
+00:45:24,306 --> 00:45:27,643
+Ou seja, não pode tomar menos.
 
 603
-00:53:25,669 --> 00:53:29,846
-Perdoe-me. Permiti que ela
-se desviasse do caminho.
+00:45:27,726 --> 00:45:31,355
+Sim. Sempre se pode
+tomar mais que nada.
 
 604
-00:53:29,847 --> 00:53:35,092
-Não, é exatamente onde
-ela encontrará a espada Vorpal.
+00:45:31,480 --> 00:45:35,025
+- Mas eu só quis dizer que...
+- E agora, minha cara...
 
 605
-00:53:35,093 --> 00:53:39,127
-Temos um campeão. Descanse.
-Você fez muito bem.
+00:45:35,109 --> 00:45:37,820
+Algo parece lhe preocupar.
 
 606
-00:53:56,907 --> 00:53:59,580
-Viu um chapéu por aqui?
+00:45:39,196 --> 00:45:42,908
+- Não vai nos contar?
+- Comece do começo.
 
 607
-00:54:12,947 --> 00:54:14,615
-Precisa achar Alice, Stayne.
+00:45:42,991 --> 00:45:44,326
+Sim.
 
 608
-00:54:14,616 --> 00:54:19,015
-Sem o Jabberwocky, os seguidores
-da minha irmã ficarão contra mim.
+00:45:44,451 --> 00:45:49,206
+E quando chegar ao fim pare.
+Entendeu?
 
 609
-00:54:20,115 --> 00:54:23,683
-Aquela irmãzinha horrorosa.
-Por que amam ela e não a mim?
+00:45:49,289 --> 00:45:53,627
+Bem, tudo começou quando eu
+estava à beira do rio com Dinah.
 
 610
-00:54:23,684 --> 00:54:26,169
-Não entendo isso!
+00:45:53,710 --> 00:45:56,046
+Muito interessante.
 
 611
-00:54:26,170 --> 00:54:30,437
-És muito mais superior,
-sempre foi.
+00:45:56,130 --> 00:45:58,257
+Quem é Dinah?
 
 612
-00:54:30,438 --> 00:54:34,453
-Eu sei. Mas não posso culpá-los
-por se apaixonarem por ela.
+00:45:58,340 --> 00:46:00,509
+Dinah é minha gata. Sabem...
 
 613
-00:54:35,075 --> 00:54:37,734
-Homens, mulheres...
+00:46:01,260 --> 00:46:03,178
+Gata?
 
 614
-00:54:41,074 --> 00:54:43,444
-Até a mobília!
+00:46:09,268 --> 00:46:11,311
+Pegue a geléia. Ponha no nariz dele.
 
 615
-00:54:45,218 --> 00:54:47,419
-Até o rei...
+00:46:11,395 --> 00:46:13,522
+No nariz dele.
 
 616
-00:54:54,049 --> 00:54:57,624
-Tive que fazer isso,
-ou ele teria me deixado.
+00:46:17,192 --> 00:46:21,196
+Minha nossa.
+Este é o tipo de coisa que me irrita.
 
 617
-00:54:59,289 --> 00:55:01,229
-Majestade...
+00:46:21,280 --> 00:46:23,407
+Está vendo a confusão que criou?
 
 618
-00:55:02,343 --> 00:55:06,655
-não é melhor ser temida
-do que amada?
+00:46:23,490 --> 00:46:26,785
+- Eu não pensei que...
+- Se não pensa, não fale.
 
 619
-00:55:07,925 --> 00:55:10,101
-Não tenho mais certeza.
+00:46:26,869 --> 00:46:30,998
+Trocar de xícara. E de lugar.
 
 620
-00:55:11,212 --> 00:55:14,056
-Deixe-a com os rebeldes,
+00:46:31,081 --> 00:46:34,209
+- Mas eu ainda não a usei...
+- Chegue para Iá.
 
 621
-00:55:14,057 --> 00:55:17,610
-não preciso deles,
-pois tenho você.
+00:46:35,210 --> 00:46:37,754
+E então, minha cara,
+como estava dizendo?
 
 622
-00:55:36,780 --> 00:55:38,680
-Que maravilha.
+00:46:38,422 --> 00:46:44,261
+Oh, sim. Eu estava à beira
+do rio com você sabe quem.
 
 623
-00:55:40,372 --> 00:55:42,505
-Deixe-me experimentar um.
+00:46:44,344 --> 00:46:46,305
+Sei?
 
 624
-00:55:42,506 --> 00:55:46,161
-É bom poder costurar
-novamente.
+00:46:46,388 --> 00:46:50,559
+Minha G-A-T-A.
 
 625
-00:55:46,162 --> 00:55:49,170
-É uma pena que tenha
-que fazer para ela.
+00:46:50,642 --> 00:46:52,811
+Chá-tá?
 
 626
-00:55:54,467 --> 00:55:56,976
-Qual é o problema comigo?
+00:46:52,895 --> 00:46:55,606
+Só meia-xícara, se não se importar.
 
 627
-00:55:58,171 --> 00:55:59,704
-Chapeleiro.
+00:46:56,648 --> 00:46:59,818
+Vamos Iá, querida.
+Não gosta de chá?
 
 628
-00:56:10,265 --> 00:56:12,165
-Chapeleiro!
+00:46:59,902 --> 00:47:02,446
+Sim, gosto muito de chá, mas...
 
 629
-00:56:13,401 --> 00:56:17,658
-Faz ideia do porquê um corvo
-é como uma escrivaninha?
+00:47:02,529 --> 00:47:06,283
+Se não gosta, pelo menos
+converse educadamente.
 
 630
-00:56:17,659 --> 00:56:19,837
-Estou lutando, querida.
+00:47:06,366 --> 00:47:08,744
+Mas estou tentando perguntar...
 
 631
-00:56:19,838 --> 00:56:22,686
-Não gosto daqui.
-Está muito lotado.
+00:47:08,827 --> 00:47:10,913
+Tenho uma excelente ideia.
 
 632
-00:56:26,425 --> 00:56:28,361
-Será que fiquei louco?
+00:47:10,996 --> 00:47:13,207
+Vamos mudar de assunto.
 
 633
-00:56:33,038 --> 00:56:36,478
-Acho que sim,
-você está totalmente louco.
+00:47:14,917 --> 00:47:18,128
+O que um corvo e uma mesa
+têm em comum?
 
 634
-00:56:37,766 --> 00:56:40,058
-Contarei um segredo.
+00:47:18,253 --> 00:47:22,424
+Charadas? Deixe-me ver.
 
 635
-00:56:40,059 --> 00:56:42,508
-Somente as melhores
-pessoas são.
+00:47:22,508 --> 00:47:26,678
+O que um corvo e uma mesa
+têm em comum?
 
 636
-00:56:49,340 --> 00:56:51,240
-Aqui...
+00:47:26,762 --> 00:47:29,681
+- O que disse?
+- O que o corvo e a mesa têm em comum?
 
 637
-00:56:53,763 --> 00:56:57,009
-Bem melhor.
-Parece com você de novo!
+00:47:29,765 --> 00:47:32,559
+- Como é que é?
+- Cuidado.
 
 638
-00:56:59,896 --> 00:57:01,868
-<i>Chapeleiro?
-Cadê meu chapéu?</i>
+00:47:32,643 --> 00:47:37,856
+- Ela esta totalmente biruta.
+- É a sua charada boba. Você disse...
 
 639
-00:57:01,869 --> 00:57:03,771
-<i>Não sou uma pessoa paciente!</i>
+00:47:37,940 --> 00:47:40,984
+- Não fique nervosa.
+- Que tal uma xícara de chá?
 
 640
-00:57:03,772 --> 00:57:06,498
-Soube que ela guarda
-a espada Vorpal no castelo,
+00:47:41,109 --> 00:47:45,072
+Uma xícara de chá seria ótimo.
+Mas eu não tenho tempo.
 
 641
-00:57:06,499 --> 00:57:07,973
-o Coelho lhe ajudará.
+00:47:45,948 --> 00:47:48,367
+O tempo? Quem está com o tempo?
 
 642
-00:57:07,974 --> 00:57:11,350
-Ache-a Alice.
-Leve-a para a Rainha Branca.
+00:47:48,450 --> 00:47:50,577
+Não. Não há tempo.
 
 643
-00:57:11,351 --> 00:57:13,466
-Veremos a Rainha Branca
-juntos.
+00:47:50,661 --> 00:47:53,121
+Alô, adeus. É tarde.
 
 644
-00:57:13,667 --> 00:57:17,976
-Por que você é sempre
-tão baixa ou tão alta?
+00:47:53,205 --> 00:47:57,292
+- O coelho branco.
+- Estou tão, tão atrasado.
 
 645
-00:57:30,327 --> 00:57:33,460
--Tweedles!
--Oi, Alice! Como você está?
+00:47:57,376 --> 00:48:02,631
+Não poderia deixar de estar.
+Este relógio está dois dias atrasado.
 
 646
-00:57:33,461 --> 00:57:36,208
--Onde está o coelho?
--Como você ficou tão grande?
+00:48:02,714 --> 00:48:05,801
+- Dois dias?
+- Claro que você está atrasado.
 
 647
-00:57:36,209 --> 00:57:38,768
-Ela não está grande.
-Está como normalmente é!
+00:48:05,926 --> 00:48:09,471
+Minha nossa.
+Teremos que dar um jeito nisso.
 
 648
-00:57:38,769 --> 00:57:40,811
-Era bem menor quando
-a conhecemos.
+00:48:11,640 --> 00:48:16,144
+Já seio que há de errado.
+Este relógio está cheio de rodinhas.
 
 649
-00:57:40,812 --> 00:57:44,319
-Não. Ela bebeu a poção
-para passar pela porta, lembra?
+00:48:16,228 --> 00:48:19,773
+Meu pobre relógio.
+Minhas rodas e molas.
 
 650
-00:57:45,520 --> 00:57:47,732
--Onde está o coelho?
--Por aqui.
+00:48:20,816 --> 00:48:23,068
+- Mas, mas, mas...
+- Mais manteiga, claro.
 
 651
-00:57:56,729 --> 00:57:59,399
--O que está fazendo aqui?
--Salvando o Chapeleiro.
+00:48:23,151 --> 00:48:25,821
+Ele precisa de manteiga. Manteiga.
 
 652
-00:57:59,400 --> 00:58:00,910
-Eu é que o estou salvando!
+00:48:25,904 --> 00:48:29,491
+- Manteiga!
+- Manteiga?
 
 653
-00:58:00,911 --> 00:58:03,990
-Ele disse que a espada Vorpal
-está escondida no castelo.
+00:48:29,575 --> 00:48:32,703
+Obrigado. Manteiga. Está ótimo.
 
 654
-00:58:03,991 --> 00:58:05,291
-Ajude-me a achá-la.
+00:48:32,786 --> 00:48:35,247
+Não. Está cheia de migalhas.
 
 655
-00:58:05,292 --> 00:58:08,002
-Não aceito ordens
-de uma menina deselegante...
+00:48:35,330 --> 00:48:38,208
+Esta manteiga é de primeira.
+O que está pensando?
 
 656
-00:58:13,124 --> 00:58:16,862
--O que foi, Coelho Branco?
--Sei onde a espada está.
+00:48:38,292 --> 00:48:42,212
+- Chá?
+- Nunca tinha pensado nisso. Claro.
 
 657
-00:58:23,140 --> 00:58:25,040
-A espada está lá dentro.
+00:48:42,296 --> 00:48:44,089
+- Chá, não.
+- Açúcar?
 
 658
-00:58:26,739 --> 00:58:28,639
-Tenha cuidado, Alice.
+00:48:44,172 --> 00:48:46,383
+Açúcar, só duas colheres.
 
 659
-00:58:38,102 --> 00:58:40,002
-Reconheço esse cheiro.
+00:48:46,508 --> 00:48:49,136
+- Obrigado.
+- Por favor, cuidado.
 
 660
-00:58:49,309 --> 00:58:51,209
-Não vou entrar aí!
+00:48:49,219 --> 00:48:52,222
+- Geléia.
+- Eu tinha esquecido da geléia.
 
 661
-00:58:52,303 --> 00:58:54,661
-Olhe o que essa coisa
-fez com o meu braço!
+00:48:52,306 --> 00:48:54,766
+- Vão ver só que beleza.
+- Mostarda.
 
 662
-00:58:54,662 --> 00:58:58,582
-Querida,
-por que não falou isso?
+00:48:54,850 --> 00:48:56,685
+Sim, mostarda.
 
 663
-00:58:58,583 --> 00:59:00,483
-Nunca esteve tão ruim.
+00:48:56,768 --> 00:49:01,189
+Mostarda? Não seja tolo.
 
 664
-00:59:16,107 --> 00:59:18,512
-Chapeleiro?
+00:49:01,273 --> 00:49:04,234
+Limão, que diferente. Pronto.
 
 665
-00:59:18,513 --> 00:59:20,413
-Onde está você?
+00:49:04,318 --> 00:49:06,403
+Isso deve dar certo.
 
 666
-00:59:21,108 --> 00:59:23,008
-Chapeleiro!
+00:49:09,031 --> 00:49:11,199
+- Olhe pra isso.
+- Está ficando doido.
 
 667
-00:59:23,868 --> 00:59:25,677
-Dormidongo!
+00:49:11,283 --> 00:49:14,286
+- Puxa, vida.
+- Está ficando doido.
 
 668
-00:59:25,678 --> 00:59:28,095
-Você ainda tem
-o olho de Bandersnatch?
+00:49:14,369 --> 00:49:16,455
+Relógio doido. Relógio doido.
+Relógio doido!
 
 669
-00:59:28,096 --> 00:59:31,242
--Bem aqui.
--Preciso dele.
+00:49:16,538 --> 00:49:19,291
+Vejam. Minha nossa!
 
 670
-00:59:31,243 --> 00:59:33,143
-Venha e pegue!
+00:49:19,374 --> 00:49:22,252
+Só há uma maneira
+de parar um relógio doido.
 
 671
-00:59:35,064 --> 00:59:36,964
-Devolva!
+00:49:25,589 --> 00:49:28,091
+Dois dias atrasado, é isso.
 
 672
-00:59:48,980 --> 00:59:50,880
-Gosto de você, Hum.
+00:49:28,175 --> 00:49:31,136
+- Meu relógio.
+- Era seu?
 
 673
-00:59:52,347 --> 00:59:55,688
-Gosto de coisas grandes.
+00:49:31,219 --> 00:49:35,098
+- E era um presente de des-aniversário.
+- Neste caso...
 
 674
-00:59:55,689 --> 00:59:57,589
-Saia de perto de mim.
+00:49:35,182 --> 00:49:37,517
+<i>Um bom des-aniversário</i>
 
 675
-01:00:14,933 --> 01:00:16,997
-Estou com o seu olho.
+00:49:37,601 --> 00:49:41,229
+<i>Para t¡</i>
 
 676
-01:01:29,372 --> 01:01:31,272
-Não.
+00:49:41,355 --> 00:49:43,440
+Sr. Coelho.
 
 677
-01:01:34,559 --> 01:01:36,842
-Está maravilhosa nesse chapéu!
+00:49:43,523 --> 00:49:45,400
+Oh, Sr. Coelho!
 
 678
-01:01:36,843 --> 01:01:39,407
-Sim... Próximo!
+00:49:45,484 --> 00:49:46,902
+Para onde ele foi?
 
 679
-01:01:42,978 --> 01:01:45,593
-Sua Majestade nunca
-pareceu tão bem.
+00:49:47,027 --> 00:49:49,738
+<i>Um bom des-aniversário
+Para nós, Para nós</i>
 
 680
-01:01:46,660 --> 01:01:48,560
-Outro!
+00:49:49,821 --> 00:49:53,825
+<i>Um bom des-aniversário
+Para nós, Para nós</i>
 
 681
-01:01:58,116 --> 01:02:01,206
-Não quero te alarmar,
-mas pelo cheiro...
+00:49:53,909 --> 00:49:55,786
+Quanta maluquice.
 
 682
-01:02:01,207 --> 01:02:03,404
-Pode ter perdido algo.
+00:49:55,869 --> 00:50:00,207
+Este é o chá mais
+bobo em que já estive.
 
 683
-01:02:16,160 --> 01:02:18,222
-Não se importe, querida.
-Ele é louco.
+00:50:05,045 --> 00:50:07,047
+Já chega de maluquices.
 
 684
-01:02:18,223 --> 01:02:20,123
-Continue!
+00:50:07,130 --> 00:50:10,926
+Vou para casa.
+Direto para casa.
 
 685
-01:02:25,148 --> 01:02:30,389
-Pare!
+00:50:12,094 --> 00:50:15,514
+Aquele coelho.
+Quem liga para onde ele vai?
 
 686
-01:03:22,441 --> 01:03:25,463
-Acho que estamos quites agora.
+00:50:17,265 --> 00:50:19,685
+Se não fosse ele, eu...
 
 687
-01:04:05,026 --> 01:04:10,922
-Hum se jogou em mim. Contei
-que meu coração pertence a você.
+00:50:19,768 --> 00:50:22,521
+?n
 
 688
-01:04:10,923 --> 01:04:14,360
-Mas ela está
-obcecada por mim.
+00:50:24,606 --> 00:50:28,110
+Estranho. Não me lembro disso.
 
 689
-01:04:19,038 --> 01:04:21,199
-Cortem-lhe a cabeça!
+00:50:31,780 --> 00:50:33,865
+Deixe-me ver.
 
 690
-01:04:23,533 --> 01:04:25,771
-Afaste-se, Dormidongo.
+00:50:41,873 --> 00:50:45,585
+Não, por favor.
+Chega de maluquices.
 
 691
-01:04:25,772 --> 01:04:27,600
-Que tal isso por só olhar?
+00:50:50,048 --> 00:50:53,802
+Se eu vim por aqui,
 
 692
-01:04:27,601 --> 01:04:30,306
-Não, não. Não deve ser usado
-pra qualquer coisa.
+00:50:53,927 --> 00:50:56,513
+tenho que voltar por aqui.
 
 693
-01:04:31,518 --> 01:04:34,864
-Prendam essa garota
-por enganação e sedução.
+00:50:57,139 --> 00:50:59,474
+Desculpem-me.
 
 694
-01:04:34,865 --> 01:04:36,765
-Chapeleiro!
+00:51:18,660 --> 00:51:23,749
+Nossa. Quando voltar para casa, tenho
+que escrever um livro sobre este lugar.
 
 695
-01:04:37,927 --> 01:04:39,512
-Leve isso para
-a Rainha Branca.
+00:51:23,832 --> 00:51:27,502
+Se algum dia eu voltar para casa.
 
 696
-01:04:39,513 --> 01:04:41,592
--Não vou sem você.
--Vá!
+00:51:39,890 --> 00:51:42,017
+Com licença.
 
 697
-01:05:07,963 --> 01:05:10,251
-Corra, Alice!
+00:51:42,809 --> 00:51:45,520
+Será que um de vocês poderia...?
 
 698
-01:05:12,912 --> 01:05:15,282
-Alice.
+00:51:52,068 --> 00:51:54,196
+Deixem pra Iá.
 
 699
-01:05:15,283 --> 01:05:17,183
-Corra!
+00:51:59,075 --> 00:52:02,871
+Puxa, está ficando escuro à beça.
 
 700
-01:05:22,254 --> 01:05:24,154
-Peguem-na!
+00:52:02,954 --> 00:52:05,207
+E nada me parece familiar.
 
 701
-01:05:35,309 --> 01:05:37,742
-Alice?
+00:52:15,509 --> 00:52:18,595
+Eu ficaria muito feliz em sair...
 
 702
-01:05:37,743 --> 01:05:40,175
-Claro, como não percebi?
+00:52:43,703 --> 00:52:47,874
+Seria tão bom se as coisas
+voltassem a ser como antes.
 
 703
-01:05:40,176 --> 01:05:43,758
-Bem, já faz um bom tempo.
+00:52:59,427 --> 00:53:03,640
+"Não pise nos momerats."
 
 704
-01:05:43,759 --> 01:05:48,426
-E você era só uma garotinha.
-Me dê a espada.
+00:53:03,765 --> 00:53:05,809
+Nos momerats?
 
 705
-01:05:49,613 --> 01:05:52,542
--Para trás!
--A rainha ficará contente.
+00:53:15,569 --> 00:53:18,822
+Um caminho. Até que enfim.
 
 706
-01:05:52,543 --> 01:05:56,854
-Terá grande prazer
-em cortar-lhe a cabeça.
+00:53:20,282 --> 00:53:23,702
+Eu sabia que mais cedo
+ou mais tarde encontraria um.
 
 707
-01:06:16,798 --> 01:06:18,765
-Olá, Alice!
+00:53:23,785 --> 00:53:27,706
+Se correr, talvez ainda chegue
+a tempo para o chá.
 
 708
-01:06:18,766 --> 01:06:21,478
-Bayard, ao marmóreo!
+00:53:28,665 --> 00:53:31,585
+Dinah ficará tão feliz em me ver!
 
 709
-01:06:28,854 --> 01:06:32,513
-Majestade, Alice escapou.
+00:53:33,545 --> 00:53:35,797
+Mal posso esperar por...
 
 710
-01:06:36,123 --> 01:06:39,526
-No Bandersnatch!
+00:53:51,229 --> 00:53:53,356
+Essa não.
 
 711
-01:06:41,094 --> 01:06:45,287
-E com a espada Vorpal.
+00:53:53,440 --> 00:53:56,234
+Agora é que nunca vou embora.
 
 712
-01:06:47,113 --> 01:06:50,093
-Como deixou isso acontecer?
+00:53:58,987 --> 00:54:01,656
+Bem, quando estamos perdidos,
 
 713
-01:06:50,094 --> 01:06:52,887
-Posso tê-la subestimado.
+00:54:01,781 --> 00:54:05,785
+acho que um bom conselho
 
 714
-01:06:52,888 --> 01:06:56,272
-Mas temos seus cúmplices.
+00:54:05,869 --> 00:54:09,497
+é ficar parado
+até que alguém nos ache.
 
 715
-01:06:56,273 --> 01:07:01,278
-O Chapeleiro e o Dormidongo.
+00:54:10,624 --> 00:54:13,668
+Mas quem é que iria pensar
+em me procurar aqui?
 
 716
-01:07:01,279 --> 01:07:03,179
-Cortem-lhes as cabeças!
+00:54:16,254 --> 00:54:17,714
+Bons conselhos.
 
 717
-01:07:21,701 --> 01:07:23,537
-Bem-vinda ao Marmóreo.
+00:54:19,841 --> 00:54:23,261
+Se eu os tivesse ouvido,
+não estaria aqui.
 
 718
-01:07:23,538 --> 01:07:26,170
-Acredito que isso te pertença.
+00:54:23,345 --> 00:54:27,098
+Mas este é o meu problema.
 
 719
-01:07:39,254 --> 01:07:42,406
-A espada Vorpal
-está em casa de novo.
+00:54:27,182 --> 00:54:31,686
+Muito juízo. Sempre, sempre eu digo.
 
 720
-01:07:43,993 --> 01:07:46,443
-A armadura está completa.
+00:54:31,770 --> 00:54:35,690
+<i>Mas eu se¡ que nunca, nunca sigo</i>
 
 721
-01:07:49,188 --> 01:07:53,646
-Tudo o que precisamos
-é um campeão.
+00:54:37,692 --> 00:54:40,946
+<i>As coisas que eu digo</i>
 
 722
-01:07:54,297 --> 01:07:56,944
-Está bem mais
-alta do que lembro.
+00:54:41,029 --> 00:54:44,074
+<i>Boas pra mim</i>
 
 723
-01:07:56,945 --> 01:07:59,459
-Andei comendo
-muito Upelkuchen.
+00:54:46,618 --> 00:54:51,623
+<i>Paciência, eis um bom conselho</i>
 
 724
-01:07:59,460 --> 01:08:02,620
-Venha comigo.
+00:54:51,706 --> 00:54:55,377
+<i>Mas eu sou tão curiosa</i>
 
 725
-01:08:07,416 --> 01:08:09,147
-A Lebre de março está aqui?
+00:54:56,544 --> 00:54:59,589
+<i>Se não fosse assim</i>
 
 726
-01:08:09,148 --> 01:08:12,629
-Precisa de mais pimenta.
+00:54:59,673 --> 00:55:04,886
+<i>Tudo estaria bem</i>
 
 727
-01:08:13,250 --> 01:08:15,150
-Precisa de um pouco sal.
+00:55:07,055 --> 00:55:12,185
+<i>Pois é, lá ia eu feliz da vida</i>
 
 728
-01:08:22,840 --> 01:08:25,576
-Vejamos...
+00:55:12,310 --> 00:55:16,898
+<i>Tão, tão despreocupadamente</i>
 
 729
-01:08:26,941 --> 01:08:29,822
-Uma pitada de
-gordura de verme.
+00:55:18,608 --> 00:55:21,152
+<i>E de repente</i>
 
 730
-01:08:31,364 --> 01:08:33,719
-Molhar um pouco.
+00:55:21,236 --> 00:55:25,824
+<i>Eu bem se¡ que me enganei</i>
 
 731
-01:08:34,994 --> 01:08:37,603
-E dedos amanteigados.
+00:55:26,700 --> 00:55:29,285
+<i>Não sei, não sei</i>
 
 732
-01:08:41,933 --> 01:08:47,872
-Minha irmã preferiu estudar
-soberania a seres vivos.
+00:55:29,411 --> 00:55:35,083
+<i>Muito juízo, sempre, sempre eu digo</i>
 
 733
-01:08:49,392 --> 01:08:54,225
--Diga, o que achou dela?
--Perfeitamente horrível.
+00:55:36,084 --> 00:55:39,421
+<i>Mas eu não consigo ter</i>
 
 734
-01:08:55,480 --> 01:08:58,417
-E... a cabeça?
+00:55:42,257 --> 00:55:44,843
+<i>Também, bem-feito</i>
 
 735
-01:08:58,418 --> 01:09:00,442
-Bulbiforme.
+00:55:44,926 --> 00:55:50,598
+<i>Que é para eu aprender</i>
 
 736
-01:09:00,443 --> 01:09:05,966
-Ela deve ter algo crescendo,
-pressionando seu cérebro.
+00:55:52,058 --> 00:55:55,437
+<i>Também, bem-feito</i>
 
 737
-01:09:05,967 --> 01:09:11,773
-3 moedas do bolso de um morto,
-2 colheres de pensamentos bons.
+00:55:58,606 --> 00:56:06,614
+<i>Que é para eu aprender</i>
 
 738
-01:09:11,774 --> 01:09:15,523
-Não imagina as coisas
-que acontecem naquele lugar.
+00:56:13,455 --> 00:56:17,876
+<i>E os momerats cantei</i>
 
 739
-01:09:15,524 --> 01:09:17,684
-Eu imagino.
+00:56:17,959 --> 00:56:20,045
+Gato de Cheshire, é você.
 
 740
-01:09:17,685 --> 01:09:22,993
-Mas quando um campeão
-matar o Jabberwocky,
+00:56:20,128 --> 00:56:24,174
+Quem esperava que fosse?
+O coelho branco, por acaso?
 
 741
-01:09:22,994 --> 01:09:25,823
-o povo se levantará
-contra ela.
+00:56:24,257 --> 00:56:28,219
+Não. Já estou farta de coelhos.
 
 742
-01:09:28,461 --> 01:09:30,518
-Deve estar bom.
+00:56:28,303 --> 00:56:32,849
+Quero ir para casa.
+Mas não acho o meu caminho.
 
 743
-01:09:33,460 --> 01:09:35,533
-Assopre.
+00:56:32,974 --> 00:56:36,644
+Naturalmente.
+Você não tem um caminho.
 
 744
-01:09:48,867 --> 01:09:51,997
--Sente-se melhor?
--Muito. Obrigada.
+00:56:36,728 --> 00:56:41,357
+Todos os caminhos aqui são da rainha.
 
 745
-01:09:51,998 --> 01:09:54,360
-Tem alguém que gostaria
-de falar com você.
+00:56:42,484 --> 00:56:48,114
+- Mas nunca vi nenhuma rainha.
+- Não viu? Não viu?
 
 746
-01:10:14,932 --> 01:10:16,471
-Absolem?
+00:56:48,198 --> 00:56:50,325
+Mas tem que ver.
 
 747
-01:10:16,472 --> 01:10:18,576
-Quem é?
+00:56:50,408 --> 00:56:54,245
+Ela vai ficar louca por você.
+Louca.
 
 748
-01:10:21,952 --> 01:10:24,009
-Pensei que tínhamos
-estabelecido isso.
+00:56:54,329 --> 00:56:56,414
+<i>E os momerats cantei</i>
 
 749
-01:10:24,010 --> 01:10:26,994
-Sou a Alice.
-Mas não aquela Alice.
+00:56:56,498 --> 00:57:00,043
+Por favor. Como posso encontrá-Ia?
 
 750
-01:10:26,995 --> 01:10:29,887
--Como você sabe?
--Você mesmo disse.
+00:57:00,126 --> 00:57:02,796
+Bem, alguns vão por aqui.
 
 751
-01:10:29,888 --> 01:10:32,450
-Disse que não era
-Alice o suficiente.
+00:57:02,879 --> 00:57:05,090
+Alguns vão por ali.
 
 752
-01:10:32,451 --> 01:10:37,068
-Mas é muito mais ela, agora.
-De fato, é quase Alice.
+00:57:05,173 --> 00:57:07,884
+Mas eu, pessoalmente,
 
 753
-01:10:37,669 --> 01:10:39,058
-Mesmo assim,
+00:57:08,009 --> 00:57:10,929
+prefiro o atalho.
 
 754
-01:10:39,059 --> 01:10:42,336
-não mataria o Jabberwocky mesmo
-se minha vida dependesse disso.
+00:57:28,613 --> 00:57:32,283
+<i>Vamos pintando assim
+As rosas cor de carmim</i>
 
 755
-01:10:42,337 --> 01:10:44,108
-E dependerá.
+00:57:32,367 --> 00:57:36,204
+<i>É bom pintar, é bom passar
+A tinta até o fim</i>
 
 756
-01:10:44,109 --> 01:10:47,791
-Então sugiro que tenha
-a espada Vorpal nas mãos,
+00:57:36,329 --> 00:57:41,459
+<i>Estamos pintando sim
+As rosas cor de Carmim</i>
 
 757
-01:10:47,792 --> 01:10:49,937
-quando o Dia Fabuloso chegar.
+00:57:44,420 --> 00:57:48,258
+<i>Vamos pintando assim
+As rosas cor de carmim</i>
 
 758
-01:10:49,938 --> 01:10:52,551
-Você parece tão real.
+00:57:48,341 --> 00:57:51,261
+<i>É triste ver
+Que irão morrer</i>
 
 759
-01:10:52,552 --> 01:10:56,006
-Às vezes eu esqueço
-que isso é só um sonho.
+00:57:51,344 --> 00:57:54,013
+<i>As rosas do jardim</i>
 
 760
-01:10:58,311 --> 01:11:00,700
-Pare de fazer isso!
+00:57:55,557 --> 00:57:59,394
+<i>Terão um triste fim
+Todas assim, assim</i>
 
 761
-01:11:19,453 --> 01:11:23,441
-Sempre admirei aquele chapéu.
+00:58:02,438 --> 00:58:06,151
+<i>Vamos pintando enfim
+As rosas cor de carmim</i>
 
 762
-01:11:23,442 --> 01:11:25,483
-Olá, Gato.
+00:58:06,234 --> 00:58:10,071
+<i>Com o perdão da vez, Sr. O Três,
+mas por que cor de Carmim?</i>
 
 763
-01:11:25,484 --> 01:11:28,487
-Como não vai mais
-precisar dele...
+00:58:13,408 --> 00:58:15,535
+Bem, o fato é, senhorita,
 
 764
-01:11:29,545 --> 01:11:32,658
-Poderia considerar
-deixá-lo pra mim?
+00:58:15,618 --> 00:58:19,998
+que plantamos rosas brancas
+por engano, e...
 
 765
-01:11:32,659 --> 01:11:34,340
-Como se atreve?
+00:58:20,081 --> 00:58:23,751
+<i>A rainha é assim
+Só quer cor de carmim</i>
 
 766
-01:11:34,341 --> 01:11:38,284
-Numa execução formal,
-gostaria de parecer meu melhor.
+00:58:23,835 --> 00:58:25,879
+<i>- Se ela chegar
+- E nosso azar</i>
 
 767
-01:11:38,285 --> 01:11:41,072
-Isso é uma pena.
+00:58:25,962 --> 00:58:28,798
+<i>- Será o nosso fim.
+- Minha nossa.</i>
 
 768
-01:11:41,073 --> 01:11:44,445
-Estava ansioso em vê-lo
-dançar o Futterwacken.
+00:58:28,882 --> 00:58:35,096
+<i>E como morrer é ruim
+Pintamos cor de Carmim</i>
 
 769
-01:11:44,446 --> 01:11:47,324
-Eu gostaria de dançar,
-mas não posso.
+00:58:35,180 --> 00:58:38,683
+Puxa, vida. Deixem-me ajudá-los.
 
 770
-01:11:47,325 --> 01:11:51,513
-Amo muito esse chapéu.
+00:58:38,766 --> 00:58:42,437
+<i>Vamos pintando assim
+As rosas cor de carmim</i>
 
 771
-01:11:51,514 --> 01:11:55,383
-Vou usá-lo nas ocasiões
-mais sofisticadas.
+00:58:42,520 --> 00:58:46,274
+<i>Silêncio pois
+Senão depois será muito ruim</i>
 
 772
-01:12:01,852 --> 01:12:04,210
-Adoro execuções matinais.
-Vocês não?
+00:58:46,399 --> 00:58:49,944
+<i>- Pintamos até o fim
+- Sim, todas cor de carmim</i>
 
 773
-01:12:04,211 --> 01:12:06,403
-Sim, majestade!
+00:58:50,028 --> 00:58:51,487
+<i>- Nem azul
+- Nem verde</i>
 
 774
-01:12:49,325 --> 01:12:52,856
--Gostaria de ficar com ele.
--Como queira.
+00:58:51,571 --> 00:58:55,450
+<i>- Nem roxo
+- Mas todas cor de Carmim</i>
 
 775
-01:12:52,857 --> 01:12:55,782
-Desde que eu veja seu pescoço.
+00:59:02,207 --> 00:59:04,459
+A rainha.
 
 776
-01:12:57,526 --> 01:13:00,029
-Estou bem atrás de você.
+00:59:05,460 --> 00:59:07,587
+A rainha.
 
 777
-01:13:00,030 --> 01:13:02,563
--Corte a cabeça!
--Não posso olhar.
+01:00:05,520 --> 01:00:07,605
+Cartas, descansar.
 
 778
-01:13:36,140 --> 01:13:38,911
-Bom dia, a todos.
+01:00:08,856 --> 01:00:09,565
+Contar.
 
 779
-01:13:38,912 --> 01:13:41,853
-Gato, seu cachorro!
+01:00:10,400 --> 01:00:13,987
+Um, dois, três, quatro, cinco, seis,
+sete, oito, nove, dez, valete.
 
 780
-01:13:43,667 --> 01:13:49,624
-Madame, eu teria muito cuidado
-com esse falsos que te cercam.
+01:00:16,739 --> 01:00:17,740
+O coelho.
 
 781
-01:13:54,307 --> 01:13:58,216
--O que é isso?
--Olhe ela, majestade. Olhe!
+01:00:22,120 --> 01:00:26,165
+Vossa Majestade Imperial, Vossa Alteza,
 
 782
-01:13:58,217 --> 01:14:00,873
--Nariz falso? Tenha vergonha.
--Eu?
+01:00:26,291 --> 01:00:32,005
+Vossa Excelência, Vossa Real Majestade,
+A Rainha de Copas.
 
 783
-01:14:01,516 --> 01:14:03,821
-E essa barrigona que você
-tem tanto orgulho?
+01:00:34,465 --> 01:00:37,051
+- E o rei.
+- Viva!
 
 784
-01:14:08,392 --> 01:14:13,587
-Mentirosos!
-Azarentos! Malditos!
+01:00:49,564 --> 01:00:52,358
+Quem pintou minhas rosas de carmim?
 
 785
-01:14:13,588 --> 01:14:16,065
-Cortar cabeças!
+01:00:53,318 --> 01:00:56,487
+Quem pintou minhas rosas de carmim?
 
 786
-01:14:20,294 --> 01:14:23,901
-Servos abusados
-e escravizados pela rainha...
+01:00:57,113 --> 01:01:02,327
+<i>Quem ousa manchar o real jardim assim?</i>
 
 787
-01:14:23,902 --> 01:14:27,490
-Todos, levantem e lutem.
+01:01:02,410 --> 01:01:05,163
+<i>Por pintar minhas rosas de carmim</i>
 
 788
-01:14:27,491 --> 01:14:31,040
-Levantem-se contra
-a sanguinária Rainha de Copas.
+01:01:05,246 --> 01:01:07,915
+<i>Alguém terá um triste fim</i>
 
 789
-01:14:33,026 --> 01:14:35,918
-Abaixo a Rainha de Copas!
+01:01:07,999 --> 01:01:10,710
+Não, Sua Majestade, por favor.
+É tudo culpa dele.
 
 790
-01:14:42,089 --> 01:14:44,842
-Soltem o pássaro Jubjub!
+01:01:10,793 --> 01:01:13,338
+Eu não, Alteza. Foi o ás.
 
 791
-01:15:08,366 --> 01:15:10,299
-Você estava certo, Stayne.
+01:01:13,421 --> 01:01:14,797
+- Você?
+- Não. Dois.
 
 792
-01:15:10,300 --> 01:15:13,867
-É bem melhor ser temida
-do que ser amada.
+01:01:14,881 --> 01:01:17,258
+- O Dois, quer dizer?
+- Não, o Três.
 
 793
-01:15:17,474 --> 01:15:19,918
-Venham garotos, rápido.
+01:01:17,342 --> 01:01:21,137
+Chega. Cortem suas cabeças.
 
 794
-01:15:23,137 --> 01:15:27,284
--Posso ir?
--Venha rápido, vamos.
+01:01:24,265 --> 01:01:27,643
+<i>A cabeça vão perder sim
+Por pintar cor de Carmim</i>
 
 795
-01:15:29,176 --> 01:15:32,147
-Prepare o Jabberwocky
-para a batalha.
+01:01:27,727 --> 01:01:30,855
+<i>Nada adianta, plantaram brancas
+E deviam ser Carmim</i>
 
 796
-01:15:32,148 --> 01:15:34,854
-Vamos visitar minha irmãzinha.
+01:01:30,938 --> 01:01:33,524
+<i>A cabeça vão perder sim</i>
 
 797
-01:15:44,321 --> 01:15:47,498
-Achei que já teria
-um campeão a essa hora.
+01:01:33,608 --> 01:01:36,361
+Silêncio!
 
 798
-01:15:49,754 --> 01:15:54,151
-Por que não mata o Jabberwocky?
-Certamente tem o poder.
+01:01:37,070 --> 01:01:40,531
+- Por favor, eles só queriam...
+- E quem é isso?
 
 799
-01:15:54,152 --> 01:15:57,139
-É contra meus princípios
-machucar criaturas vivas.
+01:01:40,615 --> 01:01:43,618
+Bem, vejamos, minha querida.
 
 800
-01:16:06,061 --> 01:16:08,562
-Temos companhia.
+01:01:43,743 --> 01:01:47,038
+Com certeza não é de copas.
+Será que é de paus?
 
 801
-01:16:17,792 --> 01:16:19,939
-Olhe só, Bayard.
+01:01:47,121 --> 01:01:49,874
+Ora, é uma menininha.
 
 802
-01:16:22,464 --> 01:16:24,486
-Bielle.
+01:01:49,957 --> 01:01:53,711
+- Sim, e eu gostaria de...
+- Olhe para cima. Fale direito.
 
 803
-01:16:31,800 --> 01:16:35,740
--Que bom te ver. Achei que...
--Eu ia morrer? Mas não morri.
+01:01:53,795 --> 01:01:56,422
+E não estale com os dedos.
 
 804
-01:16:35,741 --> 01:16:40,473
-E estou inteirinho. Preferia
-morrer a não vê-la de novo.
+01:01:56,506 --> 01:01:59,384
+Pés para fora. Faça a reverência.
 
 805
-01:16:40,474 --> 01:16:42,786
-Não gostaria de
-não vê-la de novo,
+01:01:59,467 --> 01:02:01,552
+Abra sua boca um pouco mais.
 
 806
-01:16:42,787 --> 01:16:45,366
-agora que é você,
-do tamanho certo.
+01:02:01,636 --> 01:02:07,183
+E sempre diga: "Sim, Vossa Majestade."
 
 807
-01:16:45,367 --> 01:16:48,717
-É um bom tamanho, um tamanho
-ótimo, é um tamanho perfeito!
+01:02:08,726 --> 01:02:11,646
+Sim, Vossa Majestade.
 
 808
-01:16:48,718 --> 01:16:51,457
--Chapeleiro?
--Tamanho...
+01:02:13,064 --> 01:02:17,985
+De onde você vem e para onde vai?
 
 809
-01:16:51,458 --> 01:16:54,765
--Estou bem.
--Cadê seu chapéu?
+01:02:18,111 --> 01:02:21,239
+- Tento achar meu caminho de volta.
+- Seu caminho?
 
 810
-01:17:00,196 --> 01:17:03,411
--Gato.
--Como anda o braço?
+01:02:21,322 --> 01:02:24,659
+Todos os caminhos são meus.
 
 811
-01:17:03,412 --> 01:17:08,405
--Curado.
--Até mais, querido chapéu.
+01:02:24,742 --> 01:02:27,537
+Eu sei. Mas eu só estava pensando...
 
 812
-01:17:27,003 --> 01:17:31,467
-Faz ideia do porquê um corvo
-é como uma escrivaninha?
+01:02:27,620 --> 01:02:31,249
+Faça reverência enquanto pensa.
+Poupa tempo.
 
 813
-01:17:33,846 --> 01:17:37,130
-Deixe-me pensar nisso.
+01:02:31,332 --> 01:02:33,751
+Sim, Vossa Majestade.
+Eu só ia perguntar...
 
 814
-01:17:37,131 --> 01:17:40,613
-Sabe que dia será amanhã?
+01:02:33,835 --> 01:02:35,002
+Quem pergunta aqui sou eu.
 
 815
-01:17:43,156 --> 01:17:46,077
-É o Dia Fabuloso.
-Como eu esqueceria?
+01:02:36,379 --> 01:02:40,508
+- Sabe jogar críquete?
+- Sim, Vossa Majestade.
 
 816
-01:17:46,954 --> 01:17:49,713
-Queria acordar.
+01:02:40,591 --> 01:02:43,553
+Então que se inicie o jogo.
 
 817
-01:17:50,575 --> 01:17:54,589
--Ainda acha que é um sonho?
--É claro.
+01:02:46,305 --> 01:02:48,975
+Para os seus lugares.
+Por ordem do rei. Rápido.
 
 818
-01:17:54,590 --> 01:17:59,153
-Tudo isso vem da minha mente.
+01:02:50,017 --> 01:02:52,145
+Embaralhar.
 
 819
-01:18:00,633 --> 01:18:04,918
-Isso significa...
-que não sou real?
+01:02:53,146 --> 01:02:54,981
+Cortar.
 
 820
-01:18:07,361 --> 01:18:13,257
-Temo que sim. Você só é
-fruto da minha imaginação.
+01:02:55,064 --> 01:02:57,608
+Dar as cartas.
 
 821
-01:18:13,258 --> 01:18:16,415
-Meus sonhos sempre
-são meio loucos.
+01:02:57,692 --> 01:03:00,236
+Cartas, em posição.
 
 822
-01:18:17,152 --> 01:18:22,171
-Teria que ser meio louca
-pra ter sonhos meio loucos.
+01:03:32,226 --> 01:03:34,562
+Silêncio.
 
 823
-01:18:24,218 --> 01:18:26,821
-Então devo ser.
+01:04:37,291 --> 01:04:39,585
+Cortem-lhe a cabeça!
 
 824
-01:18:30,800 --> 01:18:33,488
-Sentirei sua falta
-quando acordar.
+01:04:39,669 --> 01:04:43,256
+Cortem-lhe a cabeça. Por ordem do rei.
+Ouviram o que ela disse?
 
 825
-01:18:47,789 --> 01:18:52,547
-Quem se oferece para ser
-o campeão da Rainha Branca?
+01:04:43,339 --> 01:04:45,424
+- Você é a próxima.
+- Mas...
 
 826
-01:18:53,750 --> 01:18:56,246
-Eu seria esse.
+01:04:46,092 --> 01:04:49,804
+- Minha querida...
+- Sim, Vossa Majestade.
 
 827
-01:18:57,614 --> 01:19:00,705
-Evaporar-se no ar
-é um ótima habilidade.
+01:05:18,165 --> 01:05:20,084
+Será possível...
 
 828
-01:19:00,706 --> 01:19:03,880
--Eu devo ser escolhido.
--Eu serei.
+01:05:20,167 --> 01:05:23,588
+Quer que nós dois percamos a cabeça?
 
 829
-01:19:03,881 --> 01:19:08,475
--Não, eu serei.
--Não, eu.
+01:05:23,671 --> 01:05:25,923
+Eu não.
 
 830
-01:19:25,162 --> 01:19:27,605
-Nenhum outro, sem chances.
+01:05:59,123 --> 01:06:01,751
+Como está se dando com ela?
 
 831
-01:19:27,606 --> 01:19:31,446
-Se não for a Alice,
-ele não morre.
+01:06:01,834 --> 01:06:04,128
+- Nada bem.
+- O que disse?
 
 832
-01:19:35,774 --> 01:19:41,157
-Alice, não deve ir só
-para agradar os outros.
+01:06:04,211 --> 01:06:08,591
+- Eu disse nada bem.
+- Com quem está falando?
 
 833
-01:19:41,158 --> 01:19:44,389
-A escolha é sua.
+01:06:08,674 --> 01:06:11,844
+- Com um gato, majestade.
+- Gato? Onde?
 
 834
-01:19:44,390 --> 01:19:48,039
-Quando encarar
-aquela criatura...
+01:06:11,927 --> 01:06:12,928
+Ali.
 
 835
-01:19:48,987 --> 01:19:51,936
-Você estará sozinha.
+01:06:15,181 --> 01:06:18,184
+- Ali está ele de novo.
+- Estou lhe avisando, menina.
 
 836
-01:20:25,019 --> 01:20:29,725
-Nada se é conquistado
-com lágrimas.
+01:06:18,309 --> 01:06:21,270
+Se eu perder a calma,
+você perde a cabeça.
 
 837
-01:20:29,726 --> 01:20:32,619
-Absolem?
+01:06:21,354 --> 01:06:23,773
+Entendeu?
 
 838
-01:20:32,620 --> 01:20:38,028
--Por que está pendurado?
--Cheguei ao fim desta vida.
+01:06:24,482 --> 01:06:28,069
+Sabe, poderíamos irritá-Ia pra valer.
 
 839
-01:20:38,029 --> 01:20:41,676
--Você vai morrer?
--Vou me transformar.
+01:06:28,194 --> 01:06:30,363
+- Quer tentar?
+- Não.
 
 840
-01:20:41,677 --> 01:20:46,030
-Não vá. Preciso de sua ajuda.
-Não sei o que fazer.
+01:06:30,488 --> 01:06:34,659
+- Mas é muito divertido.
+- Não. Pare.
 
 841
-01:20:46,031 --> 01:20:49,440
-Não posso ajudá-la
-se nem sabe quem é, idiota.
+01:06:35,993 --> 01:06:37,453
+Oh, não.
 
 842
-01:20:49,441 --> 01:20:53,939
-Não sou idiota. Meu nome
-é Alice, moro em Londres.
+01:06:38,162 --> 01:06:40,289
+Pelos meus bigodes.
 
 843
-01:20:53,940 --> 01:20:57,091
-Minha mãe se chama Helen
-e minha irmã, Margaret.
+01:06:40,373 --> 01:06:42,667
+Ó Deus, salve a rainha.
 
 844
-01:20:57,092 --> 01:20:59,390
-Meu pai foi Charles Kingsley.
+01:06:42,750 --> 01:06:46,462
+Uma cabeça vai rolar por isso.
 
 845
-01:20:59,391 --> 01:21:03,414
-Ele sonhava em cruzar o mundo
-e nada podia impedi-lo.
+01:06:47,380 --> 01:06:49,840
+A sua.
 
 846
-01:21:03,415 --> 01:21:06,836
-Sou filha dele,
-Alice Kingsley.
+01:06:49,924 --> 01:06:51,634
+- Levem-na...
+- Mas pense bem, querida.
 
 847
-01:21:06,837 --> 01:21:10,468
-Alice, finalmente.
+01:06:53,135 --> 01:06:56,931
+Ela não pode antes ser julgada?
 
 848
-01:21:10,469 --> 01:21:12,978
-Se me lembro,
-da primeira vez que veio aqui,
+01:06:57,014 --> 01:07:01,185
+- Julgada?
+- Só um pequeno julgamento?
 
 849
-01:21:12,979 --> 01:21:16,251
-chamou de
-País das Maravilhas.
+01:07:04,730 --> 01:07:09,318
+Muito bem, então.
+Que comece o julgamento!
 
 850
-01:21:18,642 --> 01:21:21,214
-País das Maravilhas...
+01:07:17,952 --> 01:07:21,247
+Vossa Majestade, membros do júri,
 
 851
-01:21:21,215 --> 01:21:25,171
-<i>-Como você se chama?
--Alice.</i>
+01:07:22,289 --> 01:07:24,125
+leais súditos,
 
 852
-01:21:25,172 --> 01:21:29,577
-<i>Então Alice é. Vou levá-la
-à Lebre e ao Chapeleiro.</i>
+01:07:25,626 --> 01:07:28,003
+e o rei.
 
 853
-01:21:29,578 --> 01:21:31,900
-<i>Esta é Alice.</i>
+01:07:28,087 --> 01:07:32,258
+"A prisioneira é acusada de atrair
+Vossa Majestade, a Rainha de Copas,
 
 854
-01:21:31,901 --> 01:21:35,719
--Um chapeleiro, acredita?
--Tome um pouco de chá.
+01:07:32,383 --> 01:07:36,554
+a jogar críquete e então,
+propositalmente e com más intenções
 
 855
-01:21:35,720 --> 01:21:39,575
-<i>Está tudo certo,
-garota estúpida.</i>
+01:07:36,637 --> 01:07:39,557
+a provocou, a atormentou e
+de todas as formas a aborreceu..."
 
 856
-01:21:39,576 --> 01:21:42,117
-<i>-O que é isso?
--Vou levar esse buquê.</i>
+01:07:39,640 --> 01:07:44,103
+Deixe isso para Iá. Vá logo
+para a parte em que perco a calma.
 
 857
-01:21:42,118 --> 01:21:47,498
-<i>-Não, eu vou levar o buquê.
--Será que se lembraria de tudo?</i>
+01:07:44,937 --> 01:07:47,565
+"...com isto fazendo com que a
+rainha perdesse sua calma."
 
 858
-01:21:47,499 --> 01:21:53,384
-Não é um sonho,
-é uma memória.
+01:07:47,648 --> 01:07:49,400
+Agora...
 
 859
-01:21:53,385 --> 01:21:57,927
-Esse mundo é real,
-você também e o Chapeleiro.
+01:07:49,483 --> 01:07:52,737
+Está pronta para sua sentença?
 
 860
-01:21:57,928 --> 01:22:00,941
-E o Jabberwocky.
+01:07:52,820 --> 01:07:55,865
+Sentença?
+Mas antes vem o veredito.
 
 861
-01:22:00,942 --> 01:22:04,787
-Lembre-se, a espada Vorpal
-sabe o que quer.
+01:07:55,948 --> 01:07:59,034
+Sentença primeiro. Veredito depois.
 
 862
-01:22:04,788 --> 01:22:08,537
-Só precisa segurá-la.
+01:07:59,118 --> 01:08:02,246
+- Mas não é assim...
+- Quem manda aqui...
 
 863
-01:22:09,970 --> 01:22:12,327
-Vá em paz, Alice.
+01:08:02,329 --> 01:08:05,082
+É Vossa Majestade.
 
 864
-01:22:12,328 --> 01:22:16,284
-Talvez nos vejamos
-em outra vida.
+01:08:05,166 --> 01:08:07,585
+Sim, minha filha.
 
 865
-01:24:15,440 --> 01:24:17,867
--Olá, Iracebeth.
--Olá...
+01:08:07,668 --> 01:08:09,879
+- Levem-na...
+- Reconsidere, minha querida.
 
 866
-01:24:19,180 --> 01:24:21,080
-Mirana.
+01:08:09,962 --> 01:08:13,966
+Não tivemos testemunhas.
+Poderíamos talvez ouvir uma ou duas?
 
 867
-01:24:23,377 --> 01:24:28,274
-Neste Dia Fabuloso,
-as Rainhas de Copas e Branca,
+01:08:14,049 --> 01:08:17,011
+- Talvez?
+- Muito bem.
 
 868
-01:24:28,275 --> 01:24:33,063
-devem mandar seus campeões
-para lutarem em seus nomes.
+01:08:17,094 --> 01:08:19,180
+Mas andem logo com isso!
 
 869
-01:24:34,291 --> 01:24:37,750
-Irace,
-não precisamos brigar.
+01:08:19,263 --> 01:08:22,057
+Herald, chame a primeira testemunha.
 
 870
-01:24:40,100 --> 01:24:42,474
-Sei o que está fazendo.
+01:08:22,141 --> 01:08:23,809
+A Lebre Maluca.
 
 871
-01:24:42,475 --> 01:24:45,678
-Acha que pode piscar
-estes olhinhos bonitinhos,
+01:08:28,314 --> 01:08:31,317
+O que sabe deste infeliz caso?
 
 872
-01:24:45,679 --> 01:24:48,510
-e eu cederei, assim
-como o papai e a mamãe.
+01:08:31,400 --> 01:08:33,611
+- Nada.
+- Nada de nada?
 
 873
-01:24:50,536 --> 01:24:52,436
-Por favor.
+01:08:33,694 --> 01:08:37,948
+- Nada de nada.
+- Isso é muito importante!
 
 874
-01:24:53,187 --> 01:24:54,791
-Não!
+01:08:38,032 --> 01:08:39,575
+Jurados, anotem isso.
 
 875
-01:24:54,792 --> 01:24:58,447
-A coroa é minha!
-Eu a herdei!
+01:08:39,658 --> 01:08:41,535
+MUITO
+O QUE FOR
 
 876
-01:24:59,194 --> 01:25:01,094
-Jabberwocky!
+01:08:41,619 --> 01:08:43,537
+NADA
+IMPORTANTE
 
 877
-01:25:48,121 --> 01:25:50,589
-Isso é impossível.
+01:08:43,621 --> 01:08:46,123
+Nada importante,
+Vossa Majestade quer dizer.
 
 878
-01:25:50,590 --> 01:25:52,493
-Só se acreditar que é.
+01:08:46,207 --> 01:08:48,459
+Silêncio.
 
 879
-01:25:58,717 --> 01:26:02,565
-Às vezes, eu acredito
-em seis coisas impossíveis
+01:08:48,542 --> 01:08:51,670
+- Próxima testemunha.
+- O ratinho.
 
 880
-01:26:02,566 --> 01:26:04,823
-antes do café da manhã.
+01:08:56,884 --> 01:08:58,636
+E então?
 
 881
-01:26:04,824 --> 01:26:07,147
-Este é um ótimo exercício.
+01:08:58,719 --> 01:09:01,222
+O que tem a dizer sobre isso?
 
 882
-01:26:09,147 --> 01:26:12,122
-No entanto, neste momento,
+01:09:01,305 --> 01:09:05,726
+Brilha, brilha, morceguinho
+Brilha bem...
 
 883
-01:26:13,237 --> 01:26:16,029
-talvez queira se concentrar
-no Jabberwocky.
+01:09:05,810 --> 01:09:09,855
+Esta foi a prova mais importante
+que nos já ouvimos.
 
 884
-01:26:22,444 --> 01:26:24,344
-Onde está seu campeão, irmã?
+01:09:09,939 --> 01:09:12,316
+Escrevam isso!
 
 885
-01:26:25,915 --> 01:26:27,815
-Aqui.
+01:09:12,399 --> 01:09:14,527
+Brilha, brilha...
 
 886
-01:26:29,174 --> 01:26:31,535
-Olá, Hum.
+01:09:15,361 --> 01:09:18,364
+Brilha, brilha.
+E agora?
 
 887
-01:26:45,126 --> 01:26:48,631
-Seis coisas impossíveis.
-Conte-as, Alice.
+01:09:18,447 --> 01:09:20,533
+O Chapeleiro Louco.
 
 888
-01:26:52,552 --> 01:26:55,897
-Um: há uma poção
-que pode te encolher.
+01:09:25,538 --> 01:09:28,249
+- Tire o chapéu.
+- Puxa.
 
 889
-01:26:59,535 --> 01:27:02,213
-Dois: um bolo que
-pode te fazer crescer.
+01:09:28,791 --> 01:09:32,086
+Onde estava quando este terrível
+crime foi cometido?
 
 890
-01:27:02,948 --> 01:27:05,402
-Então,
-minha antiga adversária,
+01:09:32,211 --> 01:09:34,755
+Estava tomando chá.
 
 891
-01:27:06,043 --> 01:27:09,361
-nos encontramos
-no campo de batalha outra vez.
+01:09:34,880 --> 01:09:37,132
+Hoje é meu des-aniversário.
 
 892
-01:27:10,305 --> 01:27:11,844
-Nunca nos encontramos antes.
+01:09:37,216 --> 01:09:40,553
+Ora, querida,
+é seu des-aniversário também.
 
 893
-01:27:11,845 --> 01:27:14,360
-Não você,
-portadora insignificante.
+01:09:40,636 --> 01:09:42,763
+- É?
+-É?
 
 894
-01:27:15,134 --> 01:27:19,861
-Meu antigo inimigo.
-A Vorpal.
+01:09:42,888 --> 01:09:44,431
+E?
 
 895
-01:27:20,754 --> 01:27:22,654
-Chega de conversa.
+01:09:44,557 --> 01:09:47,601
+<i>- Um bom des-aniversário
+- Para mim?</i>
 
 896
-01:27:30,008 --> 01:27:32,983
-Três: animais que podem falar.
+01:09:47,726 --> 01:09:49,186
+Ah, não.
 
 897
-01:27:38,292 --> 01:27:40,192
-Quatro, Alice.
+01:09:49,270 --> 01:09:51,856
+<i>- Um bom des-aniversário
+- Para mim?</i>
 
 898
-01:27:42,065 --> 01:27:43,965
-Gatos que podem desaparecer.
+01:09:51,939 --> 01:09:52,982
+<i>Para t¡</i>
 
 899
-01:27:46,042 --> 01:27:47,942
-Cinco...
+01:09:53,065 --> 01:09:57,194
+<i>Agora sopra a vela
+Mas não queimes o nariz</i>
 
 900
-01:27:50,441 --> 01:27:52,541
-Um lugar chamado
-País das Maravilhas.
+01:09:59,864 --> 01:10:03,242
+<i>Um bom des-aniversário</i>
 
 901
-01:27:54,095 --> 01:27:57,966
-Seis: Eu posso
-matar o Jabberwocky.
+01:10:03,325 --> 01:10:05,411
+<i>Pra ti</i>
 
 902
-01:28:23,204 --> 01:28:26,187
-O Chapeleiro está interferindo!
-Cortem-lhe a cabeça!
+01:10:08,038 --> 01:10:11,458
+- Vossa Majestade.
+- Sim, minha querida?
 
 903
-01:30:53,203 --> 01:30:55,350
-Cortem-lhe a cabeça.
+01:10:11,584 --> 01:10:15,212
+- Veja. Ele está aí.
+- Quem?
 
 904
-01:31:27,700 --> 01:31:29,850
-Matem-na!
+01:10:15,296 --> 01:10:17,798
+- O Gato de Cheshire.
+- Gato?
 
 905
-01:31:29,851 --> 01:31:32,624
-Não seguimos mais
-suas ordens, cabeçuda.
+01:10:20,467 --> 01:10:23,345
+- Lá vai ele.
+- Isso é terrível. Socorro.
 
 906
-01:31:32,625 --> 01:31:35,530
-Como se atreve?
-Cortem-lhe a cabeça!
+01:10:23,470 --> 01:10:26,473
+- Detenham-no.
+- Peguem-no, alguém. Ajudem-me.
 
 907
-01:32:17,151 --> 01:32:19,499
-Iracebeth de Crims...
+01:10:27,308 --> 01:10:31,061
+- Me dê a geléia.
+- A geléia. Por ordem do rei.
 
 908
-01:32:19,500 --> 01:32:22,828
-Seus crimes contra o Mundo
-Subterrâneo valem sua morte.
+01:10:31,145 --> 01:10:34,481
+- A geléia.
+- Passe para cá!
 
 909
-01:32:24,721 --> 01:32:28,340
-No entanto, isso vai
-contra meu juramento.
+01:10:38,027 --> 01:10:43,490
+A cabeça de alguém vai rolar por isso.
 
 910
-01:32:29,311 --> 01:32:31,717
-Portanto, você será
-banida para o exterior.
+01:10:45,576 --> 01:10:47,703
+O cogumelo.
 
 911
-01:32:32,400 --> 01:32:36,067
-Ninguém deve ser bom com
-você ou lhe dirigir a palavra.
+01:10:47,786 --> 01:10:49,663
+Levem-na...
 
 912
-01:32:39,020 --> 01:32:42,132
-E não terá
-nenhum amigo no mundo.
+01:10:55,127 --> 01:10:58,088
+Ora, essa. Não tenho medo de vocês.
 
 913
-01:32:43,391 --> 01:32:48,607
-Majestade,
-espero que me poupe, certo?
+01:10:58,672 --> 01:11:01,634
+Vocês não passam
+de um jogo de baralho.
 
 914
-01:32:51,630 --> 01:32:54,213
-Iracy não ficará só, Stayne.
+01:11:01,717 --> 01:11:05,220
+"Regra 42: todas <i>as</i> pessoas
+com mais de um quilômetro de altura
 
 915
-01:32:54,214 --> 01:32:56,450
-Você se juntará
-a Iracebeth no exílio,
+01:11:05,304 --> 01:11:08,057
+devem imediatamente deixar a corte."
 
 916
-01:32:56,451 --> 01:32:59,368
-de hoje, até o fim
-do Mundo Subterrâneo.
+01:11:08,140 --> 01:11:11,226
+Eu não tenho um
+quilômetro e não vou embora.
 
 917
-01:33:01,454 --> 01:33:04,314
-Pelo menos
-temos um ao outro.
+01:11:12,227 --> 01:11:14,688
+Sinto muito. Regra 42, sabe como é.
 
 918
-01:33:16,908 --> 01:33:22,363
-Majestade!
-Por favor, me mate!
+01:11:14,772 --> 01:11:19,026
+E quanto a vós, Vossa Majestade.
 
 919
-01:33:22,364 --> 01:33:26,533
--Mas não lhe devo bondades.
--Soltem minhas mãos!
+01:11:19,109 --> 01:11:23,155
+Vossa Majestade, que nada.
+Você não é uma rainha.
 
 920
-01:33:26,534 --> 01:33:30,219
-Ele tentou me matar.
-Ele tentou me matar!
+01:11:23,238 --> 01:11:29,370
+É só uma tirana gorda,
+empolada, mau-humorada e velha.
 
 921
-01:33:30,220 --> 01:33:32,892
--Majestade, por favor!
--Ele tentou me matar!
+01:11:31,830 --> 01:11:36,585
+O que estava mesmo dizendo, querida?
 
 922
-01:33:32,893 --> 01:33:36,730
-Que Dia Fabuloso!
-Callou! Callay!
+01:11:36,669 --> 01:11:41,131
+Ela só disse que é uma tirana gorda,
+empolada, mau-humorada e velha.
 
 923
-01:33:43,155 --> 01:33:46,638
--O que ele está fazendo?
--Futterwacken.
+01:11:41,215 --> 01:11:43,676
+Cortem-lhe a cabeça!
 
 924
-01:34:32,611 --> 01:34:34,922
-Sangue do Jabberwocky.
+01:11:49,556 --> 01:11:53,352
+Ouviu o que Sua Majestade disse.
+Cortem-lhe a cabeça.
 
 925
-01:34:34,923 --> 01:34:38,243
-Alice, você tem
-nossa gratidão eterna.
+01:12:17,167 --> 01:12:20,087
+<i>Roda, roda, roda
+Roda, roda sem parar</i>
 
 926
-01:34:38,244 --> 01:34:40,994
-E por seus esforços
-e em nosso nome.
+01:12:20,212 --> 01:12:22,631
+<i>Nunca ninguém perde
+E ninguém pode ganhar</i>
 
 927
-01:34:44,752 --> 01:34:49,246
--Isso me levará para casa?
--Se for o que escolher.
+01:12:22,756 --> 01:12:26,135
+<i>Pula, pula, pula
+Quem parar faz muito mal</i>
 
 928
-01:35:14,650 --> 01:35:17,149
-Você poderia ficar.
+01:12:26,218 --> 01:12:28,846
+Cortem-lhe a cabeça.
+Cortem-lhe a cabeça.
 
 929
-01:35:19,154 --> 01:35:24,436
-É uma ideia e tanto.
-Louca, mas maravilhosa.
+01:12:29,847 --> 01:12:33,183
+Não pode deixar a festa
+sem tomar uma xícara de chá.
 
 930
-01:35:29,028 --> 01:35:31,344
-Mas não posso.
+01:12:33,267 --> 01:12:35,477
+Mas não posso parar agora.
 
 931
-01:35:31,991 --> 01:35:34,870
-Há questões
-que preciso resolver.
+01:12:35,561 --> 01:12:39,273
+Mas fazemos questão.
+Tem que tomar um chá conosco.
 
 932
-01:35:34,871 --> 01:35:37,469
-Coisas que preciso fazer.
+01:12:42,693 --> 01:12:45,279
+Cortem-lhe a cabeça!
 
 933
-01:35:44,753 --> 01:35:47,648
-Voltarei antes que perceba.
+01:12:46,030 --> 01:12:48,449
+Sr. Lagarta. O que farei?
 
 934
-01:35:48,739 --> 01:35:52,775
--Você não lembrará de mim.
--Claro que lembrarei.
+01:12:48,574 --> 01:12:50,617
+Quem é você?
 
 935
-01:35:52,776 --> 01:35:55,001
-Como poderia esquecê-lo?
+01:12:52,911 --> 01:12:56,540
+Lá vai ela.
+Não deixem que fuja!
 
 936
-01:35:58,971 --> 01:36:03,922
-Chapeleiro, por que um corvo
-é como uma escrivaninha?
+01:12:56,623 --> 01:12:58,709
+Cortem-lhe a cabeça!
 
 937
-01:36:05,144 --> 01:36:08,089
-Não faço a menor ideia.
+01:13:05,174 --> 01:13:06,884
+Ainda estou trancada, sabe.
 
 938
-01:36:12,856 --> 01:36:15,346
-Vá em paz, Alice.
+01:13:06,967 --> 01:13:09,845
+Mas a rainha. Eu tenho que sair.
 
 939
-01:37:01,716 --> 01:37:05,014
-Ela fugiu e me deixou
-esperando sem resposta.
+01:13:09,970 --> 01:13:12,514
+- Mas está do lado de fora.
+- O quê?
 
 940
-01:37:05,015 --> 01:37:07,626
-Nervosismo, sem dúvidas.
+01:13:12,598 --> 01:13:15,017
+Veja você mesma.
 
 941
-01:37:10,033 --> 01:37:14,351
--Alice...
--Deus do céu. Está bem?
+01:13:15,100 --> 01:13:18,437
+Ora, sou eu. Estou dormindo.
 
 942
-01:37:14,352 --> 01:37:15,992
-O que houve com você?
+01:13:18,520 --> 01:13:21,857
+Não deixem que fuja.
+Cortem-lhe a cabeça.
 
 943
-01:37:15,993 --> 01:37:18,455
-Caí em um buraco
-e bati com a cabeça.
+01:13:21,940 --> 01:13:24,526
+Alice, acorde.
+Por favor, acorde.
 
 944
-01:37:19,283 --> 01:37:21,976
-Sinto muito, Hamish.
-Não podemos nos casar.
+01:13:26,987 --> 01:13:29,073
+Por favor, acorde, Alice.
 
 945
-01:37:21,977 --> 01:37:27,282
-Você não é o certo para mim.
-Não com o problema digestivo.
+01:13:34,286 --> 01:13:38,248
+Quer prestar atenção
+e repetir sua lição?
 
 946
-01:37:29,114 --> 01:37:31,958
-Eu te amo, Margaret,
-mas é a minha vida.
+01:13:39,333 --> 01:13:42,544
+Com que destreza o crocodilo
+Não espadana a cauda
 
 947
-01:37:31,959 --> 01:37:34,276
-Eu decidirei o que
-fazer com ela.
+01:13:42,628 --> 01:13:47,382
+- E na água rápida do...
+- Alice, do que está falando?
 
 948
-01:37:36,723 --> 01:37:40,328
-Você tem sorte de ter
-minha irmã como esposa.
+01:13:48,300 --> 01:13:52,096
+- Desculpe, mas o Sr. Lagarta disse...
+- Lagarta?
 
 949
-01:37:40,329 --> 01:37:45,205
-Seja bom para ela.
-Ficarei de olho.
+01:13:52,930 --> 01:13:55,015
+Por favor, Alice.
 
 950
-01:37:46,687 --> 01:37:49,506
-Não existe príncipe,
-tia Imogene.
+01:13:56,517 --> 01:13:59,603
+Ora, ora. Venha.
+Está na hora do chá.
 
 951
-01:37:49,507 --> 01:37:52,814
-Precisa conversar com alguém
-sobre essas ilusões.
+01:13:59,686 --> 01:14:05,109
+<i>Alice, o teu país</i>
 
 952
-01:37:54,820 --> 01:37:58,619
-Eu amo coelhos,
-ainda mais os brancos.
+01:14:05,192 --> 01:14:11,323
+<i>Ai quem me dera um dia achar</i>
 
 953
-01:38:00,719 --> 01:38:02,544
-Não se preocupe, mãe.
+01:14:11,406 --> 01:14:16,954
+<i>O teu país</i>
 
 954
-01:38:02,545 --> 01:38:05,620
-Encontrarei algo útil
-para fazer com minha vida.
+01:14:18,705 --> 01:14:21,583
+FIM
 
 955
-01:38:07,152 --> 01:38:10,814
-Vocês deveriam conhecer dois
-garotos divertidos do meu sonho.
+01:14:29,341 --> 01:14:34,638
+<i>Alice, o teu país</i>
 
 956
-01:38:13,293 --> 01:38:14,932
-Está me deixando de fora?
+01:14:34,721 --> 01:14:38,809
+<i>Maravilhoso e tão feliz</i>
 
 957
-01:38:14,933 --> 01:38:19,545
-Não, senhor.
-Temos que falar de negócios.
+01:14:38,892 --> 01:14:42,855
+<i>Onde ele está? Quero saber</i>
 
 958
-01:38:19,546 --> 01:38:23,027
-Podemos conversar
-no escritório?
+01:14:42,938 --> 01:14:47,526
+<i>Porém ninguém me diz</i>
 
 959
-01:38:28,530 --> 01:38:31,541
-E mais uma coisa.
+01:14:47,609 --> 01:14:52,906
+<i>Alice, o teu país</i>
 
 960
-01:38:39,077 --> 01:38:43,331
-Meu pai falou que planeja
-expandir a rota até Mumbai.
+01:14:52,990 --> 01:14:58,078
+<i>Maravilhoso e tão feliz</i>
 
 961
-01:38:44,006 --> 01:38:46,321
-Mas acho que ele não olhou
-longe o bastante.
+01:14:58,162 --> 01:15:03,584
+<i>Onde ele está? Quero saber</i>
 
 962
-01:38:46,322 --> 01:38:49,588
-Por que não ir até a China?
-
-963
-01:38:49,589 --> 01:38:54,456
-É grande, a cultura é rica
-e nos basearemos em Hong Kong.
-
-964
-01:38:54,457 --> 01:38:58,477
-Seria o primeiro trem da China,
-dá para imaginar?
-
-965
-01:39:00,360 --> 01:39:04,469
-Se outra pessoa me falasse isso,
-eu chamaria de louca.
-
-966
-01:39:05,080 --> 01:39:07,673
-Mas já vi esse olhar antes.
-
-967
-01:39:08,522 --> 01:39:11,419
-Se não quer ser minha nora,
-
-968
-01:39:11,420 --> 01:39:16,427
-pode pensar em ser
-aprendiz na empresa.
-
-969
-01:39:55,852 --> 01:39:57,871
-Olá, Absolem.
+01:15:03,667 --> 01:15:08,755
+<i>Porém ninguém me diz</i>
 
