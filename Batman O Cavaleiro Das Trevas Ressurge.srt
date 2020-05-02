@@ -1,0 +1,9004 @@
+1
+00:00:01,000 --> 00:00:04,074
+
+2
+00:00:05,000 --> 00:00:08,074
+
+
+3
+00:00:17,583 --> 00:00:20,583
+
+4
+00:00:20,584 --> 00:00:23,584
+
+5
+00:00:23,585 --> 00:00:26,585
+
+6
+00:00:26,586 --> 00:00:29,586
+
+7
+00:00:29,587 --> 00:00:32,587
+
+8
+00:00:55,786 --> 00:00:58,286
+
+9
+00:01:00,127 --> 00:01:03,130
+<i>Eu conhecia Harvey Dent.</i>
+
+10
+00:01:03,923 --> 00:01:05,508
+<i>Eu era amigo dele.</i>
+
+11
+00:01:08,052 --> 00:01:12,230
+Vai levar muito tempo
+até que alguém nos inspire...
+
+12
+00:01:12,531 --> 00:01:14,116
+do jeito que ele fez.
+
+13
+00:01:16,477 --> 00:01:18,771
+Eu acreditava em Harvey Dent.
+
+14
+00:01:37,289 --> 00:01:38,666
+<i>Dr. Pavel?</i>
+
+15
+00:01:38,958 --> 00:01:41,669
+- Eu sou da CIA.
+- Ele veio acompanhado.
+
+16
+00:01:42,378 --> 00:01:46,089
+- Não pode trazer seus amigos.
+- Não são meu amigos.
+
+17
+00:01:46,090 --> 00:01:48,258
+Tudo bem.
+A corrida é de graça.
+
+18
+00:01:48,259 --> 00:01:49,968
+<i>E o que eu iria
+querer com eles?</i>
+
+19
+00:01:49,969 --> 00:01:51,595
+Tente aproveitar
+o seu prêmio.
+
+20
+00:01:51,971 --> 00:01:53,847
+<i>Eles trabalham
+para o mercenário.</i>
+
+21
+00:01:53,848 --> 00:01:55,549
+O mascarado.
+
+22
+00:01:56,058 --> 00:01:57,476
+Bane?
+
+23
+00:01:59,353 --> 00:02:01,564
+Levem-nos para o avião!
+Vou avisar à Agência!
+
+24
+00:02:10,281 --> 00:02:12,699
+O plano de voo
+que informei à CIA...
+
+25
+00:02:12,700 --> 00:02:16,244
+inclui a mim, meus homens,
+e ao dr. Pavel aqui...
+
+26
+00:02:16,245 --> 00:02:18,706
+mas apenas
+a um de vocês!
+
+27
+00:02:21,792 --> 00:02:25,671
+O primeiro que falar
+permanece no meu avião!
+
+28
+00:02:33,596 --> 00:02:37,057
+Quem foi que pagou
+para raptar o dr. Pavel?!
+
+29
+00:02:41,937 --> 00:02:43,773
+Ele não sabia voar mesmo!
+
+30
+00:02:44,398 --> 00:02:45,983
+Quem quer ser o próximo?!
+
+31
+00:02:47,568 --> 00:02:50,905
+Fale-me sobre Bane!
+Por que ele usa máscara?!
+
+32
+00:02:53,574 --> 00:02:55,784
+Você é muito leal
+para um mercenário!
+
+33
+00:02:55,785 --> 00:02:57,445
+<i>Ou talvez
+ele queira saber...</i>
+
+34
+00:02:57,446 --> 00:02:59,646
+<i>por que alguém atiraria
+em um homem...</i>
+
+35
+00:02:59,946 --> 00:03:02,366
+<i>antes de jogá-lo do avião?</i>
+
+36
+00:03:07,004 --> 00:03:09,964
+Pelo menos, você fala.
+Quem são vocês?
+
+37
+00:03:09,965 --> 00:03:12,343
+Não interessa
+quem nós somos.
+
+38
+00:03:13,177 --> 00:03:15,429
+O que importa
+é o nosso plano.
+
+39
+00:03:21,644 --> 00:03:24,980
+Ninguém me notava,
+até eu colocar a máscara.
+
+40
+00:03:26,565 --> 00:03:28,566
+Se arrancar a máscara,
+você vai morrer?
+
+41
+00:03:28,567 --> 00:03:31,194
+Seria extremamente doloroso.
+
+42
+00:03:31,195 --> 00:03:33,989
+- Você é bem grande.
+- Para você.
+
+43
+00:03:37,284 --> 00:03:39,703
+Então ser capturado
+fazia parte do seu plano?
+
+44
+00:03:40,204 --> 00:03:41,664
+É claro.
+
+45
+00:03:46,419 --> 00:03:48,420
+<i>O dr. Pavel recusou
+nossa oferta...</i>
+
+46
+00:03:48,421 --> 00:03:49,796
+pela sua.
+
+47
+00:03:49,797 --> 00:03:51,756
+Tínhamos que saber
+o que ele havia dito.
+
+48
+00:03:51,757 --> 00:03:53,801
+Nada!
+Eu não disse nada!
+
+49
+00:04:07,064 --> 00:04:10,358
+Parabéns!
+Você foi capturado!
+
+50
+00:04:10,359 --> 00:04:11,443
+Senhor?
+
+51
+00:04:11,444 --> 00:04:14,238
+Agora qual é o próximo passo
+de seu brilhante plano?
+
+52
+00:04:14,946 --> 00:04:16,740
+Derrubar este avião.
+
+53
+00:04:22,203 --> 00:04:23,830
+Sem sobreviventes!
+
+54
+00:04:46,686 --> 00:04:48,021
+Mayday! Mayday!
+
+55
+00:05:55,196 --> 00:05:56,338
+Não!
+
+56
+00:05:56,339 --> 00:05:58,633
+Esperam achar um de nós
+nos destroços, irmão.
+
+57
+00:06:00,635 --> 00:06:02,136
+Já começamos o incêndio?
+
+58
+00:06:02,137 --> 00:06:05,140
+Claro.
+O incêndio já começou.
+
+59
+00:06:14,816 --> 00:06:18,027
+Acalme-se, doutor.
+Não é a hora de ter medo.
+
+60
+00:06:19,028 --> 00:06:20,572
+O medo virá mais tarde.
+
+61
+00:06:47,098 --> 00:06:48,724
+<i>O "Dia de Harvey Dent"...</i>
+
+62
+00:06:48,725 --> 00:06:51,226
+<i>pode não ser nosso feriado
+mais antigo...</i>
+
+63
+00:06:51,227 --> 00:06:54,563
+<i>mas estamos aqui hoje
+pois é um dos mais importantes.</i>
+
+64
+00:06:54,564 --> 00:06:57,374
+<i>A luta incansável
+de Harvey Dent...</i>
+
+65
+00:06:57,375 --> 00:06:58,976
+<i>contra o crime organizado...</i>
+
+66
+00:06:58,977 --> 00:07:00,652
+deixou Gotham
+mais segura...
+
+67
+00:07:00,653 --> 00:07:03,072
+do que na época de sua morte,
+há 8 anos.
+
+68
+00:07:03,073 --> 00:07:05,658
+Esta cidade presenciou
+uma mudança histórica.
+
+69
+00:07:06,159 --> 00:07:08,443
+Não há cidades
+sem crimes.
+
+70
+00:07:08,444 --> 00:07:10,871
+Mas esta cidade
+não tem crime organizado...
+
+71
+00:07:10,872 --> 00:07:13,415
+porque a "Lei Dent"
+deu poder à força policial...
+
+72
+00:07:13,416 --> 00:07:15,459
+<i>na luta contra a Máfia.</i>
+
+73
+00:07:15,460 --> 00:07:19,137
+Agora, alguns falam
+em revogar a Lei Harvey Dent...
+
+74
+00:07:19,138 --> 00:07:21,172
+mas a eles,
+eu tenho que dizer...
+
+75
+00:07:21,173 --> 00:07:22,758
+não no meu mandato.
+
+76
+00:07:23,676 --> 00:07:26,553
+Agradeço à Fundação Wayne
+por patrocinar este evento.
+
+77
+00:07:26,554 --> 00:07:29,098
+Disseram que o Sr. Wayne
+não estaria presente...
+
+78
+00:07:29,099 --> 00:07:30,933
+mas sei que está conosco
+em espírito.
+
+79
+00:07:30,934 --> 00:07:33,894
+<i>E agora, vou dar espaço
+a uma voz importante...</i>
+
+80
+00:07:33,895 --> 00:07:36,230
+Já viu Wayne
+em um evento como esse?
+
+81
+00:07:36,231 --> 00:07:37,898
+Não, não vi.
+Já faz anos.
+
+82
+00:07:37,899 --> 00:07:40,818
+<i>As pessoas confiavam
+em um assassino...</i>
+
+83
+00:07:40,819 --> 00:07:42,444
+<i>com uma máscara
+e uma capa.</i>
+
+84
+00:07:42,445 --> 00:07:45,823
+Um assassino que mostrou
+a sua verdadeira natureza...
+
+85
+00:07:45,824 --> 00:07:48,618
+quando traiu a confiança
+deste grande homem...
+
+86
+00:07:49,619 --> 00:07:51,371
+e o matou a sangue frio.
+
+87
+00:07:51,871 --> 00:07:55,107
+- Querida, devagar com o rango.
+- Camarão, chefe?
+
+88
+00:07:55,108 --> 00:07:56,708
+<i>-Jim Gordon...
+-Obrigado.</i>
+
+89
+00:07:56,709 --> 00:07:58,585
+<i>pode dizer a verdade
+sobre Dent.</i>
+
+90
+00:07:58,586 --> 00:08:01,840
+Vou deixar que ele mesmo diga.
+Comissário Gordon!
+
+91
+00:08:11,015 --> 00:08:12,726
+A verdade?
+
+92
+00:08:17,397 --> 00:08:21,526
+Eu preparei um discurso...
+
+93
+00:08:22,652 --> 00:08:25,989
+que diz a verdade
+sobre Harvey Dent.
+
+94
+00:08:30,410 --> 00:08:32,412
+Mas talvez a hora
+não seja essa.
+
+95
+00:08:36,541 --> 00:08:38,418
+Talvez,
+nesse momento...
+
+96
+00:08:39,419 --> 00:08:41,563
+só o que precisem saber
+é que há...
+
+97
+00:08:42,464 --> 00:08:45,090
+mil detentos
+na prisão Blackgate,
+
+98
+00:08:45,091 --> 00:08:47,217
+um resultado direto
+da Lei Dent.
+
+99
+00:08:47,218 --> 00:08:48,719
+<i>São criminosos violentos.</i>
+
+100
+00:08:48,720 --> 00:08:51,847
+<i>Engrenagens vitais
+do crime organizado.</i>
+
+101
+00:08:51,848 --> 00:08:54,224
+<i>Talvez, agora,
+só o que tenha que dizer...</i>
+
+102
+00:08:54,225 --> 00:08:56,311
+sobre a morte de Harvey Dent,
+seja...
+
+103
+00:09:01,149 --> 00:09:02,817
+que ela não foi em vão.
+
+104
+00:09:04,944 --> 00:09:06,612
+Já viu o proprietário?
+
+105
+00:09:06,613 --> 00:09:08,906
+Não. Ouvi dizer que ele
+nunca sai da ala leste.
+
+106
+00:09:08,907 --> 00:09:12,659
+Ouvi sobre um acidente.
+Que ele ficou desfigurado...
+
+107
+00:09:12,660 --> 00:09:14,078
+<i>Sr. Till!</i>
+
+108
+00:09:14,579 --> 00:09:17,999
+Por que seu pessoal está
+usando a escadaria principal?
+
+109
+00:09:18,917 --> 00:09:20,794
+E onde está a sra. Bolton?
+
+110
+00:09:21,503 --> 00:09:23,379
+Está no bar, senhor.
+Posso ajudar?
+
+111
+00:09:23,922 --> 00:09:26,757
+Vá até o salão da ala leste.
+Destranque a porta...
+
+112
+00:09:26,758 --> 00:09:30,734
+ponha a bandeja sobre a mesa
+e tranque a porta. Nada mais.
+
+113
+00:09:34,015 --> 00:09:36,975
+Sinto muito, srta. Tate.
+Tentei, mas ele não quer vê-la.
+
+114
+00:09:36,976 --> 00:09:39,103
+Não leve pro lado pessoal.
+
+115
+00:09:39,104 --> 00:09:42,189
+Todo mundo sabe
+que Wayne se trancou lá dentro,
+
+116
+00:09:42,190 --> 00:09:45,234
+tem unhas enormes
+e urina em potes de vidro.
+
+117
+00:09:45,235 --> 00:09:47,654
+Fico feliz
+por ter me convidado.
+
+118
+00:09:59,999 --> 00:10:03,335
+Por que desperdiça seu tempo
+tentando falar...
+
+119
+00:10:03,336 --> 00:10:05,504
+<i>com um homem
+que desperdiça seu dinheiro,</i>
+
+120
+00:10:05,505 --> 00:10:08,340
+<i>em um projeto fútil
+para salvar o mundo?</i>
+
+121
+00:10:08,341 --> 00:10:10,968
+Ele não pode recuperar
+seu dinheiro. Eu posso.
+
+122
+00:10:10,969 --> 00:10:12,928
+Eu poderia tentar explicar...
+
+123
+00:10:12,929 --> 00:10:14,596
+que um projeto
+para salvar o mundo,
+
+124
+00:10:14,597 --> 00:10:15,931
+fútil ou não...
+
+125
+00:10:15,932 --> 00:10:18,108
+vale o investimento,
+sr. Daggett.
+
+126
+00:10:18,109 --> 00:10:19,935
+Mas o senhor
+só vê o dinheiro...
+
+127
+00:10:19,936 --> 00:10:21,854
+e o poder
+que acha que ele compra.
+
+128
+00:10:21,855 --> 00:10:24,482
+Então, por que desperdiço
+o meu tempo, não é?
+
+129
+00:10:25,150 --> 00:10:27,025
+<i>E os relatórios
+do segundo turno?</i>
+
+130
+00:10:27,026 --> 00:10:29,153
+Deveria passar
+mais tempo com o Prefeito.
+
+131
+00:10:29,154 --> 00:10:30,780
+Esse é o seu departamento.
+
+132
+00:10:31,614 --> 00:10:33,657
+<i>Ele já viu
+as estatísticas de crimes?</i>
+
+133
+00:10:33,658 --> 00:10:34,992
+<i>Ele segue instintos.</i>
+
+134
+00:10:34,993 --> 00:10:37,286
+Ele continua incomodado.
+Não importa os números.
+
+135
+00:10:37,287 --> 00:10:39,496
+- A esposa deve amá-lo.
+- Na verdade não.
+
+136
+00:10:39,497 --> 00:10:41,290
+<i>Ela foi embora
+com as crianças.</i>
+
+137
+00:10:41,291 --> 00:10:43,125
+<i>Temos muito tempo
+para visitas.</i>
+
+138
+00:10:43,126 --> 00:10:45,294
+O Prefeito vai se livrar dele
+na primavera.
+
+139
+00:10:45,794 --> 00:10:47,420
+- Sério?
+- Sim.
+
+140
+00:10:47,421 --> 00:10:49,589
+- Mas ele é um herói.
+- Um herói de guerra.
+
+141
+00:10:49,590 --> 00:10:51,216
+Agora é tempo de paz.
+
+142
+00:11:21,747 --> 00:11:23,456
+<i>Desculpe-me, senhor!</i>
+
+143
+00:11:23,457 --> 00:11:25,209
+Sinto muito, sr. Wayne!
+
+144
+00:11:27,503 --> 00:11:29,463
+É o sr. Wayne, não é?
+
+145
+00:11:30,839 --> 00:11:33,174
+Apesar de não ter
+as unhas compridas...
+
+146
+00:11:33,175 --> 00:11:36,178
+ou as cicatrizes
+no rosto.
+
+147
+00:11:37,846 --> 00:11:39,723
+É o que dizem sobre mim?
+
+148
+00:11:40,557 --> 00:11:43,227
+É que ninguém
+nunca vê o senhor.
+
+149
+00:11:43,811 --> 00:11:45,186
+É um belo colar.
+
+150
+00:11:45,187 --> 00:11:47,605
+<i>Ele me faz lembrar
+de um que era de minha mãe.</i>
+
+151
+00:11:47,606 --> 00:11:50,234
+Mas não pode ser
+o mesmo.
+
+152
+00:11:51,360 --> 00:11:54,363
+Pois as pérolas dela
+estão no cofre.
+
+153
+00:11:56,031 --> 00:11:59,326
+O fabricante me garantiu
+que é...
+
+154
+00:12:01,328 --> 00:12:03,330
+que é inviolável.
+
+155
+00:12:10,587 --> 00:12:12,965
+Ninguém me avisou
+que era inviolável.
+
+156
+00:12:13,966 --> 00:12:16,501
+Receio que não possa deixar
+que saia com ele.
+
+157
+00:12:17,386 --> 00:12:19,429
+Olha, você não bateria
+em uma mulher...
+
+158
+00:12:19,430 --> 00:12:21,432
+assim como eu não bateria
+em um aleijado.
+
+159
+00:12:22,766 --> 00:12:26,186
+Mas é claro que às vezes
+posso abrir exceções.
+
+160
+00:12:31,567 --> 00:12:33,152
+Boa noite, sr. Wayne!
+
+161
+00:12:48,459 --> 00:12:51,503
+- Pode me dar uma carona?
+- Leu meus pensamentos.
+
+162
+00:12:52,212 --> 00:12:53,589
+Vamos.
+
+163
+00:12:54,381 --> 00:12:56,883
+A srta. Tate pediu
+para vê-lo de novo.
+
+164
+00:12:56,884 --> 00:13:00,110
+- Ela é bem persistente.
+- E muito bonita.
+
+165
+00:13:00,111 --> 00:13:02,214
+- Caso esteja curioso.
+- Não estava.
+
+166
+00:13:02,431 --> 00:13:05,184
+- O que está fazendo?
+- Examinando pó de digitais.
+
+167
+00:13:05,392 --> 00:13:07,018
+Nós fomos roubados.
+
+168
+00:13:07,019 --> 00:13:09,979
+E é desse jeito que o senhor
+resolve dar o alarme?
+
+169
+00:13:09,980 --> 00:13:12,523
+Ela levou as pérolas,
+com rastreador e tudo mais.
+
+170
+00:13:12,524 --> 00:13:14,025
+- Ela?
+- Uma das empregadas.
+
+171
+00:13:14,026 --> 00:13:16,277
+Se não as deixasse entrar
+nesse lado da casa...
+
+172
+00:13:16,278 --> 00:13:19,156
+Talvez devesse aprender
+a fazer sua própria cama.
+
+173
+00:13:20,032 --> 00:13:21,949
+Por que está procurando
+por digitais?
+
+174
+00:13:21,950 --> 00:13:23,343
+Não estava.
+
+175
+00:13:24,244 --> 00:13:25,737
+Ela estava.
+
+176
+00:13:28,791 --> 00:13:32,085
+Senhor, a esposa
+do deputado Gilly ligou.
+
+177
+00:13:32,086 --> 00:13:35,363
+O deputado não voltou para casa
+depois da festa do Wayne.
+
+178
+00:13:36,632 --> 00:13:38,549
+E isso é trabalho
+para a Polícia?
+
+179
+00:13:38,550 --> 00:13:41,103
+O senhor e o Dent limparam
+as ruas pra valer.
+
+180
+00:13:41,386 --> 00:13:43,429
+Logo vamos perseguir
+quem...
+
+181
+00:13:43,430 --> 00:13:45,832
+atrasa a entrega
+de livros na biblioteca.
+
+182
+00:13:46,934 --> 00:13:49,318
+Mesmo assim,
+o senhor se comporta...
+
+183
+00:13:49,319 --> 00:13:51,438
+como se estivéssemos
+em guerra.
+
+184
+00:13:53,107 --> 00:13:55,441
+- Qual é seu nome, filho?
+- Blake, senhor.
+
+185
+00:13:55,442 --> 00:13:57,519
+Quer me perguntar algo,
+policial Blake?
+
+186
+00:13:59,363 --> 00:14:01,072
+É sobre aquela noite...
+
+187
+00:14:01,073 --> 00:14:02,865
+há oito anos,
+quando Dent morreu.
+
+188
+00:14:02,866 --> 00:14:05,202
+<i>Foi a última aparição
+confirmada do Batman.</i>
+
+189
+00:14:05,702 --> 00:14:08,496
+Ele matou aquelas pessoas,
+eliminou duas equipes da SWAT,
+
+190
+00:14:08,497 --> 00:14:12,084
+quebrou o pescoço do Dent
+e então desapareceu.
+
+191
+00:14:12,793 --> 00:14:14,419
+Não ouvi a pergunta,
+filho.
+
+192
+00:14:14,420 --> 00:14:16,713
+O senhor não quis
+mesmo saber quem foi?
+
+193
+00:14:17,923 --> 00:14:20,175
+Eu sei muito bem
+quem foi.
+
+194
+00:14:22,261 --> 00:14:24,304
+Foi o Batman.
+
+195
+00:14:26,598 --> 00:14:29,101
+Vamos falar
+com a mulher do deputado.
+
+196
+00:14:38,193 --> 00:14:39,528
+Patrão Bruce!
+
+197
+00:14:41,488 --> 00:14:42,948
+Patrão Bruce?
+
+198
+00:15:14,063 --> 00:15:16,522
+Faz muito tempo
+que o senhor não desce aqui.
+
+199
+00:15:16,523 --> 00:15:19,317
+Queria saber mais
+sobre nossa ladra de joias.
+
+200
+00:15:19,318 --> 00:15:20,777
+<i>Analisei as digitais.</i>
+
+201
+00:15:20,778 --> 00:15:22,820
+E a menos
+que tenha perdido peso...
+
+202
+00:15:22,821 --> 00:15:26,074
+ela estava usando
+as digitais de outra pessoa.
+
+203
+00:15:26,075 --> 00:15:27,408
+Ela é boa.
+
+204
+00:15:27,409 --> 00:15:30,828
+Pode ser, mas podemos
+rastrear o colar.
+
+205
+00:15:30,829 --> 00:15:33,831
+Por isso cruzei os dados
+do endereço dela...
+
+206
+00:15:33,832 --> 00:15:36,460
+com os de assaltos
+à residências de luxo.
+
+207
+00:15:36,794 --> 00:15:38,127
+E temos...
+
+208
+00:15:38,128 --> 00:15:40,046
+Selina Kyle.
+
+209
+00:15:40,047 --> 00:15:42,924
+Os bancos de dados
+estão cheios de fugas...
+
+210
+00:15:42,925 --> 00:15:45,134
+dicas de atravessadores...
+
+211
+00:15:45,135 --> 00:15:49,222
+Ela é boa,
+mas está se complicando.
+
+212
+00:15:49,223 --> 00:15:51,974
+Devíamos alertar a polícia
+antes que venda as pérolas.
+
+213
+00:15:51,975 --> 00:15:54,143
+Não vai vender.
+Ela gostou demais delas.
+
+214
+00:15:54,144 --> 00:15:56,229
+E não era atrás disso
+que ela estava atrás.
+
+215
+00:15:56,230 --> 00:15:58,731
+- Mas o que ela veio roubar?
+- Minhas digitais.
+
+216
+00:15:58,732 --> 00:16:01,984
+Tinha toner de impressora
+com grafite no cofre.
+
+217
+00:16:01,985 --> 00:16:04,445
+Funciona com digitais
+e não pode ser detectado.
+
+218
+00:16:04,446 --> 00:16:07,615
+Fascinante. Vocês dois deviam
+conversar durante um café.
+
+219
+00:16:07,616 --> 00:16:09,700
+Agora quer que namore
+uma ladra de joias?
+
+220
+00:16:09,701 --> 00:16:12,169
+Aceitaria que namorasse
+até com um chimpanzé...
+
+221
+00:16:12,170 --> 00:16:14,239
+<i>se isso lhe trouxesse
+de volta ao mundo.</i>
+
+222
+00:16:14,623 --> 00:16:17,099
+Não há nada no mundo
+que me interesse.
+
+223
+00:16:17,100 --> 00:16:18,793
+Aí está o problema.
+
+224
+00:16:18,794 --> 00:16:21,546
+Aposentou a capa e o capuz,
+mas não seguiu em frente.
+
+225
+00:16:21,547 --> 00:16:23,890
+Nunca procurou ter uma vida.
+Achar...
+
+226
+00:16:23,891 --> 00:16:25,667
+- alguém...
+- Alfred...
+
+227
+00:16:26,343 --> 00:16:28,011
+Eu já achei alguém.
+
+228
+00:16:28,512 --> 00:16:31,556
+Eu sei, e a perdeu.
+Mas isso faz parte da vida.
+
+229
+00:16:31,557 --> 00:16:33,933
+O senhor não está vivendo.
+Está esperando...
+
+230
+00:16:33,934 --> 00:16:36,227
+<i>na esperança
+de tudo piorar de novo.</i>
+
+231
+00:16:36,228 --> 00:16:38,020
+<i>Lembra-se quando
+saiu de Gotham?</i>
+
+232
+00:16:38,021 --> 00:16:40,524
+Antes de tudo isso,
+antes do Batman...
+
+233
+00:16:41,191 --> 00:16:44,794
+Ficou fora por 7 anos.
+E por 7 anos eu esperei.
+
+234
+00:16:44,795 --> 00:16:46,697
+<i>Na esperança
+de que não voltasse.</i>
+
+235
+00:16:47,698 --> 00:16:50,158
+Todos os anos,
+eu tirava férias.
+
+236
+00:16:50,159 --> 00:16:53,870
+Eu ia até Florença,
+lá existe um café no rio Arno.
+
+237
+00:16:53,871 --> 00:16:57,124
+Toda tarde, eu me sentava lá
+e pedia um Fernet branco.
+
+238
+00:16:58,000 --> 00:16:59,877
+<i>Eu tinha essas fantasias...</i>
+
+239
+00:17:01,336 --> 00:17:03,714
+<i>Eu olhava para as mesas
+à minha frente...</i>
+
+240
+00:17:04,298 --> 00:17:06,216
+<i>e via o senhor lá.</i>
+
+241
+00:17:06,884 --> 00:17:10,345
+<i>Com uma esposa.
+Talvez com alguns filhos.</i>
+
+242
+00:17:11,847 --> 00:17:13,931
+O senhor não dizia
+nada para mim.
+
+243
+00:17:13,932 --> 00:17:15,558
+Nem eu para o senhor.
+
+244
+00:17:17,393 --> 00:17:20,563
+Mas nós dois sabíamos
+que o senhor tinha conseguido.
+
+245
+00:17:21,564 --> 00:17:23,441
+Que o senhor estava feliz.
+
+246
+00:17:26,486 --> 00:17:29,989
+Eu jamais quis que o senhor
+voltasse para Gotham.
+
+247
+00:17:30,907 --> 00:17:33,492
+Sempre soube que não havia
+nada aqui para o senhor...
+
+248
+00:17:33,493 --> 00:17:35,787
+<i>além de dor e tragédia.</i>
+
+249
+00:17:36,204 --> 00:17:38,706
+Queria para o senhor
+algo muito melhor do que isso.
+
+250
+00:17:43,795 --> 00:17:45,296
+Eu ainda quero.
+
+251
+00:17:49,583 --> 00:17:52,219
+<i>Eles aparecem aqui,
+algumas vezes no mês.</i>
+
+252
+00:17:52,220 --> 00:17:53,887
+<i>Aparecem mais
+quando está frio.</i>
+
+253
+00:17:53,888 --> 00:17:56,099
+Desabrigados
+que ficam no esgoto.
+
+254
+00:17:57,809 --> 00:17:59,684
+Nós o tiramos de lá.
+
+255
+00:17:59,685 --> 00:18:01,521
+Mas tirando isso,
+não tocamos nele.
+
+256
+00:18:03,981 --> 00:18:05,315
+O que foi?
+
+257
+00:18:05,316 --> 00:18:07,567
+<i>Seu nome é Jimmy.
+Ele era do St. Swithin.</i>
+
+258
+00:18:07,568 --> 00:18:09,528
+É um orfanato onde...
+
+259
+00:18:09,529 --> 00:18:11,722
+eu jogava beisebol
+com os garotos.
+
+260
+00:18:14,909 --> 00:18:16,701
+<i>Jimmy não tem vindo aqui
+há meses.</i>
+
+261
+00:18:16,702 --> 00:18:18,912
+- Por quê?
+- Você sabe o porquê, Blake.
+
+262
+00:18:18,913 --> 00:18:20,305
+Ele passou da idade.
+
+263
+00:18:20,306 --> 00:18:23,408
+Não temos recursos para manter
+meninos com mais de 16 anos.
+
+264
+00:18:23,409 --> 00:18:25,710
+A Fundação Wayne não dá
+dinheiro pra isso?
+
+265
+00:18:25,711 --> 00:18:27,546
+Não nos últimos dois anos.
+
+266
+00:18:27,547 --> 00:18:29,215
+Ele tem um irmão aqui,
+não tem?
+
+267
+00:18:29,632 --> 00:18:32,050
+Mark.
+Eu conto a ele.
+
+268
+00:18:32,051 --> 00:18:34,637
+Eu gostaria de contar,
+se você não se importar.
+
+269
+00:18:35,930 --> 00:18:38,015
+Sabe o que ele fazia
+lá nos túneis?
+
+270
+00:18:38,349 --> 00:18:41,728
+Muitos têm ido pros túneis
+depois que passam da idade.
+
+271
+00:18:44,230 --> 00:18:48,859
+Dizem que pode se viver lá.
+Até que tem trabalho lá.
+
+272
+00:18:48,860 --> 00:18:50,235
+Trabalho?
+
+273
+00:18:50,236 --> 00:18:52,947
+Que tipo de trabalho
+tem nos esgotos?
+
+274
+00:18:53,448 --> 00:18:55,742
+Mais do que em cima,
+eu acho.
+
+275
+00:18:57,076 --> 00:18:59,537
+- Então ouviu dele?
+- Claro.
+
+276
+00:19:01,038 --> 00:19:03,040
+Será que ele está voltando?
+
+277
+00:19:05,334 --> 00:19:06,753
+Eu não sei.
+
+278
+00:19:20,183 --> 00:19:21,851
+Trouxe um acompanhante?
+
+279
+00:19:22,351 --> 00:19:25,396
+Gosto de ter alguém
+que possa me abrir as portas.
+
+280
+00:19:26,189 --> 00:19:28,883
+Mão direita.
+Digitais completas.
+
+281
+00:19:33,196 --> 00:19:34,981
+Muito bom.
+
+282
+00:19:34,982 --> 00:19:36,382
+Foi sim.
+
+283
+00:19:36,699 --> 00:19:38,700
+Não tão rápido assim,
+bonitão.
+
+284
+00:19:38,701 --> 00:19:40,686
+Não tem algo para mim?
+
+285
+00:19:41,913 --> 00:19:43,406
+Tenho.
+
+286
+00:19:52,924 --> 00:19:56,509
+Não sei o que pretende fazer
+com as digitais do sr. Wayne...
+
+287
+00:19:56,510 --> 00:19:59,422
+mas suponho que precise
+do polegar dele.
+
+288
+00:19:59,931 --> 00:20:01,848
+<i>Não sabe contar, não é?</i>
+
+289
+00:20:01,849 --> 00:20:03,551
+Sei contar muito bem.
+
+290
+00:20:03,851 --> 00:20:06,729
+<i>Na verdade, vou contar
+até 10 agora mesmo.</i>
+
+291
+00:20:09,524 --> 00:20:10,858
+Tudo bem.
+
+292
+00:20:14,612 --> 00:20:17,198
+Minha amiga está lá fora.
+Aperte "enviar".
+
+293
+00:20:29,085 --> 00:20:30,627
+Este lugar é meio morto.
+
+294
+00:20:30,628 --> 00:20:33,113
+Vai ficar cheio de vida logo.
+Confie em mim.
+
+295
+00:20:35,216 --> 00:20:36,633
+Está tudo bem?
+
+296
+00:20:36,634 --> 00:20:38,928
+Tudo bem.
+Falo com você depois.
+
+297
+00:20:45,309 --> 00:20:47,519
+Teria sido
+bem mais fácil...
+
+298
+00:20:47,520 --> 00:20:50,022
+você pagar
+o que havíamos combinado.
+
+299
+00:20:50,314 --> 00:20:52,441
+Não podemos
+deixar vestígios.
+
+300
+00:20:52,442 --> 00:20:57,028
+E mesmo usando esse vestido,
+ninguém vai sentir sua falta.
+
+301
+00:20:57,029 --> 00:21:00,124
+Não.
+Mas sabe o meu amigo ali?
+
+302
+00:21:00,491 --> 00:21:03,119
+Todos os policiais da cidade
+estão atrás dele.
+
+303
+00:21:03,703 --> 00:21:05,162
+Bem pensado.
+
+304
+00:21:05,163 --> 00:21:08,290
+Mas não vão procurar
+em um lugar como este.
+
+305
+00:21:08,291 --> 00:21:11,552
+Será que não?
+Acabou de usar o celular dele.
+
+306
+00:21:38,738 --> 00:21:40,823
+<i>Polícia!
+Todos no chão!</i>
+
+307
+00:21:45,353 --> 00:21:46,846
+Ajudem-me!
+
+308
+00:21:57,715 --> 00:21:59,926
+É só uma ferida, querido.
+
+309
+00:22:02,720 --> 00:22:04,055
+Liga pra mim?
+
+310
+00:22:06,682 --> 00:22:09,519
+- Você está bem, senhorita?
+- Ele está sangrando! Ali!
+
+311
+00:22:14,440 --> 00:22:15,817
+Achei o deputado.
+
+312
+00:22:44,679 --> 00:22:46,264
+Vamos!
+
+313
+00:22:50,184 --> 00:22:51,560
+O bueiro! Levantem!
+
+314
+00:22:51,561 --> 00:22:53,563
+Chamem alguém
+de Águas e Energia!
+
+315
+00:22:55,022 --> 00:22:56,815
+Vocês três,
+venham comigo!
+
+316
+00:22:56,816 --> 00:23:00,278
+Vocês dois, vão até o beco
+e cubram a próxima saída!
+
+317
+00:23:16,502 --> 00:23:18,296
+Eles desceram ali?
+
+318
+00:23:49,618 --> 00:23:52,787
+- Vamos descer, certo?
+- Foi uma explosão de gás.
+
+319
+00:23:52,788 --> 00:23:54,288
+Gás? É um esgoto!
+
+320
+00:23:54,289 --> 00:23:56,248
+Ninguém desce
+até sabermos o que tem lá!
+
+321
+00:23:56,249 --> 00:23:58,375
+Já sabemos, senhor!
+O Comissário de Polícia!
+
+322
+00:23:58,376 --> 00:24:00,419
+Alguém tire
+esse esquentadinho daqui!
+
+323
+00:24:00,420 --> 00:24:02,297
+Cadê o cara
+de Águas e Energia?!
+
+324
+00:24:45,465 --> 00:24:47,884
+Por que está aqui?
+
+325
+00:24:48,802 --> 00:24:50,137
+Responde pra ele!
+
+326
+00:24:52,305 --> 00:24:53,974
+Perguntei para você.
+
+327
+00:24:54,641 --> 00:24:56,226
+É o Comissário de Polícia.
+
+328
+00:25:00,063 --> 00:25:02,606
+E vocês o trouxeram
+até aqui?
+
+329
+00:25:02,607 --> 00:25:04,984
+<i>Não sabíamos o que fazer.
+Achamos que...</i>
+
+330
+00:25:04,985 --> 00:25:06,360
+Entraram em pânico!
+
+331
+00:25:06,361 --> 00:25:09,281
+E a fraqueza de vocês
+custou três vidas.
+
+332
+00:25:09,489 --> 00:25:10,991
+Não. Ele está sozinho...
+
+333
+00:25:14,619 --> 00:25:17,456
+Revistem-no.
+Depois eu mato vocês.
+
+334
+00:25:37,059 --> 00:25:38,560
+<i>- Ele fugiu!
+- Atirem nele!</i>
+
+335
+00:25:46,610 --> 00:25:47,986
+Ele está morto!
+
+336
+00:25:48,570 --> 00:25:50,237
+Então me mostre o corpo.
+
+337
+00:25:50,238 --> 00:25:52,448
+Água pode levar
+a qualquer uma das saídas.
+
+338
+00:25:52,449 --> 00:25:53,825
+Nunca vamos achar.
+
+339
+00:25:59,623 --> 00:26:02,876
+- Siga-o.
+- Seguir?
+
+340
+00:26:17,724 --> 00:26:21,269
+Comissário? Comissário?
+O senhor está bem?
+
+341
+00:26:28,193 --> 00:26:29,693
+Preciso falar com Bruce Wayne.
+
+342
+00:26:29,694 --> 00:26:32,563
+Lamento, mas o sr. Wayne
+não atende sem hora marcada.
+
+343
+00:26:32,564 --> 00:26:34,473
+Nem mesmo
+se for um policial.
+
+344
+00:26:34,474 --> 00:26:36,075
+E se trouxer um mandato...
+
+345
+00:26:36,076 --> 00:26:38,202
+para investigar
+a morte de Harvey Dent,
+
+346
+00:26:38,203 --> 00:26:40,872
+ainda vou ter
+que marcar hora?
+
+347
+00:26:44,543 --> 00:26:46,586
+Como posso ajudar,
+policial?
+
+348
+00:26:47,087 --> 00:26:49,673
+O Comissário Gordon
+foi baleado.
+
+349
+00:26:51,591 --> 00:26:53,676
+Ele perseguiu os atiradores
+até os esgotos.
+
+350
+00:26:53,677 --> 00:26:55,594
+Quando eu o resgatei,
+ele falou sobre...
+
+351
+00:26:55,595 --> 00:26:57,221
+uma "milícia subterrânea"...
+
+352
+00:26:57,222 --> 00:26:59,266
+e um homem mascarado
+chamado Bane.
+
+353
+00:27:00,058 --> 00:27:02,393
+Não deveria relatar isso
+aos seus superiores?
+
+354
+00:27:02,394 --> 00:27:05,439
+Eles me perguntaram
+se ele viu crocodilos gigantes.
+
+355
+00:27:05,731 --> 00:27:07,307
+Ele precisa de você.
+
+356
+00:27:08,859 --> 00:27:10,610
+Ele precisa do Batman.
+
+357
+00:27:11,820 --> 00:27:14,155
+- Se o Comissário acha...
+- Ele não sabe...
+
+358
+00:27:14,156 --> 00:27:15,782
+e nem liga
+para quem você é.
+
+359
+00:27:16,783 --> 00:27:18,577
+Mas nós já
+nos conhecemos.
+
+360
+00:27:20,078 --> 00:27:22,079
+Foi há muito tempo,
+quando eu era criança.
+
+361
+00:27:22,080 --> 00:27:23,582
+No St. Swithin.
+
+362
+00:27:24,708 --> 00:27:28,378
+Era um orfanato mantido
+pela Fundação Wayne.
+
+363
+00:27:29,254 --> 00:27:31,172
+Minha mãe morreu
+quando eu era pequeno.
+
+364
+00:27:31,173 --> 00:27:33,674
+Acidente de carro.
+Não me lembro de muita coisa.
+
+365
+00:27:33,675 --> 00:27:35,177
+Mas...
+
+366
+00:27:35,427 --> 00:27:37,636
+Meu pai foi baleado
+anos depois...
+
+367
+00:27:37,637 --> 00:27:39,306
+por causa
+de uma dívida de jogo.
+
+368
+00:27:39,806 --> 00:27:43,101
+E disso eu me lembro...
+muito bem.
+
+369
+00:27:44,227 --> 00:27:47,022
+Muitos não conhecem
+a sensação, não acha?
+
+370
+00:27:47,731 --> 00:27:51,234
+De sentir ódio...
+até os seus ossos.
+
+371
+00:27:54,362 --> 00:27:58,115
+Eles até entendem...
+os pais adotivos.
+
+372
+00:27:58,116 --> 00:28:00,118
+Todo mundo entende.
+
+373
+00:28:00,827 --> 00:28:02,454
+Por um tempo.
+
+374
+00:28:02,829 --> 00:28:04,997
+Depois querem
+que o garoto cheio de ódio...
+
+375
+00:28:04,998 --> 00:28:07,000
+faça algo que sabem
+que ele não consegue.
+
+376
+00:28:07,417 --> 00:28:08,794
+Esquecer.
+
+377
+00:28:09,377 --> 00:28:11,504
+<i>Então, pouco depois,
+deixam de entender.</i>
+
+378
+00:28:11,505 --> 00:28:13,672
+<i>Eles mandam o revoltado
+para um orfanato.</i>
+
+379
+00:28:13,673 --> 00:28:15,508
+<i>Eu descobri tarde demais.</i>
+
+380
+00:28:15,509 --> 00:28:17,386
+Você aprende
+a esconder o ódio...
+
+381
+00:28:17,886 --> 00:28:20,305
+e pratica sorrisos
+no espelho.
+
+382
+00:28:22,099 --> 00:28:23,934
+É como colocar
+uma máscara.
+
+383
+00:28:25,060 --> 00:28:28,479
+Então, você apareceu um dia,
+em um carro legal...
+
+384
+00:28:28,480 --> 00:28:30,482
+e uma mulher bonita
+nos braços.
+
+385
+00:28:31,191 --> 00:28:33,275
+Nós ficamos tão animados!
+
+386
+00:28:33,276 --> 00:28:36,279
+Bruce Wayne,
+o órfão bilionário?
+
+387
+00:28:37,072 --> 00:28:40,200
+<i>Nós inventávamos
+histórias suas, cara. Lendas.</i>
+
+388
+00:28:40,700 --> 00:28:43,954
+Para as outras crianças,
+eram só histórias. Mas...
+
+389
+00:28:46,289 --> 00:28:48,417
+Assim que vi você,
+soube quem você era.
+
+390
+00:28:50,127 --> 00:28:52,587
+Já havia visto
+aquele sorriso antes.
+
+391
+00:28:53,588 --> 00:28:55,632
+Era igual
+ao que eu havia treinado.
+
+392
+00:28:57,843 --> 00:29:00,721
+Não sei por que aceitou
+a culpa pela morte do Dent...
+
+393
+00:29:01,388 --> 00:29:03,807
+mas eu ainda acredito
+no Batman.
+
+394
+00:29:04,641 --> 00:29:06,601
+Mesmo você não acreditando.
+
+395
+00:29:08,937 --> 00:29:11,230
+Por que diz
+que o seu orfanato...
+
+396
+00:29:11,231 --> 00:29:14,233
+"era" mantido
+pela Fundação Wayne?
+
+397
+00:29:14,234 --> 00:29:16,110
+<i>Porque o dinheiro parou.</i>
+
+398
+00:29:16,111 --> 00:29:17,778
+Pode ser a hora
+de sair um pouco.
+
+399
+00:29:17,779 --> 00:29:19,781
+De prestar atenção
+aos detalhes.
+
+400
+00:29:21,158 --> 00:29:23,702
+Alguns detalhes
+podem precisar da sua atenção.
+
+401
+00:29:25,245 --> 00:29:27,830
+<i>- Verificou o nome, Bane?
+- Ele é um mercenário.</i>
+
+402
+00:29:27,831 --> 00:29:29,457
+Não é conhecido
+por outros nomes.
+
+403
+00:29:29,458 --> 00:29:32,376
+Ele e seus homens estiveram
+por trás de um golpe na África.
+
+404
+00:29:32,377 --> 00:29:34,503
+Um golpe
+que garantiu a mineração...
+
+405
+00:29:34,504 --> 00:29:36,590
+para o nosso amigo,
+John Daggett.
+
+406
+00:29:37,090 --> 00:29:39,133
+<i>E agora Daggett
+trouxe todos até aqui.</i>
+
+407
+00:29:39,134 --> 00:29:40,927
+<i>Parece que sim.</i>
+
+408
+00:29:42,262 --> 00:29:45,015
+- Vou investigar mais.
+- Certo.
+
+409
+00:29:45,599 --> 00:29:48,726
+Alfred,
+por que a Fundação Wayne...
+
+410
+00:29:48,727 --> 00:29:51,438
+deixou de financiar
+orfanatos na cidade?
+
+411
+00:29:51,938 --> 00:29:54,398
+A Fundação é mantida...
+
+412
+00:29:54,399 --> 00:29:56,902
+pelos lucros
+das Empresas Wayne.
+
+413
+00:29:57,402 --> 00:29:58,861
+É preciso haver lucro.
+
+414
+00:29:58,862 --> 00:30:01,655
+É hora de falar
+com o sr. Fox, não é?
+
+415
+00:30:01,656 --> 00:30:03,532
+- Vou ligar para ele.
+- Não. Não.
+
+416
+00:30:03,533 --> 00:30:05,869
+Ainda temos carros
+aqui na Mansão?
+
+417
+00:30:06,870 --> 00:30:08,580
+Sim, um ou dois.
+
+418
+00:30:08,789 --> 00:30:11,165
+Marque uma hora no hospital
+para ver minha perna.
+
+419
+00:30:11,166 --> 00:30:14,293
+- Em qual hospital?
+- No mesmo que Jim Gordon está.
+
+420
+00:30:18,339 --> 00:30:20,340
+Já vi cartilagens piores
+em joelhos.
+
+421
+00:30:20,341 --> 00:30:21,841
+- Que bom.
+- Não.
+
+422
+00:30:21,842 --> 00:30:23,885
+Porque não há
+cartilagem no joelho...
+
+423
+00:30:23,886 --> 00:30:27,555
+e nenhuma que sirva
+em seus cotovelos e ombros.
+
+424
+00:30:27,556 --> 00:30:29,724
+Se contarmos também
+as cicatrizes renais,
+
+425
+00:30:29,725 --> 00:30:32,560
+a lesão residual
+no tecido cerebral,
+
+426
+00:30:32,561 --> 00:30:35,230
+e a quantidade
+de cicatrizes pelo corpo...
+
+427
+00:30:35,231 --> 00:30:37,732
+eu recomendo que não
+vá mais esquiar, sr. Wayne.
+
+428
+00:30:37,733 --> 00:30:39,110
+Entendo.
+
+429
+00:30:53,707 --> 00:30:55,793
+Costumávamos lutar
+contra isso juntos.
+
+430
+00:30:58,421 --> 00:31:00,213
+Então você me deixou.
+
+431
+00:31:00,214 --> 00:31:02,215
+<i>O Batman não era
+mais necessário.</i>
+
+432
+00:31:02,216 --> 00:31:05,553
+- Nós vencemos.
+- Com uma mentira.
+
+433
+00:31:07,138 --> 00:31:10,131
+Agora existe
+um mal surgindo...
+
+434
+00:31:10,132 --> 00:31:12,226
+onde tentamos enterrá-lo.
+
+435
+00:31:13,352 --> 00:31:15,145
+O Batman...
+
+436
+00:31:15,146 --> 00:31:16,939
+precisa voltar.
+
+437
+00:31:18,065 --> 00:31:20,150
+E se ele não existir mais?
+
+438
+00:31:20,151 --> 00:31:21,944
+<i>É preciso.</i>
+
+439
+00:31:22,236 --> 00:31:23,863
+É... preciso.
+
+440
+00:31:38,669 --> 00:31:40,045
+<i>Pegou a carteira,
+não é?!</i>
+
+441
+00:31:40,046 --> 00:31:42,882
+- Pegou minha carteira!
+- Não!
+
+442
+00:31:43,174 --> 00:31:44,884
+- Sai fora!
+- Ela pegou a...
+
+443
+00:31:45,885 --> 00:31:47,303
+Agora!
+
+444
+00:31:47,595 --> 00:31:48,970
+<i>Maluca!</i>
+
+445
+00:31:48,971 --> 00:31:51,639
+Não sei por que ficou assim.
+Só tem 60 pratas aqui.
+
+446
+00:31:51,640 --> 00:31:53,184
+Esqueceu o relógio.
+
+447
+00:32:08,532 --> 00:32:11,327
+- Quem é aquele?
+- Um aleijado em um carrão?
+
+448
+00:32:11,827 --> 00:32:13,162
+É Bruce Wayne!
+
+449
+00:32:13,537 --> 00:32:15,623
+- Sr. Wayne!
+- Sr. Wayne, aqui!
+
+450
+00:32:19,126 --> 00:32:21,920
+- Não sei se meu assistente...
+- Por aqui, sr. Wayne.
+
+451
+00:32:21,921 --> 00:32:23,255
+Muito obrigado.
+
+452
+00:32:28,719 --> 00:32:31,764
+Bruce Wayne
+em um baile de caridade?
+
+453
+00:32:33,391 --> 00:32:35,142
+Srta. Tate, não é?
+
+454
+00:32:36,227 --> 00:32:39,813
+Mesmo antes de virar um eremita
+nunca viria a esses eventos.
+
+455
+00:32:39,814 --> 00:32:42,065
+As doações recolhidas
+vão para o banquete.
+
+456
+00:32:42,066 --> 00:32:43,400
+Não para a caridade.
+
+457
+00:32:43,401 --> 00:32:45,193
+Serve só
+para alimentar o ego...
+
+458
+00:32:45,194 --> 00:32:48,071
+da socialite fútil
+que organizou tudo.
+
+459
+00:32:48,072 --> 00:32:50,950
+Na verdade,
+a festa é minha, sr. Wayne.
+
+460
+00:32:52,660 --> 00:32:54,911
+E as doações vão
+para o lugar correto...
+
+461
+00:32:54,912 --> 00:32:57,581
+porque eu paguei o banquete
+com meu próprio dinheiro.
+
+462
+00:32:58,290 --> 00:32:59,833
+Muita generosidade.
+
+463
+00:32:59,834 --> 00:33:01,304
+É preciso investir...
+
+464
+00:33:01,305 --> 00:33:03,605
+se quisermos restaurar
+o equilíbrio do mundo.
+
+465
+00:33:04,130 --> 00:33:06,464
+Por exemplo, nosso projeto
+de energia renovável.
+
+466
+00:33:06,465 --> 00:33:09,175
+Às vezes,
+os investimentos não dão lucro.
+
+467
+00:33:09,176 --> 00:33:10,553
+Sinto muito.
+
+468
+00:33:10,845 --> 00:33:13,430
+Demonstra uma indiferença
+bem ensaiada, sr. Wayne.
+
+469
+00:33:13,431 --> 00:33:15,598
+Mas um homem
+que não liga para o mundo...
+
+470
+00:33:15,599 --> 00:33:18,602
+não gasta metade da fortuna
+em um plano para salvá-lo.
+
+471
+00:33:19,311 --> 00:33:23,189
+Nem ficaria tão triste
+quando ele fracassa...
+
+472
+00:33:23,190 --> 00:33:25,067
+a ponto de se esconder.
+
+473
+00:33:26,360 --> 00:33:28,988
+Tenha uma boa noite,
+sr. Wayne.
+
+474
+00:33:32,366 --> 00:33:34,285
+<i>Pode me dar licença?</i>
+
+475
+00:33:35,119 --> 00:33:36,495
+Obrigado.
+
+476
+00:33:39,415 --> 00:33:41,416
+Não está muito feliz
+em me ver.
+
+477
+00:33:41,417 --> 00:33:44,587
+- Pensei que fosse um inválido.
+- Queria um pouco de ar fresco.
+
+478
+00:33:45,421 --> 00:33:47,797
+Por que não chamou
+a polícia?
+
+479
+00:33:47,798 --> 00:33:51,134
+Eu tenho um amigo poderoso
+que lida com essas situações.
+
+480
+00:33:51,135 --> 00:33:56,014
+É um disfarce bem ousado...
+para uma "gatuna".
+
+481
+00:33:56,015 --> 00:33:58,516
+Sério?
+E está fantasiado de quê?
+
+482
+00:33:58,517 --> 00:34:01,220
+Bruce Wayne,
+o bilionário excêntrico.
+
+483
+00:34:01,771 --> 00:34:04,481
+- Quem é o seu parceiro?
+- A esposa está em "Ibitza".
+
+484
+00:34:04,482 --> 00:34:06,566
+Ela deixou
+os diamantes em casa.
+
+485
+00:34:06,567 --> 00:34:08,443
+Está com medo
+de serem roubados?
+
+486
+00:34:08,444 --> 00:34:10,196
+O correto é Ibiza.
+
+487
+00:34:10,780 --> 00:34:13,656
+Não vai querer que alguém aqui
+perceba que é uma ladra...
+
+488
+00:34:13,657 --> 00:34:15,075
+e não uma alpinista social.
+
+489
+00:34:15,076 --> 00:34:18,079
+Acha que ligo para o que alguém
+nesse salão pensa de mim?
+
+490
+00:34:19,497 --> 00:34:22,415
+E liga para o que alguém
+em qualquer salão pensa?
+
+491
+00:34:22,416 --> 00:34:26,419
+Não se iluda, sr. Wayne.
+Não sabe nada sobre mim.
+
+492
+00:34:26,420 --> 00:34:28,047
+É Selina Kyle.
+
+493
+00:34:28,339 --> 00:34:30,924
+Sei que mora
+na Velha Cidade.
+
+494
+00:34:30,925 --> 00:34:33,051
+Um lugar modesto
+para uma ladra de joias.
+
+495
+00:34:33,052 --> 00:34:36,012
+Ou está economizando
+para se aposentar, ou então...
+
+496
+00:34:36,013 --> 00:34:38,474
+está envolvida
+com a gente errada.
+
+497
+00:34:40,267 --> 00:34:42,811
+Não tem o direito de me julgar,
+só porque nasceu...
+
+498
+00:34:42,812 --> 00:34:44,521
+na suíte principal
+da Mansão Wayne.
+
+499
+00:34:44,522 --> 00:34:46,272
+Na verdade,
+nasci na Suíte Regente.
+
+500
+00:34:46,273 --> 00:34:48,859
+Fiz o que tinha que fazer.
+
+501
+00:34:50,194 --> 00:34:51,778
+Depois que começa...
+
+502
+00:34:51,779 --> 00:34:53,696
+não permitem mais
+que faça o que quer.
+
+503
+00:34:53,697 --> 00:34:55,490
+Então, recomece.
+
+504
+00:34:55,491 --> 00:34:58,118
+Não há recomeço
+no mundo de hoje.
+
+505
+00:34:58,119 --> 00:35:01,538
+Uma criança com um celular
+pode descobrir o que você fez.
+
+506
+00:35:01,539 --> 00:35:03,748
+Tudo que fazemos
+é organizado e conferido.
+
+507
+00:35:03,749 --> 00:35:05,750
+Tudo pesa contra você.
+
+508
+00:35:05,751 --> 00:35:08,045
+É assim
+que justifica o roubo?
+
+509
+00:35:08,421 --> 00:35:11,131
+Eu pego o preciso
+daqueles que têm o suficiente.
+
+510
+00:35:11,132 --> 00:35:13,258
+Não me aproveito
+daqueles que têm menos.
+
+511
+00:35:13,259 --> 00:35:15,635
+- Robin Hood?
+- Ajudo mais aos outros...
+
+512
+00:35:15,636 --> 00:35:17,637
+do que a maioria
+das pessoas aqui.
+
+513
+00:35:17,638 --> 00:35:19,181
+Mais até do que você.
+
+514
+00:35:20,015 --> 00:35:21,891
+Não está presumindo demais?
+
+515
+00:35:21,892 --> 00:35:23,393
+Talvez
+não tenha consciência...
+
+516
+00:35:23,394 --> 00:35:26,147
+sobre o que tem nas calças,
+além de sua carteira.
+
+517
+00:35:27,690 --> 00:35:29,858
+Acha que essa situação
+vai durar?
+
+518
+00:35:29,859 --> 00:35:32,778
+Uma tempestade se aproxima,
+sr. Wayne.
+
+519
+00:35:33,362 --> 00:35:36,281
+Você e seus amigos
+precisam se preparar...
+
+520
+00:35:36,282 --> 00:35:37,782
+pois quando ela chegar...
+
+521
+00:35:37,783 --> 00:35:41,786
+vão se perguntar como
+puderam viver na riqueza,
+
+522
+00:35:41,787 --> 00:35:44,790
+deixando tão pouco
+para o resto de nós.
+
+523
+00:35:48,294 --> 00:35:50,379
+Parece que está ansiosa
+por isso.
+
+524
+00:35:52,173 --> 00:35:53,673
+Eu me adapto bem.
+
+525
+00:35:53,674 --> 00:35:55,884
+As pérolas ficam mesmo
+mais bonitas em você...
+
+526
+00:35:55,885 --> 00:35:57,378
+do que no meu cofre.
+
+527
+00:35:57,928 --> 00:36:00,097
+Mas não posso deixar
+que fique com elas.
+
+528
+00:36:07,396 --> 00:36:09,648
+Você a assustou!
+
+529
+00:36:12,860 --> 00:36:14,236
+Duvido muito.
+
+530
+00:36:16,489 --> 00:36:18,073
+Devo ter perdido
+o ticket.
+
+531
+00:36:18,074 --> 00:36:19,783
+Sua esposa falou
+que iria de táxi.
+
+532
+00:36:19,784 --> 00:36:21,177
+Minha esposa?
+
+533
+00:36:28,667 --> 00:36:30,669
+Está sozinho, senhor?
+
+534
+00:36:33,381 --> 00:36:35,132
+Não se preocupe,
+Patrão Bruce.
+
+535
+00:36:36,133 --> 00:36:38,969
+Leva um tempo para o senhor
+voltar a pegar o jeito.
+
+536
+00:36:41,347 --> 00:36:42,721
+<i>Bruce Wayne!</i>
+
+537
+00:36:42,722 --> 00:36:44,407
+Quem é vivo,
+sempre aparece.
+
+538
+00:36:46,434 --> 00:36:48,769
+O que faz fora da hibernação,
+sr. Wayne?
+
+539
+00:36:48,770 --> 00:36:50,896
+<i>Vejo que não perdeu
+seu senso de humor.</i>
+
+540
+00:36:50,897 --> 00:36:53,273
+Embora tenha perdido
+muito do meu dinheiro.
+
+541
+00:36:53,274 --> 00:36:55,150
+Na verdade,
+foi o senhor que perdeu.
+
+542
+00:36:55,151 --> 00:36:57,778
+<i>Se o senhor põe
+todo orçamento de pesquisa...</i>
+
+543
+00:36:57,779 --> 00:37:01,073
+em um projeto de fusão,
+que depois descarta...
+
+544
+00:37:01,074 --> 00:37:03,325
+<i>sua companhia
+não consegue prosperar.</i>
+
+545
+00:37:03,326 --> 00:37:04,868
+Que opções eu tenho?
+
+546
+00:37:04,869 --> 00:37:07,330
+Se não está disposto
+a ligar sua máquina...
+
+547
+00:37:08,123 --> 00:37:09,957
+Não posso fazer isso,
+Lucius.
+
+548
+00:37:09,958 --> 00:37:12,084
+Então, espere sentado.
+
+549
+00:37:12,085 --> 00:37:14,128
+Ser majoritário
+mantém Daggett afastado...
+
+550
+00:37:14,129 --> 00:37:16,088
+enquanto descobrimos
+um futuro...
+
+551
+00:37:16,089 --> 00:37:18,465
+para o programa de energia
+com Miranda Tate.
+
+552
+00:37:18,466 --> 00:37:21,136
+Ela apoiou o projeto
+desde o início.
+
+553
+00:37:21,428 --> 00:37:24,597
+Ela é inteligente
+e muito encantadora.
+
+554
+00:37:25,598 --> 00:37:28,643
+Todos nós queremos
+o melhor para você, Bruce.
+
+555
+00:37:29,227 --> 00:37:30,812
+Mostre a ela a máquina.
+
+556
+00:37:31,312 --> 00:37:33,439
+Vou pensar nisso.
+
+557
+00:37:33,440 --> 00:37:36,776
+- Mais alguma coisa?
+- Não. Por quê?
+
+558
+00:37:37,318 --> 00:37:40,989
+Nossas conversas terminavam
+com um pedido inusitado.
+
+559
+00:37:42,073 --> 00:37:43,658
+Eu me aposentei.
+
+560
+00:37:45,535 --> 00:37:47,829
+Mas me permita
+mostrar-lhe algumas coisas.
+
+561
+00:37:52,083 --> 00:37:53,668
+Pelos velhos tempos.
+
+562
+00:37:57,797 --> 00:38:00,257
+Achei que tivesse
+fechado o lugar.
+
+563
+00:38:00,258 --> 00:38:02,968
+Tudo foi fechado.
+Oficialmente.
+
+564
+00:38:02,969 --> 00:38:04,386
+Tudo isso é novo.
+
+565
+00:38:04,387 --> 00:38:06,755
+Depois da morte de seu pai,
+as Empresas Wayne...
+
+566
+00:38:06,756 --> 00:38:09,266
+estabeleceram 14 diferentes
+subsidiárias de defesa.
+
+567
+00:38:09,267 --> 00:38:11,977
+Por anos, venho tentando
+reunir e consolidar...
+
+568
+00:38:11,978 --> 00:38:14,354
+todos diferentes protótipos
+sob o mesmo teto.
+
+569
+00:38:14,355 --> 00:38:16,482
+- Meu teto.
+- Por quê?
+
+570
+00:38:16,483 --> 00:38:18,985
+Para que não caíssem
+em mãos erradas.
+
+571
+00:38:22,155 --> 00:38:23,740
+Agora está se exibindo!
+
+572
+00:38:25,575 --> 00:38:27,409
+É um projeto
+do Ministério da Defesa.
+
+573
+00:38:27,410 --> 00:38:30,038
+Um pacificador urbano
+para áreas muito povoadas.
+
+574
+00:38:30,663 --> 00:38:33,457
+Os rotores são projetados
+para manobras entre prédios...
+
+575
+00:38:33,458 --> 00:38:34,951
+bem próximos.
+
+576
+00:38:35,877 --> 00:38:38,045
+Como é chamado?
+
+577
+00:38:38,046 --> 00:38:40,464
+Ele tem um nome longo
+e desinteressante...
+
+578
+00:38:40,465 --> 00:38:42,050
+dado pelas Empresas Wayne.
+
+579
+00:38:42,467 --> 00:38:45,512
+Eu o chamo simplesmente
+de "O Morcego".
+
+580
+00:38:46,596 --> 00:38:48,973
+E sim, sr. Wayne,
+ele também vem na cor preta.
+
+581
+00:38:51,101 --> 00:38:54,020
+Funciona bem.
+Exceto o piloto automático.
+
+582
+00:38:54,312 --> 00:38:56,814
+Para consertá-lo, só uma mente
+melhor que a minha.
+
+583
+00:38:56,815 --> 00:38:58,274
+Uma mente melhor?
+
+584
+00:38:58,691 --> 00:39:01,611
+Tentei ser modesto.
+
+585
+00:39:01,903 --> 00:39:03,696
+Uma mente menos ocupada.
+
+586
+00:39:03,988 --> 00:39:05,481
+A sua.
+
+587
+00:39:12,622 --> 00:39:14,331
+<i>É tão doloroso assim?</i>
+
+588
+00:39:14,332 --> 00:39:16,542
+Fique à vontade
+para experimentar, Alfred.
+
+589
+00:39:16,543 --> 00:39:18,545
+Fico feliz em só ver.
+Obrigado, senhor.
+
+590
+00:39:21,464 --> 00:39:22,957
+Nada mau.
+
+591
+00:39:27,929 --> 00:39:29,347
+Nada mau mesmo!
+
+592
+00:39:32,851 --> 00:39:35,936
+Se o senhor está pensando
+seriamente em voltar à ativa...
+
+593
+00:39:35,937 --> 00:39:38,856
+<i>deveria ouvir os boatos
+sobre o Bane.</i>
+
+594
+00:39:38,857 --> 00:39:40,275
+Sou todo ouvidos.
+
+595
+00:39:40,775 --> 00:39:44,154
+Existe uma prisão
+em uma parte do mundo antigo.
+
+596
+00:39:44,446 --> 00:39:46,155
+É um poço...
+
+597
+00:39:46,156 --> 00:39:48,657
+onde as pessoas são jogadas
+para sofrer...
+
+598
+00:39:48,658 --> 00:39:50,075
+e morrer.
+
+599
+00:39:50,076 --> 00:39:54,079
+Mas, às vezes, um homem
+consegue emergir das trevas.
+
+600
+00:39:54,080 --> 00:39:57,959
+Às vezes,
+o poço manda algo de volta.
+
+601
+00:39:58,293 --> 00:40:00,295
+- Bane.
+- Bane.
+
+602
+00:40:00,795 --> 00:40:03,572
+Nascido e criado
+no inferno na Terra.
+
+603
+00:40:03,573 --> 00:40:04,965
+Ele nasceu na prisão?
+
+604
+00:40:04,966 --> 00:40:07,801
+<i>Ninguém sabe por que
+ou como ele escapou...</i>
+
+605
+00:40:07,802 --> 00:40:09,888
+mas só sabem
+que assim que ele escapou...
+
+606
+00:40:10,680 --> 00:40:13,390
+ele foi treinado
+por Ra's Al Ghul.
+
+607
+00:40:13,391 --> 00:40:14,892
+<i>O seu mentor.</i>
+
+608
+00:40:14,893 --> 00:40:17,436
+Bane é um membro
+da Liga das Sombras.
+
+609
+00:40:17,437 --> 00:40:19,522
+Com certeza,
+mas ele foi excomungado.
+
+610
+00:40:19,814 --> 00:40:22,191
+<i>E qualquer homem,
+radical demais...</i>
+
+611
+00:40:22,192 --> 00:40:23,693
+para Ra's Al Ghul...
+
+612
+00:40:23,985 --> 00:40:25,944
+não deve ser subestimado.
+
+613
+00:40:25,945 --> 00:40:29,240
+Nunca percebi
+que eu subestimava criminosos.
+
+614
+00:40:29,741 --> 00:40:31,408
+Isso foi no passado.
+
+615
+00:40:31,409 --> 00:40:34,361
+Pode restaurar sua perna
+e pôr de volta a máscara...
+
+616
+00:40:34,362 --> 00:40:36,955
+<i>mas isso não fará
+que volte a ser o que foi.</i>
+
+617
+00:40:36,956 --> 00:40:40,084
+Se esse homem for tudo
+o que você diz...
+
+618
+00:40:40,085 --> 00:40:41,794
+a cidade precisa de mim.
+
+619
+00:40:41,795 --> 00:40:44,297
+A cidade precisa
+de Bruce Wayne.
+
+620
+00:40:44,798 --> 00:40:47,174
+De seus recursos
+e de seu conhecimento.
+
+621
+00:40:47,175 --> 00:40:48,759
+<i>Não precisa de seu corpo.</i>
+
+622
+00:40:48,760 --> 00:40:50,261
+Ou de sua vida.
+
+623
+00:40:51,054 --> 00:40:52,638
+Esse tempo já passou.
+
+624
+00:40:52,639 --> 00:40:55,933
+Tem medo de que se eu voltar,
+eu fracasse?
+
+625
+00:40:55,934 --> 00:40:57,268
+Não.
+
+626
+00:40:58,853 --> 00:41:02,107
+Eu tenho medo
+que o senhor queira fracassar.
+
+627
+00:41:16,204 --> 00:41:19,707
+<i>Não vai vender a descoberto
+só porque Wayne foi numa festa!</i>
+
+628
+00:41:19,708 --> 00:41:22,376
+A volta de Wayne é uma mudança.
+Pode ser boa ou ruim.
+
+629
+00:41:22,377 --> 00:41:23,877
+Aposto em ruim.
+
+630
+00:41:23,878 --> 00:41:26,464
+- Baseado em quê?
+- Um palpite.
+
+631
+00:41:33,012 --> 00:41:34,840
+Não pedi no pão sírio!
+
+632
+00:41:37,809 --> 00:41:40,687
+Novato, tire o capacete
+e olhe para câmera.
+
+633
+00:41:46,317 --> 00:41:48,528
+Vamos.
+Vamos negociar.
+
+634
+00:42:49,964 --> 00:42:52,966
+Aqui é a Bolsa de Valores!
+Não há dinheiro aqui!
+
+635
+00:42:52,967 --> 00:42:56,554
+Sério?
+Então por que estão aqui?
+
+636
+00:43:20,702 --> 00:43:22,620
+Precisam entrar lá!
+
+637
+00:43:22,621 --> 00:43:25,707
+- É uma situação com reféns.
+- Não! É um roubo!
+
+638
+00:43:25,708 --> 00:43:28,042
+Eles têm acesso direto
+às transações online.
+
+639
+00:43:28,043 --> 00:43:30,421
+Não arriscarei meus homens
+pelo seu dinheiro.
+
+640
+00:43:33,841 --> 00:43:36,342
+Senhor, peço que se retire.
+Temos uma emergência.
+
+641
+00:43:36,343 --> 00:43:38,511
+Não é nosso dinheiro
+e sim o de todo mundo.
+
+642
+00:43:38,512 --> 00:43:40,513
+Sério?
+O meu está no colchão.
+
+643
+00:43:40,514 --> 00:43:42,265
+Se não tirar esses caras
+de lá...
+
+644
+00:43:42,266 --> 00:43:45,143
+o bolinho no seu colchão
+valerá muito menos!
+
+645
+00:43:45,144 --> 00:43:48,062
+Corte o cabo de dados
+e desative aquela torre.
+
+646
+00:43:48,063 --> 00:43:49,773
+- Obrigado.
+- Isso irá atrasá-los.
+
+647
+00:43:56,530 --> 00:43:57,948
+Cortaram o cabo.
+
+648
+00:43:59,241 --> 00:44:02,411
+- Mas o celular ainda funciona.
+- Por enquanto.
+
+649
+00:44:07,124 --> 00:44:09,375
+Levantem as barreiras.
+Em todas ruas.
+
+650
+00:44:09,376 --> 00:44:11,210
+Ninguém entra ou sai
+dessas ruas.
+
+651
+00:44:11,211 --> 00:44:14,548
+- E para onde vou?
+- Ali para trás.
+
+652
+00:44:18,844 --> 00:44:21,138
+Fique no veículo, certo?
+
+653
+00:44:27,728 --> 00:44:31,023
+De quanto tempo
+o programa precisa?
+
+654
+00:44:31,415 --> 00:44:32,817
+Oito minutos.
+
+655
+00:44:34,485 --> 00:44:36,110
+Hora de ir.
+
+656
+00:44:36,111 --> 00:44:37,654
+Todo mundo fora!
+
+657
+00:44:41,575 --> 00:44:43,243
+<i>Vocês dois, mexam-se!</i>
+
+658
+00:44:45,329 --> 00:44:46,830
+Obrigado.
+
+659
+00:44:47,814 --> 00:44:49,266
+Esperem.
+
+660
+00:44:57,974 --> 00:44:59,551
+Esperem!
+
+661
+00:45:07,101 --> 00:45:08,477
+Estão na mira.
+
+662
+00:45:09,395 --> 00:45:12,021
+Não atirem!
+Temos reféns!
+
+663
+00:45:12,022 --> 00:45:13,565
+Não atirem!
+
+664
+00:45:23,200 --> 00:45:24,701
+Vamos! Vamos!
+
+665
+00:45:34,712 --> 00:45:37,213
+Deixe-me ir!
+
+666
+00:45:37,214 --> 00:45:40,467
+Por favor!
+Deixe-me ir!
+
+667
+00:45:42,219 --> 00:45:45,264
+- Atire nos pneus!
+- Não tem ângulo.
+
+668
+00:45:46,598 --> 00:45:49,726
+Afastem-se!
+Eles têm reféns!
+
+669
+00:45:49,727 --> 00:45:52,319
+<i>A Polícia persegue
+suspeitos no Centro...</i>
+
+670
+00:45:52,320 --> 00:45:54,463
+<i>em resposta
+a uma situação com reféns.</i>
+
+671
+00:45:54,464 --> 00:45:55,841
+<i>A polícia de Gotham...</i>
+
+672
+00:46:01,405 --> 00:46:03,323
+O que houve com as luzes?
+
+673
+00:46:10,205 --> 00:46:13,249
+- Não pode ser...
+- Que droga foi aquela?
+
+674
+00:46:13,250 --> 00:46:16,545
+Você vai ver
+um espetáculo hoje, filho.
+
+675
+00:46:21,550 --> 00:46:23,552
+Por favor! Ajudem-me!
+
+676
+00:46:41,528 --> 00:46:42,904
+Desculpe-me!
+
+677
+00:46:42,905 --> 00:46:45,823
+Guarde essa coisa
+antes que se machuque!
+
+678
+00:46:45,824 --> 00:46:48,451
+Vamos!
+Você! Entre no carro!
+
+679
+00:46:48,452 --> 00:46:50,029
+O Batman foi visto!
+
+680
+00:47:00,964 --> 00:47:02,715
+Chame todos!
+Cada viatura!
+
+681
+00:47:02,716 --> 00:47:05,093
+E todos de folga também!
+Chame todo mundo!
+
+682
+00:47:05,094 --> 00:47:07,178
+Vou fazer
+o que Jim Gordon nunca fez.
+
+683
+00:47:07,179 --> 00:47:10,265
+- O quê?
+- Pegar o Batman.
+
+684
+00:47:11,642 --> 00:47:13,726
+<i>Os suspeitos
+estão com dois reféns...</i>
+
+685
+00:47:13,727 --> 00:47:15,937
+<i>que sequestraram
+na Bolsa de Valores.</i>
+
+686
+00:47:15,938 --> 00:47:17,606
+<i>Testemunhas relataram que...</i>
+
+687
+00:47:20,442 --> 00:47:22,151
+<i>Parece difícil de acreditar...</i>
+
+688
+00:47:22,152 --> 00:47:26,614
+<i>mas estão sendo perseguidos
+pelo que parece ser o Batman.</i>
+
+689
+00:47:26,615 --> 00:47:28,050
+Quem diria.
+
+690
+00:47:33,205 --> 00:47:35,675
+Senhor, e os assaltantes?
+
+691
+00:47:37,584 --> 00:47:41,255
+Por favor!
+Deixe-me ir!
+
+692
+00:47:50,264 --> 00:47:53,058
+<i>Uma moto se afastou.
+Sem reféns. Devemos perseguir?</i>
+
+693
+00:47:58,480 --> 00:48:00,524
+Negativo!
+Fiquem com o Batman!
+
+694
+00:48:02,609 --> 00:48:04,652
+- Mas está fugindo!
+- Quem quer pegar?
+
+695
+00:48:04,653 --> 00:48:07,414
+Um ladrãozinho
+ou o assassino de Harvey Dent?
+
+696
+00:48:16,540 --> 00:48:19,542
+Depois de oito anos,
+e ele tinha que aparecer hoje.
+
+697
+00:48:19,543 --> 00:48:22,254
+<i>Ele está distraindo
+a polícia para o Bane.</i>
+
+698
+00:48:30,512 --> 00:48:32,472
+Por favor!
+Deixe-me ir!
+
+699
+00:48:32,473 --> 00:48:34,099
+Por favor!
+
+700
+00:49:52,468 --> 00:49:53,844
+<i>Nós o perdemos.</i>
+
+701
+00:49:53,845 --> 00:49:55,846
+Como puderam perdê-lo?
+
+702
+00:49:55,847 --> 00:49:57,347
+<i>Ele tem
+muito poder de fogo.</i>
+
+703
+00:49:57,348 --> 00:49:58,891
+E vocês não?!
+
+704
+00:50:03,396 --> 00:50:05,522
+<i>Ele está voltando
+para o Centro.</i>
+
+705
+00:50:05,523 --> 00:50:07,399
+É tão idiota
+quanto a roupa que veste!
+
+706
+00:50:07,400 --> 00:50:09,235
+Apertem o cerco,
+cavalheiros.
+
+707
+00:50:42,018 --> 00:50:44,729
+Como um rato
+numa ratoeira, cavalheiros.
+
+708
+00:50:49,692 --> 00:50:52,754
+Acho que irritou
+o animal errado, senhor.
+
+709
+00:51:03,581 --> 00:51:05,583
+Tem certeza que era ele?
+
+710
+00:51:09,629 --> 00:51:11,671
+O RETORNO DO BATMAN?
+
+711
+00:51:11,672 --> 00:51:15,634
+<i>Bane disse Batman interferiu,
+mas a missão foi cumprida.</i>
+
+712
+00:51:15,635 --> 00:51:17,427
+E os homens que prenderam?
+
+713
+00:51:17,428 --> 00:51:22,100
+Ele disse:
+"preferem morrer a falar".
+
+714
+00:51:22,892 --> 00:51:25,603
+Onde ele acha essa gente?
+
+715
+00:51:26,729 --> 00:51:28,731
+Abra o champanhe.
+
+716
+00:51:30,566 --> 00:51:32,818
+Dá pra trazer
+algumas mulheres pra cá?
+
+717
+00:51:32,819 --> 00:51:34,904
+Cuidado com o que deseja.
+
+718
+00:51:45,498 --> 00:51:48,542
+- O gato comeu sua língua?
+- Vadia burra!
+
+719
+00:51:48,543 --> 00:51:50,752
+Burra para mim é novidade!
+
+720
+00:51:50,753 --> 00:51:53,506
+É burra...
+por ter vindo aqui hoje.
+
+721
+00:51:54,716 --> 00:51:57,069
+Eu quero o que me deve.
+
+722
+00:51:58,594 --> 00:52:01,096
+Querer não é poder.
+
+723
+00:52:01,097 --> 00:52:02,806
+Bela roupa.
+
+724
+00:52:02,807 --> 00:52:04,933
+Esses saltos
+atrapalham a andar?
+
+725
+00:52:04,934 --> 00:52:06,352
+Não sei...
+
+726
+00:52:07,019 --> 00:52:08,604
+O que acha?
+
+727
+00:52:09,772 --> 00:52:11,523
+- Onde está?
+- O quê?
+
+728
+00:52:11,524 --> 00:52:13,984
+O programa "Ficha Limpa".
+
+729
+00:52:13,985 --> 00:52:17,447
+A ferramenta perfeita
+para uma ladra fichada.
+
+730
+00:52:18,072 --> 00:52:19,574
+Fique parada aí!
+
+731
+00:52:33,129 --> 00:52:36,631
+- Onde está?
+- O Ficha Limpa?
+
+732
+00:52:36,632 --> 00:52:38,884
+Onde você digita nome
+e data de nascimento...
+
+733
+00:52:38,885 --> 00:52:40,886
+e, em minutos,
+eles somem...
+
+734
+00:52:40,887 --> 00:52:43,272
+<i>de todos os bancos de dados
+do mundo?</i>
+
+735
+00:52:43,765 --> 00:52:45,474
+Parece bom demais
+para ser verdade.
+
+736
+00:52:45,475 --> 00:52:47,142
+É mentira!
+
+737
+00:52:47,143 --> 00:52:49,770
+A Riken Data
+já possui o protótipo!
+
+738
+00:52:49,771 --> 00:52:51,605
+Por isso que comprei
+a companhia.
+
+739
+00:52:52,506 --> 00:52:54,116
+Não tinham nada.
+
+740
+00:52:54,817 --> 00:52:56,711
+Foi um boato de gangues.
+
+741
+00:53:08,081 --> 00:53:09,632
+<i>Para trás!</i>
+
+742
+00:53:12,502 --> 00:53:13,995
+Não estou blefando!
+
+743
+00:53:15,004 --> 00:53:16,671
+<i>Eles sabem.</i>
+
+744
+00:53:16,672 --> 00:53:18,508
+Só não se importam.
+
+745
+00:53:35,358 --> 00:53:38,452
+- Está de brincadeira?!
+- Sem armas, sem mortes!
+
+746
+00:53:38,453 --> 00:53:39,996
+E qual a graça disso?!
+
+747
+00:53:58,297 --> 00:54:01,425
+Sempre disseram para não entrar
+em carro de estranhos.
+
+748
+00:54:01,426 --> 00:54:02,844
+Não é um carro.
+
+749
+00:54:53,102 --> 00:54:54,771
+Vejo você por aí.
+
+750
+00:54:55,563 --> 00:54:57,147
+De nada.
+
+751
+00:54:57,148 --> 00:55:00,023
+- Estava tudo sob controle.
+- Não eram valentões de rua.
+
+752
+00:55:00,276 --> 00:55:03,361
+Eram assassinos treinados.
+Eu salvei a sua vida.
+
+753
+00:55:03,362 --> 00:55:05,280
+Em troca...
+
+754
+00:55:05,281 --> 00:55:08,700
+quero saber o que fez
+com as digitais de Bruce Wayne.
+
+755
+00:55:08,701 --> 00:55:11,245
+Wayne não brincou quando falou
+de um amigo poderoso.
+
+756
+00:55:12,246 --> 00:55:14,874
+Eu as vendi para Daggett.
+
+757
+00:55:16,376 --> 00:55:19,087
+Por algo que não existe.
+
+758
+00:55:19,504 --> 00:55:21,546
+Duvido que tirem
+proveito de você.
+
+759
+00:55:21,547 --> 00:55:24,716
+- Quando se está desesperada...
+- O que ele vai fazer com elas?
+
+760
+00:55:24,717 --> 00:55:25,717
+Não sei...
+
+761
+00:55:25,718 --> 00:55:28,846
+Daggett parecia interessado
+na bagunça da Bolsa de Valores.
+
+762
+00:55:34,519 --> 00:55:35,978
+Srta. Kyle...
+
+763
+00:55:38,481 --> 00:55:40,817
+Então essa é a sensação?
+
+764
+00:56:00,378 --> 00:56:02,254
+Já vi pela televisão...
+
+765
+00:56:02,255 --> 00:56:05,173
+que manteve seu gosto
+pela destruição sem motivo.
+
+766
+00:56:05,174 --> 00:56:06,784
+Eu recuperei isto.
+
+767
+00:56:07,260 --> 00:56:09,886
+Não era para a polícia
+estar investigando então?
+
+768
+00:56:09,887 --> 00:56:11,887
+Eles não têm as ferramentas
+para analisar.
+
+769
+00:56:11,888 --> 00:56:13,514
+Teriam se o senhor
+desse a eles.
+
+770
+00:56:13,515 --> 00:56:16,183
+Ferramenta de um homem
+pode ser a arma de outro.
+
+771
+00:56:16,184 --> 00:56:19,520
+Na sua mente, talvez.
+Mas há coisas que não virariam.
+
+772
+00:56:19,521 --> 00:56:21,605
+Alfred, chega.
+A polícia não fez nada.
+
+773
+00:56:21,606 --> 00:56:24,817
+Talvez fizesse, se não tivesse
+aparecido para dar seu show.
+
+774
+00:56:24,818 --> 00:56:26,527
+Achou
+que eu não fosse capaz.
+
+775
+00:56:26,528 --> 00:56:28,696
+Não é. Fez toda polícia
+ir atrás de você...
+
+776
+00:56:28,697 --> 00:56:32,033
+em uma caçada inútil,
+com os brinquedos novos do Fox.
+
+777
+00:56:32,034 --> 00:56:33,868
+E quando se deparar
+com ele?
+
+778
+00:56:33,869 --> 00:56:35,411
+- E aí?
+- Vou lutar mais ainda.
+
+779
+00:56:35,412 --> 00:56:36,871
+- Sempre lutei.
+- Veja.
+
+780
+00:56:36,872 --> 00:56:40,207
+A velocidade, a ferocidade,
+o treinamento...
+
+781
+00:56:40,208 --> 00:56:42,835
+Eu vejo nele
+o poder da crença.
+
+782
+00:56:42,836 --> 00:56:46,005
+Eu vejo ressurgir
+a Liga das Sombras.
+
+783
+00:56:46,006 --> 00:56:49,717
+- Disse que foi excomungado.
+- Por Ra's Al Ghul.
+
+784
+00:56:49,718 --> 00:56:52,011
+Quem os lidera agora?
+
+785
+00:56:52,012 --> 00:56:54,430
+Ra's Al Ghul era a Liga
+e eu o derrotei.
+
+786
+00:56:54,431 --> 00:56:57,392
+<i>Bane é só um mercenário.
+Temos que descobrir o que quer.</i>
+
+787
+00:56:58,602 --> 00:57:01,279
+São ações da Bolsa...
+codificadas.
+
+788
+00:57:01,980 --> 00:57:04,565
+E minhas digitais.
+Cortesia de Selina Kyle.
+
+789
+00:57:04,566 --> 00:57:06,150
+Envie para o Fox.
+
+790
+00:57:06,151 --> 00:57:08,319
+Ele decifra o código
+e pode nos dizer...
+
+791
+00:57:08,320 --> 00:57:10,280
+que transações fizeram.
+
+792
+00:57:14,284 --> 00:57:17,913
+Vou enviar ao sr. Fox,
+e nada mais.
+
+793
+00:57:19,539 --> 00:57:21,624
+Já costurei você,
+já colei seus ossos...
+
+794
+00:57:21,625 --> 00:57:23,417
+<i>mas não vou enterrar você.</i>
+
+795
+00:57:23,418 --> 00:57:26,296
+Já enterrei membros demais
+da Família Wayne.
+
+796
+00:57:27,339 --> 00:57:28,672
+Vai me deixar?
+
+797
+00:57:28,673 --> 00:57:32,427
+O senhor só vê um final
+para a sua jornada.
+
+798
+00:57:33,053 --> 00:57:37,807
+Abandoná-lo é tudo que tenho
+para fazê-lo entender.
+
+799
+00:57:37,808 --> 00:57:39,725
+Você não é mais o Batman.
+
+800
+00:57:39,726 --> 00:57:41,560
+Precisa achar
+outra maneira.
+
+801
+00:57:41,561 --> 00:57:43,646
+Você falava
+em dar um fim...
+
+802
+00:57:43,647 --> 00:57:46,023
+na vida além
+daquela caverna horrível.
+
+803
+00:57:46,024 --> 00:57:49,527
+Alfred, Rachel morreu sabendo
+que decidimos ficar juntos.
+
+804
+00:57:49,528 --> 00:57:51,445
+Ela seria a minha vida
+além da caverna.
+
+805
+00:57:51,446 --> 00:57:54,156
+Eu não consigo
+seguir em frente.
+
+806
+00:57:54,157 --> 00:57:56,743
+Ela... Ela não seguiu,
+ela nunca pôde.
+
+807
+00:57:57,744 --> 00:58:01,038
+- E se ela tivesse seguido?
+- Não posso mudar isso.
+
+808
+00:58:01,039 --> 00:58:03,834
+E se ela, antes de morrer,
+tivesse escrito uma carta...
+
+809
+00:58:04,135 --> 00:58:06,288
+dizendo
+que escolheu Harvey Dent...
+
+810
+00:58:06,289 --> 00:58:07,689
+<i>em vez do senhor?</i>
+
+811
+00:58:11,842 --> 00:58:16,638
+E se,
+para poupá-lo da dor...
+
+812
+00:58:17,973 --> 00:58:20,016
+eu tivesse queimado
+essa carta?
+
+813
+00:58:20,717 --> 00:58:23,060
+Como você se atreve
+a usar a Rachel...
+
+814
+00:58:23,061 --> 00:58:25,354
+para tentar me impedir?
+
+815
+00:58:25,355 --> 00:58:28,483
+Estou usando a verdade,
+patrão Bruce.
+
+816
+00:58:29,234 --> 00:58:31,944
+Talvez seja hora de parar
+de impedir a verdade...
+
+817
+00:58:31,945 --> 00:58:34,489
+e deixá-la ter a sua luz.
+
+818
+00:58:35,574 --> 00:58:37,950
+- Sinto muito.
+- Sente muito?
+
+819
+00:58:37,951 --> 00:58:40,455
+Você destrói o meu mundo...
+
+820
+00:58:42,831 --> 00:58:45,242
+e espera
+que apertemos as mãos?
+
+821
+00:58:45,943 --> 00:58:47,469
+Não.
+
+822
+00:58:48,170 --> 00:58:52,131
+- Sei o que isso significa.
+- O que significa?
+
+823
+00:58:52,132 --> 00:58:54,550
+<i>Significa que vai me odiar.</i>
+
+824
+00:58:54,551 --> 00:58:56,802
+<i>E também significa
+perder alguém...</i>
+
+825
+00:58:56,803 --> 00:58:58,637
+de quem tomei conta...
+
+826
+00:58:58,638 --> 00:59:00,639
+desde que seu primeiro choro...
+
+827
+00:59:01,240 --> 00:59:02,934
+ecoou...
+
+828
+00:59:03,351 --> 00:59:04,936
+por essa casa.
+
+829
+00:59:06,188 --> 00:59:07,814
+<i>Mas também significa...</i>
+
+830
+00:59:08,231 --> 00:59:10,859
+salvar a sua vida.
+
+831
+00:59:11,568 --> 00:59:14,613
+E ela é mais importante.
+
+832
+00:59:18,842 --> 00:59:20,345
+Adeus, Alfred.
+
+833
+00:59:40,222 --> 00:59:41,782
+Alfred?
+
+834
+00:59:46,520 --> 00:59:48,939
+- Atendendo sua própria porta?
+- Sim.
+
+835
+00:59:50,440 --> 00:59:52,316
+Página três.
+
+836
+00:59:52,317 --> 00:59:54,693
+Parece que fez
+uma série de vendas...
+
+837
+00:59:54,694 --> 00:59:58,039
+a preço futuro autorizada
+por suas digitais.
+
+838
+00:59:58,040 --> 01:00:00,825
+As vendas expiraram
+à meia-noite de ontem.
+
+839
+01:00:00,826 --> 01:00:03,327
+A longo prazo talvez se prove
+ser uma fraude...
+
+840
+01:00:03,328 --> 01:00:05,746
+mas por hora,
+está completamente falido.
+
+841
+01:00:05,747 --> 01:00:07,998
+<i>E as Empresas Wayne
+estão prestes a cair...</i>
+
+842
+01:00:07,999 --> 01:00:09,458
+<i>nas mãos de John Daggett.</i>
+
+843
+01:00:09,459 --> 01:00:11,043
+As armas.
+
+844
+01:00:11,044 --> 01:00:13,629
+Daggett não pode chegar perto
+da Ciências Aplicadas.
+
+845
+01:00:13,630 --> 01:00:16,425
+O departamento está trancado
+e fora dos registros.
+
+846
+01:00:16,758 --> 01:00:19,511
+Mas o projeto de energia
+é outra história.
+
+847
+01:00:19,970 --> 01:00:21,430
+Miranda Tate.
+
+848
+01:00:22,264 --> 01:00:24,432
+Temos que convencer
+a diretoria a apoiá-la.
+
+849
+01:00:24,433 --> 01:00:25,808
+Vamos mostrar o reator.
+
+850
+01:00:25,809 --> 01:00:29,020
+Vamos encontrá-la em 35 minutos.
+Melhor se vestir.
+
+851
+01:00:29,604 --> 01:00:32,816
+Trouxe-me até aqui
+só para mostrar isso, sr. Fox?
+
+852
+01:00:33,483 --> 01:00:35,444
+Tenha paciência,
+srta. Tate.
+
+853
+01:00:39,281 --> 01:00:42,451
+Por favor, mantenha as mãos
+e pés dentro do veículo.
+
+854
+01:00:48,331 --> 01:00:49,875
+É aqui, não é?
+
+855
+01:00:50,709 --> 01:00:52,878
+O reator fica
+embaixo do rio...
+
+856
+01:00:53,712 --> 01:00:57,674
+para ser inundado
+caso haja falha na segurança.
+
+857
+01:00:58,175 --> 01:01:01,427
+Bruce Wayne
+é tão paranoico assim?
+
+858
+01:01:01,428 --> 01:01:03,597
+Prefiro não responder.
+
+859
+01:01:10,645 --> 01:01:13,814
+Achei que gostaria de ver
+os frutos do seu investimento.
+
+860
+01:01:13,815 --> 01:01:15,274
+Sem combustível fóssil.
+
+861
+01:01:15,275 --> 01:01:18,277
+Energia limpa grátis
+para uma cidade inteira!
+
+862
+01:01:18,278 --> 01:01:19,820
+Três anos atrás...
+
+863
+01:01:19,821 --> 01:01:22,239
+um cientista russo
+publicou um artigo...
+
+864
+01:01:22,240 --> 01:01:24,617
+sobre o uso da fusão
+para fins militares.
+
+865
+01:01:24,618 --> 01:01:29,498
+Uma semana depois,
+seu reator teve problemas.
+
+866
+01:01:30,582 --> 01:01:33,125
+Eu acho
+que a máquina funciona.
+
+867
+01:01:33,126 --> 01:01:35,587
+Miranda,
+se fosse ativada...
+
+868
+01:01:37,297 --> 01:01:39,215
+Gotham estaria
+em grande perigo.
+
+869
+01:01:39,216 --> 01:01:41,967
+Se sentiria melhor se soubesse
+que o cientista russo...
+
+870
+01:01:41,968 --> 01:01:45,596
+morreu em um acidente aéreo
+há 6 meses?
+
+871
+01:01:45,597 --> 01:01:49,350
+Alguém vai pensar
+no que o dr. Pavel pensou.
+
+872
+01:01:49,351 --> 01:01:52,770
+Pensar em como transformar
+essa fonte de energia...
+
+873
+01:01:52,771 --> 01:01:55,065
+em uma arma nuclear.
+
+874
+01:01:56,650 --> 01:02:01,362
+Preciso que assuma o controle
+das Empresas Wayne...
+
+875
+01:02:01,363 --> 01:02:03,072
+e do reator.
+
+876
+01:02:03,073 --> 01:02:05,492
+- E o que fazer com ele?
+- Nada.
+
+877
+01:02:06,326 --> 01:02:10,121
+- Até garantirmos a segurança.
+- E se não pudermos?
+
+878
+01:02:10,122 --> 01:02:11,914
+Desativamos e inundamos.
+
+879
+01:02:11,915 --> 01:02:15,626
+Quer destruir a melhor chance
+de um futuro sustentável?
+
+880
+01:02:15,627 --> 01:02:17,670
+Se o mundo ainda
+não estiver pronto, sim.
+
+881
+01:02:17,671 --> 01:02:21,841
+Bruce, se quer salvar o mundo,
+deve confiar nele.
+
+882
+01:02:21,842 --> 01:02:25,928
+- Eu confio em você.
+- Não vale. Não tem escolha.
+
+883
+01:02:25,929 --> 01:02:28,973
+Eu poderia ter inundado aqui
+quando bem entendesse.
+
+884
+01:02:28,974 --> 01:02:33,186
+Escolhi confiar em você.
+Por favor.
+
+885
+01:02:40,277 --> 01:02:44,155
+Senhoras e senhores,
+a reunião começará agora.
+
+886
+01:02:44,488 --> 01:02:47,907
+Gostaria de alertar
+a presença de um não-membro.
+
+887
+01:02:47,908 --> 01:02:49,378
+Isso é irregular.
+
+888
+01:02:49,379 --> 01:02:51,578
+Mesmo que nome da família
+esteja na porta.
+
+889
+01:02:51,579 --> 01:02:53,872
+A família de Bruce Wayne
+criou esta companhia.
+
+890
+01:02:53,873 --> 01:02:58,001
+- E ele próprio levou...
+- Até a ruína, senhor!
+
+891
+01:02:58,002 --> 01:03:00,670
+Alguém discorda? Veja os preços
+das ações pela manhã.
+
+892
+01:03:00,671 --> 01:03:02,881
+Apostas loucas
+em mercados futuros...
+
+893
+01:03:02,882 --> 01:03:05,216
+não só custaram
+o lugar do sr. Wayne...
+
+894
+01:03:05,217 --> 01:03:07,635
+mas custaram a todos nós
+muito dinheiro.
+
+895
+01:03:07,636 --> 01:03:09,305
+Ele tem que ir.
+
+896
+01:03:10,306 --> 01:03:12,850
+Temo que ele tenha razão,
+Sr. Wayne.
+
+897
+01:03:20,775 --> 01:03:22,234
+Vamos voltar aos negócios.
+
+898
+01:03:24,195 --> 01:03:26,071
+Como se sente
+sendo do povo, Wayne?
+
+899
+01:03:26,072 --> 01:03:27,906
+Sr. Wayne,
+estão rebocando seu carro.
+
+900
+01:03:27,907 --> 01:03:30,234
+Não sabia o que fazer,
+eles tinham autorização.
+
+901
+01:03:32,244 --> 01:03:33,953
+Parece que precisa
+de uma carona.
+
+902
+01:03:33,954 --> 01:03:36,748
+<i>Sr. Wayne, se quiser
+uma carona.</i>
+
+903
+01:03:36,749 --> 01:03:40,627
+Como Miranda Tate assume
+o comando das Empresas Wayne?
+
+904
+01:03:40,628 --> 01:03:43,922
+- Ela está dormindo com ele?
+- Não que saibamos.
+
+905
+01:03:43,923 --> 01:03:47,050
+É claro que não sabe!
+Onde está Bane?
+
+906
+01:03:47,051 --> 01:03:49,469
+- Dissemos que é urgente.
+- Onde está...
+
+907
+01:03:49,470 --> 01:03:53,098
+Fale do diabo
+e ele aparecerá.
+
+908
+01:03:53,099 --> 01:03:56,185
+Que diabos
+está acontecendo?
+
+909
+01:03:56,644 --> 01:03:59,396
+O plano está correndo
+como esperado.
+
+910
+01:03:59,397 --> 01:04:03,566
+Sério? Parece que comando
+as Empresas Wayne?
+
+911
+01:04:03,567 --> 01:04:08,363
+Seu ataque à Bolsa de Valores
+não funcionou, meu amigo!
+
+912
+01:04:08,364 --> 01:04:10,532
+E agora, minhas equipes
+de construção...
+
+913
+01:04:10,533 --> 01:04:13,535
+estão escavando a cidade
+24h por dia!
+
+914
+01:04:13,536 --> 01:04:16,454
+Como isso vai ajudar...
+
+915
+01:04:16,455 --> 01:04:18,457
+a minha companhia
+a absorver a do Wayne?
+
+916
+01:04:21,043 --> 01:04:23,712
+- Deixe-nos a sós.
+- Não! Fique aqui.
+
+917
+01:04:23,713 --> 01:04:25,339
+Eu estou no comando.
+
+918
+01:04:26,006 --> 01:04:28,259
+Você se sente no comando?
+
+919
+01:04:33,389 --> 01:04:35,348
+Eu lhe paguei
+uma pequena fortuna.
+
+920
+01:04:35,349 --> 01:04:38,269
+E isso lhe dá poder
+sobre mim?
+
+921
+01:04:38,894 --> 01:04:40,478
+O que é isso?
+
+922
+01:04:40,479 --> 01:04:45,234
+Seu dinheiro e infraestrutura
+foram importantes.
+
+923
+01:04:45,651 --> 01:04:47,569
+Até agora.
+
+924
+01:04:47,570 --> 01:04:50,488
+- O que é você?
+- O acerto de contas de Gotham.
+
+925
+01:04:50,489 --> 01:04:53,735
+Vim acabar com seus dias
+que estão contados.
+
+926
+01:04:55,703 --> 01:04:58,913
+Você é o mal
+em carne e osso.
+
+927
+01:04:58,914 --> 01:05:01,959
+- Sou o mal necessário.
+- Não!
+
+928
+01:05:07,757 --> 01:05:10,176
+Quando começou?
+Por que a máscara?
+
+929
+01:05:10,551 --> 01:05:12,469
+Para proteger
+os mais próximos a mim.
+
+930
+01:05:12,470 --> 01:05:14,471
+Mas você era sozinho,
+não tinha família.
+
+931
+01:05:14,472 --> 01:05:16,432
+Sempre há pessoas
+com quem se importa.
+
+932
+01:05:18,476 --> 01:05:21,102
+Só percebe o quanto
+depois que se vão.
+
+933
+01:05:21,103 --> 01:05:23,606
+<i>A ideia era ser um símbolo.</i>
+
+934
+01:05:24,148 --> 01:05:29,111
+Batman pode ser qualquer um.
+Essa é a ideia.
+
+935
+01:05:29,695 --> 01:05:33,031
+- Fiquei feliz por ter voltado.
+- Nem todos concordam.
+
+936
+01:05:33,032 --> 01:05:34,741
+Vão descobrir isso
+no fim.
+
+937
+01:05:34,742 --> 01:05:36,952
+Sabe algo
+do paradeiro do Bane?
+
+938
+01:05:37,912 --> 01:05:41,289
+Sim, tenho uma lanterna
+e 500 páginas de mapa de túnel.
+
+939
+01:05:41,290 --> 01:05:43,042
+Preciso de ajuda,
+na verdade.
+
+940
+01:05:44,251 --> 01:05:46,128
+Quer saber?
+Deixe-me na Cidade Velha.
+
+941
+01:05:50,800 --> 01:05:53,718
+<i>- Não pode ser!
+- É assim!</i>
+
+942
+01:05:53,719 --> 01:05:55,595
+Ele não é um alvo.
+
+943
+01:05:55,596 --> 01:05:58,140
+E não tem nem um centavo
+em seu nome mesmo.
+
+944
+01:05:59,308 --> 01:06:03,603
+Não é muito, mas é mais
+do que tem agora.
+
+945
+01:06:03,604 --> 01:06:06,523
+Na verdade, permitiram
+que ficasse com a casa.
+
+946
+01:06:06,524 --> 01:06:09,317
+Ricos nem vão à falência
+como o resto de nós.
+
+947
+01:06:09,318 --> 01:06:13,530
+Meu amigo poderoso espera mudar
+sua decisão sobre ir embora.
+
+948
+01:06:13,531 --> 01:06:16,116
+- E como faria isso?
+- Dando a você o que quer.
+
+949
+01:06:16,117 --> 01:06:19,369
+- Dando o que não existe.
+- Ele diz que existe.
+
+950
+01:06:19,370 --> 01:06:22,205
+- Quer encontrá-la à noite.
+- Por quê?
+
+951
+01:06:22,206 --> 01:06:25,876
+Precisa encontrar o Bane.
+Disse que você sabe como.
+
+952
+01:06:28,963 --> 01:06:31,172
+- Diga que vou pensar.
+- Tudo bem.
+
+953
+01:06:31,173 --> 01:06:32,675
+Gostei do seu apartamento.
+
+954
+01:06:34,635 --> 01:06:35,970
+Sr. Wayne?
+
+955
+01:06:38,389 --> 01:06:40,433
+Lamento que tenham levado
+o seu dinheiro.
+
+956
+01:06:41,684 --> 01:06:43,102
+Não, não lamenta.
+
+957
+01:06:44,145 --> 01:06:46,479
+- Podemos ajudá-lo, oficial?
+- Sim.
+
+958
+01:06:46,480 --> 01:06:49,357
+O corpo de John Daggett
+foi encontrado em uma lixeira.
+
+959
+01:06:49,358 --> 01:06:51,985
+Há uma hora.
+Pensei que quisesse saber.
+
+960
+01:06:51,986 --> 01:06:53,319
+Por quê?
+
+961
+01:06:53,320 --> 01:06:55,321
+O nome dele aparece
+em todas permissões...
+
+962
+01:06:55,322 --> 01:06:57,240
+que consegui
+pra explorar os esgotos.
+
+963
+01:06:57,241 --> 01:07:00,994
+Manutenção de trânsito,
+construção de esgotos e outros.
+
+964
+01:07:00,995 --> 01:07:03,247
+Até onde chegou
+com as pesquisas dos túneis?
+
+965
+01:07:04,290 --> 01:07:07,542
+Lembre-me de mandar a segurança
+barrar esquentadinhos.
+
+966
+01:07:07,543 --> 01:07:09,669
+Temos várias equipes lá.
+É uma rede enorme.
+
+967
+01:07:09,670 --> 01:07:11,337
+Mande mais homens.
+
+968
+01:07:11,338 --> 01:07:13,256
+Esquadrinhem,
+encontrem o homem.
+
+969
+01:07:13,257 --> 01:07:15,842
+Sim, o mascarado.
+Estamos trabalhando nisso.
+
+970
+01:07:15,843 --> 01:07:18,762
+Esquece o uniforme.
+Trabalha para mim agora.
+
+971
+01:07:18,763 --> 01:07:21,139
+E precisamos
+de uns esquentadinhos.
+
+972
+01:07:21,140 --> 01:07:23,183
+A morte de Daggett
+pode ser coincidência.
+
+973
+01:07:23,184 --> 01:07:24,810
+Você é detetive agora,
+filho.
+
+974
+01:07:25,519 --> 01:07:28,522
+Não pode mais
+acreditar em coincidências.
+
+975
+01:07:39,992 --> 01:07:42,787
+- Ninguém atende.
+- Não.
+
+976
+01:07:43,120 --> 01:07:47,249
+- Estou sozinho agora.
+- Você tem as chaves?
+
+977
+01:07:48,209 --> 01:07:49,710
+Nunca precisei.
+
+978
+01:07:55,966 --> 01:07:58,635
+Espero que não tenha gostado
+de mim pelo meu dinheiro.
+
+979
+01:07:58,636 --> 01:08:00,930
+O sofrimento fortalece
+o caráter.
+
+980
+01:08:07,311 --> 01:08:10,314
+Vou cuidar bem
+do legado de seus pais, Bruce.
+
+981
+01:08:12,108 --> 01:08:13,601
+Quem é essa?
+
+982
+01:08:21,058 --> 01:08:22,551
+Onde está Alfred?
+
+983
+01:08:24,103 --> 01:08:25,596
+Ele foi embora.
+
+984
+01:08:27,331 --> 01:08:28,833
+Eu perdi tudo.
+
+985
+01:08:53,357 --> 01:08:54,692
+O que foi isso?
+
+986
+01:08:55,359 --> 01:08:57,778
+Parece que cortaram
+a minha luz.
+
+987
+01:09:03,367 --> 01:09:04,827
+É boa nisso.
+
+988
+01:09:05,870 --> 01:09:08,788
+Quando eu era pequena,
+não tínhamos nada.
+
+989
+01:09:08,789 --> 01:09:11,498
+Mas fazíamos fogueira
+durante as noites...
+
+990
+01:09:11,499 --> 01:09:13,501
+e nos sentíamos ricos.
+
+991
+01:09:15,462 --> 01:09:18,506
+Pensei que sua família
+fosse rica.
+
+992
+01:09:19,299 --> 01:09:23,219
+Nem sempre,
+não quando eu era pequena.
+
+993
+01:09:24,095 --> 01:09:28,808
+- É um erro comum.
+- Já cometi alguns.
+
+994
+01:09:30,101 --> 01:09:31,853
+Mais que alguns.
+
+995
+01:09:33,938 --> 01:09:37,025
+Poderíamos ir embora.
+Nesta noite.
+
+996
+01:09:37,901 --> 01:09:42,280
+Poderíamos pegar meu avião
+e ir para onde quiséssemos.
+
+997
+01:09:43,740 --> 01:09:47,786
+Um dia, talvez,
+mas não nesta noite.
+
+998
+01:10:16,189 --> 01:10:18,024
+Não seja tímido.
+
+999
+01:10:20,193 --> 01:10:22,903
+Wayne disse que pode me dar
+o Ficha Limpa.
+
+1000
+01:10:22,904 --> 01:10:26,073
+- Depende.
+- De quê?
+
+1001
+01:10:26,074 --> 01:10:27,783
+Do que pretende fazer
+com ele.
+
+1002
+01:10:27,784 --> 01:10:30,370
+Está comigo para não cair
+em mãos erradas.
+
+1003
+01:10:30,954 --> 01:10:33,039
+Ainda não confia em mim,
+não é?
+
+1004
+01:10:34,165 --> 01:10:38,586
+- Como podemos mudar isso?
+- Comece me levando ao Bane.
+
+1005
+01:10:41,239 --> 01:10:42,732
+Foi você que pediu.
+
+1006
+01:10:44,718 --> 01:10:47,428
+Os homens do Bane patrulham
+os túneis, a partir daqui.
+
+1007
+01:10:47,429 --> 01:10:49,973
+Eles não são
+de brincadeira.
+
+1008
+01:10:50,598 --> 01:10:52,267
+Muito menos eu.
+
+1009
+01:10:59,658 --> 01:11:01,191
+- Atrás de você!
+- Quem?
+
+1010
+01:11:01,192 --> 01:11:02,585
+Eu!
+
+1011
+01:11:07,240 --> 01:11:08,783
+O que você acha...
+
+1012
+01:11:21,588 --> 01:11:23,131
+Só mais um pouco.
+
+1013
+01:11:30,472 --> 01:11:33,224
+Tive que encontrar uma maneira
+para que não me matassem.
+
+1014
+01:11:33,558 --> 01:11:35,727
+Você cometeu
+um grande erro.
+
+1015
+01:11:36,269 --> 01:11:39,147
+<i>Não tão grande
+quanto o seu...</i>
+
+1016
+01:11:39,647 --> 01:11:41,149
+<i>eu receio.</i>
+
+1017
+01:11:44,819 --> 01:11:46,153
+Bane.
+
+1018
+01:11:46,154 --> 01:11:49,157
+Vamos deixar
+as cerimônias de lado...
+
+1019
+01:11:50,658 --> 01:11:52,486
+sr. Wayne.
+
+1020
+01:12:03,880 --> 01:12:08,218
+A paz custou seu poder.
+A vitória derrotou você.
+
+1021
+01:13:10,405 --> 01:13:12,865
+Teatralidade e ilusão.
+
+1022
+01:13:13,366 --> 01:13:16,201
+Poderosos agentes
+aos não iniciados.
+
+1023
+01:13:16,202 --> 01:13:19,456
+Mas nós somos iniciados,
+não somos, Bruce?
+
+1024
+01:13:19,789 --> 01:13:22,584
+Somos membros
+da Liga das Sombras.
+
+1025
+01:13:24,544 --> 01:13:27,172
+E você nos traiu!
+
+1026
+01:13:28,173 --> 01:13:30,591
+<i>Sim.
+E você foi expulso...</i>
+
+1027
+01:13:30,592 --> 01:13:33,219
+de uma gangue
+de psicopatas.
+
+1028
+01:13:37,557 --> 01:13:41,060
+Eu sou a Liga das Sombras!
+
+1029
+01:13:41,061 --> 01:13:44,481
+E estou aqui para cumprir
+o destino de Ra's Al Ghul.
+
+1030
+01:13:57,911 --> 01:14:01,539
+Você luta como um jovem,
+sem receios.
+
+1031
+01:14:02,332 --> 01:14:05,919
+Admirável, mas errado.
+
+1032
+01:14:10,173 --> 01:14:13,259
+Acha que as sombras
+são suas aliadas.
+
+1033
+01:14:13,676 --> 01:14:16,096
+Mas só adotou as trevas.
+
+1034
+01:14:16,805 --> 01:14:18,807
+Eu nasci nelas.
+
+1035
+01:14:19,682 --> 01:14:21,601
+Fui moldado por elas.
+
+1036
+01:14:23,061 --> 01:14:26,605
+Só vi a luz depois
+que me tornei um adulto.
+
+1037
+01:14:26,606 --> 01:14:29,109
+E só que ela fez
+foi me cegar!
+
+1038
+01:14:32,070 --> 01:14:34,238
+As sombras lhe traem...
+
+1039
+01:14:34,239 --> 01:14:36,533
+porque elas
+pertencem a mim!
+
+1040
+01:14:41,621 --> 01:14:45,332
+Vou lhe mostrar
+onde fiz minha casa...
+
+1041
+01:14:45,333 --> 01:14:48,378
+enquanto, me preparava
+para fazer justiça!
+
+1042
+01:14:50,880 --> 01:14:53,133
+Depois vou quebrar você.
+
+1043
+01:15:01,766 --> 01:15:03,892
+<i>Seu precioso arsenal!</i>
+
+1044
+01:15:03,893 --> 01:15:05,895
+É aceito
+com profunda gratidão!
+
+1045
+01:15:06,187 --> 01:15:07,647
+Precisaremos dele.
+
+1046
+01:15:16,614 --> 01:15:20,744
+Sim! Eu queria saber
+o que quebraria primeiro!
+
+1047
+01:15:24,789 --> 01:15:26,624
+Seu espírito...
+
+1048
+01:15:31,129 --> 01:15:32,672
+ou seu corpo?
+
+1049
+01:16:16,465 --> 01:16:18,257
+Quero falar
+com o Comissário Gordon.
+
+1050
+01:16:18,258 --> 01:16:20,260
+Sobre o sequestro
+do deputado.
+
+1051
+01:16:32,773 --> 01:16:34,482
+- Com licença, senhorita?
+- Sim?
+
+1052
+01:16:34,483 --> 01:16:37,695
+Preciso ver sua passagem
+e identificação, por favor.
+
+1053
+01:16:38,320 --> 01:16:39,780
+Pode segurar?
+
+1054
+01:16:52,626 --> 01:16:55,504
+Mostrei a sua foto
+ao deputado. Adivinha?
+
+1055
+01:16:55,921 --> 01:16:58,297
+Não me diga.
+Ainda apaixonado?
+
+1056
+01:16:58,298 --> 01:16:59,800
+Perdidamente.
+
+1057
+01:17:00,134 --> 01:17:02,009
+Mas ele deu queixa.
+
+1058
+01:17:02,010 --> 01:17:05,930
+Cometeu alguns erros...
+srta. Kyle?
+
+1059
+01:17:05,931 --> 01:17:09,600
+- Uma garota precisa comer.
+- E que apetite.
+
+1060
+01:17:09,601 --> 01:17:12,228
+Por que correr? Não pode
+se esconder com essa ficha.
+
+1061
+01:17:12,229 --> 01:17:16,524
+- Talvez não corra de vocês.
+- De quem? Bane?
+
+1062
+01:17:16,525 --> 01:17:18,234
+O que sabe sobre ele?
+
+1063
+01:17:18,235 --> 01:17:22,238
+Que devia temê-lo
+tanto quanto eu temo.
+
+1064
+01:17:22,239 --> 01:17:23,824
+Podemos lhe dar proteção.
+
+1065
+01:17:27,244 --> 01:17:28,954
+Tudo bem.
+
+1066
+01:17:32,875 --> 01:17:35,376
+Quando identifiquei você,
+procurava um amigo meu.
+
+1067
+01:17:35,677 --> 01:17:37,170
+Bruce Wayne.
+
+1068
+01:17:39,798 --> 01:17:41,216
+Eles o mataram?
+
+1069
+01:17:43,093 --> 01:17:44,595
+Não tenho certeza.
+
+1070
+01:18:03,989 --> 01:18:06,075
+Por que simplesmente...
+
+1071
+01:18:07,785 --> 01:18:09,369
+não me mata?
+
+1072
+01:18:09,370 --> 01:18:12,831
+<i>Você não teme a morte,
+você a acolhe.</i>
+
+1073
+01:18:13,207 --> 01:18:15,918
+Sua punição
+deve ser mais severa.
+
+1074
+01:18:16,835 --> 01:18:20,005
+- Você é um torturador.
+- Sim.
+
+1075
+01:18:20,798 --> 01:18:22,758
+Mas não do seu corpo.
+
+1076
+01:18:26,428 --> 01:18:28,055
+Da sua alma.
+
+1077
+01:18:29,014 --> 01:18:32,476
+- Onde estou?
+- Em casa.
+
+1078
+01:18:33,060 --> 01:18:35,896
+Onde eu aprendi a verdade
+sobre o desespero.
+
+1079
+01:18:36,730 --> 01:18:38,148
+Assim como aprenderá.
+
+1080
+01:18:38,857 --> 01:18:42,403
+Há um motivo para essa prisão
+ser o inferno na Terra.
+
+1081
+01:18:43,237 --> 01:18:44,862
+Esperança.
+
+1082
+01:18:44,863 --> 01:18:47,990
+Todos que apodreceram aqui,
+durante os séculos...
+
+1083
+01:18:47,991 --> 01:18:50,101
+<i>olharam para a luz
+e se imaginaram...</i>
+
+1084
+01:18:50,102 --> 01:18:51,878
+<i>escalando para liberdade.</i>
+
+1085
+01:18:52,579 --> 01:18:56,375
+<i>Tão fácil, tão simples.</i>
+
+1086
+01:18:57,084 --> 01:19:00,294
+Como náufragos bebendo
+água do mar...
+
+1087
+01:19:00,295 --> 01:19:03,173
+com uma sede incontrolável.
+
+1088
+01:19:04,550 --> 01:19:07,035
+Muitos morreram tentando.
+
+1089
+01:19:07,636 --> 01:19:11,890
+Aprendi aqui que não pode haver
+desespero real sem esperança.
+
+1090
+01:19:12,766 --> 01:19:16,269
+Então,
+quando eu aterrorizar Gotham...
+
+1091
+01:19:16,270 --> 01:19:19,732
+vou dar esperança ao povo,
+envenenando suas almas.
+
+1092
+01:19:20,399 --> 01:19:23,401
+<i>Vou deixá-los acreditar
+que podem sobreviver...</i>
+
+1093
+01:19:23,402 --> 01:19:26,404
+<i>para vê-los brigando
+uns com os outros...</i>
+
+1094
+01:19:26,405 --> 01:19:28,907
+por um lugar ao sol.
+
+1095
+01:19:31,910 --> 01:19:35,164
+Vai poder me ver torturar
+uma cidade inteira.
+
+1096
+01:19:35,706 --> 01:19:37,790
+<i>E quando realmente entender...</i>
+
+1097
+01:19:37,791 --> 01:19:39,584
+<i>a profundidade
+do seu fracasso...</i>
+
+1098
+01:19:39,585 --> 01:19:42,629
+vamos cumprir o destino
+de Ra's Al Ghul.
+
+1099
+01:19:46,300 --> 01:19:48,427
+Vamos destruir Gotham.
+
+1100
+01:19:49,094 --> 01:19:52,056
+<i>Depois,
+quando estiver tudo feito...</i>
+
+1101
+01:19:52,347 --> 01:19:54,349
+e Gotham estiver...
+
+1102
+01:19:55,476 --> 01:19:57,353
+em cinzas...
+
+1103
+01:20:02,900 --> 01:20:05,486
+aí então terá
+minha permissão para morrer.
+
+1104
+01:20:20,209 --> 01:20:21,793
+Vai prendê-la aqui?
+
+1105
+01:20:21,794 --> 01:20:23,961
+A Lei Dent permite
+a prisão mista...
+
+1106
+01:20:23,962 --> 01:20:25,880
+em situações especiais.
+
+1107
+01:20:25,881 --> 01:20:29,008
+Ela escapou da prisão feminina
+pela primeira vez aos 16 anos.
+
+1108
+01:20:29,009 --> 01:20:30,426
+Chega mais, gatinha!
+
+1109
+01:20:30,427 --> 01:20:33,305
+Que foi, docinho?
+Quer segurar minha mão?
+
+1110
+01:20:33,680 --> 01:20:35,557
+Ela vai ficar bem.
+
+1111
+01:20:36,225 --> 01:20:39,435
+Não vejo necessidade de reunião
+para o projeto de energia.
+
+1112
+01:20:39,436 --> 01:20:41,062
+Bruce fez muitas coisas certas.
+
+1113
+01:20:41,063 --> 01:20:44,024
+Manter a diretoria às escuras
+não foi uma delas.
+
+1114
+01:20:46,819 --> 01:20:49,779
+Que bom que se juntou a nós,
+senhora...
+
+1115
+01:20:49,780 --> 01:20:51,115
+<i>Presidente.</i>
+
+1116
+01:20:51,490 --> 01:20:55,326
+Agora preciso de apenas
+um membro da diretoria.
+
+1117
+01:20:55,327 --> 01:20:59,540
+- Sr. Fox, pode indicá-lo?
+- Não.
+
+1118
+01:21:00,040 --> 01:21:01,625
+Eu me ofereço.
+
+1119
+01:21:02,418 --> 01:21:04,086
+Para onde vai nos levar?
+
+1120
+01:21:14,430 --> 01:21:15,888
+Você estava certo,
+Comissário!
+
+1121
+01:21:15,889 --> 01:21:18,558
+- Pode nos deixar, por favor?
+- O que houve?
+
+1122
+01:21:18,559 --> 01:21:21,102
+Seu mascarado sequestrou
+a diretoria da Wayne.
+
+1123
+01:21:21,103 --> 01:21:23,856
+Ele soltou a maioria,
+mas levou três para os esgotos.
+
+1124
+01:21:24,273 --> 01:21:26,691
+Chega de patrulhas,
+chega de se esconder...
+
+1125
+01:21:26,692 --> 01:21:29,402
+entre com todos os policiais
+e arranque o Bane de lá!
+
+1126
+01:21:29,403 --> 01:21:30,987
+O Prefeito não quer pânico.
+
+1127
+01:21:30,988 --> 01:21:33,198
+Então é só treinamento?
+
+1128
+01:21:35,993 --> 01:21:38,037
+Sinto por não ter
+levado você a sério.
+
+1129
+01:21:38,954 --> 01:21:40,329
+<i>Você não!</i>
+
+1130
+01:21:40,330 --> 01:21:42,332
+Você disse
+que o Batman sumiu.
+
+1131
+01:21:42,750 --> 01:21:45,168
+Então, reúna todas
+as pistas do Daggett.
+
+1132
+01:21:45,169 --> 01:21:47,587
+Todas que puder.
+
+1133
+01:21:47,588 --> 01:21:48,922
+Sim, senhor.
+
+1134
+01:21:59,516 --> 01:22:02,560
+Ele perguntou
+quanto você nos pagaria...
+
+1135
+01:22:02,561 --> 01:22:04,146
+para deixá-lo morrer.
+
+1136
+01:22:05,147 --> 01:22:07,191
+Disse a ele
+que você não tem nada.
+
+1137
+01:22:07,983 --> 01:22:09,316
+Mate-me por prazer!
+
+1138
+01:22:09,317 --> 01:22:12,278
+Eu ganho mais do que isso
+para mantê-lo vivo.
+
+1139
+01:22:20,203 --> 01:22:22,246
+Ele vai tentar escalar.
+
+1140
+01:22:36,511 --> 01:22:39,262
+<i>Alguém já conseguiu?</i>
+
+1141
+01:22:39,263 --> 01:22:41,265
+Claro que não!
+
+1142
+01:22:52,068 --> 01:22:54,112
+Ele falou
+que alguém conseguiu.
+
+1143
+01:22:55,113 --> 01:22:56,606
+Uma criança.
+
+1144
+01:22:58,116 --> 01:23:00,076
+<i>Uma criança nascida
+neste inferno.</i>
+
+1145
+01:23:00,785 --> 01:23:02,278
+Bane.
+
+1146
+01:23:02,578 --> 01:23:05,957
+É uma antiga lenda,
+nada mais.
+
+1147
+01:23:09,594 --> 01:23:11,086
+Não...
+
+1148
+01:23:11,087 --> 01:23:13,255
+Seja o que for
+que queiram que veja...
+
+1149
+01:23:13,256 --> 01:23:15,258
+não vai demorar.
+
+1150
+01:23:41,159 --> 01:23:42,744
+<i>Vai explodir!</i>
+
+1151
+01:24:11,356 --> 01:24:12,774
+Pode ligar!
+
+1152
+01:24:17,153 --> 01:24:19,404
+Eu só preciso de mais
+um membro da diretoria.
+
+1153
+01:24:19,405 --> 01:24:21,281
+Há mais 8 esperando.
+
+1154
+01:24:21,282 --> 01:24:22,700
+Não farei isso.
+
+1155
+01:24:23,576 --> 01:24:24,952
+<i>Tudo bem, parem!</i>
+
+1156
+01:24:26,079 --> 01:24:28,663
+Lucius, você vai se matar
+e a esse homem.
+
+1157
+01:24:28,664 --> 01:24:31,084
+E nem vai atrasá-los.
+
+1158
+01:24:57,318 --> 01:25:00,321
+Continue, então.
+Faça o seu trabalho.
+
+1159
+01:25:03,324 --> 01:25:05,450
+Leve-os para a superfície.
+
+1160
+01:25:05,451 --> 01:25:08,537
+Pessoas do gabarito deles
+merecem vivenciar...
+
+1161
+01:25:08,538 --> 01:25:12,542
+a próxima era
+da civilização ocidental.
+
+1162
+01:25:16,254 --> 01:25:18,588
+<i>Fui nas fábricas do Daggett
+e marquei onde...</i>
+
+1163
+01:25:18,589 --> 01:25:21,007
+<i>injetaram cimento
+para construção subterrânea.</i>
+
+1164
+01:25:21,008 --> 01:25:22,760
+<i>Notou algo suspeito?</i>
+
+1165
+01:25:23,469 --> 01:25:25,178
+Francamente, Comissário...
+
+1166
+01:25:25,179 --> 01:25:27,181
+<i>Não entendo nada
+de engenharia civil.</i>
+
+1167
+01:25:27,682 --> 01:25:30,643
+<i>Mas sabe identificar padrões!
+Continue procurando!</i>
+
+1168
+01:25:35,690 --> 01:25:37,065
+<i>Está feito!</i>
+
+1169
+01:25:37,066 --> 01:25:40,778
+Agora é uma bomba nuclear
+de 4 megatons!
+
+1170
+01:25:42,488 --> 01:25:45,074
+Remova o núcleo do reator!
+
+1171
+01:25:46,367 --> 01:25:48,535
+Não! Você não pode!
+
+1172
+01:25:48,536 --> 01:25:52,081
+É a única fonte de energia
+capaz de sustentá-lo.
+
+1173
+01:25:53,082 --> 01:25:54,458
+Se for removido...
+
+1174
+01:25:54,459 --> 01:25:57,169
+o núcleo ficará instável
+em alguns meses.
+
+1175
+01:25:57,170 --> 01:25:59,546
+Cinco,
+pelos meus cálculos.
+
+1176
+01:25:59,547 --> 01:26:01,174
+E então vai explodir!
+
+1177
+01:26:02,967 --> 01:26:06,928
+Pelo bem de seus filhos,
+dr. Pavel...
+
+1178
+01:26:06,929 --> 01:26:09,223
+de fato,
+eu espero que sim.
+
+1179
+01:26:14,645 --> 01:26:17,315
+Era você na frente
+da Bolsa de Valores, não é?
+
+1180
+01:26:18,399 --> 01:26:19,775
+- Quando?
+- Quando?
+
+1181
+01:26:19,776 --> 01:26:22,652
+Quando metade da polícia
+tentou parar na Rua Castle...
+
+1182
+01:26:22,653 --> 01:26:24,154
+e seu caminhão impediu.
+
+1183
+01:26:24,155 --> 01:26:27,867
+- Sim! Você é o policial.
+- Detetive.
+
+1184
+01:26:28,076 --> 01:26:29,659
+E como um detetive...
+
+1185
+01:26:29,660 --> 01:26:32,372
+não posso mais acreditar
+em coincidências.
+
+1186
+01:26:42,215 --> 01:26:44,175
+O que faziam lá?!
+O que estão tramando?!
+
+1187
+01:26:52,767 --> 01:26:54,267
+Comissário, é o Blake.
+
+1188
+01:26:54,268 --> 01:26:55,977
+Tenho duas testemunhas
+mortas...
+
+1189
+01:26:55,978 --> 01:26:58,481
+e muitas perguntas.
+Ligue-me quando...
+
+1190
+01:26:59,065 --> 01:27:03,027
+Espere! Encontrei 4 barris
+de poliisobutileno.
+
+1191
+01:27:04,529 --> 01:27:06,613
+Parece ter
+um motor a óleo ao lado.
+
+1192
+01:27:06,614 --> 01:27:07,989
+<i>Meu Deus!</i>
+
+1193
+01:27:07,990 --> 01:27:10,743
+Não estão fazendo cimento,
+estão fazendo explosivos!
+
+1194
+01:27:17,750 --> 01:27:19,251
+Passe para o Foley!
+
+1195
+01:27:19,252 --> 01:27:20,752
+<i>Está comandando a operação.</i>
+
+1196
+01:27:20,753 --> 01:27:22,547
+Vão entrar
+em uma armadilha!
+
+1197
+01:27:23,256 --> 01:27:26,007
+<i>Vimos milhares de policiais
+entrando nos esgotos.</i>
+
+1198
+01:27:26,008 --> 01:27:28,218
+Sr. Prefeito,
+são milhares de policiais...
+
+1199
+01:27:28,219 --> 01:27:30,095
+É apenas um exercício
+de treinamento.
+
+1200
+01:27:30,096 --> 01:27:32,222
+Com licença,
+mas tenho entradas para ver...
+
+1201
+01:27:32,223 --> 01:27:34,017
+nossos garotos
+esmagarem os Rapids.
+
+1202
+01:27:35,560 --> 01:27:37,936
+- Foley.
+- É armadilha! Tire todos daí!
+
+1203
+01:27:37,937 --> 01:27:40,605
+Bane está injetando cimento
+misturado com explosivos.
+
+1204
+01:27:40,606 --> 01:27:41,983
+Onde?
+
+1205
+01:27:57,707 --> 01:27:59,458
+<i>Tem um anel
+ao redor dos túneis!</i>
+
+1206
+01:27:59,459 --> 01:28:01,544
+<i>Vão explodir
+e deixar a polícia presa!</i>
+
+1207
+01:28:03,095 --> 01:28:05,790
+Tirem todos!
+Tirem todos de lá agora!
+
+1208
+01:28:29,905 --> 01:28:31,991
+Que voz adorável.
+
+1209
+01:29:13,172 --> 01:29:14,874
+Que os jogos comecem!
+
+1210
+01:30:28,774 --> 01:30:31,859
+Abram caminho.
+Estão todos bem?
+
+1211
+01:30:31,860 --> 01:30:33,195
+Vão, vão, vão!
+
+1212
+01:30:49,735 --> 01:30:51,246
+Gotham...
+
+1213
+01:30:52,756 --> 01:30:54,849
+Recupere o controle...
+
+1214
+01:30:55,550 --> 01:30:58,553
+Recupere o controle
+da sua cidade!
+
+1215
+01:31:04,334 --> 01:31:06,376
+-Foley!
+-Jesus, Blake!
+
+1216
+01:31:06,377 --> 01:31:08,880
+Todos os policiais da cidade
+estão naqueles túneis!
+
+1217
+01:31:09,472 --> 01:31:11,007
+Nem todos.
+
+1218
+01:31:25,263 --> 01:31:26,680
+- O senhor está bem?
+- Sim.
+
+1219
+01:31:26,681 --> 01:31:28,741
+Sou um policial,
+e preciso do seu carro.
+
+1220
+01:32:19,425 --> 01:32:21,077
+Verifique os cantos,
+novato!
+
+1221
+01:32:22,370 --> 01:32:23,929
+Pegue meu casaco, filho!
+
+1222
+01:32:23,930 --> 01:32:25,639
+Este...
+
+1223
+01:32:25,640 --> 01:32:29,744
+Este é o instrumento
+de sua libertação!
+
+1224
+01:32:32,813 --> 01:32:34,832
+O satélite mostra
+picos de radiação.
+
+1225
+01:32:36,050 --> 01:32:38,527
+Seja o que for, é nuclear.
+
+1226
+01:32:42,657 --> 01:32:45,577
+Identifique-se para o mundo!
+
+1227
+01:32:47,303 --> 01:32:51,641
+Dr. Leonid Pavel,
+físico nuclear.
+
+1228
+01:32:51,941 --> 01:32:54,367
+Pavel teve morte confirmada.
+
+1229
+01:32:54,368 --> 01:32:56,645
+Em acidente de avião
+no resgate da Agência...
+
+1230
+01:32:56,646 --> 01:32:58,347
+sobre o Uzbequistão,
+mas...
+
+1231
+01:32:58,748 --> 01:33:00,357
+Parece ser ele.
+
+1232
+01:33:00,358 --> 01:33:03,427
+E o que... seria isso?
+
+1233
+01:33:03,428 --> 01:33:07,723
+É uma bomba de nêutrons
+totalmente operacional...
+
+1234
+01:33:07,724 --> 01:33:10,434
+com um raio de destruição
+de 10km.
+
+1235
+01:33:10,435 --> 01:33:14,856
+E quem poderia desarmar
+esse dispositivo?
+
+1236
+01:33:16,766 --> 01:33:19,936
+- Apenas eu.
+- Apenas você.
+
+1237
+01:33:20,862 --> 01:33:23,181
+Obrigado,
+meu bom doutor!
+
+1238
+01:33:25,867 --> 01:33:29,561
+Agora,
+a bomba está armada!
+
+1239
+01:33:29,562 --> 01:33:32,088
+Essa bomba é móvel!
+
+1240
+01:33:32,089 --> 01:33:34,942
+E a identidade
+de quem vai detonar...
+
+1241
+01:33:34,943 --> 01:33:37,002
+é um mistério!
+
+1242
+01:33:37,603 --> 01:33:42,024
+Pois um de vocês
+está com o detonador!
+
+1243
+01:33:42,025 --> 01:33:45,594
+<i>Mas não viemos aqui
+como conquistadores!</i>
+
+1244
+01:33:45,595 --> 01:33:47,654
+<i>Mas como libertadores!</i>
+
+1245
+01:33:47,655 --> 01:33:51,275
+Ao devolver o controle
+dessa cidade ao povo.
+
+1246
+01:33:52,936 --> 01:33:57,540
+E ao primeiro sinal
+de interferência de fora...
+
+1247
+01:33:57,833 --> 01:34:02,379
+e para aquelas pessoas
+que tentarem fugir...
+
+1248
+01:34:03,530 --> 01:34:06,581
+esse cidadão anônimo...
+
+1249
+01:34:06,582 --> 01:34:09,193
+esse herói desconhecido...
+
+1250
+01:34:09,886 --> 01:34:12,013
+irá detonar a bomba.
+
+1251
+01:34:13,981 --> 01:34:16,368
+<i>Agora a lei marcial
+está em vigor.</i>
+
+1252
+01:34:17,043 --> 01:34:19,003
+<i>Voltem para suas casas.</i>
+
+1253
+01:34:19,804 --> 01:34:22,206
+<i>Mantenham
+seus familiares por perto...</i>
+
+1254
+01:34:23,116 --> 01:34:24,951
+e esperem.
+
+1255
+01:34:25,960 --> 01:34:28,972
+Amanhã irão reivindicar
+o que é de vocês por direito.
+
+1256
+01:34:35,278 --> 01:34:36,763
+<i>Recolha os caças.</i>
+
+1257
+01:34:37,564 --> 01:34:40,099
+Começar voos
+de reconhecimento.
+
+1258
+01:34:41,175 --> 01:34:43,002
+Ponha o Presidente na linha.
+
+1259
+01:35:03,727 --> 01:35:07,773
+<i>Tanques e aviões não vão
+nos impedir de detonar a bomba.</i>
+
+1260
+01:35:08,148 --> 01:35:10,357
+<i>Enviem emissário
+para negociar os termos...</i>
+
+1261
+01:35:10,358 --> 01:35:13,235
+<i>de acesso a suprimentos
+e linhas de comunicação!</i>
+
+1262
+01:35:18,908 --> 01:35:20,910
+Quantos vocês são, filho?
+
+1263
+01:35:22,119 --> 01:35:24,203
+Não têm homens
+suficientes para impedir...
+
+1264
+01:35:24,204 --> 01:35:26,539
+que 12 milhões de pessoas
+deixem esta ilha.
+
+1265
+01:35:26,540 --> 01:35:29,375
+Não, não temos.
+
+1266
+01:35:29,376 --> 01:35:30,877
+Mas vocês têm.
+
+1267
+01:35:32,588 --> 01:35:35,798
+E por que ajudaria você
+a manter seus reféns?
+
+1268
+01:35:35,799 --> 01:35:38,675
+Porque se uma só pessoa
+cruzar esta ponte...
+
+1269
+01:35:38,676 --> 01:35:40,845
+Gotham vai para o inferno!
+
+1270
+01:35:46,352 --> 01:35:48,353
+<i>Os cidadãos
+de nossa maior cidade...</i>
+
+1271
+01:35:48,354 --> 01:35:49,846
+<i>são resistentes.</i>
+
+1272
+01:35:50,647 --> 01:35:52,483
+<i>Eles já provaram isso antes...</i>
+
+1273
+01:35:52,858 --> 01:35:54,484
+<i>e vão provar de novo.</i>
+
+1274
+01:35:55,861 --> 01:35:59,488
+<i>Nós não negociamos
+com terroristas...</i>
+
+1275
+01:35:59,905 --> 01:36:02,325
+<i>mas reconhecemos os fatos.</i>
+
+1276
+01:36:02,534 --> 01:36:04,868
+<i>Do jeito
+que a situação está...</i>
+
+1277
+01:36:05,786 --> 01:36:09,016
+<i>algo deve ser dito,
+acima de tudo.</i>
+
+1278
+01:36:10,917 --> 01:36:13,961
+<i>Povo de Gotham,
+não abandonaremos vocês.</i>
+
+1279
+01:36:13,962 --> 01:36:18,549
+- O que isso quer dizer?
+- Que estamos por nossa conta.
+
+1280
+01:36:18,550 --> 01:36:20,784
+Vou ter que falar
+com a imprensa.
+
+1281
+01:36:20,785 --> 01:36:23,388
+Senhor, vão matá-lo
+assim que mostrar seu rosto.
+
+1282
+01:36:23,930 --> 01:36:26,615
+Bane diz que está devolvendo
+Gotham ao povo.
+
+1283
+01:36:26,616 --> 01:36:28,492
+Precisam saber
+que posso liderá-los.
+
+1284
+01:36:28,493 --> 01:36:29,893
+Bane não vai permitir.
+
+1285
+01:36:29,894 --> 01:36:32,689
+- E mostrar quem realmente é.
+- E o senhor estará morto.
+
+1286
+01:36:51,708 --> 01:36:56,296
+Atrás de vocês,
+está um símbolo de opressão!
+
+1287
+01:36:57,213 --> 01:36:59,088
+A prisão Blackgate!
+
+1288
+01:36:59,089 --> 01:37:02,843
+<i>Onde 1.000 homens
+foram esquecidos...</i>
+
+1289
+01:37:02,844 --> 01:37:06,430
+<i>em nome deste homem...</i>
+
+1290
+01:37:06,431 --> 01:37:08,349
+Harvey Dent!
+
+1291
+01:37:09,767 --> 01:37:11,868
+Que foi apresentado a vocês...
+
+1292
+01:37:11,869 --> 01:37:16,773
+<i>como o mais brilhante
+símbolo da justiça!</i>
+
+1293
+01:37:16,774 --> 01:37:19,524
+Vamos continuar andando
+até chegarmos a uma câmera.
+
+1294
+01:37:19,525 --> 01:37:22,528
+<i>Vocês receberam
+um falso ídolo...</i>
+
+1295
+01:37:22,529 --> 01:37:25,323
+para impedir
+que destruíssem...
+
+1296
+01:37:25,324 --> 01:37:27,326
+<i>essa cidade corrupta!</i>
+
+1297
+01:37:27,659 --> 01:37:32,080
+<i>Deixe-me dizer a verdade
+sobre Harvey Dent!</i>
+
+1298
+01:37:32,081 --> 01:37:36,668
+Nas palavras do próprio
+Comissário de Polícia...
+
+1299
+01:37:37,586 --> 01:37:39,797
+<i>James Gordon!</i>
+
+1300
+01:37:40,298 --> 01:37:44,050
+<i>"O Batman
+não matou Harvey Dent...</i>
+
+1301
+01:37:44,051 --> 01:37:45,676
+<i>ele salvou o meu filho...</i>
+
+1302
+01:37:45,677 --> 01:37:47,844
+<i>e então assumiu a culpa...</i>
+
+1303
+01:37:47,845 --> 01:37:49,971
+<i>pelos abomináveis
+crimes de Harvey.</i>
+
+1304
+01:37:49,972 --> 01:37:52,767
+para que eu pudesse,
+para minha vergonha...
+
+1305
+01:37:53,142 --> 01:37:54,935
+<i>construir uma mentira...</i>
+
+1306
+01:37:54,936 --> 01:37:56,937
+<i>em torno desse...</i>
+
+1307
+01:37:56,938 --> 01:37:59,440
+ídolo caído!
+
+1308
+01:38:01,402 --> 01:38:03,777
+<i>Eu enalteci o louco...</i>
+
+1309
+01:38:03,778 --> 01:38:06,865
+<i>que tentou matar
+o meu filho...</i>
+
+1310
+01:38:07,073 --> 01:38:11,035
+mas não posso mais viver
+com essa mentira.
+
+1311
+01:38:11,036 --> 01:38:15,123
+É hora de confiar a verdade
+ao povo de Gotham...
+
+1312
+01:38:15,124 --> 01:38:19,252
+e é hora
+de eu me demitir."
+
+1313
+01:38:19,962 --> 01:38:23,296
+<i>E vocês aceitam
+a demissão desse homem?</i>
+
+1314
+01:38:25,216 --> 01:38:29,510
+E aceitam a demissão
+de todos esses mentirosos?!
+
+1315
+01:38:29,511 --> 01:38:31,222
+De todos esses corruptos?!
+
+1316
+01:38:34,725 --> 01:38:37,227
+<i>Prenderam aqueles homens
+há 8 anos em Blackgate,</i>
+
+1317
+01:38:37,228 --> 01:38:39,645
+com a condicional negada,
+em nome da Lei Dent...
+
+1318
+01:38:39,646 --> 01:38:41,274
+com base
+em uma mentira?
+
+1319
+01:38:42,483 --> 01:38:44,358
+Gotham precisava de um herói.
+
+1320
+01:38:44,359 --> 01:38:46,328
+Agora mais do que nunca.
+
+1321
+01:38:46,329 --> 01:38:48,622
+<i>Mas o senhor traiu
+tudo o que representava.</i>
+
+1322
+01:38:50,616 --> 01:38:52,368
+Há um momento...
+
+1323
+01:38:52,952 --> 01:38:56,204
+Uma hora crítica
+quando as estruturas falham...
+
+1324
+01:38:56,205 --> 01:38:59,332
+e as regras
+não servem mais de arma...
+
+1325
+01:39:00,042 --> 01:39:03,837
+e viram correntes
+que deixam o mal prosseguir.
+
+1326
+01:39:05,089 --> 01:39:08,549
+Um dia,
+você pode encarar...
+
+1327
+01:39:08,550 --> 01:39:10,343
+<i>tal momento de crise.</i>
+
+1328
+01:39:10,344 --> 01:39:12,094
+Nesse momento,
+espero que tenha...
+
+1329
+01:39:12,095 --> 01:39:13,764
+um amigo como eu tive!
+
+1330
+01:39:14,599 --> 01:39:16,892
+Que enfie as mãos
+na sujeira...
+
+1331
+01:39:17,768 --> 01:39:19,896
+para as suas ficarem limpas!
+
+1332
+01:39:20,980 --> 01:39:23,857
+Suas mãos me parecem
+cheias de sujeira, Comissário.
+
+1333
+01:39:25,735 --> 01:39:29,321
+<i>Vamos tomar Gotham
+das mãos dos corruptos...</i>
+
+1334
+01:39:31,199 --> 01:39:32,783
+dos ricos...
+
+1335
+01:39:33,283 --> 01:39:37,827
+dos repressores de gerações
+que oprimiram vocês,
+
+1336
+01:39:37,828 --> 01:39:39,830
+com mitos de oportunidades...
+
+1337
+01:39:39,831 --> 01:39:42,209
+e devolveremos para vocês.
+
+1338
+01:39:43,417 --> 01:39:45,420
+O povo.
+
+1339
+01:39:46,797 --> 01:39:51,050
+Gotham é de vocês!
+Ninguém vai interferir!
+
+1340
+01:39:51,051 --> 01:39:52,944
+Façam o que quiserem!
+
+1341
+01:39:53,552 --> 01:39:56,931
+Comecem invadindo Blackgate...
+
+1342
+01:39:56,932 --> 01:39:59,267
+e libertando os injustiçados!
+
+1343
+01:40:08,026 --> 01:40:11,153
+Apresentem-se
+os que tiverem vontade...
+
+1344
+01:40:12,571 --> 01:40:15,574
+pois um exército
+será criado!
+
+1345
+01:40:18,703 --> 01:40:23,165
+Os poderosos serão arrancados
+de seus ninhos decadentes!
+
+1346
+01:40:27,336 --> 01:40:30,714
+<i>E lançados ao mundo frio...</i>
+
+1347
+01:40:30,715 --> 01:40:33,718
+<i>que nós conhecemos
+e vivemos.</i>
+
+1348
+01:40:38,179 --> 01:40:40,975
+Cortes serão convocadas.
+
+1349
+01:40:47,522 --> 01:40:50,443
+Despojos serão repartidos!
+
+1350
+01:40:54,922 --> 01:40:56,715
+Sangue será derramado!
+
+1351
+01:40:59,744 --> 01:41:02,494
+<i>A polícia sobreviverá...</i>
+
+1352
+01:41:02,495 --> 01:41:06,667
+<i>mas deverá aprender
+a servir à verdadeira justiça!</i>
+
+1353
+01:41:08,418 --> 01:41:10,629
+Esta grande cidade...
+
+1354
+01:41:12,590 --> 01:41:14,967
+vai resistir.
+
+1355
+01:41:16,927 --> 01:41:20,222
+<i>Gotham vai sobreviver!</i>
+
+1356
+01:41:42,409 --> 01:41:45,328
+Ele diz que precisa
+consertar as costas.
+
+1357
+01:41:45,329 --> 01:41:46,746
+Como ele sabe?
+
+1358
+01:41:46,747 --> 01:41:49,917
+Ele era o médico da prisão,
+um viciado em morfina.
+
+1359
+01:41:50,334 --> 01:41:53,796
+Ele caiu em desgraça
+com os poderosos...
+
+1360
+01:41:54,397 --> 01:41:56,423
+incluindo seu amigo mascarado.
+
+1361
+01:41:56,715 --> 01:41:58,133
+Como?
+
+1362
+01:42:00,176 --> 01:42:01,677
+Anos atrás...
+
+1363
+01:42:01,678 --> 01:42:03,972
+houve um tempo
+de calamidade.
+
+1364
+01:42:06,124 --> 01:42:08,811
+<i>Alguns prisioneiros
+atacaram Bane.</i>
+
+1365
+01:42:09,937 --> 01:42:13,105
+As tentativas desastradas
+do doutor...
+
+1366
+01:42:13,106 --> 01:42:14,692
+de reparar os danos...
+
+1367
+01:42:15,150 --> 01:42:17,267
+deixaram Bane
+em perpétua agonia.
+
+1368
+01:42:17,268 --> 01:42:20,406
+A máscara é
+para aliviar a dor.
+
+1369
+01:42:20,739 --> 01:42:23,700
+Bane foi aquela criança
+de qual você falou?
+
+1370
+01:42:23,701 --> 01:42:25,327
+Ele nasceu aqui?
+
+1371
+01:42:26,036 --> 01:42:28,663
+<i>Diz a lenda
+que um mercenário...</i>
+
+1372
+01:42:28,664 --> 01:42:30,666
+<i>que trabalhava
+para um déspota local...</i>
+
+1373
+01:42:30,999 --> 01:42:33,460
+<i>apaixonou-se
+pela filha do tirano.</i>
+
+1374
+01:42:34,377 --> 01:42:37,713
+Eles se casaram em segredo,
+mas quando o tirano soube...
+
+1375
+01:42:38,214 --> 01:42:42,343
+O mercenário foi...
+condenado ao poço.
+
+1376
+01:42:43,094 --> 01:42:45,303
+<i>Mas em vez disso,
+ele foi exilado.</i>
+
+1377
+01:42:45,304 --> 01:42:47,681
+<i>O mercenário entendeu
+que a filha do tirano...</i>
+
+1378
+01:42:47,682 --> 01:42:49,474
+<i>tinha conseguido
+a sua libertação.</i>
+
+1379
+01:42:49,475 --> 01:42:51,476
+<i>O que ele não sabia...</i>
+
+1380
+01:42:51,477 --> 01:42:53,980
+<i>era qual havia sido
+o preço de sua liberdade.</i>
+
+1381
+01:42:54,689 --> 01:42:57,650
+Ela tomou o lugar dele
+no poço.
+
+1382
+01:43:00,319 --> 01:43:03,824
+Ela teve uma criança
+do mercenário.
+
+1383
+01:43:06,659 --> 01:43:08,703
+A inocência não floresce
+embaixo da terra.
+
+1384
+01:43:08,704 --> 01:43:10,121
+Ela precisa ser erradicada.
+
+1385
+01:43:12,322 --> 01:43:14,000
+<i>Um dia...</i>
+
+1386
+01:43:15,000 --> 01:43:17,502
+<i>O doutor esqueceu
+de trancar a cela.</i>
+
+1387
+01:43:25,094 --> 01:43:27,220
+<i>Mas a criança
+tinha um amigo...</i>
+
+1388
+01:43:27,930 --> 01:43:29,806
+<i>um protetor...</i>
+
+1389
+01:43:29,807 --> 01:43:32,224
+<i>que mostrou aos outros
+que a inocência...</i>
+
+1390
+01:43:32,225 --> 01:43:35,355
+<i>era a redenção deles
+e devia ser valorizada.</i>
+
+1391
+01:43:35,730 --> 01:43:37,272
+A mãe não teve tanta sorte.
+
+1392
+01:43:40,434 --> 01:43:42,259
+Essa prisão é do Bane agora.
+
+1393
+01:43:42,260 --> 01:43:44,263
+Ele não quer
+que saibam da história.
+
+1394
+01:43:55,332 --> 01:43:59,002
+Há uma vértebra exposta
+em suas costas.
+
+1395
+01:43:59,711 --> 01:44:01,546
+Ela precisa ser recolocada.
+
+1396
+01:44:06,593 --> 01:44:09,137
+Fique parado
+e aguente firme.
+
+1397
+01:44:18,314 --> 01:44:21,566
+<i>Achou que eu não iria voltar,
+Bruce?</i>
+
+1398
+01:44:27,364 --> 01:44:29,824
+Eu disse que era imortal.
+
+1399
+01:44:31,991 --> 01:44:34,744
+Vi você morrer.
+
+1400
+01:44:34,745 --> 01:44:37,123
+Existem muitas formas
+de imortalidade.
+
+1401
+01:44:39,251 --> 01:44:43,839
+<i>Eu já tive uma esposa.
+Meu grande amor.</i>
+
+1402
+01:44:45,256 --> 01:44:47,509
+<i>Ela foi tirada de mim.</i>
+
+1403
+01:44:48,051 --> 01:44:49,386
+Você era o mercenário.
+
+1404
+01:44:52,681 --> 01:44:57,643
+Bane é seu filho,
+seu herdeiro.
+
+1405
+01:44:57,644 --> 01:44:59,936
+<i>Um para garantir
+que a Liga das Sombras...</i>
+
+1406
+01:44:59,937 --> 01:45:03,064
+<i>cumpra seu dever e restaure
+o equilíbrio da civilização.</i>
+
+1407
+01:45:03,065 --> 01:45:04,399
+Não.
+
+1408
+01:45:04,400 --> 01:45:07,944
+Você lutou contra a decadência
+de Gotham por anos...
+
+1409
+01:45:07,945 --> 01:45:10,030
+com toda sua força...
+
+1410
+01:45:10,031 --> 01:45:12,240
+todos os seus recursos...
+
+1411
+01:45:12,241 --> 01:45:14,643
+e toda sua autoridade moral.
+
+1412
+01:45:15,411 --> 01:45:18,622
+<i>Sua única vitória conseguida
+foi uma mentira!</i>
+
+1413
+01:45:18,914 --> 01:45:22,417
+Agora você entende?
+Gotham não pode ser salva.
+
+1414
+01:45:22,418 --> 01:45:24,753
+- Não.
+- E deve permitir que morra.
+
+1415
+01:45:24,754 --> 01:45:26,088
+Não!
+
+1416
+01:45:32,887 --> 01:45:36,139
+<i>Levante a cabeça.
+Assim está bom.</i>
+
+1417
+01:45:41,854 --> 01:45:43,563
+Não! Não!
+
+1418
+01:46:18,598 --> 01:46:20,932
+- O que é isso?
+- Era a casa de alguém.
+
+1419
+01:46:20,933 --> 01:46:22,852
+Agora é a casa de todos.
+
+1420
+01:46:24,688 --> 01:46:27,941
+A tempestade está chegando.
+Era isso que você queria.
+
+1421
+01:46:56,720 --> 01:46:59,846
+É para o ônibus,
+se houver chance de retirada.
+
+1422
+01:46:59,847 --> 01:47:03,100
+- Alguma notícia do Comissário?
+- Quanto menos souber, melhor.
+
+1423
+01:47:03,876 --> 01:47:05,268
+Como vão os meninos?
+
+1424
+01:47:05,269 --> 01:47:08,438
+A energia voltou,
+então podem assistir TV.
+
+1425
+01:47:08,439 --> 01:47:11,824
+- É bom revê-lo.
+- Blake, tome cuidado lá fora!
+
+1426
+01:47:11,825 --> 01:47:13,986
+Estão caçando policiais
+como cachorros.
+
+1427
+01:47:19,575 --> 01:47:21,502
+Por que se fortalecer?
+
+1428
+01:47:23,620 --> 01:47:25,078
+<i>Não vou morrer aqui.</i>
+
+1429
+01:47:25,079 --> 01:47:28,500
+Aqui ou lá,
+qual a diferença?
+
+1430
+01:48:30,352 --> 01:48:33,513
+Disse a você
+que não era possível.
+
+1431
+01:48:33,514 --> 01:48:35,892
+Mas disse
+que uma criança fugiu.
+
+1432
+01:48:37,067 --> 01:48:38,818
+<i>Mas não era
+uma criança comum.</i>
+
+1433
+01:48:39,402 --> 01:48:42,239
+<i>Uma criança
+nascida no inferno.</i>
+
+1434
+01:48:46,243 --> 01:48:48,578
+<i>Fortalecida pelo sofrimento.</i>
+
+1435
+01:48:49,954 --> 01:48:51,957
+<i>Endurecida pela dor.</i>
+
+1436
+01:48:53,709 --> 01:48:56,545
+Não um homem de privilégios.
+
+1437
+01:49:15,397 --> 01:49:17,106
+<i>Temos soldados em terra,
+senhor.</i>
+
+1438
+01:49:17,732 --> 01:49:19,483
+Aguardando informações.
+
+1439
+01:49:24,447 --> 01:49:27,949
+- Tem identidade?
+- Claro que não.
+
+1440
+01:49:27,950 --> 01:49:29,367
+Como confiar em você?
+
+1441
+01:49:29,368 --> 01:49:31,078
+<i>Não temos escolha.</i>
+
+1442
+01:49:31,079 --> 01:49:32,662
+Comissário Gordon...
+
+1443
+01:49:32,663 --> 01:49:34,289
+Capitão Jones,
+Forças Especiais.
+
+1444
+01:49:34,290 --> 01:49:36,835
+- É um prazer tê-lo aqui.
+- Esse é meu dever.
+
+1445
+01:49:37,126 --> 01:49:41,089
+- Quantos homens são?
+- Algumas dezenas, não sei bem.
+
+1446
+01:49:41,381 --> 01:49:44,841
+Mas os presos embaixo da terra
+chegam quase a 3 mil.
+
+1447
+01:49:44,842 --> 01:49:47,093
+- Como estão?
+- Têm recebido comida e água.
+
+1448
+01:49:47,094 --> 01:49:49,094
+- Podemos libertá-los?
+- Sim, senhor.
+
+1449
+01:49:49,095 --> 01:49:52,098
+Eliminamos os mercenários
+que guardam a saída sul,
+
+1450
+01:49:52,099 --> 01:49:54,224
+explodimos os destroços
+e fazemos um buraco.
+
+1451
+01:49:54,225 --> 01:49:56,861
+Dá pra uns 10 por vez.
+Contatei meu colega lá.
+
+1452
+01:49:56,862 --> 01:49:58,270
+Estão esperando o sinal.
+
+1453
+01:49:58,271 --> 01:50:00,273
+Homens que não veem
+a luz sol há 3 meses?
+
+1454
+01:50:00,274 --> 01:50:02,776
+Policiais que não veem
+a luz do sol há 3 meses.
+
+1455
+01:50:02,777 --> 01:50:06,112
+E a bomba? O satélite
+não capta a área de radiação.
+
+1456
+01:50:06,113 --> 01:50:09,406
+Esconderam no caminhão.
+Deve estar blindado com chumbo.
+
+1457
+01:50:09,407 --> 01:50:12,327
+<i>- Vive em movimento.
+- Ótimo. Sabe que caminhão?</i>
+
+1458
+01:50:12,328 --> 01:50:15,289
+<i>São três. É um deles.
+Estão sendo rastreados.</i>
+
+1459
+01:50:15,664 --> 01:50:17,166
+Iscas falsas.
+
+1460
+01:50:18,459 --> 01:50:21,462
+- Não acha que ele vai voltar?
+- Não importa o que eu acho.
+
+1461
+01:50:22,338 --> 01:50:25,590
+Importa sim. Você devia ter fé
+em algo mais real.
+
+1462
+01:50:26,132 --> 01:50:27,634
+As rotas não variam muito.
+
+1463
+01:50:27,884 --> 01:50:31,553
+- E quem está com o detonador?
+- Sem pistas, é um blefe.
+
+1464
+01:50:31,554 --> 01:50:33,764
+Bane não daria o controle
+a uma outra pessoa.
+
+1465
+01:50:33,765 --> 01:50:35,101
+Não podemos arriscar.
+
+1466
+01:50:35,433 --> 01:50:38,268
+Até pegarmos esse cara,
+só rastrearemos a bomba.
+
+1467
+01:50:38,269 --> 01:50:41,021
+Enquanto isso, Gotham fica
+nas mãos de um déspota.
+
+1468
+01:50:41,022 --> 01:50:42,414
+Como um estado falido?
+
+1469
+01:50:42,415 --> 01:50:45,360
+Acalme-se, policial,
+a situação é sem precedentes.
+
+1470
+01:50:45,361 --> 01:50:47,403
+<i>Não podemos arriscar
+milhões de vidas.</i>
+
+1471
+01:50:47,404 --> 01:50:50,740
+Vai contar para ele?
+O que de fato está acontecendo?
+
+1472
+01:50:50,741 --> 01:50:53,283
+Capitão, a situação é
+mais complicada...
+
+1473
+01:50:53,284 --> 01:50:54,703
+<i>do que você imagina.</i>
+
+1474
+01:50:54,704 --> 01:50:56,205
+Precisa conhecer uma pessoa.
+
+1475
+01:50:56,455 --> 01:50:58,373
+Procurava um ponto
+de observação.
+
+1476
+01:50:58,748 --> 01:51:01,459
+- Achei o cabeça da corporação.
+- Que corporação?
+
+1477
+01:51:01,668 --> 01:51:03,168
+Empresas Wayne.
+
+1478
+01:51:13,178 --> 01:51:15,597
+Sr. Fox poderia
+relatar ao capitão?
+
+1479
+01:51:15,598 --> 01:51:18,058
+A srta. Tate
+está ciente da situação.
+
+1480
+01:51:18,517 --> 01:51:20,769
+Como presidente
+das Empresas Wayne...
+
+1481
+01:51:20,770 --> 01:51:23,063
+assumo responsabilidade total.
+
+1482
+01:51:23,064 --> 01:51:25,190
+- Por quê?
+- Nós a construímos.
+
+1483
+01:51:25,191 --> 01:51:29,027
+- Vocês construíram a bomba?
+- Seria um reator de fusão.
+
+1484
+01:51:29,028 --> 01:51:30,696
+O primeiro do gênero.
+
+1485
+01:51:30,697 --> 01:51:33,115
+Bane transformou
+o núcleo numa bomba...
+
+1486
+01:51:33,116 --> 01:51:34,825
+e o removeu do reator.
+
+1487
+01:51:34,826 --> 01:51:36,159
+Agora o importante.
+
+1488
+01:51:36,160 --> 01:51:38,786
+Com a deterioração
+das células de combustível,
+
+1489
+01:51:38,787 --> 01:51:42,332
+ele se torna muito instável,
+a ponto de explodir.
+
+1490
+01:51:42,333 --> 01:51:46,336
+- É uma bomba relógio.
+- Vai explodir em 23 dias.
+
+1491
+01:51:46,337 --> 01:51:48,546
+Sem qualquer influência
+da revolução do Bane,
+
+1492
+01:51:48,547 --> 01:51:51,132
+ou do que nós
+ou o mundo exterior façamos.
+
+1493
+01:51:51,133 --> 01:51:54,010
+Seu plano de pacificação
+pode não ser tão útil assim.
+
+1494
+01:51:54,011 --> 01:51:55,345
+Pode desarmá-la?
+
+1495
+01:51:55,346 --> 01:51:58,848
+Poderia ligá-la ao reator,
+para estabilizar.
+
+1496
+01:51:58,849 --> 01:52:02,026
+- Vamos sair e dar o alerta.
+- Certo, vamos!
+
+1497
+01:52:02,027 --> 01:52:04,814
+Não, assumimos daqui.
+Você fica e cuida deles.
+
+1498
+01:52:12,820 --> 01:52:14,156
+Alguém nos delatou!
+
+1499
+01:52:15,766 --> 01:52:17,258
+Vão! Vão! Vão!
+
+1500
+01:52:37,995 --> 01:52:40,307
+Vou morrer antes de falar.
+
+1501
+01:52:40,849 --> 01:52:43,226
+Tenho hora marcada
+com você, capitão.
+
+1502
+01:52:49,991 --> 01:52:51,901
+<i>Há pessoas
+vivendo lá em cima.</i>
+
+1503
+01:52:52,276 --> 01:52:54,570
+Reúna todos
+para o julgamento.
+
+1504
+01:52:58,282 --> 01:53:00,493
+E enforquem-nos.
+
+1505
+01:53:01,202 --> 01:53:03,496
+Onde o mundo possa ver.
+
+1506
+01:53:18,094 --> 01:53:20,595
+Ele disse
+que o salto para a liberdade...
+
+1507
+01:53:20,596 --> 01:53:22,390
+não requer força.
+
+1508
+01:53:22,849 --> 01:53:24,517
+Meu corpo dará o salto.
+
+1509
+01:53:25,184 --> 01:53:28,938
+A sobrevivência é
+o espírito da alma.
+
+1510
+01:53:31,715 --> 01:53:33,107
+Minha alma...
+
+1511
+01:53:33,108 --> 01:53:35,360
+está tão pronta para escapar
+quanto meu corpo.
+
+1512
+01:53:35,361 --> 01:53:38,196
+O medo é o fracasso.
+
+1513
+01:53:38,614 --> 01:53:40,408
+Não estou com medo.
+
+1514
+01:53:41,366 --> 01:53:43,035
+Estou com raiva.
+
+1515
+01:54:11,980 --> 01:54:13,857
+<i>Bruce...</i>
+
+1516
+01:54:14,816 --> 01:54:16,943
+<i>Por que caímos?</i>
+
+1517
+01:54:22,366 --> 01:54:24,493
+<i>Você não teme a morte.</i>
+
+1518
+01:54:25,285 --> 01:54:27,204
+Acha que isso
+faz de você mais forte...
+
+1519
+01:54:27,579 --> 01:54:29,581
+mas faz de você
+mais fraco.
+
+1520
+01:54:30,190 --> 01:54:31,582
+Por quê?
+
+1521
+01:54:31,583 --> 01:54:34,211
+<i>Como se mover mais rápido
+que o impossível...</i>
+
+1522
+01:54:34,212 --> 01:54:36,087
+lutar mais que o possível...
+
+1523
+01:54:36,712 --> 01:54:40,090
+sem o instinto mais poderoso
+do espírito:
+
+1524
+01:54:41,758 --> 01:54:43,469
+o medo da morte?
+
+1525
+01:54:43,803 --> 01:54:45,887
+Eu temo a morte.
+
+1526
+01:54:47,013 --> 01:54:49,392
+Temo morrer aqui...
+
+1527
+01:54:50,392 --> 01:54:52,519
+enquanto
+a minha cidade queima...
+
+1528
+01:54:53,187 --> 01:54:55,189
+sem ninguém para salvá-la.
+
+1529
+01:54:55,855 --> 01:54:58,434
+Então faça a escalada.
+
+1530
+01:55:03,114 --> 01:55:05,032
+Como?
+
+1531
+01:55:05,616 --> 01:55:08,119
+<i>Como a criança fez.</i>
+
+1532
+01:55:11,904 --> 01:55:14,541
+Sem a corda.
+
+1533
+01:55:15,792 --> 01:55:19,879
+O medo vai voltar a você.
+
+1534
+01:55:26,553 --> 01:55:29,805
+Suprimentos para sua escalada.
+Que maravilha.
+
+1535
+01:55:29,806 --> 01:55:31,182
+Isso é tão...
+
+1536
+01:55:35,061 --> 01:55:36,813
+O que isso significa?
+
+1537
+01:55:37,147 --> 01:55:39,190
+"Ressurgir".
+
+1538
+01:55:39,983 --> 01:55:41,317
+Não.
+
+1539
+01:57:11,063 --> 01:57:15,118
+Não, você me confundiu!
+Leve-me até o Bane!
+
+1540
+01:57:17,579 --> 01:57:19,330
+<i>Onde está o Bane?</i>
+
+1541
+01:57:23,711 --> 01:57:25,335
+<i>Ordem!</i>
+
+1542
+01:57:25,336 --> 01:57:26,879
+Onde está o Bane?
+
+1543
+01:57:26,880 --> 01:57:29,007
+Não houve nenhum engano,
+sr. Stryver.
+
+1544
+01:57:29,008 --> 01:57:31,926
+Você é Phillip Stryver.
+
+1545
+01:57:31,927 --> 01:57:35,096
+Vice-presidente
+das Indústrias Daggett?
+
+1546
+01:57:35,679 --> 01:57:38,932
+Que por anos viveu às custas
+do sangue e do suor...
+
+1547
+01:57:38,933 --> 01:57:41,226
+de pessoas menos poderosas
+do que você?
+
+1548
+01:57:41,728 --> 01:57:45,105
+Ligue para o Bane!
+Sou um de vocês!
+
+1549
+01:57:45,106 --> 01:57:47,232
+Bane não tem
+autoridade aqui!
+
+1550
+01:57:47,233 --> 01:57:49,109
+Essa já é a audiência
+de sua sentença!
+
+1551
+01:57:49,110 --> 01:57:53,864
+Agora, a escolha é sua:
+exílio ou morte?!
+
+1552
+01:57:53,865 --> 01:57:55,450
+<i>-Morte!
+-Morte!</i>
+
+1553
+01:57:57,452 --> 01:57:58,828
+<i>Ordem!</i>
+
+1554
+01:58:00,038 --> 01:58:01,413
+Exílio.
+
+1555
+01:58:01,831 --> 01:58:03,324
+Vendido.
+
+1556
+01:58:03,833 --> 01:58:05,576
+Ao homem suando frio.
+
+1557
+01:58:12,341 --> 01:58:15,301
+Siga pelo gelo grosso,
+se tentar nadar...
+
+1558
+01:58:15,302 --> 01:58:16,720
+morre em minutos.
+
+1559
+01:58:16,721 --> 01:58:18,221
+Alguém já conseguiu?
+
+1560
+01:58:31,861 --> 01:58:34,528
+<i>Onde é que eles estão?
+Não temos muito tempo.</i>
+
+1561
+01:58:34,529 --> 01:58:37,617
+- Quanto tempo?
+- A bomba explode amanhã.
+
+1562
+01:58:37,992 --> 01:58:40,869
+- Temos umas 18 horas.
+- Para fazer o quê?
+
+1563
+01:58:41,245 --> 01:58:43,205
+Marcar o caminhão,
+botar o GPS nele...
+
+1564
+01:58:43,206 --> 01:58:45,582
+e pensar
+em como desarmar.
+
+1565
+01:58:51,963 --> 01:58:53,298
+Só isso?
+
+1566
+01:58:55,716 --> 01:58:57,094
+Foley!
+
+1567
+01:58:57,511 --> 01:59:00,387
+Cadê o Foley? Droga!
+
+1568
+01:59:00,388 --> 01:59:02,391
+Não deveria sair nas ruas.
+
+1569
+01:59:06,728 --> 01:59:08,396
+Jim,
+ele não está aqui.
+
+1570
+01:59:08,397 --> 01:59:11,941
+Deixou sua mulher abrir a porta
+com a cidade sendo ocupada?
+
+1571
+01:59:11,942 --> 01:59:13,401
+Espere na cozinha, amor.
+
+1572
+01:59:13,402 --> 01:59:16,362
+O que você fez?
+Enterrou o uniforme no quintal?
+
+1573
+01:59:16,363 --> 01:59:18,698
+Você viu o que fizeram
+com as Forças Especiais.
+
+1574
+01:59:18,699 --> 01:59:21,367
+Esqueceu de todos os anos
+que patrulhamos,
+
+1575
+01:59:21,368 --> 01:59:23,994
+quando todos os bandidos
+queriam nos matar?
+
+1576
+01:59:23,995 --> 01:59:27,230
+Era diferente, e sabe disso!
+A cidade é deles!
+
+1577
+01:59:27,231 --> 01:59:28,856
+O governo fez
+um acordo com eles!
+
+1578
+01:59:28,857 --> 01:59:31,210
+Bane tem uma bomba.
+Isso não é acordo.
+
+1579
+01:59:31,211 --> 01:59:34,462
+Se atacar Bane
+o detonador aperta o botão.
+
+1580
+01:59:34,463 --> 01:59:37,842
+Acha que ele deu o controle
+para alguém do povo?
+
+1581
+01:59:38,426 --> 01:59:41,387
+Acha que isso é
+uma revolução?
+
+1582
+01:59:41,388 --> 01:59:44,139
+Só um homem pode detoná-la,
+e é o Bane.
+
+1583
+01:59:44,140 --> 01:59:47,059
+Precisamos abaixar a cabeça
+até resolverem isso.
+
+1584
+01:59:47,060 --> 01:59:48,685
+Se ainda tivesse família aqui!
+
+1585
+01:59:48,686 --> 01:59:51,690
+Só vai ser resolvido
+aqui de dentro da cidade!
+
+1586
+01:59:52,691 --> 01:59:54,191
+Olha, Peter...
+
+1587
+01:59:55,317 --> 01:59:58,737
+Não peço que desfile pela rua
+com seu uniforme...
+
+1588
+01:59:58,738 --> 02:00:00,404
+mas algo precisa ser feito!
+
+1589
+02:00:00,405 --> 02:00:02,699
+- Desculpe, Jim...
+- Ficar de cabeça baixa?
+
+1590
+02:00:02,700 --> 02:00:04,992
+Do que adiantará
+quando tudo explodir amanhã?
+
+1591
+02:00:04,993 --> 02:00:07,038
+Não sabe
+se isso vai acontecer.
+
+1592
+02:00:11,625 --> 02:00:13,835
+<i>Ouvi que está
+atrás de pessoal, Comissário.</i>
+
+1593
+02:00:13,836 --> 02:00:15,252
+Será que eu sirvo?
+
+1594
+02:00:15,253 --> 02:00:17,840
+Srta. Tate, não posso pedir
+que faça isso.
+
+1595
+02:00:18,632 --> 02:00:20,124
+Por favor.
+
+1596
+02:00:21,427 --> 02:00:22,927
+- Seu moleque!
+- Eu não roubei!
+
+1597
+02:00:22,928 --> 02:00:24,637
+- Você pegou?
+- Não!
+
+1598
+02:00:24,929 --> 02:00:26,265
+Não peguei nada!
+
+1599
+02:00:26,640 --> 02:00:29,435
+Você roubou de nós?!
+Seu safado!
+
+1600
+02:00:30,470 --> 02:00:32,771
+Sabem que não podem vir
+ao meu bairro...
+
+1601
+02:00:32,772 --> 02:00:34,565
+sem pedir com educação!
+
+1602
+02:00:40,236 --> 02:00:43,490
+Nunca roube nada de ninguém
+que corra mais que você.
+
+1603
+02:00:49,788 --> 02:00:51,831
+<i>É bem generosa
+para uma ladra.</i>
+
+1604
+02:01:00,841 --> 02:01:02,424
+Pensei que tinham
+matado você.
+
+1605
+02:01:02,425 --> 02:01:03,801
+Ainda não.
+
+1606
+02:01:03,802 --> 02:01:06,722
+- Se você quer desculpas...
+- Não é do seu feitio.
+
+1607
+02:01:08,138 --> 02:01:09,555
+Preciso de sua ajuda.
+
+1608
+02:01:09,556 --> 02:01:11,517
+E por que ajudaria você?
+
+1609
+02:01:11,518 --> 02:01:13,825
+Por isto aqui.
+O Ficha Limpa.
+
+1610
+02:01:13,826 --> 02:01:18,054
+Você vai confiá-lo a mim,
+depois do que fiz a você?
+
+1611
+02:01:18,055 --> 02:01:20,567
+Devo admitir
+que foi uma decepção.
+
+1612
+02:01:22,820 --> 02:01:24,569
+Mas ainda acho
+que vai além disso.
+
+1613
+02:01:24,570 --> 02:01:25,989
+Sinto que para você...
+
+1614
+02:01:25,990 --> 02:01:27,657
+não é só uma ferramenta.
+
+1615
+02:01:27,658 --> 02:01:29,700
+É uma rota de fuga.
+Você quer sumir...
+
+1616
+02:01:29,701 --> 02:01:31,195
+para recomeçar.
+
+1617
+02:01:31,912 --> 02:01:33,838
+Nem dessa ilha posso sair.
+
+1618
+02:01:33,839 --> 02:01:36,541
+Posso lhe dar uma saída
+se me levar a Lucius Fox.
+
+1619
+02:01:36,542 --> 02:01:38,793
+Quero que descubra
+onde está preso...
+
+1620
+02:01:38,794 --> 02:01:40,287
+e me leve até lá.
+
+1621
+02:01:43,340 --> 02:01:45,717
+- Por que precisa do Fox?
+- Para salvar a cidade.
+
+1622
+02:01:45,718 --> 02:01:48,885
+E para que salvá-la?
+Gosto dela assim mesmo.
+
+1623
+02:01:48,886 --> 02:01:50,471
+Talvez você goste...
+
+1624
+02:01:51,889 --> 02:01:54,592
+mas amanhã aquela bomba
+vai explodir.
+
+1625
+02:01:56,686 --> 02:01:58,903
+Mande seu amigo poderoso
+cuidar do caso.
+
+1626
+02:01:58,904 --> 02:02:02,241
+Estou tentando,
+mas preciso do Fox.
+
+1627
+02:02:02,734 --> 02:02:06,695
+Ao se aproximar,
+ligue o dispositivo.
+
+1628
+02:02:06,696 --> 02:02:08,947
+Quando a agulha atingir 200,
+dê o sinal...
+
+1629
+02:02:08,948 --> 02:02:10,867
+e eu marco o caminhão,
+certo?
+
+1630
+02:02:11,743 --> 02:02:13,328
+Atenção. Atenção.
+
+1631
+02:02:29,134 --> 02:02:30,537
+Consegui!
+
+1632
+02:02:30,538 --> 02:02:32,028
+Mercenários atrás de você.
+
+1633
+02:02:32,029 --> 02:02:34,766
+Parado aí, deixe as mãos
+onde eu possa vê-las!
+
+1634
+02:02:37,101 --> 02:02:38,976
+Comissário Gordon,
+você está preso.
+
+1635
+02:02:38,977 --> 02:02:40,771
+Sob a autoridade de quem?
+
+1636
+02:02:40,772 --> 02:02:42,357
+Do povo de Gotham.
+
+1637
+02:02:43,357 --> 02:02:45,776
+<i>Sem advogado?
+Sem testemunhas?</i>
+
+1638
+02:02:45,777 --> 02:02:47,903
+Que tipo de processo é esse?
+
+1639
+02:02:47,904 --> 02:02:49,988
+Sua culpa
+já foi determinada.
+
+1640
+02:02:49,989 --> 02:02:51,783
+<i>Esta é só
+a audiência da sentença.</i>
+
+1641
+02:02:52,200 --> 02:02:53,742
+E qual será ela?
+
+1642
+02:02:54,535 --> 02:02:57,704
+Morte ou exílio?
+
+1643
+02:02:57,705 --> 02:02:59,790
+Crane,
+se você acha que vamos...
+
+1644
+02:02:59,791 --> 02:03:01,792
+andar no gelo
+de boa vontade...
+
+1645
+02:03:02,793 --> 02:03:04,461
+pode esperar sentado.
+
+1646
+02:03:06,755 --> 02:03:09,548
+- Então é a morte.
+- É o que parece.
+
+1647
+02:03:09,549 --> 02:03:11,760
+Muito bem. Morte.
+
+1648
+02:03:13,679 --> 02:03:15,522
+Por exílio.
+
+1649
+02:03:17,557 --> 02:03:19,435
+Tragam-me a Miranda.
+
+1650
+02:03:26,066 --> 02:03:28,442
+Nós já vamos. Blake disse
+que estamos prontos.
+
+1651
+02:03:28,443 --> 02:03:29,937
+Coloquem o equipamento.
+
+1652
+02:03:37,159 --> 02:03:39,829
+Deixe-o aí.
+Tenho um grande dia amanhã.
+
+1653
+02:03:39,830 --> 02:03:42,123
+Todos nós. Não é sempre
+que se pega Bruce Wayne.
+
+1654
+02:03:45,293 --> 02:03:46,884
+- Bruce!
+- Tudo bem.
+
+1655
+02:03:46,885 --> 02:03:49,296
+Péssima hora
+para sair de férias, sr. Wayne.
+
+1656
+02:03:49,297 --> 02:03:51,090
+Quanto tempo
+até o núcleo explodir?
+
+1657
+02:03:51,091 --> 02:03:52,966
+A bomba explode
+em 12 horas.
+
+1658
+02:03:52,967 --> 02:03:55,270
+Isso se não o religarmos
+ao reator.
+
+1659
+02:03:55,679 --> 02:03:59,432
+- Consegue tirar Miranda daqui?
+- Não nesta noite. Sinto muito.
+
+1660
+02:03:59,433 --> 02:04:02,059
+- Faça o que for necessário.
+- Hoje preciso de você.
+
+1661
+02:04:02,060 --> 02:04:04,562
+- Para quê?
+- Para me pôr de volta ao jogo.
+
+1662
+02:04:04,563 --> 02:04:07,023
+<i>Lamento ser desmancha prazer,
+garotos, mas...</i>
+
+1663
+02:04:07,024 --> 02:04:09,026
+o Bane quer estes aqui
+para ele.
+
+1664
+02:04:11,069 --> 02:04:12,777
+Não vou esquecer de você,
+Miranda.
+
+1665
+02:04:12,778 --> 02:04:14,230
+Eu sei.
+
+1666
+02:04:23,205 --> 02:04:25,332
+Gostei de sua namorada,
+sr. Wayne.
+
+1667
+02:04:25,333 --> 02:04:26,917
+Ele não tem
+tanta sorte assim.
+
+1668
+02:04:33,090 --> 02:04:35,259
+Se eu chegar perto do Bane
+ou da bomba...
+
+1669
+02:04:35,593 --> 02:04:37,261
+o bandido irá detoná-la.
+
+1670
+02:04:37,970 --> 02:04:41,056
+<i>Não vão usar rádio ou celular.
+Tem muita interferência.</i>
+
+1671
+02:04:41,057 --> 02:04:42,849
+<i>Infravermelho não tem alcance.</i>
+
+1672
+02:04:42,850 --> 02:04:45,727
+Tem que ser uma frequência
+de ondas longas.
+
+1673
+02:04:45,728 --> 02:04:47,562
+- Você pode bloquear?
+- Sim.
+
+1674
+02:04:47,563 --> 02:04:51,032
+Mas vou precisar do canhão EM
+do Morcego.
+
+1675
+02:04:51,733 --> 02:04:53,569
+Lembra onde estacionou?
+
+1676
+02:05:08,291 --> 02:05:11,753
+- Ele voou bem?
+- Voou.
+
+1677
+02:05:12,170 --> 02:05:14,214
+Mesmo sem o piloto automático.
+Obrigado.
+
+1678
+02:05:14,215 --> 02:05:16,800
+Automático?
+Você está lá pra isso!
+
+1679
+02:05:56,631 --> 02:05:59,300
+Tudo bem.
+Rápido, um de cada vez.
+
+1680
+02:06:09,169 --> 02:06:10,561
+Pode trancar.
+
+1681
+02:06:11,979 --> 02:06:13,373
+<i>Abaixem-se!</i>
+
+1682
+02:06:15,399 --> 02:06:16,900
+Quem é você?
+
+1683
+02:06:46,129 --> 02:06:47,463
+<i>Pode acender.</i>
+
+1684
+02:07:05,984 --> 02:07:08,661
+Pai, venha aqui ver.
+Dá uma olhada.
+
+1685
+02:07:18,295 --> 02:07:20,046
+Impossível!
+
+1686
+02:07:21,589 --> 02:07:25,468
+Mantenha-a por perto.
+Ele vem pegá-la.
+
+1687
+02:07:25,760 --> 02:07:27,779
+<i>Onde está Miranda Tate?</i>
+
+1688
+02:07:28,180 --> 02:07:29,554
+O Bane levou.
+
+1689
+02:07:29,555 --> 02:07:32,943
+Ele está entocado na Prefeitura
+com a milícia dele.
+
+1690
+02:07:33,352 --> 02:07:36,428
+Isto bloqueia o sinal remoto
+do detonador da bomba.
+
+1691
+02:07:36,429 --> 02:07:38,571
+Coloque-o no caminhão
+antes do sol nascer.
+
+1692
+02:07:38,572 --> 02:07:40,472
+Ative-o
+quando começar.
+
+1693
+02:07:40,473 --> 02:07:42,341
+Quando o que começar?
+
+1694
+02:07:42,342 --> 02:07:43,828
+A guerra.
+
+1695
+02:08:19,571 --> 02:08:20,947
+Esqueceu aquele ali.
+
+1696
+02:08:23,984 --> 02:08:27,253
+Se for trabalhar sozinho,
+deveria usar uma máscara.
+
+1697
+02:08:27,254 --> 02:08:29,787
+Não tenho medo de ser visto
+lutando contra eles!
+
+1698
+02:08:29,788 --> 02:08:32,909
+A máscara não é para você,
+é para proteger quem você ama.
+
+1699
+02:08:34,118 --> 02:08:35,870
+Conte até cinco e jogue.
+
+1700
+02:08:46,923 --> 02:08:49,842
+Sem ofensa, mas não tem
+nada maior nesse cinto?
+
+1701
+02:08:59,644 --> 02:09:02,863
+- E agora?
+- Um ataque direto ao Bane.
+
+1702
+02:09:03,272 --> 02:09:05,489
+Leve as pessoas
+para o outro lado da ponte.
+
+1703
+02:09:05,490 --> 02:09:07,692
+- Por quê?
+- Caso fracassemos.
+
+1704
+02:09:07,693 --> 02:09:10,736
+Lidere-as.
+Salve quantas vidas puder.
+
+1705
+02:09:10,737 --> 02:09:13,790
+- Não precisa de mim aqui?
+- Você me deu um exército.
+
+1706
+02:09:13,791 --> 02:09:15,192
+Agora vá.
+
+1707
+02:09:15,575 --> 02:09:18,245
+- Obrigado.
+- Não me agradeça ainda.
+
+1708
+02:09:18,454 --> 02:09:21,247
+Posso não ter chance depois.
+
+1709
+02:09:34,387 --> 02:09:35,846
+Não precisava.
+
+1710
+02:09:37,055 --> 02:09:39,473
+O túnel do Centro está
+fechado pelos escombros.
+
+1711
+02:09:39,474 --> 02:09:42,810
+Mas os canhões podem abrir
+o caminho para as pessoas.
+
+1712
+02:09:42,811 --> 02:09:45,104
+<i>Espere até a luta começar.</i>
+
+1713
+02:09:45,105 --> 02:09:47,898
+Vai fazer uma guerra pra salvar
+a sua namorada metida?
+
+1714
+02:09:47,899 --> 02:09:49,526
+Para ligar, use...
+
+1715
+02:09:50,151 --> 02:09:51,486
+Eu sei.
+
+1716
+02:09:51,487 --> 02:09:54,279
+Temos 45 minutos
+para salvar a cidade.
+
+1717
+02:09:54,280 --> 02:09:57,325
+Não. Tenho 45 minutos para sair
+do raio de destruição...
+
+1718
+02:09:57,326 --> 02:09:59,484
+pois não tem
+a menor chance contra eles.
+
+1719
+02:09:59,485 --> 02:10:02,673
+- Com sua ajuda, eu tenho.
+- Vou abrir o túnel e fugir.
+
+1720
+02:10:03,473 --> 02:10:05,525
+Você é melhor do que isso.
+
+1721
+02:10:08,962 --> 02:10:11,757
+Desculpe por decepcionar
+tanto você.
+
+1722
+02:10:14,675 --> 02:10:19,555
+Venha comigo.
+Salve-se.
+
+1723
+02:10:21,349 --> 02:10:24,759
+Você não deve
+mais nada a eles.
+
+1724
+02:10:24,760 --> 02:10:26,562
+<i>Você deu tudo a eles.</i>
+
+1725
+02:10:26,563 --> 02:10:30,024
+Nem tudo. Ainda não.
+
+1726
+02:11:10,022 --> 02:11:13,776
+<i>Dispersem!
+Dispersem ou vamos atirar!</i>
+
+1727
+02:11:15,277 --> 02:11:17,830
+Só existe uma polícia
+nessa cidade.
+
+1728
+02:11:56,610 --> 02:11:58,320
+Abram fogo.
+
+1729
+02:12:49,703 --> 02:12:51,748
+- Lá vem ele!
+- Preparem-se!
+
+1730
+02:13:21,451 --> 02:13:25,447
+Então você voltou para morrer
+com sua cidade.
+
+1731
+02:13:25,739 --> 02:13:27,281
+Não.
+
+1732
+02:13:27,282 --> 02:13:29,284
+Voltei para deter você.
+
+1733
+02:13:54,668 --> 02:13:55,968
+Não é possível!
+
+1734
+02:13:57,969 --> 02:13:59,563
+Cortem pela 5ª!
+
+1735
+02:14:13,702 --> 02:14:16,079
+Vamos lá, pessoal.
+Para ônibus.
+
+1736
+02:14:16,080 --> 02:14:18,455
+Você vem comigo.
+E você também.
+
+1737
+02:14:18,456 --> 02:14:21,459
+Você, você e você,
+venham aqui.
+
+1738
+02:14:21,460 --> 02:14:23,711
+Os outros entram no ônibus.
+
+1739
+02:14:23,712 --> 02:14:27,006
+Vocês vão bater nas portas
+e dar a notícia, entenderam?
+
+1740
+02:14:27,007 --> 02:14:28,715
+A bomba vai explodir.
+
+1741
+02:14:28,716 --> 02:14:31,010
+Saiam pelo túnel da Rua Sul
+ou pela ponte.
+
+1742
+02:14:31,011 --> 02:14:33,262
+Andem dois quarteirões
+e voltem pro ônibus.
+
+1743
+02:14:33,263 --> 02:14:35,265
+Entenderam?
+Vão. Vão.
+
+1744
+02:14:36,057 --> 02:14:37,434
+Ele voltou?
+
+1745
+02:14:38,435 --> 02:14:40,020
+Fique de olhos abertos.
+Vai.
+
+1746
+02:16:02,351 --> 02:16:04,020
+Cuide das portas!
+
+1747
+02:16:07,272 --> 02:16:10,192
+Onde está o detonador?!
+Onde está?!
+
+1748
+02:16:11,527 --> 02:16:14,120
+Você nunca daria
+para um cidadão comum!
+
+1749
+02:16:14,121 --> 02:16:17,323
+Onde está?!
+Onde está o detonador?!
+
+1750
+02:16:17,824 --> 02:16:20,976
+Onde está?!
+Onde?!
+
+1751
+02:16:28,836 --> 02:16:31,337
+Diga-me onde está
+o detonador.
+
+1752
+02:16:31,338 --> 02:16:35,417
+E aí, tem a minha permissão
+para morrer.
+
+1753
+02:16:47,186 --> 02:16:49,272
+Eu quebrei você...
+
+1754
+02:16:50,273 --> 02:16:52,273
+Como foi que voltou?
+
+1755
+02:16:52,274 --> 02:16:54,151
+Achou que seria o único...
+
+1756
+02:16:54,152 --> 02:16:56,945
+a conseguir a força para fugir,
+Bane?
+
+1757
+02:16:56,946 --> 02:16:58,613
+Onde está o detonador?
+
+1758
+02:16:58,614 --> 02:17:01,326
+Mas eu nunca escapei...
+
+1759
+02:17:02,076 --> 02:17:03,703
+Mas a criança...
+
+1760
+02:17:05,413 --> 02:17:08,039
+A criança de Ra's Al Ghul
+conseguiu escapar.
+
+1761
+02:17:08,040 --> 02:17:11,294
+<i>Mas ele não é
+a criança de Ra's Al Ghul.</i>
+
+1762
+02:17:13,963 --> 02:17:15,456
+Sou eu.
+
+1763
+02:17:15,882 --> 02:17:17,675
+Mas apesar
+de não ser comum...
+
+1764
+02:17:18,968 --> 02:17:20,795
+sou uma cidadã.
+
+1765
+02:17:41,031 --> 02:17:42,366
+<i>Miranda...</i>
+
+1766
+02:17:44,369 --> 02:17:46,202
+por quê?
+
+1767
+02:17:46,603 --> 02:17:48,154
+Talia.
+
+1768
+02:17:48,956 --> 02:17:51,667
+Minha mãe me chamou de Talia
+antes de ser morta.
+
+1769
+02:17:52,250 --> 02:17:55,630
+Assim como eu seria morta
+se não fosse meu protetor...
+
+1770
+02:17:56,438 --> 02:17:58,031
+Bane.
+
+1771
+02:18:05,347 --> 02:18:06,939
+Adeus.
+
+1772
+02:18:09,059 --> 02:18:11,228
+Eu escalei o poço.
+
+1773
+02:18:16,858 --> 02:18:19,319
+<i>Eu achei meu pai...</i>
+
+1774
+02:18:22,038 --> 02:18:24,758
+e voltei com ele
+para ter a minha vingança.
+
+1775
+02:18:25,659 --> 02:18:27,785
+Mas àquela altura...
+
+1776
+02:18:28,787 --> 02:18:32,415
+os presos e o doutor já tinham
+desfigurado o meu amigo.
+
+1777
+02:18:32,416 --> 02:18:34,209
+<i>Meu protetor.</i>
+
+1778
+02:18:37,879 --> 02:18:41,132
+<i>A Liga nos aceitou
+e treinou.</i>
+
+1779
+02:18:41,424 --> 02:18:44,135
+<i>Mas meu pai
+não pôde aceitar Bane.</i>
+
+1780
+02:18:44,802 --> 02:18:47,453
+<i>Ele só via um monstro.</i>
+
+1781
+02:18:47,454 --> 02:18:49,064
+<i>Cuja própria existência...</i>
+
+1782
+02:18:49,065 --> 02:18:51,141
+<i>era uma lembrança
+do inferno...</i>
+
+1783
+02:18:51,142 --> 02:18:52,853
+<i>no qual
+deixou a esposa morrer.</i>
+
+1784
+02:18:53,361 --> 02:18:56,438
+Ele excomungou Bane
+da Liga das Sombras.
+
+1785
+02:18:56,439 --> 02:18:58,150
+<i>O seu único crime...</i>
+
+1786
+02:18:58,942 --> 02:19:00,943
+foi me amar.
+
+1787
+02:19:02,988 --> 02:19:06,282
+Eu não pude
+perdoar meu pai.
+
+1788
+02:19:10,928 --> 02:19:12,497
+Até você matá-lo.
+
+1789
+02:19:29,930 --> 02:19:34,810
+Ele tentou matar milhões
+de pessoas inocentes.
+
+1790
+02:19:35,436 --> 02:19:39,982
+Inocente é uma palavra forte
+para se usar em Gotham, Bruce.
+
+1791
+02:19:41,941 --> 02:19:45,029
+Vou honrar meu pai,
+terminando a obra dele.
+
+1792
+02:19:57,382 --> 02:19:59,475
+Vingança contra o homem
+que o matou...
+
+1793
+02:19:59,476 --> 02:20:01,193
+é só uma recompensa...
+
+1794
+02:20:01,194 --> 02:20:02,680
+pela minha paciência.
+
+1795
+02:20:03,505 --> 02:20:04,998
+Veja só...
+
+1796
+02:20:06,049 --> 02:20:08,509
+É a faca vagarosa...
+
+1797
+02:20:08,510 --> 02:20:10,804
+a faca que espera a hora.
+
+1798
+02:20:14,099 --> 02:20:18,520
+A faca que espera anos...
+
+1799
+02:20:18,521 --> 02:20:20,104
+sem se esquecer...
+
+1800
+02:20:20,105 --> 02:20:23,484
+e então atravessa suavemente
+pelos ossos.
+
+1801
+02:20:24,651 --> 02:20:29,054
+Essa é a faca
+que corta mais fundo.
+
+1802
+02:20:29,055 --> 02:20:30,447
+Por favor.
+
+1803
+02:20:37,079 --> 02:20:39,156
+Talvez... sua faca...
+
+1804
+02:20:39,957 --> 02:20:42,158
+tenha sido
+devagar demais.
+
+1805
+02:20:42,159 --> 02:20:44,877
+- O caminhão foi atacado.
+- Gordon.
+
+1806
+02:20:44,878 --> 02:20:47,172
+Deu a ele uma forma
+de bloquear meu sinal.
+
+1807
+02:20:47,631 --> 02:20:49,124
+Não importa.
+
+1808
+02:20:51,050 --> 02:20:53,404
+Acabou de ganhar
+11 minutos para Gotham.
+
+1809
+02:20:58,017 --> 02:21:00,644
+Vamos!
+Mais rápido!
+
+1810
+02:21:06,858 --> 02:21:09,401
+<i>Para trás.
+O que está fazendo?</i>
+
+1811
+02:21:09,402 --> 02:21:12,446
+Sou Blake da Polícia.
+Vou levá-los a um lugar seguro.
+
+1812
+02:21:12,447 --> 02:21:14,656
+Vai matar todo mundo!
+
+1813
+02:21:14,657 --> 02:21:17,934
+Se alguém atravessar a ponte,
+vão explodir a cidade.
+
+1814
+02:21:17,935 --> 02:21:20,946
+Vão explodir de qualquer jeito.
+Precisamos passar pela ponte.
+
+1815
+02:21:20,947 --> 02:21:24,541
+Detetive, se der mais um passo,
+vamos atirar em você!
+
+1816
+02:21:24,542 --> 02:21:28,296
+E se der dois passos,
+vamos explodir a ponte!
+
+1817
+02:21:30,298 --> 02:21:32,425
+Voltem para o ônibus
+e esperem por mim!
+
+1818
+02:21:32,426 --> 02:21:34,218
+Entenderam?
+Voltem e esperem!
+
+1819
+02:21:36,847 --> 02:21:38,305
+<i>Preparem um comboio.</i>
+
+1820
+02:21:38,306 --> 02:21:40,599
+Precisamos proteger a bomba
+até que exploda.
+
+1821
+02:21:42,185 --> 02:21:45,979
+Não o mate.
+Quero que ele sinta o calor.
+
+1822
+02:21:46,898 --> 02:21:51,611
+O fogo das 12 milhões de almas
+que você decepcionou.
+
+1823
+02:21:57,241 --> 02:21:59,077
+Adeus, meu amigo.
+
+1824
+02:22:08,962 --> 02:22:12,882
+Continuem em frente!
+Lutem nas escadas!
+
+1825
+02:22:20,814 --> 02:22:22,148
+Atire neles.
+
+1826
+02:22:23,016 --> 02:22:24,518
+Atire em todos eles.
+
+1827
+02:22:33,902 --> 02:22:37,155
+Nós dois sabemos
+que devo matar você agora.
+
+1828
+02:22:40,200 --> 02:22:43,078
+Você só vai precisar
+imaginar o fogo!
+
+1829
+02:22:50,459 --> 02:22:52,504
+Sobre aquilo
+de não usar armas...
+
+1830
+02:22:53,462 --> 02:22:56,258
+Não sei se sou tão a favor
+quanto você.
+
+1831
+02:23:09,729 --> 02:23:11,223
+Aproxime-se.
+
+1832
+02:23:14,192 --> 02:23:15,861
+Fique assim.
+
+1833
+02:23:28,164 --> 02:23:31,292
+Precisamos levar o comboio
+até o reator.
+
+1834
+02:23:33,044 --> 02:23:36,338
+Preciso de você em terra.
+Eu vou estar no ar. Vá.
+
+1835
+02:23:36,339 --> 02:23:38,381
+Mas a situação mudou!
+
+1836
+02:23:38,382 --> 02:23:39,967
+Suas ordens
+estão ultrapassadas!
+
+1837
+02:23:40,301 --> 02:23:43,888
+Sou um policial como você
+e vou atravessar!
+
+1838
+02:23:44,788 --> 02:23:46,424
+Por favor, não atire.
+
+1839
+02:23:48,893 --> 02:23:50,394
+Atire nos pés dele.
+
+1840
+02:23:59,862 --> 02:24:02,529
+Nada como um pouco
+de superioridade aérea.
+
+1841
+02:24:02,530 --> 02:24:04,757
+Detetive, por favor, pare!
+
+1842
+02:24:05,158 --> 02:24:07,661
+Por favor, detetive, pare!
+
+1843
+02:24:08,161 --> 02:24:10,205
+Pare de andar!
+
+1844
+02:24:10,581 --> 02:24:12,024
+Exploda!
+
+1845
+02:24:12,325 --> 02:24:13,625
+Anda!
+
+1846
+02:24:25,178 --> 02:24:27,723
+Precisa trazer a bomba aqui.
+Você tem 10 minutos.
+
+1847
+02:24:38,316 --> 02:24:40,901
+Estão nos forçando
+até a entrada do reator.
+
+1848
+02:24:40,902 --> 02:24:43,405
+Vão tentar reconectá-lo
+ao núcleo.
+
+1849
+02:24:44,488 --> 02:24:45,907
+Seus idiotas!
+
+1850
+02:24:46,408 --> 02:24:49,867
+<i>Seus filhos da mãe!
+Vocês vão nos matar!</i>
+
+1851
+02:24:49,868 --> 02:24:52,205
+<i>Só obedecem ordens!</i>
+
+1852
+02:24:52,580 --> 02:24:54,833
+Meninos, façam um círculo
+e abaixem a cabeça.
+
+1853
+02:24:57,377 --> 02:24:58,712
+Está emparelhado.
+
+1854
+02:25:47,344 --> 02:25:49,635
+<i>Padre, vamos por todos
+de volta no ônibus!</i>
+
+1855
+02:25:49,636 --> 02:25:51,304
+<i>Vamos, de volta ao ônibus!</i>
+
+1856
+02:25:51,305 --> 02:25:53,640
+Não temos para onde ir!
+
+1857
+02:25:54,641 --> 02:25:55,976
+Para o ônibus!
+
+1858
+02:26:52,365 --> 02:26:54,910
+Tem que fazer o caminhão
+vir para leste!
+
+1859
+02:26:59,163 --> 02:27:00,666
+Vá em frente!
+
+1860
+02:27:32,738 --> 02:27:36,074
+Ajude-me aqui!
+Podemos pôr um cabo nele!
+
+1861
+02:27:42,830 --> 02:27:45,666
+Fox me mostrou
+como neutralizar o reator.
+
+1862
+02:27:49,546 --> 02:27:51,005
+Meu Deus!
+
+1863
+02:27:54,301 --> 02:27:57,845
+Incluindo a inundação
+de emergência.
+
+1864
+02:28:14,278 --> 02:28:18,281
+Não há mais...
+como essa bomba...
+
+1865
+02:28:19,116 --> 02:28:20,785
+ser desativada.
+
+1866
+02:28:21,911 --> 02:28:23,327
+O que você está fazendo?
+
+1867
+02:28:23,328 --> 02:28:25,830
+Proteção da explosão!
+Vamos sobreviver, rápido!
+
+1868
+02:28:25,831 --> 02:28:28,540
+- É uma bomba atômica!
+- Precisam saber disso agora?
+
+1869
+02:28:28,541 --> 02:28:30,252
+Morrendo sem esperança?
+Vamos!
+
+1870
+02:28:30,836 --> 02:28:32,546
+Preparem-se.
+
+1871
+02:28:34,131 --> 02:28:36,342
+<i>O trabalho do meu pai...</i>
+
+1872
+02:28:37,385 --> 02:28:38,844
+está terminado.
+
+1873
+02:28:44,976 --> 02:28:48,103
+- O que está fazendo?
+- Posso jogá-la na baía!
+
+1874
+02:28:48,104 --> 02:28:50,604
+Programe pra jogar na água
+e dê o fora!
+
+1875
+02:28:50,605 --> 02:28:52,023
+Sem piloto automático.
+
+1876
+02:28:53,358 --> 02:28:56,185
+Podia ter ido a qualquer lugar,
+fazer qualquer coisa...
+
+1877
+02:28:56,186 --> 02:28:57,486
+mas voltou aqui.
+
+1878
+02:28:57,487 --> 02:29:00,949
+- Você também.
+- Somos dois idiotas.
+
+1879
+02:29:08,749 --> 02:29:11,883
+- Nunca quis saber quem você é.
+- Estava certo.
+
+1880
+02:29:11,884 --> 02:29:14,362
+O povo não devia saber
+quem é o herói que o salvou?
+
+1881
+02:29:14,363 --> 02:29:16,063
+<i>Um herói pode ser
+qualquer um.</i>
+
+1882
+02:29:16,064 --> 02:29:19,342
+Mesmo um homem fazendo algo
+tão simples e reconfortante...
+
+1883
+02:29:19,343 --> 02:29:21,593
+como pôr um casaco
+nos ombros de um menino,
+
+1884
+02:29:21,594 --> 02:29:24,140
+para que ele saiba
+que o mundo não acabou.
+
+1885
+02:29:42,239 --> 02:29:44,117
+Bruce Wayne?
+
+1886
+02:29:57,796 --> 02:30:00,508
+Rápido, vamos logo!
+Você também. Vamos, Padre.
+
+1887
+02:30:19,485 --> 02:30:21,695
+Abaixem-se, vai explodir!
+
+1888
+02:30:22,781 --> 02:30:24,907
+Não! É o Batman!
+
+1889
+02:31:12,955 --> 02:31:14,580
+Foi uma detonação.
+
+1890
+02:31:21,838 --> 02:31:23,798
+Explodiu na baía,
+fora da cidade.
+
+1891
+02:31:43,485 --> 02:31:45,653
+<i>Eu vejo
+uma bela cidade...</i>
+
+1892
+02:31:46,195 --> 02:31:51,033
+<i>e um povo brilhante
+ressurgindo do abismo.</i>
+
+1893
+02:31:51,992 --> 02:31:56,412
+<i>Eu vejo vidas
+pelas quais me sacrifiquei...</i>
+
+1894
+02:31:56,413 --> 02:31:59,625
+<i>tranquilas, úteis...</i>
+
+1895
+02:31:59,626 --> 02:32:02,128
+<i>prósperas e felizes.</i>
+
+1896
+02:32:04,047 --> 02:32:08,092
+<i>Sinto que sou bem-vindo
+em seus corações...</i>
+
+1897
+02:32:09,302 --> 02:32:12,347
+<i>e nos corações
+dos descendentes...</i>
+
+1898
+02:32:13,598 --> 02:32:15,433
+<i>das gerações por vir.</i>
+
+1899
+02:32:17,852 --> 02:32:22,023
+É uma atitude melhor
+a que tomo agora.
+
+1900
+02:32:23,024 --> 02:32:25,026
+A melhor que já tomei.
+
+1901
+02:32:26,026 --> 02:32:30,197
+É um lugar muito melhor
+para o qual me vou.
+
+1902
+02:32:33,200 --> 02:32:35,160
+O melhor que já conheci.
+
+1903
+02:32:53,595 --> 02:32:56,849
+Sinto muito,
+eu fracassei.
+
+1904
+02:32:59,017 --> 02:33:00,769
+Você confiou em mim...
+
+1905
+02:33:02,145 --> 02:33:03,938
+e eu fracassei.
+
+1906
+02:33:07,484 --> 02:33:09,360
+Posso mudar sua decisão?
+
+1907
+02:33:11,655 --> 02:33:13,532
+Sobre deixar a Polícia?
+
+1908
+02:33:14,490 --> 02:33:16,366
+Sabe aquilo
+que o senhor disse...
+
+1909
+02:33:16,367 --> 02:33:18,452
+sobre estruturas
+que se tornam correntes?
+
+1910
+02:33:18,453 --> 02:33:20,912
+<i>O senhor tinha razão.
+Não posso aceitar...</i>
+
+1911
+02:33:20,913 --> 02:33:22,415
+<i>essa injustiça.</i>
+
+1912
+02:33:22,416 --> 02:33:23,750
+É que...
+
+1913
+02:33:24,084 --> 02:33:26,877
+Ninguém vai saber
+quem salvou a cidade inteira.
+
+1914
+02:33:26,878 --> 02:33:28,213
+Eles sabem.
+
+1915
+02:33:30,089 --> 02:33:31,800
+Foi o Batman.
+
+1916
+02:33:49,357 --> 02:33:51,775
+<i>O testamento do sr. Wayne
+não foi alterado...</i>
+
+1917
+02:33:51,776 --> 02:33:53,360
+<i>suas posses mais modestas.</i>
+
+1918
+02:33:53,361 --> 02:33:57,073
+Mas há bens consideráveis
+a serem transmitidos.
+
+1919
+02:33:57,490 --> 02:33:59,533
+<i>Os objetos do interior
+serão vendidos,</i>
+
+1920
+02:33:59,534 --> 02:34:01,453
+<i>para pagamento
+das dívidas da casa.</i>
+
+1921
+02:34:01,454 --> 02:34:03,287
+<i>Todo o resto foi deixado...</i>
+
+1922
+02:34:03,288 --> 02:34:05,290
+<i>para Alfred J. Pennyworth.</i>
+
+1923
+02:34:07,168 --> 02:34:10,210
+<i>Casa e terreno foram deixados
+para a cidade de Gotham,</i>
+
+1924
+02:34:10,211 --> 02:34:15,007
+<i>desde que não sejam demolidos,
+alterados ou interferidos.</i>
+
+1925
+02:34:15,716 --> 02:34:19,762
+<i>E devem ser usados com um único
+e exclusivo propósito.</i>
+
+1926
+02:34:21,097 --> 02:34:22,806
+<i>Hospedagem e cuidado...</i>
+
+1927
+02:34:22,807 --> 02:34:25,392
+<i>de crianças em risco
+e órfãos da cidade.</i>
+
+1928
+02:34:26,102 --> 02:34:30,189
+<i>Minha assistente os ajudará
+com itens menores e instruções.</i>
+
+1929
+02:34:30,689 --> 02:34:33,359
+- John Blake?
+- Nada para você.
+
+1930
+02:34:33,360 --> 02:34:35,894
+Tente pelo
+meu primeiro nome.
+
+1931
+02:34:39,198 --> 02:34:41,700
+Devia usar esse nome.
+Gosto dele.
+
+1932
+02:34:41,701 --> 02:34:44,119
+- Robin.
+- Obrigado.
+
+1933
+02:34:44,120 --> 02:34:46,580
+<i>Pra que verificar
+o software de estabilização?</i>
+
+1934
+02:34:46,581 --> 02:34:48,624
+O sistema de piloto automático
+é obsoleto.
+
+1935
+02:34:48,625 --> 02:34:52,168
+Por favor, só quero saber
+se poderia ser consertado.
+
+1936
+02:34:52,169 --> 02:34:54,462
+Mas, sr. Fox,
+ele já foi consertado.
+
+1937
+02:34:54,463 --> 02:34:57,006
+<i>Atualização de software
+feita há seis meses.</i>
+
+1938
+02:34:57,007 --> 02:34:58,592
+Veja quem atualizou.
+
+1939
+02:35:01,628 --> 02:35:03,130
+<i>Bruce Wayne.</i>
+
+1940
+02:35:04,056 --> 02:35:06,432
+- Acharam o item que falta?
+- Ainda não.
+
+1941
+02:35:06,433 --> 02:35:08,226
+Melhor procurar em tudo.
+
+1942
+02:35:08,227 --> 02:35:11,355
+Não podemos dar como perdido
+o colar de pérolas da lista.
+
+1943
+02:36:51,627 --> 02:36:54,130
+<b>O CAVALEIRO DAS TREVAS RESSURGE</b>
+
+1944
+02:36:55,000 --> 02:36:58,129
+Best watched using Open Subtitles MKV Player
+
+1945
+02:36:59,000 --> 02:37:02,100
+Best watched using Open Subtitles MKV Player
