@@ -1,0 +1,3235 @@
+1
+00:00:45,545 --> 00:00:47,755
+<i>Isso não é um exercício, soldado.</i>
+
+2
+00:00:49,132 --> 00:00:50,799
+<i>Estamos entendidos?</i>
+
+3
+00:00:52,552 --> 00:00:55,554
+<i>É uma missão de verdade,</i>
+
+4
+00:00:55,930 --> 00:00:57,139
+<i>e você é parte dela.</i>
+
+5
+00:00:59,267 --> 00:01:01,810
+<i>O treinamento acabou.</i>
+
+6
+00:01:03,146 --> 00:01:04,772
+<i>O treinamento acabou.</i>
+
+7
+00:01:51,986 --> 00:01:53,737
+Estou bem.
+
+8
+00:01:55,281 --> 00:01:56,949
+É só uma dor de cabeça.
+
+9
+00:02:02,539 --> 00:02:04,248
+Você está quente.
+
+10
+00:02:19,222 --> 00:02:20,556
+Está tudo bem.
+
+11
+00:02:22,809 --> 00:02:24,434
+É só uma dor de cabeça.
+
+12
+00:02:45,790 --> 00:02:48,083
+-Algum dado novo?
+-Não.
+
+13
+00:02:50,587 --> 00:02:52,671
+Uma coisa ou outra.
+
+14
+00:02:55,216 --> 00:02:57,426
+Ouço a voz do Conklin
+
+15
+00:02:58,553 --> 00:03:01,096
+e vejo aquela foto...
+
+16
+00:03:03,266 --> 00:03:05,309
+Não consigo fixá-la na mente.
+
+17
+00:03:05,393 --> 00:03:08,687
+-Tem certeza de que não é um pesadelo?
+-Tenho.
+
+18
+00:03:08,771 --> 00:03:10,439
+Era uma missão.
+
+19
+00:03:13,067 --> 00:03:14,693
+E eu estava lá.
+
+20
+00:03:15,028 --> 00:03:17,070
+Deveríamos anotar isso.
+
+21
+00:03:20,450 --> 00:03:22,743
+Dois anos escrevendo naquele caderno...
+
+22
+00:03:22,827 --> 00:03:24,703
+-Não foram dois anos.
+-É a mesma coisa
+
+23
+00:03:24,787 --> 00:03:27,039
+o tempo todo.
+
+24
+00:03:27,123 --> 00:03:29,208
+Por isso, anotamos tudo.
+
+25
+00:03:29,292 --> 00:03:32,711
+Mais cedo ou mais tarde,
+vai se lembrar de algo importante.
+
+26
+00:03:34,631 --> 00:03:36,882
+Eu me lembro de algo importante.
+
+27
+00:03:37,967 --> 00:03:39,468
+O tempo todo.
+
+28
+00:04:36,693 --> 00:04:39,361
+BERLlM, ALEMANHA
+
+29
+00:04:40,154 --> 00:04:43,365
+<i>-Quero dar mais uma olhada.</i>
+<i>-Ouçam, todas as unidades.</i>
+
+30
+00:04:43,449 --> 00:04:45,409
+<i>Aguardando sinal para agir.</i>
+
+31
+00:04:45,493 --> 00:04:47,619
+Survey 2, fez contato visual?
+
+32
+00:04:47,704 --> 00:04:50,914
+<i>-Fala Survey 2. Contato visual.</i>
+-Entendido.
+
+33
+00:04:52,375 --> 00:04:53,959
+Survey 1, fala Central.
+
+34
+00:04:54,544 --> 00:04:56,003
+<i>Fez contato visual?</i>
+
+35
+00:04:57,547 --> 00:05:01,091
+Central, aqui é Survey 1.
+Mobile 1 em movimento.
+
+36
+00:05:04,929 --> 00:05:07,055
+Survey 3, isso é bom.
+
+37
+00:05:10,393 --> 00:05:13,020
+-Central.
+<i>-Diretor Marshall, de Langley.</i>
+
+38
+00:05:14,230 --> 00:05:16,356
+-Langley.
+-A postos.
+
+39
+00:05:17,233 --> 00:05:18,233
+Martin?
+
+40
+00:05:18,318 --> 00:05:19,568
+ClA
+LANGLEY, VlRGÍNlA
+
+41
+00:05:19,652 --> 00:05:21,737
+<i>Estou aqui.</i>
+<i>Donnie e Jack Weller também.</i>
+
+42
+00:05:21,863 --> 00:05:24,781
+Estão usando todos os recursos.
+
+43
+00:05:24,866 --> 00:05:27,326
+
+<i>-É por isso que viemos também.</i>
+-É muito dinheiro, Pam.
+
+44
+00:05:27,410 --> 00:05:28,827
+<i>Para um ladrão, um informante.</i>
+
+45
+00:05:28,911 --> 00:05:31,330
+Se eliminarmos alguns suspeitos,
+
+46
+00:05:31,414 --> 00:05:33,165
+já vale dez vezes mais.
+
+47
+00:05:33,249 --> 00:05:36,793
+<i>Central, aqui é Survey 2.</i>
+<i>Eles estão se separando.</i>
+
+48
+00:05:37,378 --> 00:05:39,212
+<i>Mobile 1 está entrando no prédio.</i>
+
+49
+00:05:39,297 --> 00:05:41,506
+O vendedor está a postos.
+
+50
+00:05:41,591 --> 00:05:43,633
+Não há mais o que discutir.
+
+51
+00:05:50,266 --> 00:05:53,143
+-Tudo bem, Pam. Você é quem sabe.
+-Vão.
+
+52
+00:05:53,227 --> 00:05:54,978
+-Estamos indo.
+-Só contato auditivo.
+
+53
+00:05:55,063 --> 00:05:57,272
+Mudando para a canal 1.
+
+54
+00:05:58,107 --> 00:06:00,025
+Entendido.
+
+55
+00:06:37,355 --> 00:06:38,730
+Está com você?
+
+56
+00:06:38,815 --> 00:06:41,274
+Está. Venha comigo.
+
+57
+00:06:59,377 --> 00:07:02,421
+Mobile 1 e vendedor entraram no escritório.
+
+58
+00:07:02,505 --> 00:07:03,922
+Entendido.
+
+59
+00:07:18,020 --> 00:07:19,479
+lsso é tudo?
+
+60
+00:07:20,690 --> 00:07:25,527
+Está tudo aí. Esse dossiê
+prova quem roubou seu dinheiro.
+
+61
+00:07:55,391 --> 00:07:56,683
+Tiros.
+
+62
+00:08:02,482 --> 00:08:04,900
+Survey 1, responda.
+Quero saber o que aconteceu.
+
+63
+00:08:06,110 --> 00:08:07,277
+Vê algum vulto?
+
+64
+00:08:07,361 --> 00:08:08,320
+Eu não.
+
+65
+00:08:08,404 --> 00:08:10,238
+Mande alguém para lá agora.
+
+66
+00:08:10,323 --> 00:08:11,698
+Rápido, Kurt.
+
+67
+00:08:13,576 --> 00:08:16,661
+-Contato visual.
+-Mobile 1, está me ouvindo?
+
+68
+00:08:16,746 --> 00:08:19,122
+-Está ouvindo, Mobile 1?
+-Desculpe.
+
+69
+00:08:19,207 --> 00:08:20,832
+O que está vendo, Teddy?
+
+70
+00:08:22,168 --> 00:08:23,502
+Fiquem de olho.
+
+71
+00:08:40,561 --> 00:08:43,188
+<i>...Conferência Anual da Associação</i>
+<i>do Petróleo em Berlim,</i>
+
+72
+00:08:43,272 --> 00:08:46,691
+<i>o executivo-chefe da Pecos Oil,</i>
+<i>Yuri Gretkov.</i>
+
+73
+00:08:46,943 --> 00:08:51,446
+<i>Em apenas seis anos, Gretkov</i>
+<i>transformou a Pecos em um império...</i>
+
+74
+00:08:55,993 --> 00:08:58,286
+<i>...um dos homens mais ricos da Rússia.</i>
+
+75
+00:08:58,371 --> 00:09:00,956
+<i>Depois de obter direitos</i>
+<i>de exploração no Mar Cáspio...</i>
+
+76
+00:09:06,462 --> 00:09:07,671
+Está atrasado.
+
+77
+00:09:09,507 --> 00:09:10,757
+O dossiê.
+
+78
+00:09:20,810 --> 00:09:23,395
+Receberá o resto
+quando terminar o trabalho.
+
+79
+00:09:27,942 --> 00:09:29,818
+Preciso tomar banho.
+
+80
+00:09:30,319 --> 00:09:34,322
+Depressa. Seu avião sai em uma hora.
+
+81
+00:09:35,575 --> 00:09:38,618
+Tem certeza
+de que a informação é confiável?
+
+82
+00:09:39,328 --> 00:09:41,121
+Ele estará lá.
+
+83
+00:09:56,178 --> 00:09:57,470
+Quanto?
+
+84
+00:10:59,992 --> 00:11:01,826
+Metrô - Ônibus - Bonde - Trem - Onde?
+
+85
+00:11:01,911 --> 00:11:03,078
+Acho que as fotos ajudam!
+
+86
+00:11:04,413 --> 00:11:05,580
+
+ESTAÇÃO DE TREM
+Alguém atacou -NEGÓClOS
+
+87
+00:11:10,544 --> 00:11:13,088
+Jornalista sírio morre em acidente de carro
+
+88
+00:11:13,255 --> 00:11:14,756
+Causa da morte - Armas usadas
+
+89
+00:11:15,841 --> 00:11:18,426
+General sérvio se afoga
+em acidente de barco
+
+90
+00:11:19,720 --> 00:11:20,720
+Munique
+Zurique
+
+91
+00:11:25,184 --> 00:11:29,270
+QUEM EU ERA?
+Conklin - russo - chuva - carro -Treadstone
+
+92
+00:12:31,167 --> 00:12:33,168
+-Bom dia, senhor.
+-Bom dia.
+
+93
+00:12:34,670 --> 00:12:37,839
+Ele é meu amigo.
+Houve uma morte na família.
+
+94
+00:12:37,923 --> 00:12:40,341
+Será que o senhor viu?
+
+95
+00:13:24,678 --> 00:13:26,221
+-Oi.
+-Entre.
+
+96
+00:13:26,388 --> 00:13:28,556
+-Qual é o problema?
+-Fomos descobertos.
+
+97
+00:13:28,974 --> 00:13:31,476
+-Como?
+-Facilitamos.
+
+98
+00:13:45,115 --> 00:13:46,199
+ldiota!
+
+99
+00:13:49,662 --> 00:13:51,788
+É a segunda vez que vejo esse cara.
+
+100
+00:13:51,872 --> 00:13:53,832
+Ele estava nos telégrafos.
+
+101
+00:13:53,916 --> 00:13:56,167
+-Tem certeza?
+-Algo está errado.
+
+102
+00:13:56,252 --> 00:14:00,296
+O cara, o carro, a roupa dele...
+Há algo errado.
+
+103
+00:14:03,050 --> 00:14:05,260
+Jason, pode ser qualquer um.
+
+104
+00:14:05,344 --> 00:14:07,512
+lsso é sério.
+
+105
+00:14:07,721 --> 00:14:09,347
+É ele ali.
+
+106
+00:14:09,431 --> 00:14:11,975
+Abaixe-se. No Hyundai prata.
+
+107
+00:14:32,621 --> 00:14:34,122
+A que distância ele está?
+
+108
+00:14:37,001 --> 00:14:38,293
+A que distância?
+
+109
+00:14:40,296 --> 00:14:41,963
+100 metros.
+
+110
+00:14:59,565 --> 00:15:02,400
+Pegue o volante. Vai dirigir.
+
+111
+00:15:03,402 --> 00:15:04,611
+Vamos trocar.
+
+112
+00:15:07,323 --> 00:15:09,324
+Vá para a ponte.
+
+113
+00:15:29,345 --> 00:15:32,263
+-Vire aqui. Corte pelo mato.
+-Segure-se.
+
+114
+00:16:19,979 --> 00:16:23,314
+Vá para a cabana.
+Encontro você lá em uma hora.
+
+115
+00:16:23,399 --> 00:16:25,441
+Vou me jogar do carro depois da ponte.
+
+116
+00:16:26,777 --> 00:16:29,320
+-E se estiver enganado?
+-É Treadstone.
+
+117
+00:16:29,405 --> 00:16:30,655
+Não faça isso. Eu não quero!
+
+118
+00:16:30,739 --> 00:16:32,657
+Eu os avisei.
+
+119
+00:16:32,741 --> 00:16:34,826
+Avisei a eles o que aconteceria.
+
+120
+00:16:34,910 --> 00:16:36,411
+Desse jeito, isso nunca vai acabar.
+
+121
+00:16:36,495 --> 00:16:39,163
+Não temos escolha.
+
+122
+00:16:39,248 --> 00:16:40,665
+Você tem, sim.
+
+123
+00:18:58,011 --> 00:18:59,387
+Obrigado.
+
+124
+00:19:00,681 --> 00:19:04,475
+Havia dois explosivos nos dutos
+de transmissão de força. Um falhou.
+
+125
+00:19:04,560 --> 00:19:06,519
+Essa é a impressão digital.
+
+126
+00:19:06,603 --> 00:19:09,230
+-Os alemães não a identificaram?
+-Ninguém identificou.
+
+127
+00:19:09,314 --> 00:19:14,193
+Checamos todas as bases de dados.
+Mas estamos conectados a Langley.
+
+128
+00:19:14,319 --> 00:19:15,862
+-lnicie.
+-Está bem.
+
+129
+00:19:20,909 --> 00:19:21,909
+Resultado positivo
+
+130
+00:19:22,202 --> 00:19:25,037
+ACESSO NEGADO
+PROJETO TREADSTONE
+
+131
+00:19:25,122 --> 00:19:27,248
+Que diabos é Treadstone?
+
+132
+00:19:29,126 --> 00:19:32,461
+Vamos para Langley.
+
+133
+00:19:33,338 --> 00:19:38,259
+AEROPORTO lNTERNAClONAL
+SHEREMETYEVO -MOSCOU, RÚSSlA
+
+134
+00:19:56,111 --> 00:19:57,153
+Bourne?
+
+135
+00:19:57,529 --> 00:19:58,571
+Morto.
+
+136
+00:19:58,780 --> 00:20:00,907
+Tem certeza?
+
+137
+00:20:01,450 --> 00:20:03,367
+Não pode haver margem...
+
+138
+00:20:03,535 --> 00:20:08,122
+Está tudo acabado.
+Bourne, dossiê, impressão digital.
+
+139
+00:20:14,755 --> 00:20:18,007
+Entrarei em contato em um mês.
+
+140
+00:22:04,948 --> 00:22:06,407
+Dois homens mortos,
+
+141
+00:22:07,576 --> 00:22:10,578
+três milhões roubados,
+nada de dossiê Neski
+
+142
+00:22:10,912 --> 00:22:12,705
+e muita publicidade.
+
+143
+00:22:12,789 --> 00:22:15,249
+Essa agência ainda requer sigilo, não?
+
+144
+00:22:15,334 --> 00:22:17,501
+Não vejo o que aconteceu
+como um fracasso.
+
+145
+00:22:17,586 --> 00:22:20,546
+-Chama isso de sucesso?
+-Temos uma pista.
+
+146
+00:22:20,630 --> 00:22:24,759
+A impressão digital do assassino.
+É um de nós.
+
+147
+00:22:26,595 --> 00:22:30,139
+-Quem?
+-O que sabe sobre Treadstone?
+
+148
+00:22:31,141 --> 00:22:34,060
+-Treadstone?
+-É para onde tudo aponta.
+
+149
+00:22:34,144 --> 00:22:37,188
+Se quer uma resposta,
+vai ter que me dar
+
+150
+00:22:37,272 --> 00:22:39,482
+acesso irrestrito ao projeto.
+
+151
+00:22:42,903 --> 00:22:44,987
+Temos uma pista, Marty.
+
+152
+00:22:47,574 --> 00:22:48,824
+Muito bem.
+
+153
+00:22:49,826 --> 00:22:51,202
+Está autorizada.
+
+154
+00:22:51,286 --> 00:22:52,870
+Mas
+
+155
+00:22:52,954 --> 00:22:54,622
+sua rédea é curta.
+
+156
+00:22:54,748 --> 00:22:59,585
+Quero um relatório completo,
+detalhando cada passo seu.
+
+157
+00:22:59,669 --> 00:23:00,795
+Sim, senhor.
+
+158
+00:23:06,093 --> 00:23:09,345
+NÁPOLES, lTÁLlA
+
+159
+00:23:27,531 --> 00:23:28,531
+Resultado positivo
+
+160
+00:23:43,004 --> 00:23:44,547
+RELATÓRlO DO PROJETO
+
+161
+00:23:54,641 --> 00:23:57,184
+Notas: Missão abortada. Deserção.
+Diagnóstico provável: amnésia
+
+162
+00:23:57,269 --> 00:23:59,937
+Seu último contato conhecido na Agência
+era NlCOLETTE PARSONS
+
+163
+00:24:07,863 --> 00:24:09,530
+MORTO EM SERVlÇO
+
+164
+00:24:19,708 --> 00:24:21,125
+<i>-Ward?</i>
+-Sim?
+
+165
+00:24:21,209 --> 00:24:24,503
+<i>-Pamela Landy.</i>
+-Oi, Pam. Como posso ajudar?
+
+166
+00:24:24,588 --> 00:24:27,214
+<i>-Pode me dar uns minutos?</i>
+-Para quê?
+
+167
+00:24:27,299 --> 00:24:30,551
+<i>-Estou livre agora.</i>
+-Mau sinal.
+
+168
+00:24:30,635 --> 00:24:32,386
+Vou ver minha agenda.
+
+169
+00:24:36,183 --> 00:24:37,516
+Com licença, preciso...
+
+170
+00:24:37,601 --> 00:24:40,895
+-Posso ajudar?
+-Vim ver o Sr. Abbott.
+
+171
+00:24:40,979 --> 00:24:43,647
+Daqui a 20 minutos? Até já.
+
+172
+00:24:52,574 --> 00:24:55,034
+-Operação Treadstone.
+-Nunca ouvi falar.
+
+173
+00:24:55,118 --> 00:24:56,410
+Essa não cola.
+
+174
+00:24:56,495 --> 00:25:00,164
+Com todo o respeito,
+está indo além da sua competência.
+
+175
+00:25:00,248 --> 00:25:03,501
+Estou autorizada a acessar
+
+176
+00:25:03,585 --> 00:25:07,254
+tudo o que diz respeito a Treadstone.
+
+177
+00:25:10,425 --> 00:25:14,053
+-Então, o que quer?
+-Quero saber o que é.
+
+178
+00:25:14,137 --> 00:25:17,014
+Esquadrão da morte. Sigilo absoluto.
+
+179
+00:25:17,098 --> 00:25:18,891
+Foi arquivado há dois anos.
+
+180
+00:25:18,975 --> 00:25:21,519
+Ninguém quer ouvir falar em Treadstone.
+
+181
+00:25:21,603 --> 00:25:25,731
+Leve isso de volta para Marty
+e diga a ele o que você está fazendo.
+
+182
+00:25:25,815 --> 00:25:29,818
+Ele sabe.
+Eu fui aos arquivos e peguei as pastas.
+
+183
+00:25:31,821 --> 00:25:34,698
+-Vamos falar sobre Conklin.
+-O que está querendo?
+
+184
+00:25:34,783 --> 00:25:37,868
+Quer me ferrar? Quer o meu lugar?
+
+185
+00:25:37,953 --> 00:25:39,954
+Quero saber o que aconteceu.
+
+186
+00:25:40,038 --> 00:25:42,206
+Jason Bourne. Você viu os arquivos.
+
+187
+00:25:43,250 --> 00:25:44,708
+Vamos direto ao assunto.
+
+188
+00:25:45,293 --> 00:25:49,213
+<i>Conklin era tão severo</i>
+<i>que uma catástrofe era inevitável.</i>
+
+189
+00:25:49,297 --> 00:25:51,006
+<i>Bourne era seu número um.</i>
+
+190
+00:25:51,091 --> 00:25:54,134
+<i>Deram uma missão para ele,</i>
+<i>ele errou e nunca mais voltou.</i>
+
+191
+00:25:54,219 --> 00:25:58,305
+<i>E Conklin não conseguiu encontrar Bourne.</i>
+<i>Tudo saiu errado.</i>
+
+192
+00:25:58,390 --> 00:26:02,560
+Então, mandou matar Conklin.
+Se é para ir direto ao assunto.
+
+193
+00:26:02,644 --> 00:26:05,062
+Dei 30 anos e dois casamentos para a ClA.
+
+194
+00:26:05,146 --> 00:26:08,232
+Revirei muita merda.
+E vou me aposentar no ano que vem.
+
+195
+00:26:08,316 --> 00:26:11,402
+Se acha que vou deixar você estragar tudo,
+
+196
+00:26:11,486 --> 00:26:14,572
+pode ir para o inferno. E Marshall também.
+
+197
+00:26:15,740 --> 00:26:17,449
+Foi preciso.
+
+198
+00:26:18,410 --> 00:26:20,828
+<i>-Onde está Bourne?</i>
+<i>-Em uma vala.</i>
+
+199
+00:26:20,912 --> 00:26:23,998
+<i>-¤êbado em um bar. Quem sabe?</i>
+<i>-Acho que sei onde.</i>
+
+200
+00:26:24,082 --> 00:26:26,417
+<i>Comandei uma negociação em Be¤im</i>
+<i>semana passada,</i>
+
+201
+00:26:26,501 --> 00:26:30,129
+<i>e durante a compra,</i>
+<i>o agente e o vendedor foram mortos.</i>
+
+202
+00:26:30,213 --> 00:26:32,673
+Mortos por Jason Bourne.
+
+203
+00:26:36,011 --> 00:26:38,304
+Podemos subir.
+
+204
+00:26:42,851 --> 00:26:47,646
+LONDRES, lNGLATERRA
+SUB-SEDE DA ClA
+
+205
+00:26:58,450 --> 00:26:59,700
+ALERTA: EFETUAR DETENÇÃO
+
+206
+00:27:17,344 --> 00:27:20,804
+Há sete anos,
+US$ 20 milhões da ClA desapareceram
+
+207
+00:27:20,889 --> 00:27:23,307
+em uma transferência para Moscou.
+
+208
+00:27:23,391 --> 00:27:25,267
+Em uma investigação subseq¤ente,
+
+209
+00:27:25,352 --> 00:27:28,812
+fomos contatados por Vladimir Neski,
+um político russo.
+
+210
+00:27:28,897 --> 00:27:32,775
+Neski disse que tínhamos sido
+roubados por um dos nossos.
+
+211
+00:27:32,859 --> 00:27:34,943
+-E fomos?
+-Nunca descobrimos.
+
+212
+00:27:35,028 --> 00:27:37,613
+Sr. Neski foi morto antes.
+
+213
+00:27:37,697 --> 00:27:39,114
+-Por quem?
+-Pela mulher.
+
+214
+00:27:39,199 --> 00:27:42,076
+O caso tinha esfriado
+até encontrarmos uma fonte,
+
+215
+00:27:42,160 --> 00:27:46,205
+outro russo que dizia
+ter acesso ao dossiê Neski.
+
+216
+00:27:46,289 --> 00:27:49,249
+Achamos que seria uma nova chance.
+
+217
+00:27:51,503 --> 00:27:55,506
+Mas acabou que o assassino era um de nós:
+Jason Bourne.
+
+218
+00:27:56,466 --> 00:27:59,551
+Sei que não gostam
+de falar sobre Treadstone,
+
+219
+00:27:59,636 --> 00:28:02,721
+mas descobrimos coisas interessantes.
+
+220
+00:28:02,806 --> 00:28:05,307
+Esse é o computador do Conklin.
+
+221
+00:28:05,392 --> 00:28:09,019
+Seu dossiê Treadstone
+está cheio de códigos e arquivos
+
+222
+00:28:09,104 --> 00:28:11,188
+aos quais ele não tinha acesso.
+
+223
+00:28:11,272 --> 00:28:13,691
+No HD, encontramos um arquivo deletado
+
+224
+00:28:13,775 --> 00:28:15,609
+com o número de uma conta em Zurique.
+
+225
+00:28:15,694 --> 00:28:18,529
+Na época da sua morte,
+
+226
+00:28:18,613 --> 00:28:20,698
+ele tinha US$ 760.000 na conta.
+
+227
+00:28:20,782 --> 00:28:22,282
+Sabe qual era o orçamento dele?
+
+228
+00:28:22,367 --> 00:28:23,617
+Nós lhe demos muito dinheiro.
+
+229
+00:28:25,912 --> 00:28:27,579
+A conta era dele. Estava aprontando.
+
+230
+00:28:27,664 --> 00:28:28,789
+Tem certeza?
+
+231
+00:28:28,873 --> 00:28:31,125
+Tenho certeza de que perdi duas pessoas.
+
+232
+00:28:31,209 --> 00:28:33,711
+Qual é a sua teoria?
+Conklin está zelando
+
+233
+00:28:33,795 --> 00:28:34,878
+por sua reputação do túmulo?
+
+234
+00:28:34,963 --> 00:28:37,297
+-Ele está morto.
+-Ninguém disse o contrário.
+
+235
+00:28:37,382 --> 00:28:40,092
+Meu Deus, Marty, você conhecia Conklin.
+
+236
+00:28:40,176 --> 00:28:42,970
+lsso procede? Pelo menos um pouco?
+
+237
+00:28:44,889 --> 00:28:46,140
+Vá direto ao assunto.
+
+238
+00:28:46,224 --> 00:28:48,559
+Acho que Bourne e Conklin
+trabalhavam juntos,
+
+239
+00:28:49,728 --> 00:28:51,895
+e a informação que eu ia comprar
+
+240
+00:28:51,980 --> 00:28:54,732
+era importante o bastante
+para tirar Bourne do esconderijo dele.
+
+241
+00:28:55,150 --> 00:28:56,734
+E isso procede?
+
+242
+00:28:57,444 --> 00:28:59,820
+Com licença.
+
+243
+00:28:59,904 --> 00:29:03,282
+O passaporte de Bourne foi
+localizado em Nápoles.
+
+244
+00:29:07,162 --> 00:29:10,998
+Contate Nápoles.
+Eles precisam saber o que têm nas mãos.
+
+245
+00:29:11,082 --> 00:29:14,001
+Descubra como podemos
+ajudá-los no local.
+
+246
+00:29:18,840 --> 00:29:22,468
+Nada. O nome de alguém
+apareceu no computador.
+
+247
+00:29:24,971 --> 00:29:28,015
+Está bem. Tom, ligo depois, está bem?
+
+248
+00:29:44,908 --> 00:29:48,035
+Sr. Bourne, sou John Nevins,
+do consulado americano.
+
+249
+00:29:48,119 --> 00:29:50,662
+Quero lhe fazer algumas perguntas.
+
+250
+00:30:01,257 --> 00:30:04,301
+Veio de Tânger, não é?
+
+251
+00:30:09,808 --> 00:30:12,684
+Por que está em Nápoles?
+
+252
+00:30:35,041 --> 00:30:39,169
+Não sei o que fez
+e não sei para quem trabalha,
+
+253
+00:30:39,254 --> 00:30:41,296
+mas de uma coisa tenho certeza:
+
+254
+00:30:42,090 --> 00:30:45,050
+vai cooperar de uma forma ou de outra.
+
+255
+00:30:53,768 --> 00:30:54,852
+Nevins.
+
+256
+00:30:54,936 --> 00:30:58,313
+Tom Cronin, chefe de operações da ClA.
+
+257
+00:30:58,398 --> 00:31:01,108
+-Tem Jason Bourne sob custódia?
+-Tenho.
+
+258
+00:31:01,192 --> 00:31:03,902
+Ele é um alvo prioritário nosso.
+
+259
+00:31:05,154 --> 00:31:07,531
+<i>Prenda-o e me avise logo em seguida.</i>
+
+260
+00:31:07,615 --> 00:31:08,907
+Entendido.
+
+261
+00:31:53,953 --> 00:31:56,496
+Ele foi detido. Esse é o telefone.
+
+262
+00:31:56,581 --> 00:31:59,917
+Está sendo interrogado
+por um funcionário do consulado.
+
+263
+00:32:14,682 --> 00:32:17,100
+-Alô?
+-Pamela Landy, ClA.
+
+264
+00:32:17,185 --> 00:32:18,894
+<i>Qual é a situação?</i>
+
+265
+00:32:19,020 --> 00:32:22,064
+Ele escapou.
+
+266
+00:32:23,524 --> 00:32:24,816
+Droga!
+
+267
+00:32:25,944 --> 00:32:29,279
+-Fez um cerco?
+-Cerco? Não.
+
+268
+00:32:29,364 --> 00:32:32,491
+Na ltália, eles não fazem cercos...
+
+269
+00:32:32,575 --> 00:32:35,202
+-Há quanto tempo trabalha para a ClA?
+-Quatro anos.
+
+270
+00:32:35,286 --> 00:32:38,455
+<i>Se quiser continuar, ouça bem.</i>
+
+271
+00:32:38,539 --> 00:32:40,374
+<i>Bourne está armado e é muito perigoso.</i>
+
+272
+00:32:40,458 --> 00:32:42,417
+<i>Na semana passada, em Be¤im,</i>
+<i>matou dois homens.</i>
+
+273
+00:32:44,212 --> 00:32:45,712
+Faça um cerco
+
+274
+00:32:45,797 --> 00:32:48,215
+e guarde todas as provas que encontrarem.
+
+275
+00:32:48,299 --> 00:32:50,133
+<i>-Entendeu?</i>
+-Sim, senhora.
+
+276
+00:32:50,218 --> 00:32:52,135
+Vou pegar um vôo para Berlim
+em 45 minutos.
+
+277
+00:32:52,220 --> 00:32:53,762
+<i>Ligue para mim em 30.</i>
+
+278
+00:32:53,846 --> 00:32:56,390
+E quando eu perguntar sobre a situação,
+quero gostar da resposta.
+
+279
+00:33:00,895 --> 00:33:02,729
+-Berlim?
+-Temos uma equipe a postos.
+
+280
+00:33:02,814 --> 00:33:04,940
+Ele não está lá para formar uma família.
+
+281
+00:33:05,024 --> 00:33:06,942
+Você não sabe onde está se metendo.
+
+282
+00:33:07,026 --> 00:33:09,069
+E você sabe?
+
+283
+00:33:09,153 --> 00:33:11,947
+Ele matou ou despistou todas
+as pessoas que mandou para pegá-lo.
+
+284
+00:33:12,031 --> 00:33:13,782
+Leu alguns papéis
+
+285
+00:33:13,866 --> 00:33:15,659
+-e virou especialista?
+-Esse caso é meu, Ward.
+
+286
+00:33:15,743 --> 00:33:19,162
+Chega. Quero os dois naquele vôo.
+
+287
+00:33:19,247 --> 00:33:22,207
+Vamos fazer o que não conseguimos
+
+288
+00:33:22,291 --> 00:33:23,792
+da outra vez.
+
+289
+00:33:23,876 --> 00:33:26,920
+Vamos encontrar
+o filho-da-mãe e prendê-lo.
+
+290
+00:33:27,046 --> 00:33:30,674
+Jason Bourne não vai matar
+mais ninguém aqui.
+
+291
+00:33:30,758 --> 00:33:33,927
+-Assim está bom para você?
+-Está.
+
+292
+00:33:38,599 --> 00:33:41,018
+<i>Bourne está armado e é muito perigoso.</i>
+
+293
+00:33:41,102 --> 00:33:42,894
+<i>Na semana passada, em Berlim,</i>
+<i>matou dois homens.</i>
+
+294
+00:33:44,814 --> 00:33:46,189
+<i>Façam um cerco...</i>
+
+295
+00:33:46,274 --> 00:33:47,816
+<i>...em Berlim, matou dois homens.</i>
+
+296
+00:33:49,485 --> 00:33:50,777
+<i>Façam um cerco</i>
+
+297
+00:33:50,862 --> 00:33:54,114
+<i>e guardem qualquer prova</i>
+<i>que encontrarem. Agora!</i>
+
+298
+00:34:05,877 --> 00:34:07,127
+BERLlM
+
+299
+00:34:13,134 --> 00:34:15,052
+<i>lsso não é um exercício, soldado.</i>
+
+300
+00:34:18,765 --> 00:34:22,017
+<i>lsso não é um exercício, soldado.</i>
+
+301
+00:34:23,644 --> 00:34:25,937
+<i>Estamos entendidos?</i>
+
+302
+00:35:16,697 --> 00:35:18,573
+AMSTERDÃ, HOLANDA
+
+303
+00:35:39,720 --> 00:35:42,681
+Trabalhou três anos
+na operação Treadstone.
+
+304
+00:35:42,765 --> 00:35:45,016
+Qual era o seu disfarce?
+
+305
+00:35:45,101 --> 00:35:47,018
+Eu era uma estudante americana em Paris.
+
+306
+00:35:47,103 --> 00:35:50,313
+Qual era a sua função exatamente?
+
+307
+00:35:50,398 --> 00:35:53,900
+Era responsável por duas coisas:
+coordenar as operações logísticas
+
+308
+00:35:53,985 --> 00:35:56,027
+e monitorar a saúde dos agentes.
+
+309
+00:35:56,112 --> 00:35:57,779
+-A saúde?
+-A saúde mental deles.
+
+310
+00:35:57,864 --> 00:36:01,032
+Eles eram suscetíveis
+a uma série de problemas.
+
+311
+00:36:01,117 --> 00:36:02,742
+Que tipo de problemas?
+
+312
+00:36:03,244 --> 00:36:05,996
+Depressão, raiva, compulsões.
+
+313
+00:36:06,080 --> 00:36:09,916
+Eles apresentavam sintomas físicos.
+Dores de cabeça, sensibilidade à luz...
+
+314
+00:36:10,001 --> 00:36:12,335
+-Amnésia?
+-Antes do Bourne, não.
+
+315
+00:36:18,009 --> 00:36:20,510
+O avião está pronto. O carro está aí.
+
+316
+00:36:20,595 --> 00:36:22,971
+-Boa sorte.
+-Não. Você foi o contato dele
+
+317
+00:36:23,055 --> 00:36:27,058
+na noite em que Conklin morreu.
+Vem conosco.
+
+318
+00:37:29,830 --> 00:37:33,500
+Langley está nos transmitindo
+uma imagem de Nápoles.
+
+319
+00:37:33,584 --> 00:37:35,377
+Quase chegou.
+
+320
+00:37:36,295 --> 00:37:39,089
+-Preciso de autorização.
+-Escondendo, ele não está.
+
+321
+00:37:39,173 --> 00:37:40,674
+Por que Nápoles? Por que agora?
+
+322
+00:37:41,968 --> 00:37:43,802
+-Talvez esteja fugindo.
+-Usando o próprio passaporte?
+
+323
+00:37:43,886 --> 00:37:46,596
+-O que ele está fazendo?
+-Cometendo seu primeiro erro.
+
+324
+00:37:46,681 --> 00:37:48,431
+Não é um erro.
+
+325
+00:37:50,017 --> 00:37:53,144
+Eles não cometem erros.
+Tudo é calculado.
+
+326
+00:37:53,354 --> 00:37:55,230
+Há sempre um objetivo, um alvo.
+
+327
+00:37:55,314 --> 00:37:58,650
+Somos nós que determinamos o alvo.
+Quem estará dando ordens?
+
+328
+00:37:58,734 --> 00:38:00,193
+Na pior das hipóteses?
+
+329
+00:38:01,696 --> 00:38:02,862
+Ele mesmo.
+
+330
+00:38:08,828 --> 00:38:11,329
+MUNlQUE, ALEMANHA
+
+331
+00:39:01,881 --> 00:39:03,381
+Eu tirei as balas.
+
+332
+00:39:04,717 --> 00:39:07,344
+-Achei meio leve.
+-Largue-a.
+
+333
+00:39:13,601 --> 00:39:14,809
+Na sua frente.
+
+334
+00:39:15,936 --> 00:39:17,854
+
+Desculpe. É um velho hábito.
+
+335
+00:39:20,191 --> 00:39:21,775
+Use os dentes.
+
+336
+00:39:34,205 --> 00:39:37,207
+Ouvi boatos
+de que teria perdido a memória.
+
+337
+00:39:37,291 --> 00:39:39,376
+Mesmo assim,
+deveria ter feito alguma coisa.
+
+338
+00:39:42,004 --> 00:39:44,255
+-O que quer?
+-Conklin.
+
+339
+00:39:44,882 --> 00:39:47,801
+Ele está morto. Foi baleado em Paris.
+
+340
+00:39:47,885 --> 00:39:49,260
+Morreu na noite em que você foi embora.
+
+341
+00:39:49,345 --> 00:39:51,805
+Quem está no
+comando da operação Treadstone?
+
+342
+00:39:51,889 --> 00:39:54,349
+Ninguém. Foi arquivada.
+
+343
+00:39:54,934 --> 00:39:58,770
+Acabou. Somos os dois últimos.
+
+344
+00:40:04,151 --> 00:40:06,069
+Então, por que estão atrás de mim?
+
+345
+00:40:06,153 --> 00:40:08,696
+-Não sei.
+-Ouviu falar de Pamela Landy?
+
+346
+00:40:08,781 --> 00:40:11,074
+-Não.
+-Pamela Landy, em Berlim.
+
+347
+00:40:11,158 --> 00:40:12,283
+O que está havendo em Berlim?
+
+348
+00:40:12,368 --> 00:40:14,577
+Não sei.
+
+349
+00:40:15,329 --> 00:40:16,955
+Por que mentiria?
+
+350
+00:40:41,230 --> 00:40:43,773
+Achei que tivesse vindo me matar.
+
+351
+00:40:46,277 --> 00:40:49,779
+-O que você fez?
+-Sinto muito.
+
+352
+00:40:50,656 --> 00:40:52,407
+Você os alertou?
+
+353
+00:40:56,370 --> 00:40:58,246
+Levante-se. Vamos.
+
+354
+00:41:01,709 --> 00:41:04,711
+-Seu carro está lá fora?
+-As chaves estão no meu bolso.
+
+355
+00:41:04,795 --> 00:41:06,796
+-Mas deveríamos...
+-O quê?
+
+356
+00:41:06,881 --> 00:41:09,257
+Sair pelos fundos. Tenho outro carro.
+
+357
+00:45:21,885 --> 00:45:23,803
+Berlim
+ESTAÇÃO FERROVlÁRlA - BERLlM
+
+358
+00:46:49,181 --> 00:46:52,225
+-Pamela Landy, por favor.
+<i>-Um momento.</i>
+
+359
+00:46:52,351 --> 00:46:53,726
+Obrigado.
+
+360
+00:46:56,730 --> 00:46:59,023
+Gostaria de falar com Pamela Landy.
+
+361
+00:46:59,107 --> 00:47:00,733
+Um segundo.
+
+362
+00:47:02,361 --> 00:47:03,569
+Alô?
+
+363
+00:47:06,657 --> 00:47:07,824
+<i>Alô?</i>
+
+364
+00:47:09,993 --> 00:47:13,746
+-Desculpe, está ocupado.
+-Volto mais tarde. Obrigado.
+
+365
+00:48:01,336 --> 00:48:05,089
+<i>Vamos recapitular.</i>
+<i>Qual é o objetivo do Bourne?</i>
+
+366
+00:48:05,173 --> 00:48:07,300
+Quero dividir as tarefas.
+
+367
+00:48:07,384 --> 00:48:11,053
+Saídas de Nápoles. Chequem tudo:
+vôos, trens, polícia.
+
+368
+00:48:11,138 --> 00:48:13,764
+-Essa é tarefa 1. Teddy, é sua.
+-Tudo bem.
+
+369
+00:48:16,560 --> 00:48:19,061
+Tarefa 2.
+<i>Vou chamar de "conexões pregressas".</i>
+
+370
+00:48:19,146 --> 00:48:22,690
+Revejam todo o dossiê Treadstone.
+
+371
+00:48:24,484 --> 00:48:27,570
+<i>Kim, tarefa 3. Quero que identifique</i>
+<i>seu meio de transporte.</i>
+
+372
+00:48:27,654 --> 00:48:30,823
+Quero um veículo, um tíquete
+de estacionamento, qualquer coisa.
+
+373
+00:48:30,908 --> 00:48:33,451
+Langley pode enviar qualquer
+imagem de satélite que precisarem.
+
+374
+00:48:37,039 --> 00:48:39,373
+Danny, tarefa 4.
+
+375
+00:48:39,458 --> 00:48:41,709
+Quero que reveja a compra dos arquivos.
+
+376
+00:48:41,793 --> 00:48:44,211
+E cheque tudo com o trajeto do Bourne.
+
+377
+00:48:44,296 --> 00:48:47,089
+Virem tudo de cabeça para baixo.
+
+378
+00:48:48,008 --> 00:48:51,677
+Controlamos a vida do cara durante anos.
+
+379
+00:48:51,762 --> 00:48:53,471
+Devíamos ter uma vantagem sobre ele.
+
+380
+00:48:53,555 --> 00:48:56,182
+Querem voltar para casa?
+Encontrem Jason Bourne.
+
+381
+00:49:16,578 --> 00:49:20,331
+<i>-Pamela Landy.</i>
+-Aqui é Jason Bourne.
+
+382
+00:49:21,375 --> 00:49:22,583
+Bourne?
+
+383
+00:49:22,668 --> 00:49:25,711
+90 segundos para localização.
+
+384
+00:49:26,046 --> 00:49:27,713
+<i>O que quer?</i>
+
+385
+00:49:30,384 --> 00:49:32,551
+Está no comando de Treadstone?
+
+386
+00:49:34,680 --> 00:49:36,597
+Treadstone foi arquivado há anos.
+
+387
+00:49:36,682 --> 00:49:38,224
+<i>Sabe disso.</i>
+
+388
+00:49:39,059 --> 00:49:41,644
+Quem está planejando as missões?
+
+389
+00:49:41,728 --> 00:49:44,188
+Não há missões. Acabou.
+
+390
+00:49:46,066 --> 00:49:49,193
+-O que quer comigo?
+-Berlim.
+
+391
+00:49:51,238 --> 00:49:54,115
+Já se esqueceu?
+
+392
+00:49:56,243 --> 00:50:00,079
+<i>Você matou duas pessoas, Bourne.</i>
+
+393
+00:50:04,835 --> 00:50:06,711
+<i>Neski. Vladimir Neski.</i>
+
+394
+00:50:18,056 --> 00:50:19,265
+Bourne?
+
+395
+00:50:22,102 --> 00:50:23,686
+<i>Quero ir até aí.</i>
+
+396
+00:50:26,481 --> 00:50:30,109
+-Está bem. Como quer proceder?
+-Precisamos de 35 segundos.
+
+397
+00:50:30,235 --> 00:50:33,612
+<i>-Quero ir com alguém conhecido.</i>
+-Quem?
+
+398
+00:50:34,281 --> 00:50:37,742
+Havia uma garota em Paris
+que era parte do programa.
+
+399
+00:50:37,826 --> 00:50:39,702
+<i>Era responsável pela logística.</i>
+
+400
+00:50:39,786 --> 00:50:43,164
+Alexanderstrasse, em 30 minutos,
+debaixo do relógio.
+
+401
+00:50:43,373 --> 00:50:45,916
+<i>-Mande-a sozinha com seu telefone.</i>
+<i>-20 segundos.</i>
+
+402
+00:50:46,418 --> 00:50:48,210
+E se eu não a encontrar?
+
+403
+00:50:48,295 --> 00:50:51,172
+<i>Vai ser fácil. Ela está aí com você.</i>
+
+404
+00:51:06,146 --> 00:51:08,439
+-São tantos, senhor.
+-Aqui está.
+
+405
+00:51:08,982 --> 00:51:11,942
+-Segundo quadrante.
+-Onde está?
+
+406
+00:51:12,027 --> 00:51:13,986
+Pegue o segundo quadrante.
+
+407
+00:51:14,071 --> 00:51:17,490
+O relógio fica aqui.
+Droga, no meio de um monte de coisa.
+
+408
+00:51:18,825 --> 00:51:20,785
+Não vamos poder lhe dar cobertura.
+
+409
+00:51:20,869 --> 00:51:22,578
+Liguem para a estação Berlim.
+
+410
+00:51:22,662 --> 00:51:24,872
+Precisamos de atiradores e reforços.
+
+411
+00:51:24,956 --> 00:51:26,165
+Não.
+
+412
+00:51:26,249 --> 00:51:29,126
+Atiradores nos telhados o espantarão.
+Preciso de respostas.
+
+413
+00:51:29,211 --> 00:51:30,836
+Não vai dizer que acredita que ele virá aqui.
+
+414
+00:51:30,921 --> 00:51:32,338
+Ele sabe algo sobre o caso Neski,
+
+415
+00:51:32,422 --> 00:51:34,757
+e eu quero saber o quê.
+
+416
+00:51:34,841 --> 00:51:36,550
+Não seja ingênua!
+
+417
+00:51:36,635 --> 00:51:38,928
+Quer proteger Nicky ou matar Bourne?
+
+418
+00:51:39,012 --> 00:51:40,346
+Matar Bourne.
+
+419
+00:51:40,430 --> 00:51:43,516
+A próxima vítima pode ser a Nicky.
+
+420
+00:51:43,600 --> 00:51:46,852
+Você não ouviu o que eu disse.
+Bourne morto não resolve.
+
+421
+00:51:50,190 --> 00:51:52,358
+Posso falar com você em particular?
+
+422
+00:51:58,907 --> 00:52:00,741
+-O que foi?
+-Sei como se sente.
+
+423
+00:52:00,826 --> 00:52:03,661
+Perdeu dois dos seus em Berlim,
+
+424
+00:52:03,745 --> 00:52:05,955
+mas Bourne não pode trazê-los de volta.
+
+425
+00:52:06,039 --> 00:52:08,457
+Nada nesses arquivos justifica
+esse sacrifício.
+
+426
+00:52:08,542 --> 00:52:10,042
+Desista.
+
+427
+00:52:10,127 --> 00:52:13,462
+Quando uma operação dá errado,
+nós a damos por encerrada.
+
+428
+00:52:13,547 --> 00:52:15,923
+Se sabe algo que eu não sei,
+
+429
+00:52:16,007 --> 00:52:18,551
+diga antes de eu mandar a moça.
+
+430
+00:52:21,513 --> 00:52:24,890
+Você fala como se tivesse
+lido isso em um livro.
+
+431
+00:52:38,905 --> 00:52:40,823
+O que quer fazer?
+
+432
+00:52:42,367 --> 00:52:44,368
+Quero os atiradores a postos.
+
+433
+00:52:44,619 --> 00:52:47,580
+Se algo der errado, matem-no.
+
+434
+00:52:48,665 --> 00:52:50,082
+Pode deixar.
+
+435
+00:53:29,164 --> 00:53:32,458
+Fala Survey 1.
+Uma multidão se aproxima.
+
+436
+00:53:32,709 --> 00:53:36,295
+
+<i>-É uma passeata.</i>
+-Não consigo chegar mais perto.
+
+437
+00:53:36,379 --> 00:53:38,130
+Pode chegar mais perto?
+
+438
+00:53:38,215 --> 00:53:39,965
+Cubra o lado sul.
+
+439
+00:53:40,050 --> 00:53:41,133
+Entendido.
+
+440
+00:53:57,692 --> 00:53:58,901
+Alô?
+
+441
+00:53:58,985 --> 00:54:01,946
+<i>Pegue o bonde.</i>
+
+442
+00:54:02,155 --> 00:54:05,407
+-Ela está indo para o bonde.
+-Para onde ele vai?
+
+443
+00:54:05,492 --> 00:54:07,493
+Para a estação Alexanderplatz.
+
+444
+00:54:13,667 --> 00:54:16,669
+<i>Survey 5, não o vejo. Eu não o vejo.</i>
+
+445
+00:54:20,882 --> 00:54:23,300
+<i>Central, ela vai pegar o bonde.</i>
+
+446
+00:54:23,385 --> 00:54:25,427
+Zoom no bonde.
+
+447
+00:54:25,512 --> 00:54:28,722
+-Bourne está nele.
+-Não acho que esteja.
+
+448
+00:54:28,807 --> 00:54:30,599
+Está no bonde.
+
+449
+00:54:32,978 --> 00:54:36,146
+Mande seguir Bourne.
+Peça para manterem distância.
+
+450
+00:54:36,231 --> 00:54:38,274
+Delta, vão. Peguem o bonde.
+
+451
+00:54:38,358 --> 00:54:40,025
+Vamos.
+
+452
+00:54:41,987 --> 00:54:45,197
+-Diga para se apressarem.
+-Nada no lado sul.
+
+453
+00:55:00,422 --> 00:55:02,965
+Estação Alexanderplatz, 25 segundos.
+
+454
+00:55:18,148 --> 00:55:20,816
+<i>lsso está cheio de manifestantes.</i>
+
+455
+00:55:20,900 --> 00:55:23,569
+<i>Não temos como dar cobertura.</i>
+
+456
+00:55:24,154 --> 00:55:27,031
+-Tirem-na de lá.
+-Vão! Delta, mexam-se! Agora!
+
+457
+00:55:27,032 --> 00:55:27,197
+-Tirem-na de lá.
+-Vão! Delta, mexam-se! Agora!
+
+458
+00:55:45,884 --> 00:55:48,635
+-Ela não está aqui. Sumiu.
+-Droga!
+
+459
+00:55:48,762 --> 00:55:50,846
+Eles não estão no bonde.
+
+460
+00:55:50,930 --> 00:55:54,183
+<i>-Jason, por favor não me machuque.</i>
+<i>-O que eu disse?</i>
+
+461
+00:55:54,267 --> 00:55:57,436
+Disse para me deixarem em paz.
+
+462
+00:55:57,520 --> 00:56:00,356
+<i>Juro que disse a eles.</i>
+<i>Eu disse que acreditava em você.</i>
+
+463
+00:56:00,440 --> 00:56:02,316
+Vou lhe fazer algumas perguntas simples.
+
+464
+00:56:02,400 --> 00:56:06,653
+Diga a verdade, ou juro que a matarei.
+
+465
+00:56:06,946 --> 00:56:08,697
+Digam alguma coisa.
+
+466
+00:56:08,782 --> 00:56:10,324
+Eles estão procurando.
+
+467
+00:56:10,408 --> 00:56:11,950
+Quem é Pamela Landy?
+
+468
+00:56:12,285 --> 00:56:15,287
+
+<i>-É chefe de uma força-tarefa.</i>
+-Está no comando da Treadstone?
+
+469
+00:56:15,372 --> 00:56:18,874
+-Não, é chefe de departamento.
+-Por que ela está tentando me matar?
+
+470
+00:56:18,958 --> 00:56:22,378
+<i>Um agente tentou comprar algo</i>
+<i>de um contato dela.</i>
+
+471
+00:56:22,504 --> 00:56:24,505
+Algo a ver com um informante.
+
+472
+00:56:24,589 --> 00:56:26,465
+-E daí?
+-Você chegou primeiro.
+
+473
+00:56:26,549 --> 00:56:28,217
+-Eu o matei?
+-Deixou impressões digitais.
+
+474
+00:56:28,301 --> 00:56:31,887
+<i>As impressões nos remetem a Treadstone.</i>
+
+475
+00:56:31,971 --> 00:56:33,889
+<i>lsso é loucura.</i>
+
+476
+00:56:33,973 --> 00:56:37,267
+-Por que voltou agora? Landy vai achar...
+-Pare.
+
+477
+00:56:37,477 --> 00:56:42,106
+Na semana passada, eu estava
+a 6.500 km, na Índia, vendo Marie morrer.
+
+478
+00:56:42,440 --> 00:56:45,442
+<i>Eles queriam a mim, mas a mataram.</i>
+
+479
+00:56:45,777 --> 00:56:47,194
+<i>Vou pôr um ponto final nisso.</i>
+
+480
+00:56:54,202 --> 00:56:55,494
+Encontrem-na.
+
+481
+00:56:56,621 --> 00:56:59,289
+Por que querem me pegar?
+
+482
+00:56:59,374 --> 00:57:01,750
+Só estou aqui por causa de Paris. Abbott...
+
+483
+00:57:01,835 --> 00:57:04,753
+-Quem é Abbott?
+-Chefe do Conklin. Arquivou Treadstone.
+
+484
+00:57:04,838 --> 00:57:06,588
+-Ele está em Berlim?
+-Está.
+
+485
+00:57:06,673 --> 00:57:08,590
+Ele estava no caso Treadstone?
+
+486
+00:57:08,800 --> 00:57:12,094
+-Estava?
+-Estava. Conklin trabalhava para ele.
+
+487
+00:57:12,178 --> 00:57:14,012
+Por favor, por favor, eu juro...
+
+488
+00:57:14,097 --> 00:57:16,640
+Que arquivos Landy estava comprando?
+
+489
+00:57:16,724 --> 00:57:18,350
+Algo sobre Conklin.
+
+490
+00:57:18,435 --> 00:57:21,645
+Algo a ver com um político russo.
+
+491
+00:57:28,027 --> 00:57:31,280
+-Neski.
+-Do que está falando?
+
+492
+00:57:32,949 --> 00:57:36,368
+<i>O treinamento acabou.</i>
+
+493
+00:57:36,703 --> 00:57:39,204
+-Quando eu estava aqui, em Berlim?
+-O quê?
+
+494
+00:57:39,289 --> 00:57:41,582
+Para a operação Treadstone.
+Viu minha ficha.
+
+495
+00:57:41,666 --> 00:57:43,500
+-Quando?
+-Você nunca trabalhou em Berlim.
+
+496
+00:57:43,585 --> 00:57:46,503
+Minha primeira missão. Você sabe.
+
+497
+00:57:46,588 --> 00:57:49,006
+-Você nunca veio para Berlim.
+-Meu primeiro trabalho!
+
+498
+00:57:49,090 --> 00:57:52,426
+-Sua primeira missão foi em Genebra.
+-Seus desgraçados!
+
+499
+00:57:52,510 --> 00:57:55,554
+-Eu juro!
+-Sei que estive aqui, Nicky!
+
+500
+00:57:55,638 --> 00:57:57,598
+Não está no seu arquivo.
+Não consta no seu arquivo.
+
+501
+00:57:57,682 --> 00:57:59,016
+Sei que estive aqui!
+
+502
+00:57:59,100 --> 00:58:01,602
+Juro. Por favor!
+
+503
+00:58:19,579 --> 00:58:22,581
+Pam, quero lhe mostrar
+uma coisa. Alexanderplatz.
+
+504
+00:58:22,665 --> 00:58:26,502
+15 túneis que convergem
+em um raio de cinco quarteirões.
+
+505
+00:58:26,586 --> 00:58:28,837
+Aqui. Luftschutzbunker,
+um velho abrigo antiaéreo.
+
+506
+00:58:28,922 --> 00:58:29,922
+Quantos estão lá?
+
+507
+00:58:30,048 --> 00:58:33,008
+Dois. Os outros estão procurando.
+
+508
+00:58:33,092 --> 00:58:35,385
+-Como é a segurança aqui?
+-Onde?
+
+509
+00:58:35,470 --> 00:58:36,512
+No prédio.
+
+510
+00:58:36,596 --> 00:58:39,515
+Chequem escadarias, corredores, tudo.
+
+511
+00:58:39,599 --> 00:58:40,933
+Pode deixar.
+
+512
+00:58:42,185 --> 00:58:45,938
+Vamos pedir ajuda.
+Divulguem essa foto para a polícia.
+
+513
+00:58:46,022 --> 00:58:48,440
+
+E chequem essa história da Índia.
+
+514
+00:58:48,525 --> 00:58:49,858
+Deixe comigo.
+
+515
+00:58:50,235 --> 00:58:54,238
+Você se meteu em uma encrenca
+e não sabe o que fazer.
+
+516
+00:58:54,322 --> 00:58:55,906
+Ele não sabe nada sobre Berlim.
+
+517
+00:58:55,990 --> 00:58:59,451
+Ele sabia que Nicky tinha um microfone.
+
+518
+00:58:59,536 --> 00:59:01,620
+Ele não parecia estar no controle.
+
+519
+00:59:01,704 --> 00:59:03,539
+Sabemos que ele esteve em Berlim.
+
+520
+00:59:03,623 --> 00:59:05,624
+Ele perdeu a memória.
+
+521
+00:59:05,708 --> 00:59:06,959
+-E agora...
+-Vão matá-lo?
+
+522
+00:59:07,043 --> 00:59:08,877
+
+É o que vêm tentando fazer.
+
+523
+00:59:08,962 --> 00:59:11,588
+Ele até disse que você reativou Treadstone!
+
+524
+00:59:11,673 --> 00:59:13,131
+Bourne sabe de algo.
+
+525
+00:59:13,216 --> 00:59:15,092
+Sabe que você está atrás dele.
+
+526
+00:59:15,176 --> 00:59:19,263
+Se quiser continuar vivendo,
+comece a levar isso em conta.
+
+527
+00:59:20,473 --> 00:59:23,308
+Cheque essas fotos. Já as mandou?
+
+528
+00:59:35,321 --> 00:59:37,531
+Preciso lhe mostrar uma coisa.
+
+529
+01:00:07,854 --> 01:00:08,895
+Político - Neski - Rússia
+
+530
+01:00:18,615 --> 01:00:20,824
+Vladimir Neski, deputado reformista russo
+
+531
+01:00:28,041 --> 01:00:32,210
+ldealista democrata e crítico
+confesso da privatização do petróleo
+
+532
+01:00:34,881 --> 01:00:36,757
+Neski - Berlim
+
+533
+01:00:37,925 --> 01:00:39,551
+Deputado russo condenava
+corrupção abertamente
+
+534
+01:00:40,261 --> 01:00:43,597
+Vladimir Neski e mulher,
+mortos em um hotel na Alemanha
+
+535
+01:00:44,557 --> 01:00:46,224
+Assassinato e suicídio?
+Deputado e mulher mortos
+
+536
+01:01:23,638 --> 01:01:25,847
+Terminei minha tarefa
+
+537
+01:01:25,932 --> 01:01:28,183
+e queria que visse isso antes da Landy.
+
+538
+01:01:28,267 --> 01:01:31,520
+Vim aqui ontem à noite,
+porque nada disso faz sentido.
+
+539
+01:01:31,604 --> 01:01:34,356
+Conklin era louco. Mas traidor também?
+
+540
+01:01:34,440 --> 01:01:37,359
+-Não consigo acreditar.
+-O que descobriu, Danny?
+
+541
+01:01:37,443 --> 01:01:39,778
+Se puser explosivos aqui,
+
+542
+01:01:39,862 --> 01:01:42,280
+cortará a energia do prédio.
+
+543
+01:01:42,365 --> 01:01:45,117
+Duas cargas deviam explodir
+ao mesmo tempo.
+
+544
+01:01:45,201 --> 01:01:48,578
+A segunda, essa daqui, não explodiu.
+
+545
+01:01:48,746 --> 01:01:52,374
+lsso não é nada.
+Só está ligado ao disjuntor lá em cima.
+
+546
+01:01:52,458 --> 01:01:55,168
+Por que colocar explosivos
+até aqui embaixo?
+
+547
+01:01:55,253 --> 01:01:57,587
+Alguém que consegue chegar até aqui
+
+548
+01:01:57,672 --> 01:01:59,756
+sabe muito bem que isso não é preciso.
+
+549
+01:01:59,841 --> 01:02:01,550
+Bourne saberia.
+
+550
+01:02:01,634 --> 01:02:04,511
+-Foi uma encenação?
+-Não tenho certeza absoluta.
+
+551
+01:02:04,595 --> 01:02:07,055
+E se alguém tiver tentado
+
+552
+01:02:07,140 --> 01:02:09,307
+culpar Conklin e Bourne?
+
+553
+01:02:09,434 --> 01:02:12,728
+E se Bourne não teve nada a ver com isso?
+
+554
+01:02:14,772 --> 01:02:16,982
+-Explique de novo.
+-Está bem.
+
+555
+01:02:17,066 --> 01:02:18,358
+Se você puser...
+
+556
+01:02:44,260 --> 01:02:46,219
+<i>Pare. Ele vai descer.</i>
+
+557
+01:02:49,056 --> 01:02:50,682
+<i>lsso não é um exercício, soldado.</i>
+
+558
+01:02:51,225 --> 01:02:52,517
+<i>Estamos entendidos?</i>
+
+559
+01:02:53,686 --> 01:02:56,688
+
+É uma missão de verdade,
+e você é parte dela.
+
+560
+01:02:59,317 --> 01:03:01,276
+Nós o esperamos do outro lado.
+
+561
+01:03:21,380 --> 01:03:23,381
+Boa noite. Posso ajudar?
+
+562
+01:03:23,466 --> 01:03:25,300
+Quero um quarto para essa noite.
+
+563
+01:03:25,468 --> 01:03:27,385
+-Fez reserva?
+-Não.
+
+564
+01:03:32,683 --> 01:03:37,145
+O quarto 645 está disponível? Já fiquei nele.
+
+565
+01:03:41,234 --> 01:03:43,527
+Desculpe, mas está ocupado.
+
+566
+01:03:43,611 --> 01:03:46,738
+Que tal o 644? Fica bem em frente.
+
+567
+01:03:47,406 --> 01:03:48,532
+Senhor?
+
+568
+01:03:49,700 --> 01:03:53,161
+-644?
+-Tudo bem. Obrigado.
+
+569
+01:03:53,246 --> 01:03:56,957
+Preciso do passaporte e de sua assinatura,
+por favor.
+
+570
+01:03:59,752 --> 01:04:01,461
+Tenha uma boa noite.
+
+571
+01:05:20,917 --> 01:05:21,958
+Onde?
+
+572
+01:05:22,043 --> 01:05:23,168
+Hotel Brecker.
+
+573
+01:05:23,669 --> 01:05:25,378
+Estamos a caminho. Vamos no furgão!
+
+574
+01:05:25,463 --> 01:05:27,380
+-Fica longe?
+-Uns seis minutos.
+
+575
+01:06:04,919 --> 01:06:06,002
+Oi!
+
+576
+01:06:48,087 --> 01:06:50,088
+<i>Parabéns, soldado.</i>
+
+577
+01:06:50,423 --> 01:06:52,048
+O treinamento acabou.
+
+578
+01:07:51,984 --> 01:07:53,068
+Já!
+
+579
+01:08:19,970 --> 01:08:24,557
+Casaco preto, talvez de couro,
+camiseta e calça escuras.
+
+580
+01:08:24,642 --> 01:08:28,144
+A polícia quer reunir os hóspedes
+
+581
+01:08:28,229 --> 01:08:29,395
+e identificar cada um deles.
+
+582
+01:08:29,480 --> 01:08:30,939
+Vai adiantar muito.
+
+583
+01:08:31,023 --> 01:08:34,359
+-O que ele está fazendo aqui?
+-Talvez tenha vindo passar a noite.
+
+584
+01:12:14,580 --> 01:12:16,164
+-Não o encontraram?
+-Até agora, não.
+
+585
+01:12:16,248 --> 01:12:19,125
+Mas acharam Nicky. Bourne a soltou.
+
+586
+01:12:19,209 --> 01:12:21,044
+-Ele a soltou?
+-Sim.
+
+587
+01:12:22,129 --> 01:12:26,132
+Onde está Danny Zorn?
+Ele tem que falar com ela.
+
+588
+01:12:26,842 --> 01:12:28,426
+Por que Bourne veio para cá?
+
+589
+01:12:28,510 --> 01:12:31,763
+Ainda não sabemos.
+Landy está em um dos quartos.
+
+590
+01:12:31,847 --> 01:12:33,931
+Ela o chamará quando tiver acabado.
+
+591
+01:12:36,560 --> 01:12:37,685
+Está bem.
+
+592
+01:12:39,938 --> 01:12:44,275
+Acho que vou pegar um táxi para o hotel.
+
+593
+01:12:50,449 --> 01:12:52,575
+Ele se hospedou no quarto em frente.
+
+594
+01:12:54,536 --> 01:12:56,621
+Por que viria aqui?
+
+595
+01:13:05,005 --> 01:13:08,800
+-O que está pensando?
+-Já vi esse quarto em uma foto.
+
+596
+01:13:09,635 --> 01:13:13,638
+O corpo de Vladimir Neski
+foi encontrado bem aqui.
+
+597
+01:13:14,640 --> 01:13:17,058
+Foi aqui que a mulher dele o matou?
+
+598
+01:13:18,102 --> 01:13:20,812
+Ainda acha que foi ela?
+
+599
+01:13:29,321 --> 01:13:31,948
+Ele deve ter saído por essa janela.
+
+600
+01:13:32,658 --> 01:13:35,493
+A polícia de Berlim entrou em contato.
+
+601
+01:13:35,661 --> 01:13:37,912
+Acharam o corpo de Danny Zorn.
+
+602
+01:13:42,459 --> 01:13:46,587
+Continuem procurando Bourne.
+Fiquem de olhos abertos.
+
+603
+01:13:46,672 --> 01:13:49,382
+Diga ao Abbott para me esperar aqui.
+
+604
+01:13:49,466 --> 01:13:51,342
+Voltarei para falar com ele.
+
+605
+01:14:20,205 --> 01:14:21,956
+Sou eu.
+
+606
+01:14:23,333 --> 01:14:25,042
+Eles sabem sobre Neski.
+
+607
+01:14:26,253 --> 01:14:27,587
+Esse telefone não é seguro.
+
+608
+01:14:27,671 --> 01:14:29,672
+<i>Não podem provar nada sem Bourne.</i>
+
+609
+01:14:29,756 --> 01:14:32,467
+Mate Bourne e encerre essa investigação.
+
+610
+01:14:32,551 --> 01:14:36,471
+Ward, chegou a hora de nos separarmos.
+
+611
+01:14:36,555 --> 01:14:41,350
+Yuri, você comprou ações no valor de
+20 milhões com dinheiro roubado da ClA.
+
+612
+01:14:41,435 --> 01:14:43,436
+-Você me deve isso.
+<i>-Recebeu sua parte.</i>
+
+613
+01:14:43,687 --> 01:14:45,313
+Ambos ficamos ricos.
+
+614
+01:14:45,856 --> 01:14:47,690
+Eu não lhe devo nada.
+
+615
+01:14:47,774 --> 01:14:51,819
+O plano ainda pode funcionar.
+Encontre Bourne. Ouviu?
+
+616
+01:14:51,904 --> 01:14:53,529
+Ainda está à solta.
+
+617
+01:14:53,614 --> 01:14:55,114
+<i>Encontre Jason...</i>
+
+618
+01:15:16,094 --> 01:15:19,972
+Suponho que não ia adiantar muito
+pedir ajuda...
+
+619
+01:15:20,432 --> 01:15:21,766
+Não muito.
+
+620
+01:15:24,311 --> 01:15:25,895
+Você a matou.
+
+621
+01:15:26,605 --> 01:15:28,272
+Foi um erro.
+
+622
+01:15:28,440 --> 01:15:30,525
+Era você quem eu queria matar.
+
+623
+01:15:31,276 --> 01:15:34,403
+Alguns arquivos me ligavam
+ao assassinato de Neski.
+
+624
+01:15:35,280 --> 01:15:38,449
+Se eles desaparecessem,
+e suspeitassem de você,
+
+625
+01:15:38,700 --> 01:15:41,202
+passariam 10 anos
+perseguindo um fantasma.
+
+626
+01:15:41,286 --> 01:15:43,120
+Então, ele atrapalhou.
+
+627
+01:15:43,247 --> 01:15:46,707
+
+É por isso que Neski morreu?
+É por isso que você matou Marie?
+
+628
+01:15:46,792 --> 01:15:48,543
+Você matou Marie
+
+629
+01:15:49,127 --> 01:15:51,212
+no momento em que entrou no carro dela.
+
+630
+01:15:51,296 --> 01:15:54,173
+No momento em que você
+entrou na vida dela.
+
+631
+01:15:54,591 --> 01:15:56,551
+Eu disse para nos deixarem em paz.
+
+632
+01:15:56,635 --> 01:15:59,053
+Eu sumi. Fui para o outro lado do mundo.
+
+633
+01:15:59,137 --> 01:16:01,973
+Você não pode se esconder de nós.
+
+634
+01:16:02,307 --> 01:16:04,308
+
+É assim que terminam todas as histórias.
+
+635
+01:16:04,810 --> 01:16:07,687
+Esse é você, Jason: um assassino.
+
+636
+01:16:08,772 --> 01:16:10,523
+
+É o que sempre será.
+
+637
+01:16:12,484 --> 01:16:15,111
+Ande logo! Vá em frente!
+
+638
+01:16:18,156 --> 01:16:20,157
+Ela não ia querer que eu o matasse.
+
+639
+01:16:20,325 --> 01:16:22,827
+
+É só por isso que continua vivo.
+
+640
+01:17:38,320 --> 01:17:41,739
+Sou um patriota. Sirvo meu país.
+
+641
+01:17:42,658 --> 01:17:45,284
+-E Danny Zorn? O que ele era?
+-Azarado.
+
+642
+01:17:47,079 --> 01:17:48,746
+Acabou sobrando para ele.
+
+643
+01:17:51,917 --> 01:17:53,834
+O que fazemos agora?
+
+644
+01:17:54,878 --> 01:17:56,420
+Eu não me arrependo.
+
+645
+01:18:56,440 --> 01:18:59,567
+-Não, deixe para lá.
+-Ligue para mim assim que ele chegar.
+
+646
+01:18:59,651 --> 01:19:00,860
+Não é nada.
+
+647
+01:19:00,944 --> 01:19:03,195
+-Podíamos sincronizar.
+-Quem é esse cara?
+
+648
+01:19:03,488 --> 01:19:04,864
+Plataforma P.
+
+649
+01:19:05,824 --> 01:19:08,659
+<i>Vamos. Ande logo! Vá em frente!</i>
+
+650
+01:19:08,744 --> 01:19:09,744
+Quarto 235
+
+651
+01:19:09,828 --> 01:19:11,412
+<i>Ela não ia querer que eu o matasse.</i>
+
+652
+01:19:11,496 --> 01:19:13,998
+
+<i>É por isso que continua vivo.</i>
+
+653
+01:19:26,136 --> 01:19:27,970
+Ligaram de Langley.
+
+654
+01:19:28,054 --> 01:19:30,473
+Leram os registros de Abbott,
+
+655
+01:19:30,557 --> 01:19:34,018
+e Marshall quer saber do Bourne.
+
+656
+01:19:36,354 --> 01:19:38,981
+Esperem. Teddy? Quem é esse?
+Olhem para ele.
+
+657
+01:19:39,065 --> 01:19:40,775
+Ele está entrando ali!
+
+658
+01:19:40,859 --> 01:19:43,277
+-Bem aqui.
+-É Bourne!
+
+659
+01:19:43,361 --> 01:19:45,154
+-Nós o achamos.
+-Nós o achamos!
+
+660
+01:19:45,238 --> 01:19:46,781
+Vejam!
+
+661
+01:19:46,865 --> 01:19:49,408
+Lá. Ponham no monitor maior.
+
+662
+01:19:49,493 --> 01:19:51,285
+Lá vem ele de novo.
+
+663
+01:19:51,828 --> 01:19:53,704
+Ele apareceu aqui.
+
+664
+01:19:53,789 --> 01:19:55,164
+
+É ele!
+
+665
+01:19:55,248 --> 01:19:56,999
+Que trem é esse?
+
+666
+01:19:58,418 --> 01:20:01,420
+-Vai para Moscou.
+-Por que ele iria a Moscou?
+
+667
+01:20:04,549 --> 01:20:07,134
+Liguem para
+o Ministério do lnterior da Rússia.
+
+668
+01:20:08,553 --> 01:20:11,764
+
+MOSCOU, RÚSSlA
+
+669
+01:20:53,557 --> 01:20:56,392
+Seu telefone está desligado.
+O que está havendo?
+
+670
+01:20:57,143 --> 01:21:00,604
+Você disse que eu tinha um mês de folga.
+
+671
+01:21:02,440 --> 01:21:05,067
+Você disse que Jason Bourne estava morto.
+
+672
+01:22:16,932 --> 01:22:20,017
+Pode me levar a esse endereço?
+
+673
+01:22:20,477 --> 01:22:21,518
+Rublos?
+
+674
+01:22:21,686 --> 01:22:22,978
+Dólares.
+
+675
+01:22:51,633 --> 01:22:53,968
+Central, carro 34 saindo da estação.
+
+676
+01:23:52,777 --> 01:23:54,778
+Espere aqui.
+
+677
+01:24:35,445 --> 01:24:37,529
+
+É o americano, não é?
+
+678
+01:24:37,989 --> 01:24:39,031
+Bom dia.
+
+679
+01:24:39,282 --> 01:24:41,992
+Procuro a moça do número 48.
+
+680
+01:24:42,660 --> 01:24:45,621
+A Neski? Não mora mais aqui.
+
+681
+01:24:46,331 --> 01:24:49,583
+Foi embora de Moscou.
+
+682
+01:24:49,751 --> 01:24:52,669
+Mora no Conjunto Orannyi,
+número 16, acho.
+
+683
+01:25:49,894 --> 01:25:54,064
+Serviço secreto!
+Sou do serviço secreto!
+
+684
+01:27:17,649 --> 01:27:19,483
+No chão!
+
+685
+01:27:23,905 --> 01:27:25,572
+Fique no chão!
+
+686
+01:27:50,181 --> 01:27:53,725
+Esse táxi é meu, babaca!
+
+687
+01:29:20,938 --> 01:29:24,274
+Pedindo reforços.
+Perseguição em alta velocidade.
+
+688
+01:35:52,371 --> 01:35:55,999
+Fique quieta, está bem?
+
+689
+01:36:00,838 --> 01:36:05,675
+Não tenho dinheiro nem drogas,
+se é o que quer.
+
+690
+01:36:06,969 --> 01:36:10,180
+Sente-se.
+
+691
+01:36:11,599 --> 01:36:15,059
+Pegue aquela cadeira.
+
+692
+01:36:31,994 --> 01:36:33,578
+Eu falo inglês.
+
+693
+01:36:34,038 --> 01:36:35,955
+Não vou machucá-la.
+
+694
+01:36:38,584 --> 01:36:40,251
+Não vou machucá-la.
+
+695
+01:36:48,219 --> 01:36:49,719
+Você é mais velha.
+
+696
+01:36:54,391 --> 01:36:56,601
+Mais velha do que eu imaginava.
+
+697
+01:37:00,856 --> 01:37:02,357
+Aquela foto.
+
+698
+01:37:04,860 --> 01:37:06,986
+Significa muito para você?
+
+699
+01:37:09,740 --> 01:37:12,242
+Não. É só uma foto.
+
+700
+01:37:12,535 --> 01:37:13,576
+Não.
+
+701
+01:37:15,329 --> 01:37:18,122
+É porque você não sabe
+como eles morreram.
+
+702
+01:37:19,083 --> 01:37:20,208
+Eu sei.
+
+703
+01:37:22,086 --> 01:37:23,586
+Não sabe, não.
+
+704
+01:37:29,718 --> 01:37:31,553
+Eu ia querer saber.
+
+705
+01:37:36,559 --> 01:37:40,728
+Eu ia querer saber que minha mãe
+não matou meu pai
+
+706
+01:37:42,398 --> 01:37:44,524
+e não se suicidou.
+
+707
+01:37:44,608 --> 01:37:45,733
+O quê?
+
+708
+01:37:48,612 --> 01:37:51,865
+Não foi o que aconteceu.
+
+709
+01:37:59,123 --> 01:38:00,623
+Eu os matei.
+
+710
+01:38:04,420 --> 01:38:05,920
+Eu os matei.
+
+711
+01:38:09,258 --> 01:38:10,800
+Era meu trabalho.
+
+712
+01:38:13,804 --> 01:38:15,597
+Foi a minha primeira vez.
+
+713
+01:38:19,977 --> 01:38:22,854
+Era para seu pai estar sozinho.
+
+714
+01:38:28,569 --> 01:38:30,486
+Mas sua mãe
+
+715
+01:38:32,156 --> 01:38:33,990
+apareceu do nada,
+
+716
+01:38:38,287 --> 01:38:40,455
+e eu tive que mudar de plano.
+
+717
+01:38:46,378 --> 01:38:48,171
+Tudo muda,
+
+718
+01:38:49,131 --> 01:38:50,673
+quando se descobre uma coisa dessas,
+
+719
+01:38:51,216 --> 01:38:52,634
+não é?
+
+720
+01:38:58,599 --> 01:39:01,476
+Quando tiram de você um ente querido,
+
+721
+01:39:05,731 --> 01:39:07,732
+você quer saber a verdade.
+
+722
+01:39:27,086 --> 01:39:28,461
+Sinto muito.
+
+723
+01:40:17,886 --> 01:40:21,264
+NOVA YORK
+
+724
+01:40:27,271 --> 01:40:30,898
+-Pamela Landy.
+<i>-Soube que ainda está me procurando.</i>
+
+725
+01:40:35,112 --> 01:40:37,447
+-Bourne?
+<i>-O que quer?</i>
+
+726
+01:40:41,076 --> 01:40:43,077
+Queria lhe agradecer
+
+727
+01:40:43,871 --> 01:40:45,371
+pela fita.
+
+728
+01:40:45,998 --> 01:40:50,209
+<i>Era do que precisávamos.</i>
+<i>Está tudo resolvido.</i>
+
+729
+01:40:51,879 --> 01:40:54,130
+Eu lhe devo desculpas.
+
+730
+01:40:54,965 --> 01:40:56,632
+
+É oficial?
+
+731
+01:40:57,384 --> 01:41:00,636
+<i>Não. lnformalmente. Sabe como é.</i>
+
+732
+01:41:01,805 --> 01:41:02,930
+Adeus.
+
+733
+01:41:03,015 --> 01:41:04,432
+Espere. Espere.
+
+734
+01:41:09,897 --> 01:41:11,314
+David Webb.
+
+735
+01:41:12,149 --> 01:41:13,983
+Esse é o seu nome.
+
+736
+01:41:14,068 --> 01:41:17,945
+<i>Nasceu no dia 15 de abril de 1971,</i>
+<i>em Nixa, Missouri.</i>
+
+737
+01:41:20,115 --> 01:41:23,117
+<i>Por que não vem conversar?</i>
+
+738
+01:41:26,497 --> 01:41:27,705
+Bourne?
+
+739
+01:41:31,335 --> 01:41:33,878
+Descanse, Pam. Está abatida.
+
+740
+01:48:30,420 --> 01:48:31,253
+Portuguese - Brazilian
+
+741
+01:48:31,254 --> 01:48:31,420
+Portuguese - Brazilian
