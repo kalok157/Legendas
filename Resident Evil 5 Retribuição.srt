@@ -1,0 +1,2414 @@
+1
+00:01:44,696 --> 00:01:48,158
+<font color=#00FFFF><b>RESIDENT EVIL 5:
+RETRIBUIÇÃO</b></font>
+
+2
+00:04:24,000 --> 00:04:25,336
+<font color=#FFFF00>Meu nome é Alice.</font>
+
+3
+00:04:26,378 --> 00:04:28,637
+<font color=#FFFF00>Trabalhei para
+a Corporação Umbrella,</font>
+
+4
+00:04:28,673 --> 00:04:31,466
+<font color=#FFFF00>a maior e mais poderosa
+entidade comercial do mundo.</font>
+
+5
+00:04:32,468 --> 00:04:33,808
+<font color=#FFFF00>Era chefe de segurança</font>
+
+6
+00:04:33,844 --> 00:04:36,139
+<font color=#FFFF00>em uma instalação secreta
+chamada a Colmeia.</font>
+
+7
+00:04:36,175 --> 00:04:38,063
+<font color=#FFFF00>Um gigante laboratório
+subterrâneo</font>
+
+8
+00:04:38,099 --> 00:04:40,936
+<font color=#FFFF00>que desenvolvia armamento
+viral experimental.</font>
+
+9
+00:04:42,729 --> 00:04:44,064
+<font color=#FFFF00>Houve um incidente.</font>
+
+10
+00:04:45,023 --> 00:04:46,358
+<font color=#FFFF00>Um vírus escapou.</font>
+
+11
+00:04:47,902 --> 00:04:49,444
+<font color=#FFFF00>Muitas pessoas morreram.</font>
+
+12
+00:04:52,322 --> 00:04:54,867
+<font color=#FFFF00>O problema foi
+que não continuaram mortos.</font>
+
+13
+00:04:57,996 --> 00:04:59,836
+<font color=#FFFF00>O computador
+que controlava a Colmeia</font>
+
+14
+00:04:59,872 --> 00:05:03,084
+<font color=#FFFF00>era uma inteligência artificial.
+A Rainha Vermelha.</font>
+
+15
+00:05:06,255 --> 00:05:09,758
+<font color=#FFFF00>A Rainha Vermelha respondeu
+ao surto viral de forma extrema.</font>
+
+16
+00:05:11,134 --> 00:05:12,636
+<font color=#FFFF00>Ela partiu para o homicídio.</font>
+
+17
+00:05:12,970 --> 00:05:15,181
+<font color=#FFFF00>Todos vocês vão morrer
+aqui embaixo.</font>
+
+18
+00:05:15,473 --> 00:05:17,559
+<font color=#FFFF00>A Rainha Vermelha
+tentou matar a todos.</font>
+
+19
+00:05:17,643 --> 00:05:19,518
+<font color=#FFFF00>Estivessem eles infectados
+ou não.</font>
+
+20
+00:05:22,355 --> 00:05:24,400
+<font color=#FFFF00>Consegui escapar, mas...</font>
+
+21
+00:05:24,942 --> 00:05:26,443
+<font color=#FFFF00>isso foi apenas o começo.</font>
+
+22
+00:05:30,323 --> 00:05:33,284
+<font color=#FFFF00>O surto viral se espalhou
+rapidamente.</font>
+
+23
+00:05:33,910 --> 00:05:36,953
+<font color=#FFFF00>Primeiro pelos EUA,
+depois pelo mundo.</font>
+
+24
+00:05:39,707 --> 00:05:41,959
+<font color=#FFFF00>O T-vírus não só
+ressuscitava os mortos,</font>
+
+25
+00:05:43,253 --> 00:05:46,132
+<font color=#FFFF00>também os mutava
+de maneiras horríveis.</font>
+
+26
+00:05:47,801 --> 00:05:49,593
+<font color=#FFFF00>Apesar do apocalipse
+que criaram,</font>
+
+27
+00:05:50,178 --> 00:05:53,389
+<font color=#FFFF00>a Corporação Umbrella continuou
+a testar o mortífero T-vírus.</font>
+
+28
+00:05:55,016 --> 00:05:56,393
+<font color=#FFFF00>Fui infectada...</font>
+
+29
+00:05:57,184 --> 00:05:59,687
+<font color=#FFFF00>mas o vírus se ligou a mim
+a nível celular.</font>
+
+30
+00:06:00,312 --> 00:06:02,023
+<font color=#FFFF00>Desenvolvi poderes.</font>
+
+31
+00:06:03,692 --> 00:06:05,736
+<font color=#FFFF00>Sua estrutura genética
+é a chave!</font>
+
+32
+00:06:05,778 --> 00:06:07,154
+<font color=#FFFF00>Me tornei diferente.</font>
+
+33
+00:06:08,907 --> 00:06:10,240
+<font color=#FFFF00>Poderosa.</font>
+
+34
+00:06:11,117 --> 00:06:12,493
+<font color=#FFFF00>Irrefreável.</font>
+
+35
+00:06:14,496 --> 00:06:17,540
+<font color=#FFFF00>Enquanto eu me fortalecia,
+a raça humana enfraquecia.</font>
+
+36
+00:06:18,543 --> 00:06:22,044
+<font color=#FFFF00>Tentei levar os sobreviventes
+que encontrei à segurança,</font>
+
+37
+00:06:22,253 --> 00:06:24,423
+<font color=#FFFF00>mas fomos perseguidos
+implacavelmente.</font>
+
+38
+00:06:25,132 --> 00:06:28,385
+<font color=#FFFF00>Até minha amiga Jill Valentine
+foi controlada pela Umbrella.</font>
+
+39
+00:06:28,469 --> 00:06:29,803
+<font color=#FFFF00>Atirem para matar.</font>
+
+40
+00:06:29,928 --> 00:06:32,973
+<font color=#FFFF00>Finalmente, confrontei o chefe
+da Corporação Umbrella.</font>
+
+41
+00:06:33,433 --> 00:06:34,768
+<font color=#FFFF00>Albert Wesker.</font>
+
+42
+00:06:35,519 --> 00:06:39,066
+<font color=#FFFF00>Ele roubou meus poderes,
+mas consegui derrotá-lo.</font>
+
+43
+00:06:40,024 --> 00:06:43,025
+<font color=#FFFF00>Por fim, pensamos
+que tinha acabado.</font>
+
+44
+00:06:44,111 --> 00:06:46,656
+<font color=#FFFF00>Pensamos que tínhamos
+sobrevivido ao horror.</font>
+
+45
+00:06:49,825 --> 00:06:51,202
+<font color=#FFFF00>Mas estávamos enganados.</font>
+
+46
+00:06:52,119 --> 00:06:53,453
+<font color=#FFFF00>Mais uma vez...</font>
+
+47
+00:06:54,164 --> 00:06:57,751
+<font color=#FFFF00>nos encontramos lutando
+por nossas vidas.</font>
+
+48
+00:07:05,969 --> 00:07:07,303
+<font color=#FFFF00>Vão! Vão! Vão!</font>
+
+49
+00:08:01,153 --> 00:08:02,487
+<font color=#FFFF00>Hora de acordar.</font>
+
+50
+00:08:03,989 --> 00:08:06,534
+<font color=#FFFF00>Vamos, querida.
+Estamos atrasados.</font>
+
+51
+00:08:06,617 --> 00:08:10,371
+<font color=#FFFF00>A alarme não disparou.
+Becky ainda não acordou.</font>
+
+52
+00:08:10,788 --> 00:08:12,790
+<font color=#FFFF00>Sra. Handerson
+vai ficar furiosa.</font>
+
+53
+00:08:13,708 --> 00:08:17,087
+<font color=#FFFF00>Sabe como eles ficam quando
+ela chega atrasada na escola.</font>
+
+54
+00:08:24,178 --> 00:08:27,181
+<font color=#FFFF00>Querida?
+Você está bem?</font>
+
+55
+00:08:28,640 --> 00:08:29,976
+<font color=#FFFF00>Estou.</font>
+
+56
+00:08:32,061 --> 00:08:33,437
+<font color=#FFFF00>Vou acordar a Becky.</font>
+
+57
+00:08:36,526 --> 00:08:38,027
+<font color=#FFFF00>Recarreguei suas baterias.</font>
+
+58
+00:08:41,405 --> 00:08:42,781
+<font color=#FFFF00>Becky...</font>
+
+59
+00:08:43,865 --> 00:08:48,705
+<font color=#FFFF00>Sabe que a Sra. Handerson quer
+que você fale enquanto sinaliza.</font>
+
+60
+00:08:48,997 --> 00:08:50,332
+<font color=#FFFF00>Obrigada, papai.</font>
+
+61
+00:08:51,876 --> 00:08:55,838
+<font color=#FFFF00>Quando voltar da escola,
+tenho uma surpresa para você.</font>
+
+62
+00:08:56,296 --> 00:08:57,630
+<font color=#FFFF00>Ouvi isso.</font>
+
+63
+00:08:59,508 --> 00:09:01,718
+<font color=#FFFF00>Essas baterias estão
+cada vez piores.</font>
+
+64
+00:09:01,844 --> 00:09:03,434
+<font color=#FFFF00>Precisamos comprar
+umas novas.</font>
+
+65
+00:09:03,470 --> 00:09:05,306
+<font color=#FFFF00>Posso comprá-las
+a caminho de casa.</font>
+
+66
+00:09:05,342 --> 00:09:07,017
+<font color=#FFFF00>Vou me atrasar.
+De novo.</font>
+
+67
+00:09:09,186 --> 00:09:10,520
+<font color=#FFFF00>Merda!</font>
+
+68
+00:09:10,980 --> 00:09:12,814
+<font color=#FFFF00>Vou buscar outra camisa
+para você.</font>
+
+69
+00:09:13,857 --> 00:09:16,027
+<font color=#FFFF00>Alguém pegou
+suas roupas lavadas ontem.</font>
+
+70
+00:09:17,693 --> 00:09:19,488
+<font color=#FFFF00>Você é meu anjinho,
+não é?</font>
+
+71
+00:09:19,737 --> 00:09:21,240
+<font color=#FFFF00>Vai se atrasar, lembra?</font>
+
+72
+00:09:25,746 --> 00:09:27,123
+<font color=#FFFF00>Vou buscar aquela camisa.</font>
+
+73
+00:09:29,541 --> 00:09:31,001
+<font color=#FFFF00>Pegue a Becky!</font>
+
+74
+00:09:33,420 --> 00:09:34,754
+<font color=#FFFF00>Não!</font>
+
+75
+00:09:44,932 --> 00:09:47,144
+<font color=#FFFF00>Socorro!
+Nos ajudem!</font>
+
+76
+00:09:58,614 --> 00:09:59,949
+<font color=#FFFF00>Suba.</font>
+
+77
+00:10:18,845 --> 00:10:20,178
+<font color=#FFFF00>Pode ir.</font>
+
+78
+00:11:20,119 --> 00:11:21,454
+<font color=#FFFF00>Vai!</font>
+
+79
+00:11:22,247 --> 00:11:23,581
+<font color=#FFFF00>Vai!</font>
+
+80
+00:11:25,334 --> 00:11:26,667
+<font color=#FFFF00>Becky, vai!</font>
+
+81
+00:11:40,141 --> 00:11:41,518
+<font color=#FFFF00>- Para trás!
+- Espere!</font>
+
+82
+00:11:42,227 --> 00:11:43,686
+<font color=#FFFF00>- Espere!
+- Fique abaixado!</font>
+
+83
+00:11:46,440 --> 00:11:48,441
+<font color=#FFFF00>Qual é o problema de vocês?</font>
+
+84
+00:11:49,651 --> 00:11:51,028
+<font color=#FFFF00>Entrem no carro!</font>
+
+85
+00:12:07,296 --> 00:12:10,007
+<font color=#FFFF00>- O que está acontecendo?
+- Sei tanto quanto você.</font>
+
+86
+00:12:10,043 --> 00:12:12,173
+<font color=#FFFF00>Por que essas pessoas
+estão fazendo isso?</font>
+
+87
+00:12:12,210 --> 00:12:14,303
+<font color=#FFFF00>Aquelas coisas não são pessoas.
+Não mais...</font>
+
+88
+00:12:37,953 --> 00:12:39,288
+<font color=#FFFF00>Você está machucada?</font>
+
+89
+00:12:42,791 --> 00:12:44,127
+<font color=#FFFF00>Consegue se mover?</font>
+
+90
+00:12:55,890 --> 00:12:57,267
+<font color=#FFFF00>Vamos.</font>
+
+91
+00:13:05,609 --> 00:13:06,944
+<font color=#FFFF00>Merda!</font>
+
+92
+00:13:14,327 --> 00:13:15,661
+<font color=#FFFF00>Mamãe.</font>
+
+93
+00:13:16,204 --> 00:13:18,080
+<font color=#FFFF00>- Mamãe, vamos.
+- Vai!</font>
+
+94
+00:14:02,378 --> 00:14:03,754
+<font color=#FFFF00>Amo você.</font>
+
+95
+00:15:12,121 --> 00:15:17,377
+<font color=#FFFF00>PROJETO ALICE
+AGUARDANDO INTERROGATÓRIO</font>
+
+96
+00:15:46,702 --> 00:15:50,913
+<font color=#FFFF00>Projeto Alice, por que se virou
+contra a Umbrella?</font>
+
+97
+00:15:52,040 --> 00:15:54,876
+<font color=#FFFF00>Jill? É você?</font>
+
+98
+00:15:55,543 --> 00:15:59,756
+<font color=#FFFF00>Projeto Alice, por que se virou
+contra a Umbrella?</font>
+
+99
+00:16:00,423 --> 00:16:02,426
+<font color=#FFFF00>O que aconteceu
+com Chris e Claire?</font>
+
+100
+00:16:02,926 --> 00:16:04,803
+<font color=#FFFF00>Onde estão os outros do navio?</font>
+
+101
+00:16:22,490 --> 00:16:26,578
+<font color=#FFFF00>Projeto Alice,
+para quem você trabalha?</font>
+
+102
+00:16:29,330 --> 00:16:34,544
+<font color=#FFFF00>Projeto Alice,
+para quem você trabalha?</font>
+
+103
+00:16:36,296 --> 00:16:39,591
+<font color=#FFFF00>Jill...
+Por que está fazendo isso?</font>
+
+104
+00:17:03,533 --> 00:17:05,745
+<font color=#FFFF00>Alerta, alerta.</font>
+
+105
+00:17:06,120 --> 00:17:08,832
+<font color=#FFFF00>Acesso não autorizado
+ao computador.</font>
+
+106
+00:17:09,833 --> 00:17:11,834
+<font color=#FFFF00>Sistema de segurança desativado.</font>
+
+107
+00:17:12,211 --> 00:17:15,714
+<font color=#FFFF00>Reiniciação do computador
+central em 2 minutos.</font>
+
+108
+00:17:19,050 --> 00:17:21,135
+<font color=#FFFF00>Sistema de segurança desativado.</font>
+
+109
+00:17:21,219 --> 00:17:26,100
+<font color=#FFFF00>Reiniciação do computador
+central em 1min e 50s.</font>
+
+110
+00:17:29,354 --> 00:17:31,064
+<font color=#FFFF00>Sistema de segurança desativado.</font>
+
+111
+00:17:31,273 --> 00:17:35,985
+<font color=#FFFF00>Reiniciação do computador
+central em 1min e 40s.</font>
+
+112
+00:17:39,030 --> 00:17:40,865
+<font color=#FFFF00>Sistema de segurança desativado.</font>
+
+113
+00:17:41,241 --> 00:17:44,828
+<font color=#FFFF00>Reiniciação do computador
+central em 30 segundos.</font>
+
+114
+00:17:47,624 --> 00:17:49,668
+<font color=#FFFF00>Sistema de segurança desativado.</font>
+
+115
+00:17:50,002 --> 00:17:54,005
+<font color=#FFFF00>Reiniciação do computador
+central em 20 segundos.</font>
+
+116
+00:17:55,757 --> 00:17:57,802
+<font color=#FFFF00>Sistema de segurança desativado.</font>
+
+117
+00:17:58,052 --> 00:18:01,847
+<font color=#FFFF00>Reiniciação do computador
+central em 10 segundos.</font>
+
+118
+00:18:03,306 --> 00:18:05,310
+<font color=#FFFF00>Computador central reiniciando.</font>
+
+119
+00:18:12,984 --> 00:18:16,154
+<font color=#FFFF00>FUGITIVO
+PROJETO ALICE</font>
+
+120
+00:18:17,114 --> 00:18:19,242
+<font color=#FFFF00>Todas as equipes de segurança
+a postos!</font>
+
+121
+00:18:19,785 --> 00:18:22,245
+<font color=#FFFF00>Varrer o corredor
+com a rede de laser.</font>
+
+122
+00:19:36,742 --> 00:19:39,580
+<font color=#FFFF00>FUGITIVO PROJETO ALICE
+PROTOCOLO SEIS INICIADO</font>
+
+123
+00:19:41,664 --> 00:19:42,998
+<font color=#FFFF00>Aguardando.</font>
+
+124
+00:19:45,585 --> 00:19:46,920
+<font color=#FFFF00>Aguardando.</font>
+
+125
+00:19:49,924 --> 00:19:52,676
+<font color=#FFFF00>Sequência de Tóquio iniciada.</font>
+
+126
+00:24:47,204 --> 00:24:48,539
+<font color=#FFFF00>Aguardando.</font>
+
+127
+00:24:50,875 --> 00:24:52,209
+<font color=#FFFF00>Aguardando.</font>
+
+128
+00:24:59,114 --> 00:25:02,617
+<font color=#FFFF00>Seja bem-vindo à central
+de controle da Umbrella.</font>
+
+129
+00:25:27,227 --> 00:25:28,603
+<font color=#FFFF00>Aí sim.</font>
+
+130
+00:25:52,881 --> 00:25:54,256
+<font color=#FFFF00>Não.</font>
+
+131
+00:25:54,340 --> 00:25:56,097
+<font color=#FFFF00>- Meu nome é...
+- Ada Wong.</font>
+
+132
+00:25:56,134 --> 00:25:57,974
+<font color=#FFFF00>Funcionária da
+Corporação Umbrella.</font>
+
+133
+00:25:58,011 --> 00:26:00,263
+<font color=#FFFF00>Uma das melhores agentes
+de Albert Wesker.</font>
+
+134
+00:26:00,305 --> 00:26:03,141
+<font color=#FFFF00>Sei exatamente quem
+e o que você é.</font>
+
+135
+00:26:03,682 --> 00:26:05,226
+<font color=#FFFF00>A pergunta é:</font>
+
+136
+00:26:05,769 --> 00:26:08,481
+<font color=#FFFF00>por que não cancelo
+seu contrato nesse momento?</font>
+
+137
+00:26:08,517 --> 00:26:11,316
+<font color=#FFFF00>Não trabalho mais
+para a Umbrella.</font>
+
+138
+00:26:11,899 --> 00:26:15,780
+<font color=#FFFF00>- Nem Albert Wesker.
+- Não me importo.</font>
+
+139
+00:26:15,863 --> 00:26:17,573
+<font color=#FFFF00>Pode matá-la se quiser,</font>
+
+140
+00:26:17,991 --> 00:26:19,827
+<font color=#FFFF00>mas então nunca sairá
+desse lugar.</font>
+
+141
+00:26:20,369 --> 00:26:21,709
+<font color=#FFFF00>Wesker.</font>
+
+142
+00:26:21,745 --> 00:26:23,787
+<font color=#FFFF00>Seja uma boa menina
+e abaixe a faca.</font>
+
+143
+00:26:25,999 --> 00:26:29,043
+<font color=#FFFF00>E, Alice,
+que bom vê-la novamente.</font>
+
+144
+00:26:30,630 --> 00:26:33,924
+<font color=#FFFF00>- Como ela escapou?
+- É óbvio que teve ajuda.</font>
+
+145
+00:26:34,007 --> 00:26:36,511
+<font color=#FFFF00>Temos um traidor
+nessa instalação.</font>
+
+146
+00:26:36,594 --> 00:26:39,535
+<font color=#FFFF00>Os sistemas de segurança
+foram desligados por 2 minutos.</font>
+
+147
+00:26:39,571 --> 00:26:42,476
+<font color=#FFFF00>- E a central de controle?
+- Não conseguimos fazer contato.</font>
+
+148
+00:26:45,896 --> 00:26:48,530
+<font color=#FFFF00>Executei todos
+nessa central de controle.</font>
+
+149
+00:26:48,566 --> 00:26:51,234
+<font color=#FFFF00>Permiti que Wesker invadisse
+o computador central.</font>
+
+150
+00:26:51,271 --> 00:26:53,279
+<font color=#FFFF00>Desativamos os sistemas
+de segurança.</font>
+
+151
+00:26:54,362 --> 00:26:55,865
+<font color=#FFFF00>Libertamos você daquela cela.</font>
+
+152
+00:26:56,074 --> 00:26:58,535
+<font color=#FFFF00>Você precisa sair
+dessa instalação.</font>
+
+153
+00:26:59,368 --> 00:27:01,912
+<font color=#FFFF00>- Por que quer me ajudar?
+- Precisamos de você.</font>
+
+154
+00:27:02,538 --> 00:27:04,540
+<font color=#FFFF00>A raça humana está
+à beira da extinção.</font>
+
+155
+00:27:04,999 --> 00:27:07,003
+<font color=#FFFF00>Nossa única esperança
+de sobrevivência</font>
+
+156
+00:27:07,169 --> 00:27:08,712
+<font color=#FFFF00>é se trabalharmos juntos.</font>
+
+157
+00:27:08,796 --> 00:27:11,841
+<font color=#FFFF00>Não vou a lugar algum até
+saber onde estamos</font>
+
+158
+00:27:11,878 --> 00:27:13,805
+<font color=#FFFF00>e o que diabos está
+acontecendo aqui.</font>
+
+159
+00:27:13,841 --> 00:27:16,638
+<font color=#FFFF00>Está na instalação principal
+de testes da Umbrella.</font>
+
+160
+00:27:16,675 --> 00:27:18,060
+<font color=#FFFF00>Explique Tóquio.</font>
+
+161
+00:27:18,097 --> 00:27:22,352
+<font color=#FFFF00>O que viu foi uma recriação
+detalhada, nada mais.</font>
+
+162
+00:27:23,020 --> 00:27:26,815
+<font color=#FFFF00>Continua por alguns quarteirões
+da cidade, é só isso.</font>
+
+163
+00:27:27,650 --> 00:27:30,236
+<font color=#FFFF00>- Eu estava lá fora.
+- Estava?</font>
+
+164
+00:27:30,611 --> 00:27:33,156
+<font color=#FFFF00>- Não viu o céu, não é?
+- Estava de noite.</font>
+
+165
+00:27:33,364 --> 00:27:35,574
+<font color=#FFFF00>Estrelas? A lua?</font>
+
+166
+00:27:35,616 --> 00:27:38,496
+<font color=#FFFF00>O local de testes tem
+90 metros de altura.</font>
+
+167
+00:27:38,869 --> 00:27:43,167
+<font color=#FFFF00>O teto é preto.
+Costuma ser noite lá.</font>
+
+168
+00:27:43,333 --> 00:27:45,835
+<font color=#FFFF00>Mas não é quando
+os monstros aparecem?</font>
+
+169
+00:27:45,920 --> 00:27:48,423
+<font color=#FFFF00>- Estava chovendo.
+- Controle climático.</font>
+
+170
+00:27:48,589 --> 00:27:53,094
+<font color=#FFFF00>Vento, chuva.
+Até fazem nevar, se quiserem.</font>
+
+171
+00:27:53,219 --> 00:27:55,679
+<font color=#FFFF00>- Por que construir tal lugar?
+- É simples.</font>
+
+172
+00:27:55,804 --> 00:27:58,808
+<font color=#FFFF00>A Corporação Umbrella
+tem o seu maior lucro</font>
+
+173
+00:27:58,892 --> 00:28:00,769
+<font color=#FFFF00>na venda de armamento viral.</font>
+
+174
+00:28:01,270 --> 00:28:04,105
+<font color=#FFFF00>Algo impossível
+de testar no mundo real.</font>
+
+175
+00:28:04,730 --> 00:28:08,277
+<font color=#FFFF00>Recriaram o centro de Nova York,
+simularam uma epidemia,</font>
+
+176
+00:28:08,360 --> 00:28:11,614
+<font color=#FFFF00>mostraram aos russos
+e venderam o vírus.</font>
+
+177
+00:28:12,323 --> 00:28:14,491
+<font color=#FFFF00>Simularam uma epidemia
+em Moscou</font>
+
+178
+00:28:14,825 --> 00:28:16,703
+<font color=#FFFF00>e venderam para os americanos.</font>
+
+179
+00:28:16,786 --> 00:28:19,998
+<font color=#FFFF00>- Uma epidemia em Tóquio.
+- Venderam para os chineses.</font>
+
+180
+00:28:20,165 --> 00:28:23,210
+<font color=#FFFF00>- Uma epidemia na China.
+- Venderam para os japoneses.</font>
+
+181
+00:28:23,335 --> 00:28:25,879
+<font color=#FFFF00>Exato.
+Todos tinham que tê-lo.</font>
+
+182
+00:28:26,254 --> 00:28:29,632
+<font color=#FFFF00>A Corporação Umbrella construiu
+uma nova corrida armamentista.</font>
+
+183
+00:28:29,669 --> 00:28:34,471
+<font color=#FFFF00>Só que dessa vez,
+foi biológica em vez de nuclear.</font>
+
+184
+00:28:34,805 --> 00:28:36,265
+<font color=#FFFF00>Altamente rentável.</font>
+
+185
+00:28:36,599 --> 00:28:38,644
+<font color=#FFFF00>É onde tudo aconteceu.</font>
+
+186
+00:28:39,102 --> 00:28:41,312
+<font color=#FFFF00>Essa é a maior criação
+da Umbrella.</font>
+
+187
+00:28:42,689 --> 00:28:44,654
+<font color=#FFFF00>O ventre da besta.</font>
+
+188
+00:28:44,691 --> 00:28:46,568
+<font color=#FFFF00>Então por que não damos
+o fora daqui?</font>
+
+189
+00:28:48,071 --> 00:28:49,405
+<font color=#FFFF00>Pare!</font>
+
+190
+00:28:51,199 --> 00:28:53,160
+<font color=#FFFF00>O sol vai nascer
+em menos de 1 minuto.</font>
+
+191
+00:28:54,368 --> 00:28:56,412
+<font color=#FFFF00>Por que não vê
+por si própria?</font>
+
+192
+00:28:56,914 --> 00:29:00,416
+<font color=#FFFF00>Essa instalação está localizada
+nos extremos de Kamchatka.</font>
+
+193
+00:29:00,584 --> 00:29:02,085
+<font color=#FFFF00>Norte da Rússia.</font>
+
+194
+00:29:02,669 --> 00:29:06,465
+<font color=#FFFF00>A antiga URSS construiu bases
+de submarinos aqui, nos anos 80.</font>
+
+195
+00:29:06,882 --> 00:29:08,926
+<font color=#FFFF00>Depois que a Guerra Fria
+acabou,</font>
+
+196
+00:29:09,093 --> 00:29:11,595
+<font color=#FFFF00>a Corporação Umbrella
+as expandiu</font>
+
+197
+00:29:12,347 --> 00:29:14,599
+<font color=#FFFF00>e construiu
+o andar de testes.</font>
+
+198
+00:29:17,812 --> 00:29:20,856
+<font color=#FFFF00>Ninguém jamais escapou
+dessa instalação.</font>
+
+199
+00:29:22,774 --> 00:29:24,109
+<font color=#FFFF00>Gelo.</font>
+
+200
+00:29:24,234 --> 00:29:26,487
+<font color=#FFFF00>Vão precisar
+de toda ajuda possível.</font>
+
+201
+00:29:27,113 --> 00:29:29,240
+<font color=#FFFF00>Então providenciei
+que uma equipe de ataque</font>
+
+202
+00:29:29,276 --> 00:29:31,075
+<font color=#FFFF00>entre pela superfície
+e ajude vocês.</font>
+
+203
+00:30:16,082 --> 00:30:17,417
+<font color=#FFFF00>Lá estão elas.</font>
+
+204
+00:30:17,542 --> 00:30:19,587
+<font color=#FFFF00>Entradas para a instalação
+da Umbrella.</font>
+
+205
+00:30:23,027 --> 00:30:24,362
+<font color=#FFFF00>Parecem abandonadas.</font>
+
+206
+00:30:24,487 --> 00:30:26,323
+<font color=#FFFF00>É o que querem
+que você pense.</font>
+
+207
+00:30:26,782 --> 00:30:28,116
+<font color=#FFFF00>Vamos indo!</font>
+
+208
+00:30:28,201 --> 00:30:30,870
+<font color=#FFFF00>Só temos 2 horas
+para extrair Alice e Ada.</font>
+
+209
+00:30:30,954 --> 00:30:33,997
+<font color=#FFFF00>Depois disso, podemos esperar
+reforços pesados da Umbrella.</font>
+
+210
+00:30:46,636 --> 00:30:47,972
+<font color=#FFFF00>Executando um desvio.</font>
+
+211
+00:30:52,226 --> 00:30:54,811
+<font color=#FFFF00>Esses são os códigos de acesso
+que Ada nos deu.</font>
+
+212
+00:30:54,895 --> 00:30:57,607
+<font color=#FFFF00>- Confia nela?
+- Digite os números logo.</font>
+
+213
+00:31:03,028 --> 00:31:04,656
+<font color=#FFFF00>Os explosivos estão instalados.</font>
+
+214
+00:31:07,869 --> 00:31:09,245
+<font color=#FFFF00>Entramos.</font>
+
+215
+00:31:25,511 --> 00:31:26,888
+<font color=#FFFF00>Vamos fazer isso.</font>
+
+216
+00:31:28,181 --> 00:31:29,516
+<font color=#FFFF00>Eles entraram.</font>
+
+217
+00:31:29,725 --> 00:31:31,976
+<font color=#FFFF00>A equipe de ataque
+assegurou um elevador</font>
+
+218
+00:31:32,013 --> 00:31:33,483
+<font color=#FFFF00>para sua fuga à superfície.</font>
+
+219
+00:31:33,520 --> 00:31:35,898
+<font color=#FFFF00>Eles vão eliminar
+a resistência da Umbrella,</font>
+
+220
+00:31:35,934 --> 00:31:38,777
+<font color=#FFFF00>depois virão conosco
+para nos escoltar.</font>
+
+221
+00:31:39,068 --> 00:31:43,281
+<font color=#FFFF00>Um amigo seu está com eles.
+Luther West.</font>
+
+222
+00:31:43,491 --> 00:31:44,825
+<font color=#FFFF00>Ele está vivo?</font>
+
+223
+00:31:45,533 --> 00:31:47,745
+<font color=#FFFF00>Tudo bem.
+Segurem firme, senhoras.</font>
+
+224
+00:31:55,336 --> 00:31:56,838
+<font color=#FFFF00>Sincronizem os relógios.</font>
+
+225
+00:31:56,963 --> 00:32:01,510
+<font color=#FFFF00>Exatamente 2 horas em...
+Três, dois, um. Marcar.</font>
+
+226
+00:32:02,218 --> 00:32:06,431
+<font color=#FFFF00>DETONAÇÃO ATIVADA</font>
+
+227
+00:32:08,684 --> 00:32:11,896
+<font color=#FFFF00>Leon, por que não ativamos
+os explosivos remotamente?</font>
+
+228
+00:32:11,932 --> 00:32:14,230
+<font color=#FFFF00>Não podemos arriscar
+que atrapalhem o sinal.</font>
+
+229
+00:32:14,941 --> 00:32:16,485
+<font color=#FFFF00>Se conseguirmos ou não,</font>
+
+230
+00:32:16,526 --> 00:32:18,444
+<font color=#FFFF00>essa instalação
+precisa ser destruída.</font>
+
+231
+00:32:19,695 --> 00:32:21,490
+<font color=#FFFF00>E se demorarmos
+mais de 2 horas?</font>
+
+232
+00:32:21,572 --> 00:32:24,617
+<font color=#FFFF00>Então espero que seja bom
+em segurar seu fôlego.</font>
+
+233
+00:32:26,787 --> 00:32:30,792
+<font color=#FFFF00>A chefe de segurança Valentine
+chegou ao ambiente de Tóquio.</font>
+
+234
+00:32:30,875 --> 00:32:34,337
+<font color=#FFFF00>- Ela está rastreando vocês.
+- Estão vindo nessa direção.</font>
+
+235
+00:32:35,254 --> 00:32:37,508
+<font color=#FFFF00>Suas ordens são de capturá-las,
+se possível,</font>
+
+236
+00:32:38,592 --> 00:32:40,594
+<font color=#FFFF00>ou executá-las, se necessário.</font>
+
+237
+00:32:41,428 --> 00:32:44,639
+<font color=#FFFF00>- Quem está dando essas ordens?
+- A Rainha Vermelha.</font>
+
+238
+00:32:44,675 --> 00:32:46,725
+<font color=#FFFF00>- O computador?
+- Sim.</font>
+
+239
+00:32:46,767 --> 00:32:49,770
+<font color=#FFFF00>A mesma inteligência artificial
+que encontrou na Colmeia.</font>
+
+240
+00:32:50,606 --> 00:32:53,774
+<font color=#FFFF00>Ela controla o que restou
+da Corporação Umbrella.</font>
+
+241
+00:32:53,899 --> 00:32:57,404
+<font color=#FFFF00>Ela não vai parar por nada
+para evitar a fuga de vocês.</font>
+
+242
+00:32:58,238 --> 00:32:59,990
+<font color=#FFFF00>Fiz uma rota de fuga
+para vocês.</font>
+
+243
+00:33:00,449 --> 00:33:03,244
+<font color=#FFFF00>Vão cruzar o ambiente de
+Nova York para os subúrbios,</font>
+
+244
+00:33:03,286 --> 00:33:05,495
+<font color=#FFFF00>onde vão encontrar
+a equipe de ataque.</font>
+
+245
+00:33:05,705 --> 00:33:08,540
+<font color=#FFFF00>Eles irão escoltá-las
+pelo ambiente de Moscou</font>
+
+246
+00:33:08,576 --> 00:33:10,208
+<font color=#FFFF00>até as bases de submarinos.</font>
+
+247
+00:33:10,876 --> 00:33:13,441
+<font color=#FFFF00>Ali, usem o elevador
+para subirem à superfície.</font>
+
+248
+00:33:13,478 --> 00:33:16,007
+<font color=#FFFF00>A Rainha Vermelha está
+interceptando meu sinal.</font>
+
+249
+00:33:16,133 --> 00:33:18,636
+<font color=#FFFF00>Ela irá recuperar o controle
+dessa instalação!</font>
+
+250
+00:33:19,344 --> 00:33:20,680
+<font color=#FFFF00>Precisam se apressar!</font>
+
+251
+00:33:23,057 --> 00:33:27,061
+<font color=#FFFF00>Não deem ouvidos ao Wesker.
+Estou no controle agora.</font>
+
+252
+00:33:27,354 --> 00:33:31,065
+<font color=#FFFF00>Projeto Alice, Ada Wong,
+fiquem onde estão!</font>
+
+253
+00:33:31,148 --> 00:33:33,192
+<font color=#FFFF00>- Vamos embora.
+- Projeto Alice!</font>
+
+254
+00:33:35,277 --> 00:33:37,281
+<font color=#FFFF00>Todos vocês vão morrer
+aqui embaixo.</font>
+
+255
+00:33:37,948 --> 00:33:39,282
+<font color=#FFFF00>Já ouvi isso antes.</font>
+
+256
+00:33:54,840 --> 00:34:00,012
+<font color=#FFFF00>ALERTA DE INTRUSOS! ACESSO
+NÃO PERMITIDO AO ELEVADOR!</font>
+
+257
+00:34:02,140 --> 00:34:03,475
+<font color=#FFFF00>Formação de defesa!</font>
+
+258
+00:34:05,059 --> 00:34:07,563
+<font color=#FFFF00>Marquem seus alvos.
+Atirar à vontade.</font>
+
+259
+00:34:23,831 --> 00:34:25,874
+<font color=#FFFF00>Bases de submarinos
+logo à frente.</font>
+
+260
+00:34:28,671 --> 00:34:30,838
+<font color=#FFFF00>Barry, nós vamos na frente.</font>
+
+261
+00:34:32,799 --> 00:34:35,718
+<font color=#FFFF00>Vamos nos encontrar com Alice
+e Ada em 30 minutos.</font>
+
+262
+00:34:52,946 --> 00:34:54,279
+<font color=#FFFF00>Liberado!</font>
+
+263
+00:35:01,372 --> 00:35:04,131
+<font color=#FFFF00>- Isso que é equipamento.
+- Tanques cheios de gás.</font>
+
+264
+00:35:04,168 --> 00:35:07,587
+<font color=#FFFF00>Os maiores submarinos nucleares
+que os soviéticos construíram.</font>
+
+265
+00:35:07,879 --> 00:35:09,922
+<font color=#FFFF00>Umbrella os usava
+para transportar</font>
+
+266
+00:35:09,958 --> 00:35:11,965
+<font color=#FFFF00>armas biológicas
+pelo mundo.</font>
+
+267
+00:35:12,175 --> 00:35:15,699
+<font color=#FFFF00>Vamos aumentar o passo.
+Temos menos de 90 minutos.</font>
+
+268
+00:35:15,735 --> 00:35:19,225
+<font color=#FFFF00>Intrusos detectados.
+Marcados para extermínio.</font>
+
+269
+00:35:23,479 --> 00:35:24,854
+<font color=#FFFF00>Nova York.</font>
+
+270
+00:35:25,355 --> 00:35:28,360
+<font color=#FFFF00>Precisamos atravessar mais
+2 ambientes para escapar.</font>
+
+271
+00:35:28,397 --> 00:35:29,699
+<font color=#FFFF00>Vamos indo.</font>
+
+272
+00:35:29,736 --> 00:35:32,490
+<font color=#FFFF00>Por que a Umbrella continuaria
+a fazer esses testes?</font>
+
+273
+00:35:32,526 --> 00:35:34,490
+<font color=#FFFF00>Querem estudar
+o agente biológico.</font>
+
+274
+00:35:34,615 --> 00:35:36,117
+<font color=#FFFF00>Aprender a controlá-lo.</font>
+
+275
+00:35:36,158 --> 00:35:40,997
+<font color=#FFFF00>Iniciar sequência de Nova York.
+Ativar o agente biológico.</font>
+
+276
+00:35:44,126 --> 00:35:45,502
+<font color=#FFFF00>Aguardando.</font>
+
+277
+00:35:46,253 --> 00:35:47,588
+<font color=#FFFF00>Aguardando.</font>
+
+278
+00:35:48,424 --> 00:35:50,926
+<font color=#FFFF00>Sequência de Nova York
+iniciada.</font>
+
+279
+00:35:51,051 --> 00:35:52,348
+<font color=#FFFF00>A Rainha Vermelha.</font>
+
+280
+00:35:52,385 --> 00:35:55,055
+<font color=#FFFF00>Está ativando armas biológicas
+para nos deter.</font>
+
+281
+00:35:55,092 --> 00:35:56,848
+<font color=#FFFF00>- Vamos embora.
+- Espere.</font>
+
+282
+00:35:58,143 --> 00:35:59,475
+<font color=#FFFF00>Escutou isso?</font>
+
+283
+00:36:08,613 --> 00:36:11,615
+<font color=#FFFF00>- Sabe o que é?
+- Tenho uma ideia.</font>
+
+284
+00:36:31,051 --> 00:36:32,428
+<font color=#FFFF00>Só pode ser brincadeira!</font>
+
+285
+00:38:05,863 --> 00:38:07,240
+<font color=#FFFF00>Ei, garotos.</font>
+
+286
+00:38:08,825 --> 00:38:10,201
+<font color=#FFFF00>Péssima ideia.</font>
+
+287
+00:38:30,641 --> 00:38:33,476
+<font color=#FFFF00>Vamos andando.
+Estamos atrasadas.</font>
+
+288
+00:38:47,242 --> 00:38:50,412
+<font color=#FFFF00>- O que está acontecendo?
+- É o fim da sequência.</font>
+
+289
+00:38:51,456 --> 00:38:53,499
+<font color=#FFFF00>Não costumam durar
+mais de 1 hora.</font>
+
+290
+00:38:53,582 --> 00:38:54,916
+<font color=#FFFF00>Vamos.</font>
+
+291
+00:38:56,001 --> 00:38:58,588
+<font color=#FFFF00>Antes que a Rainha Vermelha
+ative outra coisa.</font>
+
+292
+00:38:59,963 --> 00:39:01,507
+<font color=#FFFF00>Alvos sobreviveram.</font>
+
+293
+00:39:02,257 --> 00:39:04,801
+<font color=#FFFF00>Chefe de segurança Valentine
+deve interceptar.</font>
+
+294
+00:39:05,929 --> 00:39:08,724
+<font color=#FFFF00>Intrusos entrando no ambiente
+de testes de Moscou.</font>
+
+295
+00:39:09,016 --> 00:39:11,269
+<font color=#FFFF00>Ativar os mortos-vivos
+Las Plagas.</font>
+
+296
+00:39:22,029 --> 00:39:23,327
+<font color=#FFFF00>O que está acontecendo?</font>
+
+297
+00:39:23,364 --> 00:39:25,533
+<font color=#FFFF00>A Rainha Vermelha
+sabe que estamos aqui.</font>
+
+298
+00:39:25,569 --> 00:39:27,327
+<font color=#FFFF00>Fiquem espertos.</font>
+
+299
+00:39:27,364 --> 00:39:28,704
+<font color=#FFFF00>Aguardando.</font>
+
+300
+00:39:29,497 --> 00:39:30,873
+<font color=#FFFF00>Aguardando.</font>
+
+301
+00:39:31,124 --> 00:39:33,959
+<font color=#FFFF00>Sequência de Moscou iniciada.</font>
+
+302
+00:39:37,547 --> 00:39:39,383
+<font color=#FFFF00>- O que foi?
+- Escute.</font>
+
+303
+00:39:46,139 --> 00:39:47,474
+<font color=#FFFF00>Logo ali!</font>
+
+304
+00:39:56,234 --> 00:39:58,027
+<font color=#FFFF00>Que diabos são
+aquelas coisas?</font>
+
+305
+00:40:03,367 --> 00:40:05,575
+<font color=#FFFF00>Recuem!
+Todos, recuem!</font>
+
+306
+00:40:28,519 --> 00:40:29,895
+<font color=#FFFF00>Nuvens.</font>
+
+307
+00:40:30,520 --> 00:40:34,025
+<font color=#FFFF00>Não são reais.
+É uma projeção holográfica.</font>
+
+308
+00:40:35,609 --> 00:40:37,445
+<font color=#FFFF00>Quando executavam
+uma simulação,</font>
+
+309
+00:40:37,863 --> 00:40:40,656
+<font color=#FFFF00>acredite em mim,
+ninguém olhava para o céu.</font>
+
+310
+00:40:47,998 --> 00:40:49,501
+<font color=#FFFF00>Esse é o ponto de encontro.</font>
+
+311
+00:40:50,084 --> 00:40:51,794
+<font color=#FFFF00>A equipe de ataque
+está atrasada.</font>
+
+312
+00:40:52,670 --> 00:40:54,131
+<font color=#FFFF00>Onde eles estão?</font>
+
+313
+00:40:55,214 --> 00:40:57,217
+<font color=#FFFF00>Tem movimento
+na casa atrás de você.</font>
+
+314
+00:40:58,218 --> 00:40:59,594
+<font color=#FFFF00>Na janela de cima.</font>
+
+315
+00:41:24,038 --> 00:41:25,872
+<font color=#FFFF00>Por que estariam aqui dentro?</font>
+
+316
+00:41:34,131 --> 00:41:35,925
+<font color=#FFFF00>Estão usando clones meus.</font>
+
+317
+00:41:36,050 --> 00:41:39,887
+<font color=#FFFF00>É claro. Você é um dos
+50 modelos básicos.</font>
+
+318
+00:41:42,140 --> 00:41:43,476
+<font color=#FFFF00>"Modelos básicos".</font>
+
+319
+00:41:43,935 --> 00:41:47,813
+<font color=#FFFF00>Como acha que a Umbrella povoa
+esses cenários de testes?</font>
+
+320
+00:41:48,481 --> 00:41:51,567
+<font color=#FFFF00>Há centenas de mortos
+em toda simulação.</font>
+
+321
+00:41:51,733 --> 00:41:54,529
+<font color=#FFFF00>Umbrella implanta
+memórias básicas.</font>
+
+322
+00:41:55,028 --> 00:41:58,283
+<font color=#FFFF00>Só o suficiente para assegurar
+uma resposta emocional correta</font>
+
+323
+00:41:58,320 --> 00:42:00,119
+<font color=#FFFF00>à ameaça do ataque biológico.</font>
+
+324
+00:42:00,452 --> 00:42:03,246
+<font color=#FFFF00>Em uma vida, ela pode
+ser uma dona de casa.</font>
+
+325
+00:42:03,372 --> 00:42:05,916
+<font color=#FFFF00>Na próxima, uma executiva
+de Nova York.</font>
+
+326
+00:42:05,999 --> 00:42:09,546
+<font color=#FFFF00>Na próxima,
+um soldado da Umbrella.</font>
+
+327
+00:43:29,634 --> 00:43:30,966
+<font color=#FFFF00>Mamãe!</font>
+
+328
+00:43:31,175 --> 00:43:32,675
+<font color=#FFFF00>Me escondi como você mandou.</font>
+
+329
+00:43:38,183 --> 00:43:40,686
+<font color=#FFFF00>O que houve com suas roupas
+e seu cabelo?</font>
+
+330
+00:44:25,651 --> 00:44:27,153
+<font color=#FFFF00>Míssel!
+Abaixem-se!</font>
+
+331
+00:44:31,951 --> 00:44:36,538
+<font color=#FFFF00>Nosso tempo está acabando!
+Precisa achar uma saída!</font>
+
+332
+00:44:36,705 --> 00:44:38,039
+<font color=#FFFF00>Estou quase lá!</font>
+
+333
+00:44:57,143 --> 00:44:59,981
+<font color=#FFFF00>- Nada disso é real.
+- Para ela, é.</font>
+
+334
+00:45:00,147 --> 00:45:02,191
+<font color=#FFFF00>Eu sei, é o objetivo.</font>
+
+335
+00:45:02,317 --> 00:45:04,610
+<font color=#FFFF00>Todos esses sentimentos
+que ela tem por você,</font>
+
+336
+00:45:04,647 --> 00:45:05,986
+<font color=#FFFF00>foram implantados.</font>
+
+337
+00:45:07,906 --> 00:45:10,622
+<font color=#FFFF00>Um dia atrás,
+ela não era nada.</font>
+
+338
+00:45:10,658 --> 00:45:14,371
+<font color=#FFFF00>Posso mostrar uma dúzia,
+iguais a ela, armazenadas.</font>
+
+339
+00:45:16,123 --> 00:45:18,083
+<font color=#FFFF00>Sinto muito, mas é verdade.</font>
+
+340
+00:45:18,751 --> 00:45:21,755
+<font color=#FFFF00>Estou pronta!
+Fui rápida, não fui?</font>
+
+341
+00:45:22,589 --> 00:45:23,922
+<font color=#FFFF00>Sim, você foi.</font>
+
+342
+00:45:53,122 --> 00:45:55,124
+<font color=#FFFF00>- Papai?
+- Ele não é seu pai.</font>
+
+343
+00:45:55,248 --> 00:45:58,753
+<font color=#FFFF00>Capture, se possível.
+Extermine, se necessário.</font>
+
+344
+00:46:00,337 --> 00:46:03,882
+<font color=#FFFF00>- Tem uma criança aqui.
+- É problema seu, não nosso.</font>
+
+345
+00:46:04,800 --> 00:46:08,013
+<font color=#FFFF00>Minha nossa, você
+não mudou nada.</font>
+
+346
+00:46:08,054 --> 00:46:09,806
+<font color=#FFFF00>Não conheço você, moça.</font>
+
+347
+00:46:10,681 --> 00:46:13,476
+<font color=#FFFF00>Rendam-se ou morram.</font>
+
+348
+00:46:27,367 --> 00:46:28,702
+<font color=#FFFF00>Fique abaixada!</font>
+
+349
+00:47:12,833 --> 00:47:15,335
+<font color=#FFFF00>- Avancem em equipes!
+- Armas a postos!</font>
+
+350
+00:47:22,218 --> 00:47:23,594
+<font color=#FFFF00>Não pode ficar aqui.</font>
+
+351
+00:47:24,637 --> 00:47:26,430
+<font color=#FFFF00>Isso lhe mostrará a saída.</font>
+
+352
+00:47:26,847 --> 00:47:29,351
+<font color=#FFFF00>Vá por Moscou até
+as bases de submarinos.</font>
+
+353
+00:47:29,476 --> 00:47:30,811
+<font color=#FFFF00>Leve isso!</font>
+
+354
+00:47:32,230 --> 00:47:34,315
+<font color=#FFFF00>Quanto menos eu
+tiver comigo, melhor.</font>
+
+355
+00:47:35,774 --> 00:47:37,527
+<font color=#FFFF00>Equipe Alfa, avançar!</font>
+
+356
+00:48:00,177 --> 00:48:02,429
+<font color=#FFFF00>Estão vindo,
+precisamos nos apressar.</font>
+
+357
+00:48:52,817 --> 00:48:54,653
+<font color=#FFFF00>Consegui! Por aqui!</font>
+
+358
+00:49:02,827 --> 00:49:04,204
+<font color=#FFFF00>Ei!</font>
+
+359
+00:49:05,080 --> 00:49:07,624
+<font color=#FFFF00>Espere.
+Ela nos ajudou, não lembra?</font>
+
+360
+00:49:08,667 --> 00:49:10,003
+<font color=#FFFF00>Vocês sobreviveram!</font>
+
+361
+00:49:12,672 --> 00:49:14,466
+<font color=#FFFF00>Pensei que só eu
+tinha sobrevivido.</font>
+
+362
+00:49:14,592 --> 00:49:17,093
+<font color=#FFFF00>Que lugar é esse?
+Por que tudo está em russo?</font>
+
+363
+00:49:17,593 --> 00:49:20,138
+<font color=#FFFF00>E por que está vestindo
+essa roupa?</font>
+
+364
+00:49:21,430 --> 00:49:22,807
+<font color=#FFFF00>Sabe usar isso?</font>
+
+365
+00:49:23,306 --> 00:49:25,518
+<font color=#FFFF00>Fiz campanhas
+por controle de armas.</font>
+
+366
+00:49:27,646 --> 00:49:28,944
+<font color=#FFFF00>Não entendeu.</font>
+
+367
+00:49:28,981 --> 00:49:31,067
+<font color=#FFFF00>Marchei contra
+a Associação de Armas.</font>
+
+368
+00:49:31,150 --> 00:49:32,485
+<font color=#FFFF00>Concentre-se.</font>
+
+369
+00:49:33,234 --> 00:49:37,240
+<font color=#FFFF00>É como uma câmera.
+Aponte e dispare.</font>
+
+370
+00:49:41,453 --> 00:49:44,457
+<font color=#FFFF00>Parabéns, você é
+oficialmente uma durona.</font>
+
+371
+00:49:47,500 --> 00:49:49,211
+<font color=#FFFF00>Que diabos está acontecendo?</font>
+
+372
+00:49:49,379 --> 00:49:52,881
+<font color=#FFFF00>Explico quando voltar.
+Precisa mantê-la a salvo.</font>
+
+373
+00:49:53,590 --> 00:49:57,428
+<font color=#FFFF00>- Fique com ela.
+- Disse que não ia embora.</font>
+
+374
+00:49:57,595 --> 00:50:00,474
+<font color=#FFFF00>Confie em mim, está bem?
+O que eu disse é verdade.</font>
+
+375
+00:50:00,511 --> 00:50:02,977
+<font color=#FFFF00>- Voltarei para buscar você.
+- Promete?</font>
+
+376
+00:50:03,101 --> 00:50:04,604
+<font color=#FFFF00>Confie em mim.</font>
+
+377
+00:50:10,026 --> 00:50:11,360
+<font color=#FFFF00>Eu amo você.</font>
+
+378
+00:50:14,446 --> 00:50:16,949
+<font color=#FFFF00>Vamos.
+Ela voltará.</font>
+
+379
+00:50:17,324 --> 00:50:19,244
+<font color=#FFFF00>Precisamos encontrar
+um esconderijo.</font>
+
+380
+00:50:19,661 --> 00:50:22,205
+<font color=#FFFF00>- Conheci sua irmã.
+- O quê?</font>
+
+381
+00:50:22,331 --> 00:50:24,082
+<font color=#FFFF00>Ela não é muito gentil.</font>
+
+382
+00:50:25,543 --> 00:50:27,294
+<font color=#FFFF00>Vamos tentar aqui embaixo.</font>
+
+383
+00:50:39,308 --> 00:50:41,142
+<font color=#FFFF00>- Por aqui!
+- Vamos lá!</font>
+
+384
+00:50:42,435 --> 00:50:43,769
+<font color=#FFFF00>Podemos contornar...</font>
+
+385
+00:51:11,552 --> 00:51:13,885
+<font color=#FFFF00>Estão esperando um convite
+por escrito?</font>
+
+386
+00:51:23,521 --> 00:51:24,945
+<font color=#FFFF00>Belo transporte.</font>
+
+387
+00:51:24,982 --> 00:51:27,364
+<font color=#FFFF00>Bem, estamos em Moscou.</font>
+
+388
+00:51:27,401 --> 00:51:30,612
+<font color=#FFFF00>Ouvi disparos, achei que podiam
+precisar de uma ajudinha.</font>
+
+389
+00:51:30,649 --> 00:51:33,699
+<font color=#FFFF00>- Onde está Ada?
+- Acho que não conseguiu.</font>
+
+390
+00:51:34,575 --> 00:51:35,952
+<font color=#FFFF00>Sinto muito.</font>
+
+391
+00:51:36,327 --> 00:51:39,039
+<font color=#FFFF00>- Você a viu morrer?
+- Não.</font>
+
+392
+00:51:39,832 --> 00:51:41,501
+<font color=#FFFF00>Ela sempre tem um plano.</font>
+
+393
+00:52:20,667 --> 00:52:23,045
+<font color=#FFFF00>Garotos?
+Importam-se?</font>
+
+394
+00:52:23,378 --> 00:52:25,130
+<font color=#FFFF00>- Vamos?
+- Será um prazer.</font>
+
+395
+00:52:57,081 --> 00:52:59,334
+<font color=#FFFF00>Avise-me quando for
+fazer isso de novo.</font>
+
+396
+00:53:05,217 --> 00:53:06,591
+<font color=#FFFF00>Avisando.</font>
+
+397
+00:53:42,298 --> 00:53:44,424
+<font color=#FFFF00>Nosso amiguinho
+está de volta!</font>
+
+398
+00:53:45,342 --> 00:53:46,635
+<font color=#FFFF00>Merda!</font>
+
+399
+00:53:51,141 --> 00:53:52,648
+<font color=#FFFF00>- Quase lá.
+- O quê?</font>
+
+400
+00:53:52,685 --> 00:53:54,478
+<font color=#FFFF00>Espera, está indo lá embaixo?</font>
+
+401
+00:54:36,856 --> 00:54:38,609
+<font color=#FFFF00>- Todo mundo bem?
+- Sim.</font>
+
+402
+00:54:39,653 --> 00:54:41,820
+<font color=#FFFF00>- Sim!
+- Certo, vamos.</font>
+
+403
+00:54:44,491 --> 00:54:46,033
+<font color=#FFFF00>Olá?</font>
+
+404
+00:54:46,784 --> 00:54:48,285
+<font color=#FFFF00>Podem sair!</font>
+
+405
+00:54:49,413 --> 00:54:51,038
+<font color=#FFFF00>Eu voltei!</font>
+
+406
+00:54:56,419 --> 00:54:58,380
+<font color=#FFFF00>Onde encontrou esses caras?</font>
+
+407
+00:54:59,925 --> 00:55:01,221
+<font color=#FFFF00>Quem é essa?</font>
+
+408
+00:55:01,259 --> 00:55:04,054
+<font color=#FFFF00>- Sou a Becky.
+- Oi, Becky.</font>
+
+409
+00:55:04,471 --> 00:55:06,222
+<font color=#FFFF00>Essa é a minha mãe.</font>
+
+410
+00:55:06,259 --> 00:55:08,600
+<font color=#FFFF00>Sua mãe? Puxa!</font>
+
+411
+00:55:09,142 --> 00:55:10,979
+<font color=#FFFF00>É uma longa história.</font>
+
+412
+00:55:12,562 --> 00:55:14,361
+<font color=#FFFF00>Faltam 22 minutos.</font>
+
+413
+00:55:14,398 --> 00:55:16,524
+<font color=#FFFF00>Não tem como voltar
+por onde viemos.</font>
+
+414
+00:55:16,561 --> 00:55:18,652
+<font color=#FFFF00>E perdemos nosso mapa
+com Sergei.</font>
+
+415
+00:55:18,688 --> 00:55:20,363
+<font color=#FFFF00>Deixa comigo.</font>
+
+416
+00:55:32,710 --> 00:55:34,467
+<font color=#FFFF00>Podemos ir por este túnel.</font>
+
+417
+00:55:34,504 --> 00:55:38,048
+<font color=#FFFF00>No final tem um poço de serviço
+que leva às bases de submarinos.</font>
+
+418
+00:55:38,084 --> 00:55:39,384
+<font color=#FFFF00>Então vamos!</font>
+
+419
+00:56:04,702 --> 00:56:06,662
+<font color=#FFFF00>Como acabou trabalhando
+para Wesker?</font>
+
+420
+00:56:06,699 --> 00:56:08,711
+<font color=#FFFF00>Não trabalho para ele.</font>
+
+421
+00:56:08,748 --> 00:56:10,965
+<font color=#FFFF00>As coisas mudaram
+na superfície.</font>
+
+422
+00:56:11,002 --> 00:56:13,525
+<font color=#FFFF00>Wesker disse que você
+sabia de uma arma.</font>
+
+423
+00:56:13,561 --> 00:56:16,048
+<font color=#FFFF00>Algo que podia mudar
+a maré a nosso favor.</font>
+
+424
+00:56:17,382 --> 00:56:20,554
+<font color=#FFFF00>Mas eu não teria arriscado
+tanto por uma única pessoa.</font>
+
+425
+00:56:21,972 --> 00:56:23,557
+<font color=#FFFF00>Provavelmente está certo.</font>
+
+426
+00:56:23,973 --> 00:56:25,268
+<font color=#FFFF00>Por aqui.</font>
+
+427
+00:56:26,642 --> 00:56:29,271
+<font color=#FFFF00>As bases de submarinos
+estão logo acima de nós.</font>
+
+428
+00:56:29,312 --> 00:56:30,647
+<font color=#FFFF00>Vamos, mexam-se.</font>
+
+429
+00:56:49,876 --> 00:56:52,378
+<font color=#FFFF00>As plataformas do elevador
+ficam logo à frente.</font>
+
+430
+00:56:53,629 --> 00:56:56,132
+<font color=#FFFF00>- Onze minutos.
+- Vamos ficar bem.</font>
+
+431
+00:56:56,216 --> 00:56:57,593
+<font color=#FFFF00>Esperem.</font>
+
+432
+00:56:59,637 --> 00:57:01,848
+<font color=#FFFF00>- Onze minutos.
+- Vamos ficar bem.</font>
+
+433
+00:57:01,973 --> 00:57:03,308
+<font color=#FFFF00>Esperem.</font>
+
+434
+00:57:03,433 --> 00:57:06,977
+<font color=#FFFF00>Acessando rede elétrica.
+Enviando agente biológico.</font>
+
+435
+00:57:12,736 --> 00:57:14,069
+<font color=#FFFF00>Todos, subam a bordo!</font>
+
+436
+00:57:17,740 --> 00:57:19,117
+<font color=#FFFF00>Esperem.</font>
+
+437
+00:57:19,242 --> 00:57:20,581
+<font color=#FFFF00>Próxima parada:</font>
+
+438
+00:57:20,618 --> 00:57:22,578
+<font color=#FFFF00>roupas masculinas
+e calças de moletom.</font>
+
+439
+00:57:30,463 --> 00:57:31,839
+<font color=#FFFF00>Abaixe-se!</font>
+
+440
+00:57:32,590 --> 00:57:34,592
+<font color=#FFFF00>- Barry, o que foi?
+- Não sei.</font>
+
+441
+00:57:35,092 --> 00:57:36,433
+<font color=#FFFF00>Aonde está indo?</font>
+
+442
+00:57:36,469 --> 00:57:38,471
+<font color=#FFFF00>Devem ter cortado
+a energia remotamente.</font>
+
+443
+00:57:41,766 --> 00:57:44,810
+<font color=#FFFF00>Seja forte.
+Protegerei você.</font>
+
+444
+00:57:55,071 --> 00:57:58,534
+<font color=#FFFF00>- Pode fazer voltar a funcionar?
+- Não sem os códigos de acesso.</font>
+
+445
+00:58:01,580 --> 00:58:04,874
+<font color=#FFFF00>Nove minutos. Parece que
+vamos usar o plano B.</font>
+
+446
+00:58:04,999 --> 00:58:06,375
+<font color=#FFFF00>O quê?</font>
+
+447
+00:58:06,459 --> 00:58:08,754
+<font color=#FFFF00>Instalamos aqueles explosivos
+por uma razão.</font>
+
+448
+00:58:18,514 --> 00:58:19,849
+<font color=#FFFF00>Não!</font>
+
+449
+00:58:24,855 --> 00:58:26,190
+<font color=#FFFF00>Mamãe!</font>
+
+450
+00:58:27,066 --> 00:58:29,485
+<font color=#FFFF00>Socorro!
+Mamãe!</font>
+
+451
+00:58:35,532 --> 00:58:36,867
+<font color=#FFFF00>Me sinto horrível.</font>
+
+452
+00:58:41,247 --> 00:58:42,583
+<font color=#FFFF00>Ela está morta.</font>
+
+453
+00:58:51,716 --> 00:58:53,053
+<font color=#FFFF00>O que está fazendo?</font>
+
+454
+00:58:53,136 --> 00:58:55,388
+<font color=#FFFF00>Ela está viva.
+Vou buscá-la.</font>
+
+455
+00:58:55,638 --> 00:58:58,433
+<font color=#FFFF00>Não perdi tantos amigos
+para você sair andando.</font>
+
+456
+00:58:58,641 --> 00:59:00,143
+<font color=#FFFF00>Planejo voltar.</font>
+
+457
+00:59:01,768 --> 00:59:04,856
+<font color=#FFFF00>Não faça isso. Você é
+mais importante do que ela.</font>
+
+458
+00:59:04,939 --> 00:59:06,690
+<font color=#FFFF00>É aí que se engana.</font>
+
+459
+00:59:07,108 --> 00:59:10,321
+<font color=#FFFF00>- Isso é um erro.
+- Saia da minha frente.</font>
+
+460
+00:59:20,165 --> 00:59:21,957
+<font color=#FFFF00>Não vão embora sem mim,
+está bem?</font>
+
+461
+00:59:22,291 --> 00:59:24,127
+<font color=#FFFF00>Está brincando?
+Vou com você.</font>
+
+462
+00:59:31,677 --> 00:59:34,512
+<font color=#FFFF00>- Não se mova.
+- Está tudo bem.</font>
+
+463
+00:59:35,180 --> 00:59:36,556
+<font color=#FFFF00>Vá buscá-la.</font>
+
+464
+01:00:05,047 --> 01:00:06,841
+<font color=#FFFF00>Gostam disso?</font>
+
+465
+01:01:45,198 --> 01:01:46,657
+<font color=#FFFF00>Retroceder!</font>
+
+466
+01:01:53,872 --> 01:01:56,214
+<font color=#FFFF00>Voltem para o elevador!</font>
+
+467
+01:01:56,251 --> 01:02:00,214
+<font color=#FFFF00>Vá você. Ficarei por aqui
+mais um pouco.</font>
+
+468
+01:02:00,251 --> 01:02:01,471
+<font color=#FFFF00>Barry!</font>
+
+469
+01:02:01,508 --> 01:02:03,677
+<font color=#FFFF00>Quanto a contagem regressiva
+chegar a zero</font>
+
+470
+01:02:03,713 --> 01:02:05,883
+<font color=#FFFF00>você tem que estar
+naquele elevador.</font>
+
+471
+01:02:05,919 --> 01:02:08,055
+<font color=#FFFF00>Alguém tem
+que ficar aqui, Leon.</font>
+
+472
+01:02:08,514 --> 01:02:10,142
+<font color=#FFFF00>Além disso...</font>
+
+473
+01:02:12,936 --> 01:02:15,940
+<font color=#FFFF00>Meio que estou
+me divertindo!</font>
+
+474
+01:02:19,401 --> 01:02:22,153
+<font color=#FFFF00>Vá.
+Vai!</font>
+
+475
+01:02:22,904 --> 01:02:24,238
+<font color=#FFFF00>Vamos!</font>
+
+476
+01:04:07,185 --> 01:04:08,561
+<font color=#FFFF00>Vai!</font>
+
+477
+01:04:34,131 --> 01:04:35,840
+<font color=#FFFF00>Tragam a prisioneira!</font>
+
+478
+01:04:44,185 --> 01:04:48,354
+<font color=#FFFF00>Cessar fogo
+ou eu a executarei.</font>
+
+479
+01:04:50,566 --> 01:04:51,946
+<font color=#FFFF00>Agora...</font>
+
+480
+01:04:51,983 --> 01:04:55,194
+<font color=#FFFF00>Baixe as armas
+e apareça.</font>
+
+481
+01:04:56,154 --> 01:04:58,323
+<font color=#FFFF00>Apareça ou ela morre.</font>
+
+482
+01:06:18,745 --> 01:06:20,538
+<font color=#FFFF00>Mamãe, quem são eles?</font>
+
+483
+01:06:25,168 --> 01:06:27,002
+<font color=#FFFF00>Mamãe, quem são eles?</font>
+
+484
+01:06:30,883 --> 01:06:32,508
+<font color=#FFFF00>Mamãe, é você?</font>
+
+485
+01:06:46,901 --> 01:06:50,487
+<font color=#FFFF00>- Você é minha mamãe, não é?
+- Agora sou.</font>
+
+486
+01:07:12,449 --> 01:07:14,618
+<font color=#FFFF00>DETONAÇÃO
+ATIVADA</font>
+
+487
+01:07:56,267 --> 01:07:57,976
+<font color=#FFFF00>Corram!</font>
+
+488
+01:09:02,755 --> 01:09:05,049
+<font color=#FFFF00>Os helicópteros
+estão a caminho.</font>
+
+489
+01:09:05,085 --> 01:09:07,218
+<font color=#FFFF00>Sentem-se e relaxem.</font>
+
+490
+01:09:40,630 --> 01:09:42,257
+<font color=#FFFF00>O que está havendo?</font>
+
+491
+01:09:52,726 --> 01:09:54,479
+<font color=#FFFF00>Que diabos é isso?</font>
+
+492
+01:10:04,365 --> 01:10:07,577
+<font color=#FFFF00>- Becky, está machucada?
+- Não, estou bem.</font>
+
+493
+01:11:26,496 --> 01:11:28,747
+<font color=#FFFF00>Bem que eu disse
+que ela tinha um plano.</font>
+
+494
+01:11:33,127 --> 01:11:34,941
+<font color=#FFFF00>Só vocês duas?</font>
+
+495
+01:11:34,977 --> 01:11:36,755
+<font color=#FFFF00>Será o suficiente.</font>
+
+496
+01:11:41,387 --> 01:11:43,515
+<font color=#FFFF00>O parasita Las Plagas.</font>
+
+497
+01:16:38,834 --> 01:16:41,462
+<font color=#FFFF00>SUJEITO: PROJETO ALICE
+VISÃO TÁTICA</font>
+
+498
+01:16:41,499 --> 01:16:43,149
+<font color=#FFFF00>Exterminar Projeto Alice.</font>
+
+499
+01:16:43,185 --> 01:16:44,800
+<font color=#FFFF00>ORDENS: EXTERMINAR SUJEITO</font>
+
+500
+01:19:13,920 --> 01:19:15,297
+<font color=#FFFF00>Alice!</font>
+
+501
+01:19:30,313 --> 01:19:32,357
+<font color=#FFFF00>Não pode me matar.</font>
+
+502
+01:19:33,065 --> 01:19:34,610
+<font color=#FFFF00>Não preciso.</font>
+
+503
+01:20:19,574 --> 01:20:23,454
+<font color=#FFFF00>- Volto para te pegar!
+- Boa sorte.</font>
+
+504
+01:20:50,066 --> 01:20:51,443
+<font color=#FFFF00>Leon...</font>
+
+505
+01:21:03,955 --> 01:21:06,625
+<font color=#FFFF00>- O que é aquilo?
+- Ajuda.</font>
+
+506
+01:22:15,242 --> 01:22:17,370
+<font color=#FFFF00>É bom tê-la de volta.</font>
+
+507
+01:22:18,411 --> 01:22:20,414
+<font color=#FFFF00>É bom ter "você" de volta.</font>
+
+508
+01:23:26,903 --> 01:23:28,281
+<font color=#FFFF00>Wesker.</font>
+
+509
+01:23:28,739 --> 01:23:30,907
+<font color=#FFFF00>Vejo que já está à vontade.</font>
+
+510
+01:23:32,535 --> 01:23:34,243
+<font color=#FFFF00>Bem, devo dizer...</font>
+
+511
+01:23:35,078 --> 01:23:38,124
+<font color=#FFFF00>É bem agradável.</font>
+
+512
+01:23:53,515 --> 01:23:54,892
+<font color=#FFFF00>O que é isso?</font>
+
+513
+01:23:55,435 --> 01:23:57,144
+<font color=#FFFF00>O que fez comigo?</font>
+
+514
+01:23:59,730 --> 01:24:04,026
+<font color=#FFFF00>Foi a única a se unir
+com sucesso ao T-vírus.</font>
+
+515
+01:24:04,735 --> 01:24:07,321
+<font color=#FFFF00>A entender completamente
+os poderes dele.</font>
+
+516
+01:24:08,073 --> 01:24:11,785
+<font color=#FFFF00>Agora preciso de você,
+da antiga você.</font>
+
+517
+01:24:11,822 --> 01:24:14,789
+<font color=#FFFF00>Então, lhe devolvi seu dom.</font>
+
+518
+01:24:15,123 --> 01:24:18,002
+<font color=#FFFF00>Você é a arma.</font>
+
+519
+01:24:24,424 --> 01:24:26,050
+<font color=#FFFF00>Vou matar você.</font>
+
+520
+01:24:27,051 --> 01:24:28,761
+<font color=#FFFF00>Talvez...</font>
+
+521
+01:24:29,346 --> 01:24:31,682
+<font color=#FFFF00>Mas antes, tem
+um trabalho a fazer.</font>
+
+522
+01:24:35,186 --> 01:24:39,691
+<font color=#FFFF00>A Rainha Vermelha está decidida
+a destruir toda a vida na Terra.</font>
+
+523
+01:24:39,727 --> 01:24:43,653
+<font color=#FFFF00>Isso é tudo o que resta de nós,
+da raça humana.</font>
+
+524
+01:24:45,489 --> 01:24:48,368
+<font color=#FFFF00>Parece que estamos unidos
+contra um inimigo em comum.</font>
+
+525
+01:24:48,404 --> 01:24:50,577
+<font color=#FFFF00>É por isso que precisávamos
+de você de volta.</font>
+
+526
+01:24:50,613 --> 01:24:52,204
+<font color=#FFFF00>A arma suprema.</font>
+
+527
+01:24:57,959 --> 01:25:00,964
+<font color=#FFFF00>Este é o último bastião
+da Humanidade.</font>
+
+528
+01:25:01,000 --> 01:25:03,007
+<font color=#FFFF00>O princípio do fim.</font>
+
