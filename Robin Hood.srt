@@ -1,0 +1,939 @@
+{1}{1}23.976
+{845}{899}Você sabe, há muitas lendas e contos
+{900}{945}sobre Robin Hood.
+{946}{999}todos diferentes também.
+{1001}{1090}Bem, nós do reino animal|temos nossa própria versão.
+{1092}{1159}esta é a história do que realmente aconteceu|na Floresta de Sherwood.
+{5105}{5163}Oh, por acaso,|sou um trovador.
+{5165}{5231}um cantor matinal do povo
+{5233}{5291}e meu trabalho é... |dizer o que é
+{5294}{5360}Ou era, ou qualquer coisa
+{5445}{5511}Robin Hood e Pequeno John|caminhando pela floresta
+{5512}{5576}rindo de um lado para outro
+{5636}{5702}se divertindo
+{5704}{5783}Oo-de-lally, oo-de-lally|Golly, que dia!
+{5843}{5903}Nunca achando que há perigo na água
+{5905}{5974}estão bebendo a água
+{5976}{6051}Nem imaginam que o xerife|e o destacamento dele
+{6052}{6149}estão observando e|cercando ao redor
+{6150}{6231}Robin Hood e Pequeno John|correndo pela floresta
+{6233}{6308}pulando cercas, subindo em árvores|e tentando escapar
+{6431}{6487}Oo-de-lally, oo-de-lally|Golly, que dia!
+{6538}{6672}Oo-de-lally, oo-de-lally|Golly, que dia!
+{6751}{6826}Sabe de uma coisa, Robin?|você está se arriscando.
+{6828}{6899}arriscando-me?|você deve estar brincando.
+{6900}{6955}Foi por pouco, Pequeno John.
+{6956}{7017}É?|olhe seu chapéu.
+{7019}{7064}Não é uma vela num bolo.
+{7066}{7158}Este aqui quase escreveu|meu nome nele
+{7159}{7202}Eles estão melhorando,|você sabe.
+{7204}{7266}têm que admitir isto. |eles estão melhorando.
+{7268}{7366}Huh, é. Da próxima vez o xerife vai provavelmente|por uma corda em nossos pescoços.
+{7425}{7474}Bem duro, Rob.
+{7449}{7538}Ha! O xerife e o bando inteiro|dele não o erguem fora o chão.
+{7578}{7672}Em guarda!  - Ei, cuidado, Rob. |Este é o único chapéu que eu tenho.
+{7673}{7733}Oh, venha. |você se preocupa muito, meu velho.
+{7734}{7803}Sabe de uma coisa, Robin?|eu estava pensando
+{7805}{7858}nós somos os sujeitos|bons ou ruins?
+{7860}{7951}você sabe. Eu quero dizer, uh, nós roubamos|os ricos para alimentar os pobres.
+{7953}{7997} " Robar "?
+{7999}{8046}Esta é uma palavra feia. |Nós nunca roubamos.
+{8048}{8137}nós só... fazemos um empréstimo|destes esses que podem dispor.
+{8161}{8243}Empréstimo? Huh. |Rapaz, nós estamos endividados.
+{8457}{8548}parece outro dia de coleta para|os pobres. Não é, Johnny?
+{8550}{8638}É. Doce caridade.
+{9496}{9572}Impostos! |Impostos!
+{9574}{9681}Lindos, impostos adoráveis! |
+{9682}{9753}Senhor, você tem|uma habilidade absoluta...
+{9755}{9820}para encorajar os pobres|a contribuirem
+{9822}{9874}guarde uma frase,|meu querido conselheiro,
+{9876}{9942}roubar os pobres|para alimentar os ricos.
+{9943}{9997}eu Tenho razão?
+{9999}{10099}Diga-me onde é a próxima|parada, Senhor Assobie?
+{10100}{10145}Uh, deixe-me ver. |Uh, eu--
+{10146}{10222}Oh! Sim. |a próxima parada é Nottingham, senhor.
+{10223}{10290}Oh! o mais rico de todos.
+{10292}{10369}presunto.
+{10419}{10495}ajuste perfeito, senhor.
+{10497}{10603}você parece real, digno,|sincero, direito, nobre, cavalheiro--
+{10651}{10709}Uh, uh, não se exceda, Assobie.
+{10742}{10816}Issoe eu acredito, faz isto.
+{10818}{10946}Esta coroa me dá uma sensação|de poder! poder!
+{10948}{11023}Perdoe-me pela rizada cruel. |
+{11025}{11069}Poder. Hmm.
+{11071}{11173}e como a coroa do Rei Richard|fica bem em você.
+{11174}{11258}Não é?|Uh, Rei Richard?
+{11259}{11356}Eu te disse para numca mencionar|o nome de meu irmão!
+{11358}{11423}A-Um mero deslize de língua,|Sua Majestade.
+{11447}{11520}nós estamos nisto juntos,|se me permite lembrar
+{11522}{11611}e lembre, foi sua idéia|eu o hipnotizar e--
+{11655}{11771}eu sei. E enviá-lo àquela|cruzada louca.
+{11825}{11905}para a tristeza da rainha mãe.
+{11907}{11957}sim! mamãe.
+{11970}{12042}Mamãe sempre achou|o Richard melhor.
+{12121}{12170}Alteza,|por favor não faça isso.
+{12170}{12231}se você não se lembra|também lhe digo
+{12232}{12277}você tem um dedo polegar|muito grande.
+{12328}{12407}Hipinose poderiam libertar|você de sua psicose
+{12409}{12457}tão...
+{12459}{12553}facilmente.
+{12555}{12605}Não! Nada disso!|Nada disso.
+{12607}{12672}bem, eu só estava tentando ajudar.
+{12673}{12741}Eu sei. serpente tola.
+{12742}{12802}serpente tola? | - Agora olhe aqui.
+{12803}{12904}mais um assobio seu,
+{12906}{12979}e você vai para Nottingham andando.
+{12980}{13064}cobras não caminham. |elas deslisam.
+{13066}{13114}Hmpf. Assim estão.
+{13962}{14075}e aquilo de sorte?|é só um circo. Uma operação de amendoim.
+{14077}{14154}amendoins ? você é bobo. |É o trono real.
+{14156}{14218}é o próprio Príncipe John |O príncipe?
+{14219}{14274}espere um minuto. |existe uma lei contra roubar a realeza
+{14276}{14326} - eu o pegarei depois. |que?
+{14328}{14395}e perder a chance de atuar|diante da realeza ?
+{14418}{14472}Ah! Aqui vamos nós novamente.
+{14564}{14608}Oo-de-lally!|Oo-de-lally!
+{14610}{14654}videntes
+{14656}{14721}videntes
+{14722}{14801}veja seu horóscopo.
+{14801}{14876}videntes! que divertido. |Uh, parem a carroagem
+{14878}{14941}Senhor, senhor,|podem ser os bandidos.
+{14943}{15002}Oh, mulheres bandidas ?
+{15004}{15060}e depois, o que? bobagem.
+{15117}{15176}Um, um, minhas queridas senhoras,
+{15180}{15258}voces têm permissão para|beijar as mãos reais.
+{15263}{15298}qual gostaria, primeiro.
+{15316}{15368}Mmm! Oh!
+{15370}{15429}que cortês!
+{15431}{15498}e generoso. | Majestade! senhor!
+{15500}{15550}você viu o que elas--| - Pare!
+{15552}{15602}Pare de assobiar em minha orelha.
+{15771}{15833}Hiss! Oh, você deu seu último--
+{15834}{15879}assobio.
+{16044}{16077}cobra desconfiada.
+{16087}{16163}bem feito,|sua Excelência.
+{16172}{16260}agora feche seus olhos...|e concentre-se.
+{16261}{16337}feche seus olhos. bem fechados. |Não espie, senhor.
+{16375}{16457}dos mistérios do tempo,
+{16459}{16515}venham, espíritos.
+{16516}{16561}Yoo-hoo!
+{16562}{16653}Okay, pequenos vaga-lume. |brilhem, bebês, brilhem.
+{16680}{16735}estamos esperando
+{16736}{16845}Ah, oh!|Olhe, Senhor. Olhe!
+{16870}{16970}Oh! Incrível. espíritos voadores
+{16972}{17018}Ah, oh!
+{17020}{17092}malcriado, malcriado. |você não deve tocar, meu jovem.
+{17093}{17142}Oh, como ousa bater na mão real.
+{17143}{17230}Shh! Você quebrará o feitiço. |apenas contemple na bola cristalina.
+{17231}{17284}Oo-de-lally!
+{17285}{17353}Oo-de-lal--Oh!
+{17400}{17468}uma face aparece.
+{17512}{17602}uma coroa está na sobrancelha nobre dele. | - Oo-de-lally!
+{17603}{17660}uma coroa!|que excitante!
+{17660}{17721}sua face é bonita,
+{17722}{17813}real, majestoso,
+{17815}{17869}amável,
+{17870}{17920}uma face mimosa.
+{17921}{18009}bonito, real, oh!|Majestoso.
+{18010}{18055}amável. Sim, sim.
+{18056}{18112}mimoso.
+{18113}{18166}Oh, sou eu
+{18167}{18232}realmente sou. Sim.
+{18251}{18309}eu |e agora ?
+{18310}{18382}eu, uh--
+{18384}{18474}eu vejo seu ilustre nome
+{18475}{18533}eu sei meu nome!|vamos com isto!
+{18535}{18644}seu nome irá abaixo, abaixo,
+{18646}{18690}no curso da história
+{18692}{18746}sim! Eu sabia!|eu sabia!
+{18748}{18805}ouviu isso, Hiss?|Oh, você
+{18839}{18887}ele está na cesta.
+{18899}{18955}não esqueça isto.
+{18999}{19070}Hmm.|o que temos aqui?
+{19071}{19156}Calotas de ouro.
+{19377}{19461}Oo-de-lally.|o tesouro.
+{20364}{20459}Roubado! Eu fui roubado!
+{20460}{20535}Hiss! Você nunca está por perto|quando eu preciso de você!
+{20558}{20635}Ahem. Eu fui roubado. |claro que você foi roubado!
+{20636}{20684}Oo-de-lally, oo-de-lally!
+{20747}{20805}peguem-nos, tolos!
+{21114}{21200}Não, não, não, não!
+{21223}{21306}eu sabia. Eu sabia. |sabia que isso aconteceria.
+{21308}{21371}tentei o advertir, mas, não. |você não escuta. Você tinha apenas que...
+{21373}{21438}Ah, ah, sete anos de azar
+{21439}{21518}Ooh! Sorte. |é isso
+{21519}{21601}além do mais, você quebrou|o espelho de sua mãe
+{21603}{21659}Mamãe!
+{21711}{21755}meu polegar está sujo.
+{21930}{22002}bem, vamos embora Príncipe John...
+{22003}{22082}recompensa pela captura|de Robin Hood,
+{22083}{22179}aquele velhaco enganoso manteve |rubar o rico para alimentar o pobre.
+{22181}{22240}e acredite,|é uma coisa boa que ele fez,
+{22241}{22346}por causa dos impostos,|o povo pobre de Nottingham|está morrendo
+{22377}{22460}Uh-oh. ai vem|o senhor notícias ruins em pessoa,
+{22462}{22528}o Honorável|Sheriff de Nottingham.
+{22530}{22589}toda cidade
+{22591}{22651}tem seus impostos também
+{22653}{22713}e os impostos são devidos
+{22714}{22766}Do do-do do do
+{22768}{22812}bem, olhe ai
+{22814}{22893}Frei Tuck, o velho bonzinho
+{22895}{22939}ele está fazendo bondade novamente.
+{23056}{23115}bom dia Frei Tuck. |Shh, Otto.
+{23117}{23196}Shh! Para você, Otto, de Robin Hood.
+{23197}{23265}Oh, abençoado seja Robin Hood.
+{23286}{23386}Do do do do-do|do dee do do-do
+{23458}{23524}é o sheriff!|depressa, esconda! Rapidamente!
+{23526}{23589}ai vou eu. |pronto ou não.
+{23626}{23735}bem, saudações de seu amigo|cobrador de impostos
+{23737}{23795}Oh, pega leve, Xerife,
+{23797}{23856}veja a perna quebrada, você sabe.
+{23857}{23915}estou atrasado em meu|trabalho, Xerife.
+{23917}{24024}eu sei, Otto, mas você também está|atrasado com seus impostos.
+{24026}{24086}Oh, tenha um coração, Xerife.
+{24088}{24175}você não vê que ele está doente?|ora vamos, Otto.
+{24176}{24221}você vai melhorar|sente e descanse
+{24222}{24281}Oh, obrigado. Sim.
+{24417}{24482}Deixe-me dar uma mão com a perna
+{24484}{24528}Upsa-daisy.
+{24530}{24586}Upsa-daisy. Bingo!
+{24586}{24685}Ah, o que virá depois
+{24752}{24797}É esperto,|não é, Otto?
+{24798}{24866}mas Príncipe John diz que|impostos podem ferir.
+{24867}{24970}agora olhe aqui, seu--seu coração|de pedra, sanguessuga!
+{24972}{25052}agora, agora, agora, agora!|Guarde seu sermão, reverendo.
+{25054}{25106}ainda não é domingo, você sabe.
+{25146}{25204}Do do do-do do
+{25205}{25322}eles me chamam uma de desajeitado,|mas eu só faço meu trabalho|Do do do-do do
+{25323}{25417}feliz aniversário para você
+{25419}{25515}feliz aniversário para você
+{25517}{25622}feliz aniversário, querido Skippy,
+{25624}{25702}feliz aniversário
+{25702}{25783}para você
+{25785}{25875}bem, agora, filhinho que|caixa bonita, não é?
+{25877}{25990}bem, Sr. Sheriff, senhor,|é meu presente de aniversário, senhor.
+{25992}{26059}claro que é. |por que você não abre isto?
+{26108}{26174}Oh, garoto!|uma moeda!
+{26236}{26365}você não tem coração? Nós todos economizamos|para dar isto a ele.
+{26367}{26462}isso é muito bom, mulher
+{26464}{26572}a família que economiza junto|paga junto.
+{26574}{26637}Oh, agora, não leve|a mal, filhinho.
+{26639}{26711}Prince John deseja feliz aniversário|para você também.
+{26749}{26865}esmola, esmola,|esmola para o pobre.
+{26865}{26930}Hmm. Bem.
+{27032}{27150}bem, isto está longe|de ser uma boa manhã
+{27152}{27196}que truque sujo.
+{27198}{27276}pobre homem velho
+{27278}{27361}entre. |entre e descanse.
+{27391}{27465}obrigado Mãe. obrigado
+{27467}{27573}diga-me agora. meus velhos ouvidos|ouviram canção de aniversário ?
+{27575}{27633}sim, senhor.
+{27635}{27742}e aquele sheriff velho mau levou|meu presente de aniversário.
+{27744}{27795}ele fez isso?
+{27797}{27887}mas seja forte pequeno lad,|e não deixe isto te entristecer
+{27921}{27992}é Robin Hood!
+{27962}{28015}feliz aniversário, filho!
+{28017}{28134}Oh, ele é tão bonito,|exatamente como os cartazes de recompensa dele.
+{28164}{28247}diga-me jovem, quantos|anos faz hoje?
+{28249}{28308}eu tenho sete anos, indo para oito
+{28310}{28410}Sete? Bem, isto faz de|você o homem da casa
+{28411}{28469}e eu tenho o presente|exato para você
+{28471}{28528}para mim?
+{28530}{28617}obrigado,|Sr. Robin Hood, senhor.
+{28618}{28663}Hey, com quem pareço?|Huh?
+{28664}{28730}Não se parece muito|com Sr. Robin Hood.
+{28754}{28811}ela está certa. |está faltando algo
+{28813}{28873}claro!
+{28874}{28920}aí está
+{28905}{28967}menino! |agora como pareço?
+{29032}{29108}o chapéu é muito grande.
+{29109}{29163}Shh!|tenha modos
+{29165}{29215}sim, preste atenção|a suas maneiras.
+{29216}{29314}não preocupe. |você crescerá nisto, homem jovem.
+{29316}{29379}Oo-de-lally!|vou experimentar isto.
+{29380}{29437}tchau, Sr. Robin Hood!
+{29439}{29484}venha de novo|no meu aniversário!
+{29532}{29612}Oh, você fez o aniversário|dele maravilhoso.
+{29613}{29662}como posso lhe agradecer?
+{29664}{29710}eu só gostaria de poder fazer mais
+{29712}{29795}aqui.|e mantenha o queixo erguido.
+{29797}{29888}um dia haverá felicidade novamente|em Nottingham. Você verá.
+{29889}{29937}Oh, Robin Hood.
+{29938}{30010}você tem se arriscado tanto para|manter nossas esperanças vivas.
+{30011}{30082}Abençoado seja. abençoado.
+{30378}{30433}Robin Hood realmente|deu isto a você?
+{30433}{30487}sim, e seu próprio chapéu também.
+{30489}{30546}eu gostaria de segurar|seu arco e seta.
+{30548}{30597}deixe-me tentar isto, Skippy. |Oh, não, você não?
+{30599}{30643}vou atirar primeiro.
+{30645}{30690}você está apontando|isto muito alto.
+{30691}{30751}eu não sou qualquer um. |veja isto.
+{30912}{30980}Uh-oh.|agora você aprontou
+{30982}{31046}bem no quintal do Príncipe John.
+{31243}{31296}Skippy, você não pode ir em lá.
+{31298}{31385}É. Príncipe John|vai cortar fora sua cabeça.
+{31387}{31432}assim.
+{31434}{31482}Oh, eu não me preocupo. tenho|que recuperar minha flecha
+{31484}{31544}Espera um minuto. |Toby poderia falar de você.
+{31545}{31638}É, Toby. você tem que fazer um juramento. |Um juramento?
+{31640}{31709}Ponha sua mão em seu coração|e feche os olhos.
+{31787}{31838}aranhas, cobras|e uma cabeça de lagarto.
+{31840}{31908}aranhas, cobras|e uma cabeça de um lagarto.
+{31910}{31968}se eu contar,|irão me morder até eu morrer
+{31970}{32068}se eu contar,|irão me morder até eu morrer
+{32360}{32439}é sua vez, Marian querida. |você Está pronta, Senhora Kluck?
+{32441}{32502}Oh, estou esperando.
+{32817}{32887}eu estou velha demais para isto. | Que bela jogada
+{32888}{32966}você não foi ruim, querida. |Oh, minha cinta está me matando.
+{33147}{33191}onde está?|você perdeu?
+{33193}{33268}deve estar em algum lugar por lá. | - Oh, Klucky, você parece tão boba.
+{33290}{33385}Oh, olhe. aí está atrás de você.
+{33414}{33473}Oh!|bem, oi.
+{33485}{33589}de onde você veio? |Oh, por favor não fale para Príncipe John.
+{33591}{33650}Mamãe disse que ele vai arrancar|fora minha cabeça.
+{33652}{33713}Oh, não tenha nenhum medo. |você não fez nada errado.
+{33725}{33795}Oh, Marian,|que coelhinho bonitinho.
+{33797}{33854}de quem este jovem arqueiro|te faz lembrar?
+{33908}{34021}bem, o notório Robin Hood.
+{34023}{34090}isso mesmo. Só Robin Hood|usa um chapéu assim.
+{34092}{34163}sim, e olha para este arco.
+{34258}{34337}Oh, Marian,|não olhe,
+{34338}{34383}mas acho que estamos cercadas
+{34384}{34489}oh, clemência! |Ele nos roubou
+{34491}{34583}está tudo bem, crianças. |não tenham medo. Por favor venha aqui.
+{34585}{34674}você acha que é seguro? |Esta é Senhorida Marian.
+{34676}{34734}Mamãe disse que ela é muito agradável. |vamos!
+{34803}{34890}Hey, vocês, não tão rápido. |esperem por mim.
+{34892}{34958}eu disse a Skippy que ele estava|atirando muito alto.
+{34959}{35069}que bom que ele o fez. |agora posso conhecer todos vocês.
+{35070}{35176}você é muito bonita. |vai se casar com Robin Hood?
+{35185}{35283}Mamãe disse que você e Robin|Hood foram namorados
+{35311}{35361}bem, um...
+{35363}{35432}veja, isso foi há muito tempo atrás,|antes de eu sair de Londres.
+{35441}{35560}ele já beijou você? | - Bem, uh, não.
+{35562}{35625}mas ele esculpiu nossas|iniciais nesta árvore.
+{35720}{35776}eu me lembro tão bem disto. | - Vocês vão ter filhos?
+{35806}{35869}Minha mãe teve muitos filhos
+{35871}{35923}Oh, ele provavelmente|já esqueceu de mim
+{35925}{35982}Oh, não Robin Hood.
+{35984}{36062}eu aposto que ele atacará|os portões do castelo,|lutará com os guardas
+{36063}{36127}resgatará você e lhe levará|para a Floresta de Sherwood.
+{36129}{36232}agora espere um momento, meu jovem
+{36234}{36292}você esqueceu de Príncipe John.
+{36294}{36349}Aquele velho Príncipe John|ele não me assusta.
+{36351}{36449}Eu tenho medo do Príncipe John.
+{36451}{36496}Ah, ah, ah, ah!
+{36497}{36610}Eu, Príncipe John, desafio|você para um duelo. Ei, ei!
+{36612}{36687}Tome isso! E isso!|e isto!
+{36759}{36815}Morte aos tiranos!
+{36817}{36873}Och! Och, och!
+{36875}{36920}Corte-o em pedaços!
+{36967}{37020}Oh, salve-me, meu herói. |Salve me.
+{37063}{37143}Oh! Ai! Isso não é justo.
+{37145}{37220}Mamãe!
+{37222}{37323}É Príncipe John, É mesmo.
+{37325}{37376}Yahoo!|Agora peguei você!
+{37378}{37457}Och, clemência! Misericórdia!|Oh!
+{37483}{37577}Oh, ele me pegou. |estou morrendo.
+{37579}{37640}oh! |eu o feri? Huh?
+{37642}{37753}Agora, esta é a parte em que você leva|a mocinha para a Floresta de Sherwood.
+{37805}{37861}venha senhorita, venha!
+{37863}{37968}Oh, Robin, você é tão valente|e impetuoso.
+{37996}{38079}Oh. |So esta é Floresta de Sherwood.
+{38081}{38140}É, acho que é.
+{38120}{38177}bem, agora o que vamos fazer?
+{38178}{38273}bem, normalmente o heroi|dá um beijo a senhorita
+{38275}{38355}um beijo?|Oh isso é coisa de menina.
+{38356}{38434}Bem, se você não der eu dou
+{38482}{38558}eles estão se beijando!
+{39337}{39428}Ah, eu. Amor jovem.
+{39429}{39482}Oh, é a coisa principal.
+{39517}{39612}Oh, seguramente ele deve saber|o quanto ainda o amo.
+{39613}{39689}mas claro minha querida. |Pode acreditar
+{39690}{39781}um dia em breve seu|tio, Rei Richard,
+{39783}{39839}fará do fora-da-lei|um dentro-da-lei
+{39886}{39984}Oh, Klucky. |mas quando? Quando?
+{39985}{40042}Oh, paciência, minha querida. |Paciência.
+{40043}{40119}Lembre-se, ausência|faz o coração crescer mais
+{40143}{40214}Or esqueci.
+{40215}{40260}Oh, eu tenho estado|fora por muito tempo
+{40328}{40387}e se ele esqueceu de mim?
+{40675}{40769}Ei, garoto apaixonado. Como está|o grude? Rapaz, estou com fome
+{40828}{40936}Rob? Robin?
+{40944}{40990}Robert?
+{40991}{41077}ei! |Hmm? O que? O que você disse?
+{41079}{41147}Ah, esqueça. mente de |Você não está pensando em comida
+{41149}{41228}você está pensando em alguém|com cílios longos,
+{41229}{41295}e você está sentindo|aquele doce perfume.
+{41388}{41440}ei, puxa!|está fervendo!
+{41441}{41486}você está queimando a comida!
+{41531}{41630}Sinto muito, Johnny. Acho que estava|novamente pensando em Marian.
+{41632}{41689}eu não posso ajudar nisto.
+{41691}{41733}eu a amo, Johnny.
+{41735}{41809}Olhe, por que não para com isso?
+{41810}{41899}Apenas... Apenas se case com ela. | casar com ela?
+{41901}{41974}você simplesmenete não|caminha até uma garota,|dá-le um buquê e diz,
+{41976}{42040}ei, lembra-se de mim? Nós estivemos juntos|quando criança. Quer casar comigo?
+{42086}{42155}|Não. Não se faz assim
+{42157}{42244}Ora venha, Robbie. |Escale as paredes do castelo.
+{42275}{42360}Tome-a nos braços. |Leve-a em grande estilo
+{42362}{42437}isso não é útil, Johnny. |já pensei nisto, e...
+{42439}{42483}simplesmente não funcionaria.
+{42485}{42533}Ale'm do mais, o que|posso lhe oferecer?
+{42534}{42586}Bem, uma coisa é certa. Não|pode cozinhar para ela.
+{42588}{42671}Falo sério, Johnny. Ele é uma|senhora nobre de qualidade.
+{42673}{42735}Então ela tem classe?|e daí?
+{42736}{42801}Sou um fora-da-lei,|é isso.
+{42803}{42870}Isto não é vida para uma senhora adorável. |Sempre fugindo.
+{42872}{42981}que tipo de futuro é que? | - Oh, céus, filho.
+{42983}{43039}você não é nenhum bandido.
+{43041}{43116}em algum dia você será chamado|de um grande herói.
+{43161}{43258}um herói? ouviu isso,Johnny?| Acabamos de ser perdoados
+{43260}{43350}Isso ajuda. e Ainda nem fomos presos
+{43352}{43404}tudo bem. |Riam, seus dois velhacos.
+{43406}{43498}Mas haverá muito o que|fazer em Nottingham.
+{43563}{43607}Bem feito, não é?
+{43609}{43723}O velho Príncipe John fará um|torneio de arqueiros amanhã
+{43750}{43801}Campeonato de arco-e-flecha?|Ha!
+{43802}{43867}velho Rob poderia ganhar isso|sobre sua cabeça, huh, Rob?
+{43869}{43981}Obrigado, Pequeno John. |Mas estou certo de que não fomos convidados
+{43983}{44051}Não, mas há alguém...
+{44052}{44121}que vai ficar muito triste|se você não for.
+{44123}{44188}Sim, o alqueire velho,
+{44190}{44241}o honorável|xerife de Nottingham.
+{44243}{44346}não, Senhorita Marian. |Senhorita Marian?
+{44347}{44441}Sim. Ela... ela vai dar|um beijo ao vencedor.
+{44485}{44560}Um beijo  para o vencedor!
+{44562}{44651}Oo-de-lally! Venha, Johnny!|o que estamos esperando?
+{44653}{44766}Espere um minuto, Rob. Espere. Aquele|lugar vai estar cheio de soldados.
+{44792}{44849}Aha! Mas, lembre-se.
+{44851}{44927}corações fracos nunca|ganham certas senhoras.
+{44929}{45011}Não temam, amigos
+{45013}{45091}Esta será minha maior performance
+{45851}{45931}Hiss, este é um dia memorável.
+{45929}{46023}A d'etat,|para cunhar uma frase normanda.
+{46028}{46091}Oh, sim, realmente, senhor.
+{46048}{46147}seu plano para capturar Robin Hood|em público é completamente genial
+{46210}{46316}Hiss, ninguém se senta|mais alto que o rei.
+{46257}{46356}é preciso que eu lhe lembre, Hiss?
+{46409}{46485}Oh, oh, me perdoe, senhor. |I-eu não quis dizer--
+{46486}{46553}Minha armadilha está pronta
+{46555}{46620}e então vingança!
+{46621}{46669}Ah, vingança!
+{46670}{46731}Shh! Não tão alto, senhor.
+{46733}{46841}Lembre-se, só você e eu sabemos,|e seu segredo é meu segredo.
+{46861}{46938}Stop!|pare de assobiar em minha orelha.
+{46940}{47054}segredo? Que segredo? | o que, a captura de Robin Hood, senhor.
+{47056}{47119}aquele vilão insolente.
+{47121}{47213}Ooh! Eu mostrarei a ele|quem usa a coroa!
+{47215}{47274}eu partilho de seu pensamento,|senhor.
+{47276}{47359}aquele salafrário que fez você|de bobo com aquele disfarce,
+{47361}{47434}que ousou rouba-lo e lhe fizer|parecer totalmente ridículo...
+{47468}{47530}Basta!
+{47532}{47603}Hiss, você falou deliberadamente.
+{47605}{47686}mast...m-mas--|Senhor, por favor.
+{47687}{47766}fique parado
+{47851}{47897}obrigado, senhor.
+{47898}{47958}Oh, Klucky,|eu estou tão ansiosa.
+{47959}{48008}mas como vou reconhecê-lo?
+{48009}{48072}Och, ele vai fazer você|saber de alguma maneira.
+{48074}{48166}aquele malandro é cheio de|surpresas, minha querida.
+{48221}{48321}ali está ela, Pequeno John. |ela não é linda?
+{48323}{48417}calma, garoto apaixonado. Seu coração|está dominando sua cabeça
+{48419}{48504}Oh, deixe de se preocupar. Este disfarce|enganaria minha própria mãe.
+{48505}{48562}Simh, mas sua mãe não está aqui.
+{48563}{48642}você está ficando bobo,|velho arqueiro
+{48750}{48795}o xerife? Sua Honra? | Sim.
+{48796}{48907}Encontrá-lo face-a-face|é realmente um prazer |um prazer real
+{48908}{48964}Bem, agora, obrigado.
+{48967}{49029}Oh, com licença. Eu vou|vencer este torneio.
+{49058}{49110}Ei, o velho Rob não é um mau ator.
+{49111}{49202}mas espere até que ele veja esta|atuação perante Príncipe John.
+{49305}{49378}Ah! Meu senhor.
+{49380}{49472}Meus respeitos reais,|estimado do reino.
+{49473}{49532}O cabeça em pessoa.
+{49534}{49598}você é lindo.
+{49639}{49719}Ele tem estilo, não é, Hiss?
+{49721}{49824} [falando francês]
+{49826}{49901}Você tirou as palavras|de minha boca, P.J.
+{49902}{49983} P.J ".! Eu gosto isso. |você conhece que eu faço?
+{49985}{50037}Hiss, ponha isto em minha bagagem.
+{50038}{50106}P.J.
+{50107}{50159}P.J. Sim.
+{50160}{50221}Hmpf!|e você?
+{50222}{50287}que você é, senhor?
+{50289}{50379}Sou Senhor Reginald,|duque de Molho picante.
+{50380}{50447}e não fale assim comigo, criança.
+{50483}{50575}e agora, Magestade,|permita-me cumprir o protocolo com você.
+{50577}{50677}Oh, não. Uh, perdoe me,|mas eu perco mais jóias desse modo que...
+{50678}{50727}Por favor, sente-se
+{50763}{50841}Obrigado, P.J. Não poderia obter|assento melhor que isto,
+{50843}{50904}O assento real. |Oh! Ei!
+{50905}{50996}Ei, espere um minute!|que--Oh, com licença, minhoca.
+{50997}{51096}minhoca ? Você, senhor,|pegou meu lugar
+{51166}{51242}Hiss, com você por perto|quem percisa de tribunal?
+{51365}{51487}agora saia daqui e mantenha seus olhos|de cobra abertos você sabe para quem
+{51513}{51620}você--Você quer dizer, eu--|estou despedido?
+{51621}{51681}você ouviu o rei. |saia, verme.
+{51682}{51752}estou perdido
+{51786}{51850}que falador! verme?
+{51851}{51924}minhoca?
+{51926}{51989}quem aquele duque estúpido|pensa que é?
+{51991}{52086}agora ele está tramando algo, Frade. | Sim! Venha!
+{53486}{53543}Ah, Senhorita
+{53545}{53597}Perdoe-me,|mas é uma grande honra...
+{53598}{53686}atirar em favor|de uma senhora tão adorável.
+{53688}{53747}Espero ganhar o beijo.
+{53749}{53816}Oh!
+{53849}{53952}bem, obrigado, meu arqueiro|provido de pernas magras.
+{53954}{54001}desejo-lhe sorte,
+{54003}{54052}de todo meu coração.
+{54105}{54162}eu estava pensando
+{54252}{54328}sua alteza,|com sua permissão real,
+{54329}{54374}estamos prontos para começar.
+{54375}{54435}Prossiga, Capitão!
+{54437}{54539}O torneio da flecha dourada|começa agora.
+{55243}{55290}Yea, Papai!
+{55584}{55658}um tiro perfeito.
+{55660}{55719}bem, bem. |Sim.
+{55731}{55808}isso é o que se chama|perfeiçao, P.J.
+{55810}{55856}eu vou ganhar aquela flecha dourada
+{55857}{55921}e então eu vou me apresentar|a senhorita Marian e...
+{55923}{55988}escute, faroleiro,|se você atira...
+{55990}{56064}tão bem quanto se gaba,| então você é melhor que Robin Hood.
+{56066}{56138}Robin Hood, ele disse!|Wowee!
+{56140}{56218}sou bom,|mas não tão bom quanto ele é.
+{56446}{56549}aquele garoto tem classe,|não é, P.J.?
+{56550}{56623}certamente que ele tem, Reggie.
+{56625}{56724}Bravo! Uh, bravo! Sim.
+{56725}{56789}Oh, um, a propósito.
+{56790}{56907}ouvi dizer que você tem tido um pouco de|problema em apanhar aquele Robin Hood.
+{56909}{56959}ele está com medo de mim,|é isso
+{56961}{57016}você notou que ele não|apareceu aqui hoje.
+{57018}{57111}Huh! Eu poderia reconhecê-lo|em seus falsos disfarces.
+{57112}{57167}é ele!|é Robin Hood!
+{57169}{57252}não posso esperar até contar|a sua Majestade.
+{57510}{57558}solte-me, seu...
+{57586}{57643}Por favor, Por favor!|eu não bebo!
+{57717}{57766}Atenção, todo mundo.
+{57767}{57832}os concorrentes finais são...
+{57833}{57904}the Honorável|xerife de Nottingham...
+{58005}{58127}e o corvo de Devonshire.
+{58237}{58347}minha querida, eu suspeito que você está|torcendo pelo galante moço, hum ?
+{58348}{58430}Uh, sim, senhor.
+{58431}{58485}bem, pelo menos ele me diverte.
+{58486}{58567}Coincidentemente, minha|querida senhora jovem,
+{58569}{58664}ele me diverte também.
+{58666}{58733}para o tiro final
+{58734}{58818}movam-se 30 passos para traz
+{58819}{58865}você ouvio isso, Nutsy!|vá
+{58889}{58937}Move isto, você birdbrain.
+{58973}{59033}e lembre-se do que deve fazer
+{59034}{59079}sem, senhor, Xerife, senhor.
+{59302}{59408}Bem, aquele tiro ganha|a seta dourada,
+{59410}{59465}o beijo e tudo mais
+{59779}{59862}sim! Ele conseguiu,|Ele conseguiu, Ele conseguiu
+{60452}{60515}Arqueiro, eu nomeio você,|por causa de...
+{60517}{60622}sua habilidade superior,|você conseguiu ganhar
+{60624}{60736}os parabéns reais.
+{60758}{60803}Oh, obrigado, sua Alteza de kindly
+{60804}{60934}encontrá-lo face-a-face,|sua alteza e majestade, é um real deleite.
+{60936}{61013}solte os dedos reais. |Ah!
+{61049}{61093}e agora eu o nomeio...
+{61095}{61140}o vencedor,
+{61141}{61224}ou, mais adequadamente,
+{61226}{61280}o perdedor!
+{61371}{61423}prendam-no.
+{61532}{61615}Eu o sentencio a
+{61617}{61672}morte imediata!
+{61674}{61764}Oh, não! Oh!
+{61766}{61810}Por favor.
+{61812}{61895}Por favor, senhor. |eu imploro que poupe a vida dele.
+{61897}{61956}Por favor, tenha clemência.
+{61958}{62031}Minha querida senhora emotiva,|por que eu deveria ?
+{62032}{62086}Porque eu amo Alteza
+{62088}{62133}ama-o?
+{62134}{62225}e este prisioneiro corresponde|a seu amor?
+{62308}{62414}Marian, meu bem, eu amo você|mais que a própria vida
+{62416}{62494}Ah, amor jovem.
+{62496}{62618}seus argumentos não têm lugar|num coração de pedra.
+{62620}{62702}mas traidores da coroa devem morrer
+{62704}{62761}Traidores da coroa?|aquela coroa pertence ao Rei Richard.
+{62763}{62857}Vida longa ao Rei Richard! |Vida longa ao Rei Richard!
+{62858}{62963}Basta! Eu sou rei!|rei! Rei!
+{63000}{63061}Ah! cortem-lhe a cabeça!
+{63384}{63449}Oh, não!
+{63502}{63613}Pare! carrasco, pare!|pare seu machado!
+{63614}{63691}Okay, Agora diga-lhe para desamarrar|meu amigo, ou eu vou--
+{63693}{63769}xerife, liberte meu amigo--
+{63771}{63855}quero dizer, liberte o prisioneiro!
+{63856}{63909}soltar o prisioneiro?
+{63910}{63970}você ouviu isso que ele disse
+{63971}{64034}xerife, eu faço as regras,
+{64036}{64103}e como sou o cabeça...
+{64104}{64166}Não tão duro, seu coisa ruim.
+{64167}{64262}deixe-o ir, !|deixe-o ir
+{64263}{64350}Yee-hee!|amor conquista tudo!
+{64467}{64524}eu devo minha vida a você, meu bem
+{64525}{64604}eu não puderia viver|sem você, Robin.
+{64632}{64694}há algo divertido acontecendo|ao redor daqui
+{64696}{64767}agora, P.J., diga-lhe que|beije senhorita Marian,
+{64816}{64886}que, você!
+{64888}{64971}matem-no!|Não fiquem aí parados! matem-no!
+{65353}{65444}não me fira! Não, não!|não me fira! socorro! socorro!
+{65555}{65604}matem-no!
+{65605}{65700}fuja, lassie!|isto não é lugar para uma senhora!
+{65811}{65865}Tome isso, salafrário
+{65867}{65919}socorro! Robin, socorro!
+{66024}{66066}Marian, meu love,|você se casa comigo?
+{66068}{66136}Oh, bem, eu pensei que você|nunca me perguntaria.
+{66183}{66268}mas você poderia ter escolhido|uma ocasião mais romântica.
+{66296}{66360}e para nossa lua de mel, Londres--| - Sim!
+{66361}{66428}Normandia! Espanha ensolarada! | - Sim! Por que não?
+{66491}{66560}Ooh, que evento esplendido
+{66645}{66690}que rixa bonita.
+{66887}{66966}Hey! Quem é o motorista deste|guarda-chuva voador?
+{67166}{67229}nós teremos seis crianças. | Seis?
+{67231}{67279}Oh, uma dúzia pelo menos.
+{67348}{67393}Tome isso!
+{67508}{67546}Atenção, todo mundo.
+{68384}{68429}parem a menina!
+{68430}{68528}Ooh! | - tome isso seu escorbuto!
+{68530}{68575}peguem a gorda!
+{69150}{69209}Yahoo!
+{69454}{69527}Vida longa ao Rei Richard!
+{69529}{69584}Yee-hoo!
+{69618}{69684}Hiss! Você nunca está por perto|quando eu preciso de você!
+{69686}{69765}Vindo. Vindo.
+{69767}{69861}pois sou uma pessoa feliz,|uma pessoa feliz
+{69924}{69992}Oh! Oh, aí está você, meu velho
+{69993}{70091}P.J., você não acreditará nisto,|mas a cegonha realmente é Robin Hood.
+{70093}{70153}Robin Hood.
+{70331}{70387}sai daí se puder
+{70674}{70793}Amor nunca muda
+{70837}{70930}você eram apenas crinaças brincando
+{70991}{71044}agora estão crescidos
+{71046}{71120}em mim
+{71121}{71216}Oh, como estes momentos|passam rápido
+{71285}{71398}antes os dias demoravam
+{71423}{71516}agora parecem voar
+{71552}{71622}a vida é breve
+{71624}{71692}mas quando acabar
+{71694}{71785}Love goes on and on
+{71940}{72011}Love will live
+{72078}{72146}Love will last
+{72300}{72366}Love goes on
+{72368}{72428}And on and on
+{72429}{72539}Once we watched|a lazy world go by
+{72573}{72662}Now the days seem to fly
+{72694}{72773}Life is brief
+{72774}{72839}But when it's gone
+{72841}{72957}Love goes on and on
+{73089}{73170}Oh, Robin,|que noite bonita.
+{73172}{73228}queria que nunca terminasse.
+{73230}{73275}Surpresa!
+{73276}{73375}vida longa a Robin Hood|Hooray!
+{73377}{73467}vida longa a senhorita Marian | Bravo!
+{73469}{73525}bravo! | - Ouça, ouça! Bravo! Bravo!
+{73527}{73574}Hooray!
+{73579}{73658}e abaixo escorbuto|do Príncipe John!
+{73694}{73754}Yeah.
+{73756}{73871}Oh, o mundo cantará por mil anos|a música de um reino inglês
+{73872}{73966}And not because he passed some laws|or had that lofty brow
+{73968}{74075}While bonny good King Richard|leads the great crusade he's on
+{74077}{74173}We'll all have to slave away|for that good-for-nothin' John
+{74175}{74231}Incredible as he is inept
+{74233}{74277}Whenever the history books|are kept
+{74279}{74366}They'll call him|the phony king of England
+{74368}{74476}A pox on|that phony king of England
+{74813}{74918}He sits alone on the giant throne|pretendin' he's the king
+{74919}{75015}A little tyke who's rather like|a puppet on a string
+{75017}{75110}And he throws an angry tantrum|if he cannot have his way
+{75111}{75209}And then he calls for Mom|while he's suckin' his thumb.
+{75211}{75307}You see,|he doesn't wanna play.
+{75309}{75353}Too late to be known|as John the First
+{75355}{75409}He's sure to be known|as John the Worst
+{75410}{75502}Apox on|that phony king of England
+{75535}{75603}Lay that country on me|babe
+{75696}{75741}venha, Johnny.
+{75767}{75811}vá senhora, vá!
+{75836}{75883}Oh, oh, oooh!
+{76362}{76465}While he taxes us to pieces|and he robs us of our bread
+{76467}{76557}King Richard's crown keeps slippin'|down around that pointed head
+{76558}{76668}Ah, but while there is a merry man|in Robin's wily pack
+{76669}{76756}We'll find a way to make him pay|and steal our money back
+{76758}{76826}A minute before|he knows we're there
+{76827}{76902}- [ Stops ]|- Old Rob'll snatch his underwear.
+{76903}{76996}- [ All Laughing ]|- [ Resumes ]
+{77014}{77104}The breezy and|uneasy king of England
+{77106}{77150}The snivelin', grovelin'
+{77152}{77211}Measly, weaselly
+{77213}{77263}Blabberin', jabberin'
+{77265}{77313}Jibberin', jabberin'
+{77314}{77363}Plunderin', plottin'
+{77363}{77412}Wheelin', dealin'
+{77414}{77501}Prince John|That phony king of England
+{77533}{77592}Yeah
+{77740}{77838}He throws an angry tantrum|if he cannot have his way
+{77839}{77937}He calls for Mom and sucks his thumb|and doesn't want to play
+{77939}{77996}Too late to be known|as John the First
+{77997}{78077}He's sure to be known|as John the Worst
+{78114}{78160}o que é isso?
+{78162}{78284}aquele é P.J. para um|" T ". deixe-me tentar.
+{78373}{78443}muito tarde para ser conhecido|como John o Primeiro
+{78445}{78534}He seá conhecido como John o Pior
+{78536}{78622}o fabuloso, maravilhoso,|misericordioso, cavalheiroso--
+{78624}{78672}Oh, você está errando tudo, Hiss
+{78674}{78754} - o horrível, estúpido,|péssimo, desprezível--| - Basta!
+{78806}{78864}mas-mas, senhor,|é um grande sucesso.
+{78866}{78924}a vila inteira está cantando
+{78942}{79013}Oh, eles estão, eles estão?
+{79013}{79104}bem, eles cantarão uma|melodia diferente.
+{79106}{79196}Dobre os impostos!|Triplique os impostos!
+{79198}{79261}Suguem até a última gota...
+{79263}{79353}fora com esses camponeses insolentes
+{79507}{79553}Homem, oh, homem.
+{79554}{79669}príncipe John assegurou-se|que cumprir a ameaça dele,
+{79671}{79718}e todos têm que pagar
+{79720}{79822}para sua humilhação,|acredite-me.
+{79824}{79902}impostos, impostos, impostos.
+{79904}{80005}ele taxou o coração e alma das|pessoas pobres de Nottingham.
+{80047}{80128}E se você não pudesse|pagar seus impostos,
+{80130}{80204}você seria encarcerado.
+{80206}{80318}Yep, eu também estou em aqui. |Nottingham estava em dificuldade profunda.
+{80393}{80450}toda cidade
+{80484}{80565}tem seus altos e baixos
+{80623}{80671}as vezes altos
+{80746}{80805}as vezes baixo
+{80855}{80921}mas não em Nottingham
+{80990}{81073}começo a acreditar
+{81134}{81196}que se nós não estivéssemos|assim abatidos
+{81249}{81312}estaríamos livres
+{81370}{81427}para voar
+{81429}{81496}se tivéssemos asas para voar
+{81542}{81622}Can't you see|the tears we're cryin'
+{81674}{81755}Can't there|be some happiness
+{81756}{81814}para mim
+{81859}{81924}Não em Nottingham
+{83091}{83209}Frade, |acho que ninguém vem
+{83211}{83301}você está certo, Sacristão, mas talvez|o som deste sino da igreja...
+{83303}{83375}traga conforto as pessoas pobre.
+{83435}{83531}temos que fazer o que pudermos para|manter as esperanças deles viva.
+{83621}{83737}Oh, como pode haver alguma esperança|com aquele tirano Príncipe John...
+{83739}{83814}taxando o coração e alma|das pessoas pobres?
+{83816}{83882}sim, essas pobres pessoas.
+{83884}{83974}olhe, nossa pobre acixa|está como nossa igreja--
+{83976}{84020}vazia.
+{84223}{84313}Frade, nós poupamos isto.
+{84315}{84398}não é muito, mas por favor|tome isto para os pobres.
+{84399}{84474}sua última moeda?
+{84476}{84521}Aw, pequena irmã,
+{84522}{84593}nenhuma pessoa pode|dar mais que isso.
+{84614}{84667}abençoados sejam você dois
+{84668}{84751}Oh, nós estávamos apenas economizando|para os dias de chuva
+{84752}{84814}bem, está chuvendo agora.
+{84816}{84919}as coisas não podem ficar piores. | - [o Xerife] Howdy, Frade.
+{84921}{85006}bem, parece que ouvi algo
+{85008}{85107}o que faz isso grande|tirano aqui, Pai, shh.
+{85143}{85212}Hmm. bem,|o que temos aqui?
+{85213}{85277}agora, só um minute,|Sheriff!
+{85279}{85344}Isso é a caixa dos pobres!
+{85377}{85488}claro que é, e eu levarei para|o pobre Príncipe John.
+{85489}{85536}toda pequena contribuição ajuda.
+{85538}{85622}Oooh,|devolva
+{85623}{85713}e sua Majestade também o|abençoa, pequena irmã.
+{85715}{85768}seu ladrão salafrário!
+{85770}{85849}agora, pega leve, Frade. |eu estou apenas cumprindo meu dever
+{85851}{85918}Coletando impostos|para o arrogante,
+{85920}{86007}mau, Príncipe John
+{86009}{86083}escute, Frade,|você é um pregador poderoso,
+{86085}{86174}e você vai acabar com|o pescoço na forca
+{86202}{86248}saia de minha igreja!
+{86248}{86352}fora! Fora! Fora! Fora! | - Ooh. Ooh. Ooh. Ooh.
+{86354}{86397}Oh, querido eu.
+{86399}{86455}você quer impostos?
+{86482}{86566}eu lhe darei impostos! | - Ow!
+{86567}{86635}de-lhe isto! Dê-lhe!|dê isto para ele, Frade!
+{86823}{86928}você está desacatando a coroa.
+{86930}{86991}Oh, não!
+{86992}{87042}Oh, lá, lá, Mãe.
+{87126}{87178}toda cidade
+{87226}{87294}tem seus altos e baixos
+{87358}{87412}as vezes altos
+{87472}{87539}as vezes baixos
+{87607}{87677}mas não em Nottingham
+{88361}{88451}Senhor, se eu posso--
+{88454}{88497}me aventurar a dar uma opinião,
+{88499}{88596}você não está no seu|ego cordial hoje.
+{88688}{88734}eu-eu sei. Eu sei.
+{88736}{88813}você não conta seu dinheiro|há dias, hmm?
+{88814}{88878}sempre o faz se sentir tão feliz.
+{88992}{89037}Senhor,
+{89039}{89126}impostos estão levando|todos a prisão
+{89127}{89196}e, oh,|eu tenho notícias boas, senhor.
+{89198}{89286}O frade está na prisão. | - O Frade?
+{89288}{89395}é Robin Hood que eu|quero, seu idiota
+{89397}{89481}eu daria todo o meu ouro|para por as mãos--
+{89527}{89567}você disse o Frade?
+{89569}{89652}eu disse?|sim, eu disse.
+{89677}{89736}Ah!|Hiss, eu já sei!
+{89738}{89859}eu usarei aquele frade gordo como isca|para apanhar Robin Hood.
+{89899}{89944}outra armadilha?
+{89946}{90002}sim, sim, sua serpente estúpida.
+{90004}{90120}o Frade será conduzido|a forca, você não vê?
+{90122}{90243}m-m-mas, senhor, enforcar o Frade Tuck,| um homem da igreja?
+{90245}{90312}sim, meu réptil relutante.
+{90314}{90394}e quando nosso heroi|tentar salvar
+{90395}{90481}o clérigo corpulento,
+{90483}{90541}meus homens estarão prontos.
+{91027}{91121}bem, verifiquei tudo de cima a baixo
+{91123}{91213}Sim, este é uma das mais bonitas forcas|que você construíu, Xerife.
+{91215}{91322}Sheriff, você não acha que|devemos fazer um teste ?
+{91421}{91540}Agora eu sei por que sua|mãe chamou você de Nutsy
+{91542}{91602}esmolas. Esmolas para o pobre.
+{91650}{91736}meus velhos ouvidos ouviram|a voz melodiosa...
+{91737}{91782}do xerife?
+{91783}{91831}isso mesmo, homem velho.
+{91833}{91900}o que vai acontecer aqui?
+{91902}{91954}nós vamos enforcar o Frade.
+{91956}{92063}Não! enforcar o Frade--|enforcar Frade tuck?
+{92059}{92110}sim. Ao amanhecer.
+{92111}{92168}e talvez seja uma|execução em dobro.
+{92192}{92248}Shh, shh. |seu bobo.
+{92249}{92346}em dobro, eh?
+{92348}{92410}quem será o outro?
+{92410}{92490}Sheriff, ele está muito curioso
+{92518}{92583}Oh, eu não quis dizer nada
+{92585}{92648}mas, um,|não poderia há dificuldade...
+{92648}{92701}se Robin Hood aparecer?
+{92703}{92812}bem, veja Sheriff, ele adivinhou.
+{92813}{92866}Nutsy, feche seu bico.
+{92867}{92912}Ah, não há necessidade|para preocupar.
+{92913}{93019}o xerife também é esperto,|muito inteligente e muito inteligente...
+{93021}{93073}para seus semelhantes, digo
+{93114}{93171}ouviu isso, Nutsy?
+{93172}{93232}para um cego você reconhece|bem um homem bom...
+{93233}{93308}quando ele vê um, digo.
+{93310}{93363}Sheriff,|tenho um pressentimento
+{93364}{93437}que aquele velho chereta|sabe de mais
+{93439}{93535}Oh, cale-se, Trigger. |Ele não passa de um mendigo velho inofensivo.
+{93536}{93583}esmolas.
+{93585}{93661}esmolas para o pobre. |esmolas.
+{93663}{93707}esmolas para o pobre.
+{93709}{93795}Rob, nós não podemos deixar|o Frade ser enforcado
+{93797}{93867}uma invasão esta noite|é a única chance dele
+{93869}{93944}uma invasão? não há meios de fazê-lo
+{93946}{94038}temos que conseguir, Johnny,|ou Frade morre ao amanhecer.
+{95460}{95578}1:00, e todos bem!
+{95727}{95818}Nutsy, você melhoraria se fixasse|um par de horas em seu cérebro.
+{95839}{95960}sim, senhor. Uh, isso se faz|adicionando ou subtraindo'?
+{95962}{96064}oh, esqueça. | - Sim, senhor, Xerife, senhor.
+{96079}{96191}Nutsy, como eu posso dormir|com você gritando | " Todos bem " todo o tempo aqui?
+{96192}{96260}Sheriff, tudo não está tão bem
+{96261}{96338}tenho o pressentimento que haverá|um resgate a qualquer momento
+{96340}{96427}Cuidado, Trigger!|aponte isso para outro lugar
+{96428}{96519}não se preocupe, Xerife.|a velha Betsy é segura.
+{96666}{96741}o que está tentando fazer
+{96743}{96803}seu cérebro de passarinho? | Só estou cumprindo meu dever, Xerife.
+{96804}{96884}você e aquele trigger|cuidem dos seus
+{97055}{97118}ei, você ouviu aquilo? | com certeza, Trigger.
+{97119}{97200}há algo acontecendo ao|redor aqui. Venha.
+{97202}{97249}você me cobrem.
+{97351}{97441}espere um minuto. |por acaso esta é a velha e segura Betsy?
+{97443}{97510}Pode apostar que é, Xerife. | era isso que eu temia
+{97511}{97558}você vai primeiro.
+{97632}{97736}tudo bem, você aí,|saia com suas mãos para cima.
+{97738}{97798}sim, para o céu.
+{97800}{97891}veja só esta performance, sócio. | - Tenha cuidado, Rob.
+{97945}{98058}Jehoshaphat, Trigger. |ponha peashooter abaixo.
+{98091}{98174}Ah, Trigger,|é só Nutsy.
+{98176}{98248}e criminently,|volte para sua patrulha.
+{98320}{98411}aquele Trigger. Está deixando|todo mundo irritado.
+{98413}{98474}Nada vai acontecer. |aquele frade gordo...
+{98475}{98563}vai balançar na forca ao amanhecer
+{98593}{98640}xerife,
+{98642}{98762}por que não se senta um pouco.|está confortável?
+{98764}{98808}Bem, obrigado, Nutsy.
+{98810}{98884}apenas feche seus olhos sonolentos
+{99006}{99088}por que você não, uh,|deixe-me soltar o cinto?
+{99160}{99222}apenas relaxe
+{99780}{99839}Oh, Nutsy,|isso é muito agradável
+{99841}{99891}cante mais uma vez,|você canta ?
+{99959}{100045}apenas relaxe
+{100305}{100374}espere um minuto!|resgate! resgate!
+{100375}{100443}eu ouvi! Eu ouvi isto, xerife.| a porta! A porta!
+{100515}{100620}agora, pela última vez,|chega de alarmes falsos. | - Ow!
+{100622}{100684}agora, você liberta Frade Tuck|e os outros...
+{100686}{100742}e eu derrubarei a tesouraria real.
+{100998}{101072}Oh, Pequeno John,|não pode ser!
+{101074}{101175}Shh, quieto. Nós estamos|saindo daqui.
+{101200}{101244}Minhas  orações Foram respondidas.
+{101717}{101821}eu estou pronto. Onde estão|os sujeitos ruins? |acalme-se, filho.
+{102995}{103043}Robin Hood!
+{103045}{103141}Eu o pegarei, pegarei
+{103947}{104008}É Robin Hood que eu quero
+{105253}{105313}Hoo-hoo-hoo-hoo-hoo!
+{105437}{105496}Venham. sigam-me.
+{105939}{106007}agora, Xerife--|agora, não levante um dedo,
+{106009}{106065}mas ainda sinto que...
+{106089}{106169}Friar, está indo. |Depressa.
+{107679}{107782}Guardas! Guardas! Meu ouro!
+{107997}{108100}Oh, não, não, não. |Eles estão escapando com meu ouro.
+{108101}{108154}Guardas! Guardas!
+{108156}{108208}para a prisão!
+{108210}{108285}Rinocerontes, Alto!|Pare! Desista!
+{108431}{108490}Todo mundo, por aqui!
+{109357}{109421}são todos eles. |continuem indo.
+{109522}{109631}Vamos sair daqui. Ho-ooo!
+{109633}{109700}para Floresta de Sherwood!
+{109702}{109746}Parem! Meu bebê!
+{109748}{109808}Mamãe, Mamãe, espere por mim.
+{110162}{110249}nós o pegamos agora! | - Continuem. Não se preocupem comigo
+{111166}{111241}Agora,|nós o apegamos sem dúvida.
+{112053}{112095}atirem nele!
+{112392}{112470}matem-o! matem-o!
+{112747}{112821}Vamos, Rob. Venha.
+{112821}{112881}Ele vai conseguir.
+{113077}{113159}No! Não. Não.
+{113161}{113235}Hiss, ele já era!
+{113345}{113397}Ele vai conseguir,
+{113399}{113459}não vai, Pequeno John?
+{113866}{113923}ei, o que é isso?
+{113976}{114042}Little John, olhe! Olhe!
+{114110}{114157}ei, o que...
+{114159}{114257}Oh, Homem, você me deixou|preocupado, Rob.
+{114259}{114308}eu pensei que você não voltava mais
+{114309}{114378}Ah, não Robin Hood.
+{114380}{114493}Ele poderiam ter nadado duas vezes mais,|huh, Sr. Robin Hood, senhor?
+{114494}{114599}Olhe, Frade! Olhe!|Ele conseguiu. Ele escapou novamente.
+{114601}{114711}daquele falso Rei da Inglaterra!|Oo-de-lally!
+{114735}{114844}Oo-de-lally! |Oh, não. É tão miseravelmente injusto.
+{114846}{114932}Bem, eu tentei lhe contar,|mas, não, não, não, você não escutaria.
+{114934}{115041}suas armadilhas nunca funcionam, e olhe|o que você fez ao castelo de sua mãe.
+{115042}{115120}Mamãe!
+{115178}{115273}Majestade, não! | - Sua naja covarde!
+{115275}{115326}Por favor! Oh, não!
+{115432}{115531}agravante! | - salve-me!
+{115533}{115600}sua enguia vestida de cobra
+{115644}{115747}socorro!|ele está delirando, totalmente furioso!
+{116130}{116203}você sabe, eu pensei que nunca ficaríamos|livres desses dois marotos,
+{116205}{116285}mas felizmente para nós,|O Rei Richard voltou,
+{116287}{116370}e, bem, ele certamente colocaria tudo fora.
+{116711}{116801}Diga, é melhor voltarmos para a igreja. |Sons indicam que alguém está feliz
+{116891}{116954}Vida longa a Robin Hood!
+{117099}{117157}Vida longa ao Rei Richard!
+{117199}{117244}Oh, Frei Tuck,
+{117235}{117335}Parece que agora tenho um|fora-da-lei como parente
+{117382}{117427}sim, nada mal.
+{117535}{117610}Skippy,|como está você?
+{117613}{117678}Bem, Robin Hood terá filhos
+{117682}{117745}portanto alguém tem|que cuidar das coisa
+{117810}{117855}Ho-ooo!
+{117858}{117920}Ohhh.
+{117925}{118002}nunca fui tão feliz.
+{118446}{118505}Hey, aqui venha,|Trigger.
+{118508}{118576}Apresentar armas!
+{118761}{118888}Bem, pessoal,|foi assim que realmente aconteceu.
+{118892}{119041}Amor é para sempre
+{119045}{119119}Oo-de-lally, Oo-de-lally|Golly, que dia
+{119123}{119277}Oo-de-lally, Oo-de-lally|Golly, que dia
