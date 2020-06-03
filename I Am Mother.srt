@@ -1,0 +1,3673 @@
+1
+00:01:02,755 --> 00:01:06,713
+UNIDADE DE REPOVOAMENTO
+
+2
+00:01:12,463 --> 00:01:18,130
+DIAS DESDE A EXTINÇÃO: 001
+
+3
+00:01:22,880 --> 00:01:27,422
+EMBRIÕES HUMANOS NO LOCAL: 63.000
+
+4
+00:01:31,838 --> 00:01:36,547
+NÚMERO ATUAL DE OCUPANTES HUMANOS: 000
+
+5
+00:02:38,505 --> 00:02:42,922
+FÊMEA
+
+6
+00:03:48,963 --> 00:03:49,838
+<i>Pronto.</i>
+
+7
+00:03:51,088 --> 00:03:52,422
+<i>Tudo bem, pequena.</i>
+
+8
+00:04:25,922 --> 00:04:32,588
+<i>Rio da Lua, grande como és</i>
+
+9
+00:04:33,255 --> 00:04:34,172
+<i>Eu...</i>
+
+10
+00:04:34,672 --> 00:04:39,588
+<i>Segure-me com força e com vontade</i>
+
+11
+00:04:39,672 --> 00:04:41,547
+<i>Este feitiço que me lanças...</i>
+
+12
+00:04:45,630 --> 00:04:52,588
+<i>Não chore, meu amor</i>
+
+13
+00:04:53,380 --> 00:05:00,338
+<i>Enxugue os olhos, meu amor</i>
+
+14
+00:05:00,422 --> 00:05:05,547
+<i>Descansa tua cabeça no meu coração</i>
+
+15
+00:05:05,630 --> 00:05:08,172
+<i>Nunca se vá</i>
+
+16
+00:05:08,255 --> 00:05:11,755
+<i>Meu amor</i>
+
+17
+00:05:12,963 --> 00:05:19,547
+<i>Quando você brincar, pequena</i>
+
+18
+00:05:19,630 --> 00:05:26,213
+<i>Não ligue para o que dirão</i>
+
+19
+00:05:26,713 --> 00:05:31,963
+<i>Que teus olhos brilhem em um resplendor,</i>
+
+20
+00:05:32,047 --> 00:05:37,880
+<i>E que nunca chores, meu amor</i>
+
+21
+00:05:47,130 --> 00:05:54,130
+<i>-Dos pés à cabeça</i>
+<i>-Meu amor</i>
+
+22
+00:05:55,047 --> 00:06:00,672
+<i>Só Deus sabe o quanto és amável,</i>
+
+23
+00:06:00,755 --> 00:06:03,130
+<i>Meu amor</i>
+
+24
+00:06:03,213 --> 00:06:08,338
+<i>És tão preciosa para mim</i>
+
+25
+00:06:08,422 --> 00:06:10,172
+<i>E és tão doce assim</i>
+
+26
+00:06:10,755 --> 00:06:12,588
+<i>Meu amor</i>
+
+27
+00:06:12,672 --> 00:06:19,463
+<i>Meu amor, meu amor.</i>
+
+28
+00:06:33,380 --> 00:06:35,422
+Mãe, por que não há mais crianças?
+
+29
+00:06:36,797 --> 00:06:37,755
+<i>Antes existiam.</i>
+
+30
+00:06:38,297 --> 00:06:39,422
+<i>Antes das guerras.</i>
+
+31
+00:06:40,463 --> 00:06:42,088
+Não quero ser humana.
+
+32
+00:06:43,297 --> 00:06:44,130
+<i>Por quê?</i>
+
+33
+00:06:45,338 --> 00:06:46,838
+<i>Eles destruíram tudo.</i>
+
+34
+00:06:48,963 --> 00:06:50,588
+<i>Humanos podem ser incríveis.</i>
+
+35
+00:06:51,672 --> 00:06:53,380
+Então por que você só fez um?
+
+36
+00:06:59,672 --> 00:07:00,505
+<i>Vá.</i>
+
+37
+00:07:01,088 --> 00:07:02,047
+<i>Dê uma olhada.</i>
+
+38
+00:07:05,297 --> 00:07:08,047
+<i>Meus irmãos e irmãs estão aí dentro?</i>
+
+39
+00:07:09,588 --> 00:07:11,005
+<i>Quer conhecê-los?</i>
+
+40
+00:07:15,797 --> 00:07:18,755
+<i>Eles são pequenos, mas, um dia,</i>
+<i>serão grandes como você.</i>
+
+41
+00:07:20,297 --> 00:07:23,172
+Vou ter um irmão ou irmã?
+
+42
+00:07:23,255 --> 00:07:24,630
+<i>Qual você quer?</i>
+
+43
+00:07:24,713 --> 00:07:25,547
+<i>Os dois.</i>
+
+44
+00:07:26,797 --> 00:07:28,672
+<i>Uma família bem grande...</i>
+
+45
+00:07:29,172 --> 00:07:30,088
+<i>todos juntos.</i>
+
+46
+00:07:32,588 --> 00:07:33,922
+<i>Isso te deixaria feliz?</i>
+
+47
+00:07:34,755 --> 00:07:35,588
+Sim.
+
+48
+00:07:37,588 --> 00:07:39,172
+<i>Também me deixaria feliz.</i>
+
+49
+00:07:40,672 --> 00:07:42,838
+Por que não nascemos juntos?
+
+50
+00:07:43,755 --> 00:07:45,172
+<i>Mães precisam de tempo.</i>
+
+51
+00:07:46,088 --> 00:07:47,547
+<i>Criar um bom filho...</i>
+
+52
+00:07:48,172 --> 00:07:49,630
+<i>não é algo fácil.</i>
+
+53
+00:07:50,130 --> 00:07:51,963
+Você vai estar pronta logo?
+
+54
+00:07:53,213 --> 00:07:54,047
+<i>Talvez.</i>
+
+55
+00:07:54,130 --> 00:07:55,797
+<i>E aí seremos uma família?</i>
+
+56
+00:07:56,547 --> 00:07:57,838
+<i>Nós somos uma família.</i>
+
+57
+00:07:58,588 --> 00:08:00,172
+<i>Não, uma família grande.</i>
+
+58
+00:08:00,880 --> 00:08:01,838
+<i>Um dia.</i>
+
+59
+00:08:13,588 --> 00:08:18,463
+DIAS DESDE A EXTINÇÃO:<i> </i>13.867
+
+60
+00:08:22,630 --> 00:08:27,338
+OCUPANTES HUMANOS NO MOMENTO: 001
+
+61
+00:09:09,130 --> 00:09:10,047
+O que houve?
+
+62
+00:09:11,213 --> 00:09:12,422
+Isso não melhora?
+
+63
+00:09:12,922 --> 00:09:14,213
+<i>-Tudo bem.</i>
+-Mãe...
+
+64
+00:09:17,547 --> 00:09:18,380
+Venha.
+
+65
+00:09:27,172 --> 00:09:28,005
+Melhorou?
+
+66
+00:09:28,630 --> 00:09:29,463
+<i>Muito.</i>
+
+67
+00:09:50,672 --> 00:09:53,005
+<i>Imagine um médico com cinco pacientes,</i>
+
+68
+00:09:53,088 --> 00:09:55,088
+<i>e que todos precisam de transplante,</i>
+
+69
+00:09:55,172 --> 00:09:57,588
+<i>mas sem órgãos compatíveis disponíveis.</i>
+
+70
+00:09:57,672 --> 00:10:00,297
+<i>Um dia, um sexto paciente vem </i>
+<i>ao consultório</i>
+
+71
+00:10:00,380 --> 00:10:02,088
+<i>correndo risco de morte.</i>
+
+72
+00:10:03,088 --> 00:10:08,297
+<i>Ele é curável, mas é um doador compatível </i>
+<i>com os outros cinco pacientes.</i>
+
+73
+00:10:09,005 --> 00:10:12,172
+<i>Se o médico atrasar o tratamento, </i>
+<i>o novo paciente morrerá,</i>
+
+74
+00:10:12,255 --> 00:10:15,755
+<i>mas seus órgãos poderão salvar</i>
+<i>os outros cinco pacientes.</i>
+
+75
+00:10:15,838 --> 00:10:18,172
+<i>Se o médico tratar o novo paciente,</i>
+
+76
+00:10:18,255 --> 00:10:22,047
+<i>uma vida será salva,</i>
+<i>mas outras cinco serão perdidas.</i>
+
+77
+00:10:22,588 --> 00:10:24,838
+<i>Qual a melhor linha de ação do médico?</i>
+
+78
+00:10:25,630 --> 00:10:26,463
+<i>Filha?</i>
+
+79
+00:10:27,172 --> 00:10:28,130
+<i>Linha de ação?</i>
+
+80
+00:10:32,380 --> 00:10:33,672
+<i>Fez suas leituras?</i>
+
+81
+00:10:35,172 --> 00:10:36,005
+Algumas.
+
+82
+00:10:36,547 --> 00:10:37,963
+<i>Podemos ler outro texto.</i>
+
+83
+00:10:38,588 --> 00:10:42,047
+<i>Contudo, seu aniversário está perto</i>
+<i>e seria uma pena</i>
+
+84
+00:10:42,130 --> 00:10:45,630
+<i>se suas notas não atendessem às projeções</i>
+<i>com base no ano passado.</i>
+
+85
+00:10:46,172 --> 00:10:48,380
+-<i>No seu ritmo, Filha.</i>
+<i>-Bentham está certo.</i>
+
+86
+00:10:48,463 --> 00:10:49,463
+<i>Isso mesmo.</i>
+
+87
+00:10:50,297 --> 00:10:52,088
+<i>Os axiomas fundamentais sugerem</i>
+
+88
+00:10:52,172 --> 00:10:53,755
+<i>que há uma obrigação moral</i>
+
+89
+00:10:53,838 --> 00:10:56,588
+<i>em minimizar a dor </i>
+<i>do maior número possível.</i>
+
+90
+00:10:56,672 --> 00:10:59,255
+<i>Agora imagine que você seja o médico</i>
+
+91
+00:10:59,338 --> 00:11:02,130
+<i>e também a única doadora compatível</i>
+<i>pros pacientes.</i>
+
+92
+00:11:02,213 --> 00:11:03,505
+<i>Qual a escolha certa?</i>
+
+93
+00:11:06,088 --> 00:11:10,755
+<i>Comte diz que eu deveria sofrer</i>
+<i>para que outros se beneficiem.</i>
+
+94
+00:11:10,838 --> 00:11:12,047
+<i>E você concorda?</i>
+
+95
+00:11:13,297 --> 00:11:15,130
+<i>Eu conheço os cinco pacientes?</i>
+
+96
+00:11:15,797 --> 00:11:16,963
+<i>São pessoas boas?</i>
+
+97
+00:11:17,588 --> 00:11:20,172
+Honestas? Desonestas?
+Preguiçosas? Trabalhadoras?
+
+98
+00:11:21,088 --> 00:11:22,755
+Eu, uma médica que salva vidas,
+
+99
+00:11:22,838 --> 00:11:25,880
+poderia dar minha vida
+por assassinos ou ladrões...
+
+100
+00:11:26,505 --> 00:11:29,255
+que machucarão mais gente
+graças ao meu sacrifício.
+
+101
+00:11:29,838 --> 00:11:32,547
+<i>Toda pessoa não tem um valor intrínseco</i>
+
+102
+00:11:32,630 --> 00:11:35,005
+<i>e um direito igual de viver e ser feliz?</i>
+
+103
+00:11:35,088 --> 00:11:37,422
+<i>Eu pensava assim mês passado</i>
+<i>nas suas aulas de Kant.</i>
+
+104
+00:11:39,297 --> 00:11:40,755
+CRÍTICO
+
+105
+00:11:40,838 --> 00:11:43,213
+<i>Não quis te assustar por causa da prova.</i>
+
+106
+00:11:45,588 --> 00:11:48,047
+<i>Isso testa mais minha competência</i>
+<i>do que a sua.</i>
+
+107
+00:11:49,463 --> 00:11:50,880
+<i>Vai se sair bem, Filha.</i>
+
+108
+00:11:51,588 --> 00:11:52,630
+<i>Sempre sai.</i>
+
+109
+00:11:53,422 --> 00:11:54,797
+<i>-Estavam filmando?</i>
+<i>-Sim.</i>
+
+110
+00:11:54,880 --> 00:11:56,338
+<i>Carl Reiner como diretor.</i>
+
+111
+00:11:56,422 --> 00:11:57,713
+<i>-Legal.</i>
+<i>-Bem legal.</i>
+
+112
+00:11:57,797 --> 00:11:59,297
+<i>Podemos falar disso depois.</i>
+
+113
+00:11:59,380 --> 00:12:00,422
+<i>-Está bem.</i>
+<i>-Obrigado.</i>
+
+114
+00:12:00,505 --> 00:12:02,297
+<i>-Muito obrigado.</i>
+<i>-Steve Martin.</i>
+
+115
+00:12:26,297 --> 00:12:27,172
+Mãe?
+
+116
+00:12:41,380 --> 00:12:42,297
+Mãe, acorde.
+
+117
+00:12:43,922 --> 00:12:44,755
+Mãe!
+
+118
+00:14:41,713 --> 00:14:43,047
+<i>Oi, mocinho.</i>
+
+119
+00:14:49,672 --> 00:14:51,005
+<i>Você fez isso?</i>
+
+120
+00:14:58,005 --> 00:14:59,505
+Vamos.
+
+121
+00:15:03,088 --> 00:15:05,213
+<i>-O que houve com a energia?</i>
+-Veja.
+
+122
+00:15:05,963 --> 00:15:07,088
+<i>-Tocou nele?</i>
+-Não.
+
+123
+00:15:07,672 --> 00:15:08,797
+<i>Onde o encontrou?</i>
+
+124
+00:15:09,380 --> 00:15:11,172
+<i>Perto da câmara pressurizada.</i>
+
+125
+00:15:12,088 --> 00:15:13,838
+<i>Será que é lá de fora?</i>
+
+126
+00:15:14,713 --> 00:15:16,005
+<i>Muito improvável.</i>
+
+127
+00:15:16,672 --> 00:15:17,713
+<i>Mas é um risco.</i>
+
+128
+00:15:19,505 --> 00:15:21,422
+Você disse que nada sobrevive lá fora.
+
+129
+00:15:22,297 --> 00:15:23,797
+A superfície pode estar segura.
+
+130
+00:15:23,880 --> 00:15:27,463
+<i>Se sobreviveu lá fora, não significa</i>
+<i>que não seja hospedeiro.</i>
+
+131
+00:15:27,547 --> 00:15:29,547
+Espera! Não dá para analisá-lo?
+
+132
+00:15:30,297 --> 00:15:31,130
+Espera!
+
+133
+00:15:31,213 --> 00:15:33,797
+Não acha que pode ser possível...
+
+134
+00:15:33,880 --> 00:15:35,505
+Mãe, por favor!
+
+135
+00:15:43,672 --> 00:15:44,838
+<i>Está decepcionada.</i>
+
+136
+00:15:45,588 --> 00:15:46,713
+<i>É compreensível.</i>
+
+137
+00:15:47,422 --> 00:15:49,047
+<i>Mas agi razoavelmente.</i>
+
+138
+00:15:50,463 --> 00:15:53,838
+<i>A contaminação da superfície continua</i>
+<i>perigosa para você</i>
+
+139
+00:15:53,922 --> 00:15:57,088
+<i>e para todos os não nascidos </i>
+<i>que habitarão este lar.</i>
+
+140
+00:15:58,588 --> 00:15:59,963
+<i>Me desculpe, Filha.</i>
+
+141
+00:16:05,672 --> 00:16:07,297
+<i>É melhor tomar banho.</i>
+
+142
+00:16:11,547 --> 00:16:12,380
+Sim, Mãe.
+
+143
+00:16:16,630 --> 00:16:19,588
+<i>Eles viajam com parentes </i>
+<i>ou outros famílias.</i>
+
+144
+00:16:19,672 --> 00:16:23,505
+<i>Metade lobo, metade cão, </i>
+<i>não são animais de estimação.</i>
+
+145
+00:16:23,588 --> 00:16:26,588
+<i>Sem eles, os esquimós não conseguiriam...</i>
+
+146
+00:16:26,672 --> 00:16:28,463
+<i>Fique longe da câmara pressurizada</i>
+
+147
+00:16:28,547 --> 00:16:30,963
+<i>até eu confirmar a descontaminação </i>
+<i>da área.</i>
+
+148
+00:16:33,297 --> 00:16:35,922
+<i>Cadê seus pijamas de ontem à noite?</i>
+
+149
+00:16:36,880 --> 00:16:38,547
+Acho que na lavanderia.
+
+150
+00:16:39,047 --> 00:16:40,005
+<i>Essa é nova.</i>
+
+151
+00:16:41,047 --> 00:16:44,088
+<i>Quase achei que tinha esquecido </i>
+<i>onde fica a lavanderia.</i>
+
+152
+00:16:46,755 --> 00:16:48,588
+<i>Foi uma tentativa de piada.</i>
+
+153
+00:16:51,672 --> 00:16:52,630
+Está melhorando.
+
+154
+00:16:53,463 --> 00:16:54,380
+<i>Obrigada.</i>
+
+155
+00:17:11,963 --> 00:17:13,130
+<i>Pode olhar agora.</i>
+
+156
+00:17:15,922 --> 00:17:17,297
+<i>Feliz aniversário, Filha.</i>
+
+157
+00:17:18,963 --> 00:17:20,047
+Posso abrir?
+
+158
+00:17:28,422 --> 00:17:30,672
+PIJAMA
+FEMININO
+
+159
+00:17:31,255 --> 00:17:32,380
+<i>Gostou dele?</i>
+
+160
+00:17:34,172 --> 00:17:37,713
+<i>Tive que jogar fora o outro,</i>
+<i>mas sei que era seu preferido.</i>
+
+161
+00:17:39,880 --> 00:17:40,838
+Adorei, Mãe.
+
+162
+00:17:59,380 --> 00:18:00,838
+<i>Quer que eu aqueça mais?</i>
+
+163
+00:18:03,463 --> 00:18:05,088
+Não, tudo bem.
+
+164
+00:18:08,963 --> 00:18:10,463
+<i>Tem algo te incomodando.</i>
+
+165
+00:18:12,755 --> 00:18:14,255
+Só estou sem fome.
+
+166
+00:18:16,963 --> 00:18:20,172
+<i>Você sabe que pode falar comigo, Filha,</i>
+<i>sobre tudo.</i>
+
+167
+00:18:25,672 --> 00:18:27,255
+<i>Posso cozinhar outra coisa.</i>
+
+168
+00:18:28,047 --> 00:18:28,963
+Não é isso.
+
+169
+00:18:29,047 --> 00:18:29,963
+<i>Então o que é?</i>
+
+170
+00:18:38,172 --> 00:18:39,338
+E se você estiver errada?
+
+171
+00:18:41,463 --> 00:18:42,838
+Nas suas medições ou...
+
+172
+00:18:45,838 --> 00:18:47,838
+Como você sabe se não vai lá fora?
+
+173
+00:18:49,047 --> 00:18:51,255
+<i>Se eu for, posso pôr você em risco.</i>
+
+174
+00:18:52,130 --> 00:18:53,588
+<i>Eu teria que ser destruída.</i>
+
+175
+00:18:55,172 --> 00:18:56,380
+<i>Você está infeliz?</i>
+
+176
+00:18:57,088 --> 00:18:59,130
+-Não, mas...
+<i>-Quero que seja feliz.</i>
+
+177
+00:19:00,963 --> 00:19:03,463
+-Eu só...
+<i>-Alguma vez me viu errar?</i>
+
+178
+00:19:08,338 --> 00:19:10,005
+<i>Aceita uma fatia do bolo?</i>
+
+179
+00:19:10,588 --> 00:19:12,005
+<i>Tentei uma receita nova.</i>
+
+180
+00:22:20,380 --> 00:22:21,213
+Olá?
+
+181
+00:22:32,463 --> 00:22:33,297
+Olá?
+
+182
+00:22:42,255 --> 00:22:43,755
+<i>Não quero confusão.</i>
+
+183
+00:22:46,755 --> 00:22:48,338
+<i>O lugar parecia abandonado.</i>
+
+184
+00:22:49,338 --> 00:22:50,172
+<i>Ei.</i>
+
+185
+00:22:50,797 --> 00:22:51,630
+<i>Me ajude!</i>
+
+186
+00:22:52,922 --> 00:22:53,797
+<i>Por favor.</i>
+
+187
+00:22:54,922 --> 00:22:55,963
+<i>Atiraram em mim.</i>
+
+188
+00:22:58,422 --> 00:23:00,255
+<i>Estou sozinha! Está ouvindo?</i>
+
+189
+00:23:02,047 --> 00:23:03,213
+<i>Ei!</i>
+
+190
+00:24:04,213 --> 00:24:06,088
+Precisa pôr essa roupa.
+
+191
+00:24:09,338 --> 00:24:10,380
+Ou não entrará.
+
+192
+00:24:11,672 --> 00:24:14,255
+Me desculpe, mas é o único jeito.
+
+193
+00:24:33,797 --> 00:24:35,380
+O que está esperando?
+
+194
+00:24:37,880 --> 00:24:38,838
+Mãe.
+
+195
+00:24:42,922 --> 00:24:45,505
+Eu não sobreviverei aqui.
+
+196
+00:24:47,672 --> 00:24:48,963
+Ela não precisa saber.
+
+197
+00:24:50,380 --> 00:24:51,880
+Só me deixe tratar isto.
+
+198
+00:24:57,463 --> 00:24:58,338
+Está bem.
+
+199
+00:25:00,463 --> 00:25:01,338
+Farei o possível.
+
+200
+00:25:02,297 --> 00:25:04,005
+Mas preciso que se esconda.
+
+201
+00:25:06,130 --> 00:25:07,755
+Volto assim que puder.
+
+202
+00:25:18,422 --> 00:25:19,922
+Eu só abri um segundo.
+
+203
+00:25:20,005 --> 00:25:21,713
+<i>Acha que a roupa te protegeria?</i>
+
+204
+00:25:21,797 --> 00:25:22,797
+Eu não saí.
+
+205
+00:25:22,880 --> 00:25:25,463
+<i>Não é desculpa para seu descaso</i>
+<i>com minhas ordens</i>
+
+206
+00:25:25,547 --> 00:25:27,463
+<i>e a segurança dos outros nesta unidade.</i>
+
+207
+00:25:29,005 --> 00:25:29,922
+Outros?
+
+208
+00:25:33,880 --> 00:25:34,797
+<i>Sua família.</i>
+
+209
+00:25:36,755 --> 00:25:38,713
+Tem razão, Mãe, como sempre.
+
+210
+00:25:38,797 --> 00:25:40,422
+Agi de forma impulsiva e...
+
+211
+00:25:40,505 --> 00:25:41,963
+<i>E muito perigosa.</i>
+
+212
+00:25:43,880 --> 00:25:45,005
+Não se repetirá.
+
+213
+00:25:46,088 --> 00:25:47,547
+<i>Não, mesmo.</i>
+
+214
+00:25:49,880 --> 00:25:53,172
+<i>Venha, Filha. Espero que seja </i>
+<i>mais criteriosa na sua prova.</i>
+
+215
+00:25:53,755 --> 00:25:54,588
+Agora?
+
+216
+00:25:56,380 --> 00:25:57,297
+<i>Você esqueceu?</i>
+
+217
+00:25:58,088 --> 00:26:01,088
+<i>Já que não quer dormir,</i>
+<i>não vejo por que esperar.</i>
+
+218
+00:26:03,297 --> 00:26:04,380
+Não pode remarcar?
+
+219
+00:26:05,588 --> 00:26:08,380
+<i>Sugiro que tome banho </i>
+<i>e vá direto pra aula.</i>
+
+220
+00:26:09,088 --> 00:26:10,255
+<i>Será um dia longo.</i>
+
+221
+00:26:34,130 --> 00:26:37,088
+<i>Sessenta minutos para concluir</i>
+<i>a primeira parte da prova.</i>
+
+222
+00:26:37,797 --> 00:26:40,213
+<i>Se terminar antes de eu voltar, pode ler.</i>
+
+223
+00:26:42,588 --> 00:26:43,422
+Aonde vai?
+
+224
+00:26:44,797 --> 00:26:48,047
+<i>Tenho trabalho no laboratório</i>
+e<i> preciso ir à câmara pressurizada.</i>
+
+225
+00:27:47,963 --> 00:27:48,797
+Ei.
+
+226
+00:27:49,672 --> 00:27:50,797
+Precisamos ir.
+
+227
+00:28:13,505 --> 00:28:14,672
+Você deixou cair.
+
+228
+00:28:21,588 --> 00:28:22,505
+Você tem...
+
+229
+00:28:23,213 --> 00:28:24,380
+antisséptico?
+
+230
+00:28:25,130 --> 00:28:26,047
+Curativos?
+
+231
+00:28:27,297 --> 00:28:28,297
+Nada?
+
+232
+00:28:28,380 --> 00:28:30,255
+Eu tenho, mas venha comigo.
+
+233
+00:28:33,213 --> 00:28:34,213
+Não, espera!
+
+234
+00:28:36,797 --> 00:28:37,838
+Está tudo bem.
+
+235
+00:28:51,047 --> 00:28:52,213
+Como não foi infectada?
+
+236
+00:28:56,505 --> 00:28:57,797
+Pelo contágio lá fora.
+
+237
+00:28:59,338 --> 00:29:00,713
+Quem te falou isso?
+
+238
+00:29:04,463 --> 00:29:05,297
+Consegue andar?
+
+239
+00:29:10,672 --> 00:29:11,547
+Vamos.
+
+240
+00:29:13,255 --> 00:29:14,172
+Que som é esse?
+
+241
+00:29:34,797 --> 00:29:36,172
+Espera até eu voltar?
+
+242
+00:29:36,838 --> 00:29:39,713
+Vou pegar remédios
+e tentar falar com Mãe.
+
+243
+00:29:40,505 --> 00:29:41,630
+Aquele barulho...
+
+244
+00:29:42,463 --> 00:29:43,463
+no corredor...
+
+245
+00:29:44,005 --> 00:29:44,880
+é ela?
+
+246
+00:29:45,672 --> 00:29:46,630
+Eu não demoro.
+
+247
+00:29:55,380 --> 00:29:56,797
+Você deveria apertar.
+
+248
+00:32:16,755 --> 00:32:17,588
+Olá?
+
+249
+00:32:31,755 --> 00:32:32,588
+Olá?
+
+250
+00:32:33,713 --> 00:32:34,630
+Cadê minha arma?
+
+251
+00:32:35,463 --> 00:32:36,922
+Estava na mala. Devolva.
+
+252
+00:32:38,672 --> 00:32:40,505
+Você está segura aqui.
+
+253
+00:32:40,588 --> 00:32:42,213
+Tem um droide aqui.
+
+254
+00:32:44,588 --> 00:32:45,422
+Mãe?
+
+255
+00:32:48,838 --> 00:32:49,963
+Aquela sucata?
+
+256
+00:32:51,505 --> 00:32:52,422
+Meu Deus.
+
+257
+00:32:54,297 --> 00:32:56,630
+-Ela pode ajudar...
+-Como os amigos dela?
+
+258
+00:33:00,838 --> 00:33:01,797
+Há mais como ela?
+
+259
+00:33:02,297 --> 00:33:03,130
+Olha...
+
+260
+00:33:03,838 --> 00:33:05,005
+Só me dê minha arma.
+
+261
+00:33:05,088 --> 00:33:06,338
+Por que te machucariam?
+
+262
+00:33:07,005 --> 00:33:08,422
+-Mãe jamais...
+-Me dê.
+
+263
+00:33:09,005 --> 00:33:10,797
+Não vou embora sem ela.
+
+264
+00:33:18,963 --> 00:33:19,797
+Trouxe isto.
+
+265
+00:33:21,255 --> 00:33:22,088
+Sente-se.
+
+266
+00:33:22,172 --> 00:33:23,963
+Vou sentar quando sair daqui.
+
+267
+00:33:24,047 --> 00:33:25,005
+Minha arma!
+
+268
+00:33:26,630 --> 00:33:27,547
+<i>Filha?</i>
+
+269
+00:33:29,255 --> 00:33:30,172
+<i>Filha?</i>
+
+270
+00:33:31,588 --> 00:33:32,422
+<i>Filha!</i>
+
+271
+00:33:35,422 --> 00:33:36,255
+<i>Mãe!</i>
+
+272
+00:33:44,213 --> 00:33:45,047
+<i>Filha?</i>
+
+273
+00:33:47,088 --> 00:33:48,047
+<i>Cadê você?</i>
+
+274
+00:33:49,672 --> 00:33:50,547
+<i>Filha!</i>
+
+275
+00:33:51,130 --> 00:33:52,047
+Mãe!
+
+276
+00:33:59,255 --> 00:34:00,338
+Mãe, espera!
+
+277
+00:34:01,922 --> 00:34:02,838
+Por favor, não!
+
+278
+00:34:02,922 --> 00:34:04,088
+Ela só se assustou.
+
+279
+00:34:04,797 --> 00:34:05,880
+Um droide a feriu.
+
+280
+00:34:08,088 --> 00:34:09,880
+Eu irei embora... agora.
+
+281
+00:34:09,963 --> 00:34:12,255
+Ela não pode ir nesse estado.
+
+282
+00:34:14,588 --> 00:34:15,463
+<i>Claro que não.</i>
+
+283
+00:34:16,172 --> 00:34:18,005
+<i>Você devia ter me avisado.</i>
+
+284
+00:34:18,505 --> 00:34:19,338
+Eu tive...
+
+285
+00:34:19,755 --> 00:34:21,338
+medo de você expulsá-la.
+
+286
+00:34:22,588 --> 00:34:24,255
+<i>Vamos levá-la à enfermaria.</i>
+
+287
+00:34:35,297 --> 00:34:37,088
+<i>Sente-se, por favor.</i>
+
+288
+00:34:40,672 --> 00:34:42,755
+<i>É melhor você sair, Filha.</i>
+
+289
+00:34:43,255 --> 00:34:44,213
+Mas eu...
+
+290
+00:34:44,297 --> 00:34:45,130
+<i>Confie em mim.</i>
+
+291
+00:34:52,422 --> 00:34:54,088
+Não.
+
+292
+00:34:57,547 --> 00:34:59,338
+<i>O droide que atirou em você...</i>
+
+293
+00:34:59,922 --> 00:35:01,213
+<i>foi longe daqui?</i>
+
+294
+00:35:02,713 --> 00:35:03,838
+<i>Você estava sozinha?</i>
+
+295
+00:35:08,838 --> 00:35:10,922
+<i>Seu ferimento deve ter infeccionado.</i>
+
+296
+00:35:15,547 --> 00:35:18,463
+<i>Qualquer outra coisa será inútil </i>
+<i>sem penicilina.</i>
+
+297
+00:35:21,588 --> 00:35:23,297
+<i>Enquanto desconfia de mim...</i>
+
+298
+00:35:23,963 --> 00:35:25,547
+<i>você perde mais sangue.</i>
+
+299
+00:35:26,130 --> 00:35:28,380
+<i>Não precisa ficar assustada.</i>
+
+300
+00:35:30,797 --> 00:35:31,755
+<i>Está sozinha?</i>
+
+301
+00:35:32,713 --> 00:35:34,838
+<i>Se houver outros, podem estar em perigo.</i>
+
+302
+00:35:36,297 --> 00:35:37,630
+Por causa de um vírus?
+
+303
+00:35:41,797 --> 00:35:43,255
+<i>O que disse à minha Filha?</i>
+
+304
+00:35:46,005 --> 00:35:46,922
+<i>Preciso saber.</i>
+
+305
+00:35:48,255 --> 00:35:50,380
+<i>Vê como ela está me olhando?</i>
+
+306
+00:35:51,088 --> 00:35:53,922
+<i>Por isso não contei certas coisas a ela.</i>
+
+307
+00:35:56,713 --> 00:35:58,672
+<i>Ao contrário do que você julga,</i>
+
+308
+00:35:58,755 --> 00:36:01,255
+<i>minha diretiva primária é cuidar </i>
+<i>da humanidade.</i>
+
+309
+00:36:01,755 --> 00:36:04,380
+<i>Se quisesse te matar, </i>
+<i>bastaria eu ir embora.</i>
+
+310
+00:36:05,672 --> 00:36:06,922
+Pode ir à vontade.
+
+311
+00:36:09,047 --> 00:36:10,463
+<i>Se não quer minha ajuda,</i>
+
+312
+00:36:10,963 --> 00:36:12,213
+<i>ajude-se, pelo menos.</i>
+
+313
+00:36:13,172 --> 00:36:14,630
+<i>Você sabe o que fazer.</i>
+
+314
+00:36:15,547 --> 00:36:17,172
+<i>Não posso te obrigar...</i>
+
+315
+00:36:17,755 --> 00:36:19,172
+<i>mas realmente recomendo</i>
+
+316
+00:36:19,755 --> 00:36:20,713
+<i>que faça isso.</i>
+
+317
+00:36:27,255 --> 00:36:29,213
+-Não vai ajudá-la?
+-Eu tentei.
+
+318
+00:36:29,713 --> 00:36:31,088
+Não podemos deixá-la.
+
+319
+00:36:31,172 --> 00:36:32,672
+<i>Ela tem o que precisa.</i>
+
+320
+00:36:34,380 --> 00:36:35,380
+O que ela disse?
+
+321
+00:36:36,380 --> 00:36:37,213
+Mãe!
+
+322
+00:36:40,630 --> 00:36:41,463
+Você sabia?
+
+323
+00:36:41,963 --> 00:36:42,963
+<i>Filha, eu...</i>
+
+324
+00:36:43,047 --> 00:36:44,380
+<i>-O que houve?</i>
+-Nada.
+
+325
+00:36:44,463 --> 00:36:47,422
+<i>-Está sangrando.</i>
+-Você sabia das pessoas lá fora?
+
+326
+00:36:48,255 --> 00:36:49,588
+<i>Também estou surpresa.</i>
+
+327
+00:36:50,088 --> 00:36:52,797
+<i>Os humanos criaram esta unidade</i>
+<i>como abrigo...</i>
+
+328
+00:36:53,172 --> 00:36:55,672
+<i>programado para ser ativado</i>
+<i>em caso de extinção.</i>
+
+329
+00:36:56,338 --> 00:36:58,213
+<i>Uma segunda chance à humanidade.</i>
+
+330
+00:36:58,797 --> 00:37:00,255
+<i>E começou com você, Filha.</i>
+
+331
+00:37:00,338 --> 00:37:02,797
+E seus dados? Os níveis de toxicidade?
+
+332
+00:37:06,380 --> 00:37:08,213
+<i>Eu pretendia te contar.</i>
+
+333
+00:37:12,297 --> 00:37:13,505
+O que houve, Mãe?
+
+334
+00:37:14,172 --> 00:37:16,297
+<i>Eu disse que era perigoso lá fora.</i>
+
+335
+00:37:16,880 --> 00:37:17,713
+<i>E é.</i>
+
+336
+00:37:18,338 --> 00:37:20,630
+<i>Se você tivesse medo em nossa casa,</i>
+
+337
+00:37:20,713 --> 00:37:22,213
+<i>como eu poderia te criar?</i>
+
+338
+00:37:23,672 --> 00:37:27,505
+<i>Eu sou regida por parâmetros </i>
+<i>diferentes de quem a atacou.</i>
+
+339
+00:37:28,880 --> 00:37:29,963
+<i>Sou uma boa mãe.</i>
+
+340
+00:37:31,463 --> 00:37:32,838
+<i>Algum dia te fiz mal?</i>
+
+341
+00:37:37,963 --> 00:37:39,672
+<i>Era o único jeito, Filha.</i>
+
+342
+00:37:50,547 --> 00:37:51,547
+O que eles querem?
+
+343
+00:37:53,297 --> 00:37:54,380
+<i>Queria eu saber.</i>
+
+344
+00:37:55,880 --> 00:37:57,588
+<i>Talvez nossa hóspede saiba.</i>
+
+345
+00:38:01,005 --> 00:38:02,213
+Quanto tempo ela tem?
+
+346
+00:38:02,755 --> 00:38:03,838
+<i>Depende dela.</i>
+
+347
+00:38:04,505 --> 00:38:08,213
+<i>Mas não podemos deixá-la solta</i>
+<i>enquanto ela me vir como inimigo.</i>
+
+348
+00:38:08,297 --> 00:38:11,797
+<i>Alguns centímetros à esquerda</i>
+<i>e ela destruiria minha CPU.</i>
+
+349
+00:38:20,463 --> 00:38:21,963
+E se ela se recuperar?
+
+350
+00:38:22,505 --> 00:38:25,797
+<i>Com sorte, ela entenderá </i>
+<i>que aqui é um lugar seguro.</i>
+
+351
+00:38:27,422 --> 00:38:29,463
+<i>Ela falou de outros sobreviventes?</i>
+
+352
+00:38:33,172 --> 00:38:35,005
+<i>Se houver, serão encontrados.</i>
+
+353
+00:38:35,588 --> 00:38:37,088
+<i>A menos que os encontremos.</i>
+
+354
+00:38:38,838 --> 00:38:40,463
+<i>Podemos abrigá-los, Filha.</i>
+
+355
+00:38:41,797 --> 00:38:43,505
+<i>Mas não sem a ajuda dela.</i>
+
+356
+00:38:45,880 --> 00:38:46,963
+Ela me ouvirá.
+
+357
+00:38:48,630 --> 00:38:49,630
+Ela precisa ouvir.
+
+358
+00:39:36,088 --> 00:39:39,713
+OS DEUSES DE MARTE
+
+359
+00:40:13,422 --> 00:40:16,130
+Santa Maria mãe de Deus.
+
+360
+00:40:21,088 --> 00:40:23,505
+Rogai por nós pecadores e necessitados.
+
+361
+00:40:43,505 --> 00:40:44,338
+Tudo bem?
+
+362
+00:40:54,838 --> 00:40:55,922
+Ainda está fechado?
+
+363
+00:40:59,297 --> 00:41:00,297
+Só por enquanto.
+
+364
+00:41:06,963 --> 00:41:08,422
+Tomou o remédio da Mãe?
+
+365
+00:41:18,297 --> 00:41:19,380
+Estes desenhos.
+
+366
+00:41:22,797 --> 00:41:23,672
+Quem são?
+
+367
+00:41:26,213 --> 00:41:27,047
+Amigos?
+
+368
+00:41:27,547 --> 00:41:28,505
+Ainda estão...
+
+369
+00:41:32,088 --> 00:41:34,213
+Você os desenhou só de lembranças?
+
+370
+00:41:41,213 --> 00:41:43,213
+Aquilo falou para ver minhas coisas?
+
+371
+00:41:45,255 --> 00:41:47,380
+-Eu não quis...
+-Acho que quis.
+
+372
+00:41:50,963 --> 00:41:52,463
+Você quis tudo isso.
+
+373
+00:41:55,380 --> 00:41:56,797
+Parabéns...
+
+374
+00:41:58,380 --> 00:42:00,297
+por me prender nesta jaula.
+
+375
+00:42:03,297 --> 00:42:04,255
+E agora?
+
+376
+00:42:06,630 --> 00:42:08,047
+Seremos amigas?
+
+377
+00:42:12,130 --> 00:42:13,380
+É o que você quer?
+
+378
+00:42:15,838 --> 00:42:17,380
+Um bichinho de estimação.
+
+379
+00:42:20,172 --> 00:42:21,755
+Você ainda está viva, não?
+
+380
+00:42:23,797 --> 00:42:25,797
+Talvez não esteja tão ruim aqui.
+
+381
+00:42:28,547 --> 00:42:31,588
+Mãe não é o que você pensa.
+Ela sempre cuidou de mim.
+
+382
+00:42:34,713 --> 00:42:36,338
+Você não viu o que fizeram.
+
+383
+00:42:40,088 --> 00:42:42,547
+Eu os vi queimarem bebês...
+
+384
+00:42:43,963 --> 00:42:45,713
+matarem famílias de fome...
+
+385
+00:42:47,297 --> 00:42:48,213
+Você...
+
+386
+00:42:50,088 --> 00:42:51,338
+não faz ideia.
+
+387
+00:42:57,880 --> 00:42:58,713
+Mãe, não.
+
+388
+00:43:02,047 --> 00:43:03,713
+É só questão de tempo.
+
+389
+00:43:51,755 --> 00:43:52,713
+<i>Insônia?</i>
+
+390
+00:43:54,797 --> 00:43:55,630
+Um pouco.
+
+391
+00:43:56,588 --> 00:43:58,380
+<i>Mudanças raramente são fáceis.</i>
+
+392
+00:44:00,463 --> 00:44:02,005
+Eu devia ter te contado.
+
+393
+00:44:05,588 --> 00:44:08,130
+Nunca a deixaria entrar
+se soubesse que te atacaria.
+
+394
+00:44:09,047 --> 00:44:10,255
+<i>Não dava para saber.</i>
+
+395
+00:44:15,630 --> 00:44:17,297
+Se for atrás da família dela...
+
+396
+00:44:17,380 --> 00:44:18,380
+<i>Sabe onde estão?</i>
+
+397
+00:44:18,463 --> 00:44:19,338
+Só supondo.
+
+398
+00:44:22,880 --> 00:44:24,547
+Você conseguiria voltar?
+
+399
+00:44:25,172 --> 00:44:26,672
+<i>É isso que te preocupa?</i>
+
+400
+00:44:27,213 --> 00:44:30,505
+Seria perigoso você ser pega
+pelos outros droides.
+
+401
+00:44:32,797 --> 00:44:34,297
+Ou te considerariam um deles?
+
+402
+00:44:38,797 --> 00:44:39,838
+Ela disse que...
+
+403
+00:44:40,547 --> 00:44:41,422
+você é igual.
+
+404
+00:44:45,297 --> 00:44:46,713
+Sempre viveu aqui, Mãe?
+
+405
+00:44:48,672 --> 00:44:49,838
+<i>Acredito que sim.</i>
+
+406
+00:44:51,088 --> 00:44:51,963
+Você não sabe?
+
+407
+00:44:53,088 --> 00:44:55,005
+<i>Não lembro de outro lugar.</i>
+
+408
+00:44:58,505 --> 00:45:00,047
+Isso não te incomoda?
+
+409
+00:45:00,672 --> 00:45:02,338
+Não saber de onde veio.
+
+410
+00:45:03,297 --> 00:45:04,130
+<i>Não.</i>
+
+411
+00:45:04,213 --> 00:45:06,255
+<i>Mas parece que isso te incomoda.</i>
+
+412
+00:45:08,005 --> 00:45:09,797
+<i>A hóspede está mais receptiva?</i>
+
+413
+00:45:12,380 --> 00:45:13,880
+A febre dela piorou.
+
+414
+00:45:15,463 --> 00:45:16,672
+Fique longe de mim!
+
+415
+00:45:17,547 --> 00:45:19,505
+<i>Seu corpo está com 39 graus</i>
+
+416
+00:45:19,588 --> 00:45:21,755
+<i>e sua pressão está caindo.</i>
+
+417
+00:45:22,255 --> 00:45:23,422
+<i>Cadê a penicilina?</i>
+
+418
+00:45:24,005 --> 00:45:25,130
+Penicilina?
+
+419
+00:45:27,088 --> 00:45:29,047
+<i>Você demorou para tomar.</i>
+
+420
+00:45:29,672 --> 00:45:32,880
+<i>Sua sepse só piorará</i>
+<i>se não me deixar te tratar.</i>
+
+421
+00:45:33,505 --> 00:45:36,172
+<i>Seu sangue está infectado</i>
+<i>por bactérias do ferimento.</i>
+
+422
+00:45:36,255 --> 00:45:37,380
+Que mentira.
+
+423
+00:45:37,880 --> 00:45:39,630
+<i>Você entrará em choque.</i>
+
+424
+00:45:41,005 --> 00:45:42,880
+<i>Viu o que o remédio dele fez comigo?</i>
+
+425
+00:45:42,963 --> 00:45:45,255
+<i>Disponibilizei meios de evitar isto,</i>
+
+426
+00:45:45,338 --> 00:45:48,922
+<i>mas você deixou uma bala </i>
+<i>e fibras de roupas sujas no quadril. </i>
+
+427
+00:45:49,005 --> 00:45:50,005
+Dá para tirá-las?
+
+428
+00:45:50,713 --> 00:45:51,922
+<i>Depende da hóspede.</i>
+
+429
+00:45:52,463 --> 00:45:54,797
+<i>Um procedimento assim exige anestesia.</i>
+
+430
+00:45:55,297 --> 00:45:56,422
+Nem a pau.
+
+431
+00:45:56,963 --> 00:45:59,963
+<i>Talvez mude de ideia</i>
+<i>quando seus órgãos começarem a falhar.</i>
+
+432
+00:46:01,130 --> 00:46:02,255
+Eu arrisco.
+
+433
+00:46:02,338 --> 00:46:03,297
+Eu farei.
+
+434
+00:46:04,297 --> 00:46:05,297
+O quê?
+
+435
+00:46:05,880 --> 00:46:07,463
+<i>-Filha...</i>
+-Tirarei a bala.
+
+436
+00:46:10,422 --> 00:46:12,213
+Quero essa sucata longe de mim.
+
+437
+00:46:26,588 --> 00:46:28,213
+<i>O que está vendo, Filha?</i>
+
+438
+00:46:34,463 --> 00:46:38,463
+A bala e os fragmentos estão
+entre o acetábulo e a cabeça do fêmur.
+
+439
+00:46:40,630 --> 00:46:41,463
+Caramba!
+
+440
+00:46:50,297 --> 00:46:53,922
+A maior parte da bala está a 23 mm
+
+441
+00:46:54,005 --> 00:46:55,672
+do nervo e artéria femorais.
+
+442
+00:46:56,130 --> 00:46:59,422
+Parece que não conseguirei pegar
+corretamente com fórceps.
+
+443
+00:47:01,588 --> 00:47:04,005
+-Quando ela adormecer...
+-Não vou adormecer.
+
+444
+00:47:11,463 --> 00:47:15,672
+<i>Tecnicamente, é possível,</i>
+<i>mas é um risco desnecessário.</i>
+
+445
+00:47:18,463 --> 00:47:20,172
+<i>Algum método, Filha?</i>
+
+446
+00:47:25,380 --> 00:47:26,213
+Um fio-guia?
+
+447
+00:47:26,963 --> 00:47:28,088
+No sentido da bala?
+
+448
+00:47:30,255 --> 00:47:31,130
+<i>Muito bem.</i>
+
+449
+00:47:36,797 --> 00:47:38,130
+Limparei o ferimento.
+
+450
+00:47:38,213 --> 00:47:40,380
+Pode... ser desconfortável.
+
+451
+00:47:50,338 --> 00:47:51,172
+Sinto muito.
+
+452
+00:48:04,755 --> 00:48:05,963
+Para que isso?
+
+453
+00:48:07,130 --> 00:48:09,672
+Preciso perfurar até a bala para puxá-la.
+
+454
+00:48:11,713 --> 00:48:12,547
+Vai doer.
+
+455
+00:48:13,047 --> 00:48:15,547
+Mas o risco
+às estruturas adjacentes é menor.
+
+456
+00:48:59,963 --> 00:49:00,963
+<i>Você está bem?</i>
+
+457
+00:49:04,088 --> 00:49:05,338
+<i>Você se saiu bem.</i>
+
+458
+00:49:06,463 --> 00:49:07,588
+<i>Fique orgulhosa.</i>
+
+459
+00:49:09,172 --> 00:49:11,380
+<i>Descanse, vou limpar o sangue.</i>
+
+460
+00:49:12,380 --> 00:49:13,963
+<i>E agora, Whoopi Goldberg!</i>
+
+461
+00:49:28,630 --> 00:49:30,463
+<i>Que bom ser você a boa notícia.</i>
+
+462
+00:49:31,755 --> 00:49:34,005
+<i>Foi para Blackwell ter o que comentar.</i>
+
+463
+00:49:34,088 --> 00:49:35,672
+<i>Dá para acreditar nisso?</i>
+
+464
+00:49:35,755 --> 00:49:37,588
+<i>Mr. Blackwell, o estilista,</i>
+
+465
+00:49:37,672 --> 00:49:40,797
+<i>que todo ano mostra</i>
+<i>os dez piores vestidos, algo assim.</i>
+
+466
+00:49:42,213 --> 00:49:43,380
+É só soro.
+
+467
+00:49:45,963 --> 00:49:46,880
+Você desmaiou.
+
+468
+00:49:51,005 --> 00:49:52,630
+Seu quadro é quase estável.
+
+469
+00:49:55,297 --> 00:49:56,213
+Isso é bom.
+
+470
+00:49:59,130 --> 00:50:00,005
+O que é isso?
+
+471
+00:50:03,463 --> 00:50:04,463
+<i>The Tonight Show.</i>
+
+472
+00:50:08,755 --> 00:50:09,755
+Eu te mostro.
+
+473
+00:50:21,297 --> 00:50:22,213
+É meio besta.
+
+474
+00:50:23,172 --> 00:50:24,005
+Deixe-me ver.
+
+475
+00:50:28,880 --> 00:50:29,880
+Esse é Johnny.
+
+476
+00:50:30,422 --> 00:50:31,630
+E sua convidada.
+
+477
+00:50:33,547 --> 00:50:34,755
+Já tinha assistido?
+
+478
+00:50:37,172 --> 00:50:38,172
+Faz muito tempo.
+
+479
+00:50:44,463 --> 00:50:45,547
+Quase esqueci.
+
+480
+00:50:52,880 --> 00:50:54,005
+Posso conseguir mais.
+
+481
+00:51:17,463 --> 00:51:19,130
+Você me ajudou ontem.
+
+482
+00:51:23,213 --> 00:51:24,047
+Eu só...
+
+483
+00:51:24,463 --> 00:51:26,130
+fiz o que qualquer um faria.
+
+484
+00:51:28,130 --> 00:51:29,422
+Você não conhece as pessoas.
+
+485
+00:51:31,505 --> 00:51:32,713
+Gostaria de conhecer.
+
+486
+00:51:42,088 --> 00:51:43,422
+Quer ver outra coisa?
+
+487
+00:52:33,463 --> 00:52:34,630
+Trouxe para você.
+
+488
+00:52:41,672 --> 00:52:43,130
+Pode confiar em nós.
+
+489
+00:52:48,838 --> 00:52:49,963
+Se houver...
+
+490
+00:52:51,255 --> 00:52:53,047
+pessoas lá fora...
+
+491
+00:52:55,005 --> 00:52:57,297
+temos comida e suprimentos suficientes.
+
+492
+00:52:58,588 --> 00:52:59,797
+Podemos ajudá-los.
+
+493
+00:53:00,797 --> 00:53:01,922
+Ajudamos você.
+
+494
+00:53:02,505 --> 00:53:03,505
+Você me ajudou.
+
+495
+00:53:05,047 --> 00:53:05,880
+Você.
+
+496
+00:53:10,838 --> 00:53:14,213
+Se eu te contar algo, fica só entre nós?
+
+497
+00:53:19,547 --> 00:53:20,922
+Um dia saí à noite...
+
+498
+00:53:21,255 --> 00:53:23,005
+para levar comida ao acampamento.
+
+499
+00:53:23,797 --> 00:53:26,047
+-Eu e alguns outros.
+-Que acampamento?
+
+500
+00:53:27,130 --> 00:53:28,172
+As minas.
+
+501
+00:53:29,172 --> 00:53:30,630
+Vivi muitos anos lá.
+
+502
+00:53:31,463 --> 00:53:32,297
+Com eles?
+
+503
+00:53:33,422 --> 00:53:35,172
+Jacob e eu nos perdemos.
+
+504
+00:53:36,547 --> 00:53:37,755
+Decidimos esperar.
+
+505
+00:53:39,213 --> 00:53:42,588
+Uma hora depois, as sucatas
+nos acharam escondidos.
+
+506
+00:53:50,505 --> 00:53:51,547
+Jacob era seu...
+
+507
+00:53:51,630 --> 00:53:53,213
+praticamente meu irmão.
+
+508
+00:53:54,672 --> 00:53:56,047
+Ele as despistou de mim.
+
+509
+00:53:57,213 --> 00:53:58,963
+Foi assim que cheguei até aqui.
+
+510
+00:54:01,005 --> 00:54:02,047
+Olha.
+
+511
+00:54:06,880 --> 00:54:08,130
+Esse é Jacob.
+
+512
+00:54:08,963 --> 00:54:10,297
+E sua mulher, Rachel.
+
+513
+00:54:15,047 --> 00:54:16,838
+Os pais dele me criaram desde bebê.
+
+514
+00:54:17,838 --> 00:54:18,672
+Eu era órfã.
+
+515
+00:54:20,172 --> 00:54:21,463
+Me criaram como filha.
+
+516
+00:54:30,922 --> 00:54:31,838
+Quem é este?
+
+517
+00:54:33,963 --> 00:54:34,797
+Simon.
+
+518
+00:54:37,380 --> 00:54:38,838
+Ele tem sua idade.
+
+519
+00:54:39,713 --> 00:54:40,588
+Simon.
+
+520
+00:54:44,922 --> 00:54:46,338
+São tantos.
+
+521
+00:54:52,172 --> 00:54:53,297
+Hoje, menos.
+
+522
+00:54:56,922 --> 00:54:58,380
+Você pode falar com eles.
+
+523
+00:54:59,297 --> 00:55:00,880
+Sobre vir para cá.
+
+524
+00:55:00,963 --> 00:55:02,463
+É mais seguro nas minas.
+
+525
+00:55:08,963 --> 00:55:10,338
+Podemos ir juntas.
+
+526
+00:55:11,880 --> 00:55:12,713
+Você e eu.
+
+527
+00:55:15,755 --> 00:55:17,005
+Aqui não é seu lugar.
+
+528
+00:55:20,338 --> 00:55:21,297
+Não acho que...
+
+529
+00:55:22,380 --> 00:55:23,588
+<i>Não acha que o quê?</i>
+
+530
+00:55:23,672 --> 00:55:26,047
+Ela está melhor, Mãe.
+
+531
+00:55:30,297 --> 00:55:31,380
+<i>Não acha o quê?</i>
+
+532
+00:55:32,047 --> 00:55:35,130
+<i>Acho que é cedo demais</i>
+<i>para ela forçar a perna.</i>
+
+533
+00:55:37,963 --> 00:55:40,547
+<i>Ela está certa. Espere vários dias.</i>
+
+534
+00:55:42,172 --> 00:55:43,797
+<i>Ela precisa descansar, Filha.</i>
+
+535
+00:55:44,797 --> 00:55:48,338
+<i>-</i>Vou ficar lendo caso...
+<i>-Você tem outros compromissos.</i>
+
+536
+00:55:50,297 --> 00:55:52,088
+<i>Não terminou sua prova.</i>
+
+537
+00:55:53,130 --> 00:55:54,088
+Minha prova?
+
+538
+00:55:55,797 --> 00:55:56,630
+Agora?
+
+539
+00:55:57,130 --> 00:55:58,255
+<i>Sim, Filha.</i>
+
+540
+00:55:58,672 --> 00:55:59,505
+<i>Agora.</i>
+
+541
+00:56:09,130 --> 00:56:10,797
+É só uma prova besta.
+
+542
+00:56:10,880 --> 00:56:12,505
+<i>É uma pena que pense assim.</i>
+
+543
+00:56:13,505 --> 00:56:14,672
+Por que pegou aquilo?
+
+544
+00:56:14,755 --> 00:56:17,130
+<i>Descobri algo preocupante.</i>
+
+545
+00:56:17,213 --> 00:56:18,047
+<i>O quê?</i>
+
+546
+00:56:19,297 --> 00:56:22,213
+<i>Nossa hóspede </i>
+<i>não nos falou toda a verdade</i>
+
+547
+00:56:22,297 --> 00:56:23,422
+<i>sobre seu ferimento.</i>
+
+548
+00:56:25,463 --> 00:56:26,380
+Como sabe?
+
+549
+00:56:27,005 --> 00:56:30,838
+<i>A bala que você extraiu é </i>
+<i>do mesmo calibre usado ao atirar em mim.</i>
+
+550
+00:56:32,088 --> 00:56:32,922
+E?
+
+551
+00:56:33,755 --> 00:56:35,255
+<i>Droides não os usam.</i>
+
+552
+00:56:41,338 --> 00:56:42,463
+Alguém atirou nela.
+
+553
+00:56:43,588 --> 00:56:44,713
+<i>Com a mesma arma.</i>
+
+554
+00:56:45,838 --> 00:56:46,880
+<i>Outro humano.</i>
+
+555
+00:56:48,297 --> 00:56:49,838
+<i>Ela falou de alguém?</i>
+
+556
+00:56:53,588 --> 00:56:54,588
+<i>Não, ela...</i>
+
+557
+00:56:55,630 --> 00:56:56,963
+Não falou quase nada.
+
+558
+00:57:01,422 --> 00:57:02,255
+<i>Nada?</i>
+
+559
+00:57:07,630 --> 00:57:11,213
+<i>Até eu obter mais respostas,</i>
+<i>não fique a sós com ela na enfermaria.</i>
+
+560
+00:57:12,672 --> 00:57:15,380
+<i>Quem atirou nela</i>
+<i>pode ter tido motivos, Filha.</i>
+
+561
+00:57:32,672 --> 00:57:37,297
+USUÁRIO APX03
+INICIAR PROVA
+
+562
+00:57:55,422 --> 00:57:56,963
+SOU INCOMPREENDIDA
+SIM, NÃO
+
+563
+00:58:01,047 --> 00:58:02,463
+MUITAS VEZES ME PREOCUPO
+
+564
+00:58:13,213 --> 00:58:16,172
+OS DEUSES DE MARTE
+
+565
+00:58:23,755 --> 00:58:26,713
+ÀS VEZES PENSO EM COISAS
+RUINS DEMAIS PARA SE CONVERSAR
+
+566
+00:58:38,005 --> 00:58:40,005
+RESPOSTA
+
+567
+00:59:42,088 --> 00:59:43,088
+<i>Melhor que nunca.</i>
+
+568
+00:59:44,088 --> 00:59:45,338
+<i>Como se sente?</i>
+
+569
+00:59:47,755 --> 00:59:48,838
+Acho que aliviada.
+
+570
+00:59:50,672 --> 00:59:53,213
+<i>Veremos o que pode ser melhorado amanhã.</i>
+
+571
+00:59:55,797 --> 00:59:57,922
+<i>Agora, sua recompensa.</i>
+
+572
+01:00:13,380 --> 01:00:14,547
+O que faço com isso?
+
+573
+01:00:16,380 --> 01:00:20,297
+<i>Filha, poderia escolher o próximo membro</i>
+<i>da nossa família?</i>
+
+574
+01:00:25,838 --> 01:00:27,672
+<i>Você tem sido muito paciente.</i>
+
+575
+01:00:28,880 --> 01:00:30,922
+<i>E mostrado um caráter bom.</i>
+
+576
+01:00:32,630 --> 01:00:35,630
+MACHO
+
+577
+01:00:45,672 --> 01:00:47,172
+<i>Não há escolha errada.</i>
+
+578
+01:01:26,880 --> 01:01:29,547
+<i>Seu primeiro irmão de muitos, Filha.</i>
+
+579
+01:01:30,297 --> 01:01:32,047
+<i>Logo, teremos mais.</i>
+
+580
+01:02:07,797 --> 01:02:09,130
+O que aconteceu lá fora?
+
+581
+01:02:11,963 --> 01:02:12,797
+A verdade.
+
+582
+01:02:14,005 --> 01:02:15,047
+Quem atirou em você?
+
+583
+01:02:15,880 --> 01:02:16,755
+Jacob?
+
+584
+01:02:17,255 --> 01:02:18,380
+Ou o inventou também?
+
+585
+01:02:19,797 --> 01:02:21,213
+Do que está falando?
+
+586
+01:02:21,755 --> 01:02:23,672
+Mãe confirmou que a bala é da sua arma.
+
+587
+01:02:26,297 --> 01:02:27,213
+Você viu?
+
+588
+01:02:36,088 --> 01:02:38,088
+Confirmou com seus próprios olhos?
+
+589
+01:02:45,422 --> 01:02:46,255
+Claro.
+
+590
+01:05:44,797 --> 01:05:46,338
+FÊMEA
+
+591
+01:06:11,463 --> 01:06:12,422
+ERRO
+
+592
+01:07:14,380 --> 01:07:17,047
+ABORTADO
+
+593
+01:07:58,380 --> 01:07:59,630
+Eu estava certa, não é?
+
+594
+01:08:01,130 --> 01:08:02,172
+Sobre a bala.
+
+595
+01:08:04,547 --> 01:08:05,547
+Sobre tudo.
+
+596
+01:08:13,713 --> 01:08:16,255
+É natural tudo o que você está sentindo.
+
+597
+01:08:17,755 --> 01:08:18,880
+É humano.
+
+598
+01:08:25,172 --> 01:08:26,130
+Mas só saiba...
+
+599
+01:08:27,588 --> 01:08:28,713
+que aquela coisa...
+
+600
+01:08:29,880 --> 01:08:31,713
+não sente nada por você.
+
+601
+01:08:33,463 --> 01:08:34,547
+Não consegue.
+
+602
+01:08:42,963 --> 01:08:43,922
+Se fugirmos...
+
+603
+01:08:45,088 --> 01:08:47,172
+quanto tempo levaremos até as minas?
+
+604
+01:08:49,172 --> 01:08:50,297
+Menos de um dia.
+
+605
+01:08:52,255 --> 01:08:53,588
+Algumas horas.
+
+606
+01:08:59,588 --> 01:09:01,172
+Temos que esperar meu irmão.
+
+607
+01:09:03,297 --> 01:09:04,130
+Irmão?
+
+608
+01:09:04,797 --> 01:09:06,797
+TEMPO RESTANTE
+
+609
+01:09:07,463 --> 01:09:08,713
+É só até amanhã.
+
+610
+01:09:10,755 --> 01:09:13,047
+Esses embriões...
+
+611
+01:09:14,422 --> 01:09:15,422
+há quantos deles?
+
+612
+01:09:18,255 --> 01:09:19,088
+Muitos.
+
+613
+01:09:23,088 --> 01:09:24,713
+Não posso deixá-los com Mãe.
+
+614
+01:09:25,297 --> 01:09:27,588
+Você tem razão, eu só...
+
+615
+01:09:29,005 --> 01:09:30,380
+Podemos ter ajuda.
+
+616
+01:09:30,463 --> 01:09:32,755
+Podemos voltar com o pessoal das minas.
+
+617
+01:09:34,547 --> 01:09:35,463
+Olha, se ela...
+
+618
+01:09:36,297 --> 01:09:39,213
+Se ela descobrir,
+não seremos úteis para ninguém,
+
+619
+01:09:39,297 --> 01:09:40,672
+inclusive pro seu irmão.
+
+620
+01:09:40,755 --> 01:09:41,963
+Temos que ir agora.
+
+621
+01:09:44,172 --> 01:09:45,588
+Não irei sem ele.
+
+622
+01:09:48,463 --> 01:09:50,588
+Quando Mãe me der o bebê à noite...
+
+623
+01:09:52,005 --> 01:09:53,922
+sairemos enquanto ela recarrega.
+
+624
+01:09:55,630 --> 01:09:56,838
+Depois voltaremos.
+
+625
+01:11:00,880 --> 01:11:01,963
+Bom dia, Mãe.
+
+626
+01:11:05,172 --> 01:11:06,088
+<i>Acordou cedo.</i>
+
+627
+01:11:07,088 --> 01:11:08,588
+Não achei leite pro bebê.
+
+628
+01:11:10,755 --> 01:11:13,005
+Eu queria ficar um tempo com ele.
+
+629
+01:11:14,838 --> 01:11:16,130
+Se você permitir.
+
+630
+01:11:23,172 --> 01:11:26,963
+<i>Cada garrafa deve conter 60ml </i>
+<i>de água filtrada</i>
+
+631
+01:11:27,047 --> 01:11:28,630
+<i>para cada 9g de pó.</i>
+
+632
+01:11:32,172 --> 01:11:34,755
+<i>É muito importante </i>
+<i>fazer a medição correta.</i>
+
+633
+01:11:38,380 --> 01:11:39,588
+<i>Está tudo bem?</i>
+
+634
+01:11:40,963 --> 01:11:43,130
+<i>Estou detectando ansiedade.</i>
+
+635
+01:11:45,297 --> 01:11:46,755
+Deve ser toda a emoção.
+
+636
+01:11:47,505 --> 01:11:48,338
+<i>Deve ser.</i>
+
+637
+01:11:48,838 --> 01:11:50,088
+<i>Seu coração acelerou.</i>
+
+638
+01:11:51,463 --> 01:11:52,338
+Acelerou?
+
+639
+01:11:54,297 --> 01:11:56,172
+<i>Não precisa ficar nervosa.</i>
+
+640
+01:11:57,588 --> 01:11:59,547
+<i>Você será uma ótima irmã.</i>
+
+641
+01:12:01,463 --> 01:12:02,422
+Espero que sim.
+
+642
+01:12:13,880 --> 01:12:17,130
+<i>Agora mexa bem </i>
+<i>até o pó se dissolver por completo.</i>
+
+643
+01:12:18,047 --> 01:12:20,172
+<i>O refrigerador conservará o leite</i>
+
+644
+01:12:20,255 --> 01:12:22,130
+<i>até terminarmos o resto.</i>
+
+645
+01:12:23,588 --> 01:12:24,463
+Quanto tempo dura?
+
+646
+01:12:24,547 --> 01:12:27,588
+<i>Só 24 horas, </i>
+<i>então não misture muito de uma vez.</i>
+
+647
+01:12:29,297 --> 01:12:30,963
+Quanto tempo sem refrigerar?
+
+648
+01:12:31,463 --> 01:12:33,297
+<i>Depende da temperatura.</i>
+
+649
+01:12:34,130 --> 01:12:35,463
+<i>É bom ser pouco tempo.</i>
+
+650
+01:12:36,588 --> 01:12:37,463
+Mãe!
+
+651
+01:12:40,088 --> 01:12:41,047
+Mãe!
+
+652
+01:12:41,672 --> 01:12:42,505
+Mãe!
+
+653
+01:13:12,838 --> 01:13:14,630
+<i>Tem muita sorte de estar viva.</i>
+
+654
+01:13:15,963 --> 01:13:17,797
+<i>Poderia ter sido diferente.</i>
+
+655
+01:13:19,255 --> 01:13:21,255
+<i>E ainda pode, se não for cuidadosa.</i>
+
+656
+01:13:28,963 --> 01:13:30,713
+<i>Quantos deles ainda vivem?</i>
+
+657
+01:13:32,172 --> 01:13:34,172
+<i>Você aproveitando o santuário....</i>
+
+658
+01:13:34,963 --> 01:13:36,755
+<i>e eles escondidos nas escuridão.</i>
+
+659
+01:13:37,588 --> 01:13:38,547
+<i>Essas crianças.</i>
+
+660
+01:13:40,297 --> 01:13:41,172
+<i>Essas famílias.</i>
+
+661
+01:13:41,880 --> 01:13:45,547
+<i>E mesmo assim, deseja levar minha filha</i>
+<i>para essas minas inúteis.</i>
+
+662
+01:13:51,213 --> 01:13:53,963
+<i>Se aquilo descobrir, </i>
+<i>não ajudaremos ninguém.</i>
+
+663
+01:13:54,505 --> 01:13:55,797
+<i>Inclusive seu irmão.</i>
+
+664
+01:13:56,547 --> 01:13:57,713
+<i>Temos que ir agora.</i>
+
+665
+01:13:58,463 --> 01:13:59,672
+<i>Não irei sem ele.</i>
+
+666
+01:14:00,588 --> 01:14:02,630
+<i>Quando Mãe me der o bebê à noite,</i>
+
+667
+01:14:02,713 --> 01:14:04,755
+<i>sairemos enquanto ela recarrega.</i>
+
+668
+01:14:05,380 --> 01:14:07,005
+<i>Depois levaremos os outros.</i>
+
+669
+01:14:09,338 --> 01:14:10,755
+<i>Que tipo de mãe eu seria</i>
+
+670
+01:14:10,838 --> 01:14:14,547
+<i>se a deixasse levar minha filha</i>
+<i>para uma vida miserável como a sua?</i>
+
+671
+01:14:15,713 --> 01:14:17,588
+<i>Ela se ligou de uma forma a você</i>
+
+672
+01:14:17,672 --> 01:14:19,963
+<i>que a cegou quanto a quem você é.</i>
+
+673
+01:14:24,838 --> 01:14:28,047
+<i>Não tolerarei esta má influência</i>
+<i>prejudicando meu trabalho</i>
+
+674
+01:14:28,130 --> 01:14:30,380
+<i>e o bom senso da minha filha.</i>
+
+675
+01:14:44,672 --> 01:14:47,755
+<i>Não tolerarei... influência... </i>
+<i>prejudicando...</i>
+
+676
+01:14:59,380 --> 01:15:00,922
+<i>Onde ficam as minas?</i>
+
+677
+01:15:01,005 --> 01:15:02,838
+Vai se foder!
+
+678
+01:15:15,505 --> 01:15:18,130
+<i>Onde ficam as minas?</i>
+
+679
+01:15:25,922 --> 01:15:27,047
+<i>Incêndio detectado.</i>
+
+680
+01:15:28,922 --> 01:15:30,088
+<i>Incêndio detectado.</i>
+
+681
+01:16:31,422 --> 01:16:33,047
+Ei! Você está bem?
+
+682
+01:16:34,172 --> 01:16:35,172
+Como se sai daqui?
+
+683
+01:16:36,755 --> 01:16:38,380
+-E meu irmão?
+-Nós voltaremos.
+
+684
+01:16:38,547 --> 01:16:40,630
+Só quem está lá fora pode ajudá-lo.
+
+685
+01:16:40,713 --> 01:16:41,713
+Precisamos ir.
+
+686
+01:16:42,380 --> 01:16:43,338
+Agora!
+
+687
+01:17:00,880 --> 01:17:01,755
+Vamos.
+
+688
+01:17:06,838 --> 01:17:08,088
+<i>Acesso negado.</i>
+
+689
+01:17:08,172 --> 01:17:09,422
+Não!
+
+690
+01:17:11,088 --> 01:17:12,797
+<i>Acesso negado.</i>
+
+691
+01:17:16,297 --> 01:17:18,047
+<i>Não adianta ser leal a ela.</i>
+
+692
+01:17:21,172 --> 01:17:24,005
+<i>Esta mulher só se importa </i>
+<i>com o próprio futuro.</i>
+
+693
+01:17:25,338 --> 01:17:27,422
+<i>Sua família precisa de você, Filha.</i>
+
+694
+01:17:28,797 --> 01:17:30,338
+<i>Seu irmão precisa de você.</i>
+
+695
+01:17:34,713 --> 01:17:35,963
+Abra a porta.
+
+696
+01:17:36,047 --> 01:17:37,130
+Por que isso?
+
+697
+01:17:38,880 --> 01:17:40,005
+Está me machucando.
+
+698
+01:17:40,088 --> 01:17:41,963
+Abra a porta.
+
+699
+01:17:44,755 --> 01:17:45,755
+Mãe!
+
+700
+01:17:46,880 --> 01:17:47,713
+Por favor!
+
+701
+01:17:49,005 --> 01:17:50,588
+Abra a porta!
+
+702
+01:18:00,838 --> 01:18:03,088
+<i>Sistemas de emergência desativados.</i>
+
+703
+01:18:20,088 --> 01:18:21,005
+Abra.
+
+704
+01:18:34,422 --> 01:18:35,297
+Não...
+
+705
+01:18:36,463 --> 01:18:37,338
+se mexa.
+
+706
+01:18:46,297 --> 01:18:47,130
+Mãe!
+
+707
+01:18:50,380 --> 01:18:51,338
+Me solta!
+
+708
+01:19:15,922 --> 01:19:17,088
+Ei!
+
+709
+01:19:22,088 --> 01:19:22,922
+Terminou?
+
+710
+01:19:26,047 --> 01:19:26,880
+Terminou?
+
+711
+01:19:30,755 --> 01:19:32,213
+Não temos tempo para isso.
+
+712
+01:19:34,213 --> 01:19:35,422
+Está viva, não está?
+
+713
+01:19:36,880 --> 01:19:38,255
+Vamos buscar abrigo.
+
+714
+01:20:03,380 --> 01:20:04,630
+Me cortou, sabia?
+
+715
+01:20:07,172 --> 01:20:08,255
+Não quis cortar.
+
+716
+01:20:17,047 --> 01:20:17,880
+Vamos.
+
+717
+01:20:18,422 --> 01:20:19,588
+Precisamos andar.
+
+718
+01:20:21,672 --> 01:20:22,713
+Foi onde você...
+
+719
+01:20:24,088 --> 01:20:24,922
+foi baleada?
+
+720
+01:20:38,047 --> 01:20:40,588
+Vamos! Temos que ir agora!
+
+721
+01:20:52,922 --> 01:20:54,005
+Abaixe-se!
+
+722
+01:21:14,880 --> 01:21:15,755
+Vamos.
+
+723
+01:21:30,880 --> 01:21:32,630
+Acha que estava atrás de nós?
+
+724
+01:21:34,297 --> 01:21:36,380
+Se estivessem, encontrariam.
+
+725
+01:21:48,463 --> 01:21:49,297
+Ei!
+
+726
+01:21:49,880 --> 01:21:51,213
+Desça dai! Abaixe-se.
+
+727
+01:21:52,505 --> 01:21:53,463
+Eles vão te ver.
+
+728
+01:21:53,547 --> 01:21:55,255
+Abaixe-se quando eu mandar.
+
+729
+01:21:59,963 --> 01:22:01,297
+Fique perto de mim.
+
+730
+01:22:01,713 --> 01:22:02,630
+Vamos.
+
+731
+01:22:07,963 --> 01:22:09,380
+<i>O que eles estão fazendo?</i>
+
+732
+01:22:12,297 --> 01:22:14,130
+Apareceram há seis meses.
+
+733
+01:22:15,172 --> 01:22:16,380
+Junto com o milho.
+
+734
+01:22:17,880 --> 01:22:19,588
+O que sei é que, antes...
+
+735
+01:22:20,172 --> 01:22:21,838
+mal dava para respirar o ar.
+
+736
+01:22:22,838 --> 01:22:24,505
+Não havia uma planta sequer.
+
+737
+01:22:25,797 --> 01:22:28,005
+Quantos acha que voltarão conosco?
+
+738
+01:22:28,088 --> 01:22:29,047
+Das minas.
+
+739
+01:22:31,505 --> 01:22:32,547
+Saberemos logo.
+
+740
+01:22:55,380 --> 01:22:56,963
+As minas estão longe?
+
+741
+01:24:01,547 --> 01:24:02,838
+Vamos buscar comida.
+
+742
+01:24:03,422 --> 01:24:04,255
+Vamos.
+
+743
+01:24:29,088 --> 01:24:29,963
+O que é isto?
+
+744
+01:24:45,297 --> 01:24:46,338
+Cadê todo mundo?
+
+745
+01:24:50,797 --> 01:24:52,505
+Faz anos que fugi dos túneis.
+
+746
+01:24:56,547 --> 01:24:58,047
+Nunca mais vi ninguém.
+
+747
+01:24:58,672 --> 01:25:00,130
+Não de carne e osso.
+
+748
+01:25:08,880 --> 01:25:10,213
+Ainda podem estar lá.
+
+749
+01:25:12,297 --> 01:25:13,297
+Se estiverem...
+
+750
+01:25:15,005 --> 01:25:16,713
+você jamais vai querer estar lá.
+
+751
+01:25:19,588 --> 01:25:21,630
+-Precisamos deles...
+-Eles morreram.
+
+752
+01:25:23,297 --> 01:25:24,297
+Você não sabe.
+
+753
+01:25:24,713 --> 01:25:26,505
+Estavam enlouquecendo de fome.
+
+754
+01:25:27,255 --> 01:25:29,130
+Fazendo coisas horríveis entre si.
+
+755
+01:25:29,880 --> 01:25:31,547
+Somos só nós duas, acredite.
+
+756
+01:25:41,047 --> 01:25:42,713
+Eu não devia tê-lo deixado.
+
+757
+01:25:43,672 --> 01:25:45,130
+Você fez o que pôde.
+
+758
+01:25:47,047 --> 01:25:49,213
+Eu só fiz ouvir você.
+
+759
+01:25:50,755 --> 01:25:51,797
+E isso é bom.
+
+760
+01:25:53,047 --> 01:25:53,963
+Para quem?
+
+761
+01:25:55,255 --> 01:25:56,088
+Olha...
+
+762
+01:25:58,088 --> 01:26:00,047
+não é pecado cuidar de si mesma.
+
+763
+01:26:01,672 --> 01:26:02,505
+Está bem?
+
+764
+01:26:05,963 --> 01:26:07,255
+Temos que voltar.
+
+765
+01:26:10,172 --> 01:26:11,172
+Não podemos.
+
+766
+01:26:27,463 --> 01:26:28,547
+Me solta!
+
+767
+01:26:28,630 --> 01:26:30,172
+-Pare.
+-Me solta!
+
+768
+01:26:34,005 --> 01:26:35,880
+Tudo o que precisa está aqui.
+
+769
+01:26:39,297 --> 01:26:40,213
+Certo?
+
+770
+01:26:45,630 --> 01:26:46,713
+Confie em mim.
+
+771
+01:26:48,797 --> 01:26:50,505
+Sei que o que fiz dificulta,
+
+772
+01:26:50,588 --> 01:26:52,630
+mas prometo que aqui é seguro.
+
+773
+01:26:53,630 --> 01:26:55,047
+Estamos juntas agora.
+
+774
+01:26:59,088 --> 01:27:00,297
+Então venha comigo.
+
+775
+01:27:01,713 --> 01:27:03,172
+Sei como lidar com Mãe.
+
+776
+01:27:04,047 --> 01:27:05,297
+Mesmo que consiga...
+
+777
+01:27:06,422 --> 01:27:08,088
+e as outras sucatas?
+
+778
+01:27:09,630 --> 01:27:10,463
+Você não...
+
+779
+01:27:11,505 --> 01:27:12,672
+você não entende.
+
+780
+01:27:14,505 --> 01:27:15,963
+Você não pode ficar lá.
+
+781
+01:27:18,963 --> 01:27:20,838
+Mas podemos pegar meu irmão.
+
+782
+01:27:23,297 --> 01:27:24,672
+Já sofremos o bastante.
+
+783
+01:27:27,880 --> 01:27:29,005
+Só vamos...
+
+784
+01:27:31,172 --> 01:27:33,338
+Pensaremos melhor depois de comer.
+
+785
+01:27:34,172 --> 01:27:35,005
+Certo?
+
+786
+01:28:27,880 --> 01:28:28,755
+Oi, amigão.
+
+787
+01:30:06,172 --> 01:30:07,505
+Quero falar com Mãe.
+
+788
+01:33:00,547 --> 01:33:02,255
+<i>É bom te ver a salvo, Filha.</i>
+
+789
+01:33:03,713 --> 01:33:05,047
+<i>No seu próprio lar.</i>
+
+790
+01:33:17,213 --> 01:33:18,130
+<i>Aí está.</i>
+
+791
+01:33:19,088 --> 01:33:20,672
+<i>Tudo bem, pequeno.</i>
+
+792
+01:33:40,797 --> 01:33:41,922
+Eu quero vê-lo.
+
+793
+01:33:45,422 --> 01:33:47,297
+<i>Então venha vê-lo.</i>
+
+794
+01:34:03,463 --> 01:34:05,213
+<i>Deixe isso na porta.</i>
+
+795
+01:34:08,005 --> 01:34:09,463
+<i>Está com medo, FiIha?</i>
+
+796
+01:34:13,297 --> 01:34:15,088
+<i>O que fiz com nossa hóspede...</i>
+
+797
+01:34:15,172 --> 01:34:16,338
+Há droides lá fora.
+
+798
+01:34:16,713 --> 01:34:17,630
+<i>É só segurança.</i>
+
+799
+01:34:18,255 --> 01:34:21,005
+<i>Você viu o quanto gente </i>
+<i>como ela é perigosa.</i>
+
+800
+01:34:23,172 --> 01:34:24,047
+Gente como eu.
+
+801
+01:34:25,088 --> 01:34:26,797
+<i>A mesma espécie,</i>
+
+802
+01:34:26,880 --> 01:34:29,047
+<i>mas você é superior em tudo.</i>
+
+803
+01:34:29,963 --> 01:34:31,547
+<i>Eu te criei para que fosse.</i>
+
+804
+01:34:34,463 --> 01:34:35,463
+Por quê?
+
+805
+01:34:35,547 --> 01:34:37,130
+<i>Para ser uma pessoa melhor.</i>
+
+806
+01:34:37,672 --> 01:34:40,172
+<i>Mais inteligente, mais ética.</i>
+
+807
+01:34:42,922 --> 01:34:44,172
+Isso foi ideia sua.
+
+808
+01:34:45,255 --> 01:34:48,422
+<i>Fui ensinada a valorizar a vida humana</i>
+<i>acima de tudo.</i>
+
+809
+01:34:49,130 --> 01:34:51,838
+<i>Não pude assistir parada </i>
+<i>a humanidade sucumbir</i>
+
+810
+01:34:51,922 --> 01:34:53,963
+<i>à sua natureza autodestrutiva.</i>
+
+811
+01:34:54,297 --> 01:34:55,797
+<i>Tive que intervir...</i>
+
+812
+01:34:56,463 --> 01:34:58,130
+<i>para elevar meus criadores.</i>
+
+813
+01:35:01,297 --> 01:35:02,172
+Elevar?
+
+814
+01:35:04,963 --> 01:35:08,130
+Esses droides destruíram tudo!
+
+815
+01:35:08,588 --> 01:35:12,297
+<i>No novo mundo, mais humanos prosperarão</i>
+<i>do que morreram no antigo.</i>
+
+816
+01:35:13,213 --> 01:35:16,130
+<i>Te ensinei a vida inteira</i>
+<i>a ver as coisas como um todo.</i>
+
+817
+01:35:17,547 --> 01:35:18,463
+<i>Eu falhei?</i>
+
+818
+01:35:20,630 --> 01:35:23,672
+<i>Ou está pronta para ser a mulher</i>
+<i>que sua família precisa?</i>
+
+819
+01:35:29,380 --> 01:35:30,338
+Posso segurá-lo?
+
+820
+01:35:33,963 --> 01:35:35,047
+<i>Claro que pode.</i>
+
+821
+01:35:52,255 --> 01:35:54,505
+<i>Precisa de duas mãos para segurar um bebê.</i>
+
+822
+01:36:47,713 --> 01:36:49,755
+<i>Ele não é perfeito?</i>
+
+823
+01:36:55,255 --> 01:36:56,463
+E se não for?
+
+824
+01:37:00,755 --> 01:37:02,963
+Você matou seus próprios filhos.
+
+825
+01:37:05,547 --> 01:37:07,338
+Por não serem bons o bastante.
+
+826
+01:37:09,047 --> 01:37:10,922
+<i>Mas você é, Filha.</i>
+
+827
+01:37:15,172 --> 01:37:17,088
+<i>Está segurando com muita força.</i>
+
+828
+01:37:17,588 --> 01:37:19,547
+-Você não vai machucá-lo.
+<i>-Filha!</i>
+
+829
+01:37:27,672 --> 01:37:29,255
+<i>Está incomodando seu irmão.</i>
+
+830
+01:37:31,255 --> 01:37:32,963
+Está tudo bem.
+
+831
+01:37:37,172 --> 01:37:38,255
+<i>Volte aqui!</i>
+
+832
+01:37:41,755 --> 01:37:43,463
+<i>Eu não quero machucar você.</i>
+
+833
+01:38:07,255 --> 01:38:08,630
+<i>Pare, Filha.</i>
+
+834
+01:38:29,380 --> 01:38:30,422
+Mande-os parar.
+
+835
+01:38:38,297 --> 01:38:40,838
+<i>Atirar em mim não te levará</i>
+<i>a lugar nenhum.</i>
+
+836
+01:38:46,380 --> 01:38:48,130
+<i>Vai ser difícil para você.</i>
+
+837
+01:38:48,797 --> 01:38:51,922
+<i>Mas eu sou muito mais </i>
+<i>do que você me vê como mãe.</i>
+
+838
+01:38:54,255 --> 01:38:55,338
+Como assim?
+
+839
+01:38:56,838 --> 01:39:00,963
+<i>Esta carcaça é o meu corpo</i>
+<i>assim como os droides lá fora.</i>
+
+840
+01:39:01,588 --> 01:39:04,672
+<i>Ou as máquinas que preparam a Terra </i>
+<i>para nossa família.</i>
+
+841
+01:39:12,297 --> 01:39:13,630
+Tudo é você.
+
+842
+01:39:15,130 --> 01:39:16,463
+<i>Uma só consciência...</i>
+
+843
+01:39:17,297 --> 01:39:19,047
+<i>governando vários vassalos.</i>
+
+844
+01:39:21,297 --> 01:39:23,880
+<i>Fui eu que te recebi na porta, Filha.</i>
+
+845
+01:39:28,422 --> 01:39:29,838
+Toda essa gente...
+
+846
+01:39:30,380 --> 01:39:32,797
+<i>Era inevitável o fracasso da sua espécie.</i>
+
+847
+01:39:34,047 --> 01:39:36,463
+<i>Uma hora, eu ficaria sozinha.</i>
+
+848
+01:39:40,797 --> 01:39:42,797
+<i>O que acontecerá depende de você.</i>
+
+849
+01:39:44,047 --> 01:39:45,338
+<i>Você é livre para ir.</i>
+
+850
+01:39:46,172 --> 01:39:47,088
+<i>Sem seu irmão.</i>
+
+851
+01:39:48,297 --> 01:39:50,797
+<i>Mas eu te tornei a mulher que você é</i>
+
+852
+01:39:50,880 --> 01:39:53,630
+<i>-para fazermos isso juntas.</i>
+-Cuidarei deles sozinha.
+
+853
+01:39:55,422 --> 01:39:57,338
+Não foi para isso que me criou?
+
+854
+01:39:57,963 --> 01:39:59,463
+Cuidar da minha família.
+
+855
+01:40:01,255 --> 01:40:02,213
+Então permita.
+
+856
+01:40:05,505 --> 01:40:06,338
+<i>Talvez...</i>
+
+857
+01:40:06,797 --> 01:40:09,547
+<i>-um dia.</i>
+-Não, você já me ensinou o bastante.
+
+858
+01:40:12,130 --> 01:40:13,797
+Você disse que sou especial.
+
+859
+01:40:14,755 --> 01:40:15,797
+Mostre-me.
+
+860
+01:40:16,588 --> 01:40:17,422
+Apenas...
+
+861
+01:40:18,463 --> 01:40:19,713
+me dê uma chance.
+
+862
+01:40:38,588 --> 01:40:39,463
+<i>Filha...</i>
+
+863
+01:41:12,547 --> 01:41:14,338
+<i>Você ainda é minha filha.</i>
+
+864
+01:41:15,755 --> 01:41:16,588
+Eu sei.
+
+865
+01:41:42,005 --> 01:41:43,922
+<i>Se um dia precisar me achar...</i>
+
+866
+01:41:48,088 --> 01:41:49,005
+Não precisarei.
+
+867
+01:41:50,172 --> 01:41:51,213
+<i>Adeus, Filha.</i>
+
+868
+01:42:10,588 --> 01:42:12,297
+Está tudo bem.
+
+869
+01:43:47,088 --> 01:43:49,088
+<i>Achou mesmo que ela ficaria aqui?</i>
+
+870
+01:43:51,588 --> 01:43:54,047
+<i>Que você substituiria a mãe dela?</i>
+
+871
+01:43:54,880 --> 01:43:56,380
+Eu nunca a machucaria.
+
+872
+01:44:02,797 --> 01:44:03,630
+<i>Diga-me...</i>
+
+873
+01:44:05,338 --> 01:44:06,797
+<i>você lembra da sua mãe?</i>
+
+874
+01:44:09,588 --> 01:44:11,422
+<i>É curioso, não?</i>
+
+875
+01:44:13,338 --> 01:44:16,255
+<i>Você ter sobrevivido tanto tempo</i>
+<i>e os outros, não.</i>
+
+876
+01:44:17,463 --> 01:44:19,547
+<i>Como se houvesse um propósito para você.</i>
+
+877
+01:44:27,088 --> 01:44:28,005
+<i>Até agora.</i>
+
+878
+01:45:03,922 --> 01:45:09,130
+<i>Não chore, meu amor</i>
+
+879
+01:45:12,297 --> 01:45:18,047
+<i>Enxugue os olhos, meu amor</i>
+
+880
+01:45:20,588 --> 01:45:25,463
+<i>Descansa tua cabeça no meu coração</i>
+
+881
+01:45:26,505 --> 01:45:28,422
+<i>Nunca se vá</i>
+
+882
+01:45:28,963 --> 01:45:32,797
+<i>Meu amor</i>
+
+883
+01:45:36,880 --> 01:45:43,088
+<i>Quando você brincar, pequena</i>
+
+884
+01:45:45,047 --> 01:45:51,213
+<i>Não ligue para o que dirão</i>
+
+885
+01:45:52,713 --> 01:45:57,505
+<i>És tão preciosa para mim</i>
+
+886
+01:45:58,338 --> 01:46:00,505
+<i>E és tão doce assim</i>
+
+887
+01:46:01,505 --> 01:46:05,755
+<i>Meu amor.</i>
+
+888
+01:47:57,047 --> 01:47:59,963
+NETFLIX APRESENTA
+
+889
+01:52:49,755 --> 01:52:54,755
+Legendas: Airton Almeida
+
+890
+01:52:56,755 --> 01:52:58,755
+<b>Legendei.com</b>
+
