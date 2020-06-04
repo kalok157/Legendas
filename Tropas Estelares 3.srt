@@ -1,0 +1,5595 @@
+1
+00:00:25,721 --> 00:00:29,121
+Resync: LAPUMiA
+
+2
+00:00:30,422 --> 00:00:33,391
+TROPAS ESTELARES 3
+
+3
+00:00:40,599 --> 00:00:43,568
+REDE FEDERAL
+
+4
+00:00:46,138 --> 00:00:47,696
+GUERRA DOS INSETOS 2
+
+5
+00:00:47,906 --> 00:00:48,895
+NOVAS ARMAS DOS INSETOS
+
+6
+00:00:49,107 --> 00:00:51,439
+<i>Guerreiros da classe dos escorpiões.</i>
+
+7
+00:00:52,344 --> 00:00:54,175
+<i>Bombardeiros kamikaze.</i>
+
+8
+00:00:54,379 --> 00:00:56,904
+<i>Todo dia, novos Insetos
+aparecem nos combates.</i>
+
+9
+00:00:58,316 --> 00:00:59,874
+Cuidado!
+Abaixem-se, abaixem-se!
+
+10
+00:01:00,085 --> 00:01:02,053
+<i>Tantos que até perguntamos...</i>
+
+11
+00:01:03,221 --> 00:01:05,314
+<i>Estamos perdendo a guerra?</i>
+
+12
+00:01:05,524 --> 00:01:06,513
+GIQ na linha Um.
+
+13
+00:01:06,725 --> 00:01:08,158
+<i>Não aposte nisso, cidadão.</i>
+
+14
+00:01:08,360 --> 00:01:10,055
+<i>Aqui no Campo de Testes
+de Oppenheimer...</i>
+
+15
+00:01:10,262 --> 00:01:13,595
+<i>cientistas federais planejam
+algumas armadilhas secretas...</i>
+
+16
+00:01:13,799 --> 00:01:15,460
+<i>como resposta.</i>
+
+17
+00:01:20,205 --> 00:01:21,968
+<i>Gostaria de saber mais?</i>
+
+18
+00:01:22,174 --> 00:01:24,768
+<i>Mas a mais nova arma do
+arsenal da infantaria...</i>
+
+19
+00:01:24,976 --> 00:01:26,705
+<i>é a não tão secreta pá.</i>
+
+20
+00:01:26,912 --> 00:01:28,777
+<i>Grandes Insetos com poder de fogo
+significam trincheiras.</i>
+
+21
+00:01:28,980 --> 00:01:30,845
+<i>E isso quer dizer cavar, aqui
+em Roku San...</i>
+
+22
+00:01:31,049 --> 00:01:32,676
+<i>este planeta outrora pacífico...</i>
+
+23
+00:01:32,884 --> 00:01:35,717
+<i>que se tornou a nova linha de frente
+na segunda Guerra de Insetos.</i>
+
+24
+00:01:35,921 --> 00:01:39,413
+<i>Muito bem, soldado.
+Ao trabalho.</i>
+
+25
+00:01:40,225 --> 00:01:41,715
+MORTE AOS PROTESTANTES
+DE GUERRA
+
+26
+00:01:41,927 --> 00:01:44,088
+<i>Se está contra a guerra,
+está contra nós.</i>
+
+27
+00:01:44,296 --> 00:01:45,285
+TRAIDORES
+
+28
+00:01:45,497 --> 00:01:47,328
+<i>Isso foi o que
+um juiz federal disse hoje...</i>
+
+29
+00:01:47,532 --> 00:01:50,296
+<i>quando declarou que enforcamento
+é o suficiente...</i>
+
+30
+00:01:50,502 --> 00:01:53,096
+<i>para quem ameaçar
+a moral da Federação.</i>
+
+31
+00:01:53,305 --> 00:01:55,535
+...e morte. Enforquem todos.
+
+32
+00:01:55,741 --> 00:01:57,174
+TRIBUNAL FEDERAL
+CHEFE DO SUPREMO KEVA
+
+33
+00:01:57,375 --> 00:02:01,436
+É uma regra simples. Precisam ter
+cuidado com o que dizem.
+
+34
+00:02:01,646 --> 00:02:04,376
+<i>A Almirante Enolo Phid, chefe
+da divisão da Frota de Inteligência...</i>
+
+35
+00:02:04,583 --> 00:02:07,984
+<i>falou mais uma vez de seu
+quartel-general no Comando Terran.</i>
+
+36
+00:02:08,186 --> 00:02:11,747
+A volta do culto religioso aqui
+e nas colônias exteriores...
+
+37
+00:02:11,957 --> 00:02:15,393
+não será tolerada
+caso isso leve a uma rebelião...
+
+38
+00:02:15,594 --> 00:02:19,086
+ou se de alguma forma desestabilizar
+nosso esforço na guerra.
+
+39
+00:02:19,698 --> 00:02:22,098
+<i>Gostaria de saber mais?</i>
+
+40
+00:02:22,300 --> 00:02:25,030
+<i>Ele é moreno, bonito, paranormal.</i>
+
+41
+00:02:25,237 --> 00:02:27,899
+<i>Coragem, dever, honra.</i>
+
+42
+00:02:28,106 --> 00:02:29,334
+<i>Águia lá no alto</i>
+
+43
+00:02:29,541 --> 00:02:32,977
+<i>Ele é o General Omar Anoke,
+o marechal-do-ar que todos adoram.</i>
+
+44
+00:02:33,178 --> 00:02:36,147
+<i>E nos dá força
+Para ir e vencer esta guerra</i>
+
+45
+00:02:36,348 --> 00:02:37,781
+<i>E no comício de guerra
+de ontem à noite...</i>
+
+46
+00:02:37,983 --> 00:02:40,383
+<i>ele emocionou a platéia
+de toda Federação...</i>
+
+47
+00:02:40,585 --> 00:02:44,021
+<i>com uma versão de seu último
+sucesso, "Um Bom Dia para Morrer".</i>
+
+48
+00:02:44,222 --> 00:02:45,985
+<i>Lutamos pelo que é certo</i>
+
+49
+00:02:47,793 --> 00:02:49,761
+<i>Um nobre sacrifício</i>
+
+50
+00:02:49,961 --> 00:02:52,429
+<i>Quando o dever chama
+Você paga o preço</i>
+
+51
+00:02:52,631 --> 00:02:56,761
+<i>Pela Federação
+Darei a minha vida</i>
+
+52
+00:02:56,968 --> 00:02:59,903
+<i>É um bom dia para morrer</i>
+
+53
+00:03:00,105 --> 00:03:02,266
+<i>Quando você sabe a razão</i>
+
+54
+00:03:02,474 --> 00:03:04,635
+<i>Cidadão, nós lutamos
+Pelo o que é certo</i>
+
+55
+00:03:04,843 --> 00:03:08,108
+<i>E, cidadão, agora pode comemorar
+com o Marechal-do-Ar Anoke...</i>
+
+56
+00:03:08,313 --> 00:03:10,645
+<i>e apoiar nossos esforços de guerra
+ao mesmo tempo.</i>
+
+57
+00:03:10,849 --> 00:03:13,545
+<i>Porque é sempre
+um bom dia para comprar.</i>
+
+58
+00:03:13,752 --> 00:03:16,744
+<i>- Darei minha vida
+- Coragem, dever, honra</i>
+
+59
+00:03:16,955 --> 00:03:20,755
+<i>Pela Federação
+Eu darei a minha vida</i>
+
+60
+00:03:20,959 --> 00:03:22,256
+<i>Gostaria de comprar mais?</i>
+
+61
+00:03:33,839 --> 00:03:36,467
+<i>AJUDA MILITAR
+COMANDO I ROKU SAN</i>
+
+62
+00:03:50,121 --> 00:03:52,180
+Cuidado!
+
+63
+00:04:06,838 --> 00:04:08,169
+- Saiam daqui!
+- Corram!
+
+64
+00:04:08,373 --> 00:04:09,362
+Andem, andem, andem!
+
+65
+00:04:30,395 --> 00:04:31,384
+Pode andar, soldado?
+
+66
+00:04:31,596 --> 00:04:32,927
+- Posso, senhor.
+- Ótimo.
+
+67
+00:04:33,131 --> 00:04:36,294
+Ajude-nos. Pegue esse braço
+e descubra de quem é.
+
+68
+00:04:36,501 --> 00:04:38,128
+Sim, senhor.
+
+69
+00:04:43,975 --> 00:04:47,638
+Vamos limpar, pessoal. As altas
+patentes estão prestes a chegar.
+
+70
+00:04:47,846 --> 00:04:50,041
+Inspeção surpresa, senhor?
+Hoje?
+
+71
+00:04:50,248 --> 00:04:52,910
+O MA pode vir fazer a contagem
+a hora em que quiser.
+
+72
+00:04:53,118 --> 00:04:55,643
+O marechal-do-ar está
+vindo para cá?
+
+73
+00:04:55,854 --> 00:04:59,756
+Peça um autógrafo para ele,
+Tenente Manion, e eu atiro em você.
+
+74
+00:04:59,958 --> 00:05:03,826
+Não, senhor.
+É claro que não, senhor.
+
+75
+00:05:06,698 --> 00:05:09,394
+- Oficial no convés.
+- Continue.
+
+76
+00:05:10,835 --> 00:05:12,462
+Situação?
+
+77
+00:05:13,872 --> 00:05:17,899
+- Archie está testando a cerca de novo.
+- Insetos idiotas.
+
+78
+00:05:18,710 --> 00:05:20,405
+Irritantes, não idiotas, tenente.
+
+79
+00:05:20,612 --> 00:05:25,106
+Continue testando, Archie.
+Gosto de Insetos fritos pela manhã.
+
+80
+00:05:27,485 --> 00:05:29,419
+Navio se aproximando, coronel.
+
+81
+00:05:29,621 --> 00:05:31,646
+Tropa, em posição.
+
+82
+00:05:45,170 --> 00:05:49,197
+Senhor, o marechal-do-ar
+é o maior segredo da Federação.
+
+83
+00:05:49,407 --> 00:05:50,840
+Então como sabia
+que ele estava vindo?
+
+84
+00:05:51,042 --> 00:05:53,135
+O chefe do estado-maior de Anoke
+foi meu subordinado.
+
+85
+00:05:53,345 --> 00:05:54,710
+Conhece o General Hauzer?
+
+86
+00:05:54,913 --> 00:05:58,041
+Dix Hauzer era um tenente babaca
+assim como você também já foi.
+
+87
+00:05:58,249 --> 00:06:01,082
+Virou general em dois anos.
+E que babaca.
+
+88
+00:06:01,286 --> 00:06:04,084
+Eu só levei oito anos
+para chegar a coronel.
+
+89
+00:06:13,565 --> 00:06:15,362
+Oficial no convés.
+
+90
+00:06:18,169 --> 00:06:20,637
+- John Rico.
+- É bom vê-lo, Dix.
+
+91
+00:06:22,173 --> 00:06:23,902
+- Como vai?
+- Bem.
+
+92
+00:06:24,109 --> 00:06:27,010
+Tenho que apresentá-lo a alguém.
+Acho que estou apaixonado.
+
+93
+00:06:27,212 --> 00:06:28,577
+Sério? Quem o fisgou?
+
+94
+00:06:29,381 --> 00:06:31,406
+Aí vem ele, pessoal.
+Andem logo, vamos.
+
+95
+00:06:32,017 --> 00:06:34,076
+Oficial no convés.
+
+96
+00:06:38,289 --> 00:06:40,086
+Desculpe vir sem avisar, coronel.
+
+97
+00:06:41,926 --> 00:06:44,827
+Mas sinto que você esperava
+minha visita.
+
+98
+00:06:49,234 --> 00:06:55,070
+Não perca nada, sargento. Johnny
+Rico, nosso herói do Planeta P.
+
+99
+00:06:55,273 --> 00:06:56,331
+Só fiz a minha parte, senhor.
+
+100
+00:06:56,541 --> 00:07:00,136
+Ah, não.
+Heróis inspiram coragem, sacrifício.
+
+101
+00:07:00,345 --> 00:07:01,835
+- Sacrifício?
+- Isso.
+
+102
+00:07:02,047 --> 00:07:06,245
+Pedindo para que sejamos
+melhores do que somos.
+
+103
+00:07:08,153 --> 00:07:11,088
+Conte-me sobre Roku San, coronel.
+
+104
+00:07:11,289 --> 00:07:13,883
+Esses fazendeiros vão lutar?
+
+105
+00:07:14,092 --> 00:07:17,152
+Eles precisam de nós,
+mas não simpatizam conosco, senhor.
+
+106
+00:07:17,362 --> 00:07:20,126
+O coração é mais instável
+que a mente.
+
+107
+00:07:24,169 --> 00:07:25,295
+Johnny Rico.
+
+108
+00:07:26,971 --> 00:07:28,063
+Lola Beck?
+
+109
+00:07:29,407 --> 00:07:31,034
+O que está fazendo aqui?
+
+110
+00:07:31,242 --> 00:07:32,300
+Sou a piloto do MA.
+
+111
+00:07:32,844 --> 00:07:34,778
+Ele tem o que há de melhor.
+
+112
+00:07:34,979 --> 00:07:37,777
+Bem, você me conhece, Johnny.
+
+113
+00:07:37,982 --> 00:07:40,109
+É, conheço.
+
+114
+00:07:43,154 --> 00:07:45,884
+A Capitã Beck
+é a pessoa de quem eu falei.
+
+115
+00:07:46,891 --> 00:07:48,085
+Você?
+
+116
+00:07:48,726 --> 00:07:50,250
+E Lola?
+
+117
+00:07:55,533 --> 00:07:56,557
+Qual é a graça?
+
+118
+00:07:58,069 --> 00:08:00,401
+Capitã Beck,
+devia ter me contado...
+
+119
+00:08:00,605 --> 00:08:02,732
+sobre sua relação
+com o Coronel Rico.
+
+120
+00:08:03,975 --> 00:08:07,638
+Sabe que o que faço sem uniforme
+não é da conta de ninguém, general.
+
+121
+00:08:08,146 --> 00:08:10,740
+Vocês três, com certeza,
+têm muito o que conversar.
+
+122
+00:08:10,949 --> 00:08:12,576
+Pague uma bebida para
+eles por minha conta, coronel.
+
+123
+00:08:12,784 --> 00:08:13,978
+Sim, senhor.
+
+124
+00:08:14,185 --> 00:08:17,313
+- Tenente Manion, não é?
+- Sim, senhor.
+
+125
+00:08:17,522 --> 00:08:20,355
+- Gostaria de me mostrar o lugar?
+- Eu?
+
+126
+00:08:22,660 --> 00:08:25,288
+Eu tenho todos
+os seus discos, senhor.
+
+127
+00:08:25,830 --> 00:08:28,128
+- Continue, tenente.
+- Sim, senhor.
+
+128
+00:08:28,333 --> 00:08:29,960
+Siga-me, senhor.
+
+129
+00:08:30,168 --> 00:08:32,159
+Venham, meninos.
+Temos ordens.
+
+130
+00:08:37,041 --> 00:08:39,373
+Sabe, vocês são as maiores
+garotas que já conheci.
+
+131
+00:08:49,921 --> 00:08:51,149
+O que acha deles, tenente?
+
+132
+00:08:51,356 --> 00:08:54,723
+Insetos? Eu os odeio, senhor.
+
+133
+00:08:54,926 --> 00:08:57,019
+Bem, ninguém gosta
+do que não entende.
+
+134
+00:08:58,630 --> 00:09:01,224
+Mas olhe com imaginação.
+
+135
+00:09:01,666 --> 00:09:04,794
+A pura eficácia da criação deles.
+
+136
+00:09:05,003 --> 00:09:07,870
+Odeio incomodá-lo, senhor,
+mas poderia assinar meu capacete?
+
+137
+00:09:08,072 --> 00:09:10,040
+É claro, soldado.
+
+138
+00:09:12,944 --> 00:09:15,412
+- Obrigado, senhor.
+- Quando quiser, filho.
+
+139
+00:09:15,613 --> 00:09:16,841
+Tudo que sei é que...
+
+140
+00:09:17,048 --> 00:09:20,575
+existem muitos deles
+aqui hoje, senhor.
+
+141
+00:09:20,785 --> 00:09:21,979
+Muito mais.
+
+142
+00:09:22,854 --> 00:09:25,322
+Bem, talvez souberam que
+eu ia cantar.
+
+143
+00:09:36,034 --> 00:09:37,763
+- Oficial no convés.
+- Sentido.
+
+144
+00:09:41,339 --> 00:09:42,897
+À vontade.
+
+145
+00:09:49,614 --> 00:09:50,603
+Cavalheiros.
+
+146
+00:09:54,652 --> 00:09:57,917
+Você me confundiu com alguém
+que não é fazendeiro.
+
+147
+00:09:58,356 --> 00:10:01,553
+- Como consigo um chapéu desses?
+- Aliste-se, faça a sua parte.
+
+148
+00:10:07,165 --> 00:10:08,564
+Fazendeiros.
+
+149
+00:10:08,766 --> 00:10:11,701
+- Quero perguntar uma coisa.
+- Desculpe, chefe.
+
+150
+00:10:12,770 --> 00:10:14,704
+Já sou casado.
+
+151
+00:10:16,641 --> 00:10:19,439
+Pague uma bebida para eles,
+por minha conta, e traga uma garrafa.
+
+152
+00:10:19,644 --> 00:10:20,975
+Fique na sua, Harlan.
+
+153
+00:10:23,481 --> 00:10:27,144
+Esse é o tipo de pessoa que vai
+perder a guerra por nós.
+
+154
+00:10:27,352 --> 00:10:30,219
+Por que ninguém
+das colônias exteriores quer lutar?
+
+155
+00:10:30,788 --> 00:10:32,915
+Roku San era um bom lugar.
+
+156
+00:10:33,124 --> 00:10:35,820
+Agora está em guerra,
+e colocam a culpa em nós.
+
+157
+00:10:37,695 --> 00:10:39,458
+Archie está com tudo esta noite.
+
+158
+00:10:39,664 --> 00:10:41,154
+- Ah, é.
+- Isso.
+
+159
+00:10:42,467 --> 00:10:45,197
+- O que estão pensando?
+- Archie não pensa.
+
+160
+00:10:45,403 --> 00:10:48,463
+É um bom dia para fritar.
+
+161
+00:10:50,041 --> 00:10:52,874
+- Sentido.
+- À vontade, tropa.
+
+162
+00:10:56,547 --> 00:10:57,775
+Fascinante.
+
+163
+00:10:58,416 --> 00:10:59,883
+Parecem tão agitados essa noite.
+
+164
+00:11:00,084 --> 00:11:02,848
+Devia ouvi-los, senhor.
+Estão berrando lá fora.
+
+165
+00:11:03,054 --> 00:11:05,113
+Então vamos ouvi-los, soldado.
+
+166
+00:11:13,564 --> 00:11:15,930
+O que isso significa, senhor?
+
+167
+00:11:16,134 --> 00:11:18,830
+Significa que
+estamos sendo testados, tenente.
+
+168
+00:11:19,270 --> 00:11:22,706
+Nossa lealdade, inteligência...
+
+169
+00:11:22,907 --> 00:11:24,898
+nossa imaginação.
+
+170
+00:11:25,910 --> 00:11:29,243
+Com licença, senhor.
+Meu irmão o adora.
+
+171
+00:11:29,447 --> 00:11:32,143
+- É claro. Qual o nome dele?
+- Kevin.
+
+172
+00:11:32,350 --> 00:11:34,511
+- Sei que ele será um bom recruta.
+- Obrigada.
+
+173
+00:11:34,719 --> 00:11:36,619
+- Posso, senhor?
+- Claro que pode, soldado.
+
+174
+00:11:36,821 --> 00:11:40,450
+<i>Peça um autógrafo para ele,
+Tenente Manion, e eu atiro em você.</i>
+
+175
+00:11:43,461 --> 00:11:44,485
+Ei, para onde ele foi?
+
+176
+00:11:56,174 --> 00:11:57,334
+A nós.
+
+177
+00:11:59,711 --> 00:12:00,939
+A nós.
+
+178
+00:12:01,412 --> 00:12:04,381
+A John, herói do Planeta P.
+
+179
+00:12:05,817 --> 00:12:08,411
+Lola, acabou com duas naves
+bem embaixo de você.
+
+180
+00:12:10,254 --> 00:12:12,085
+Eu piloto uma ótima mesa.
+
+181
+00:12:13,558 --> 00:12:16,652
+Minas batalhas são com os números.
+É isso o que eu faço.
+
+182
+00:12:17,362 --> 00:12:18,989
+É isso o que eu sei.
+
+183
+00:12:19,197 --> 00:12:21,688
+E é por isso que eu sei...
+
+184
+00:12:21,899 --> 00:12:25,767
+que se todos aqui
+não se levantarem, vamos sucumbir.
+
+185
+00:12:27,205 --> 00:12:30,572
+- À Federação.
+- À Federação.
+
+186
+00:12:32,076 --> 00:12:33,373
+"À Federação."
+
+187
+00:12:43,154 --> 00:12:45,019
+Então, Dix...
+
+188
+00:12:45,223 --> 00:12:46,747
+Rico e eu nos conhecemos...
+
+189
+00:12:46,958 --> 00:12:50,450
+quando Johnny era um herói de
+guerra e eu ficava na retaguarda.
+
+190
+00:12:50,661 --> 00:12:53,391
+Viagem de confraternização.
+Dez planetas em oito dias.
+
+191
+00:12:54,565 --> 00:12:56,294
+Você se lembra de Turtle Bay?
+
+192
+00:13:01,706 --> 00:13:03,139
+E você, Dix,
+como conheceu o Johnny?
+
+193
+00:13:03,341 --> 00:13:06,936
+Bem, ele era meu chefe na TCOM.
+
+194
+00:13:07,512 --> 00:13:10,413
+Regras de rotatividade.
+O pior ano da minha vida.
+
+195
+00:13:10,615 --> 00:13:12,105
+Dix salvava minha pele
+todos os dias.
+
+196
+00:13:14,952 --> 00:13:16,943
+Ei, é hora do enforcamento.
+
+197
+00:13:22,326 --> 00:13:25,989
+<i>Apelações já se esgotaram.
+A família já se despediu.</i>
+
+198
+00:13:26,197 --> 00:13:30,634
+<i>Restou apenas pagarem
+pelos crimes contra você, cidadão.</i>
+
+199
+00:13:33,438 --> 00:13:36,737
+<i>O carrasco do comitê executivo
+não tem pressa.</i>
+
+200
+00:13:38,276 --> 00:13:39,800
+<i>Talvez seja uma mensagem.</i>
+
+201
+00:13:40,311 --> 00:13:42,745
+<i>Uma para todos nós
+contemplarmos esta noite.</i>
+
+202
+00:13:42,947 --> 00:13:47,111
+<i>Nossas idéias,
+não importa o quanto nos agradem...</i>
+
+203
+00:13:47,318 --> 00:13:48,910
+<i>são perigosas.</i>
+
+204
+00:13:49,120 --> 00:13:52,146
+<i>Há ações e conseqüências.</i>
+
+205
+00:13:52,356 --> 00:13:54,620
+<i>Ninguém se importa muito...</i>
+
+206
+00:13:54,826 --> 00:13:57,818
+<i>a menos que façamos parte
+de algo maior.</i>
+
+207
+00:14:23,988 --> 00:14:26,889
+<i>Aí está. Justiça.</i>
+
+208
+00:14:28,025 --> 00:14:30,789
+Vocês pagarão. Com Deus
+como testemunha, vocês pagarão.
+
+209
+00:14:30,995 --> 00:14:32,826
+- Para trás.
+- Calma, calma, esperem.
+
+210
+00:14:33,030 --> 00:14:34,588
+Ei, não encha, federal.
+
+211
+00:14:34,799 --> 00:14:37,461
+Vocês não entenderam
+a lição que foi dada aqui.
+
+212
+00:14:37,668 --> 00:14:39,033
+Quer me ensinar alguma coisa?
+
+213
+00:14:39,237 --> 00:14:42,263
+- Venha, Dix, vamos sair daqui.
+- Coronel Rico, por favor.
+
+214
+00:14:42,473 --> 00:14:43,667
+Sim, senhor.
+
+215
+00:14:43,875 --> 00:14:47,003
+PM, agora. Quero todo mundo preso.
+Todos. Isso é uma ordem.
+
+216
+00:14:47,879 --> 00:14:49,176
+Sim, senhor. Sargento!
+
+217
+00:14:50,281 --> 00:14:51,680
+Ouviu o general.
+
+218
+00:14:51,883 --> 00:14:54,511
+Amigos, vocês não são maiores
+que a Federação.
+
+219
+00:14:55,219 --> 00:14:57,153
+Cuidado com o que dizem
+e façam o que é pedido.
+
+220
+00:14:57,355 --> 00:14:59,983
+- Senão vai nos enforcar, é isso?
+- Depende de você.
+
+221
+00:15:06,163 --> 00:15:08,154
+Venha, Dix.
+Vamos tirar a Lola daqui.
+
+222
+00:15:08,366 --> 00:15:10,596
+Não trabalho mais para você, John.
+Fique na sua.
+
+223
+00:15:12,470 --> 00:15:17,066
+Ouviram isso, pessoal?
+Fiquem na de vocês. É uma ordem.
+
+224
+00:15:17,275 --> 00:15:20,039
+De agora em diante,
+eu arco com as conseqüências.
+
+225
+00:15:23,414 --> 00:15:24,540
+Pode deixar.
+
+226
+00:15:30,588 --> 00:15:33,216
+Agora está violando o Artigo 5.
+
+227
+00:15:40,565 --> 00:15:42,123
+Artigo 8.
+
+228
+00:15:42,333 --> 00:15:43,857
+- Chega?
+- Fique na sua, Rico.
+
+229
+00:15:44,368 --> 00:15:45,733
+Fique na sua.
+
+230
+00:15:50,942 --> 00:15:52,910
+Esse é o Artigo 11.
+
+231
+00:15:54,779 --> 00:15:55,973
+É o 11.
+
+232
+00:15:56,180 --> 00:15:58,876
+O que faz de você sujeito a...
+
+233
+00:16:03,955 --> 00:16:06,082
+- Ordem Especial 86.
+- Cuidado!
+
+234
+00:16:11,629 --> 00:16:14,189
+Coronel Rico,
+você desobedeceu a uma ordem.
+
+235
+00:16:14,398 --> 00:16:15,956
+Peço o perdão do general, senhor.
+
+236
+00:16:16,367 --> 00:16:19,336
+Tentei fazer com que um amigo
+não se tornasse um babaca.
+
+237
+00:16:19,537 --> 00:16:22,734
+Amizade não significa nada
+perto dos deveres, coronel.
+
+238
+00:16:22,940 --> 00:16:24,271
+E você se esqueceu dos seus.
+
+239
+00:16:25,142 --> 00:16:27,440
+Pensei que estávamos aqui
+para matar Insetos, senhor.
+
+240
+00:16:27,979 --> 00:16:29,105
+Não fazendeiros.
+
+241
+00:16:30,781 --> 00:16:33,579
+Prenda os fazendeiros. Rebelião.
+
+242
+00:16:35,186 --> 00:16:38,417
+- E o Coronel Rico também.
+- Muito bem, em pé, seus imbecis.
+
+243
+00:16:38,623 --> 00:16:41,820
+- Por não obedecer ao seu superior.
+- Ei, Dix, pare com isso.
+
+244
+00:16:42,026 --> 00:16:44,290
+Johnny tem razão.
+
+245
+00:16:45,062 --> 00:16:46,757
+Capitã Beck.
+
+246
+00:16:48,199 --> 00:16:49,188
+Volte para sua nave.
+
+247
+00:16:50,735 --> 00:16:52,930
+Sargento, isso são ordens.
+
+248
+00:16:53,137 --> 00:16:54,695
+Coronel, por favor,
+venha comigo.
+
+249
+00:16:59,210 --> 00:17:01,838
+<i>Falha no sistema elétrico.</i>
+
+250
+00:17:03,280 --> 00:17:04,304
+Essa não.
+
+251
+00:17:15,393 --> 00:17:17,657
+Eles estão aqui,
+estão no muro.
+
+252
+00:17:24,969 --> 00:17:27,301
+<i>- Rico.
+- Derrubaram. Tudo.</i>
+
+253
+00:17:27,505 --> 00:17:29,166
+<i>A cerca foi derrubada, senhor.</i>
+
+254
+00:17:29,373 --> 00:17:32,365
+- A cerca?
+- Como foi acontecer?
+
+255
+00:17:33,411 --> 00:17:35,072
+<i>Droga, aí vêm eles.</i>
+
+256
+00:17:37,515 --> 00:17:39,142
+<i>Ah, droga.</i>
+
+257
+00:17:39,884 --> 00:17:42,011
+<i>Precisamos de reforços.</i>
+
+258
+00:17:42,520 --> 00:17:44,818
+<i>Precisamos
+de reforços agora, senhor!</i>
+
+259
+00:17:45,623 --> 00:17:49,115
+- Estou a caminho.
+- Espere. Você está preso.
+
+260
+00:17:49,326 --> 00:17:51,760
+- É sua palavra final?
+- Não, essa é uma ordem.
+
+261
+00:17:54,231 --> 00:17:56,256
+Eu o vejo na corte marcial.
+
+262
+00:17:59,537 --> 00:18:01,869
+- Foi bom vê-la, Lola.
+- É.
+
+263
+00:18:02,573 --> 00:18:05,508
+Façam um buraco, passando.
+
+264
+00:18:06,777 --> 00:18:08,108
+Atenção, coronel.
+
+265
+00:18:13,384 --> 00:18:15,443
+Não parem, não parem.
+
+266
+00:18:16,654 --> 00:18:19,122
+Vamos lá, seus primatas.
+Querem viver para sempre?
+
+267
+00:18:21,325 --> 00:18:23,350
+Andem. Vamos.
+
+268
+00:18:24,061 --> 00:18:25,551
+Não parem.
+
+269
+00:19:04,935 --> 00:19:06,129
+Para trás.
+
+270
+00:19:56,554 --> 00:19:59,455
+Posição de defesa.
+Estão chegando.
+
+271
+00:20:03,194 --> 00:20:04,786
+Vamos.
+
+272
+00:20:13,437 --> 00:20:15,496
+Vá. Vá.
+
+273
+00:20:18,442 --> 00:20:21,468
+Sem munição, cara.
+Sem munição.
+
+274
+00:20:22,913 --> 00:20:24,244
+Não!
+
+275
+00:20:32,289 --> 00:20:36,157
+- Insetos!
+- Duas linhas! Na frente e atrás!
+
+276
+00:20:44,001 --> 00:20:44,990
+Fogo!
+
+277
+00:20:54,578 --> 00:20:56,443
+Granadas!
+
+278
+00:20:56,647 --> 00:20:57,909
+Fogo!
+
+279
+00:21:00,384 --> 00:21:01,783
+Em frente!
+
+280
+00:21:27,278 --> 00:21:28,267
+Coronel Rico, senhor.
+
+281
+00:21:30,247 --> 00:21:33,705
+- Situação, tenente.
+- Muito terrível, senhor.
+
+282
+00:21:34,184 --> 00:21:37,642
+E eu perdi
+o marechal-do-ar também, senhor.
+
+283
+00:21:38,756 --> 00:21:41,850
+Bom. Seremos enforcados juntos.
+
+284
+00:21:42,059 --> 00:21:46,621
+Sabem o que fazer.
+Entrem lá e matem todos eles!
+
+285
+00:21:55,339 --> 00:21:56,966
+- Onde está o comando avançado?
+- São Insetos.
+
+286
+00:21:57,174 --> 00:21:59,074
+Insetos.
+Em todos os lugares, senhor.
+
+287
+00:22:04,682 --> 00:22:07,344
+Senhor, o que está fazendo aqui?
+
+288
+00:22:08,752 --> 00:22:11,744
+Está machucado?
+Vamos levá-lo já para a nave.
+
+289
+00:22:11,956 --> 00:22:13,685
+Eu estou bem.
+
+290
+00:22:15,559 --> 00:22:19,290
+Fuzileiros, reúnam-se.
+Temos que salvar o marechal-do-ar.
+
+291
+00:22:19,496 --> 00:22:22,863
+Sim, senhor. Formação.
+Por aqui, general.
+
+292
+00:22:28,706 --> 00:22:30,298
+Archie.
+
+293
+00:22:33,777 --> 00:22:35,472
+Tudo limpo.
+
+294
+00:22:47,291 --> 00:22:48,952
+Continuem andando.
+
+295
+00:22:57,401 --> 00:22:59,801
+Archie.
+Abra os portões.
+
+296
+00:23:01,538 --> 00:23:03,733
+Aqui é o General Hauzer.
+Abra essa porta.
+
+297
+00:23:05,409 --> 00:23:06,398
+Abra a porta.
+
+298
+00:23:11,515 --> 00:23:12,641
+Senhor.
+
+299
+00:23:15,853 --> 00:23:18,321
+Fechem a porta!
+
+300
+00:23:20,324 --> 00:23:22,849
+Dr. Wiggs, aqui.
+Dr. Wiggs, precisamos de você.
+
+301
+00:23:23,594 --> 00:23:25,459
+Levem-no para dentro.
+
+302
+00:23:25,662 --> 00:23:29,098
+- Soldado, chame o Sargento Rye.
+- Sim, senhor.
+
+303
+00:23:31,802 --> 00:23:34,327
+Malditos Insetos.
+Eu os odeio!
+
+304
+00:23:34,538 --> 00:23:37,507
+Dr. Wiggs. Ali em frente ao centro.
+
+305
+00:23:40,878 --> 00:23:43,506
+- O que há com ele?
+- Cuidado.
+
+306
+00:23:44,481 --> 00:23:47,245
+Ele está em choque.
+Você está bem, senhor?
+
+307
+00:23:51,755 --> 00:23:53,655
+Você está bem, senhor?
+
+308
+00:23:54,625 --> 00:23:56,024
+Senhor?
+
+309
+00:23:57,961 --> 00:24:00,361
+- Vou ficar bem.
+- Que bom.
+
+310
+00:24:01,565 --> 00:24:03,760
+Segure. Cuidado.
+
+311
+00:24:03,967 --> 00:24:05,901
+Capitã Beck, quando partimos?
+
+312
+00:24:06,103 --> 00:24:08,697
+Que tal agora mesmo, senhor?
+
+313
+00:24:09,206 --> 00:24:13,438
+Senhor, peço permissão
+para ficar em Roku San, senhor.
+
+314
+00:24:13,644 --> 00:24:16,875
+- Vai tentar ser um herói, Dix?
+- Alguém precisa ficar e lutar.
+
+315
+00:24:17,081 --> 00:24:18,605
+Senhor.
+
+316
+00:24:19,483 --> 00:24:21,781
+Coronel Rico está no comando.
+
+317
+00:24:21,985 --> 00:24:24,180
+Fui forçado
+a dispensar o Coronel Rico.
+
+318
+00:24:24,388 --> 00:24:26,618
+Ele foi preso
+por insubordinação.
+
+319
+00:24:26,824 --> 00:24:30,055
+Acusação grave.
+Sinto muito por seu amigo.
+
+320
+00:24:30,260 --> 00:24:32,592
+Talvez seu destino
+seja mesmo ficar aqui, Dix.
+
+321
+00:24:33,597 --> 00:24:35,155
+Vá encontrá-lo.
+
+322
+00:24:35,666 --> 00:24:36,724
+E boa sorte, soldado.
+
+323
+00:24:41,638 --> 00:24:43,071
+Espere.
+
+324
+00:24:43,440 --> 00:24:45,601
+Pense nisso por um segundo.
+
+325
+00:24:45,809 --> 00:24:49,336
+Pois está tomando uma decisão
+por nós dois agora.
+
+326
+00:24:51,648 --> 00:24:53,138
+Eu sei.
+
+327
+00:24:55,419 --> 00:24:57,819
+Dix, eu amo você.
+
+328
+00:24:59,022 --> 00:25:00,512
+Eu o amo.
+
+329
+00:25:07,064 --> 00:25:08,861
+Vá embora, depressa.
+
+330
+00:25:22,746 --> 00:25:24,543
+<i>Atenção todas as unidades.</i>
+
+331
+00:25:24,748 --> 00:25:26,181
+Aqui é o General Hauzer.
+
+332
+00:25:26,383 --> 00:25:28,351
+<i>Estou assumindo
+o comando imediatamente.</i>
+
+333
+00:25:28,552 --> 00:25:29,541
+Para o abrigo!
+
+334
+00:25:29,753 --> 00:25:33,655
+<i>Repetindo, estou no comando.
+Comandantes informem.</i>
+
+335
+00:25:33,857 --> 00:25:36,348
+<i>Quero posição e condição, agora.</i>
+
+336
+00:25:36,560 --> 00:25:37,857
+Perdemos G Trench, senhor.
+
+337
+00:25:39,563 --> 00:25:42,396
+Coloque isso no memorando para
+o General Hauzer, ouviu, tenente?
+
+338
+00:25:42,599 --> 00:25:43,793
+Sim, senhor.
+
+339
+00:25:44,768 --> 00:25:48,295
+Hauzer para todas as unidades.
+Mais uma vez, estou no comando.
+
+340
+00:25:59,416 --> 00:26:01,748
+Estão recuando, senhor.
+
+341
+00:26:04,254 --> 00:26:06,654
+- Abaixem-se!
+- Para o convés!
+
+342
+00:26:15,332 --> 00:26:16,560
+Esvaziem o convés.
+
+343
+00:26:16,767 --> 00:26:19,292
+Skinner, Hightower,
+cubram o buraco.
+
+344
+00:26:19,503 --> 00:26:21,494
+Preparem-se para o ataque!
+
+345
+00:26:24,241 --> 00:26:26,505
+Bombardeiro!
+
+346
+00:26:48,265 --> 00:26:49,732
+Escorpião! É um escorpião!
+
+347
+00:26:49,933 --> 00:26:51,628
+Escorpião.
+
+348
+00:26:52,402 --> 00:26:55,235
+Escorpião! Ah, droga!
+Escorpião!
+
+349
+00:27:01,478 --> 00:27:02,536
+Atirem, atirem, atirem!
+
+350
+00:27:20,264 --> 00:27:21,288
+Granadas!
+
+351
+00:27:50,560 --> 00:27:53,051
+Leve-nos para casa, Capitã Beck.
+
+352
+00:27:54,531 --> 00:27:56,123
+Dobra cinco, lmediata.
+
+353
+00:27:56,333 --> 00:27:59,359
+<i>Sim, senhora. E quanto ao
+General Hauzer, senhora?</i>
+
+354
+00:27:59,569 --> 00:28:02,538
+Ele ficou no combate.
+Tire-nos daqui ao meu sinal.
+
+355
+00:28:02,739 --> 00:28:06,300
+Cinco, quatro, três, dois, um.
+
+356
+00:28:11,048 --> 00:28:14,211
+Então ele disse: " Cara,
+agora poderemos dormir".
+
+357
+00:28:18,422 --> 00:28:20,822
+Maldito Archie.
+Não acredito que levei um tiro.
+
+358
+00:28:21,024 --> 00:28:22,787
+É, ele o acertou.
+
+359
+00:28:22,993 --> 00:28:24,824
+Oficial no convés.
+
+360
+00:28:25,962 --> 00:28:27,827
+À vontade.
+
+361
+00:28:30,133 --> 00:28:31,498
+Bom trabalho, sargento.
+
+362
+00:28:32,202 --> 00:28:34,670
+Obrigado, senhora.
+O MA está bem?
+
+363
+00:28:36,540 --> 00:28:38,269
+Graças a vocês, rapazes.
+
+364
+00:28:38,475 --> 00:28:40,375
+O que temos a dizer, fuzileiros?
+
+365
+00:28:41,645 --> 00:28:44,910
+- Isso.
+- Continuem.
+
+366
+00:28:48,018 --> 00:28:49,679
+Mina Nossa.
+
+367
+00:28:51,488 --> 00:28:54,321
+Chefe Brittles, está tudo em ordem?
+
+368
+00:28:54,524 --> 00:28:57,152
+Você seria
+a primeira a saber, capitã.
+
+369
+00:28:57,594 --> 00:28:59,653
+Só estou dizendo "olá", Bull.
+
+370
+00:29:08,338 --> 00:29:09,327
+Desculpe, senhora.
+
+371
+00:29:09,539 --> 00:29:12,372
+Se for o jantar do MA,
+depois de você, Holly.
+
+372
+00:29:12,576 --> 00:29:14,203
+Obrigada, senhora.
+
+373
+00:29:14,411 --> 00:29:15,708
+Como vão as coisas, Jingo?
+
+374
+00:29:15,912 --> 00:29:18,472
+Você sabe,
+a mesma gororoba de sempre.
+
+375
+00:29:31,261 --> 00:29:33,593
+- Quer um drinque, capitã?
+- Estou em serviço, doutor.
+
+376
+00:29:33,797 --> 00:29:35,321
+Eu também.
+
+377
+00:29:39,202 --> 00:29:42,296
+Capitã Beck.
+Preste atenção, sim?
+
+378
+00:29:43,273 --> 00:29:47,209
+Hoje sofremos uma grande derrota
+em Roku San.
+
+379
+00:29:48,044 --> 00:29:53,277
+Mas estou certo de que há
+um equilíbrio no cosmos e...
+
+380
+00:29:53,483 --> 00:29:54,745
+Com licença, senhor.
+
+381
+00:29:58,488 --> 00:30:03,152
+Estou certo de que há
+um equilíbrio no cosmos.
+
+382
+00:30:03,360 --> 00:30:07,558
+E onde houve derrota,
+haverá vitória.
+
+383
+00:30:09,299 --> 00:30:10,493
+O que acha?
+
+384
+00:30:10,700 --> 00:30:13,134
+Tenho que informar
+o conselho amanhã.
+
+385
+00:30:13,336 --> 00:30:15,827
+Bem, senhor, todos adoram vitória.
+
+386
+00:30:18,575 --> 00:30:21,567
+Se me der licença,
+vou voltar para minha cabine.
+
+387
+00:30:21,778 --> 00:30:25,578
+Espere, eles não podem se virar
+sem você pelo menos uma vez?
+
+388
+00:30:25,782 --> 00:30:27,807
+Vamos conversar.
+
+389
+00:30:29,252 --> 00:30:31,618
+Com certeza, senhor,
+ficarei muito contente.
+
+390
+00:30:37,027 --> 00:30:38,358
+Segurem-se.
+
+391
+00:30:40,263 --> 00:30:41,696
+Estamos saindo da dobra.
+
+392
+00:30:52,175 --> 00:30:53,608
+Senhor, para sua proteção...
+
+393
+00:30:53,810 --> 00:30:56,370
+vou levá-lo
+para a ala dos fuzileiros.
+
+394
+00:30:57,447 --> 00:30:59,278
+Holly, fique conosco.
+
+395
+00:31:02,319 --> 00:31:05,550
+- O que foi que nos atingiu?
+- Acho que batemos um no outro.
+
+396
+00:31:07,090 --> 00:31:09,251
+Venha, Holly, vamos logo.
+
+397
+00:31:10,160 --> 00:31:13,357
+- Fuzileiros, para o convés de resgate.
+- Entendido, Capitã Beck.
+
+398
+00:31:13,563 --> 00:31:15,121
+Estamos a caminho.
+
+399
+00:31:17,734 --> 00:31:19,133
+Vamos.
+
+400
+00:31:21,838 --> 00:31:23,169
+GERÔNIMO: ALERTA MÁXIMO
+
+401
+00:31:24,908 --> 00:31:26,375
+Venham.
+
+402
+00:31:28,778 --> 00:31:30,712
+Fuzileiros.
+Por aqui, companheiros.
+
+403
+00:31:31,214 --> 00:31:32,203
+Vamos.
+
+404
+00:31:41,791 --> 00:31:43,224
+Isso foi o reator, chefe?
+
+405
+00:31:43,426 --> 00:31:46,020
+O secundário. Se fosse
+o principal estaríamos fritos.
+
+406
+00:31:46,596 --> 00:31:49,224
+Estou bem. Estou bem.
+
+407
+00:31:49,432 --> 00:31:51,627
+- Abandonar a nave, chefe.
+- Sim, senhora.
+
+408
+00:31:51,835 --> 00:31:53,530
+Sargento Rye,
+o MA irá com você.
+
+409
+00:31:53,737 --> 00:31:55,864
+Sim, senhora.
+Venha conosco, senhor.
+
+410
+00:31:56,072 --> 00:31:58,540
+Capitã Beck,
+prefiro que fique ao meu lado.
+
+411
+00:31:58,742 --> 00:32:01,370
+Sim, senhor. Chefe da tripulação,
+leve todos para a cápsula de resgate.
+
+412
+00:32:01,578 --> 00:32:03,045
+Pode deixar.
+
+413
+00:32:04,514 --> 00:32:07,108
+- Temos um problema na cozinha.
+- Jingo. Mina Nossa.
+
+414
+00:32:07,317 --> 00:32:09,080
+Imbecil.
+
+415
+00:32:11,421 --> 00:32:12,513
+- Você está bem?
+- Estou.
+
+416
+00:32:13,223 --> 00:32:14,747
+Vá buscar o MA, Chick.
+
+417
+00:32:14,958 --> 00:32:16,016
+Senhor, por aqui.
+
+418
+00:32:22,566 --> 00:32:24,397
+Não! Droga!
+
+419
+00:32:29,339 --> 00:32:32,934
+- Fuzileiros, para o seu módulo.
+- Eu o verei no solo.
+
+420
+00:32:33,143 --> 00:32:35,805
+Muito bem, pessoal, andando.
+Para a cápsula de resgate, agora.
+
+421
+00:32:36,012 --> 00:32:37,138
+Estamos caindo, Capitã?
+
+422
+00:32:37,347 --> 00:32:39,747
+Não, estamos indo
+para a cápsula de regate.
+
+423
+00:33:05,141 --> 00:33:06,870
+REDE FEDERAL
+
+424
+00:33:07,077 --> 00:33:08,374
+DERROTA EM ROKU SAN
+
+425
+00:33:09,279 --> 00:33:12,510
+<i>O exército em Roku San, peça chave
+na defesa da Federação...</i>
+
+426
+00:33:12,716 --> 00:33:14,877
+<i>foi derrotado em uma noite.</i>
+
+427
+00:33:15,085 --> 00:33:18,782
+<i>Quantos mortos?
+Não dá para dizer.</i>
+
+428
+00:33:18,989 --> 00:33:20,479
+<i>Peritos concordam
+em apenas uma coisa...</i>
+
+429
+00:33:20,690 --> 00:33:23,181
+<i>A culpa foi
+do Coronel John Rico.</i>
+
+430
+00:33:23,393 --> 00:33:24,382
+RICO, HERÓI DO PLANETA P
+DESONRADO
+
+431
+00:33:24,594 --> 00:33:26,789
+<i>Uma vez herói do Planeta P...</i>
+
+432
+00:33:26,997 --> 00:33:28,931
+<i>hoje desonrado e na expectativa
+da corte marcial...</i>
+
+433
+00:33:29,132 --> 00:33:33,034
+<i>em sua cela na
+Prisão Federal em Álamo Bay.</i>
+
+434
+00:33:34,304 --> 00:33:37,171
+<i>Outro dia, outro comício de paz
+nas colônias exteriores.</i>
+
+435
+00:33:37,374 --> 00:33:39,638
+<i>A Federação se aproveitou.</i>
+
+436
+00:33:39,843 --> 00:33:43,108
+<i>Dessa vez é diferente,
+por causa de Elmo Goniff.</i>
+
+437
+00:33:43,313 --> 00:33:44,439
+Ei, sou um cidadão.
+
+438
+00:33:44,648 --> 00:33:46,548
+<i>Condecorado como veterano,
+virou pacifista...</i>
+
+439
+00:33:46,750 --> 00:33:49,412
+<i>e agora lidera uma crescente
+coalizão de cidadãos...</i>
+
+440
+00:33:49,619 --> 00:33:51,849
+<i>que questiona a administração
+da Federação...</i>
+
+441
+00:33:52,055 --> 00:33:53,317
+<i>em relação ao conflito
+dos Aracnídeos.</i>
+
+442
+00:33:53,523 --> 00:33:57,482
+...e estou contando. Por quê?
+Encontrei minhas respostas na fé.
+
+443
+00:33:57,694 --> 00:33:59,958
+<i>Eu tenho fé em Deus,
+não nas pessoas.</i>
+
+444
+00:34:00,163 --> 00:34:03,997
+<i>Paz a qualquer preço
+é um direito humano.</i>
+
+445
+00:34:04,200 --> 00:34:06,031
+<i>E há outros custos também.</i>
+
+446
+00:34:06,236 --> 00:34:08,898
+<i>A derrota em Roku San estimulou
+um movimento antiguerra...</i>
+
+447
+00:34:09,105 --> 00:34:12,074
+<i>resultando na morte de 144
+estudantes das colônias exteriores...</i>
+
+448
+00:34:12,275 --> 00:34:14,038
+<i>e protestantes religiosos.</i>
+
+449
+00:34:14,244 --> 00:34:16,109
+<i>Gostaria de saber mais?</i>
+
+450
+00:34:18,214 --> 00:34:21,308
+<i>Interrompemos a transmissão para
+um aviso do Comando Terran...</i>
+
+451
+00:34:21,518 --> 00:34:24,510
+<i>onde o Marechal-do-Ar Omar Anoke,
+falará com a Federação...</i>
+
+452
+00:34:24,721 --> 00:34:26,245
+<i>sobre a crise em Roku San.</i>
+
+453
+00:34:28,425 --> 00:34:32,589
+<i>Queridos cidadãos, venho até vocês
+hoje com meu coração pesado.</i>
+
+454
+00:34:33,430 --> 00:34:35,489
+<i>Nas últimas 12 horas...</i>
+
+455
+00:34:35,699 --> 00:34:39,829
+<i>sofremos uma infame derrota
+em Roku San.</i>
+
+456
+00:34:40,036 --> 00:34:42,630
+<i>Incompetência nos níveis
+mais altos do comando...</i>
+
+457
+00:34:42,839 --> 00:34:46,502
+e traição...
+
+458
+00:34:46,710 --> 00:34:50,874
+por aqueles que protestaram,
+questionaram...
+
+459
+00:34:51,081 --> 00:34:54,380
+e cometeram atos
+de desobediência civil.
+
+460
+00:34:54,918 --> 00:34:59,617
+Eu garanto que os responsáveis
+pela catástrofe em Roku San...
+
+461
+00:34:59,823 --> 00:35:04,157
+e por todos os crimes contra
+a Federação, grandes ou pequenos...
+
+462
+00:35:04,360 --> 00:35:06,954
+serão punidos.
+
+463
+00:35:08,998 --> 00:35:13,435
+A nossa guerra
+é pelo destino da humanidade...
+
+464
+00:35:13,903 --> 00:35:18,203
+que acabará apenas na vitória total.
+
+465
+00:35:23,980 --> 00:35:25,845
+E corta.
+
+466
+00:35:26,316 --> 00:35:29,752
+Muito bem, vamos terminhar.
+Ótimo.
+
+467
+00:35:32,155 --> 00:35:33,144
+Então?
+
+468
+00:35:36,926 --> 00:35:39,986
+O que foi, general?
+Não parece muito feliz comigo.
+
+469
+00:35:40,196 --> 00:35:42,494
+Todos sabemos da importância
+em manter a estabilidade...
+
+470
+00:35:42,699 --> 00:35:44,291
+até localizarmos o marechal-do-ar.
+
+471
+00:35:44,501 --> 00:35:45,627
+Estou surpresa em vê-lo.
+
+472
+00:35:45,835 --> 00:35:48,998
+Achei que levaria mais tempo
+para se recuperar de sua provação.
+
+473
+00:35:49,205 --> 00:35:52,902
+O marechal gostaria que eu ficasse
+no escritório, almirante.
+
+474
+00:35:53,109 --> 00:35:54,133
+Naturalmente.
+
+475
+00:36:11,361 --> 00:36:14,023
+<i>COMANDO TERRAN
+SEDE MI I TCOM</i>
+
+476
+00:36:45,962 --> 00:36:47,759
+Com licença, senhor.
+
+477
+00:36:48,698 --> 00:36:50,188
+Desculpe, senhor.
+
+478
+00:36:52,168 --> 00:36:54,102
+- Tenente?
+- Lamb.
+
+479
+00:36:54,304 --> 00:36:55,293
+CONFIDENCIAL
+
+480
+00:36:56,840 --> 00:36:59,206
+Sei que ninguém deve
+falar sobre isso...
+
+481
+00:36:59,409 --> 00:37:01,377
+mas sinto muito
+pelo marechal, senhor.
+
+482
+00:37:01,578 --> 00:37:05,514
+Isso é confidencial, tenente.
+Phid vai querer sua cabeça.
+
+483
+00:37:08,985 --> 00:37:10,577
+Mas obrigado.
+
+484
+00:37:16,392 --> 00:37:17,381
+Algo mais?
+
+485
+00:37:17,594 --> 00:37:20,722
+Uma chamada de socorro
+foi feita a partir da zona aracnídea.
+
+486
+00:37:25,034 --> 00:37:27,093
+E como você soube disso
+e eu não?
+
+487
+00:37:27,303 --> 00:37:29,897
+A transmissão chegou
+bem no meu turno, senhor.
+
+488
+00:37:30,907 --> 00:37:32,374
+COORDENADAS DA POSlÇÃO
+CONFIDENCIAL
+
+489
+00:37:32,575 --> 00:37:35,738
+<i>Serra Mike Uniforme para
+Frota de Resgate. Responda.</i>
+
+490
+00:37:35,945 --> 00:37:38,311
+<i>Serra Mike Uniforme,
+aqui é a Frota de Resgate, câmbio.</i>
+
+491
+00:37:38,514 --> 00:37:41,847
+<i>Pedido prioritário para buscarem
+o marechal-do-ar e mais cinco.</i>
+
+492
+00:37:45,788 --> 00:37:47,653
+O que aconteceu
+quando você ouviu isso?
+
+493
+00:37:47,857 --> 00:37:52,260
+Fomos instruídos a ignorá-la, assim
+como todas as futuras transmissões.
+
+494
+00:37:52,462 --> 00:37:55,226
+E eu devia ficar de boca fechada.
+
+495
+00:37:56,065 --> 00:37:58,124
+Então por que está aqui, tenente?
+
+496
+00:37:58,568 --> 00:38:02,231
+Estão sozinhos lá fora, e ninguém
+está fazendo nada em relação a isso.
+
+497
+00:38:03,172 --> 00:38:04,264
+Senhor.
+
+498
+00:38:06,609 --> 00:38:08,839
+Você jamais esteve aqui, tenente.
+
+499
+00:38:09,379 --> 00:38:12,314
+Não, senhor. Nunca.
+
+500
+00:38:22,926 --> 00:38:28,091
+POR ORDEM DA ALMIRANTE
+ENOLO PHID
+
+501
+00:38:28,298 --> 00:38:32,166
+<i>Serra Mike Uniforme
+para Frota de Resgate. Responda.</i>
+
+502
+00:38:35,571 --> 00:38:38,267
+Serra Mike Uniforme
+para Frota de Resgate.
+
+503
+00:38:38,474 --> 00:38:40,806
+Frota de Resgate, responda.
+
+504
+00:38:42,211 --> 00:38:44,270
+Eles virão nos buscar, certo, capitã?
+
+505
+00:38:44,480 --> 00:38:46,345
+Digo, quanto tempo levará
+para chegarem aqui?
+
+506
+00:38:46,549 --> 00:38:47,641
+Aqui, doutor.
+
+507
+00:38:47,850 --> 00:38:51,684
+Repito, Serra Mike Uniforme
+para Frota de Resgate.
+
+508
+00:38:51,888 --> 00:38:53,651
+Responda, Frota.
+
+509
+00:38:56,259 --> 00:38:58,352
+Tem alguém aí?
+
+510
+00:39:01,364 --> 00:39:04,356
+Acho que não estamos conseguindo.
+Jingo, saia daí.
+
+511
+00:39:04,567 --> 00:39:07,900
+Por quê? Eu gosto daqui.
+Está bem.
+
+512
+00:39:08,571 --> 00:39:10,266
+CÉLULAS SOLARES ESGOTADAS
+RECARREGUE
+
+513
+00:39:10,473 --> 00:39:13,033
+As células solares
+precisam ser recarregadas.
+
+514
+00:39:14,210 --> 00:39:16,678
+Não temos tempo
+para pegarmos uma praia.
+
+515
+00:39:27,557 --> 00:39:29,684
+Insetos!
+
+516
+00:39:31,227 --> 00:39:32,353
+Um ou 1.000?
+
+517
+00:39:32,562 --> 00:39:34,496
+Quem pode dizer
+que não há um exército ali?
+
+518
+00:39:34,697 --> 00:39:36,927
+- Meu Deus.
+- Eu não vi nada.
+
+519
+00:39:37,133 --> 00:39:38,122
+Provavelmente é um explorador.
+
+520
+00:39:38,334 --> 00:39:40,359
+Temos que sair dessa praia
+agora mesmo, pessoal.
+
+521
+00:39:40,570 --> 00:39:41,559
+E abandonar a cápsula de resgate?
+
+522
+00:39:41,771 --> 00:39:44,399
+Quer correr até a água
+quando esses Insetos aparecerem?
+
+523
+00:39:44,607 --> 00:39:46,040
+Fique à vontade, doutor.
+
+524
+00:39:47,210 --> 00:39:50,373
+Pai nosso que estais no céu,
+santificado seja o Vosso nome.
+
+525
+00:39:50,580 --> 00:39:52,343
+Venha a nós o Vosso reino.
+Seja feita...
+
+526
+00:39:52,548 --> 00:39:53,537
+Dê um tempo.
+
+527
+00:39:56,486 --> 00:39:57,976
+Calma, capitã.
+
+528
+00:39:58,187 --> 00:40:01,156
+Você não tem certeza
+e está nos assustando.
+
+529
+00:40:01,924 --> 00:40:03,824
+Assim na Terra como no Céu.
+
+530
+00:40:04,027 --> 00:40:06,052
+O pão nosso de cada dia
+nos dai hoje...
+
+531
+00:40:07,196 --> 00:40:09,994
+Você está me irritando.
+
+532
+00:40:10,833 --> 00:40:12,664
+Não precisa fazer isso.
+
+533
+00:40:16,406 --> 00:40:19,341
+Tire suas mãos de mim,
+chefe da tripulação.
+
+534
+00:40:23,046 --> 00:40:24,604
+Está machucando-o.
+
+535
+00:40:30,286 --> 00:40:32,379
+Todos têm o direito de pensar
+o que quiserem.
+
+536
+00:40:32,588 --> 00:40:35,216
+Claro, desde que
+mantenham isso para si mesmos.
+
+537
+00:40:35,425 --> 00:40:38,394
+Preparem-se.
+Vamos sair daqui.
+
+538
+00:40:38,828 --> 00:40:41,797
+Espere. Quando a Frota de Resgate
+vier nos procurar...
+
+539
+00:40:41,998 --> 00:40:44,398
+esse será o primeiro lugar
+ao qual virão, não é?
+
+540
+00:40:44,600 --> 00:40:46,431
+Acho que sim, Bull.
+
+541
+00:40:46,636 --> 00:40:48,069
+Então deveríamos ficar bem aqui.
+
+542
+00:40:48,271 --> 00:40:51,263
+E se os Insetos atacarem,
+voltamos para a cabine.
+
+543
+00:40:51,874 --> 00:40:52,863
+Bem pensado, Bull.
+
+544
+00:40:54,844 --> 00:40:56,937
+Você já esteve
+em um enxame, grandalhão?
+
+545
+00:40:57,146 --> 00:40:59,546
+Enxame?
+Meu Deus, eu não.
+
+546
+00:41:00,049 --> 00:41:02,074
+Eles vão rasgar essa cabine
+como se fosse papel.
+
+547
+00:41:02,552 --> 00:41:04,315
+Deus nos ajude.
+
+548
+00:41:04,520 --> 00:41:07,887
+Preparem-se, vamos sair daqui.
+Isso é uma ordem.
+
+549
+00:41:09,725 --> 00:41:12,626
+Pai nosso que estais no céu,
+santificado seja o Vosso nome...
+
+550
+00:41:12,829 --> 00:41:16,321
+- Pare de falar com Deus.
+- Está errada, Capitã Beck.
+
+551
+00:41:16,532 --> 00:41:19,933
+Deus está em todos os lugares,
+ao nosso redor.
+
+552
+00:41:20,136 --> 00:41:21,125
+Como disse, senhor?
+
+553
+00:41:21,337 --> 00:41:24,135
+Todos nós buscamos Deus
+ao nosso modo...
+
+554
+00:41:24,340 --> 00:41:25,637
+conscientemente ou não.
+
+555
+00:41:27,743 --> 00:41:30,075
+Acredita mesmo nisso, senhor?
+
+556
+00:41:30,279 --> 00:41:32,338
+Sim, Holly, acredito.
+
+557
+00:41:32,548 --> 00:41:37,008
+Eu não sabia que o senhor
+era um de nós.
+
+558
+00:41:37,753 --> 00:41:40,221
+Muito bem.
+Vocês podem procurar Deus.
+
+559
+00:41:40,423 --> 00:41:42,288
+Vou para o módulo da
+Frota dos Fuzileiros.
+
+560
+00:41:42,892 --> 00:41:45,383
+Eles possuem armas,
+talvez até uma potente que funcione.
+
+561
+00:41:45,595 --> 00:41:47,460
+E estão apenas
+a 100 km de distância.
+
+562
+00:41:47,663 --> 00:41:49,756
+Apenas 100 km de distância.
+
+563
+00:41:49,966 --> 00:41:52,298
+Não temos provisão para tanto.
+
+564
+00:41:52,502 --> 00:41:56,302
+Você está gordo. Não precisa disso.
+Vamos andando, pessoal.
+
+565
+00:42:16,826 --> 00:42:19,420
+<i>Coronel John Rico,
+por incompetência de comando...</i>
+
+566
+00:42:19,629 --> 00:42:21,358
+PRISÃO FEDERAL
+DE ALAMO BAY
+
+567
+00:42:21,564 --> 00:42:24,226
+<i>... ataque a um oficial superior,
+e negligência proposital...</i>
+
+568
+00:42:24,433 --> 00:42:28,199
+<i>resultando na morte de milhares
+de soldados sob seu comando...</i>
+
+569
+00:42:28,404 --> 00:42:31,999
+<i>sua sentença é ser enforcado
+até a morte.</i>
+
+570
+00:42:32,208 --> 00:42:33,197
+EFETIVO IMEDIATAMENTE
+
+571
+00:42:37,213 --> 00:42:40,114
+Tem algo a dizer antes da
+execução da sentença?
+
+572
+00:42:40,316 --> 00:42:41,874
+Ande logo com isso, sim?
+
+573
+00:42:46,289 --> 00:42:48,280
+Eu o vejo no inferno.
+
+574
+00:43:20,189 --> 00:43:22,384
+Mas que droga é essa?
+
+575
+00:43:25,995 --> 00:43:27,223
+Seu dia de sorte.
+
+576
+00:43:29,899 --> 00:43:31,958
+Inteligência. Confidencial.
+
+577
+00:43:32,168 --> 00:43:35,228
+Fale e da próxima vez o seu pescoço
+estará pendurado.
+
+578
+00:43:37,340 --> 00:43:38,398
+Vamos andando, herói.
+
+579
+00:43:41,777 --> 00:43:44,371
+Você mesmo
+vai me enforcar, Dix?
+
+580
+00:43:44,580 --> 00:43:47,640
+Talvez eu tenha
+coisas melhores para você fazer.
+
+581
+00:43:47,850 --> 00:43:50,250
+Você deve vir muito aqui,
+não é, Dix?
+
+582
+00:43:50,453 --> 00:43:52,944
+Não sabia que se interessava
+por presos políticos.
+
+583
+00:43:53,155 --> 00:43:55,350
+Eu não.
+Venho com o marechal-do-ar.
+
+584
+00:43:55,558 --> 00:43:58,391
+- Interrogatórios.
+- Anoke gosta de um toque pessoal.
+
+585
+00:43:58,594 --> 00:44:01,427
+Não como você pensa.
+Nada de prisioneiros humanos.
+
+586
+00:44:01,631 --> 00:44:04,566
+O Cérebro que você capturou em P,
+nós o mantivemos aqui.
+
+587
+00:44:05,034 --> 00:44:08,401
+- Ele ainda está vivo?
+- Vivo e bem maior.
+
+588
+00:44:08,604 --> 00:44:10,731
+Ninguém sabe ao certo
+quanto tempo eles vivem.
+
+589
+00:44:10,940 --> 00:44:12,999
+Por que fizeram isso?
+
+590
+00:44:13,209 --> 00:44:15,973
+Anoke é fascinado por essa coisa.
+
+591
+00:44:16,646 --> 00:44:19,274
+Por que minha vida de repente
+vale mais do que uma corda?
+
+592
+00:44:19,482 --> 00:44:22,280
+Por causa do futuro
+da Federação, Johnny.
+
+593
+00:44:22,485 --> 00:44:25,249
+- E de Lola.
+- O que isso tem a ver comigo?
+
+594
+00:44:25,454 --> 00:44:28,821
+- Você é o único em quem eu confio.
+- Por que, amigo?
+
+595
+00:44:29,025 --> 00:44:30,993
+Porque todos pensam que está morto.
+
+596
+00:45:12,101 --> 00:45:13,568
+7 LOCALIZADOS
+
+597
+00:45:13,769 --> 00:45:14,758
+MODO ESCÂNER
+
+598
+00:45:14,970 --> 00:45:16,335
+16 LOCALIZADOS
+
+599
+00:45:18,574 --> 00:45:20,064
+- Capitã?
+- Estou vendo, Jingo.
+
+600
+00:45:21,043 --> 00:45:22,738
+Eu contei 16.
+
+601
+00:45:22,945 --> 00:45:24,207
+Insetos? Onde?
+
+602
+00:45:28,851 --> 00:45:30,910
+- Essa não.
+- Por que eles pararam?
+
+603
+00:45:32,355 --> 00:45:33,344
+Vamos indo.
+
+604
+00:45:38,527 --> 00:45:39,551
+- Bull.
+- O quê?
+
+605
+00:45:39,762 --> 00:45:42,458
+- Você vem comigo.
+- Certo.
+
+606
+00:45:47,636 --> 00:45:48,898
+Eles estão nos reunindo.
+
+607
+00:45:49,538 --> 00:45:52,439
+Por quê?
+Poderiam acabar conosco facilmente.
+
+608
+00:45:52,641 --> 00:45:55,940
+Talvez estejamos sob a graça
+de uma força maior.
+
+609
+00:45:56,746 --> 00:45:58,008
+Acha mesmo, senhor?
+
+610
+00:45:58,581 --> 00:46:00,981
+De coração, Holly.
+
+611
+00:46:16,799 --> 00:46:20,360
+Acha mesmo que estamos protegidos
+por um poder maior?
+
+612
+00:46:20,569 --> 00:46:22,298
+Cantar não machuca.
+
+613
+00:46:22,838 --> 00:46:27,434
+Levanta o espírito e ajuda
+a passar o tempo, não acha?
+
+614
+00:46:35,351 --> 00:46:37,979
+Acho que não estamos mortos,
+mas deveríamos.
+
+615
+00:46:38,621 --> 00:46:40,111
+É.
+
+616
+00:47:11,720 --> 00:47:12,709
+<i>É grande, é mortal.</i>
+
+617
+00:47:12,922 --> 00:47:13,911
+POLÊMICA
+Q-BOMBA DE PLASMA
+
+618
+00:47:14,123 --> 00:47:17,183
+<i>E todos têm uma opinião
+sobre a nova Q-Bomba de Plasma.</i>
+
+619
+00:47:17,393 --> 00:47:20,487
+<i>Políticos e cidadãos estão
+preocupados com uma bomba...</i>
+
+620
+00:47:20,696 --> 00:47:23,824
+<i>a qual dizem ser tão poderosa
+que pode destruir um planeta.</i>
+
+621
+00:47:24,033 --> 00:47:26,558
+<i>A criação de uma arma
+que pode destruir o planeta...</i>
+
+622
+00:47:26,769 --> 00:47:30,933
+<i>no qual estou, não é nada senão
+um precedente perigoso...</i>
+
+623
+00:47:31,140 --> 00:47:33,165
+<i>para toda a raça humana.</i>
+
+624
+00:47:33,375 --> 00:47:34,637
+<i>As pessoas se esqueceram...</i>
+
+625
+00:47:34,844 --> 00:47:37,074
+<i>de quantos planetas
+existem no universo.</i>
+
+626
+00:47:37,279 --> 00:47:40,339
+<i>E o próprio universo
+vive destruindo outros planetas.</i>
+
+627
+00:47:40,549 --> 00:47:43,950
+<i>A Federação não pode decidir
+qual planeta deve ou não viver.</i>
+
+628
+00:47:44,153 --> 00:47:49,022
+<i>O Senhor dá e o Senhor tira.</i>
+
+629
+00:47:49,725 --> 00:47:53,183
+<i>Acha que os Insetos não usariam a
+Bomba de Plasma se tivessem uma?</i>
+
+630
+00:47:53,395 --> 00:47:55,761
+<i>Mas não devíamos
+ser melhores do que os Insetos?</i>
+
+631
+00:47:55,965 --> 00:47:59,366
+<i>É isso aí, mãe.
+Essa é a polêmica da bomba.</i>
+
+632
+00:47:59,568 --> 00:48:01,126
+<i>Gostaria de saber mais?</i>
+
+633
+00:48:01,637 --> 00:48:02,626
+VÁ FROTA
+FAÇA SUA PARTE
+
+634
+00:48:02,838 --> 00:48:03,827
+ALISTE-SE HOJE!
+
+635
+00:48:06,175 --> 00:48:08,871
+Ontem deixei soldados
+em uma zona de combate.
+
+636
+00:48:09,078 --> 00:48:11,103
+Hoje estou indo para
+as colônias exteriores.
+
+637
+00:48:11,313 --> 00:48:12,405
+Sou da Frota.
+
+638
+00:48:12,615 --> 00:48:15,140
+- Eu também sou da Frota.
+- Somos da Frota também.
+
+639
+00:48:15,918 --> 00:48:18,478
+<i>Precisamos de pilotos.
+Precisamos de você.</i>
+
+640
+00:48:18,687 --> 00:48:19,779
+Eu? Sério?
+
+641
+00:48:19,989 --> 00:48:22,480
+<i>Se você é hábil na matemática,
+tem ótimos reflexos...</i>
+
+642
+00:48:22,691 --> 00:48:25,182
+<i>e possui um QI de 8. 1 ou mais,
+precisamos de você agora.</i>
+
+643
+00:48:25,394 --> 00:48:26,520
+<i>Dezesseis anos?
+Não tem problema.</i>
+
+644
+00:48:26,729 --> 00:48:29,027
+<i>Comece a treinar hoje
+para seu futuro, cidadão.</i>
+
+645
+00:48:29,231 --> 00:48:31,791
+Dizem que rapazes não têm
+boas médias. Mas eu tenho.
+
+646
+00:48:32,001 --> 00:48:34,629
+<i>Quando você vai para a Frota,
+não se sabe onde vai parar.</i>
+
+647
+00:48:34,837 --> 00:48:36,134
+Sabe, quando eu era jovem...
+
+648
+00:48:36,338 --> 00:48:39,865
+sonhava em um dia voar
+em uma nave estelar...
+
+649
+00:48:40,075 --> 00:48:42,236
+ou mesmo visitar o Santuário.
+
+650
+00:48:42,444 --> 00:48:44,878
+A Frota me levou até lá.
+
+651
+00:48:45,080 --> 00:48:48,311
+Até que altura você pode ir depende
+de você quando se está na Frota.
+
+652
+00:48:48,517 --> 00:48:51,884
+Então, por que não faz a sua parte
+e se alista hoje?
+
+653
+00:48:52,087 --> 00:48:54,021
+Vejo você na cabine.
+
+654
+00:48:54,223 --> 00:48:56,123
+<i>Gostaria de saber mais?</i>
+
+655
+00:48:58,727 --> 00:49:01,389
+SANTUÁRIO
+LAR DA FROTA FEDERAL
+
+656
+00:49:01,597 --> 00:49:03,121
+LOCALIZAÇÃO: CONFIDENCIAL
+
+657
+00:49:10,873 --> 00:49:12,568
+Bem, John.
+
+658
+00:49:13,509 --> 00:49:15,977
+Sua primeira vez no Santuário.
+
+659
+00:49:21,417 --> 00:49:24,318
+- Então esse é o topo.
+- Isso mesmo.
+
+660
+00:49:26,422 --> 00:49:29,152
+Se os Insetos descobrirem esse lugar,
+eles acabam com a Frota.
+
+661
+00:49:29,358 --> 00:49:33,624
+Sem a Frota, nada de colônias
+exteriores. A infantaria não dá conta.
+
+662
+00:49:33,829 --> 00:49:36,320
+Lá se vai a vizinhança.
+
+663
+00:49:36,532 --> 00:49:38,432
+- Próxima parada, Terra.
+- Isso.
+
+664
+00:49:39,134 --> 00:49:41,728
+Acho que isso faz do Santuário
+o maior segredo da guerra.
+
+665
+00:49:41,937 --> 00:49:44,201
+Nem mesmo o marechal-do-ar
+sabe onde fica.
+
+666
+00:49:45,374 --> 00:49:49,572
+Apenas alguns pilotos estão
+a par dessa informação.
+
+667
+00:49:49,778 --> 00:49:51,302
+Não me diga.
+
+668
+00:49:51,914 --> 00:49:52,938
+Lola é um deles.
+
+669
+00:49:55,517 --> 00:49:58,953
+É. E se não a encontrarmos,
+estamos ferrados.
+
+670
+00:50:01,223 --> 00:50:03,885
+NAVE ESTELAR SHILOH
+CLASSE ATENAS
+
+671
+00:50:04,093 --> 00:50:05,651
+PROJETO MARAUDER
+
+672
+00:50:08,597 --> 00:50:10,827
+Vou mandá-lo para a Zona de
+Quarentena Aracnídea...
+
+673
+00:50:11,033 --> 00:50:12,796
+assim que você estiver pronto.
+
+674
+00:50:13,168 --> 00:50:14,931
+O que sabemos sobre esse planeta?
+
+675
+00:50:15,137 --> 00:50:16,468
+OM-1? Nada.
+
+676
+00:50:16,672 --> 00:50:18,367
+Não temos nem sua posição exata.
+
+677
+00:50:18,574 --> 00:50:20,804
+E quanto ao chamado de socorro?
+Não havia um sinal?
+
+678
+00:50:21,010 --> 00:50:23,342
+Enolo Phid
+não quer resgatar Anoke.
+
+679
+00:50:23,545 --> 00:50:27,481
+- Não entendo.
+- Phid quer ser Anoke.
+
+680
+00:50:27,683 --> 00:50:30,243
+Fico contente
+por só lutar contra Insetos.
+
+681
+00:50:30,452 --> 00:50:32,545
+Vou achar as coordenadas
+e você vai para lá.
+
+682
+00:50:32,755 --> 00:50:34,086
+Entendido.
+
+683
+00:50:34,289 --> 00:50:36,382
+Mas por que tanta certeza
+de que ainda estão vivos?
+
+684
+00:50:36,592 --> 00:50:39,026
+Bem, Lola é difícil de matar.
+
+685
+00:50:40,763 --> 00:50:42,355
+Se essa é uma missão secreta...
+
+686
+00:50:42,564 --> 00:50:45,158
+como vai me arranjar um regimento
+para invadir a ZQA?
+
+687
+00:50:45,367 --> 00:50:48,768
+Um regimento?
+Não chegou nem perto.
+
+688
+00:50:49,338 --> 00:50:51,329
+- Então quantos irão comigo?
+- Sete.
+
+689
+00:50:51,540 --> 00:50:54,338
+- O quê?
+- Isso incluindo você.
+
+690
+00:50:56,078 --> 00:51:00,139
+Está me mandando para um nino de
+Insetos com a unidade básica?
+
+691
+00:51:01,283 --> 00:51:03,945
+Por que não deixou
+que me enforcassem, Dix?
+
+692
+00:51:04,620 --> 00:51:06,554
+Talvez eu devesse.
+
+693
+00:51:08,691 --> 00:51:11,683
+Não se preocupe,
+vou juntar sua equipe agora.
+
+694
+00:51:12,661 --> 00:51:16,654
+É o meu funeral.
+Eu escolho a equipe.
+
+695
+00:51:18,901 --> 00:51:20,095
+Como quiser.
+
+696
+00:51:30,679 --> 00:51:33,910
+Não são de encher os olhos, não é?
+
+697
+00:51:34,450 --> 00:51:37,886
+Bem, não os construímos
+para serem bonitos.
+
+698
+00:51:49,598 --> 00:51:51,065
+Ei, doutor.
+
+699
+00:51:52,568 --> 00:51:56,231
+- Desde quando ele tem religião?
+- Não chamaria exatamente de religião.
+
+700
+00:51:56,438 --> 00:51:59,498
+- Ele é espiritual.
+- É diferente.
+
+701
+00:51:59,708 --> 00:52:02,836
+Há uns dois meses,
+recebi um chamado no meio da noite.
+
+702
+00:52:03,045 --> 00:52:05,036
+Eu não o via fazia uma semana.
+
+703
+00:52:05,247 --> 00:52:08,739
+Ele me disse que tina estado no
+deserto e que havia sido testado.
+
+704
+00:52:08,951 --> 00:52:10,976
+Ele não era ele mesmo.
+
+705
+00:52:11,587 --> 00:52:12,576
+Continue.
+
+706
+00:52:12,788 --> 00:52:15,188
+Bem, todo homem,
+até mesmo grandes homens...
+
+707
+00:52:15,390 --> 00:52:18,985
+passam por momentos de dúvida
+quando estão cansados e com medo.
+
+708
+00:52:19,194 --> 00:52:20,661
+Com medo de quê?
+
+709
+00:52:20,863 --> 00:52:23,832
+Ele me disse que essa guerra
+não iria acabar nunca.
+
+710
+00:52:24,999 --> 00:52:27,126
+E que se continuarmos assim...
+
+711
+00:52:27,335 --> 00:52:30,600
+os Insetos destruirão
+a raça humana.
+
+712
+00:52:30,805 --> 00:52:33,137
+Então ele perdeu o juízo.
+
+713
+00:52:35,110 --> 00:52:36,543
+Extraordinário, dez de dez.
+
+714
+00:52:36,745 --> 00:52:39,179
+Ele teve um ataque.
+Dei a ele um sedativo.
+
+715
+00:52:39,380 --> 00:52:42,213
+No dia seguinte, ele disse que tinha
+conversado com Deus.
+
+716
+00:52:43,752 --> 00:52:47,950
+Se eu dissesse que falei com Deus,
+você me deixaria voar?
+
+717
+00:52:48,156 --> 00:52:49,851
+Eu...
+
+718
+00:52:50,058 --> 00:52:53,186
+O MA está
+incapacitado para o comando?
+
+719
+00:52:54,095 --> 00:52:56,825
+Não me sinto à vontade
+com essa conversa, capitã.
+
+720
+00:52:57,465 --> 00:52:59,990
+Se eu tiver que assumir o comando,
+vou precisar da sua ajuda...
+
+721
+00:53:00,201 --> 00:53:02,066
+pois os outros não vão entender.
+
+722
+00:53:04,205 --> 00:53:06,230
+Nós dois podemos ser enforcados.
+
+723
+00:53:10,478 --> 00:53:12,969
+Sua lealdade é com o MA
+ou com a Federação?
+
+724
+00:53:30,265 --> 00:53:32,426
+Não culpem o cozinheiro, pessoal.
+
+725
+00:53:33,568 --> 00:53:34,933
+Primeiro o MA.
+
+726
+00:53:35,136 --> 00:53:37,127
+Apenas água.
+Bull, pode ficar com o meu.
+
+727
+00:53:37,338 --> 00:53:38,327
+Tem certeza, senhor?
+
+728
+00:53:38,540 --> 00:53:40,838
+Tenho certeza de que
+vamos precisar da sua força.
+
+729
+00:53:41,042 --> 00:53:42,031
+Obrigado, senhor.
+
+730
+00:53:44,212 --> 00:53:48,808
+Se não se importar, podemos fazer
+uma oração antes de comer?
+
+731
+00:53:49,017 --> 00:53:50,450
+É claro.
+
+732
+00:53:54,088 --> 00:53:55,749
+Dr. Wiggs?
+
+733
+00:53:56,958 --> 00:53:59,358
+Capitã Beck, e você?
+
+734
+00:54:00,962 --> 00:54:03,487
+Vou checar o perímetro, senhor.
+
+735
+00:54:06,501 --> 00:54:10,665
+Agradecemos ao Senhor,
+pela comida que vamos receber.
+
+736
+00:54:10,872 --> 00:54:14,205
+Por favor, abençoe-nos
+e olhe por nós.
+
+737
+00:54:14,409 --> 00:54:18,402
+Proteja-nos do mal e nos guie...
+
+738
+00:54:18,613 --> 00:54:20,638
+para que saibamos
+o caminho até o Senhor.
+
+739
+00:54:20,849 --> 00:54:21,838
+Amém.
+
+740
+00:54:22,050 --> 00:54:23,540
+- Amém.
+- Amém.
+
+741
+00:54:36,965 --> 00:54:38,899
+Posso fazer uma pergunta, senhor?
+
+742
+00:54:39,100 --> 00:54:40,328
+Claro, Bull.
+
+743
+00:54:40,535 --> 00:54:43,026
+Eles virão nos procurar,
+não é mesmo, senhor?
+
+744
+00:54:43,504 --> 00:54:44,562
+Por causa do senhor.
+
+745
+00:54:45,039 --> 00:54:48,202
+Estamos em uma missão
+de extrema importância, Bull.
+
+746
+00:54:48,409 --> 00:54:50,775
+Mesmo se não entendermos
+nosso propósito agora.
+
+747
+00:54:51,379 --> 00:54:54,678
+Sim, senhor.
+Mas seremos resgatados.
+
+748
+00:54:54,883 --> 00:54:56,942
+Quero dizer,
+o senhor sabe disso, não sabe?
+
+749
+00:54:57,151 --> 00:54:59,051
+Pois o senhor é vidente.
+
+750
+00:55:00,321 --> 00:55:06,055
+Sei como as pessoas ao meu redor
+se sentem, e às vezes, falo com elas...
+
+751
+00:55:06,261 --> 00:55:08,752
+mas ninguém pode
+prever o futuro, Bull.
+
+752
+00:55:29,584 --> 00:55:32,018
+Eu tenho uma pergunta para você.
+
+753
+00:55:32,220 --> 00:55:33,209
+Para todos vocês.
+
+754
+00:55:37,492 --> 00:55:38,720
+Vocês têm fé?
+
+755
+00:55:42,297 --> 00:55:43,286
+Eu acredito.
+
+756
+00:55:43,498 --> 00:55:46,433
+Sei disso, Holly.
+Sua fé é clara e serena.
+
+757
+00:55:49,704 --> 00:55:51,001
+Eu também quero acreditar, senhor.
+
+758
+00:55:52,807 --> 00:55:54,274
+Quero mesmo.
+
+759
+00:55:55,243 --> 00:55:57,905
+Bem, já é um começo, Bull.
+
+760
+00:56:01,316 --> 00:56:04,012
+Dr. Wiggs, e quanto ao senhor?
+
+761
+00:56:07,388 --> 00:56:09,686
+Eu acredito em você, senhor.
+
+762
+00:56:12,026 --> 00:56:14,654
+Bem, pois tome cuidado, Dr. Wiggs.
+
+763
+00:56:16,264 --> 00:56:18,824
+Sabe, sou apenas um homem.
+
+764
+00:56:21,536 --> 00:56:22,969
+Terremoto.
+
+765
+00:56:24,906 --> 00:56:26,339
+Estão chegando!
+
+766
+00:56:27,475 --> 00:56:28,464
+Estão chegando!
+
+767
+00:57:20,528 --> 00:57:23,224
+Socorro! Bull!
+
+768
+00:57:23,431 --> 00:57:25,899
+- Jingo, Jingo.
+- Segure-se.
+
+769
+00:57:27,235 --> 00:57:28,668
+Segure-se, Jingo.
+
+770
+00:57:55,596 --> 00:57:56,995
+Onde está o Wiggs?
+
+771
+00:57:57,498 --> 00:57:59,659
+Dr. Wiggs?
+
+772
+00:57:59,867 --> 00:58:01,732
+Dr. Wiggs?
+
+773
+00:58:01,936 --> 00:58:03,267
+Wiggs?
+
+774
+00:58:03,471 --> 00:58:05,063
+Doutor?
+
+775
+00:58:08,376 --> 00:58:10,367
+Wiggs?
+
+776
+00:58:11,179 --> 00:58:12,612
+Doutor?
+
+777
+00:58:12,814 --> 00:58:14,645
+É muito bom vê-los de novo, tropa.
+
+778
+00:58:14,849 --> 00:58:17,340
+Vocês agora fazem parte
+de uma missão secreta.
+
+779
+00:58:17,552 --> 00:58:21,010
+Falem disso e eles os enforcarão.
+Entenderam?
+
+780
+00:58:21,222 --> 00:58:23,281
+Entendemos, senhor.
+
+781
+00:58:23,491 --> 00:58:26,358
+O que é exatamente
+esse programa Marauder, senhor?
+
+782
+00:58:26,561 --> 00:58:31,589
+- Não tenho liberdade para dizer.
+- Poderemos sobreviver, senhor?
+
+783
+00:58:33,267 --> 00:58:35,326
+Vamos descobrir, soldado.
+
+784
+00:58:35,536 --> 00:58:37,800
+Sabe o que eu acho, senhor?
+
+785
+00:58:40,274 --> 00:58:43,869
+- O quê, sargento?
+- Acho que é um bom dia para morrer.
+
+786
+00:58:44,078 --> 00:58:47,206
+Excelente!
+Que bom que se sente assim.
+
+787
+00:58:47,415 --> 00:58:51,181
+Pois hoje, vamos para a
+Zona de Quarentena Aracnídea.
+
+788
+00:58:51,385 --> 00:58:55,651
+- Preparem-se, tropa.
+- Senhor. Sim, senhor.
+
+789
+00:59:03,231 --> 00:59:05,461
+Hauzer para Lamb.
+
+790
+00:59:07,368 --> 00:59:10,132
+<i>Desculpe, general,
+a Tenente Lamb foi transferida.</i>
+
+791
+00:59:10,338 --> 00:59:11,327
+Para onde?
+
+792
+00:59:12,673 --> 00:59:15,904
+<i>Sinto muito, senhor,
+não posso falar.</i>
+
+793
+00:59:20,381 --> 00:59:22,144
+PROCURANDO
+
+794
+00:59:26,921 --> 00:59:29,082
+STATUS: AGUARDANDO EXECUÇÃO
+ACUSAÇÃO: REBELlÃO
+
+795
+00:59:29,290 --> 00:59:30,951
+APROVAÇÃO:
+ALMIRANTE EMOLO PHID
+
+796
+00:59:31,559 --> 00:59:32,617
+O quê?
+
+797
+00:59:36,464 --> 00:59:40,298
+- Dix, entre.
+- Você vai enforcar a Lamb?
+
+798
+00:59:41,068 --> 00:59:44,333
+A ruivina, dos olhos tristes,
+da boca grande?
+
+799
+00:59:44,539 --> 00:59:45,836
+Por quê?
+
+800
+00:59:46,040 --> 00:59:48,270
+Isso é o que acontece
+com traidores, Dix.
+
+801
+00:59:48,476 --> 00:59:50,967
+Parece que sabe muito
+sobre traidores, almirante.
+
+802
+00:59:51,179 --> 00:59:53,670
+Talvez eu esteja
+olhando para um agora mesmo.
+
+803
+00:59:54,782 --> 00:59:56,181
+Então vai me enforcar também?
+
+804
+00:59:56,384 --> 00:59:58,579
+Isso vem acontecendo
+com muita freqüência hoje em dia.
+
+805
+00:59:58,786 --> 01:00:01,016
+O que vai acontecer
+quando o conselho descobrir...
+
+806
+01:00:01,222 --> 01:00:03,383
+que você omitiu um pedido de
+resgate do marechal-do-ar?
+
+807
+01:00:03,591 --> 01:00:05,855
+E quem exatamente contaria
+para eles?
+
+808
+01:00:07,762 --> 01:00:13,029
+Você me dá as coordenadas
+do Planeta OM-1, renuncia...
+
+809
+01:00:13,267 --> 01:00:15,235
+e eu fico de boca fechada.
+
+810
+01:00:15,436 --> 01:00:16,994
+Eu sinto muito, Dix.
+
+811
+01:00:17,772 --> 01:00:20,639
+Mas em breve,
+Omar Anoke estará morto...
+
+812
+01:00:20,841 --> 01:00:22,866
+será honrado como herói
+da Federação...
+
+813
+01:00:23,077 --> 01:00:25,511
+e eu serei a próxima
+marechal-do-ar.
+
+814
+01:00:27,648 --> 01:00:29,206
+Só sobre o meu cadáver.
+
+815
+01:00:29,850 --> 01:00:32,580
+É o seu último pedido, general?
+
+816
+01:00:43,998 --> 01:00:47,331
+REDE FEDERAL
+
+817
+01:00:47,535 --> 01:00:49,025
+NOTÍCIAS DE ÚLTIMA HORA
+
+818
+01:00:49,237 --> 01:00:51,762
+<i>Membros do Conselho Federal
+foram reunidos hoje...</i>
+
+819
+01:00:51,973 --> 01:00:54,168
+<i>pelo Marechal-do-Ar Anoke,
+para seu relatório semanal.</i>
+
+820
+01:00:54,375 --> 01:00:56,366
+<i>Como vai indo, senhor?
+É bom vê-lo.</i>
+
+821
+01:00:56,577 --> 01:01:00,570
+<i>E então... O desastre.</i>
+
+822
+01:01:01,382 --> 01:01:05,216
+<i>Uma bomba levada por um membro
+da Coalizão de Paz Goniff explodiu.</i>
+
+823
+01:01:05,786 --> 01:01:06,844
+<i>Entre os desaparecidos...</i>
+
+824
+01:01:07,054 --> 01:01:11,388
+<i>O Marechal-do-Ar Anoke e o seu leal
+assistente, o General Dix Hauzer.</i>
+
+825
+01:01:13,027 --> 01:01:16,622
+Hoje, cada um de nós...
+
+826
+01:01:16,831 --> 01:01:19,629
+foi atacado por um homem...
+
+827
+01:01:19,834 --> 01:01:22,394
+que exigia a paz a qualquer custo.
+
+828
+01:01:23,037 --> 01:01:26,131
+Um homem
+que se autodenominha cidadão.
+
+829
+01:01:26,340 --> 01:01:29,434
+Um homem que não é melhor
+do que um Inseto.
+
+830
+01:01:29,644 --> 01:01:32,807
+<i>- Mais um dia de luta...
+- Esse homem é Elmo Goniff...</i>
+
+831
+01:01:33,014 --> 01:01:35,778
+<i>que se auto-intitulava pacifista
+e que virou terrorista.</i>
+
+832
+01:01:35,983 --> 01:01:38,884
+<i>E hoje, ele e outros membros
+da Coalizão de Paz Goniff...</i>
+
+833
+01:01:39,086 --> 01:01:42,249
+<i>são procurados pelo
+bombardeio ao conselho.</i>
+
+834
+01:01:42,456 --> 01:01:44,856
+<i>E, cidadão, você pode ajudar.</i>
+
+835
+01:01:45,459 --> 01:01:48,690
+<i>- Conheça seus vizinhos.
+- Desligue essa...</i>
+
+836
+01:01:48,896 --> 01:01:51,126
+<i>- Olhe mais uma vez, cidadão.
+- Quem, eu?</i>
+
+837
+01:01:51,332 --> 01:01:53,630
+<i>Você pode morar
+ao lado de uma grande recompensa.</i>
+
+838
+01:01:53,834 --> 01:01:57,668
+<i>Se você vir algo, diga algo.
+Gostaria de saber mais?</i>
+
+839
+01:02:00,641 --> 01:02:02,370
+Estamos na
+Zona de Quarentena Aracnídea.
+
+840
+01:02:02,576 --> 01:02:04,840
+Sabe o que isso quer dizer?
+Isso é um planeta de Insetos.
+
+841
+01:02:05,046 --> 01:02:06,980
+Eles podem vir atrás de nós
+a qualquer minuto, não é?
+
+842
+01:02:07,181 --> 01:02:10,446
+- Por cima, por baixo, não sabemos.
+- Poupe o fôlego, Jingo.
+
+843
+01:02:10,651 --> 01:02:13,620
+Certo, mas eles podem estar bem
+debaixo de nós. Não dá para saber.
+
+844
+01:02:13,821 --> 01:02:16,119
+- Você não sabe, não é?
+- Preste atenção, está bem?
+
+845
+01:02:16,324 --> 01:02:17,723
+Eu digo quando correr.
+
+846
+01:02:17,925 --> 01:02:20,917
+Não, não pode dizer quando correr,
+porque eu sou o cozinheiro, certo?
+
+847
+01:02:21,128 --> 01:02:23,119
+Recebo pequenas ordens,
+não sou...
+
+848
+01:02:25,232 --> 01:02:27,632
+Recomponha-se.
+
+849
+01:02:28,336 --> 01:02:29,325
+Você é uma filha-da-mãe.
+
+850
+01:02:37,078 --> 01:02:38,340
+Vamos andando.
+
+851
+01:02:46,721 --> 01:02:50,714
+- Está desperdiçando água, Jingo.
+- Eu a odeio.
+
+852
+01:03:10,344 --> 01:03:13,211
+- Mina Nossa.
+- Está bem, Holly.
+
+853
+01:03:14,682 --> 01:03:16,274
+Já chega, vou dar o fora daqui.
+
+854
+01:03:16,484 --> 01:03:18,418
+Segure as pontas, Jingo.
+É uma ordem.
+
+855
+01:03:21,889 --> 01:03:24,084
+Capitã Beck,
+precisamos conversar.
+
+856
+01:03:27,261 --> 01:03:28,319
+Estamos ferrados.
+
+857
+01:03:28,529 --> 01:03:30,190
+É exatamente o que venho dizendo.
+
+858
+01:03:30,398 --> 01:03:32,559
+Não devia falar assim.
+Isso é uma blasfêmia.
+
+859
+01:03:32,767 --> 01:03:36,294
+Você é uma comissária de bordo,
+então pare com isso.
+
+860
+01:03:38,072 --> 01:03:40,040
+Jamais deveríamos ter saído da praia.
+
+861
+01:03:40,241 --> 01:03:41,606
+Isso foi um erro.
+
+862
+01:03:43,043 --> 01:03:44,476
+Agora temos guerreiros...
+
+863
+01:03:46,213 --> 01:03:49,239
+terremotos, e perdemos o doutor.
+
+864
+01:03:49,450 --> 01:03:52,942
+Vocês se esqueceram disso?
+E a culpa é sua.
+
+865
+01:03:54,288 --> 01:03:56,085
+Sabe, se tivéssemos
+ficado na praia...
+
+866
+01:03:56,290 --> 01:03:58,588
+podíamos estar deitados na areia.
+
+867
+01:03:58,793 --> 01:04:02,354
+E se os Insetos aparecessem,
+bastava ir para a água.
+
+868
+01:04:02,563 --> 01:04:06,260
+Isto é, Insetos não nadam, certo?
+Nadam?
+
+869
+01:04:06,500 --> 01:04:08,468
+- Jingo, atrás de você.
+- Jingo, cuidado.
+
+870
+01:04:13,374 --> 01:04:15,103
+Sei. Muito engraçado.
+
+871
+01:04:15,976 --> 01:04:19,468
+Querem saber? Vão se ferrar.
+Vou voltar para a praia.
+
+872
+01:04:19,814 --> 01:04:20,803
+- Jingo.
+- Jingo.
+
+873
+01:04:36,297 --> 01:04:37,889
+Jingo, não.
+
+874
+01:04:38,098 --> 01:04:39,531
+Agüente firme, Jingo.
+
+875
+01:04:43,137 --> 01:04:44,502
+Droga.
+
+876
+01:04:56,350 --> 01:04:58,079
+Imbecil.
+
+877
+01:04:59,987 --> 01:05:01,318
+Está indo embora.
+
+878
+01:05:02,056 --> 01:05:05,150
+Não atire. Poupe munição.
+
+879
+01:05:05,392 --> 01:05:08,293
+- Jingo, saia já daí.
+- Sem chance.
+
+880
+01:05:08,496 --> 01:05:10,464
+Vamos ficar lá com ele.
+Vamos.
+
+881
+01:05:10,664 --> 01:05:14,498
+Chefe, isso não são rochas.
+Saia agora mesmo daí.
+
+882
+01:05:14,702 --> 01:05:19,105
+- Venha, Holly, vamos. Senhor, vamos.
+- Não, meus amigos.
+
+883
+01:05:19,306 --> 01:05:20,534
+Ele pertence a Deus.
+
+884
+01:05:22,877 --> 01:05:24,208
+Do que você está falando?
+
+885
+01:05:49,870 --> 01:05:51,428
+Não.
+
+886
+01:06:11,892 --> 01:06:13,291
+Não, não.
+
+887
+01:06:13,494 --> 01:06:15,086
+Não.
+
+888
+01:06:26,774 --> 01:06:28,435
+Onde está o seu Deus agora?
+
+889
+01:06:33,347 --> 01:06:34,541
+Vamos.
+
+890
+01:06:34,748 --> 01:06:37,842
+Mesmo que não acredite, capitã,
+Ele está ouvindo.
+
+891
+01:06:38,052 --> 01:06:42,216
+- E logo mais estaremos a salvo.
+- Acredita mesmo nisso, senhor?
+
+892
+01:06:43,824 --> 01:06:45,724
+Acredito, Holly.
+
+893
+01:06:47,194 --> 01:06:49,253
+Acredito.
+
+894
+01:06:56,570 --> 01:06:57,730
+Como sabe?
+
+895
+01:06:57,938 --> 01:07:01,339
+Porque, mesmo agora,
+Ele fala comigo, Capitã Beck.
+
+896
+01:07:02,242 --> 01:07:05,302
+Ele fala comigo mesmo agora.
+
+897
+01:07:19,493 --> 01:07:22,087
+Muito bem, prestem atenção.
+O equipamento que vão operar...
+
+898
+01:07:22,296 --> 01:07:24,787
+se associa diretamente
+com o sistema nervoso de vocês.
+
+899
+01:07:24,999 --> 01:07:26,933
+Isso é demais, senhor.
+
+900
+01:07:28,068 --> 01:07:29,592
+Por favor, tirem suas roupas.
+
+901
+01:07:40,014 --> 01:07:42,175
+O que vai fazer
+se não comprar a fazenda?
+
+902
+01:07:42,383 --> 01:07:45,181
+Tirar uma licença.
+Talvez possamos voltar para casa.
+
+903
+01:07:45,386 --> 01:07:46,785
+Casa? O que é isso?
+
+904
+01:07:46,987 --> 01:07:50,855
+Paz e tranqüilidade, família.
+Lembra?
+
+905
+01:07:51,058 --> 01:07:52,958
+É, isso é tudo o que quero
+quando essa história acabar.
+
+906
+01:07:53,527 --> 01:07:56,963
+Não vejo a hora de isso terminhar
+para voltar a viver.
+
+907
+01:07:57,164 --> 01:07:58,722
+Ninguém contou a vocês, sargentos?
+
+908
+01:07:58,932 --> 01:08:01,196
+Infantaria só é boa para morrer.
+
+909
+01:08:01,769 --> 01:08:03,794
+Eles só precisam
+de uma arma maior...
+
+910
+01:08:04,004 --> 01:08:06,370
+assim acabamos com isso
+e vamos para casa.
+
+911
+01:08:06,573 --> 01:08:10,134
+Isso mesmo. Adeus, Insetos.
+
+912
+01:08:10,344 --> 01:08:13,313
+O que vai fazer
+quando essa guerra acabar, senhor?
+
+913
+01:08:13,514 --> 01:08:16,972
+Do que estão falando?
+Essa guerra jamais vai acabar.
+
+914
+01:08:35,135 --> 01:08:37,035
+<i>Em sua posição, número dois.</i>
+
+915
+01:08:44,078 --> 01:08:46,376
+Acho que é por isso que a mãe dele
+o chamava de Minhoca.
+
+916
+01:08:48,582 --> 01:08:51,312
+Preparem-se para uma
+tomografia espectral completa.
+
+917
+01:08:52,086 --> 01:08:54,054
+<i>Quinona, cinco por cinco.</i>
+
+918
+01:08:58,392 --> 01:08:59,723
+<i>Começando Gama Jetta Bonza.</i>
+
+919
+01:09:22,416 --> 01:09:23,883
+INTERFACE CIBERNÉTICA
+COMPLETA
+
+920
+01:09:24,084 --> 01:09:25,073
+EQUIPE MARAUDER PRONTA
+
+921
+01:09:27,254 --> 01:09:29,654
+INSTALAÇÃO SUBTERRÂNEA
+DE PESQUISA, ALAMO BAY
+
+922
+01:09:32,025 --> 01:09:36,189
+Você participou dos interrogatórios
+do Anoke com o Cérebro, general?
+
+923
+01:09:36,396 --> 01:09:37,385
+Não.
+
+924
+01:09:37,598 --> 01:09:39,793
+Então você não sabe sobre
+os efeitos colaterais?
+
+925
+01:09:40,534 --> 01:09:42,627
+Que efeitos colaterais?
+
+926
+01:09:43,470 --> 01:09:46,200
+Parece que qualquer um que passar
+muito tempo com aquele Inseto...
+
+927
+01:09:46,406 --> 01:09:50,740
+sofre efeitos nocivos à saúde,
+tanto físicos como psicológicos.
+
+928
+01:09:50,944 --> 01:09:53,708
+- Não o marechal-do-ar.
+- É o que parece.
+
+929
+01:09:53,914 --> 01:09:56,781
+A verdade é que não entendemos
+as habilidades do Cérebro.
+
+930
+01:10:11,298 --> 01:10:14,665
+- Senhor.
+- Bem-vinda à Área 6, almirante.
+
+931
+01:10:15,769 --> 01:10:18,533
+- Apenas a tripulação.
+- Sim, senhor.
+
+932
+01:10:18,739 --> 01:10:22,266
+<i>Toda tripulação não autorizada,
+saia da Área 6 imediatamente.</i>
+
+933
+01:10:22,709 --> 01:10:25,974
+<i>Toda tripulação não autorizada,
+saia da Área 6 imediatamente.</i>
+
+934
+01:10:30,584 --> 01:10:33,781
+Então, general, até que ponto
+você conhecia o marechal-do-ar?
+
+935
+01:10:33,987 --> 01:10:36,421
+Trabalhava com ele todos os dias.
+
+936
+01:10:40,227 --> 01:10:42,286
+Então soube da religião dele.
+
+937
+01:10:43,063 --> 01:10:45,293
+- Do que está falando?
+- General.
+
+938
+01:10:45,499 --> 01:10:48,263
+Acho que há uma coisa
+que você deveria ver.
+
+939
+01:10:51,772 --> 01:10:53,967
+Execute o arquivo Anoke.
+
+940
+01:10:57,444 --> 01:11:00,504
+Essa é uma filmagem de vigilância
+de Anoke com o Cérebro.
+
+941
+01:11:00,747 --> 01:11:02,237
+Descobrimos isto recentemente.
+
+942
+01:11:02,449 --> 01:11:06,408
+Eles estão ligados por meios
+psíquicos. Eles se comunicam.
+
+943
+01:11:06,620 --> 01:11:08,815
+<i>Eu entendo.</i>
+
+944
+01:11:09,756 --> 01:11:12,020
+<i>E estou aqui
+como seu servo, Behemecoytal.</i>
+
+945
+01:11:12,926 --> 01:11:16,885
+- Essa coisa tem um nome?
+- Tem. Mas não é esse Inseto.
+
+946
+01:11:17,097 --> 01:11:20,328
+Behemecoytal é provavelmente
+um Inseto nunca visto antes.
+
+947
+01:11:20,534 --> 01:11:25,096
+Uma inteligência superior de
+Aracnídeo originado no planeta OM-1.
+
+948
+01:11:26,506 --> 01:11:27,495
+OM-1?
+
+949
+01:11:27,708 --> 01:11:30,074
+Acreditamos que esse Cérebro
+tenha permitido ser capturado.
+
+950
+01:11:30,310 --> 01:11:33,074
+Para fornecer inteligência
+do coração da Federação.
+
+951
+01:11:33,280 --> 01:11:35,942
+E Anoke usou o Cérebro para se
+comunicar com esse Behemecoytal.
+
+952
+01:11:36,149 --> 01:11:37,377
+Um Inseto que ele considera Deus.
+
+953
+01:11:37,584 --> 01:11:40,610
+<i>Sim, Roku San sucumbirá
+como prova de minha fé.</i>
+
+954
+01:11:40,821 --> 01:11:43,551
+<i>Depois conversamos sobre a paz.</i>
+
+955
+01:11:44,358 --> 01:11:46,758
+Anoke foi o responsável
+por Roku San?
+
+956
+01:11:47,995 --> 01:11:50,056
+Ele tinha os códigos
+para fechar as cercas.
+
+957
+01:11:50,450 --> 01:11:53,413
+Fez um pacto com o Inseto
+para deixar Roku San sem defesa.
+
+958
+01:11:53,614 --> 01:11:57,014
+E por causa de sua conversão...
+
+959
+01:11:57,715 --> 01:12:01,915
+ele se tornou propriedade dos Insetos
+e uma grande dor de cabeça para nós.
+
+960
+01:12:07,138 --> 01:12:09,638
+- Amizade?
+- Não se pode ser amigo de um Inseto.
+
+961
+01:12:11,069 --> 01:12:11,969
+Por isso vamos acabar com ele...
+
+962
+01:12:12,018 --> 01:12:14,118
+vamos desmembrá-lo,
+e descobrir o que ele sabe.
+
+963
+01:12:23,112 --> 01:12:24,773
+Feche a retenção.
+
+964
+01:13:12,781 --> 01:13:15,249
+Almirante, você está bem?
+
+965
+01:13:15,784 --> 01:13:17,547
+Estou.
+
+966
+01:13:19,053 --> 01:13:20,680
+Sim.
+
+967
+01:13:20,889 --> 01:13:22,618
+Olhe só para ele.
+
+968
+01:13:22,824 --> 01:13:25,816
+O homem mais poderoso da galáxia
+encontra Deus...
+
+969
+01:13:26,027 --> 01:13:27,995
+e o que ele faz?
+
+970
+01:13:28,196 --> 01:13:29,823
+Exatamente o que lhe é pedido.
+
+971
+01:13:30,532 --> 01:13:32,159
+Ele é um Inseto.
+
+972
+01:13:32,367 --> 01:13:36,064
+Não pensa, não protesta,
+não se rebela.
+
+973
+01:13:36,638 --> 01:13:39,471
+Esse é o tipo de atitude que
+vence guerras.
+
+974
+01:13:39,941 --> 01:13:41,909
+Sabe, Dix...
+
+975
+01:13:42,410 --> 01:13:44,640
+Acho que esses Insetos
+estão planejando algo.
+
+976
+01:13:49,784 --> 01:13:53,311
+Isso poderia ser
+a maior arma de todas.
+
+977
+01:13:59,661 --> 01:14:01,652
+Como ele faz isso?
+
+978
+01:14:01,863 --> 01:14:04,798
+Isso é fé, Bull.
+É isso o que ela faz para um homem.
+
+979
+01:14:04,999 --> 01:14:06,591
+Dê um tempo.
+
+980
+01:14:06,801 --> 01:14:09,361
+Fé é mais poderosa do que
+uma bomba de plasma.
+
+981
+01:14:09,571 --> 01:14:11,038
+Sem fé, você não é ninguém.
+
+982
+01:14:11,239 --> 01:14:14,640
+Por isso não estou mais
+lhe dando ouvidos, capitã.
+
+983
+01:14:16,110 --> 01:14:20,740
+Holly, se sairmos daqui,
+queria saber se...
+
+984
+01:14:22,350 --> 01:14:23,874
+Bem...
+
+985
+01:14:26,154 --> 01:14:28,884
+O que foi, Bull?
+
+986
+01:14:30,358 --> 01:14:32,622
+Você se casaria com um velho
+desmiolado como eu?
+
+987
+01:14:33,328 --> 01:14:35,853
+Só se for na igreja, Bull.
+
+988
+01:14:36,064 --> 01:14:37,691
+Está falando sério?
+
+989
+01:14:38,132 --> 01:14:41,329
+Aceite Deus, então eu serei sua.
+
+990
+01:14:45,173 --> 01:14:47,141
+Para que viemos aqui?
+
+991
+01:14:47,675 --> 01:14:49,472
+Está aqui.
+
+992
+01:14:54,482 --> 01:14:57,815
+Não duvidei
+nem por um segundo, senhor.
+
+993
+01:14:58,019 --> 01:15:00,886
+Se antes eu não acreditava,
+agora acredito.
+
+994
+01:15:01,089 --> 01:15:04,115
+- Querida, tudo ficará bem.
+- Tudo ficará bem, Bull.
+
+995
+01:15:04,993 --> 01:15:07,427
+E vocês saberão o nome de Deus.
+
+996
+01:15:07,629 --> 01:15:09,995
+O Deus verdadeiro.
+
+997
+01:15:10,198 --> 01:15:11,495
+Behemecoytal.
+
+998
+01:15:12,767 --> 01:15:14,826
+Cérebro dos Cérebros.
+
+999
+01:15:15,537 --> 01:15:18,870
+- Beheme... O quê?
+- Behemecoytal.
+
+1000
+01:15:19,073 --> 01:15:22,565
+Ele está aqui.
+Está em toda parte.
+
+1001
+01:15:23,444 --> 01:15:27,437
+Venham, vamos descansar
+e esperar sua chegada.
+
+1002
+01:15:29,617 --> 01:15:32,882
+Dizem que Deus tem muitos nomes,
+mas esse eu nunca ouvi.
+
+1003
+01:15:33,087 --> 01:15:36,113
+Bem, querida, ele é o marechal-do-ar.
+Sabe muito mais do que nós.
+
+1004
+01:15:36,324 --> 01:15:37,689
+Ele está falando de um Inseto.
+
+1005
+01:15:38,159 --> 01:15:39,888
+Ele acha que Deus é um Inseto?
+
+1006
+01:15:40,094 --> 01:15:43,791
+Ele assumiu uma religião.
+A religião deles.
+
+1007
+01:15:43,998 --> 01:15:46,796
+- Religião dos Insetos?
+- Isso é loucura.
+
+1008
+01:15:47,001 --> 01:15:48,434
+É blasfêmia.
+
+1009
+01:15:49,504 --> 01:15:51,495
+O que faremos agora?
+
+1010
+01:15:52,407 --> 01:15:53,704
+Talvez devêssemos matá-lo.
+
+1011
+01:15:54,943 --> 01:15:59,243
+Por quê, porque ele está louco? Ou
+porque ele crê em Deus como você?
+
+1012
+01:16:02,250 --> 01:16:05,117
+É o Deus errado.
+
+1013
+01:16:51,566 --> 01:16:55,127
+- Vigie a porta.
+- Não sou soldado.
+
+1014
+01:16:55,336 --> 01:16:58,032
+Saudações, cidadã.
+
+1015
+01:17:23,064 --> 01:17:24,998
+Com licença, senhor.
+
+1016
+01:17:37,345 --> 01:17:39,813
+- O que deu errado?
+- Vazamento de ar.
+
+1017
+01:17:40,014 --> 01:17:41,413
+A nave pousou sozinha.
+
+1018
+01:17:43,084 --> 01:17:45,712
+Morreram antes
+de chegarem na atmosfera.
+
+1019
+01:18:05,273 --> 01:18:07,707
+Serra Mike Uniforme
+para Frota de Resgate.
+
+1020
+01:18:08,209 --> 01:18:10,439
+Responda, Frota.
+
+1021
+01:18:13,681 --> 01:18:16,582
+Serra Mike Uniforme
+para Frota de Resgate. Responda.
+
+1022
+01:18:16,784 --> 01:18:19,252
+Poderíamos entrar em órbita se eu
+resolver o problema do oxigênio.
+
+1023
+01:18:19,454 --> 01:18:21,615
+Então resolva, chefe.
+
+1024
+01:18:22,223 --> 01:18:24,691
+Serra Mike Uniforme
+para Frota de Resgate.
+
+1025
+01:18:24,892 --> 01:18:26,382
+Responda.
+
+1026
+01:18:27,195 --> 01:18:31,029
+<i>Serra Mike Uniforme,
+aqui é a Frota de Resgate, câmbio.</i>
+
+1027
+01:18:31,232 --> 01:18:34,463
+Pedido prioritário para buscarem
+no Planeta Oscar Mike Um...
+
+1028
+01:18:34,669 --> 01:18:37,297
+o MA e mais três sobreviventes.
+
+1029
+01:19:44,472 --> 01:19:45,496
+Holly, não se mexa.
+
+1030
+01:19:49,177 --> 01:19:50,940
+Vamos, querida.
+
+1031
+01:19:52,146 --> 01:19:54,410
+Ande, querida.
+
+1032
+01:20:06,894 --> 01:20:08,623
+Bull.
+
+1033
+01:20:17,104 --> 01:20:19,197
+Não!
+
+1034
+01:20:19,640 --> 01:20:21,870
+Não!
+
+1035
+01:20:22,743 --> 01:20:23,801
+Está em toda parte.
+
+1036
+01:20:24,011 --> 01:20:27,071
+- É o Behemecoytal.
+- Não, é o inferno.
+
+1037
+01:20:27,281 --> 01:20:29,579
+- Venha, Holly.
+- Estamos no inferno!
+
+1038
+01:20:29,784 --> 01:20:32,048
+Saia da porta, Holly.
+
+1039
+01:20:37,191 --> 01:20:40,024
+Talvez não possamos
+entrar em órbita.
+
+1040
+01:20:52,306 --> 01:20:55,207
+- Mas vamos sair daqui.
+- Temos que ficar aqui, capitã.
+
+1041
+01:20:55,409 --> 01:20:56,933
+Não, senhor,
+vamos embora desse lugar.
+
+1042
+01:22:10,685 --> 01:22:13,848
+Ah, mestre. Senhor.
+
+1043
+01:22:14,488 --> 01:22:17,082
+O dia em que fico diante
+do Senhor chegou.
+
+1044
+01:22:17,291 --> 01:22:19,589
+Que nossa comunhão comece.
+
+1045
+01:22:23,864 --> 01:22:25,126
+Isso.
+
+1046
+01:22:25,599 --> 01:22:27,567
+Isso.
+
+1047
+01:22:27,802 --> 01:22:30,293
+É hora de falar.
+
+1048
+01:22:31,138 --> 01:22:32,469
+Jingo, é você?
+
+1049
+01:22:33,174 --> 01:22:37,975
+Ele só fala por nós, assim podemos
+falar com vocês como homem.
+
+1050
+01:22:38,179 --> 01:22:42,172
+Dessa forma você se sente mais
+à vontade entre a sua raça.
+
+1051
+01:22:42,984 --> 01:22:46,647
+Entre seus leais
+conselheiros e criados...
+
+1052
+01:22:46,854 --> 01:22:48,981
+os quais fizemos acreditar.
+
+1053
+01:22:50,491 --> 01:22:52,391
+Obrigado, Senhor.
+
+1054
+01:22:52,994 --> 01:22:55,121
+Por tomar conta de mim...
+
+1055
+01:22:55,329 --> 01:22:58,890
+por me encher de amor, alegria
+e confiança...
+
+1056
+01:22:59,100 --> 01:23:03,434
+para que possamos criar um grande
+e novo entendimento.
+
+1057
+01:23:03,637 --> 01:23:06,299
+Você estará conosco.
+
+1058
+01:23:06,907 --> 01:23:08,704
+Assim posso conhecê-lo.
+
+1059
+01:23:08,909 --> 01:23:11,343
+Vai saber o que sabemos.
+
+1060
+01:23:14,448 --> 01:23:18,748
+E o Senhor virá a me conhecer
+e através de mim...
+
+1061
+01:23:18,953 --> 01:23:21,717
+toda a raça humana.
+
+1062
+01:23:22,390 --> 01:23:23,379
+O que está fazendo?
+
+1063
+01:23:23,591 --> 01:23:26,185
+Estou aqui para negociar
+a paz com seres superiores a nós.
+
+1064
+01:23:26,394 --> 01:23:28,555
+- O quê? Uma conciliação?
+- Não, Capitã Beck.
+
+1065
+01:23:28,763 --> 01:23:31,823
+A sobrevivência da raça humana.
+Seremos todos salvos.
+
+1066
+01:23:36,237 --> 01:23:39,434
+Perdoe-me.
+Meu povo tem muito para aprender.
+
+1067
+01:23:39,640 --> 01:23:45,579
+- Eles são receosos e...
+- Assim como você era, Anoke.
+
+1068
+01:23:45,780 --> 01:23:47,372
+Eu era fraco.
+
+1069
+01:23:47,581 --> 01:23:52,143
+Quando você pediu a vida de tantos
+em Roku San, eu tive dúvidas.
+
+1070
+01:23:52,353 --> 01:23:54,878
+Mas agora eu entendo que
+grandes realizações...
+
+1071
+01:23:55,089 --> 01:23:57,557
+exigem grandes sacrifícios.
+
+1072
+01:23:57,758 --> 01:23:59,555
+Você deu a eles Roku San.
+
+1073
+01:24:01,729 --> 01:24:02,923
+Traidor.
+
+1074
+01:24:11,172 --> 01:24:13,766
+Dentro daquela mulher
+vai encontrar o Santuário.
+
+1075
+01:24:13,974 --> 01:24:17,466
+Eu lhe dei a chave que acabará com
+esse conflito de uma vez por todas...
+
+1076
+01:24:17,678 --> 01:24:20,579
+para que sua lei domine
+e que o paraíso...
+
+1077
+01:24:20,781 --> 01:24:22,874
+Seu mentiroso.
+Desencaminhador.
+
+1078
+01:24:23,084 --> 01:24:25,712
+Seu falso.
+
+1079
+01:24:28,055 --> 01:24:30,853
+Grande mestre, Senhor...
+
+1080
+01:24:31,058 --> 01:24:34,186
+poderia pegar essas mulheres
+e matá-las?
+
+1081
+01:24:35,496 --> 01:24:37,964
+E por que você deseja isso?
+
+1082
+01:24:38,165 --> 01:24:40,360
+Eu fiz uma grande jornada.
+
+1083
+01:24:40,868 --> 01:24:43,132
+Eu evoluí.
+
+1084
+01:24:43,337 --> 01:24:44,929
+Sacrifiquei todos eles...
+
+1085
+01:24:45,139 --> 01:24:48,438
+para que eu e você criemos juntos
+uma grande paz.
+
+1086
+01:24:48,642 --> 01:24:50,667
+E elas estão estragando tudo.
+
+1087
+01:24:50,878 --> 01:24:55,577
+Nós também buscamos a paz,
+mas de modo diferente.
+
+1088
+01:24:55,783 --> 01:24:59,082
+Buscamos conhecimento.
+
+1089
+01:24:59,286 --> 01:25:01,481
+Conhecimento é a chave
+para o entendimento...
+
+1090
+01:25:01,689 --> 01:25:03,350
+e para a comunicação.
+
+1091
+01:25:03,557 --> 01:25:06,321
+E só desse modo nossas espécies...
+
+1092
+01:25:06,527 --> 01:25:11,464
+tão diferentes, podem viver juntas
+em harmonia e mútua...
+
+1093
+01:25:17,905 --> 01:25:20,840
+Você se unirá a nós...
+
+1094
+01:25:21,041 --> 01:25:24,442
+e fornecerá
+o conhecimento necessário...
+
+1095
+01:25:24,645 --> 01:25:28,638
+para pacificar a espécie humana.
+
+1096
+01:25:29,416 --> 01:25:33,409
+Ah, Senhor. Sim.
+
+1097
+01:25:33,621 --> 01:25:38,149
+Seus planos,
+a disposição de seu exército...
+
+1098
+01:25:38,792 --> 01:25:40,123
+sua frota.
+
+1099
+01:25:40,628 --> 01:25:42,892
+Sim, o que é meu é seu.
+
+1100
+01:25:54,175 --> 01:25:57,440
+Leve-me com você, grande Senhor.
+
+1101
+01:25:57,645 --> 01:25:59,169
+Sim.
+
+1102
+01:26:01,782 --> 01:26:03,374
+Sim.
+
+1103
+01:26:16,297 --> 01:26:17,491
+Reze comigo, Lola.
+
+1104
+01:26:18,332 --> 01:26:19,560
+O quê?
+
+1105
+01:26:19,767 --> 01:26:25,433
+Senhor, por favor, ouça minha oração.
+Salve-nos desse lugar infeliz.
+
+1106
+01:26:25,639 --> 01:26:30,338
+- Vamos, Lola, reze comigo.
+- Isso não faz a menor diferença.
+
+1107
+01:26:31,445 --> 01:26:34,881
+Senhor, mande-nos
+um exército de anjos.
+
+1108
+01:26:35,416 --> 01:26:39,512
+E arme-os com seu fogo e espada...
+
+1109
+01:26:39,720 --> 01:26:41,881
+para que possam acabar com o mal
+ao nosso redor.
+
+1110
+01:26:44,825 --> 01:26:46,793
+O que foi, Lola?
+
+1111
+01:26:48,195 --> 01:26:49,355
+Lola, o que foi?
+
+1112
+01:26:50,931 --> 01:26:53,297
+Venha, Lola,
+você não quer viver?
+
+1113
+01:26:53,500 --> 01:26:54,489
+Quero, eu quero viver.
+
+1114
+01:26:54,702 --> 01:26:57,330
+Bem, quando estiver sem esperança,
+Deus é tudo o que você terá.
+
+1115
+01:26:57,538 --> 01:26:58,937
+Agora, diga comigo.
+
+1116
+01:26:59,139 --> 01:27:01,232
+- Pai nosso...
+- Pai nosso...
+
+1117
+01:27:01,442 --> 01:27:04,309
+- Que estais no céu.
+- Que estais no céu.
+
+1118
+01:27:04,511 --> 01:27:07,071
+Santificado seja o Vosso nome.
+
+1119
+01:27:18,926 --> 01:27:20,985
+- Venha a nós o Vosso reino.
+- Venha a nós o Vosso reino.
+
+1120
+01:27:21,195 --> 01:27:23,129
+- Seja feita Vossa vontade.
+- Seja feita Vossa vontade.
+
+1121
+01:27:23,330 --> 01:27:25,992
+- Assim na Terra como no Céu.
+- Assim na Terra como no Céu.
+
+1122
+01:27:44,351 --> 01:27:48,481
+<i>Certo, tropa, vamos acabar com isso.
+Eles estão por toda parte.</i>
+
+1123
+01:27:53,127 --> 01:27:55,118
+<i>Assim como perdoamos
+a quem nos tem ofendido.</i>
+
+1124
+01:27:55,329 --> 01:27:58,662
+<i>- Procurando sobreviventes.
+- Não nos deixe cair em tentação.</i>
+
+1125
+01:27:58,866 --> 01:28:00,697
+<i>- Achei.
+- Mas livrai-nos do mal.</i>
+
+1126
+01:28:00,901 --> 01:28:02,129
+Vamos nessa.
+
+1127
+01:28:02,903 --> 01:28:04,837
+<i>A caminho.</i>
+
+1128
+01:28:06,206 --> 01:28:08,140
+A caminho.
+
+1129
+01:28:14,481 --> 01:28:16,210
+<i>Temos visual.</i>
+
+1130
+01:28:17,818 --> 01:28:19,843
+<i>Não atirem.</i>
+
+1131
+01:28:27,161 --> 01:28:29,186
+<i>Esperem meu comando.</i>
+
+1132
+01:28:32,032 --> 01:28:34,796
+<i>- Temos visual e contato.
+- Esperem.</i>
+
+1133
+01:28:36,003 --> 01:28:38,369
+<i>Preparem-se. Esperem.</i>
+
+1134
+01:28:40,741 --> 01:28:42,504
+<i>Temos contato.</i>
+
+1135
+01:28:42,710 --> 01:28:44,007
+Estou procurando armas.
+
+1136
+01:28:46,080 --> 01:28:48,048
+<i>Espere um pouco.</i>
+
+1137
+01:28:49,249 --> 01:28:51,479
+Não atire, soldado.
+
+1138
+01:28:55,055 --> 01:28:57,181
+Reze de novo, Lola.
+Reze de novo.
+
+1139
+01:28:57,391 --> 01:29:00,758
+- Pai nosso que estais no céu.
+- Que estais no céu.
+
+1140
+01:29:00,961 --> 01:29:03,429
+- Santificado seja o Vosso nome.
+- Santificado seja o Vosso nome.
+
+1141
+01:29:07,801 --> 01:29:09,325
+<i>Atirem no buraco.</i>
+
+1142
+01:29:11,605 --> 01:29:14,904
+- Assim na Terra como no céu.
+- Assim na Terra como no céu.
+
+1143
+01:29:15,976 --> 01:29:17,500
+<i>Mandem bala.</i>
+
+1144
+01:29:17,711 --> 01:29:18,939
+Com tudo o que tiverem.
+
+1145
+01:29:19,146 --> 01:29:21,046
+<i>Iniciar disparos em minha contagem.</i>
+
+1146
+01:29:22,116 --> 01:29:24,676
+<i>- Três, dois...
+- Perdoais as nossas ofensas.</i>
+
+1147
+01:29:24,885 --> 01:29:26,614
+<i>Fogo!</i>
+
+1148
+01:29:31,125 --> 01:29:33,423
+<i>Acabem com eles.
+Matem todos.</i>
+
+1149
+01:29:41,268 --> 01:29:42,929
+<i>Mate-os, mate-os, mate-os.</i>
+
+1150
+01:29:48,976 --> 01:29:50,375
+<i>Archie.</i>
+
+1151
+01:29:52,546 --> 01:29:54,036
+<i>Alvo duplo.</i>
+
+1152
+01:29:55,516 --> 01:29:57,609
+- Amém.
+- Amém.
+
+1153
+01:29:59,253 --> 01:30:02,051
+Muito bem, frite-os.
+
+1154
+01:30:48,101 --> 01:30:50,934
+Venha, Lola, vamos para casa.
+
+1155
+01:31:31,645 --> 01:31:33,510
+Você matou muitos Insetos lá, John.
+
+1156
+01:31:33,714 --> 01:31:36,842
+- Uma pena o maior ter fugido.
+- Bem, é um Inseto bem grande.
+
+1157
+01:31:37,050 --> 01:31:39,814
+Nosso pessoal não sabe onde o Inseto
+acaba e onde começa o planeta.
+
+1158
+01:31:40,020 --> 01:31:42,420
+É difícil imaginar que algo possa
+sobreviver àquilo.
+
+1159
+01:31:42,623 --> 01:31:45,820
+- Eu sobrevivi.
+- Você é difícil de matar.
+
+1160
+01:31:52,733 --> 01:31:55,065
+<i>O Inseto é grande.</i>
+
+1161
+01:31:55,369 --> 01:31:57,166
+<i>Nós o capturamos.</i>
+
+1162
+01:31:59,473 --> 01:32:01,373
+Capitã Beck.
+
+1163
+01:32:01,575 --> 01:32:03,975
+Ouvi muito sobre você.
+
+1164
+01:32:04,478 --> 01:32:06,537
+Espero que assuma o comando
+da minha capitânia.
+
+1165
+01:32:06,747 --> 01:32:08,578
+Isso depois que tirar
+uma folga, é claro.
+
+1166
+01:32:08,782 --> 01:32:09,908
+Sim, senhora.
+
+1167
+01:32:11,118 --> 01:32:14,019
+Parabéns, Coronel Rico.
+Marauder foi um grande sucesso.
+
+1168
+01:32:14,221 --> 01:32:16,416
+- Obrigado, senhora.
+- Ah, agradeça ao Dix.
+
+1169
+01:32:16,623 --> 01:32:19,854
+Meu novo braço direito nem sempre
+aceita um "não" como resposta.
+
+1170
+01:32:21,161 --> 01:32:25,097
+Não tina certeza se devíamos
+misturar negócios com prazer.
+
+1171
+01:32:31,071 --> 01:32:34,199
+- Prontos para detonar a bomba?
+- Ao seu comando.
+
+1172
+01:32:34,408 --> 01:32:38,139
+Muito bem, pessoal.
+Vamos destruir um planeta.
+
+1173
+01:32:43,850 --> 01:32:46,546
+Então querem torná-lo general, John.
+
+1174
+01:32:46,753 --> 01:32:49,119
+E deixá-lo responsável
+pelo Programa de Marauder.
+
+1175
+01:32:51,992 --> 01:32:53,789
+Sou bom apenas
+para uma coisa, Dix.
+
+1176
+01:32:53,994 --> 01:32:55,894
+Arranje-me um pelotão
+e me deixe lutar.
+
+1177
+01:32:56,396 --> 01:32:58,591
+Pelo menos pense a respeito.
+
+1178
+01:33:00,033 --> 01:33:01,398
+Talvez vocês queiram ficar sozinhos.
+
+1179
+01:33:02,803 --> 01:33:04,031
+Eu os vejo no lançamento.
+
+1180
+01:33:09,610 --> 01:33:12,443
+<i>Alfa Gama Bonza.
+Agora.</i>
+
+1181
+01:33:13,647 --> 01:33:16,047
+Eu quero perguntar...
+
+1182
+01:33:17,584 --> 01:33:19,575
+Você...
+
+1183
+01:33:21,955 --> 01:33:23,786
+Sim.
+
+1184
+01:33:24,257 --> 01:33:25,884
+Sério?
+
+1185
+01:33:26,793 --> 01:33:29,956
+- Maravilha.
+- Mas precisa saber de uma coisa.
+
+1186
+01:33:30,163 --> 01:33:31,357
+O quê?
+
+1187
+01:33:31,565 --> 01:33:34,534
+Algo aconteceu comigo lá embaixo e...
+
+1188
+01:33:34,735 --> 01:33:36,396
+<i>Trinta segundos para o impacto.</i>
+
+1189
+01:33:36,603 --> 01:33:39,936
+- Algo que não sei explicar.
+- O quê?
+
+1190
+01:33:40,674 --> 01:33:44,576
+Se quiser casar comigo,
+terá que ser em uma igreja.
+
+1191
+01:33:44,778 --> 01:33:47,269
+<i>- Como?
+- Vinte segundos para o impacto.</i>
+
+1192
+01:33:47,481 --> 01:33:51,383
+Virei religiosa, Dix. Muito.
+
+1193
+01:33:51,585 --> 01:33:53,177
+<i>Dez segundos.</i>
+
+1194
+01:33:53,387 --> 01:33:57,585
+Bem, ninguém é perfeito.
+
+1195
+01:33:58,091 --> 01:34:03,495
+<i>Cinco, quatro, três, dois, um.</i>
+
+1196
+01:34:03,697 --> 01:34:06,222
+<i>Detonação confirmada.</i>
+
+1197
+01:34:11,872 --> 01:34:13,838
+REDE FEDERAL
+
+1198
+01:34:20,714 --> 01:34:25,310
+<i>Ele se foi mesmo,
+mas nos deixou uma música.</i>
+
+1199
+01:34:26,119 --> 01:34:27,518
+Doem Agora Cidadãos!
+
+1200
+01:34:27,721 --> 01:34:29,552
+Você Também Pode se Lamentar!
+
+1201
+01:34:33,994 --> 01:34:35,757
+<i>Coragem.</i>
+
+1202
+01:34:36,963 --> 01:34:38,658
+<i>Dever.</i>
+
+1203
+01:34:40,133 --> 01:34:41,862
+<i>Honra.</i>
+
+1204
+01:34:47,074 --> 01:34:50,601
+<i>Milhares lamentam a morte
+do Marechal-do-Ar Omar Anoke.</i>
+
+1205
+01:34:50,811 --> 01:34:54,941
+<i>Guerreiro, filósofo,
+um herói da Federação.</i>
+
+1206
+01:34:58,118 --> 01:35:00,086
+INCLUINDO O SUCESSO
+"UM BOM DIA PARA MORRER"...
+
+1207
+01:35:00,287 --> 01:35:02,517
+"DEIXE O INSETICIDA"
+& "SER PARANORMAL É SENSUAL"
+
+1208
+01:35:08,962 --> 01:35:12,420
+<i>Na Federação,
+peritos federias concordam que, A...</i>
+
+1209
+01:35:12,632 --> 01:35:15,795
+<i>afinal, Deus existe.
+B: Ele está do nosso lado.</i>
+
+1210
+01:35:16,002 --> 01:35:18,596
+<i>E C: Ele quer a nossa vitória.</i>
+
+1211
+01:35:18,805 --> 01:35:21,239
+E há ainda
+mais boas notícias, crentes.
+
+1212
+01:35:21,441 --> 01:35:25,377
+Porque é oficial.
+Deus voltou.
+
+1213
+01:35:25,579 --> 01:35:28,139
+E ele também é um cidadão.
+
+1214
+01:35:28,348 --> 01:35:31,010
+<i>Fazendo de tudo para ser popular
+em toda Federação...</i>
+
+1215
+01:35:31,218 --> 01:35:34,676
+<i>a Marechal-do-Ar Phid declarou
+que a religião é aceitável...</i>
+
+1216
+01:35:34,888 --> 01:35:36,913
+<i>mas não a paz.</i>
+
+1217
+01:35:37,124 --> 01:35:40,116
+<i>Aproveitando o gancho da notícia,
+o pacifista terrorista Elmo Goniff...</i>
+
+1218
+01:35:40,327 --> 01:35:43,728
+<i>e 51 amigos
+foram enforcados essa manhã...</i>
+
+1219
+01:35:43,930 --> 01:35:47,024
+<i>o qual se acredita
+ser o recorde de execuções...</i>
+
+1220
+01:35:47,234 --> 01:35:50,965
+<i>em apenas um dia
+desde o século 21.</i>
+
+1221
+01:35:51,171 --> 01:35:52,866
+Eles não podem silenciá-lo.
+
+1222
+01:35:53,073 --> 01:35:56,702
+Dane-se a Federação, vão se...
+Vocês não vão me calar!
+
+1223
+01:35:56,910 --> 01:35:59,845
+Não vão me levar!
+Não vão tirar nosso poder!
+
+1224
+01:36:00,046 --> 01:36:03,140
+Vão se f... Todos vocês!
+Vão se...
+
+1225
+01:36:03,350 --> 01:36:04,544
+Que se... a Federação!
+
+1226
+01:36:04,751 --> 01:36:07,117
+<i>Heróis de guerra arranjam tempo
+para se comprometerem.</i>
+
+1227
+01:36:07,320 --> 01:36:08,582
+Celebridades Federais se Casam
+
+1228
+01:36:08,822 --> 01:36:10,312
+<i>Voltem ao trabalho, soldados.</i>
+
+1229
+01:36:10,524 --> 01:36:14,551
+<i>Ninguém avisou?
+Há uma guerra acontecendo.</i>
+
+1230
+01:36:14,761 --> 01:36:17,753
+<i>Então se alistem.
+Façam a sua parte.</i>
+
+1231
+01:36:17,964 --> 01:36:22,628
+<i>Há uma grande guerra pela frente,
+e precisamos de você.</i>
+
+1232
+01:36:36,349 --> 01:36:38,146
+Estão pronto para a Marauder?
+
+1233
+01:36:38,351 --> 01:36:39,579
+Juntem-se à infantaria...
+
+1234
+01:36:39,786 --> 01:36:42,482
+e veja se você tem
+o que é preciso para ser um cidadão.
+
+1235
+01:36:42,689 --> 01:36:46,090
+Vejo você no lançamento, soldado.
+
+1236
+01:36:46,860 --> 01:36:49,454
+<i>Servir garante a cidadania.</i>
+
+1237
+01:36:51,255 --> 01:36:55,955
+Resync: LAPUMiA.NET
