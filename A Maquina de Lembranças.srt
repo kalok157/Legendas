@@ -1,0 +1,5223 @@
+1
+00:00:46,257 --> 00:00:47,624
+É por conta da casa.
+
+2
+00:00:48,186 --> 00:00:50,153
+Bem-vindo de volta, Dash!
+E aí, Sam?
+
+3
+00:00:50,186 --> 00:00:54,286
+Temos um verdadeiro
+astro do rock aqui!
+
+4
+00:00:54,320 --> 00:00:55,320
+Onde?
+
+5
+00:00:57,220 --> 00:00:59,320
+-Valeu, Freddie! Saúde!
+-Saúde!
+
+6
+00:00:59,353 --> 00:01:02,386
+Deve estar feliz
+de ter esse besta de volta.
+
+7
+00:01:02,420 --> 00:01:04,286
+Você não tem ideia, Freddie.
+
+8
+00:01:04,320 --> 00:01:07,386
+Em algum momento,
+preciso de histórias novas
+
+9
+00:01:07,420 --> 00:01:09,820
+para continuar vivendo
+através dele.
+
+10
+00:01:09,853 --> 00:01:11,653
+-Oi.
+-Oi.
+
+11
+00:01:12,720 --> 00:01:14,753
+Cada dia uma nova cidade,
+
+12
+00:01:14,786 --> 00:01:19,320
+novas mulheres,
+mas isso fica cansativo.
+
+13
+00:01:19,353 --> 00:01:21,653
+-Cansativo?
+-Tão cansativo! Pobrezinho!
+
+14
+00:01:21,686 --> 00:01:23,920
+Tudo bem. Você está certo.
+
+15
+00:01:23,953 --> 00:01:25,786
+-É incrível.
+-Eu odeio você.
+
+16
+00:01:26,553 --> 00:01:29,020
+Mas sabe o que eu queria
+mais do que tudo?
+
+17
+00:01:29,053 --> 00:01:30,086
+O quê?
+
+18
+00:01:31,420 --> 00:01:34,520
+-Desenterrar minhocas...
+-Cara!
+
+19
+00:01:34,553 --> 00:01:38,386
+E ir pescar com meu irmão
+igual a quando éramos crianças!
+
+20
+00:01:39,420 --> 00:01:43,120
+-Vou pescar com o meu irmão!
+-Está certo.
+
+21
+00:01:43,153 --> 00:01:44,353
+Beleza.
+
+22
+00:01:45,353 --> 00:01:47,020
+Outra rodada, Freddie!
+
+23
+00:01:54,286 --> 00:01:56,520
+-Cara, essa bateria...
+-Esta é para você!
+
+24
+00:01:56,553 --> 00:01:59,153
+Estamos... Olhe essas pessoas.
+Vamos, cante.
+
+25
+00:02:13,186 --> 00:02:14,386
+Esta parte eu sei!
+
+26
+00:02:16,786 --> 00:02:18,020
+Agora, sim!
+
+27
+00:02:19,853 --> 00:02:21,886
+-O que significa?
+-Sei lá!
+
+28
+00:02:41,620 --> 00:02:42,753
+"Debaixo"?
+
+29
+00:02:42,786 --> 00:02:46,253
+-"Sobre"!
+-Não é isso.
+
+30
+00:03:27,320 --> 00:03:28,353
+Dash...
+
+31
+00:03:30,853 --> 00:03:32,353
+Meu Deus...
+
+32
+00:03:33,353 --> 00:03:34,786
+Meu Deus...
+
+33
+00:03:36,653 --> 00:03:38,153
+Meu Deus...
+
+34
+00:03:41,853 --> 00:03:43,286
+Você está preso.
+
+35
+00:03:55,453 --> 00:03:56,753
+O que você...?
+
+36
+00:03:58,653 --> 00:04:00,386
+O que está dizendo, Dash?
+
+37
+00:04:03,986 --> 00:04:07,120
+Não consigo entender
+o que está dizendo.
+
+38
+00:04:14,553 --> 00:04:16,320
+Alguém me ajude!
+
+39
+00:04:16,986 --> 00:04:18,420
+Por favor!
+
+40
+00:04:19,086 --> 00:04:20,786
+Socorro!
+
+41
+00:04:28,686 --> 00:04:33,453
+A MÁQUINA DE LEMBRANÇAS
+
+42
+00:04:49,720 --> 00:04:51,120
+Bom dia.
+
+43
+00:04:55,686 --> 00:04:57,786
+Por que não o coloco
+aqui em cima?
+
+44
+00:04:59,020 --> 00:05:00,653
+É uma bela vista.
+
+45
+00:05:02,986 --> 00:05:04,420
+Prontinho.
+
+46
+00:05:18,086 --> 00:05:20,553
+MODELISTA
+
+47
+00:05:36,520 --> 00:05:41,886
+<i>A memória é o definidor</i>
+<i>derradeiro das nossas vidas.</i>
+
+48
+00:05:44,886 --> 00:05:48,520
+<i>O que são nossas vidas, além</i>
+<i>de uma coleção de lembranças?</i>
+
+49
+00:05:50,620 --> 00:05:55,386
+<i>Lembranças de acontecimentos,</i>
+<i>experiências, emoções...</i>
+
+50
+00:05:56,953 --> 00:05:59,553
+<i>tudo gravado</i>
+<i>em nossos sistemas nervosos...</i>
+
+51
+00:06:00,720 --> 00:06:03,153
+<i>tudo nos guiando</i>
+<i>para o aqui e o agora,</i>
+
+52
+00:06:03,186 --> 00:06:06,353
+<i>fazendo de cada um de nós</i>
+<i>a pessoa que somos hoje.</i>
+
+53
+00:06:09,820 --> 00:06:14,686
+<i>Sem elas,</i>
+<i>o presente não teria contexto.</i>
+
+54
+00:06:20,120 --> 00:06:21,186
+OS ANDARES
+
+55
+00:06:21,220 --> 00:06:22,586
+E está pronto.
+
+56
+00:06:39,120 --> 00:06:42,886
+SR. DUNN
+
+57
+00:06:45,286 --> 00:06:48,553
+A CULPA DO MEU PASSADO...
+
+58
+00:06:52,020 --> 00:06:54,053
+ATENCIOSAMENTE, SAM BLOOM.
+
+59
+00:07:06,753 --> 00:07:09,320
+<i>Agora quero</i>
+<i>que fechem seus olhos</i>
+
+60
+00:07:09,353 --> 00:07:12,753
+<i>e pensem em uma lembrança</i>
+<i>que associem às suas juventudes.</i>
+
+61
+00:07:12,786 --> 00:07:14,853
+Feliz aniversário!
+
+62
+00:07:14,886 --> 00:07:17,820
+<i>Deixem-na vir</i>
+<i>do jeito que é.</i>
+
+63
+00:07:23,520 --> 00:07:26,120
+<i>Pensem em uma lembrança</i>
+<i>que os deixa felizes.</i>
+
+64
+00:07:31,186 --> 00:07:35,020
+<i>Pensem na lembrança</i>
+<i>mais dolorosa da sua vida.</i>
+
+65
+00:07:37,253 --> 00:07:38,853
+Agora abram os olhos.
+
+66
+00:07:41,520 --> 00:07:43,353
+Os momentos das suas vidas,
+
+67
+00:07:44,253 --> 00:07:45,986
+que fazem uma vida,
+
+68
+00:07:46,853 --> 00:07:48,420
+que os definem.
+
+69
+00:07:51,020 --> 00:07:54,586
+Gostamos de pensar em lembranças
+como fatos arquivados,
+
+70
+00:07:54,620 --> 00:07:57,020
+armazenados no cérebro,
+quando, na verdade,
+
+71
+00:07:57,053 --> 00:08:01,653
+tudo o que aconteceu com você
+desde o evento de que se lembra
+
+72
+00:08:02,720 --> 00:08:04,720
+alterou a lembrança
+desse evento,
+
+73
+00:08:05,753 --> 00:08:09,720
+fornecendo um novo filtro
+através do qual você o vivencia,
+
+74
+00:08:10,586 --> 00:08:14,120
+um filtro que modifica
+e esquece,
+
+75
+00:08:14,153 --> 00:08:18,020
+exagera, combina e modifica.
+
+76
+00:08:19,153 --> 00:08:23,686
+Mas a experiência pura
+ainda existe dentro de você,
+
+77
+00:08:23,720 --> 00:08:26,053
+porque seu cérebro
+tem a habilidade
+
+78
+00:08:26,086 --> 00:08:29,453
+de se lembrar de cada evento
+que já aconteceu com você,
+
+79
+00:08:30,686 --> 00:08:32,520
+até o último detalhe.
+
+80
+00:08:33,353 --> 00:08:35,820
+O problema é que você
+não tem como lembrar.
+
+81
+00:08:37,653 --> 00:08:42,853
+Não há como limpar os filtros
+do tempo e voltar à verdade.
+
+82
+00:08:44,320 --> 00:08:45,753
+Até agora.
+
+83
+00:08:46,620 --> 00:08:49,786
+A máquina de lembranças
+permite que as pessoas
+
+84
+00:08:49,820 --> 00:08:54,053
+experimentem a verdade
+de suas vidas.
+
+85
+00:08:57,919 --> 00:08:59,586
+O que estão vendo
+
+86
+00:08:59,620 --> 00:09:03,786
+são lembranças reais extraídas
+do nosso grupo de teste.
+
+87
+00:09:33,820 --> 00:09:36,553
+Mãe!
+
+88
+00:09:36,586 --> 00:09:38,820
+Bom dia, aniversariante.
+
+89
+00:09:41,720 --> 00:09:42,886
+Por favor...
+
+90
+00:09:58,986 --> 00:10:02,220
+Este dispositivo permite
+que as pessoas
+
+91
+00:10:02,253 --> 00:10:05,086
+vivenciem
+o evento real novamente,
+
+92
+00:10:05,120 --> 00:10:07,153
+extraindo e transcrevendo
+
+93
+00:10:07,186 --> 00:10:09,886
+a verdadeira memória
+de seu cérebro
+
+94
+00:10:10,786 --> 00:10:12,553
+e exibindo-a à frente delas,
+
+95
+00:10:12,586 --> 00:10:15,053
+proporcionando
+a oportunidade de entender
+
+96
+00:10:15,086 --> 00:10:18,586
+e, mais importante,
+de lidar com o seu passado.
+
+97
+00:10:18,620 --> 00:10:21,286
+A verdade pura, limpa...
+
+98
+00:10:22,320 --> 00:10:24,620
+e sem filtro.
+
+99
+00:10:26,120 --> 00:10:28,020
+Muito obrigado
+por terem vindo.
+
+100
+00:10:38,786 --> 00:10:41,220
+Brilhante!
+Simplesmente brilhante!
+
+101
+00:10:41,253 --> 00:10:44,153
+Você tocou no lado pessoal,
+e é assim que se muda o mundo.
+
+102
+00:10:44,186 --> 00:10:46,386
+-Precisamos de mais tempo.
+-Por quê?
+
+103
+00:10:46,420 --> 00:10:48,020
+Você fez o que queria.
+
+104
+00:10:48,053 --> 00:10:51,053
+Depois do que Neil revelou
+minutos antes de eu ir lá?
+
+105
+00:10:51,086 --> 00:10:53,186
+Ele não deveria
+ter mencionado isso.
+
+106
+00:10:53,220 --> 00:10:56,220
+-Eu tenho o direto de saber!
+-Isso não muda a ciência.
+
+107
+00:10:56,253 --> 00:10:58,253
+Então por que escondeu
+de mim?
+
+108
+00:10:59,153 --> 00:11:01,986
+Queria que entendesse
+que eu estava te protegendo.
+
+109
+00:11:05,520 --> 00:11:07,253
+Vou resolver tudo.
+
+110
+00:11:07,286 --> 00:11:09,853
+Todas as pesquisas
+indicam que a máquina é segura.
+
+111
+00:11:09,886 --> 00:11:12,886
+Quero mais tempo. Os pacientes
+são minha responsabilidade.
+
+112
+00:11:12,920 --> 00:11:15,353
+Gordon, você é brilhante.
+
+113
+00:11:15,386 --> 00:11:16,986
+Você criou
+algo extraordinário,
+
+114
+00:11:17,020 --> 00:11:19,953
+algo que vai se comparar
+às maiores invenções do mundo.
+
+115
+00:11:19,986 --> 00:11:22,720
+Vai aperfeiçoar o sistema legal,
+curar o Alzheimer
+
+116
+00:11:22,753 --> 00:11:26,486
+e, mais importante,
+ajudará as pessoas a se curarem.
+
+117
+00:11:27,953 --> 00:11:30,053
+Concentre-se
+no bem que trará.
+
+118
+00:11:30,753 --> 00:11:32,120
+Orgulhe-se.
+
+119
+00:11:34,253 --> 00:11:36,253
+Aquele protótipo
+é o nosso futuro.
+
+120
+00:11:44,520 --> 00:11:46,553
+Oi. Obrigado por ter vindo.
+
+121
+00:11:46,586 --> 00:11:47,920
+Obrigado por ter vindo.
+
+122
+00:11:47,953 --> 00:11:50,020
+-Gordon.
+-Aqui não, Wendy.
+
+123
+00:11:50,053 --> 00:11:51,420
+Eu as quero de volta.
+
+124
+00:11:53,986 --> 00:11:57,386
+Elas não estão aqui.
+Estão trancadas na minha casa.
+
+125
+00:11:57,420 --> 00:11:59,053
+Vá pegá-las.
+
+126
+00:11:59,086 --> 00:12:01,420
+Gordon, não tem o direito...
+
+127
+00:12:02,853 --> 00:12:05,753
+de projetar meu passado
+para pessoas que nem conheço.
+
+128
+00:12:05,786 --> 00:12:07,453
+Você sabia
+no que isso implicava
+
+129
+00:12:07,486 --> 00:12:09,853
+e que são necessárias
+para validar a pesquisa.
+
+130
+00:12:09,886 --> 00:12:12,520
+Eu não sabia
+o que você ia encontrar.
+
+131
+00:12:13,753 --> 00:12:17,053
+E que você as usaria
+para me manipular.
+
+132
+00:12:17,720 --> 00:12:19,786
+Sabe que não foi isso
+o que aconteceu.
+
+133
+00:12:19,820 --> 00:12:21,286
+O que aconteceu, Gordon?
+
+134
+00:12:22,186 --> 00:12:23,520
+O que aconteceu?
+
+135
+00:12:24,186 --> 00:12:27,120
+Gordon, por favor, diga.
+
+136
+00:12:34,820 --> 00:12:38,353
+Wendy, eu sinto muito.
+
+137
+00:13:53,720 --> 00:13:55,286
+<i>-Aí vem ela.</i>
+<i>-Aí vem ela.</i>
+
+138
+00:13:55,320 --> 00:13:56,653
+<i>Vamos tirar uma foto.</i>
+
+139
+00:13:57,420 --> 00:13:58,586
+<i>Hora da foto?</i>
+
+140
+00:13:58,620 --> 00:13:59,753
+<i>-Preparem-se!</i>
+<i>-Certo.</i>
+
+141
+00:13:59,786 --> 00:14:03,186
+<i>Tem que ficar boa.</i>
+<i>Não estrague.</i>
+
+142
+00:14:03,220 --> 00:14:05,320
+<i>-Enquadre a gente!</i>
+<i>-Fiquem mais perto!</i>
+
+143
+00:14:05,353 --> 00:14:08,586
+<i>-Estamos perto.</i>
+<i>-Não esqueçam o sorriso. "Xis"!</i>
+
+144
+00:14:08,620 --> 00:14:10,453
+<i>Xis!</i>
+
+145
+00:14:13,353 --> 00:14:16,220
+<i>Papai, venha!</i>
+<i>Vamos fazer um castelo de areia!</i>
+
+146
+00:14:18,753 --> 00:14:21,386
+<i>Não consigo pensar em um momento</i>
+<i>da minha vida</i>
+
+147
+00:14:21,420 --> 00:14:23,086
+<i>em que estive mais feliz.</i>
+
+148
+00:14:25,953 --> 00:14:27,353
+<i>Nem eu.</i>
+
+149
+00:14:28,120 --> 00:14:30,820
+<i>Tudo está</i>
+<i>em seu devido lugar.</i>
+
+150
+00:14:31,686 --> 00:14:35,820
+<i>Gordon...</i>
+
+151
+00:14:35,853 --> 00:14:37,220
+Gordon!
+
+152
+00:14:44,153 --> 00:14:45,520
+Todd, o que faz aqui?
+
+153
+00:14:46,486 --> 00:14:47,920
+Precisamos conversar.
+
+154
+00:14:49,620 --> 00:14:53,420
+Isso não é apropriado.
+O que posso fazer por você?
+
+155
+00:14:53,453 --> 00:14:56,620
+-Você trouxe coisas de volta...
+-Para ajudá-lo a lidar com elas.
+
+156
+00:14:56,653 --> 00:15:01,520
+Coisas que deveriam ter ficado
+enterradas no passado.
+
+157
+00:15:01,553 --> 00:15:04,886
+É um processo, Todd.
+Pode ser difícil. Eu expliquei.
+
+158
+00:15:04,920 --> 00:15:09,020
+-Você ferrou com a minha cabeça!
+-Eu não fiz isso, Todd.
+
+159
+00:15:09,053 --> 00:15:11,286
+Você me procurou
+ferido e machucado.
+
+160
+00:15:11,320 --> 00:15:12,820
+Estamos progredindo...
+
+161
+00:15:12,853 --> 00:15:15,720
+Não. Não, você...
+
+162
+00:15:15,753 --> 00:15:18,286
+Você me procurou.
+
+163
+00:15:19,420 --> 00:15:23,453
+Minha vida?
+Minha vida era melhor antes.
+
+164
+00:15:31,720 --> 00:15:33,853
+Você arruinou a minha vida
+
+165
+00:15:33,886 --> 00:15:36,353
+e agora vai faturar
+uma nota?
+
+166
+00:15:37,253 --> 00:15:39,953
+Todd, escute.
+
+167
+00:15:40,953 --> 00:15:42,253
+Nossa, Todd!
+
+168
+00:16:38,520 --> 00:16:41,020
+<i>Não consigo pensar em um momento</i>
+<i>da minha vida</i>
+
+169
+00:16:41,053 --> 00:16:42,853
+<i>em que estive mais feliz.</i>
+
+170
+00:16:42,886 --> 00:16:44,386
+<i>Nem eu.</i>
+
+171
+00:16:45,186 --> 00:16:47,086
+<i>Tudo está</i>
+<i>em seu devido lugar.</i>
+
+172
+00:18:46,920 --> 00:18:48,486
+Sem feridas de bala.
+
+173
+00:18:48,520 --> 00:18:51,486
+Sim, mas são buracos de bala,
+não são?
+
+174
+00:18:52,986 --> 00:18:54,920
+Eles não estavam aí ontem.
+
+175
+00:18:57,386 --> 00:18:58,986
+Alguma discussão recente,
+
+176
+00:18:59,020 --> 00:19:00,786
+desentendimentos
+entre o sr. Dunn
+
+177
+00:19:00,820 --> 00:19:02,720
+e outra pessoa da empresa?
+
+178
+00:19:02,753 --> 00:19:05,786
+Não. Não que eu saiba.
+
+179
+00:19:09,853 --> 00:19:11,986
+Precisarei das imagens
+de segurança
+
+180
+00:19:12,020 --> 00:19:14,720
+e dos nomes de todos
+que têm acesso ao prédio.
+
+181
+00:19:14,753 --> 00:19:16,120
+Sim, claro.
+
+182
+00:19:22,686 --> 00:19:25,220
+Venha, boa menina.
+
+183
+00:19:29,720 --> 00:19:30,720
+Carolyn.
+
+184
+00:19:38,986 --> 00:19:40,553
+Gordon Dunn não era apenas
+
+185
+00:19:40,586 --> 00:19:42,386
+um homem profundamente
+brilhante,
+
+186
+00:19:42,420 --> 00:19:46,620
+como também um homem muito bom,
+o que é uma combinação rara
+
+187
+00:19:46,653 --> 00:19:47,986
+e que fazia dele
+
+188
+00:19:48,020 --> 00:19:50,786
+uma pessoa extraordinária
+de se ter por perto.
+
+189
+00:19:51,520 --> 00:19:53,386
+Eu me considero sortudo.
+
+190
+00:19:56,553 --> 00:19:59,386
+Eu me considero afortunado...
+
+191
+00:20:02,720 --> 00:20:05,653
+por cada momento que pude
+passar na companhia dele.
+
+192
+00:20:07,820 --> 00:20:09,520
+É uma perda terrível.
+
+193
+00:20:10,720 --> 00:20:14,886
+Ele era um pioneiro,
+e o trabalho dele sobreviverá.
+
+194
+00:20:15,820 --> 00:20:18,153
+Nós, da Cortex,
+lamentamos profundamente
+
+195
+00:20:18,186 --> 00:20:20,420
+e tentaremos
+nos recuperar do choque.
+
+196
+00:20:21,986 --> 00:20:24,620
+Não é só uma perda
+para a Cortex...
+
+197
+00:20:26,286 --> 00:20:27,853
+é uma perda para o mundo.
+
+198
+00:20:29,220 --> 00:20:31,786
+Por que a polícia
+abriu uma investigação?
+
+199
+00:20:31,820 --> 00:20:34,320
+Sabemos que a morte
+se deu por causas naturais,
+
+200
+00:20:34,353 --> 00:20:36,020
+mas queremos ter a certeza
+
+201
+00:20:36,053 --> 00:20:38,420
+de que nada inescrupuloso
+aconteceu,
+
+202
+00:20:38,453 --> 00:20:39,953
+dado o momento infeliz.
+
+203
+00:20:39,986 --> 00:20:41,420
+Mas tenham certeza...
+
+204
+00:20:42,486 --> 00:20:45,753
+de que isso não irá atrasar ou
+alterar a produção da máquina.
+
+205
+00:20:45,786 --> 00:20:47,020
+Obrigado.
+
+206
+00:20:48,386 --> 00:20:52,120
+RENOMADO PIONEIRO DA PSICOLOGIA
+ENCONTRADO MORTO
+
+207
+00:21:05,053 --> 00:21:07,086
+Neil, o que você tem?
+
+208
+00:21:07,886 --> 00:21:10,020
+-Você não vai gostar.
+-Surpreenda-me.
+
+209
+00:21:10,053 --> 00:21:12,920
+Como sabe, os estágios finais
+da máquina de lembranças
+
+210
+00:21:12,953 --> 00:21:16,053
+foram concluídos quase
+que inteiramente por Gordon.
+
+211
+00:21:16,086 --> 00:21:19,286
+Sim, mas ele deve ter deixado
+anotações, planos...
+
+212
+00:21:19,320 --> 00:21:21,720
+Você sabe como ele era
+reservado e protetor.
+
+213
+00:21:21,753 --> 00:21:24,320
+Ele exigiu o uso de lâminas
+para as lembranças,
+
+214
+00:21:24,353 --> 00:21:26,220
+em vez de armazená-las
+na nuvem.
+
+215
+00:21:26,253 --> 00:21:30,353
+Estamos na rede dele, mas todos
+os dados são criptografados.
+
+216
+00:21:30,386 --> 00:21:31,486
+É brilhante...
+
+217
+00:21:31,520 --> 00:21:36,120
+Está me dizendo que não podemos
+fazer engenharia reversa
+
+218
+00:21:36,153 --> 00:21:38,386
+do produto que criamos?
+
+219
+00:21:38,420 --> 00:21:42,186
+Não sem o protótipo do Gordon.
+Pelo menos, não por algum tempo.
+
+220
+00:21:43,553 --> 00:21:46,020
+Defina "algum tempo".
+
+221
+00:21:46,686 --> 00:21:49,820
+Um ano. Sendo otimista.
+
+222
+00:21:54,853 --> 00:21:58,120
+Bem, ele não pode
+ter se perdido.
+
+223
+00:22:06,686 --> 00:22:08,353
+Obrigada. Tchau.
+
+224
+00:22:23,220 --> 00:22:26,953
+EM MEMÓRIA
+DE GORDAN OLIVER DUNN
+
+225
+00:22:31,620 --> 00:22:32,953
+<i>Estou testando você.</i>
+
+226
+00:22:32,986 --> 00:22:35,386
+<i>-Acho que você não lembra.</i>
+<i>-O leão-marinho.</i>
+
+227
+00:22:35,420 --> 00:22:37,620
+<i>Isso!</i>
+
+228
+00:22:37,653 --> 00:22:39,420
+Semanas depois
+de mostrá-los,
+
+229
+00:22:39,453 --> 00:22:42,320
+apresentamos a eles números
+e símbolos nos cartões,
+
+230
+00:22:42,353 --> 00:22:43,486
+e, semanas depois,
+
+231
+00:22:43,520 --> 00:22:45,853
+eles identificaram os cartões
+corretamente.
+
+232
+00:22:45,886 --> 00:22:46,986
+Isso é incrível.
+
+233
+00:22:47,020 --> 00:22:49,653
+Os cérebros deles têm
+um quarto do tamanho do nosso.
+
+234
+00:22:49,686 --> 00:22:52,420
+Isso, por si só,
+é função cognitiva avançada,
+
+235
+00:22:52,453 --> 00:22:55,186
+mas sabe o que foi
+realmente inacreditável?
+
+236
+00:22:55,220 --> 00:22:56,420
+O quê?
+
+237
+00:22:56,453 --> 00:22:59,320
+Eles se lembraram de tudo
+dez anos depois.
+
+238
+00:22:59,353 --> 00:23:03,153
+-Seres humanos não lembram.
+-Alguns em especial!
+
+239
+00:23:18,553 --> 00:23:20,220
+-Oi.
+-Olá.
+
+240
+00:23:20,920 --> 00:23:23,253
+-Oi.
+-Desculpe.
+
+241
+00:23:23,286 --> 00:23:26,153
+Sou James Klinch.
+Estou aqui para o funeral.
+
+242
+00:23:26,186 --> 00:23:28,320
+Sim, sinto muito.
+Mandei todos embora.
+
+243
+00:23:28,353 --> 00:23:32,153
+Eu não pude aguentar mais
+banalidades sem sentido.
+
+244
+00:23:32,186 --> 00:23:33,553
+Sinto muito.
+
+245
+00:23:33,586 --> 00:23:35,020
+Obrigada por ter vindo.
+
+246
+00:23:53,753 --> 00:23:55,886
+O tempo cura
+todas as feridas.
+
+247
+00:23:57,553 --> 00:23:59,553
+É uma péssima piada.
+
+248
+00:24:00,320 --> 00:24:01,653
+As banalidades...
+
+249
+00:24:01,686 --> 00:24:03,820
+É muito atrevido
+sob as circunstâncias.
+
+250
+00:24:03,853 --> 00:24:07,486
+Sei que quer ficar sozinha,
+mas eu só queria dizer
+
+251
+00:24:07,520 --> 00:24:10,186
+que eu sinto muito,
+de verdade.
+
+252
+00:24:10,220 --> 00:24:11,553
+Obrigada.
+
+253
+00:24:13,186 --> 00:24:15,086
+Como conheceu Gordon?
+
+254
+00:24:17,320 --> 00:24:19,153
+Ele salvou a minha vida.
+
+255
+00:24:21,086 --> 00:24:23,186
+Eu gostaria de ouvir
+essa história.
+
+256
+00:24:26,120 --> 00:24:27,120
+Obrigado.
+
+257
+00:24:32,820 --> 00:24:34,720
+Você pode me ajudar
+a limpar.
+
+258
+00:24:44,220 --> 00:24:47,253
+Estávamos no mesmo hotel
+uma noite.
+
+259
+00:24:47,286 --> 00:24:49,920
+Ele estava lá
+para uma conferência,
+
+260
+00:24:49,953 --> 00:24:51,386
+e eu estava lá...
+
+261
+00:24:52,553 --> 00:24:55,520
+porque a minha vida
+não tinha dado certo...
+
+262
+00:24:56,586 --> 00:24:59,386
+não da forma como imaginei,
+e eu estava mal.
+
+263
+00:25:01,120 --> 00:25:03,986
+E o hotel era um prédio
+muito alto.
+
+264
+00:25:06,886 --> 00:25:09,220
+Houve uma tempestade terrível
+naquela noite,
+
+265
+00:25:09,253 --> 00:25:11,120
+mas estava
+estranhamente quente.
+
+266
+00:25:11,153 --> 00:25:13,386
+Parecia que um furacão
+estava chegando.
+
+267
+00:25:14,420 --> 00:25:17,453
+Eu não conseguia dormir,
+então desci para o bar do hotel.
+
+268
+00:25:17,486 --> 00:25:19,286
+Era um bar típico de hotel,
+
+269
+00:25:19,953 --> 00:25:22,053
+o que significa
+que é a única coisa
+
+270
+00:25:22,086 --> 00:25:23,786
+que consigo lembrar
+sobre ele.
+
+271
+00:25:24,653 --> 00:25:27,686
+Mas Gordon estava sentado lá,
+tomando a saideira.
+
+272
+00:25:29,220 --> 00:25:31,386
+Ele parecia perdido
+em seus pensamentos.
+
+273
+00:25:32,386 --> 00:25:35,386
+E eu estava me afogando
+nos meus.
+
+274
+00:25:37,386 --> 00:25:40,153
+Depois de algum tempo,
+ele virou pra mim e disse:
+
+275
+00:25:40,186 --> 00:25:42,586
+"Esta noite pode terminar
+de duas formas:
+
+276
+00:25:42,620 --> 00:25:45,686
+podemos ficar bebendo sozinhos
+com nossos pensamentos,
+
+277
+00:25:45,720 --> 00:25:47,453
+ou podemos
+tirar algo disso."
+
+278
+00:25:48,720 --> 00:25:51,820
+Ele sorriu e pediu
+uma garrafa de uísque.
+
+279
+00:25:52,886 --> 00:25:54,320
+Esse uísque.
+
+280
+00:25:56,653 --> 00:25:59,020
+E falamos sobre tudo
+que possa imaginar.
+
+281
+00:25:59,053 --> 00:26:00,353
+Tudo mesmo.
+
+282
+00:26:01,853 --> 00:26:04,153
+As histórias
+das nossas vidas.
+
+283
+00:26:07,453 --> 00:26:10,653
+Contei coisas a ele que nunca
+tinha contado a ninguém.
+
+284
+00:26:11,620 --> 00:26:14,620
+Sei lá, talvez tenha sido
+a tempestade ou a bebida,
+
+285
+00:26:14,653 --> 00:26:18,720
+ou algo, mas eu senti que era
+a última noite do mundo.
+
+286
+00:26:18,753 --> 00:26:21,786
+Bebemos tanto, que subimos
+para o telhado
+
+287
+00:26:21,820 --> 00:26:25,520
+com a ideia de que ficaríamos lá
+até o sol nascer,
+
+288
+00:26:26,353 --> 00:26:29,053
+e fomos para lá
+no meio da tempestade.
+
+289
+00:26:29,086 --> 00:26:31,620
+O vento estava muito forte.
+
+290
+00:26:32,453 --> 00:26:35,986
+Eu me lembro de ter pensado
+em como o vento era poderoso.
+
+291
+00:26:37,686 --> 00:26:39,053
+Contra a tempestade,
+
+292
+00:26:39,086 --> 00:26:41,753
+meus problemas pareciam
+tão triviais...
+
+293
+00:26:43,853 --> 00:26:47,420
+Tentamos voltar para dentro,
+mas a porta estava trancada,
+
+294
+00:26:47,453 --> 00:26:50,586
+então ficamos presos lá
+a noite toda.
+
+295
+00:26:50,620 --> 00:26:52,486
+Acordei na manhã seguinte
+
+296
+00:26:52,520 --> 00:26:55,653
+e, de algum modo,
+eu sabia que ficaria bem,
+
+297
+00:26:56,453 --> 00:26:57,820
+que eu sobreviveria.
+
+298
+00:27:01,586 --> 00:27:04,253
+Sobreviver àquela tempestade
+me salvou.
+
+299
+00:27:07,153 --> 00:27:10,720
+Se Gordon ainda amava a vida
+depois tudo o que ele passou,
+
+300
+00:27:10,753 --> 00:27:12,120
+como eu não amaria?
+
+301
+00:27:15,420 --> 00:27:17,220
+Ele nunca me contou
+essa história.
+
+302
+00:27:17,253 --> 00:27:19,620
+Eu nunca havia contado
+essa história.
+
+303
+00:27:21,020 --> 00:27:23,286
+Nos falamos algumas vezes,
+
+304
+00:27:23,320 --> 00:27:26,820
+mas nossa amizade
+foi de uma noite.
+
+305
+00:27:29,553 --> 00:27:30,820
+Estou com ciúmes.
+
+306
+00:27:30,853 --> 00:27:33,253
+Sinto como se não
+o conhecesse mais...
+
+307
+00:27:33,286 --> 00:27:36,320
+Não desde que nossa filha...
+Bem...
+
+308
+00:27:39,086 --> 00:27:41,553
+Talvez eu não o conhecesse
+há muito tempo.
+
+309
+00:27:42,453 --> 00:27:44,653
+Posso me convencer
+de que o conhecia,
+
+310
+00:27:44,686 --> 00:27:48,153
+mas aí um completo estranho
+aparece, conta uma história...
+
+311
+00:27:50,620 --> 00:27:53,353
+e percebo que não o conhecia
+nem superficialmente.
+
+312
+00:27:53,386 --> 00:27:54,886
+Sinto muito. Eu não...
+
+313
+00:27:54,920 --> 00:27:58,186
+Não, estou contente
+que tenha feito isso.
+
+314
+00:28:02,786 --> 00:28:04,953
+Lembra-se
+da sua última conversa?
+
+315
+00:28:07,020 --> 00:28:08,820
+Eu queria não lembrar.
+
+316
+00:28:11,753 --> 00:28:13,286
+Eu perdi meu irmão.
+
+317
+00:28:14,820 --> 00:28:18,186
+-Há muito tempo.
+-Sinto muito.
+
+318
+00:28:19,986 --> 00:28:21,986
+Eu estava lá
+quando ele morreu.
+
+319
+00:28:23,853 --> 00:28:25,353
+Ele me disse algo,
+
+320
+00:28:25,386 --> 00:28:29,153
+mas eu não consigo
+me lembrar do que ele disse.
+
+321
+00:28:30,353 --> 00:28:33,420
+Consigo me lembrar
+de cada detalhe daquela noite,
+
+322
+00:28:33,453 --> 00:28:36,086
+exceto das últimas palavras
+que ele me disse.
+
+323
+00:28:36,120 --> 00:28:39,720
+É engraçado como certos detalhes
+se tornam importantes.
+
+324
+00:28:42,720 --> 00:28:45,653
+Eu ainda nem consegui ir
+ao escritório do Gordon.
+
+325
+00:28:45,686 --> 00:28:49,620
+Todo mundo quer pegar
+os artigos dele, os diários.
+
+326
+00:28:49,653 --> 00:28:53,553
+Confesso que parece mais fácil
+mandar todos irem embora.
+
+327
+00:28:53,586 --> 00:28:56,153
+E todos querem falar
+sobre o trabalho dele,
+
+328
+00:28:56,186 --> 00:28:59,186
+como se fosse
+a coisa mais importante.
+
+329
+00:28:59,220 --> 00:29:04,886
+Não a família dele, a vida dele,
+as lembranças que ele deixou.
+
+330
+00:29:04,920 --> 00:29:07,653
+Parece que não se importavam
+com ele.
+
+331
+00:29:10,386 --> 00:29:12,820
+Ele foi encontrado morto
+no escritório
+
+332
+00:29:12,853 --> 00:29:14,386
+com tiros pelas paredes,
+
+333
+00:29:14,420 --> 00:29:16,520
+e isso é...
+
+334
+00:29:18,286 --> 00:29:19,620
+Tiros?
+
+335
+00:29:21,586 --> 00:29:23,486
+Sim, há uma investigação.
+
+336
+00:29:25,720 --> 00:29:27,720
+O jornal diz
+que foi um aneurisma.
+
+337
+00:29:27,753 --> 00:29:31,753
+O escritório dele foi saqueado
+e só Deus sabe.... É confuso.
+
+338
+00:29:32,886 --> 00:29:34,686
+Sabem quem fez isso?
+
+339
+00:29:35,520 --> 00:29:38,186
+Ele estava trabalhando
+com muita gente perturbada.
+
+340
+00:29:38,220 --> 00:29:40,386
+Sei que ele estava
+tendo dificuldades
+
+341
+00:29:40,420 --> 00:29:42,620
+com alguns participantes
+da pesquisa.
+
+342
+00:29:42,653 --> 00:29:44,586
+Já descobriram algo?
+
+343
+00:29:44,620 --> 00:29:46,586
+Acho que acabamos
+de enterrar
+
+344
+00:29:46,620 --> 00:29:49,353
+a única pessoa na Cortex
+que podia descobrir algo.
+
+345
+00:29:51,686 --> 00:29:53,720
+Acha que estão
+escondendo algo?
+
+346
+00:29:53,753 --> 00:29:55,920
+Há uma parte minha que acha
+
+347
+00:29:55,953 --> 00:29:59,853
+que nunca saberei a verdade
+e nem pude me despedir dele.
+
+348
+00:30:04,053 --> 00:30:06,686
+Eu só... Desculpe.
+
+349
+00:30:07,553 --> 00:30:09,686
+Eu queria ter estado
+com ele.
+
+350
+00:30:11,020 --> 00:30:12,553
+Meu Deus...
+
+351
+00:30:15,253 --> 00:30:16,653
+Desculpe.
+
+352
+00:30:16,686 --> 00:30:17,953
+Tudo bem.
+
+353
+00:30:17,986 --> 00:30:20,586
+-Isso é tão idiota, eu...
+-Eu entendo.
+
+354
+00:30:20,620 --> 00:30:23,753
+Eu surtei hoje de manhã,
+porque estava tentando
+
+355
+00:30:23,786 --> 00:30:26,486
+fazer a cafeteira funcionar
+e não consegui.
+
+356
+00:30:28,420 --> 00:30:31,586
+E Gordon fazia
+o melhor café do mundo.
+
+357
+00:30:31,620 --> 00:30:36,453
+Eu choro como um bebê
+durante o café da manhã.
+
+358
+00:30:36,486 --> 00:30:40,786
+Eu choro para tudo mesmo.
+Não consigo parar.
+
+359
+00:30:48,286 --> 00:30:53,620
+James, se incomodaria em contar
+a história novamente?
+
+360
+00:30:56,386 --> 00:30:57,520
+Sem problemas.
+
+361
+00:31:00,653 --> 00:31:01,653
+Saúde!
+
+362
+00:31:05,920 --> 00:31:08,520
+Era uma noite
+escura e tempestuosa...
+
+363
+00:31:10,053 --> 00:31:11,453
+Obrigada, James.
+
+364
+00:31:12,120 --> 00:31:14,620
+Foi inesperado.
+
+365
+00:31:16,620 --> 00:31:18,886
+Espero que volte
+a me visitar.
+
+366
+00:31:18,920 --> 00:31:20,720
+Eu adoraria.
+
+367
+00:31:20,753 --> 00:31:21,986
+Tchau.
+
+368
+00:32:20,453 --> 00:32:23,120
+A verdade pura
+e sem filtros.
+
+369
+00:32:57,786 --> 00:32:59,120
+INICIAR
+
+370
+00:32:59,153 --> 00:33:01,753
+<i>Com a tecnologia</i>
+<i>da máquina de lembranças,</i>
+
+371
+00:33:02,553 --> 00:33:06,586
+<i>uma lembrança pura é gravada</i>
+<i>em uma lâmina memorial,</i>
+
+372
+00:33:07,620 --> 00:33:09,820
+<i>copiada do cérebro</i>
+<i>de forma objetiva</i>
+
+373
+00:33:09,853 --> 00:33:12,020
+<i>e capaz de ser mostrada</i>
+<i>ao paciente</i>
+
+374
+00:33:12,053 --> 00:33:13,853
+<i>ou a qualquer outra pessoa.</i>
+
+375
+00:33:13,886 --> 00:33:16,420
+<i>Ao reviver a lembrança,</i>
+
+376
+00:33:16,453 --> 00:33:19,220
+<i>cria-se uma catarse</i>
+<i>para o paciente,</i>
+
+377
+00:33:19,253 --> 00:33:22,786
+<i>que seria impossível de se obter</i>
+<i>unicamente fazendo-o relembrar.</i>
+
+378
+00:33:22,820 --> 00:33:25,053
+<i>É um tipo de cinema</i>
+<i>da memória,</i>
+
+379
+00:33:25,086 --> 00:33:28,886
+<i>no qual o paciente</i>
+<i>torna-se o público</i>
+
+380
+00:33:28,920 --> 00:33:30,853
+<i>perante a verdade</i>
+<i>da vida dele.</i>
+
+381
+00:33:39,253 --> 00:33:43,653
+<i>Na gravação</i>
+<i>de uma lembrança,</i>
+
+382
+00:33:43,686 --> 00:33:46,886
+<i>o papel do psicólogo</i>
+<i>ou do terapeuta é crucial.</i>
+
+383
+00:33:47,686 --> 00:33:51,153
+<i>O paciente deve ser guiado</i>
+<i>a uma lembrança a ser gravada</i>
+
+384
+00:33:51,186 --> 00:33:53,353
+<i>para ativar</i>
+<i>aquela parte do cérebro,</i>
+
+385
+00:33:53,386 --> 00:33:56,386
+<i>mesmo que tal lembrança não seja</i>
+<i>recordada conscientemente.</i>
+
+386
+00:33:56,420 --> 00:33:59,153
+<i>A máquina tem o potencial</i>
+<i>não só de acessar,</i>
+
+387
+00:33:59,186 --> 00:34:03,020
+<i>mas de alterar</i>
+<i>os caminhos sinápticos,</i>
+
+388
+00:34:03,053 --> 00:34:06,353
+<i>então há o risco de que</i>
+<i>as lembranças sejam corrompidas,</i>
+
+389
+00:34:06,386 --> 00:34:09,120
+<i>alteradas e misturadas.</i>
+
+390
+00:34:09,153 --> 00:34:11,820
+<i>Embora seja teoricamente</i>
+<i>possível restabelecer</i>
+
+391
+00:34:11,853 --> 00:34:13,853
+<i>ou apagar</i>
+<i>lembranças selecionadas,</i>
+
+392
+00:34:13,886 --> 00:34:15,920
+<i>os riscos</i>
+<i>ainda são desconhecidos.</i>
+
+393
+00:34:34,486 --> 00:34:36,986
+ATIVAR SENSORES PARA GRAVAR
+
+394
+00:34:53,020 --> 00:34:54,386
+INICIALIZANDO
+
+395
+00:34:54,420 --> 00:34:55,620
+CONECTANDO SINAPSES
+
+396
+00:35:07,386 --> 00:35:09,386
+GRAVANDO
+
+397
+00:35:09,420 --> 00:35:10,720
+<i>Feliz aniversário...</i>
+
+398
+00:35:12,886 --> 00:35:14,653
+<i>Sam, meu bem, vamos!</i>
+
+399
+00:35:26,720 --> 00:35:28,386
+<i>Alguém me ajude!</i>
+
+400
+00:35:50,420 --> 00:35:53,853
+<i>-Que bom estar em casa, irmão!</i>
+<i>-Que bom tê-lo de volta, mano!</i>
+
+401
+00:35:53,886 --> 00:35:54,886
+<i>É!</i>
+
+402
+00:35:59,553 --> 00:36:02,786
+-Eu dirijo.
+-Não! É o meu possante.
+
+403
+00:36:02,820 --> 00:36:04,653
+É, e eu vou dirigir
+seu possante.
+
+404
+00:36:04,686 --> 00:36:07,953
+Tudo bem. Você dirige...
+
+405
+00:36:29,586 --> 00:36:32,686
+Além do pessoal habitual
+da segurança e manutenção,
+
+406
+00:36:32,720 --> 00:36:35,553
+só três pessoas entraram
+na Cortex depois das 23h,
+
+407
+00:36:35,586 --> 00:36:37,520
+usando cartões de acesso.
+
+408
+00:36:37,553 --> 00:36:41,020
+Porém, nenhum deles aparece
+nas câmeras.
+
+409
+00:36:41,053 --> 00:36:43,886
+Estes dois participaram
+do grupo de testes de Gordon
+
+410
+00:36:43,920 --> 00:36:46,186
+e este, bem... Este é Neil.
+
+411
+00:36:46,220 --> 00:36:48,220
+Por que Gordon
+estava se encontrando
+
+412
+00:36:48,253 --> 00:36:49,620
+com eles tão tarde?
+
+413
+00:36:49,653 --> 00:36:51,520
+-É meio fora do comum.
+-Não sei.
+
+414
+00:36:51,553 --> 00:36:53,753
+Mas eles chegaram
+com minutos de diferença,
+
+415
+00:36:53,786 --> 00:36:55,853
+podem ter sido
+consultas marcadas.
+
+416
+00:36:55,886 --> 00:36:58,753
+Interrogue o pessoal
+que trabalhou naquela noite
+
+417
+00:36:58,786 --> 00:37:01,120
+e depois visite os membros
+do grupo de testes.
+
+418
+00:37:01,153 --> 00:37:04,953
+Mas seja esperto. Eles não podem
+saber que não temos a máquina.
+
+419
+00:37:05,653 --> 00:37:07,520
+Há mais uma coisa.
+
+420
+00:37:10,086 --> 00:37:11,820
+Este cara. Ele não entrou,
+
+421
+00:37:11,853 --> 00:37:14,486
+mas ficou no estacionamento
+por cerca de 25min.
+
+422
+00:37:14,520 --> 00:37:16,486
+-Quem é ele?
+-Ainda não sabemos.
+
+423
+00:37:17,553 --> 00:37:18,753
+Descubra.
+
+424
+00:37:37,186 --> 00:37:40,086
+Preciso descobrir
+o que houve com você, Gordon.
+
+425
+00:37:40,120 --> 00:37:41,953
+É o mínimo que posso fazer.
+
+426
+00:37:43,186 --> 00:37:45,486
+Talvez eu não possa ver
+suas lembranças,
+
+427
+00:37:46,520 --> 00:37:49,953
+mas posso ver as lembranças
+das pessoas que estavam com você
+
+428
+00:37:49,986 --> 00:37:51,686
+quando você morreu.
+
+429
+00:38:11,386 --> 00:38:13,220
+INICIALIZANDO
+
+430
+00:38:13,253 --> 00:38:15,220
+<i>Gosta de ficar</i>
+<i>com a vovó e o vovô?</i>
+
+431
+00:38:16,186 --> 00:38:17,986
+<i>É legal.</i>
+
+432
+00:38:18,020 --> 00:38:19,653
+<i>Eles adoram ficar com você.</i>
+
+433
+00:38:21,553 --> 00:38:24,853
+<i>Você tem sorte por ter seus avós</i>
+<i>e por poder vê-los.</i>
+
+434
+00:38:25,653 --> 00:38:28,286
+<i>Muitas crianças desejariam</i>
+<i>ainda ter seus avós.</i>
+
+435
+00:38:28,320 --> 00:38:30,053
+<i>Mas eu queria ficar</i>
+<i>com você.</i>
+
+436
+00:38:31,986 --> 00:38:33,320
+<i>Mãe.</i>
+
+437
+00:38:33,353 --> 00:38:34,353
+<i>Não.</i>
+
+438
+00:38:34,386 --> 00:38:35,386
+<i>Mamãe!</i>
+
+439
+00:38:52,686 --> 00:38:55,253
+Certo, Gordon,
+vamos conhecer seu grupo.
+
+440
+00:39:02,253 --> 00:39:04,786
+Fique comigo. Vamos!
+
+441
+00:39:04,820 --> 00:39:07,686
+Quero ajudá-lo a voltar
+à verdade desse evento.
+
+442
+00:39:07,720 --> 00:39:08,720
+Vá!
+
+443
+00:39:11,586 --> 00:39:12,586
+MÃE?
+
+444
+00:39:15,953 --> 00:39:17,920
+FERRO-VELHO
+
+445
+00:39:25,220 --> 00:39:28,253
+Pode me contar uma lembrança
+que faça você se odiar?
+
+446
+00:39:31,353 --> 00:39:32,886
+REMÉDIOS?
+
+447
+00:39:41,220 --> 00:39:42,220
+EU AMO NEIL
+
+448
+00:39:42,253 --> 00:39:46,053
+Ao manter isso em segredo,
+você sente vergonha?
+
+449
+00:39:49,320 --> 00:39:52,553
+NAMORADO NEIL
+
+450
+00:39:56,186 --> 00:39:58,620
+<i>Mãe? Mamãe!</i>
+
+451
+00:39:58,653 --> 00:40:00,086
+<i>Bom dia, aniversariante.</i>
+
+452
+00:40:00,120 --> 00:40:01,253
+<i>Por favor!</i>
+
+453
+00:40:01,286 --> 00:40:04,186
+Pensar nisso sempre
+o deixa assim furioso?
+
+454
+00:40:06,953 --> 00:40:08,286
+MULHER NA CORTEX
+
+455
+00:40:10,686 --> 00:40:12,320
+<i>Sente saudades do seu pai?</i>
+
+456
+00:40:18,186 --> 00:40:19,353
+SEGUNDA GUERRA MUNDIAL
+
+457
+00:40:20,020 --> 00:40:22,253
+<i>Posso lhe mostrar</i>
+<i>o seu passado.</i>
+
+458
+00:40:25,853 --> 00:40:27,720
+ENFERMEIRA
+
+459
+00:40:30,186 --> 00:40:31,286
+Entendo.
+
+460
+00:40:42,353 --> 00:40:44,986
+FERRO-VELHO
+
+461
+00:40:45,020 --> 00:40:46,220
+ASILO WILLOW GLEN
+
+462
+00:40:47,486 --> 00:40:49,286
+CASA INCENDIADA
+
+463
+00:40:50,520 --> 00:40:52,120
+CACHORRO
+
+464
+00:40:54,153 --> 00:40:56,353
+SEGUNDA GUERRA MUNDIAL
+
+465
+00:41:00,786 --> 00:41:02,586
+NAMORADO
+
+466
+00:41:12,020 --> 00:41:13,286
+ASILO WILLOW GLEN
+
+467
+00:41:15,186 --> 00:41:18,453
+Encontrar o primo Rafferty
+vai fazê-lo ganhar o dia.
+
+468
+00:41:18,486 --> 00:41:20,086
+Espero que sim.
+
+469
+00:41:20,120 --> 00:41:23,353
+Faz um século
+que não o vejo.
+
+470
+00:41:24,353 --> 00:41:27,153
+Charles,
+veja quem veio visitá-lo!
+
+471
+00:41:28,053 --> 00:41:30,886
+Estas plantas mantêm
+o cérebro dele ativo.
+
+472
+00:41:31,686 --> 00:41:34,153
+Ele se lembra dos dias
+em que precisam ser regadas,
+
+473
+00:41:34,186 --> 00:41:36,086
+mas não se lembra
+das enfermeiras.
+
+474
+00:41:36,120 --> 00:41:37,453
+Não é, Charles?
+
+475
+00:41:42,953 --> 00:41:45,520
+Charles, seu primo Rafferty
+veio visitá-lo.
+
+476
+00:41:48,320 --> 00:41:49,886
+Vou deixá-los à vontade.
+
+477
+00:41:51,153 --> 00:41:52,753
+-Obrigado.
+-De nada.
+
+478
+00:41:52,786 --> 00:41:54,353
+Hugh, é você?
+
+479
+00:41:56,320 --> 00:41:58,486
+Não, meu nome é Rafferty.
+
+480
+00:41:59,886 --> 00:42:02,186
+Charles, você se lembra
+de Gordon Dunn?
+
+481
+00:42:02,220 --> 00:42:03,386
+O médico?
+
+482
+00:42:04,120 --> 00:42:05,420
+Eu te conheço?
+
+483
+00:42:11,886 --> 00:42:13,386
+Você trouxe.
+
+484
+00:42:14,520 --> 00:42:15,886
+Quer assistir?
+
+485
+00:42:16,820 --> 00:42:19,420
+Sim, por favor.
+
+486
+00:42:23,286 --> 00:42:24,286
+Venha.
+
+487
+00:43:10,253 --> 00:43:13,220
+Tudo bem, Buster.
+Está tudo bem.
+
+488
+00:43:22,520 --> 00:43:27,186
+FIM DA LEMBRANÇA
+
+489
+00:43:29,486 --> 00:43:30,886
+A minha vida.
+
+490
+00:43:33,486 --> 00:43:34,953
+Isso é a minha vida.
+
+491
+00:43:38,653 --> 00:43:41,386
+Cindy era minha esposa.
+
+492
+00:43:42,653 --> 00:43:46,653
+Sempre fui fiel a ela.
+
+493
+00:43:48,086 --> 00:43:50,586
+Charles, quem são
+as outras pessoas do grupo
+
+494
+00:43:50,620 --> 00:43:52,186
+que trabalhavam com Gordon?
+
+495
+00:43:52,220 --> 00:43:53,720
+Eu preciso encontrá-las.
+
+496
+00:43:55,420 --> 00:43:59,320
+Eu me lembro de uma mulher,
+Allison.
+
+497
+00:43:59,986 --> 00:44:02,253
+Ela veio aqui me visitar
+algumas vezes.
+
+498
+00:44:03,220 --> 00:44:04,753
+Lembra do sobrenome dela?
+
+499
+00:44:07,453 --> 00:44:08,720
+Ela nunca me disse.
+
+500
+00:44:09,620 --> 00:44:12,386
+Só mais uma pergunta,
+
+501
+00:44:12,420 --> 00:44:13,786
+se conseguir lembrar.
+
+502
+00:44:15,653 --> 00:44:17,886
+Quando estava gravando
+suas lembranças,
+
+503
+00:44:17,920 --> 00:44:22,053
+o que Gordon falou sobre voltar
+a um momento específico?
+
+504
+00:44:26,053 --> 00:44:28,953
+Isso se resumia
+à concentração...
+
+505
+00:44:30,086 --> 00:44:31,086
+Concentração?
+
+506
+00:44:39,420 --> 00:44:43,253
+Pensei que tinha dito,
+precisa deixar a água escoar.
+
+507
+00:44:44,720 --> 00:44:46,886
+-Certo.
+-Vou cuidar disso sozinho.
+
+508
+00:44:51,486 --> 00:44:53,020
+Obrigado, Charles.
+
+509
+00:45:06,353 --> 00:45:07,753
+Deixe escoar.
+
+510
+00:45:13,153 --> 00:45:14,686
+RUA CLEMENTINE, 523
+
+511
+00:45:14,720 --> 00:45:16,153
+ESQUILO MORTO
+
+512
+00:45:26,320 --> 00:45:27,753
+Isso, querido.
+
+513
+00:45:27,786 --> 00:45:30,286
+-Boa tarde, sra. Dunn.
+-Boa tarde.
+
+514
+00:45:30,320 --> 00:45:33,620
+Recebemos os resultados
+do exame toxicológico.
+
+515
+00:45:33,653 --> 00:45:36,920
+-E?
+-Houve alguns picos isolados,
+
+516
+00:45:36,953 --> 00:45:40,053
+mas nada que indique
+algo fora do comum.
+
+517
+00:45:40,086 --> 00:45:44,120
+-E os tiros?
+-Ainda estão sendo investigados.
+
+518
+00:45:44,153 --> 00:45:46,286
+Estamos fazendo
+as análises balísticas,
+
+519
+00:45:46,320 --> 00:45:47,786
+e a Cortex está cooperando
+
+520
+00:45:47,820 --> 00:45:50,386
+com os antecedentes
+e os vídeos de segurança.
+
+521
+00:45:50,420 --> 00:45:53,953
+Lawton passou aqui pela manhã
+para me tranquilizar.
+
+522
+00:45:53,986 --> 00:45:56,720
+Acho que ele só queria entrar
+no escritório do Gordon.
+
+523
+00:45:56,753 --> 00:45:59,686
+Estava tudo bem
+entre a senhora e Gordon?
+
+524
+00:46:00,520 --> 00:46:01,820
+Tchau, detetive.
+
+525
+00:46:07,453 --> 00:46:08,753
+Manterei contato.
+
+526
+00:46:20,586 --> 00:46:23,586
+-Allison?
+-Ela não está.
+
+527
+00:46:24,453 --> 00:46:25,520
+Posso ajudá-lo?
+
+528
+00:46:25,553 --> 00:46:28,220
+Sim. Meu nome é Basil.
+Trabalho para a Cortex.
+
+529
+00:46:28,253 --> 00:46:30,420
+Ela é parte de um grupo
+de testes nosso,
+
+530
+00:46:30,453 --> 00:46:33,320
+e meu trabalho é verificar
+os participantes às vezes
+
+531
+00:46:33,353 --> 00:46:35,086
+e garantir que estejam bem.
+
+532
+00:46:35,120 --> 00:46:37,320
+-Trabalha para a Cortex?
+-Sim, senhora.
+
+533
+00:46:37,353 --> 00:46:40,820
+-E qual é seu nome?
+-Basil. Basil Pine.
+
+534
+00:46:40,853 --> 00:46:46,686
+Bem, Basil, se esse é o caso,
+você é horrível no seu trabalho.
+
+535
+00:46:47,820 --> 00:46:49,420
+Como é?
+
+536
+00:46:49,453 --> 00:46:51,020
+Allison morreu.
+
+537
+00:46:51,053 --> 00:46:53,253
+Ela se matou
+há três semanas.
+
+538
+00:46:54,453 --> 00:46:55,620
+Você não sabia?
+
+539
+00:46:58,153 --> 00:47:00,553
+-Sinto muito.
+-Isso não devolve minha irmã.
+
+540
+00:47:00,586 --> 00:47:01,753
+Ela era frágil demais
+
+541
+00:47:01,786 --> 00:47:03,886
+para participar
+desse experimento besta.
+
+542
+00:47:03,920 --> 00:47:06,286
+Qualquer cego veria isso.
+
+543
+00:47:06,320 --> 00:47:07,986
+Tenho as lembranças dela.
+
+544
+00:47:14,486 --> 00:47:17,553
+Sei das dificuldades
+em seu passado, Allison.
+
+545
+00:47:32,186 --> 00:47:34,286
+Sei que os remédios
+não funcionaram.
+
+546
+00:47:36,320 --> 00:47:37,653
+Eu posso ajudar.
+
+547
+00:47:37,686 --> 00:47:39,620
+Feliz aniversário,
+Alli-linda!
+
+548
+00:47:43,153 --> 00:47:44,453
+<i>Pode levar um tempo.</i>
+
+549
+00:47:45,520 --> 00:47:48,786
+<i>É um processo.</i>
+<i>Pode piorar antes de melhorar.</i>
+
+550
+00:47:55,320 --> 00:47:58,453
+Nesse aniversário,
+fizemos uma surpresa para ela.
+
+551
+00:47:59,186 --> 00:48:02,020
+Foi a última vez em que a vi
+realmente feliz.
+
+552
+00:48:02,053 --> 00:48:04,020
+Acha que ela culpou
+a máquina?
+
+553
+00:48:06,220 --> 00:48:10,653
+Acho que a máquina a sufocou
+no passado dela.
+
+554
+00:48:14,720 --> 00:48:18,586
+Qual é o motivo disso afinal?
+Para que a máquina existe?
+
+555
+00:48:18,620 --> 00:48:20,320
+Não tenho certeza.
+
+556
+00:48:21,453 --> 00:48:25,120
+Mas Gordon Dunn acreditava
+que nós não sabemos
+
+557
+00:48:25,153 --> 00:48:26,886
+o valor real de um momento
+
+558
+00:48:26,920 --> 00:48:28,686
+até ele virar uma lembrança.
+
+559
+00:48:28,720 --> 00:48:32,020
+Talvez ele estivesse tentando
+fazer as pessoas perceberem
+
+560
+00:48:32,053 --> 00:48:33,320
+o valor de um momento
+
+561
+00:48:33,353 --> 00:48:36,420
+antes que ele mudasse
+ou se perdesse para sempre.
+
+562
+00:48:36,453 --> 00:48:39,453
+Isso é muito bonito
+e floreado, mas...
+
+563
+00:48:39,486 --> 00:48:41,553
+Alguém da Cortex a contatou?
+
+564
+00:48:42,553 --> 00:48:44,486
+Gordon ou alguém
+de seu grupo?
+
+565
+00:48:44,520 --> 00:48:49,353
+Recebi uma ligação
+de um cara chamado Robert.
+
+566
+00:48:49,386 --> 00:48:51,520
+-Lawton?
+-Isso mesmo.
+
+567
+00:48:51,553 --> 00:48:54,986
+Ele me ofereceu um cheque
+para eu não falar com ninguém.
+
+568
+00:48:55,020 --> 00:48:56,853
+-Você aceitou?
+-Claro que aceitei.
+
+569
+00:48:56,886 --> 00:48:58,653
+Quem recusaria US$ 50 mil?
+
+570
+00:48:59,720 --> 00:49:01,953
+E não se pode enfrentar
+essas empresas.
+
+571
+00:49:01,986 --> 00:49:04,053
+-Não dá para ganhar.
+-Não.
+
+572
+00:49:08,820 --> 00:49:10,620
+Sinto muito pela sua irmã.
+
+573
+00:49:14,120 --> 00:49:15,486
+Quer saber?
+
+574
+00:49:15,520 --> 00:49:17,686
+Outro cara passou aqui,
+
+575
+00:49:17,720 --> 00:49:20,286
+um jovem meio esquisito.
+
+576
+00:49:21,386 --> 00:49:24,886
+Ele disse que era um pesquisador
+do dr. Gordon.
+
+577
+00:49:25,653 --> 00:49:26,886
+O que ele queria?
+
+578
+00:49:26,920 --> 00:49:29,286
+Saber se Allison
+havia mesmo se matado.
+
+579
+00:49:29,320 --> 00:49:32,553
+Só isso. Ele pareceu chocado
+quando eu confirmei.
+
+580
+00:49:32,586 --> 00:49:35,653
+-Lembra o nome dele?
+-Neil Frankel.
+
+581
+00:49:36,720 --> 00:49:38,753
+-O namorado.
+-Como é?
+
+582
+00:49:38,786 --> 00:49:41,820
+Não é nada.
+Só tentando lembrar o nome.
+
+583
+00:49:43,520 --> 00:49:44,853
+Foi o que ele disse.
+
+584
+00:49:46,220 --> 00:49:49,420
+Mas você falou que seu nome
+é Basil Pine.
+
+585
+00:49:52,886 --> 00:49:55,853
+ME ENCONTRE AMANHÃ
+NA BAY BRIDGE ÀS 9H!
+
+586
+00:50:15,653 --> 00:50:18,720
+CONCENTRAÇÃO
+
+587
+00:50:23,453 --> 00:50:25,553
+INSIRA A LEMBRANÇA
+
+588
+00:50:25,586 --> 00:50:27,386
+ATIVE SENSORES PARA GRAVAR
+
+589
+00:50:27,420 --> 00:50:30,553
+INICIALIZANDO
+
+590
+00:50:44,686 --> 00:50:45,920
+Alguém me ajude!
+
+591
+00:50:46,720 --> 00:50:47,920
+Por favor!
+
+592
+00:51:54,786 --> 00:51:56,386
+Para quem você trabalha?
+
+593
+00:51:56,420 --> 00:51:59,153
+Para uma das partes
+interessadas. Quem é você?
+
+594
+00:51:59,186 --> 00:52:02,086
+Eu trabalhava com Gordon.
+Era pesquisador assistente.
+
+595
+00:52:02,120 --> 00:52:03,453
+Neil Frankel?
+
+596
+00:52:04,920 --> 00:52:06,353
+Como me encontrou?
+
+597
+00:52:06,386 --> 00:52:10,186
+Me lembrei do seu rosto
+no lançamento e o rastreei.
+
+598
+00:52:10,220 --> 00:52:12,320
+-Bela memória!
+-É fotográfica.
+
+599
+00:52:12,353 --> 00:52:15,486
+Foi por isso que Gordon me quis
+no grupo. Ele achou curioso.
+
+600
+00:52:15,520 --> 00:52:18,420
+-O que quer de mim?
+-A máquina.
+
+601
+00:52:19,920 --> 00:52:21,286
+Ela sumiu?
+
+602
+00:52:21,320 --> 00:52:23,453
+-Nós precisamos da máquina!
+-Nós quem?
+
+603
+00:52:23,486 --> 00:52:25,886
+-A Cortex!
+-Não está comigo.
+
+604
+00:52:26,920 --> 00:52:28,786
+Mas posso ajudá-lo
+se me ajudar.
+
+605
+00:52:29,886 --> 00:52:32,586
+-Como?
+-O que levou Allison a se matar?
+
+606
+00:52:32,620 --> 00:52:35,753
+Você não deveria saber disso.
+Tem gente atrás de você...
+
+607
+00:52:35,786 --> 00:52:38,820
+Um homem foi morto.
+Há preocupações maiores.
+
+608
+00:52:38,853 --> 00:52:40,786
+-Foi um aneurisma.
+-É o que dizem.
+
+609
+00:52:40,820 --> 00:52:43,453
+Se você confiasse em Lawton
+não estaríamos aqui.
+
+610
+00:52:43,486 --> 00:52:45,520
+A não ser que isto seja
+uma cilada.
+
+611
+00:52:46,586 --> 00:52:48,153
+Por que visitou Allison?
+
+612
+00:52:48,186 --> 00:52:50,786
+-Queria ver se era verdade.
+-O suicídio dela?
+
+613
+00:52:50,820 --> 00:52:54,020
+Mas ela estava morta há semanas
+quando você foi lá.
+
+614
+00:52:54,053 --> 00:52:56,486
+Eu não sabia disso.
+Nem Gordon sabia...
+
+615
+00:52:56,520 --> 00:52:57,820
+Como não sabiam?
+
+616
+00:52:57,853 --> 00:53:00,053
+A fase de testes dela
+havia acabado e...
+
+617
+00:53:00,086 --> 00:53:01,853
+Lawton não queria
+que soubéssemos.
+
+618
+00:53:01,886 --> 00:53:03,286
+Ele estava escondendo.
+
+619
+00:53:03,320 --> 00:53:05,386
+Imagine as manchetes
+se descobrissem
+
+620
+00:53:05,420 --> 00:53:07,886
+que um paciente se matou
+durante os testes!
+
+621
+00:53:07,920 --> 00:53:10,586
+Essa seria a história.
+Teria acabado com tudo.
+
+622
+00:53:10,620 --> 00:53:14,053
+Gordon não teve escolha,
+exceto continuar.
+
+623
+00:53:14,086 --> 00:53:18,086
+Mas ele não sabia de tudo.
+A pesquisa tem falhas.
+
+624
+00:53:18,120 --> 00:53:20,720
+-Lawton a manipulou.
+-Por que ele faria isso?
+
+625
+00:53:20,753 --> 00:53:23,620
+Porque uma porcentagem
+não muito pequena de pessoas
+
+626
+00:53:23,653 --> 00:53:26,353
+era suscetível
+a efeitos negativos da máquina.
+
+627
+00:53:26,386 --> 00:53:27,586
+Negativos como?
+
+628
+00:53:27,620 --> 00:53:29,886
+Lembranças emocionais
+sendo confundidas
+
+629
+00:53:29,920 --> 00:53:33,153
+e se misturando à realidade,
+estimulando sinapses,
+
+630
+00:53:33,186 --> 00:53:35,253
+alucinações,
+colapsos temporais.
+
+631
+00:53:36,620 --> 00:53:37,853
+Como Allison.
+
+632
+00:53:38,853 --> 00:53:41,020
+Se Gordon soubesse,
+ele teria consertado.
+
+633
+00:53:41,053 --> 00:53:43,086
+Não tenho dúvidas, mas...
+
+634
+00:53:43,120 --> 00:53:45,586
+Ele precisaria de tempo,
+meses,
+
+635
+00:53:45,620 --> 00:53:47,686
+e isso é algo
+que Lawton não tinha.
+
+636
+00:53:47,720 --> 00:53:49,553
+Ele havia feito promessas.
+
+637
+00:53:51,386 --> 00:53:55,886
+Há problemas a serem resolvidos,
+mas a máquina é incrível.
+
+638
+00:53:56,586 --> 00:53:58,120
+O que ela pode fazer é...
+
+639
+00:53:59,653 --> 00:54:02,453
+Gordon merece ser lembrado
+como um gênio.
+
+640
+00:54:02,486 --> 00:54:04,286
+Acho que acabamos aqui.
+
+641
+00:54:05,253 --> 00:54:07,820
+Se encontrar a máquina,
+sabe onde eu trabalho.
+
+642
+00:54:08,486 --> 00:54:11,520
+Procuro uma jovem que fazia
+parte do grupo de testes.
+
+643
+00:54:12,920 --> 00:54:15,253
+Bem, havia duas,
+e agora uma está morta.
+
+644
+00:54:55,120 --> 00:54:58,153
+<i>Mãe? Mamãe?</i>
+
+645
+00:54:58,186 --> 00:54:59,320
+<i>Por favor.</i>
+
+646
+00:55:05,553 --> 00:55:06,853
+<i>Eu te amo.</i>
+
+647
+00:55:12,753 --> 00:55:13,986
+Gordon.
+
+648
+00:55:33,120 --> 00:55:36,520
+Encontramos o grupo,
+mas ninguém está com a máquina.
+
+649
+00:55:38,920 --> 00:55:40,653
+Eu estava guardando isso...
+
+650
+00:55:43,853 --> 00:55:45,486
+para o retorno de Gordon.
+
+651
+00:55:46,353 --> 00:55:49,486
+Tenho certeza de que ele iria
+querer que você aproveitasse.
+
+652
+00:55:52,386 --> 00:55:54,186
+Você faz alguma ideia
+
+653
+00:55:54,220 --> 00:55:56,886
+da pressão
+
+654
+00:55:56,920 --> 00:55:59,986
+que estou sofrendo?
+
+655
+00:56:02,953 --> 00:56:04,620
+Vamos encontrá-la.
+
+656
+00:56:05,820 --> 00:56:07,286
+Sim, vocês vão.
+
+657
+00:56:18,153 --> 00:56:19,686
+<i>Bom dia, aniversariante.</i>
+
+658
+00:56:23,386 --> 00:56:24,453
+<i>Por favor.</i>
+
+659
+00:56:24,486 --> 00:56:27,320
+Pensar nisso sempre
+a deixa nervosa?
+
+660
+00:56:27,986 --> 00:56:30,786
+Wendy, isso vai ajudar.
+
+661
+00:56:34,953 --> 00:56:37,120
+<i>Quando pensa nisso,</i>
+<i>ainda sente medo?</i>
+
+662
+00:56:38,786 --> 00:56:41,886
+<i>-Mãe?</i>
+<i>-O ritmo cardíaco aumenta?</i>
+
+663
+00:56:41,920 --> 00:56:42,920
+<i>Mamãe!</i>
+
+664
+00:56:45,020 --> 00:56:46,086
+<i>Eu entendo.</i>
+
+665
+00:56:57,286 --> 00:56:59,586
+AMANTE
+
+666
+00:57:11,753 --> 00:57:16,186
+GALERIA DE ARTE NEUMA
+
+667
+00:57:20,820 --> 00:57:23,153
+Estarei aqui,
+se tiver alguma pergunta.
+
+668
+00:57:32,420 --> 00:57:33,820
+É lindo, não é?
+
+669
+00:57:34,886 --> 00:57:35,986
+Espetacular.
+
+670
+00:57:36,886 --> 00:57:38,553
+Isso me traz uma lembrança.
+
+671
+00:57:38,586 --> 00:57:41,320
+É? De quê?
+
+672
+00:57:41,353 --> 00:57:42,720
+Meu pai.
+
+673
+00:57:42,753 --> 00:57:45,020
+Ele adorava atividades
+ao ar livre.
+
+674
+00:57:45,920 --> 00:57:47,753
+Caça, pesca, trilhas, tudo.
+
+675
+00:57:48,986 --> 00:57:52,120
+Um dia, ele levou o meu irmão
+e a mim para caçar.
+
+676
+00:57:52,153 --> 00:57:54,453
+Era raro ele levar nós dois.
+
+677
+00:57:55,186 --> 00:57:59,386
+Cavamos um buraco na lama
+e esperamos.
+
+678
+00:58:00,720 --> 00:58:02,820
+Eu só queria
+deixá-lo orgulhoso.
+
+679
+00:58:04,553 --> 00:58:07,920
+Depois de uma hora,
+um coelho apareceu.
+
+680
+00:58:09,186 --> 00:58:10,620
+Eu peguei minha arma
+
+681
+00:58:10,653 --> 00:58:14,120
+e, quando foi pular,
+ele caiu duro.
+
+682
+00:58:14,153 --> 00:58:16,186
+Sangue para todo lado.
+
+683
+00:58:17,486 --> 00:58:20,186
+Eu queria poder esquecer
+essa lembrança.
+
+684
+00:58:21,420 --> 00:58:23,786
+Tem algo que gostaria
+de poder esquecer?
+
+685
+00:58:23,820 --> 00:58:25,353
+Ou alguém?
+
+686
+00:58:25,386 --> 00:58:27,353
+Gordon Dunn, talvez?
+
+687
+00:58:30,653 --> 00:58:31,986
+Quem é você?
+
+688
+00:58:32,020 --> 00:58:33,720
+Trabalho para a viúva dele.
+
+689
+00:58:34,686 --> 00:58:36,486
+Eu sei sobre vocês dois.
+
+690
+00:58:40,286 --> 00:58:42,620
+-Acha que ele foi assassinado?
+-Acho.
+
+691
+00:58:42,653 --> 00:58:45,553
+Sei que você esteve com ele
+naquela noite.
+
+692
+00:58:45,586 --> 00:58:47,253
+Sei que roubou a máquina.
+
+693
+00:58:47,986 --> 00:58:50,886
+Eu o amava, e ele me amava.
+
+694
+00:58:51,686 --> 00:58:52,953
+Tinha acabado?
+
+695
+00:58:54,820 --> 00:58:56,553
+Não foi escolha minha.
+
+696
+00:58:56,586 --> 00:58:59,886
+Por isso você pegou a máquina?
+Para se vingar dele?
+
+697
+00:58:59,920 --> 00:59:05,186
+Enquanto eu estava trabalhando
+com Gordon em uma sessão, ele...
+
+698
+00:59:06,153 --> 00:59:07,553
+Ele viu algo.
+
+699
+00:59:08,220 --> 00:59:11,086
+Não era nada incriminatório,
+era só uma lembrança
+
+700
+00:59:11,120 --> 00:59:13,953
+de anos antes,
+com um homem que amei.
+
+701
+00:59:15,420 --> 00:59:16,686
+Um momento íntimo.
+
+702
+00:59:16,720 --> 00:59:18,753
+Ele não tinha
+o direito de vê-la.
+
+703
+00:59:18,786 --> 00:59:20,486
+Então eu a queria de volta.
+
+704
+00:59:22,486 --> 00:59:26,053
+Imagine ter suas lembranças
+vistas por outras pessoas,
+
+705
+00:59:26,786 --> 00:59:28,286
+na frente de um público?
+
+706
+00:59:28,320 --> 00:59:30,820
+Era como se minha vida
+não me pertencesse mais.
+
+707
+00:59:32,920 --> 00:59:35,653
+Todas as lembranças foram
+afetadas por Gordon.
+
+708
+00:59:36,786 --> 00:59:38,686
+Mas você
+não as pegou de volta.
+
+709
+00:59:40,053 --> 00:59:41,386
+Eu tentei.
+
+710
+00:59:42,253 --> 00:59:44,220
+<i>Eu tirei a máquina da Cortex</i>
+
+711
+00:59:44,253 --> 00:59:46,720
+<i>e voltei</i>
+<i>para a casa de Gordon.</i>
+
+712
+00:59:59,053 --> 01:00:01,120
+<i>Eu só queria</i>
+<i>as minhas lembranças.</i>
+
+713
+01:00:01,820 --> 01:00:03,620
+<i>Não me importava</i>
+<i>com o resto.</i>
+
+714
+01:00:14,953 --> 01:00:16,320
+<i>Mas então...</i>
+
+715
+01:00:16,353 --> 01:00:17,386
+Gordon?
+
+716
+01:00:20,953 --> 01:00:21,953
+Gordon?
+
+717
+01:00:30,486 --> 01:00:31,620
+Gordon?
+
+718
+01:00:31,653 --> 01:00:33,886
+Eu até tentei voltar,
+
+719
+01:00:33,920 --> 01:00:35,653
+mas tudo havia sumido.
+
+720
+01:00:35,686 --> 01:00:37,853
+Não vou conseguir
+superar isso
+
+721
+01:00:37,886 --> 01:00:40,220
+até ter minhas lembranças
+de volta.
+
+722
+01:00:43,286 --> 01:00:46,053
+Se me ajudar a encontrar
+o assassino de Gordon...
+
+723
+01:00:47,320 --> 01:00:49,153
+eu as conseguirei para você.
+
+724
+01:00:52,620 --> 01:00:55,520
+Se ainda não conversou
+com Todd, deveria.
+
+725
+01:00:55,553 --> 01:00:57,320
+Ele estava furioso.
+
+726
+01:00:57,353 --> 01:00:59,120
+Ele estava lá naquela noite?
+
+727
+01:01:01,620 --> 01:01:02,986
+Gordon era...
+
+728
+01:01:03,953 --> 01:01:05,386
+um homem brilhante...
+
+729
+01:01:06,186 --> 01:01:07,520
+e realmente bom.
+
+730
+01:01:09,820 --> 01:01:12,520
+Só não sei ainda
+se a criação dele também era.
+
+731
+01:01:13,586 --> 01:01:15,420
+É, nem eu.
+
+732
+01:01:19,653 --> 01:01:21,453
+Por que está fazendo isso?
+
+733
+01:01:23,686 --> 01:01:25,020
+Encerramento.
+
+734
+01:01:39,153 --> 01:01:42,420
+Tem um botão.
+Liga e desliga.
+
+735
+01:01:49,653 --> 01:01:50,820
+Medicina.
+
+736
+01:01:50,853 --> 01:01:54,253
+Oxford. Especificamente,
+a floresta atrás do laboratório.
+
+737
+01:01:54,286 --> 01:01:57,386
+Gordon fazia testes em animais,
+e eu os libertava.
+
+738
+01:01:57,420 --> 01:01:58,786
+Ele ficou preocupado
+
+739
+01:01:58,820 --> 01:02:01,486
+que alguém estivesse acabando
+com os primatas,
+
+740
+01:02:01,520 --> 01:02:03,253
+então veio atrás de mim.
+
+741
+01:02:03,286 --> 01:02:07,586
+Ele me encontrou
+dando sanduíches ao Pickles.
+
+742
+01:02:07,620 --> 01:02:08,653
+Pickles?
+
+743
+01:02:11,320 --> 01:02:13,520
+-Pickles, o chimpanzé.
+-Certo.
+
+744
+01:02:17,853 --> 01:02:19,453
+Era outra época.
+
+745
+01:02:19,486 --> 01:02:21,220
+É engraçado
+como a vida muda.
+
+746
+01:02:21,253 --> 01:02:24,320
+Os anos passam e, aos poucos,
+você se vê definido
+
+747
+01:02:24,353 --> 01:02:27,620
+nem tanto pelas coisas que faz,
+mas pelas coisas que não faz.
+
+748
+01:02:27,653 --> 01:02:30,253
+Eu ia aprender francês,
+escrever um livro,
+
+749
+01:02:30,286 --> 01:02:33,653
+ter uma família grande
+e feliz,
+
+750
+01:02:33,686 --> 01:02:35,820
+e não fiz
+nenhuma dessas coisas
+
+751
+01:02:35,853 --> 01:02:37,786
+ou elas simplesmente
+não aconteceram.
+
+752
+01:02:37,820 --> 01:02:39,553
+E eu sou o que restou.
+
+753
+01:02:42,086 --> 01:02:43,386
+Acho que, em parte,
+
+754
+01:02:43,420 --> 01:02:46,420
+somos todos restos de sonhos
+não realizados.
+
+755
+01:02:48,953 --> 01:02:50,953
+Depois que Jane morreu,
+
+756
+01:02:50,986 --> 01:02:54,686
+Gordon queria outro filho,
+mas eu não conseguia.
+
+757
+01:02:56,453 --> 01:02:58,686
+Então ele se afundou
+no trabalho.
+
+758
+01:02:58,720 --> 01:03:02,486
+Eu acho
+que ele realmente acreditava
+
+759
+01:03:02,520 --> 01:03:05,253
+que a máquina poderia
+mudar o passado
+
+760
+01:03:05,286 --> 01:03:08,353
+e, quando ele percebeu
+que não poderia,
+
+761
+01:03:08,386 --> 01:03:10,220
+ele encontrou outra mulher
+
+762
+01:03:10,253 --> 01:03:12,553
+que não o fazia
+se lembrar disso.
+
+763
+01:03:16,653 --> 01:03:18,286
+E eu ainda o amava.
+
+764
+01:03:18,320 --> 01:03:20,420
+Eu sempre o amarei.
+
+765
+01:03:21,286 --> 01:03:22,786
+Ele era brilhante.
+
+766
+01:03:23,720 --> 01:03:25,886
+E a última coisa
+que eu disse a ele...
+
+767
+01:03:26,986 --> 01:03:28,586
+foi: "Você é um imbecil."
+
+768
+01:03:32,420 --> 01:03:34,486
+Tenho que viver
+com essa lembrança
+
+769
+01:03:34,520 --> 01:03:35,820
+e essa realidade e...
+
+770
+01:03:37,520 --> 01:03:40,253
+Nossa!
+Parece que não tem fim!
+
+771
+01:03:41,186 --> 01:03:42,953
+Acho que terá um fim.
+
+772
+01:03:43,853 --> 01:03:45,186
+Acredito nisso.
+
+773
+01:03:46,886 --> 01:03:49,153
+E, se formos,
+como Gordon disse,
+
+774
+01:03:49,186 --> 01:03:51,220
+apenas a soma
+de nossas lembranças,
+
+775
+01:03:51,886 --> 01:03:54,786
+fico muito feliz
+por ter criado esta com você.
+
+776
+01:05:30,820 --> 01:05:33,486
+Não consigo pensar em um momento
+da minha vida
+
+777
+01:05:33,520 --> 01:05:35,120
+em que estive mais feliz.
+
+778
+01:05:57,653 --> 01:05:58,686
+Resta um.
+
+779
+01:06:36,486 --> 01:06:37,820
+Não!
+
+780
+01:06:59,986 --> 01:07:01,320
+Com licença. Oi.
+
+781
+01:07:04,953 --> 01:07:06,553
+-Picape?
+-O quê?
+
+782
+01:07:06,586 --> 01:07:08,186
+Você tem uma picape?
+
+783
+01:07:09,286 --> 01:07:12,220
+-Não.
+-Então como posso ajudá-lo?
+
+784
+01:07:15,653 --> 01:07:18,086
+Eu queria fazer perguntas
+sobre Gordon Dunn.
+
+785
+01:07:19,586 --> 01:07:20,720
+Dê o fora.
+
+786
+01:07:21,853 --> 01:07:23,753
+-Só umas perguntas...
+-Dê o fora.
+
+787
+01:07:23,786 --> 01:07:25,586
+-Só umas perguntas...
+-Dê o fora!
+
+788
+01:07:51,986 --> 01:07:53,553
+Sinto muito.
+
+789
+01:07:56,620 --> 01:07:59,420
+Como sabia a senha do cofre?
+
+790
+01:08:00,653 --> 01:08:02,253
+Vi suas lembranças, Todd.
+
+791
+01:08:03,586 --> 01:08:04,986
+O que quer de mim?
+
+792
+01:08:07,786 --> 01:08:11,253
+-Você matou Gordon Dunn?
+-Abaixe a arma! Abaixe-a!
+
+793
+01:08:11,286 --> 01:08:14,120
+Sei que ele foi assassinado,
+que vocês brigaram
+
+794
+01:08:14,153 --> 01:08:15,886
+e que esteve na Cortex.
+
+795
+01:08:15,920 --> 01:08:17,853
+Eu não o matei.
+Abaixe a arma!
+
+796
+01:08:17,886 --> 01:08:19,820
+Por que vocês brigaram?
+
+797
+01:08:19,853 --> 01:08:21,386
+Tudo bem.
+
+798
+01:08:21,420 --> 01:08:23,753
+Vou lhe contar.
+
+799
+01:08:24,586 --> 01:08:26,420
+Vou lhe contar.
+Abaixe a arma.
+
+800
+01:08:29,786 --> 01:08:31,420
+Eu queria matá-lo.
+
+801
+01:08:32,420 --> 01:08:34,153
+Eu queria mesmo.
+
+802
+01:08:35,986 --> 01:08:38,586
+Ele não nos disse
+o que a máquina faria.
+
+803
+01:08:39,519 --> 01:08:40,653
+Não mesmo.
+
+804
+01:08:41,753 --> 01:08:43,420
+Ele não nos disse que ela...
+
+805
+01:08:44,353 --> 01:08:46,886
+traria à tona
+coisas que estavam enterradas.
+
+806
+01:08:47,986 --> 01:08:52,420
+A mente esquece as coisas
+por um motivo.
+
+807
+01:08:52,453 --> 01:08:55,153
+Você não ouviu! Nunca ouve!
+
+808
+01:08:55,186 --> 01:08:56,720
+E agora é tarde demais.
+
+809
+01:08:56,753 --> 01:08:58,186
+Calma.
+
+810
+01:08:58,220 --> 01:09:00,086
+Acalme-se, por favor.
+
+811
+01:09:00,120 --> 01:09:02,120
+Calma. Acalme-se.
+
+812
+01:09:02,153 --> 01:09:03,620
+Não, você não quer...
+
+813
+01:09:03,653 --> 01:09:05,653
+Por favor,
+não deixe isso se agravar.
+
+814
+01:09:05,686 --> 01:09:07,086
+Não! Não!
+
+815
+01:09:11,653 --> 01:09:12,920
+Quando acordei...
+
+816
+01:09:14,120 --> 01:09:15,920
+no hospital, eu havia...
+
+817
+01:09:17,053 --> 01:09:18,653
+Eu havia esquecido tudo.
+
+818
+01:09:20,420 --> 01:09:22,653
+E a máquina trouxe
+tudo de volta.
+
+819
+01:09:23,486 --> 01:09:26,519
+E aquilo não parava
+de se repetir na minha cabeça.
+
+820
+01:09:26,553 --> 01:09:29,753
+Ela levando um tiro de novo
+
+821
+01:09:31,186 --> 01:09:32,286
+e de novo.
+
+822
+01:09:33,920 --> 01:09:37,853
+Eu via aquilo em tudo.
+Não conseguia desligar.
+
+823
+01:09:39,186 --> 01:09:41,953
+Foi minha culpa.
+
+824
+01:09:45,553 --> 01:09:47,220
+E então eu descobri...
+
+825
+01:09:47,953 --> 01:09:50,953
+que Gordon sabia
+sobre o tiroteio o tempo todo.
+
+826
+01:09:50,986 --> 01:09:53,686
+Ele escolheu você, porque sabia
+o que tinha passado.
+
+827
+01:09:53,720 --> 01:09:56,853
+Ele arruinou minha vida,
+está entendendo?
+
+828
+01:09:57,519 --> 01:10:00,853
+Eu pedi para ele apagar
+aquela lembrança,
+
+829
+01:10:00,886 --> 01:10:02,720
+mas ele não apagou!
+
+830
+01:10:03,920 --> 01:10:05,686
+Ele recuperou a lembrança
+
+831
+01:10:05,720 --> 01:10:08,853
+que meu cérebro havia apagado
+por um motivo.
+
+832
+01:10:09,620 --> 01:10:13,953
+Então, sim, eu estava lá
+naquela noite para matá-lo.
+
+833
+01:10:16,853 --> 01:10:21,553
+E, dessa vez,
+eu estava com o dedo no gatilho.
+
+834
+01:10:23,586 --> 01:10:25,320
+E não consegui matá-lo.
+
+835
+01:10:28,953 --> 01:10:32,986
+Eu sabia que não conseguiria
+viver com aquilo.
+
+836
+01:10:44,486 --> 01:10:45,820
+Prove.
+
+837
+01:11:10,753 --> 01:11:12,553
+<i>...contar a minha vida...</i>
+
+838
+01:11:12,586 --> 01:11:14,220
+Gordon...
+
+839
+01:11:14,886 --> 01:11:16,486
+Gordon...
+
+840
+01:11:16,520 --> 01:11:17,820
+Gordon!
+
+841
+01:11:23,420 --> 01:11:27,286
+-Todd, o que faz aqui?
+-Você ferrou com a minha cabeça!
+
+842
+01:11:27,320 --> 01:11:29,853
+Você me procurou
+ferido e machucado.
+
+843
+01:11:30,853 --> 01:11:36,320
+Não. Não, você me procurou.
+
+844
+01:11:36,353 --> 01:11:39,920
+Minha vida?
+Minha vida era melhor antes.
+
+845
+01:11:42,920 --> 01:11:44,153
+Nossa, Todd!
+
+846
+01:11:44,186 --> 01:11:48,353
+Você arruinou minha vida
+e agora vai faturar uma nota?
+
+847
+01:11:48,386 --> 01:11:51,386
+-Não é por isso.
+-Você não liga para ninguém!
+
+848
+01:11:55,753 --> 01:11:56,853
+Ouça.
+
+849
+01:11:59,053 --> 01:12:00,786
+Você sabe que,
+quando eu cair,
+
+850
+01:12:01,453 --> 01:12:02,886
+meus olhos vão virar,
+
+851
+01:12:02,920 --> 01:12:05,286
+e o sangue vai se espalhar
+para todo lado.
+
+852
+01:12:07,886 --> 01:12:10,120
+Não é uma lembrança
+que você quer ter.
+
+853
+01:12:13,086 --> 01:12:17,086
+É melhor do que aquilo
+que você fez comigo.
+
+854
+01:12:20,920 --> 01:12:22,353
+Não faça isso, Todd.
+
+855
+01:13:02,986 --> 01:13:04,486
+Ela mentiu para mim.
+
+856
+01:13:09,153 --> 01:13:11,253
+Por que Wendy armaria
+para você?
+
+857
+01:13:12,953 --> 01:13:16,920
+Ela me culpava
+por Gordon terminar com ela.
+
+858
+01:13:17,820 --> 01:13:19,020
+Por quê?
+
+859
+01:13:20,186 --> 01:13:23,986
+Porque quando descobri
+sobre eles, eu ameacei Gordon.
+
+860
+01:13:24,020 --> 01:13:27,186
+Ameacei contar à esposa dele
+se ele não me consertasse.
+
+861
+01:13:28,453 --> 01:13:30,053
+Ele me respondeu,
+
+862
+01:13:30,086 --> 01:13:32,053
+mas só depois
+de terminar com ela.
+
+863
+01:13:32,086 --> 01:13:35,153
+-Preciso ver o que ela viu.
+-Isso não vai rolar.
+
+864
+01:13:35,820 --> 01:13:39,120
+-Ela não vai voltar lá.
+-Vou colocá-la na máquina.
+
+865
+01:13:40,686 --> 01:13:42,520
+Eu não teria tanta certeza.
+
+866
+01:13:44,086 --> 01:13:45,820
+Eu tenho o que ela quer.
+
+867
+01:13:56,453 --> 01:13:59,820
+Uma barraca novinha
+para acampar em Frost Lake!
+
+868
+01:14:01,286 --> 01:14:04,353
+São mais 8km de trilha,
+mas evitamos os turistas.
+
+869
+01:14:04,386 --> 01:14:06,486
+Estaremos sozinhos.
+O que acha, irmão?
+
+870
+01:14:06,520 --> 01:14:07,986
+Você não está aqui, Dash.
+
+871
+01:14:08,020 --> 01:14:10,386
+Do que está falando?
+Claro que estou aqui.
+
+872
+01:14:10,420 --> 01:14:12,986
+-Vamos acampar, cara.
+-Você não está aqui.
+
+873
+01:14:13,020 --> 01:14:14,253
+Você está morto.
+
+874
+01:14:15,053 --> 01:14:17,086
+Morto!
+Que coisa idiota de se dizer!
+
+875
+01:14:17,120 --> 01:14:19,253
+Claro que estou aqui.
+Não estou morto.
+
+876
+01:14:23,286 --> 01:14:25,520
+O quê? Aonde vai, cara?
+
+877
+01:14:27,220 --> 01:14:31,153
+O que é isso? O que...?
+O que está acontecendo?
+
+878
+01:14:31,186 --> 01:14:32,686
+Estou bem aqui!
+
+879
+01:14:32,720 --> 01:14:34,720
+Você está morto,
+e a culpa é minha.
+
+880
+01:14:34,753 --> 01:14:36,720
+Não é algo que um irmão
+deveria fazer.
+
+881
+01:14:36,753 --> 01:14:38,486
+Não deixei o nosso pai
+me culpar.
+
+882
+01:14:38,520 --> 01:14:40,553
+Só provaria
+que ele estava certo.
+
+883
+01:14:40,586 --> 01:14:43,653
+Tive que arruinar seu nome
+pra não arruinar minha vida.
+
+884
+01:14:43,686 --> 01:14:45,753
+Você arruinou mais
+do que meu nome.
+
+885
+01:14:58,153 --> 01:15:00,453
+Nós o encontramos.
+Ele veio ver o velho.
+
+886
+01:15:00,486 --> 01:15:02,220
+Ele corresponde à descrição,
+
+887
+01:15:02,253 --> 01:15:05,086
+e as enfermeiras disseram
+que ele carregava uma maleta.
+
+888
+01:15:05,120 --> 01:15:07,686
+A mesma que Gordon
+costumava carregar.
+
+889
+01:15:07,720 --> 01:15:09,353
+<i>Eu cuido disso.</i>
+
+890
+01:15:09,386 --> 01:15:10,520
+Entendido.
+
+891
+01:15:17,353 --> 01:15:19,253
+-James?
+-Oi, posso entrar?
+
+892
+01:15:19,286 --> 01:15:20,786
+Preciso conversar com você.
+
+893
+01:15:21,453 --> 01:15:22,620
+Você está bem?
+
+894
+01:15:24,020 --> 01:15:26,053
+James, qual é o problema?
+
+895
+01:15:27,986 --> 01:15:31,053
+Preciso lhe contar algo.
+Não fui honesto com você.
+
+896
+01:15:31,086 --> 01:15:33,486
+-Por que está com isso?
+-Eu peguei.
+
+897
+01:15:33,520 --> 01:15:37,386
+Você roubou?
+É o trabalho da vida de Gordon.
+
+898
+01:15:37,420 --> 01:15:40,553
+Quero descobrir o que aconteceu
+com ele. Estou tão perto!
+
+899
+01:15:40,586 --> 01:15:43,953
+Esta máquina é...
+Quem está aí?
+
+900
+01:15:46,420 --> 01:15:48,386
+-É Lawton.
+-Droga!
+
+901
+01:15:49,586 --> 01:15:51,320
+Não diga que estou aqui.
+
+902
+01:15:51,353 --> 01:15:53,253
+Você roubou a máquina.
+Por que não?
+
+903
+01:15:53,286 --> 01:15:55,286
+Acho que sei
+quem matou Gordon.
+
+904
+01:15:55,320 --> 01:15:58,220
+E Lawton andou mentindo.
+Ele mentiu para você, Carolyn.
+
+905
+01:15:58,253 --> 01:15:59,820
+E ele mentiu para Gordon.
+
+906
+01:16:00,786 --> 01:16:02,686
+Por favor, acredite em mim.
+
+907
+01:16:11,486 --> 01:16:14,920
+-Robert.
+-Preciso falar com você.
+
+908
+01:16:16,920 --> 01:16:18,253
+Entre.
+
+909
+01:16:28,386 --> 01:16:31,486
+-Quer beber algo?
+-Não, obrigado.
+
+910
+01:16:33,486 --> 01:16:34,686
+Como posso ajudar?
+
+911
+01:16:35,453 --> 01:16:37,586
+Há mais coisas
+sobre a morte do Gordon.
+
+912
+01:16:38,453 --> 01:16:40,353
+Em que sentido?
+
+913
+01:16:41,020 --> 01:16:44,486
+Quando eu o vi aquela noite,
+no escritório,
+
+914
+01:16:44,520 --> 01:16:47,086
+ele estava com a máquina,
+
+915
+01:16:47,120 --> 01:16:51,320
+mas de manhã,
+e fui o primeiro a chegar,
+
+916
+01:16:51,353 --> 01:16:53,786
+ela havia sumido,
+o escritório estava revirado.
+
+917
+01:16:53,820 --> 01:16:55,186
+Alguém havia levado.
+
+918
+01:16:57,653 --> 01:17:00,353
+Está dizendo
+que alguém o matou pela máquina?
+
+919
+01:17:00,386 --> 01:17:02,086
+Parece que sim.
+
+920
+01:17:03,753 --> 01:17:05,220
+<i>A barraca está pronta.</i>
+
+921
+01:17:05,886 --> 01:17:07,586
+<i>Vamos acender uma fogueira.</i>
+
+922
+01:17:09,786 --> 01:17:11,520
+Por que não disse a ninguém?
+
+923
+01:17:11,553 --> 01:17:13,453
+Precisamos manter isso
+em segredo.
+
+924
+01:17:13,486 --> 01:17:15,986
+Ninguém pode saber
+que a máquina sumiu.
+
+925
+01:17:16,020 --> 01:17:18,620
+-Robert, não pode não dizer...
+-Carolyn.
+
+926
+01:17:18,653 --> 01:17:20,086
+Sei quem fez isso.
+
+927
+01:17:22,986 --> 01:17:25,420
+Sabe quem é este?
+
+928
+01:17:31,486 --> 01:17:34,453
+-Não.
+-Ele se chama Samuel Bloom.
+
+929
+01:17:35,386 --> 01:17:38,353
+Ele não usa muito esse nome
+e está com a máquina.
+
+930
+01:17:39,420 --> 01:17:41,453
+E acreditamos que ele
+seja responsável
+
+931
+01:17:41,486 --> 01:17:42,720
+pela morte do Gordon.
+
+932
+01:17:43,786 --> 01:17:47,686
+Se o vir, ou se ele tentar
+entrar em contato,
+
+933
+01:17:47,720 --> 01:17:50,720
+é importantíssimo
+que me avise imediatamente.
+
+934
+01:17:50,753 --> 01:17:55,020
+Como sabe,
+a polícia tem sido inútil nisso,
+
+935
+01:17:56,986 --> 01:17:58,453
+mas a Cortex não será.
+
+936
+01:17:59,586 --> 01:18:01,853
+-Claro.
+-Ótimo.
+
+937
+01:18:03,953 --> 01:18:07,553
+Carolyn, é importante
+
+938
+01:18:07,586 --> 01:18:10,353
+que isso continue
+em segredo,
+
+939
+01:18:11,020 --> 01:18:14,220
+-pelo trabalho de Gordon.
+-Claro.
+
+940
+01:18:14,253 --> 01:18:18,220
+Sei que ele e eu tínhamos
+nossas diferenças,
+
+941
+01:18:18,253 --> 01:18:21,953
+mas saiba
+que eu acreditei nele
+
+942
+01:18:21,986 --> 01:18:25,253
+e quero que a criação dele
+seja seu legado.
+
+943
+01:18:26,120 --> 01:18:28,786
+Você quer isso, não quer?
+
+944
+01:18:30,153 --> 01:18:34,053
+Imagino que um homem
+tão obcecado com memória
+
+945
+01:18:34,086 --> 01:18:36,153
+iria querer
+que se lembrassem dele
+
+946
+01:18:36,186 --> 01:18:38,020
+mais do que de sua invenção.
+
+947
+01:18:39,086 --> 01:18:41,486
+Sim, claro.
+
+948
+01:18:47,653 --> 01:18:48,653
+Eu...
+
+949
+01:18:51,120 --> 01:18:55,453
+Eu odiaria saber
+que você está mentindo.
+
+950
+01:18:58,320 --> 01:18:59,953
+Acho que deve ir embora.
+
+951
+01:19:01,586 --> 01:19:02,653
+Boa noite.
+
+952
+01:19:18,320 --> 01:19:19,353
+Quem é você?
+
+953
+01:19:19,386 --> 01:19:22,420
+-Carolyn, por favor.
+-Diga ou chamo a polícia.
+
+954
+01:19:22,453 --> 01:19:25,086
+Desculpe ter mentido para você.
+Foi preciso.
+
+955
+01:19:25,120 --> 01:19:27,053
+-Por quê?
+-Para ajudar.
+
+956
+01:19:27,086 --> 01:19:29,220
+Roubando a máquina?
+Qual é seu nome?
+
+957
+01:19:29,253 --> 01:19:30,920
+Qual é seu nome de verdade?
+
+958
+01:19:32,120 --> 01:19:33,920
+-Samuel Bloom.
+-Você matou Gordon?
+
+959
+01:19:33,953 --> 01:19:36,386
+-Não.
+-Você o conhecia?
+
+960
+01:19:37,153 --> 01:19:39,220
+Vocês se encontraram
+no hotel?
+
+961
+01:19:39,253 --> 01:19:42,320
+Alguma parte da história
+que me contou é verdade?
+
+962
+01:19:45,453 --> 01:19:47,153
+Ele me contou sobre Jane.
+
+963
+01:19:49,153 --> 01:19:51,186
+Como ele se culpou e...
+
+964
+01:19:52,620 --> 01:19:54,486
+o quanto ele sentia
+falta dela.
+
+965
+01:19:56,086 --> 01:19:58,853
+Que ela queria ir à Escócia
+ver os castelos,
+
+966
+01:20:00,186 --> 01:20:03,120
+e vocês planejavam levá-la.
+
+967
+01:20:03,986 --> 01:20:06,786
+Seria a surpresa do aniversário
+de dez anos dela.
+
+968
+01:20:07,786 --> 01:20:11,786
+Que ele te amava mais
+do que tudo, e não...
+
+969
+01:20:11,820 --> 01:20:14,153
+E que ele não conseguia
+seguir sem você,
+
+970
+01:20:14,186 --> 01:20:18,620
+mas, às vezes,
+você lembrava tanto a Jane,
+
+971
+01:20:19,286 --> 01:20:20,920
+que ele não aguentava.
+
+972
+01:20:21,786 --> 01:20:24,453
+Que ele trabalhava
+em algo revolucionário
+
+973
+01:20:25,220 --> 01:20:27,686
+que permitiria a ele estar
+com ela de novo.
+
+974
+01:20:34,053 --> 01:20:36,020
+Preciso da sua ajuda,
+Carolyn.
+
+975
+01:20:36,753 --> 01:20:40,653
+Havia uma mulher, parte
+do grupo de teste, Wendy Polk.
+
+976
+01:20:42,820 --> 01:20:43,820
+É ela.
+
+977
+01:20:44,620 --> 01:20:45,920
+Ela mentiu para mim.
+
+978
+01:20:46,686 --> 01:20:50,153
+Sei que ela foi a última pessoa
+que viu Gordon vivo.
+
+979
+01:20:50,186 --> 01:20:52,386
+Precisamos trazê-la
+a esta máquina.
+
+980
+01:20:52,420 --> 01:20:54,586
+Precisamos ver
+o que ela viu.
+
+981
+01:20:56,420 --> 01:20:58,586
+Vou precisar da sua ajuda
+para isso.
+
+982
+01:21:04,053 --> 01:21:05,553
+Quero experimentá-la.
+
+983
+01:21:26,786 --> 01:21:27,853
+Está pronta?
+
+984
+01:21:28,786 --> 01:21:29,786
+Não.
+
+985
+01:21:48,586 --> 01:21:49,920
+Minha lindinha.
+
+986
+01:22:01,786 --> 01:22:04,620
+-Você me prometeu.
+-Vai nos libertar.
+
+987
+01:22:04,653 --> 01:22:06,686
+Você me prometeu!
+
+988
+01:22:13,886 --> 01:22:16,186
+Posso colocar a estrela
+no topo da árvore?
+
+989
+01:22:45,620 --> 01:22:46,720
+Olha, mamãe!
+
+990
+01:22:48,286 --> 01:22:49,286
+Lindo.
+
+991
+01:23:46,386 --> 01:23:49,320
+QUER RECUPERAR SUAS LEMBRANÇAS?
+ENCONTRE-ME ONDE SE PERDEU
+
+992
+01:23:49,353 --> 01:23:51,120
+QUANDO TINHA OITO ANOS,
+HOJE ÀS 10H
+
+993
+01:24:49,853 --> 01:24:52,220
+Sei que foi
+a última pessoa a vê-lo.
+
+994
+01:24:53,920 --> 01:24:55,786
+-E sei que o matou.
+-Não.
+
+995
+01:24:58,053 --> 01:24:59,386
+Eu o amava.
+
+996
+01:24:59,420 --> 01:25:01,120
+É mesmo?
+
+997
+01:25:01,153 --> 01:25:04,920
+Eu o odiava no dia que morreu,
+mas estava apaixonada por ele.
+
+998
+01:25:04,953 --> 01:25:07,586
+Você foi apenas
+uma distração para ele.
+
+999
+01:25:08,453 --> 01:25:09,953
+Sei mais do que imagina.
+
+1000
+01:25:11,020 --> 01:25:13,986
+Conheço uma parte da vida dele
+que você não conhece.
+
+1001
+01:25:14,020 --> 01:25:15,653
+Eu ainda acreditava nele.
+
+1002
+01:25:16,720 --> 01:25:19,286
+Sei que ele tinha lembranças
+que você não conhece,
+
+1003
+01:25:19,320 --> 01:25:21,053
+que ele
+só compartilhou comigo.
+
+1004
+01:25:21,086 --> 01:25:23,286
+Conheço um homem
+que você não conheceu.
+
+1005
+01:25:26,620 --> 01:25:29,420
+Você é uma merdinha confiante,
+não é?
+
+1006
+01:25:31,053 --> 01:25:33,020
+Mas ele te escolheu,
+então...
+
+1007
+01:25:33,053 --> 01:25:35,820
+Não podemos compartilhar
+nossas histórias,
+
+1008
+01:25:35,853 --> 01:25:38,320
+e agora fui deixada
+sem nada.
+
+1009
+01:25:39,886 --> 01:25:41,886
+Ambas fomos deixadas
+sem nada.
+
+1010
+01:25:43,553 --> 01:25:47,053
+Só quero que isso acabe.
+
+1011
+01:25:48,086 --> 01:25:50,253
+Eu quero minhas lembranças
+de volta.
+
+1012
+01:25:50,286 --> 01:25:52,620
+Se as quer de volta...
+
+1013
+01:25:54,286 --> 01:25:56,520
+quero que faça algo por mim.
+
+1014
+01:26:18,186 --> 01:26:21,420
+Gordon? Meu Deus!
+
+1015
+01:26:26,786 --> 01:26:29,786
+Gordon? Acorde.
+
+1016
+01:26:30,720 --> 01:26:31,920
+Por favor, acorde!
+
+1017
+01:26:32,886 --> 01:26:35,253
+Por favor, acorde.
+
+1018
+01:26:35,286 --> 01:26:36,286
+Acorde.
+
+1019
+01:26:39,020 --> 01:26:40,986
+O que você fez?
+
+1020
+01:26:44,786 --> 01:26:45,786
+Certo.
+
+1021
+01:26:47,086 --> 01:26:49,220
+Certo. Certo.
+
+1022
+01:27:41,253 --> 01:27:43,753
+Ele já estava morto
+quando você chegou.
+
+1023
+01:27:45,353 --> 01:27:46,720
+Sinto muito.
+
+1024
+01:27:51,353 --> 01:27:53,086
+Isto é seu.
+
+1025
+01:28:08,053 --> 01:28:09,320
+Obrigada.
+
+1026
+01:28:16,220 --> 01:28:17,986
+Você devia ficar com isso.
+
+1027
+01:28:45,786 --> 01:28:47,120
+Está na hora.
+
+1028
+01:29:38,020 --> 01:29:41,486
+-É bom estar em casa, irmão.
+-É bom tê-lo aqui, Dash.
+
+1029
+01:29:44,420 --> 01:29:47,086
+-Não.
+-Eu dirijo.
+
+1030
+01:29:47,120 --> 01:29:50,820
+-Não! É meu possante.
+-É, e vou dirigir seu possante.
+
+1031
+01:29:50,853 --> 01:29:52,153
+Tudo bem.
+
+1032
+01:29:55,920 --> 01:29:56,986
+Você dirige...
+
+1033
+01:30:12,020 --> 01:30:13,286
+Isso é ótimo.
+
+1034
+01:30:26,486 --> 01:30:29,253
+-Debaixo!
+-Em cima!
+
+1035
+01:30:29,286 --> 01:30:32,420
+-Debaixo! Surpresa.
+-Eu não...
+
+1036
+01:30:32,453 --> 01:30:34,486
+Tanto faz.
+
+1037
+01:30:46,553 --> 01:30:49,520
+Isso! Vamos lá, astro do rock!
+É com você!
+
+1038
+01:31:38,586 --> 01:31:41,420
+Venha aqui, Dash.
+Você está preso!
+
+1039
+01:31:42,086 --> 01:31:43,420
+Vou te virar.
+
+1040
+01:31:45,420 --> 01:31:46,686
+Vamos, Dash!
+
+1041
+01:31:55,186 --> 01:31:56,353
+Droga!
+
+1042
+01:31:58,253 --> 01:32:01,286
+Espere. Calma.
+
+1043
+01:32:05,120 --> 01:32:07,920
+Não entendo
+o que está dizendo.
+
+1044
+01:32:29,453 --> 01:32:31,686
+Você só estava
+cantando a música.
+
+1045
+01:33:50,186 --> 01:33:51,820
+Meu Deus...
+
+1046
+01:33:57,720 --> 01:33:59,086
+Meu Deus...
+
+1047
+01:34:01,353 --> 01:34:02,720
+Meu Deus...
+
+1048
+01:34:06,453 --> 01:34:08,153
+Socorro!
+
+1049
+01:34:09,286 --> 01:34:10,653
+Alguém me ajude!
+
+1050
+01:34:11,620 --> 01:34:13,120
+Por favor!
+
+1051
+01:34:20,420 --> 01:34:21,453
+Meu Deus...
+
+1052
+01:34:26,220 --> 01:34:30,220
+Dash, estou aqui. Venha.
+
+1053
+01:34:44,453 --> 01:34:48,453
+Vou ter
+que deixá-lo aqui, cara.
+
+1054
+01:34:49,386 --> 01:34:51,786
+Tudo bem? Fique aqui.
+
+1055
+01:36:49,586 --> 01:36:53,920
+<i>Você arruinou minha vida</i>
+<i>e agora vai faturar uma nota?</i>
+
+1056
+01:36:54,620 --> 01:36:58,520
+<i>-Nossa, Todd!</i>
+<i>-Você não liga para ninguém!</i>
+
+1057
+01:36:58,553 --> 01:37:00,853
+<i>Todd, me escute.</i>
+
+1058
+01:37:00,886 --> 01:37:03,353
+<i>Quando eu cair,</i>
+<i>meus olhos vão virar,</i>
+
+1059
+01:37:03,386 --> 01:37:05,453
+<i>e o sangue vai se espalhar</i>
+<i>para todo lado.</i>
+
+1060
+01:37:05,486 --> 01:37:07,453
+Você terá que viver com isso.
+
+1061
+01:37:07,486 --> 01:37:10,753
+Será pior que qualquer lembrança
+que foi devolvida a você.
+
+1062
+01:37:13,586 --> 01:37:15,153
+É melhor...
+
+1063
+01:37:16,720 --> 01:37:19,586
+do que aquilo
+que você fez comigo.
+
+1064
+01:37:26,286 --> 01:37:27,453
+Todd...
+
+1065
+01:37:42,520 --> 01:37:43,553
+Meu Deus...
+
+1066
+01:37:44,686 --> 01:37:45,686
+Meu Deus...
+
+1067
+01:37:49,353 --> 01:37:50,720
+O que foi que eu fiz?
+
+1068
+01:37:51,553 --> 01:37:52,920
+O que foi que eu fiz?
+
+1069
+01:38:01,753 --> 01:38:02,820
+Meu Deus...
+
+1070
+01:38:08,953 --> 01:38:12,820
+INSERIR LEMBRANÇA
+
+1071
+01:38:24,320 --> 01:38:25,353
+ACESSO GD
+
+1072
+01:38:26,353 --> 01:38:27,486
+EXTRAINDO
+
+1073
+01:38:29,053 --> 01:38:31,320
+MUDAR LOCAL DA LEMBRANÇA?
+
+1074
+01:38:32,453 --> 01:38:34,820
+DESBLOQUEANDO PROTEÇÃO
+
+1075
+01:38:37,453 --> 01:38:38,986
+-Aí vem ela.
+-Aí vem ela.
+
+1076
+01:38:39,020 --> 01:38:40,286
+Vamos tirar uma foto.
+
+1077
+01:38:40,320 --> 01:38:42,353
+-É hora da foto?
+-Fiquem mais perto!
+
+1078
+01:38:42,386 --> 01:38:44,086
+APAGAR?
+Estamos perto.
+
+1079
+01:38:44,120 --> 01:38:46,686
+-Digam "xis".
+-Xis!
+
+1080
+01:38:46,720 --> 01:38:47,986
+Perfeito.
+
+1081
+01:38:48,020 --> 01:38:49,920
+Vamos fazer
+um castelo de areia.
+
+1082
+01:38:49,953 --> 01:38:52,386
+Não consigo pensar em um momento
+da minha vida
+
+1083
+01:38:52,420 --> 01:38:54,020
+em que estive mais feliz.
+
+1084
+01:38:54,053 --> 01:38:55,053
+APAGAR?
+
+1085
+01:38:55,086 --> 01:38:56,086
+Carolyn.
+
+1086
+01:38:57,586 --> 01:38:58,786
+Nem eu.
+
+1087
+01:38:58,820 --> 01:39:01,386
+Está tudo no lugar certo.
+
+1088
+01:39:03,453 --> 01:39:04,820
+APAGAR?
+
+1089
+01:39:04,853 --> 01:39:07,986
+DELETAR LEMBRANÇAS
+SELECIONADAS?
+
+1090
+01:39:16,720 --> 01:39:18,353
+<i>...estrela</i>
+<i>no topo da árvore?</i>
+
+1091
+01:39:21,053 --> 01:39:22,053
+SINAPSE INSTÁVEL
+
+1092
+01:39:27,520 --> 01:39:28,553
+FALHA SINÁPTICA
+
+1093
+01:39:30,353 --> 01:39:31,720
+<i>Mamãe!</i>
+
+1094
+01:39:31,753 --> 01:39:33,453
+<i>Xis!</i>
+
+1095
+01:39:34,553 --> 01:39:35,553
+<i>Meu Deus...</i>
+
+1096
+01:39:40,853 --> 01:39:43,553
+<i>Pai, eu te amo.</i>
+
+1097
+01:39:58,586 --> 01:40:01,820
+Foi um dia lindo, querido.
+
+1098
+01:40:03,986 --> 01:40:07,986
+Foi um dia lindo,
+mas houve tantos dias...
+
+1099
+01:40:13,786 --> 01:40:15,986
+Havia tantas lembranças...
+
+1100
+01:40:54,086 --> 01:40:56,420
+A máquina o matou.
+
+1101
+01:40:58,086 --> 01:41:00,686
+Quando encontrei
+Gordon no hotel...
+
+1102
+01:41:02,520 --> 01:41:04,086
+eu sabia quem ele era.
+
+1103
+01:41:05,753 --> 01:41:08,186
+Eu queria me desculpar,
+mas...
+
+1104
+01:41:09,086 --> 01:41:10,853
+Eu não tinha palavras.
+
+1105
+01:41:12,920 --> 01:41:14,920
+Assim como não há palavras
+agora.
+
+1106
+01:41:16,486 --> 01:41:19,720
+Eu queria lhe contar tudo,
+mas...
+
+1107
+01:41:21,920 --> 01:41:23,486
+Eu não podia.
+
+1108
+01:41:29,686 --> 01:41:33,586
+Se assistir a isso,
+entenderá quem eu sou.
+
+1109
+01:41:34,553 --> 01:41:36,886
+Quem eu sou de verdade.
+
+1110
+01:41:39,086 --> 01:41:40,986
+Sinto muito mesmo, Carolyn.
+
+1111
+01:41:42,520 --> 01:41:43,820
+Sinto muito.
+
+1112
+01:41:45,020 --> 01:41:46,286
+Adeus.
+
+1113
+01:41:48,520 --> 01:41:49,520
+Sam...
+
+1114
+01:41:52,520 --> 01:41:54,520
+Sam, James, Rafferty...
+
+1115
+01:41:58,120 --> 01:41:59,920
+Seja lá quem você for,
+
+1116
+01:42:01,120 --> 01:42:02,353
+obrigada.
+
+1117
+01:43:06,920 --> 01:43:09,720
+Definimos nossas vidas
+com nossas lembranças.
+
+1118
+01:43:09,753 --> 01:43:12,286
+Quem somos
+em um dia específico
+
+1119
+01:43:12,320 --> 01:43:16,853
+é resultado de lembranças
+de dias anteriores.
+
+1120
+01:43:16,886 --> 01:43:19,320
+LANÇAMENTO DO PRODUTO
+
+1121
+01:43:19,353 --> 01:43:22,353
+<i>Mas lembranças são elásticas,</i>
+<i>maleáveis,</i>
+
+1122
+01:43:22,386 --> 01:43:24,820
+<i>muitas vezes mercuriais.</i>
+
+1123
+01:43:25,586 --> 01:43:28,386
+<i>Penso na minha vida,</i>
+<i>a soma das minhas lembranças.</i>
+
+1124
+01:43:28,420 --> 01:43:31,686
+<i>Como todo homem,</i>
+<i>fiz coisas pelas quais me culpo.</i>
+
+1125
+01:43:33,020 --> 01:43:35,353
+<i>Sinto dor</i>
+<i>por tantas coisas...</i>
+
+1126
+01:43:37,653 --> 01:43:39,586
+<i>Pelas coisas</i>
+<i>mais detestáveis.</i>
+
+1127
+01:43:40,486 --> 01:43:42,520
+Lembranças
+de felicidade verdadeira
+
+1128
+01:43:42,553 --> 01:43:44,186
+fazem a vida valer a pena,
+
+1129
+01:43:44,220 --> 01:43:48,886
+mas, às vezes,
+se perdem na vastidão das ruins.
+
+1130
+01:44:02,120 --> 01:44:04,920
+Não somos nada além
+das lembranças que guardamos...
+
+1131
+01:44:08,753 --> 01:44:10,853
+<i>Lembranças</i>
+<i>de grande alegria.</i>
+
+1132
+01:44:13,053 --> 01:44:14,786
+<i>Tristeza profunda.</i>
+
+1133
+01:44:17,353 --> 01:44:18,853
+<i>Gratidão.</i>
+
+1134
+01:44:21,420 --> 01:44:22,753
+<i>Orgulho.</i>
+
+1135
+01:44:25,420 --> 01:44:26,753
+<i>Luto.</i>
+
+1136
+01:44:30,453 --> 01:44:31,953
+<i>Desespero.</i>
+
+1137
+01:44:35,053 --> 01:44:36,453
+<i>Remorso.</i>
+
+1138
+01:44:39,786 --> 01:44:41,086
+<i>Paixão.</i>
+
+1139
+01:44:44,186 --> 01:44:45,453
+<i>Arrependimento.</i>
+
+1140
+01:44:49,720 --> 01:44:51,086
+<i>Arrependimento.</i>
+
+1141
+01:45:05,620 --> 01:45:06,986
+<i>Arrependimento.</i>
+
+1142
+01:45:10,320 --> 01:45:14,753
+<i>Mas as lembranças mais fortes</i>
+<i>que carregamos são as de amor.</i>
+
+1143
+01:45:18,553 --> 01:45:21,153
+-Boa tarde, Oliver.
+-Boa tarde.
+
+1144
+01:45:28,420 --> 01:45:29,753
+É Sam.
+
+1145
+01:45:32,053 --> 01:45:33,486
+Meu nome é Sam.
+
+1146
+01:45:35,053 --> 01:45:37,553
+Então, boa tarde, Sam.
+
+1147
+01:46:03,520 --> 01:46:05,020
+<i>E, finalmente...</i>
+
+1148
+01:46:07,053 --> 01:46:08,286
+<i>esperança.</i>
+
+1149
+01:46:43,892 --> 01:46:46,586
+<i>Agora quero que pense</i>
+<i>em uma lembrança,</i>
+
+1150
+01:46:46,620 --> 01:46:48,437
+<i>a primeira</i>
+<i>que vier em mente.</i>
+
+1151
+01:46:48,462 --> 01:46:50,304
+<i>Vamos, feche os olhos.</i>
+
+1152
+01:46:53,313 --> 01:47:01,742
+COMANDOTORRENTS.COM
+

@@ -1,0 +1,3581 @@
+1
+00:00:01,000 --> 00:00:04,074
+
+
+2
+00:00:31,111 --> 00:00:35,844
+A Lenda
+
+3
+00:02:13,080 --> 00:02:17,779
+Eu sou o Senhor das Trevas.
+
+4
+00:02:18,986 --> 00:02:22,478
+Preciso do conforto...
+
+5
+00:02:22,556 --> 00:02:25,150
+das sombras...
+
+6
+00:02:25,225 --> 00:02:28,490
+e da escuridão da noite.
+
+7
+00:02:30,331 --> 00:02:32,094
+A luz do sol...
+
+8
+00:02:32,166 --> 00:02:35,067
+é a minha destruição.
+
+9
+00:02:37,371 --> 00:02:40,966
+Tudo isto mudará...
+
+10
+00:02:42,743 --> 00:02:44,074
+esta noite...
+
+11
+00:02:44,144 --> 00:02:47,307
+O Sol se põe para sempre.
+
+12
+00:02:49,249 --> 00:02:53,515
+Não haverá
+outro amanhecer.
+
+13
+00:02:55,789 --> 00:02:57,222
+Entre!
+
+14
+00:03:09,069 --> 00:03:11,799
+Ah, Blix.
+
+15
+00:03:12,639 --> 00:03:14,573
+Chegue mais perto
+
+16
+00:03:18,178 --> 00:03:20,305
+Sim, meu Senhor.
+
+17
+00:03:22,015 --> 00:03:25,644
+Você não é o meu duende
+mais repugnante de todos?
+
+18
+00:03:27,788 --> 00:03:30,018
+Sim, Mestre.
+
+19
+00:03:30,090 --> 00:03:34,424
+E seu coração é negro
+e cheio de ódio?
+
+20
+00:03:34,495 --> 00:03:37,555
+Preto como a noite...
+negro como o breu.
+
+21
+00:03:37,631 --> 00:03:39,656
+Mais negro que a pior das bruxas.
+
+22
+00:03:39,733 --> 00:03:42,668
+Foi por isso que te chamei.
+
+23
+00:03:42,736 --> 00:03:47,298
+Como tenho que permanecer na escuridão.
+Você será os meus olhos e ouvidos.
+
+24
+00:03:47,374 --> 00:03:49,808
+É uma grande honra para mim,
+Excelência.
+
+25
+00:03:52,813 --> 00:03:55,111
+Alguma coisa me preocupa.
+
+26
+00:03:56,183 --> 00:03:58,447
+Sinto uma presença
+na floresta.
+
+27
+00:04:00,053 --> 00:04:03,511
+Uma força que felizmente
+quase esqueci.
+
+28
+00:04:03,590 --> 00:04:07,117
+Deve ser terrível
+para preocupa-lo, Majestade.
+
+29
+00:04:07,194 --> 00:04:10,163
+Olhando para essas
+criaturas frágeis,
+
+30
+00:04:10,230 --> 00:04:13,666
+ninguém imaginaria que elas
+possuem tanto poder.
+
+31
+00:04:13,734 --> 00:04:16,635
+Qualquer um poderia
+dominar o universo com ela.
+
+32
+00:04:17,938 --> 00:04:21,704
+Você deve encontrá-los
+para mim e destruí-los!
+
+33
+00:04:25,112 --> 00:04:27,580
+Como eles são. Amo?
+
+34
+00:04:27,648 --> 00:04:29,081
+Idiota!
+
+35
+00:04:29,149 --> 00:04:32,312
+Que isto sirva
+para lembrá-lo...
+
+36
+00:04:32,386 --> 00:04:35,355
+Eles possuem um único chifre...
+
+37
+00:04:35,422 --> 00:04:38,084
+apontado para o céu.
+
+38
+00:04:38,158 --> 00:04:40,626
+Entendi, Amo.
+
+39
+00:04:41,428 --> 00:04:43,623
+Traga os chifres para mim!
+
+40
+00:04:43,697 --> 00:04:45,892
+Serás recompensado.
+
+41
+00:04:45,966 --> 00:04:49,527
+Serás um príncipe,
+aqui no meu Reino.
+
+42
+00:04:49,603 --> 00:04:52,128
+É um grande previlégio, Mestre.
+
+43
+00:04:55,876 --> 00:04:58,242
+Onde devo procurar, Senhor?
+
+44
+00:04:58,312 --> 00:05:02,772
+Só há um chamariz
+para esta bondade revoltante.
+
+45
+00:05:02,850 --> 00:05:05,683
+Um isca que nunca falha.
+
+46
+00:05:05,752 --> 00:05:09,745
+Que isca é essa? Ensina-me.
+
+47
+00:05:09,823 --> 00:05:11,222
+Inocência.
+
+48
+00:05:43,657 --> 00:05:46,217
+<i>Venham, flores brancas</i>
+
+49
+00:05:46,293 --> 00:05:48,693
+<i>Tramem um tapete</i>
+
+50
+00:05:48,762 --> 00:05:54,359
+<i>O carvalho generoso
+cuja sombra se alonga.</i>
+
+51
+00:05:54,434 --> 00:05:59,770
+<i>Folhas e ramos sussurram
+nossa canção de amor</i>
+
+52
+00:05:59,840 --> 00:06:05,301
+<i>Quando mergulho meus olhos
+nos olhos de meu amor.</i>
+
+53
+00:06:05,379 --> 00:06:10,146
+<i>Jovem como a primavera</i>
+
+54
+00:06:10,217 --> 00:06:14,517
+<i>Seus olhos se põe a cantar</i>
+
+55
+00:06:14,588 --> 00:06:16,522
+<i>Uma melodia</i>
+
+56
+00:06:59,967 --> 00:07:01,366
+<i>Para todas as fadas!</i>
+
+57
+00:08:11,538 --> 00:08:13,301
+Lily!
+
+58
+00:08:13,373 --> 00:08:16,342
+Deus abençoe.
+
+59
+00:08:16,410 --> 00:08:19,174
+Uma visita real é sempre um prazer.
+
+60
+00:08:19,246 --> 00:08:21,544
+Coma outro biscoito.
+
+61
+00:08:29,022 --> 00:08:29,954
+Nell...
+
+62
+00:08:33,593 --> 00:08:35,618
+Hoje não tenho
+tempo para visitas.
+
+63
+00:08:35,696 --> 00:08:37,721
+Oh, você tem
+um namorado esperando?
+
+64
+00:08:37,798 --> 00:08:39,060
+Não, não tenho.
+
+65
+00:08:39,132 --> 00:08:41,999
+Com certeza o teu pai
+proibiria tal tolice.
+
+66
+00:08:43,070 --> 00:08:45,334
+O que o meu pai não sabe,
+não o preocupará.
+
+67
+00:08:45,405 --> 00:08:48,374
+Oh! O coração voluntarioso
+leva ao desespero,
+
+68
+00:08:48,442 --> 00:08:51,275
+como cegos a rastejar
+na cova do dragão.
+
+69
+00:08:51,344 --> 00:08:55,178
+Nem provérbios, nem ordem Real
+me afastará da floresta hoje.
+
+70
+00:08:55,248 --> 00:08:58,376
+Talvez o bom senso consiga.
+
+71
+00:08:58,452 --> 00:08:59,680
+Lily...
+
+72
+00:08:59,753 --> 00:09:01,744
+Princesa Lily...
+
+73
+00:09:01,822 --> 00:09:04,620
+Eu vejo você como uma filha.
+
+74
+00:09:04,691 --> 00:09:06,852
+Perdão se vos digo
+mas é hora...
+
+75
+00:09:06,927 --> 00:09:10,328
+já é hora de você se comportar
+como uma princesa.
+
+76
+00:09:10,397 --> 00:09:14,094
+Deveria estar à procura de
+um belo príncipe numa carruagem branca...
+
+77
+00:09:14,167 --> 00:09:16,863
+E não, visitando
+gente pobre como nós.
+
+78
+00:09:17,437 --> 00:09:20,565
+Você não sabe que
+eu adoro vir aqui?
+
+79
+00:09:26,980 --> 00:09:32,111
+Este lugar tem mais magia do
+que qualquer palácio no mundo.
+
+80
+00:09:32,185 --> 00:09:34,176
+Você vive uma vida
+muito rica, Nell.
+
+81
+00:09:35,789 --> 00:09:38,121
+Não conheço nenhum príncipe
+que entalhe madeira assim.
+
+82
+00:09:39,292 --> 00:09:40,884
+Você é muito meiga, Lily.
+
+83
+00:09:43,663 --> 00:09:45,597
+A magia é uma coisa maravilhosa.
+
+84
+00:09:47,234 --> 00:09:51,534
+Você irá encontrar
+sua própria magia algum dia. Tenho certeza.
+
+85
+00:09:54,241 --> 00:09:57,176
+Não tenho tempo para isto.
+Vou indo.
+
+86
+00:10:01,281 --> 00:10:04,079
+Cuidado com duendes e espíritos.
+
+87
+00:10:04,151 --> 00:10:06,244
+Esta floresta
+está cheia deles.
+
+88
+00:10:06,319 --> 00:10:09,311
+Evite cogumelos venenosos!
+E salgueiros!
+
+89
+00:10:10,357 --> 00:10:12,825
+E velhos carvalhos!
+
+90
+00:10:12,893 --> 00:10:14,326
+Jack!
+
+91
+00:10:16,863 --> 00:10:18,228
+Onde você está?
+
+92
+00:10:22,469 --> 00:10:23,902
+Jack!
+
+93
+00:11:00,207 --> 00:11:02,072
+Jack?
+
+94
+00:11:20,527 --> 00:11:22,154
+Jack, me responda!
+
+95
+00:11:22,229 --> 00:11:25,790
+Jack, por favor, por favor... se você
+está aqui diga alguma coisa, por favor.
+
+96
+00:11:31,404 --> 00:11:34,271
+Jack, você quase
+me matou de susto!
+
+97
+00:11:46,653 --> 00:11:48,280
+Você é tão inteligente.
+
+98
+00:11:51,191 --> 00:11:52,351
+Tome.
+
+99
+00:11:52,425 --> 00:11:55,690
+Olhe lá dentro.
+Veja o que descobre.
+
+100
+00:12:01,067 --> 00:12:03,160
+É algo para comer.
+
+101
+00:12:06,106 --> 00:12:08,472
+Fui eu mesma que fiz, para você.
+
+102
+00:12:13,213 --> 00:12:16,808
+Está bem, peguei da Nell.
+
+103
+00:12:18,685 --> 00:12:21,051
+Gosta? É doce?
+
+104
+00:12:26,960 --> 00:12:29,326
+Eu conheço alguém ainda mais doce.
+
+105
+00:12:29,396 --> 00:12:32,058
+Talvez inocente,
+talvez meigo.
+
+106
+00:12:33,033 --> 00:12:36,400
+Mas não tão bom quanto
+uma boa carne podre.
+
+107
+00:12:52,652 --> 00:12:53,880
+Bom.
+
+108
+00:12:53,954 --> 00:12:55,512
+Muito bom.
+
+109
+00:12:55,588 --> 00:12:56,987
+Perfeito.
+
+110
+00:12:58,358 --> 00:13:00,986
+Jack, agora me ensine "coelhês"
+como você prometeu.
+
+111
+00:13:02,362 --> 00:13:03,795
+Coelhês?
+
+112
+00:13:05,899 --> 00:13:08,732
+- É mais difícil que passarinhês.
+- Deixa-me tentar!
+
+113
+00:13:08,802 --> 00:13:11,600
+Sou boa aluna. E o meu pai
+diz que sou brilhante.
+
+114
+00:13:15,342 --> 00:13:17,640
+Viu só como sou brilhante?
+
+115
+00:13:17,711 --> 00:13:20,407
+Me deixe ofuscá-lo
+com minha sabedoria.
+
+116
+00:13:20,480 --> 00:13:23,972
+É muito mais que sabedoria
+o que me ofusca, Lily.
+
+117
+00:13:27,087 --> 00:13:28,918
+Jack, me ensine "coelhês".
+
+118
+00:13:29,889 --> 00:13:32,983
+- Hoje não.
+- Porque não?
+
+119
+00:13:33,059 --> 00:13:34,492
+Por que...
+
+120
+00:13:38,665 --> 00:13:42,567
+Tem uma coisa realmente especial...
+Que eu venho prometendo te mostrar.
+
+121
+00:13:44,337 --> 00:13:47,067
+- Jack, promete?
+- Só se te agradar, Lily.
+
+122
+00:13:47,140 --> 00:13:49,370
+Agrada-me mais que tudo.
+
+123
+00:13:50,643 --> 00:13:52,577
+Temos que ir agora.
+
+124
+00:13:53,646 --> 00:13:56,308
+Porque eles ficarão aqui
+por pouco tempo.
+
+125
+00:14:00,787 --> 00:14:02,914
+Não confias em mim?
+
+126
+00:14:05,959 --> 00:14:07,517
+Confio, Lily.
+
+127
+00:15:43,890 --> 00:15:45,323
+Oh, Jack.
+
+128
+00:17:14,380 --> 00:17:15,438
+Olhe!
+
+129
+00:17:15,515 --> 00:17:18,040
+Mulas feias com um chifre.
+
+130
+00:17:28,561 --> 00:17:30,859
+Nada é mais mágico.
+
+131
+00:17:32,899 --> 00:17:34,924
+Enquanto eles
+andarem pela Terra...
+
+132
+00:17:35,001 --> 00:17:38,869
+o mal nunca machucará
+os puros de coração.
+
+133
+00:17:54,187 --> 00:17:56,155
+Você fala a língua deles?
+
+134
+00:17:57,790 --> 00:18:00,281
+Eles expressam somente
+amor e alegria.
+
+135
+00:18:01,294 --> 00:18:03,489
+Pensamentos obscuros
+são desconhecidos para eles.
+
+136
+00:18:06,432 --> 00:18:07,729
+Não! Não.
+
+137
+00:18:18,311 --> 00:18:19,505
+Lily... por favor, não.
+
+138
+00:18:44,804 --> 00:18:46,499
+Lily... por favor, não.
+
+139
+00:19:09,128 --> 00:19:10,993
+<i>Desça, pardalzinho</i>
+
+140
+00:19:12,432 --> 00:19:14,229
+<i>Canta-me o amanhecer.</i>
+
+141
+00:19:15,368 --> 00:19:17,199
+<i>Levanta-te Sol</i>
+
+142
+00:19:17,270 --> 00:19:20,034
+<i>Como um arco no céu</i>
+
+143
+00:20:24,270 --> 00:20:27,433
+Vamos assustar a fera
+e estragar a armadilha.
+
+144
+00:20:53,499 --> 00:20:56,297
+<i>O rio vivo</i>
+
+145
+00:20:56,369 --> 00:20:59,827
+<i>Transforma a luz em diamantes</i>
+
+146
+00:20:59,906 --> 00:21:04,570
+<i>Quando olho nos olhos
+do meu verdadeiro amor.</i>
+
+147
+00:21:04,644 --> 00:21:08,307
+<i>Como uma criança se sente</i>
+
+148
+00:21:08,381 --> 00:21:10,542
+<i>Vendo o arco-íris</i>
+
+149
+00:21:10,616 --> 00:21:15,519
+<i>Como um pássaro se sente
+quando voa pela primeira vez</i>
+
+150
+00:21:15,588 --> 00:21:18,056
+<i>Sinto magia</i>
+
+151
+00:21:18,124 --> 00:21:19,921
+<i>se remexendo em mim</i>
+
+152
+00:21:20,860 --> 00:21:25,854
+<i>Quando olho nos olhos
+do meu verdadeiro amor</i>
+
+153
+00:21:25,932 --> 00:21:30,926
+<i>Jovem como a Primavera</i>
+
+154
+00:21:31,003 --> 00:21:35,406
+<i>Seus olhos quase cantam</i>
+
+155
+00:21:38,911 --> 00:21:42,039
+Este tiro será certeiro.
+
+156
+00:22:22,388 --> 00:22:24,481
+Foi maravilhoso...
+
+157
+00:22:24,557 --> 00:22:25,489
+como um sonho.
+
+158
+00:22:25,558 --> 00:22:27,890
+<i>O que você fez é proibido.</i>
+
+159
+00:22:28,728 --> 00:22:32,425
+- Quem disse?
+- Todos sabem, Lily.
+
+160
+00:22:32,498 --> 00:22:35,763
+<i>- Estes animais são sagrados.
+- Não me importa.</i>
+
+161
+00:22:35,835 --> 00:22:38,770
+Colocou sua alma imortal em perigo.
+
+162
+00:22:42,909 --> 00:22:45,434
+Só queria tocá-los.
+
+163
+00:22:47,013 --> 00:22:49,914
+Que mal isso tem?
+
+164
+00:22:51,317 --> 00:22:52,807
+Foi mágico.
+
+165
+00:22:55,087 --> 00:22:57,248
+Obrigada.
+
+166
+00:22:59,025 --> 00:23:01,220
+Me deixe cantar pra você.
+
+167
+00:23:02,862 --> 00:23:05,092
+Afastarei os seus medos.
+
+168
+00:23:06,899 --> 00:23:08,890
+<i>Nesses bosques</i>
+
+169
+00:23:08,968 --> 00:23:11,903
+<i>E vales</i>
+
+170
+00:23:11,971 --> 00:23:14,201
+<i>O sol</i>
+
+171
+00:23:14,273 --> 00:23:16,707
+<i>E as sombras</i>
+
+172
+00:23:16,776 --> 00:23:20,769
+<i>Se beijaram</i>
+
+173
+00:23:20,846 --> 00:23:24,839
+<i>como jacintos</i>
+
+174
+00:23:24,917 --> 00:23:30,184
+<i>Quando seus lábios
+sentiram o fôlego</i>
+
+175
+00:23:30,256 --> 00:23:35,216
+<i>murmuraram docemente</i>
+
+176
+00:23:35,294 --> 00:23:39,025
+<i>Ao pé dos jacintos</i>
+
+177
+00:23:39,098 --> 00:23:43,467
+<i>Repousam agora</i>
+
+178
+00:23:49,675 --> 00:23:53,509
+- Você está com medo de me beijar, Jack?
+- Tenho medo que me parta o coração.
+
+179
+00:23:53,579 --> 00:23:55,479
+Então acalme o teu coração.
+
+180
+00:23:55,548 --> 00:23:58,574
+Você é tão querido para mim
+quanto a própria vida.
+
+181
+00:24:00,419 --> 00:24:02,478
+Não queria que este fosse
+o nosso anel de casamento?
+
+182
+00:24:02,555 --> 00:24:04,523
+Se eu disser sim, será que
+o meu desejo se tornará realidade?
+
+183
+00:24:04,590 --> 00:24:06,854
+Sou uma princesa.
+
+184
+00:24:06,926 --> 00:24:10,293
+Tenho o direito de criar
+desafios para meus súditos.
+
+185
+00:24:11,998 --> 00:24:15,991
+Casarei...
+com quem encontrar este anel.
+
+186
+00:28:06,599 --> 00:28:09,534
+Sinto cheiro de carne humana!
+
+187
+00:28:13,272 --> 00:28:16,901
+- Depois de você, Pig.
+- Oh, não, depois de você.
+
+188
+00:28:35,294 --> 00:28:37,057
+Um relógio.
+
+189
+00:28:37,129 --> 00:28:38,926
+O mundo
+mortal virou gelo.
+
+190
+00:28:38,998 --> 00:28:41,660
+Aqui é o paraíso dos duendes!
+
+191
+00:28:43,535 --> 00:28:46,095
+Bastante hospitalidade.
+
+192
+00:28:46,171 --> 00:28:48,833
+Um bebê!
+
+193
+00:28:48,908 --> 00:28:52,105
+Adoro carne leitosa.
+
+194
+00:28:52,177 --> 00:28:54,475
+O que você é?
+Algum tipo de animal?
+
+195
+00:29:06,125 --> 00:29:08,616
+Como você faz isto, Blix?
+
+196
+00:29:08,694 --> 00:29:13,097
+- Diga-nos como você faz estes truques!
+- Na verdade, é bem fácil.
+
+197
+00:29:16,368 --> 00:29:17,892
+Omelete de duende.
+
+198
+00:29:17,970 --> 00:29:19,335
+Muito bom, muito bom.
+
+199
+00:29:22,174 --> 00:29:25,439
+Dia de sorte!
+Matei um chifrudo feio.
+
+200
+00:29:25,511 --> 00:29:29,948
+Você age como se fizesse tudo.
+Fui eu quem atirou o dardo envenenado.
+
+201
+00:29:30,015 --> 00:29:32,540
+Eu! Eu! Eu!
+
+202
+00:29:32,618 --> 00:29:35,815
+Você só acertou o tiro
+porque a princesa estava lá.
+
+203
+00:29:35,888 --> 00:29:38,721
+Errado! Foi a beleza dela
+que levou a fera até lá.
+
+204
+00:29:38,791 --> 00:29:40,588
+Ela foi tão meiga.
+
+205
+00:29:40,659 --> 00:29:43,924
+Poderia comer o seu cérebro como geléia.
+
+206
+00:29:43,996 --> 00:29:46,396
+- Poderia chupar-lhe os ossos...
+- Chega!
+
+207
+00:29:47,333 --> 00:29:48,925
+Melhor se apressar.
+
+208
+00:29:49,001 --> 00:29:51,697
+O Senhor das Trevas não gosta de esperar.
+
+209
+00:30:14,093 --> 00:30:16,254
+O que foi que eu fiz?
+
+210
+00:30:18,430 --> 00:30:20,330
+Quatro, cinco, seis!
+
+211
+00:30:20,399 --> 00:30:22,390
+Viva o Blix!
+
+212
+00:30:23,969 --> 00:30:25,903
+Eu vou concertar isto.
+
+213
+00:31:19,525 --> 00:31:20,583
+Quem está aí?
+
+214
+00:31:22,327 --> 00:31:24,295
+Quem é você?
+
+215
+00:31:24,363 --> 00:31:27,924
+Você vive na floresta
+e não conhece o Gump?
+
+216
+00:31:29,868 --> 00:31:31,199
+Gump é você?
+
+217
+00:31:32,037 --> 00:31:35,006
+Honeythorn Gump
+a seu serviço.
+
+218
+00:31:49,388 --> 00:31:50,912
+Eu devo estar sonhando.
+
+219
+00:31:52,157 --> 00:31:56,025
+Se a vida é um sonho,
+é melhor ter medo em acordar.
+
+220
+00:31:58,564 --> 00:31:59,758
+Pare com isso!
+
+221
+00:31:59,832 --> 00:32:02,300
+- Esta é Oona. Ela gosta de você.
+- Vá embora!
+
+222
+00:32:02,968 --> 00:32:06,028
+Será que o teu sangue
+corre tão frio, Jack?
+
+223
+00:32:06,105 --> 00:32:09,006
+Você será um defunto antes do tempo.
+
+224
+00:32:09,708 --> 00:32:11,903
+Como você sabe o meu nome?
+
+225
+00:32:13,879 --> 00:32:17,212
+Como uma andorinha...
+
+226
+00:32:17,282 --> 00:32:20,774
+conhece o caminho para o Sul, no Inverno?
+
+227
+00:32:20,853 --> 00:32:25,483
+Ou um salmão na desova...
+encontra a verdadeira origem
+
+228
+00:32:25,557 --> 00:32:30,859
+do seu nascimento...através do frio
+da escuridão profunda do mar misterioso?
+
+229
+00:32:30,929 --> 00:32:34,092
+Eu sei tudo, Jack.
+
+230
+00:32:34,166 --> 00:32:35,599
+Tudo?
+
+231
+00:32:42,341 --> 00:32:46,209
+Então porque está assim?
+Porque é Inverno agora?
+
+232
+00:32:49,114 --> 00:32:52,515
+Sou um poderoso feiticeiro,
+poderei responder.
+
+233
+00:32:52,584 --> 00:32:55,451
+- Porque não me diz você, Jack.
+- Eu?
+
+234
+00:32:58,190 --> 00:33:01,421
+Conheces estes bosques
+tão bem como qualquer duende.
+
+235
+00:33:08,000 --> 00:33:10,332
+Não viu nada de estranho, hoje?
+
+236
+00:33:11,870 --> 00:33:14,862
+Algum espírito estranho?
+
+237
+00:33:14,940 --> 00:33:16,874
+Alguma coisa
+desagradável aconteceu?
+
+238
+00:33:26,185 --> 00:33:27,209
+Não.
+
+239
+00:33:28,921 --> 00:33:32,084
+- Levei a Lily para ver os Unicórnios.
+- Você fez o quê?
+
+240
+00:33:34,893 --> 00:33:36,019
+Silêncio!
+
+241
+00:33:42,501 --> 00:33:44,492
+Meu Deus, Gump,
+ela tocou um deles.
+
+242
+00:33:44,570 --> 00:33:48,438
+Tocou um deles? Uma mortal
+colocou as mãos num Unicórnio?
+
+243
+00:33:50,409 --> 00:33:52,673
+Jack! cale a boca.
+
+244
+00:33:54,646 --> 00:33:57,877
+Você acha que pode desafiar a ordem
+do universo?
+
+245
+00:33:57,950 --> 00:34:00,441
+E não pagar o preço?
+
+246
+00:34:00,519 --> 00:34:02,248
+Mas... ela não fez por mal!
+
+247
+00:34:07,059 --> 00:34:09,857
+O que está feito, está feito.
+Mas eu fiz por amor.
+
+248
+00:34:12,531 --> 00:34:14,590
+Silêncio!
+
+249
+00:34:14,666 --> 00:34:16,190
+Amor, você disse?
+
+250
+00:34:17,236 --> 00:34:19,636
+Me responda este enigma,
+
+251
+00:34:19,705 --> 00:34:21,798
+e tudo será perdoado.
+
+252
+00:34:22,908 --> 00:34:25,274
+- E se não conseguir?
+- Porquê, Jack, então será
+
+253
+00:34:26,445 --> 00:34:28,379
+a sua canção da morte,
+que eu estarei tocando.
+
+254
+00:34:32,084 --> 00:34:34,644
+Então pergunte...
+
+255
+00:34:34,720 --> 00:34:37,348
+e reze a Deus
+que a minha resposta te agrade.
+
+256
+00:34:57,376 --> 00:35:00,004
+O que é um sino
+que não toca...
+
+257
+00:35:00,078 --> 00:35:02,069
+ainda que o seu toque
+faça os anjos cantarem?
+
+258
+00:35:08,820 --> 00:35:10,685
+Responda-me isto...
+
+259
+00:35:12,291 --> 00:35:14,555
+e tudo estará perdoado.
+
+260
+00:35:31,376 --> 00:35:32,502
+Flores?
+
+261
+00:35:34,613 --> 00:35:35,807
+Jacintos!
+
+262
+00:35:36,615 --> 00:35:40,278
+Sinos azuis! Ouvi-los tocar
+significa que sua vida chegou ao fim!
+
+263
+00:35:52,931 --> 00:35:54,626
+Não! Maldição...
+
+264
+00:35:58,637 --> 00:36:00,468
+bacalhau e moluscos!
+
+265
+00:36:23,862 --> 00:36:26,023
+Maldição! Maldição!
+
+266
+00:36:26,098 --> 00:36:28,191
+Maldição! Enigmas!
+Enigmas! Enigmas!
+
+267
+00:36:30,402 --> 00:36:33,530
+Um enigma sem resposta é como um copo
+vazio quando se tem sede de vinho.
+
+268
+00:36:33,605 --> 00:36:37,564
+Voce me venceu, Jack.
+
+269
+00:36:37,642 --> 00:36:39,337
+Venceu-me, venceu-me.
+
+270
+00:36:39,411 --> 00:36:42,505
+Muito bem falado!
+Se é vinho que você quer,vinho nós teremos
+
+271
+00:36:44,783 --> 00:36:47,308
+Brown Tom! Uma pequena dose
+
+272
+00:36:47,386 --> 00:36:49,980
+do melhor entretenimento.
+
+273
+00:36:59,030 --> 00:37:01,965
+Mas, Gump, é a última garrafa
+do meu melhor vinho.
+
+274
+00:37:03,135 --> 00:37:05,330
+Oh-Oh, se assim o deseja, senhor.
+
+275
+00:37:05,404 --> 00:37:07,463
+Agora, Gump, não
+se esqueça de mim.
+
+276
+00:37:08,907 --> 00:37:12,206
+- Vinho Elderberry.
+- Desculpem.
+
+277
+00:37:12,277 --> 00:37:14,541
+Não há melhor bebida na Terra.
+
+278
+00:37:14,613 --> 00:37:16,581
+Um brinde ao Jack.
+
+279
+00:37:16,648 --> 00:37:19,082
+Decifrador de enigmas, dançarino tolo
+
+280
+00:37:19,151 --> 00:37:21,711
+e amigo encantado.
+
+281
+00:37:21,787 --> 00:37:22,719
+Bebam.
+
+282
+00:37:32,497 --> 00:37:35,762
+- Vocês não se importam?
+- Claro que nos importamos.
+
+283
+00:37:35,834 --> 00:37:39,531
+O que há de bom em um mundo,
+preso a uma estação de morte?
+
+284
+00:37:39,604 --> 00:37:42,072
+- Nós devemos achar a resposta.
+- Sim, devemos.
+
+285
+00:37:42,140 --> 00:37:45,871
+Mas primeiro devemos garantir
+que nada aconteça aos Unicórnios.
+
+286
+00:37:45,944 --> 00:37:48,742
+Com tristeza, sinto o pior.
+
+287
+00:38:46,905 --> 00:38:48,998
+Esperem.
+
+288
+00:41:24,763 --> 00:41:27,095
+Me perdoe.
+
+289
+00:41:31,736 --> 00:41:33,636
+Não fiz por mal.
+
+290
+00:42:19,484 --> 00:42:21,679
+Muito bem Jack,
+
+291
+00:42:21,753 --> 00:42:23,778
+conte o que aconteceu.
+
+292
+00:42:33,198 --> 00:42:34,756
+Vamos lá, Jack,
+
+293
+00:42:34,833 --> 00:42:37,700
+não nos deixe no escuro.
+
+294
+00:42:37,769 --> 00:42:40,363
+O escuro é onde ficaremos.
+
+295
+00:42:41,873 --> 00:42:43,067
+Estamos amaldiçoados.
+
+296
+00:42:43,141 --> 00:42:45,405
+Não há nada que possamos fazer?
+
+297
+00:42:47,145 --> 00:42:49,477
+Temos que resgatar o chifre.
+
+298
+00:42:50,715 --> 00:42:53,479
+Só então o Mundo voltará ao normal.
+
+299
+00:42:55,019 --> 00:42:56,953
+Temos de encontra um herói...
+
+300
+00:42:58,256 --> 00:43:01,817
+valente de coração e puro de espírito.
+
+301
+00:43:01,893 --> 00:43:03,258
+Herói?
+
+302
+00:43:03,328 --> 00:43:06,889
+- Que herói?
+- Não desistam tão depressa, companheiros.
+
+303
+00:43:09,234 --> 00:43:11,862
+Você serve.
+
+304
+00:43:11,936 --> 00:43:14,700
+Temos que arranjar
+algumas armas
+
+305
+00:43:14,773 --> 00:43:17,003
+Eu, mas, Gump,
+não entendo nada de armas.
+
+306
+00:43:17,075 --> 00:43:20,841
+Você aprenderá, eu sei onde
+encontrar as melhores.
+
+307
+00:43:20,912 --> 00:43:24,939
+Brown Tom, fique aqui com o Unicórnio
+e vigie-o bem.
+
+308
+00:43:25,016 --> 00:43:26,643
+- Como à minha vida.
+- Mais ainda.
+
+309
+00:43:26,718 --> 00:43:28,652
+Ele é o último da espécie.
+
+310
+00:43:40,865 --> 00:43:44,301
+O chifre mágico é meu,
+meu, meu.
+
+311
+00:43:45,036 --> 00:43:47,698
+Agora todas as criaturas
+amarão a noite...
+
+312
+00:43:47,772 --> 00:43:50,240
+e adorarão os duendes,
+como divinos.
+
+313
+00:43:50,308 --> 00:43:53,072
+Você não deveria
+falar assim, Blix.
+
+314
+00:43:53,144 --> 00:43:56,602
+Porque não?
+Eu tenho o poder agora.
+
+315
+00:43:57,682 --> 00:43:59,877
+Conversa fiada.
+
+316
+00:44:09,928 --> 00:44:13,455
+Nem mesmo a escuridão
+durará para sempre.
+
+317
+00:44:19,604 --> 00:44:23,131
+Jack, agora não posso
+ir com você.
+
+318
+00:44:23,208 --> 00:44:25,176
+A Oona te guiará.
+
+319
+00:44:29,781 --> 00:44:31,681
+Siga-me Jack!
+
+320
+00:44:31,749 --> 00:44:33,683
+Por aqui, vamos!
+
+321
+00:44:55,573 --> 00:44:57,507
+Ande, Jack. rápido, rápido
+
+322
+00:45:19,597 --> 00:45:21,724
+Por aqui, Jack.
+
+323
+00:45:21,799 --> 00:45:23,858
+rápido.
+
+324
+00:45:57,869 --> 00:46:00,429
+Só você me conhece.
+
+325
+00:46:00,505 --> 00:46:02,439
+É nosso segredo, Jack.
+
+326
+00:46:02,507 --> 00:46:04,168
+Não conte ao Gump.
+
+327
+00:46:04,242 --> 00:46:06,005
+Promete?
+
+328
+00:46:06,077 --> 00:46:07,669
+Prometa!
+
+329
+00:46:09,080 --> 00:46:11,674
+Eu poderia ser qualquer coisa
+que você quisesse que eu fosse.
+
+330
+00:46:11,749 --> 00:46:15,048
+tudo que o teu coração deseje.
+
+331
+00:46:15,119 --> 00:46:17,849
+Você tem que nos ajudar, Jack.
+
+332
+00:46:17,922 --> 00:46:21,688
+O amor de uma fada
+faz qualquer coisa possível.
+
+333
+00:46:31,402 --> 00:46:34,701
+Sobe, sobe, fogo ardente.
+
+334
+00:46:35,440 --> 00:46:38,307
+Fazendo da música um coro.
+
+335
+00:46:39,711 --> 00:46:41,838
+É uma pena desperdiçar
+tal poder.
+
+336
+00:46:41,913 --> 00:46:45,713
+Desperdiçar? Tenha cuidado,
+velho amigo Pox,
+
+337
+00:46:45,783 --> 00:46:48,718
+ou te transformo
+em pequenas costeletas de porco.
+
+338
+00:46:48,786 --> 00:46:51,687
+Porquê não transformar
+tudo em lixo?
+
+339
+00:46:51,756 --> 00:46:55,954
+Uma grande montanha de lixo.
+Isto não seria mágico?
+
+340
+00:46:58,129 --> 00:47:01,121
+Sobe, sobe,
+fogo ardente.
+
+341
+00:47:01,199 --> 00:47:05,397
+Fazendo da música um coro.
+
+342
+00:47:12,543 --> 00:47:15,205
+- O quê?
+- O Grande D.!
+
+343
+00:47:19,117 --> 00:47:21,176
+Ouça,
+
+344
+00:47:21,252 --> 00:47:24,221
+Ouça,
+anjo da escuridão!
+
+345
+00:47:24,288 --> 00:47:26,483
+O teu reinado acabou!
+
+346
+00:47:26,557 --> 00:47:28,821
+Começou uma nova Ordem!
+
+347
+00:47:28,893 --> 00:47:30,690
+Eu tenho o poder!
+
+348
+00:47:30,762 --> 00:47:31,751
+Chega!
+
+349
+00:47:34,832 --> 00:47:36,697
+Merda! Por favor!
+
+350
+00:47:36,768 --> 00:47:38,326
+Foi só uma piada.
+
+351
+00:47:38,403 --> 00:47:40,769
+Não foi por mal.
+
+352
+00:47:42,140 --> 00:47:43,607
+Não! Não!
+
+353
+00:47:46,944 --> 00:47:49,208
+Você não tem senso de humor?
+
+354
+00:47:57,288 --> 00:48:00,553
+Perdoe esta intromissão
+Amo, mas...
+
+355
+00:48:00,625 --> 00:48:04,891
+os duendes têm tendência a ser sinceros.
+e gosto de incentivar essa iniciativa.
+
+356
+00:48:04,962 --> 00:48:07,294
+Você pensou que isto
+era uma simples brincadeira?
+
+357
+00:48:08,766 --> 00:48:11,496
+Com o chifre,
+o meu império é eterno.
+
+358
+00:48:11,569 --> 00:48:14,367
+Antes, só comandava a noite.
+
+359
+00:48:14,439 --> 00:48:18,102
+Agora os meus favoritos irão se divertir
+
+360
+00:48:18,176 --> 00:48:20,770
+na escuridão para sempre.
+
+361
+00:48:22,680 --> 00:48:25,774
+Os Unicórnios estão mortos,
+não é verdade?
+
+362
+00:48:25,850 --> 00:48:28,080
+- Verdade, verdadeira Amo.
+
+363
+00:48:28,152 --> 00:48:29,642
+- Verdade inegável.
+
+364
+00:48:29,720 --> 00:48:33,281
+Você mente! Veja o amanhecer!
+
+365
+00:48:33,357 --> 00:48:36,451
+É a pura verdade.
+
+366
+00:48:36,527 --> 00:48:39,894
+- Por outro lado...
+- O garanhão está morto.
+
+367
+00:48:39,964 --> 00:48:42,831
+- Acabem com isso!
+- A fêmea ainda vive!
+
+368
+00:48:42,900 --> 00:48:47,303
+Enquanto um Unicórnio pisar a terra,
+o meu poder não está completo.
+
+369
+00:48:47,371 --> 00:48:50,306
+É só uma fêmea, Amo.
+Ela não tem poder.
+
+370
+00:48:50,374 --> 00:48:53,741
+Tem o poder da criação.
+
+371
+00:48:53,811 --> 00:48:55,802
+Apanhem a fêmea!
+
+372
+00:48:57,348 --> 00:48:59,976
+Eu vos ordeno!
+
+373
+00:49:03,654 --> 00:49:05,588
+Bem, vejamos.
+O que nós temos aqui?
+
+374
+00:49:07,158 --> 00:49:09,888
+Um pouco de açafrão.
+
+375
+00:49:09,961 --> 00:49:12,191
+Um pouco de hortelã, será bom?
+
+376
+00:49:12,730 --> 00:49:14,459
+Alguma dedaleira?
+
+377
+00:49:14,532 --> 00:49:16,159
+E...
+
+378
+00:49:16,234 --> 00:49:18,896
+E um pouco de unha-de-cavalo.
+
+379
+00:49:21,739 --> 00:49:24,071
+Quem vem lá?
+
+380
+00:49:27,979 --> 00:49:30,675
+Sou...Eu sou a princesa Lily.
+
+381
+00:49:30,748 --> 00:49:33,842
+Você!, você é a causa de todo
+o nosso sofrimento.
+
+382
+00:49:35,520 --> 00:49:37,852
+Me perdoem
+
+383
+00:49:37,922 --> 00:49:40,982
+Eu não sabia.
+
+384
+00:49:41,058 --> 00:49:42,958
+Por favor, por favor me perdoe.
+
+385
+00:49:43,027 --> 00:49:45,188
+Não é para mim
+que você tem que pedir perdão.
+
+386
+00:49:45,263 --> 00:49:48,699
+Tente entender.
+Só quero fazer a coisa certa.
+
+387
+00:49:48,766 --> 00:49:50,996
+Tente entender.
+Só quero fazer a coisa certa.
+
+388
+00:49:51,068 --> 00:49:54,037
+O Senhor das Trevas enviou
+os duendes para apanhar a fêmea.
+
+389
+00:49:54,105 --> 00:49:57,506
+Não é seguro ficar aqui.
+Tens que ir! Vá agora! Vá!
+
+390
+00:49:57,575 --> 00:49:59,634
+Boa menina.
+- Você é muito corajosa.
+
+391
+00:49:59,710 --> 00:50:02,508
+- Depressa! Aaah!
+
+392
+00:50:02,580 --> 00:50:04,104
+- Tarde demais!
+
+393
+00:50:04,182 --> 00:50:07,948
+Se vocês
+estão procurando briga...
+
+394
+00:50:17,328 --> 00:50:19,159
+Provem isto.
+
+395
+00:50:19,230 --> 00:50:21,027
+Você não pode me pegar!
+Não pode! ha ha, veja isto!
+
+396
+00:50:22,833 --> 00:50:25,028
+Continuem, rapazes!
+
+397
+00:50:25,770 --> 00:50:28,068
+Oh, vejam isto!
+
+398
+00:50:28,139 --> 00:50:29,606
+Sim senhor. Você viu?
+
+399
+00:50:29,674 --> 00:50:33,235
+Você não pode me pegar!
+Não me...
+
+400
+00:50:33,311 --> 00:50:37,304
+Esta coisa emperrou.
+Eles me pegaram!
+
+401
+00:50:37,381 --> 00:50:39,872
+Esperem por mim!
+
+402
+00:50:52,263 --> 00:50:53,696
+Depressa!
+
+403
+00:50:57,468 --> 00:50:59,060
+Attends-moi!
+
+404
+00:51:04,342 --> 00:51:06,367
+Brown Tom!
+
+405
+00:51:10,982 --> 00:51:13,075
+Brown Tom...
+
+406
+00:51:13,150 --> 00:51:15,015
+Não pode estar morto.
+
+407
+00:51:15,086 --> 00:51:17,316
+Isto é horrível. Horrível.
+
+408
+00:51:18,122 --> 00:51:21,421
+- Brown Tom.
+- Gump.
+
+409
+00:51:22,560 --> 00:51:23,754
+Screwball.
+
+410
+00:51:25,563 --> 00:51:28,031
+Jack, meu amigo.
+
+411
+00:51:28,099 --> 00:51:29,862
+- Eles mataram você também?
+
+412
+00:51:29,934 --> 00:51:31,925
+- Claro que não.
+
+413
+00:51:32,003 --> 00:51:34,938
+- Mas que diabos você está falando?
+
+414
+00:51:35,006 --> 00:51:36,769
+- Duendes.
+- Duendes?
+
+415
+00:51:36,841 --> 00:51:39,105
+- Atiraram isso em mim.
+
+416
+00:51:41,712 --> 00:51:44,408
+É um lugar onde uma flecha
+não pode fazer mal.
+
+417
+00:51:44,482 --> 00:51:48,543
+Eu fiz o que pude para lutar
+mas eles eram muitos...
+
+418
+00:51:48,619 --> 00:51:50,553
+E que criaturas ferozes eles eram.
+
+419
+00:51:51,989 --> 00:51:55,288
+- A princesa me avisou, mas...
+- Lily?
+
+420
+00:51:55,359 --> 00:51:57,953
+- Sim.
+- Então está viva!
+
+421
+00:51:58,029 --> 00:52:00,964
+Ela ainda estava viva,
+quando me mataram.
+
+422
+00:52:01,032 --> 00:52:05,093
+- Os duendes devem tê-la levado.
+- Nós seguiremos suas pegadas na neve.
+
+423
+00:52:10,775 --> 00:52:12,003
+A Grande Árvore.
+
+424
+00:52:13,277 --> 00:52:16,337
+Quando a anarquia maligna dominava a terra,
+
+425
+00:52:16,414 --> 00:52:18,644
+os maus vinham aqui
+para fazer sacrifícios.
+
+426
+00:52:53,784 --> 00:52:56,548
+Feio, Odeio isto.
+
+427
+00:52:56,620 --> 00:52:59,248
+Ainda bem.
+Você vai primeiro.
+
+428
+00:52:59,323 --> 00:53:01,883
+Porque sou sempre eu?
+
+429
+00:53:01,959 --> 00:53:03,551
+Vai!
+
+430
+00:53:09,400 --> 00:53:10,697
+Estrangeiro!
+
+431
+00:53:25,383 --> 00:53:26,975
+Ooh, está escorregando.
+
+432
+00:53:39,463 --> 00:53:41,397
+- Consegui!
+- Screwball!
+
+433
+00:53:55,413 --> 00:53:58,075
+Criatura intragável!
+
+434
+00:54:03,454 --> 00:54:06,685
+Vem à Meg, rapaz delicioso.
+
+435
+00:54:11,962 --> 00:54:15,693
+Quem é este pedaço tenro...
+
+436
+00:54:16,500 --> 00:54:20,527
+que perturba o descanso de
+Meg Mucklebone?
+
+437
+00:54:22,072 --> 00:54:23,596
+Jack.
+me chamo Jack, minha senhora.
+
+438
+00:54:27,745 --> 00:54:31,772
+E que delicioso e gorducho
+rapaz você é, Jack.
+
+439
+00:54:31,849 --> 00:54:34,147
+Você não está realmente querendo
+me comer, não é, madame?
+
+440
+00:54:34,218 --> 00:54:36,413
+Oh, claro que estou!
+
+441
+00:54:40,024 --> 00:54:42,618
+Mas isso seria uma pena,
+porque alguém tão formosa...
+
+442
+00:54:44,028 --> 00:54:47,896
+e linda como a senhora, Miss Meg, merece
+coisa muito melhor que eu.
+
+443
+00:54:50,234 --> 00:54:51,826
+Não acha?
+
+444
+00:54:53,838 --> 00:54:57,604
+Voce me acha formosa,
+
+445
+00:54:57,675 --> 00:54:59,700
+Jack?
+
+446
+00:54:59,777 --> 00:55:02,769
+Todos os anjos do céu
+devem invejar a sua beleza.
+
+447
+00:55:11,121 --> 00:55:13,715
+Que bela refeição darias,
+
+448
+00:55:13,791 --> 00:55:18,091
+se todo o resto
+fôr tão doce como a tua língua.
+
+449
+00:55:18,162 --> 00:55:20,892
+Espere! Não!
+Por favor Linda Beleza,
+
+450
+00:55:20,965 --> 00:55:23,934
+Alimente-se na beleza
+de seu próprio reflexo.
+
+451
+00:55:24,001 --> 00:55:27,630
+A senhora é um anjo, Miss Meg.
+
+452
+00:55:27,705 --> 00:55:29,468
+Veja. Veja.
+
+453
+00:55:29,540 --> 00:55:32,771
+Que ideia maravilhosa.
+
+454
+00:55:39,683 --> 00:55:41,310
+Rapaz esperto!
+
+455
+00:55:45,656 --> 00:55:49,251
+A sua alquimia faz com que
+o aço brilhe como a prata.
+
+456
+00:55:51,195 --> 00:55:53,288
+Isto são palavras bonitas...
+
+457
+00:55:53,364 --> 00:55:56,356
+para alguém tão novo, Jack.
+
+458
+00:56:02,840 --> 00:56:05,206
+Venha, venha, Jack!
+
+459
+00:56:06,377 --> 00:56:08,140
+me de um beijo...
+
+460
+00:56:08,212 --> 00:56:09,372
+antes do jantar!
+
+461
+00:56:26,063 --> 00:56:27,655
+Consegui!
+
+462
+00:57:56,954 --> 00:57:59,445
+OK, OK
+
+463
+00:58:02,593 --> 00:58:06,256
+Veja, que enorme trompete.
+
+464
+00:58:06,330 --> 00:58:10,596
+Aposto que faz muito barulho.
+
+465
+00:58:35,392 --> 00:58:37,724
+As nossas vidas estarão
+perdidas se ela tocar.
+
+466
+00:58:42,866 --> 00:58:45,130
+Cuidado!
+
+467
+00:58:53,343 --> 00:58:56,312
+As minhas costas!
+As minhas doloridas costas!
+
+468
+00:58:57,181 --> 00:59:00,309
+Oh, já não sou tão velho
+como era, sabem.
+
+469
+00:59:05,122 --> 00:59:06,680
+Onde é que estamos?
+
+470
+00:59:06,757 --> 00:59:09,692
+Em algum lugar onde não queremos estar.
+
+471
+00:59:14,331 --> 00:59:16,595
+Esperem por mim!
+
+472
+00:59:16,667 --> 00:59:20,433
+Temos que sair daqui!
+É o fedor do próprio Inferno!
+
+473
+00:59:26,276 --> 00:59:29,712
+Serão duendes assados
+se não ficarem em silêncio.
+
+474
+00:59:29,780 --> 00:59:32,044
+E quem é voce, cabeça de lata?
+
+475
+00:59:32,116 --> 00:59:35,574
+Quem eu sou não me ajuda
+nem a vocês,
+
+476
+00:59:35,652 --> 00:59:39,748
+Mesmo que sejamos todos irmãos.
+
+477
+00:59:43,494 --> 00:59:44,927
+O que aconteceucom você?
+
+478
+00:59:44,995 --> 00:59:46,929
+É uma longa história.
+
+479
+00:59:46,997 --> 00:59:50,125
+Digamos que
+fui à procura de aventura...
+
+480
+00:59:50,200 --> 00:59:54,296
+e encontrei mais do que pude aguentar.
+
+481
+00:59:54,371 --> 00:59:56,999
+Agora já não importa.
+maintenant.
+
+482
+00:59:57,074 --> 00:59:59,338
+Estamos todos no mesmo buraco!
+
+483
+01:00:01,445 --> 01:00:05,404
+Eu sabia. Eu sabia.
+Devia ter ficado em casa.
+
+484
+01:00:06,517 --> 01:00:07,814
+Vejam o seguinte, irmãos.
+
+485
+01:00:07,885 --> 01:00:11,685
+Eu e todos vocês...
+
+486
+01:00:11,755 --> 01:00:14,280
+seremos churrasco.
+
+487
+01:00:16,593 --> 01:00:17,890
+Churrasco?
+
+488
+01:00:17,961 --> 01:00:19,485
+Isso mesmo. Churrasco.
+
+489
+01:00:19,563 --> 01:00:22,498
+Só carne morta espera
+para ir para a panela.
+
+490
+01:00:24,268 --> 01:00:27,135
+Abra a fechadura com a tua magia, Gump.
+
+491
+01:00:43,120 --> 01:00:45,054
+O ferro é um problema para os duendes.
+
+492
+01:01:12,549 --> 01:01:14,449
+Oh, não!
+
+493
+01:01:14,518 --> 01:01:15,951
+Ele está vindo! Escondam-se
+
+494
+01:01:24,862 --> 01:01:27,228
+Escondam-se!
+Escondam-se!
+
+495
+01:02:01,665 --> 01:02:03,599
+Não consigo sair
+
+496
+01:02:06,403 --> 01:02:08,701
+Me ajude!
+
+497
+01:02:08,772 --> 01:02:11,240
+Me solte, me solte!
+
+498
+01:02:11,308 --> 01:02:12,741
+Socoroooo!
+
+499
+01:02:14,444 --> 01:02:15,877
+Oh, grande besta!
+
+500
+01:02:25,856 --> 01:02:28,689
+Me solte!
+
+501
+01:02:39,670 --> 01:02:41,968
+- Gump, temos que ajudar.
+- Não se preocupe.
+
+502
+01:02:42,039 --> 01:02:45,406
+O nosso irmão sabe se cuidar.
+
+503
+01:02:46,510 --> 01:02:48,102
+Tenho certeza, acho!.
+
+504
+01:02:48,178 --> 01:02:50,169
+O Screwball tem razão.
+É mais importante que ache o Unicórnio.
+
+505
+01:02:50,247 --> 01:02:52,408
+Porque não pede a Oona para voar,
+e encontrar uma chave?
+
+506
+01:02:56,153 --> 01:02:59,816
+Mas ela é muito pequena.
+Nunca vai conseguir levantar isto.
+
+507
+01:03:01,625 --> 01:03:02,922
+O nosso segredo!
+
+508
+01:03:02,993 --> 01:03:05,689
+O nosso segredo ficará para sempre
+aqui nesta tumba, se não nos ajudar.
+
+509
+01:03:05,762 --> 01:03:07,389
+Você prometeu!
+
+510
+01:03:08,865 --> 01:03:12,961
+Fada teimosa! Como você se
+atreve a guardar tal segredo?
+
+511
+01:03:13,036 --> 01:03:15,402
+São meus e guardo-os.
+
+512
+01:03:20,677 --> 01:03:24,773
+Eu farei o que você pede...
+se você me beijar, Jack.
+
+513
+01:03:35,325 --> 01:03:36,758
+Isso é fácil.
+
+514
+01:03:43,433 --> 01:03:45,367
+Chama isto de beijo?
+
+515
+01:03:46,503 --> 01:03:48,027
+Não sou doce?
+
+516
+01:03:51,341 --> 01:03:54,071
+Mais doce que mel...
+num vento de Verão.
+
+517
+01:03:54,144 --> 01:03:56,237
+par une brise d'été.
+
+518
+01:03:58,015 --> 01:04:01,746
+Doce é o vento que
+me sopra para você.
+
+519
+01:04:05,722 --> 01:04:07,656
+Oh, É mágica de fada.
+
+520
+01:04:13,530 --> 01:04:15,725
+Oui, Jack!
+
+521
+01:04:25,108 --> 01:04:26,473
+Isto não é real.
+
+522
+01:04:26,543 --> 01:04:27,976
+Oh, é sim.
+
+523
+01:04:29,346 --> 01:04:31,280
+Eu estou quente e viva.
+
+524
+01:04:32,416 --> 01:04:35,112
+e quero estar nos teus braços.
+
+525
+01:04:58,141 --> 01:04:59,335
+Não, Não, eu não posso.
+
+526
+01:05:01,378 --> 01:05:03,778
+Isto é somente fantasia.
+
+527
+01:05:06,183 --> 01:05:08,117
+Corações humanos não
+funcionam desta maneira.
+
+528
+01:05:09,820 --> 01:05:12,152
+E que me importam os corações humanos?
+
+529
+01:05:12,222 --> 01:05:15,316
+Suaves e sem espírito como mingau!
+
+530
+01:05:15,392 --> 01:05:18,828
+O coração de uma fada bate forte e livre!
+
+531
+01:05:29,639 --> 01:05:33,234
+Sua sensibilidade
+vai nos deixar apodrecer aqui!
+
+532
+01:05:33,310 --> 01:05:35,744
+Estou completamente de acordo, Gump.
+
+533
+01:05:41,151 --> 01:05:44,450
+Vocês se parecem!
+lamentando seu próprio funeral.
+
+534
+01:05:58,835 --> 01:05:59,927
+Oona!
+
+535
+01:06:05,308 --> 01:06:06,741
+Você!
+
+536
+01:06:08,812 --> 01:06:11,576
+Você, mortal, você!
+
+537
+01:06:11,648 --> 01:06:13,582
+Je pourrais te tracasser...
+
+538
+01:06:13,650 --> 01:06:16,346
+Poderia te atormentar!
+Vive a tua vida!
+
+539
+01:06:31,401 --> 01:06:34,097
+Ficarei por aqui, e...
+
+540
+01:06:35,272 --> 01:06:36,967
+Esperem por mim!
+
+541
+01:06:53,857 --> 01:06:58,021
+Uma visão terrível
+para um homem sóbrio.
+
+542
+01:07:09,773 --> 01:07:11,365
+Precisamos encontrar as masmorras.
+
+543
+01:07:12,509 --> 01:07:14,739
+Acho que ficarei por aqui,
+muito obrigado.
+
+544
+01:07:14,811 --> 01:07:17,336
+Não tão rápido!
+Vai procurar como todos nós.
+
+545
+01:07:17,414 --> 01:07:19,882
+- Então vou com o Jack.
+- Não! Vamos nos separar.
+
+546
+01:07:19,950 --> 01:07:22,384
+Sim! Será melhor
+se formos em grupos.
+
+547
+01:07:22,452 --> 01:07:24,420
+Não, Eu vou com o Ja...
+
+548
+01:07:25,288 --> 01:07:27,620
+Gump e eu,
+Brown Tom e Screwball.
+
+549
+01:07:27,691 --> 01:07:29,625
+OK. Tomem cuidado.
+Vamos, Jack.
+
+550
+01:07:41,271 --> 01:07:45,230
+Voltaremos a encontrar aqui em
+1000 batidas do coração de uma ave.
+
+551
+01:07:45,308 --> 01:07:47,367
+Sabe o que penso?
+
+552
+01:07:47,444 --> 01:07:50,607
+Que deveríamos
+ter mais algumas centenas de respirações...
+
+553
+01:07:52,782 --> 01:07:54,943
+Tenham cuidado.
+Vamos, Jack.
+
+554
+01:07:58,188 --> 01:08:00,019
+Cuidado.
+
+555
+01:08:04,828 --> 01:08:07,729
+Só há uma coisa que eu quero saber
+
+556
+01:08:07,797 --> 01:08:09,059
+O que é?
+
+557
+01:08:09,132 --> 01:08:10,565
+Porquê eu?
+
+558
+01:08:12,369 --> 01:08:14,803
+- Deveríamos ir para oeste.
+- Deveríamos ir para leste.
+
+559
+01:08:14,871 --> 01:08:17,066
+Está bem. Esperem!
+
+560
+01:08:19,309 --> 01:08:23,905
+Pai, tenho o mundo ao meu alcance,
+
+561
+01:08:23,980 --> 01:08:28,076
+no entanto
+esta garota me distrai.
+
+562
+01:08:29,552 --> 01:08:34,216
+Faz uma eternidade
+desde que senti tal desejo.
+
+563
+01:08:34,291 --> 01:08:36,418
+O que deverei fazer?
+
+564
+01:08:36,493 --> 01:08:40,486
+Ela te fascina
+porque a sua alma
+
+565
+01:08:40,563 --> 01:08:42,155
+é pura.
+
+566
+01:08:42,232 --> 01:08:44,097
+Então vou tomá-la
+
+567
+01:08:44,167 --> 01:08:46,032
+Idiota!
+
+568
+01:08:46,102 --> 01:08:50,835
+encante ela, corteje ela,
+
+569
+01:08:50,907 --> 01:08:55,844
+Ela se lembra do mundo
+do jeito que era,
+
+570
+01:08:55,912 --> 01:08:59,279
+então... leva-a à tentação.
+
+571
+01:08:59,349 --> 01:09:02,443
+Ganhe-a.
+
+572
+01:09:02,519 --> 01:09:06,717
+Torne-a um de nós.
+
+573
+01:09:26,743 --> 01:09:28,677
+Você vê alguma coisa?
+
+574
+01:09:28,745 --> 01:09:32,010
+- Não,e você?
+- Não sei.
+
+575
+01:09:32,082 --> 01:09:33,515
+Eu acho.
+
+576
+01:11:18,888 --> 01:11:21,379
+Ou..ou..ou..ouviu isso?
+
+577
+01:11:21,458 --> 01:11:23,119
+O que é isso?
+
+578
+01:11:23,193 --> 01:11:25,354
+É um cavalo, idiota.
+
+579
+01:11:32,335 --> 01:11:35,964
+Corteje-a.
+
+580
+01:12:17,747 --> 01:12:20,944
+Ganhe-a.
+
+581
+01:13:29,018 --> 01:13:31,248
+encante ela, corteje ela,
+
+582
+01:13:56,145 --> 01:13:59,945
+Faça dela um de nós.
+
+583
+01:17:17,814 --> 01:17:19,748
+Senhora,
+
+584
+01:17:19,816 --> 01:17:22,546
+não tenha medo.
+
+585
+01:17:22,618 --> 01:17:24,210
+Calma, calma.
+
+586
+01:17:29,759 --> 01:17:32,728
+Gostou dos meus presentes?
+
+587
+01:17:33,563 --> 01:17:36,430
+Não gostou do vestido?
+
+588
+01:17:42,572 --> 01:17:45,268
+Como pode falar assim
+do seu vestido de noiva?
+
+589
+01:17:47,143 --> 01:17:49,611
+Encontrei a minha alma gêmea,
+
+590
+01:17:50,813 --> 01:17:53,179
+- e você sabe disso.
+- Jamais!
+
+591
+01:17:53,249 --> 01:17:58,016
+- Por baixo da pele, somos um só.
+
+592
+01:18:00,923 --> 01:18:05,292
+Foi seu pecado de
+tocar o unicórnio.
+
+593
+01:18:05,361 --> 01:18:09,229
+Mesmo agora...
+a semente do mal que você fez...
+
+594
+01:18:09,298 --> 01:18:12,529
+Brota em você.
+
+595
+01:18:12,602 --> 01:18:14,695
+Não! Você mente.
+
+596
+01:18:14,770 --> 01:18:17,034
+Você dá nojo.
+
+597
+01:18:18,341 --> 01:18:20,275
+Você é um animal.
+
+598
+01:18:24,080 --> 01:18:27,743
+Somos todos animais, senhorita.
+
+599
+01:18:27,817 --> 01:18:31,218
+Mas a maioria tem
+medo de aceitar.
+
+600
+01:18:50,573 --> 01:18:53,440
+Jack! Não há nada que você
+possa fazer agora para ajudá-la.
+
+601
+01:18:53,509 --> 01:18:55,067
+Agradeça se ela
+ainda estiver viva.
+
+602
+01:18:56,178 --> 01:18:58,339
+Você tem que nos ajudar, Jack.
+
+603
+01:18:58,414 --> 01:19:02,214
+O último Unicórnio morrerá esta noite.
+
+604
+01:19:03,786 --> 01:19:06,721
+- E quando o seu sangue fluir,
+- Nunca
+
+605
+01:19:06,789 --> 01:19:10,054
+o sol se porá para sempre.
+
+606
+01:19:11,093 --> 01:19:15,530
+Jamais haverá outro amanhecer.
+
+607
+01:19:17,900 --> 01:19:19,595
+Madame...
+
+608
+01:19:19,669 --> 01:19:23,400
+Desejo o conforto
+das sombras...
+
+609
+01:19:23,472 --> 01:19:26,566
+e a escuridão da noite.
+
+610
+01:19:27,944 --> 01:19:31,937
+A luz do sol é a minha destruição!
+
+611
+01:19:38,421 --> 01:19:40,753
+Maldito sejas!
+
+612
+01:19:40,823 --> 01:19:43,155
+Todos somos malditos,
+
+613
+01:19:43,225 --> 01:19:45,159
+minha rainha.
+
+614
+01:19:48,130 --> 01:19:51,031
+Enquanto o sol brilhar,
+
+615
+01:19:51,100 --> 01:19:53,034
+nós podemos destruí-lo.
+
+616
+01:19:55,271 --> 01:19:56,795
+Deixe-me envolvê-la
+com a minha sabedoria.
+
+617
+01:19:59,408 --> 01:20:01,433
+Acho que sei como fazer.
+
+618
+01:20:06,182 --> 01:20:09,174
+Vamos! Vamos!
+Você tem que ficar comigo!
+
+619
+01:20:09,251 --> 01:20:12,516
+Escute. Não vamos descer
+pela mesma passagem
+
+620
+01:20:12,588 --> 01:20:16,080
+- Acho que deveríamos ir por ali!
+- Não, vamos por aqui.
+
+621
+01:20:21,464 --> 01:20:24,297
+- Vamos ali para baixo.
+- Fique perto de mim.
+
+622
+01:20:40,883 --> 01:20:42,817
+- Sabe de uma coisa?
+- O que?
+
+623
+01:20:42,885 --> 01:20:45,820
+- Vamos correr como doidos.
+- Concordo.
+
+624
+01:20:54,964 --> 01:20:56,522
+Onde vocês estavam?
+
+625
+01:20:56,599 --> 01:20:59,659
+Se demorassem mais tempo,
+nos teríamos ido embora
+
+626
+01:21:00,970 --> 01:21:03,370
+Enquanto se divertem,
+o tempo voa.
+
+627
+01:21:03,439 --> 01:21:07,375
+Sim, encontrámos a fêmea,
+está viva na masmorra.
+
+628
+01:21:07,443 --> 01:21:09,468
+Excelente.
+Excelente trabalho.
+
+629
+01:21:09,545 --> 01:21:11,706
+Muito obrigado.
+
+630
+01:21:11,781 --> 01:21:14,716
+O Jack tem um bom plano.
+
+631
+01:21:14,784 --> 01:21:17,776
+Temos que juntar todo e qualquer
+coisa brilhante que encontrarmos.
+
+632
+01:21:18,854 --> 01:21:22,085
+Vamos trazer luz
+para a escuridão.
+
+633
+01:21:57,827 --> 01:21:59,260
+Blunder.
+
+634
+01:22:21,183 --> 01:22:23,879
+Mais algum barulho
+e vocês estão perdidos!
+
+635
+01:22:23,953 --> 01:22:27,013
+Você faz o que dissermos,
+entendido? Jure!
+
+636
+01:22:28,491 --> 01:22:31,688
+Eu juro pelo amor de Nicodemus!
+
+637
+01:22:31,760 --> 01:22:34,957
+Por favor, ajude!
+
+638
+01:22:38,000 --> 01:22:39,092
+Obrigado.
+
+639
+01:22:44,140 --> 01:22:47,371
+Não me julgue tão ruim,
+minha amada.
+
+640
+01:22:47,443 --> 01:22:50,537
+Te convido a
+compartilhar esta refeição.
+
+641
+01:22:50,613 --> 01:22:53,878
+Verá o quanto é doce.
+
+642
+01:23:56,612 --> 01:23:58,842
+Depressa, depressa. Continue a atirar!
+Vamos, vamos!
+
+643
+01:26:23,892 --> 01:26:26,087
+Três vivas
+para o nosso campeão!
+
+644
+01:26:57,359 --> 01:26:59,259
+E agora, Jack?
+
+645
+01:26:59,328 --> 01:27:01,319
+Temos de ir lá em cima.
+jusqu'en haut.
+
+646
+01:27:04,600 --> 01:27:06,090
+Luz.
+
+647
+01:27:08,203 --> 01:27:10,398
+Não há muito onde se agarrar.
+
+648
+01:27:10,472 --> 01:27:13,236
+Será preciso uma varinha mágica
+para fazer essa subida.
+
+649
+01:27:20,482 --> 01:27:21,881
+Eu vou.
+
+650
+01:27:24,720 --> 01:27:27,280
+O que foi? Não sou
+pequeno o bastante para o trabalho?
+
+651
+01:27:28,157 --> 01:27:30,751
+Nenhum trabalho é pequeno
+para o meu irmão.
+
+652
+01:27:30,826 --> 01:27:34,421
+Por favor, deixe-me tentar.
+Eu não o desapontarei.
+
+653
+01:27:36,398 --> 01:27:39,094
+Ok, OK.
+Mas não demore!
+
+654
+01:27:39,168 --> 01:27:42,365
+Obrigado! Obrigado!
+Você não se arrependerá!
+
+655
+01:27:42,438 --> 01:27:45,430
+Eu sempre soube que você
+seria alguém na vida,
+
+656
+01:27:54,583 --> 01:27:56,380
+- Coma.
+- Não tenho fome.
+
+657
+01:27:56,452 --> 01:27:57,885
+Você mente.
+
+658
+01:28:01,123 --> 01:28:03,318
+Só para me agradar.
+
+659
+01:28:03,392 --> 01:28:05,883
+Não faço nada para
+o teu prazer.
+
+660
+01:28:09,798 --> 01:28:11,732
+Tudo o que eu desejo...
+
+661
+01:28:11,800 --> 01:28:14,200
+É que sente
+
+662
+01:28:14,269 --> 01:28:15,896
+e fale comigo.
+
+663
+01:28:15,971 --> 01:28:16,960
+Sentar-me?
+
+664
+01:28:21,143 --> 01:28:23,475
+- Aqui?
+- Sim.
+
+665
+01:28:24,980 --> 01:28:27,073
+- Por favor.
+- Prefiro ficar de pé.
+
+666
+01:28:27,149 --> 01:28:28,582
+- Sente!
+
+667
+01:28:32,521 --> 01:28:33,954
+Ou fica em pé.
+
+668
+01:28:35,157 --> 01:28:36,988
+Como desejares.
+
+669
+01:28:37,059 --> 01:28:40,654
+É suficiente estarmos
+sozinhos juntos.
+
+670
+01:28:42,397 --> 01:28:44,331
+Somente nós dois.
+
+671
+01:28:48,670 --> 01:28:53,471
+Alguma... simples conversa.
+
+672
+01:28:54,643 --> 01:28:56,941
+Não tenho nada a dizer.
+
+673
+01:28:58,514 --> 01:29:01,711
+Você roubou os meus sonhos.
+
+674
+01:29:01,783 --> 01:29:03,717
+Tudo muda, Senhorita.
+
+675
+01:29:05,787 --> 01:29:08,381
+Os sonhos da juventude...
+
+676
+01:29:08,457 --> 01:29:11,722
+são os arrependimentos da maturidade.
+
+677
+01:29:14,196 --> 01:29:17,393
+Sonhos são a minha especialidade.
+
+678
+01:29:17,466 --> 01:29:21,402
+Através dos sonhos
+influencio a humanidade.
+
+679
+01:29:22,471 --> 01:29:24,405
+O meu sonho...
+
+680
+01:29:24,473 --> 01:29:25,770
+é de passar
+
+681
+01:29:26,608 --> 01:29:28,041
+a eternidade com você.
+
+682
+01:29:30,612 --> 01:29:33,877
+Eu lhe ofereço
+
+683
+01:29:33,949 --> 01:29:35,382
+esta rosa, Princesa,
+
+684
+01:29:37,986 --> 01:29:39,419
+meu coração,
+
+685
+01:29:40,956 --> 01:29:42,389
+minha alma,
+
+686
+01:29:43,892 --> 01:29:46,156
+o meu amor.
+
+687
+01:29:46,228 --> 01:29:48,389
+Amor?
+
+688
+01:30:03,745 --> 01:30:07,511
+Antes contentava-me com a solidão...
+
+689
+01:30:08,617 --> 01:30:11,484
+até àquele momento...
+
+690
+01:30:11,553 --> 01:30:14,044
+em que senti a tua presença.
+
+691
+01:30:15,257 --> 01:30:17,316
+Um pouco para a direita.
+
+692
+01:30:17,392 --> 01:30:18,825
+Esquerda.
+
+693
+01:30:18,894 --> 01:30:20,293
+Está bom assim!
+
+694
+01:30:21,363 --> 01:30:24,196
+É tarde.
+
+695
+01:30:24,266 --> 01:30:25,699
+Sente-se.
+
+696
+01:30:27,436 --> 01:30:29,904
+Eu admiro seus pensamentos.
+
+697
+01:30:29,972 --> 01:30:32,634
+Divida-os comigo.
+
+698
+01:31:12,914 --> 01:31:14,848
+- Sentar-me?
+- Sim.
+
+699
+01:31:14,916 --> 01:31:17,783
+- Nada mais que isto?
+- E conversar comigo.
+
+700
+01:31:29,264 --> 01:31:31,789
+Acho que ficarei de pé,
+se você não se importa.
+
+701
+01:31:33,602 --> 01:31:35,968
+Maldita sejas!
+
+702
+01:31:38,607 --> 01:31:40,472
+Não! Nunca! Nunca!
+
+703
+01:32:01,163 --> 01:32:03,495
+Eu escuto uma garganta
+começando a ser cortada.
+
+704
+01:32:10,939 --> 01:32:14,238
+Você está tão ansiosa...
+
+705
+01:32:14,309 --> 01:32:16,368
+para ver sangue jorrando?
+
+706
+01:32:16,445 --> 01:32:17,878
+Como está para beber? Conceda um
+
+707
+01:32:17,946 --> 01:32:20,608
+desejo para sua noiva esta noite.
+
+708
+01:32:20,682 --> 01:32:22,650
+Você só precisa pedir.
+
+709
+01:32:22,718 --> 01:32:25,118
+Eu ficarei aqui
+com você como você quer.
+
+710
+01:32:27,622 --> 01:32:28,884
+- Mas com uma condição.
+
+711
+01:32:28,957 --> 01:32:30,390
+- Qualquer coisa.
+
+712
+01:32:32,060 --> 01:32:33,925
+Eu quero matar o unicórnio.
+
+713
+01:32:55,217 --> 01:32:58,345
+Não posso deixar que isso aconteça.
+
+714
+01:33:06,428 --> 01:33:08,362
+No início...
+
+715
+01:33:09,498 --> 01:33:12,092
+não havia nada.
+
+716
+01:33:14,236 --> 01:33:17,433
+Só a escuridão.
+
+717
+01:33:18,740 --> 01:33:21,334
+uma fria eternidade
+
+718
+01:33:21,409 --> 01:33:23,104
+de silêncio.
+
+719
+01:33:25,914 --> 01:33:28,940
+Jack, o teu grande desafio
+ainda está para chegar.
+
+720
+01:33:29,017 --> 01:33:31,645
+E não temos muito tempo.
+
+721
+01:33:40,529 --> 01:33:44,727
+Quando o vazio foi
+corrompido
+
+722
+01:33:44,800 --> 01:33:46,563
+pela luz,
+
+723
+01:33:46,635 --> 01:33:49,798
+um grande lamento foi ouvido...
+
+724
+01:33:50,806 --> 01:33:55,573
+e toda a irmandade fugiu em terror.
+
+725
+01:33:57,379 --> 01:33:59,813
+Oona, voe como o vento.
+
+726
+01:33:59,881 --> 01:34:01,314
+Chegou a hora.
+
+727
+01:35:16,825 --> 01:35:19,089
+julgue-a
+com seu coração...
+
+728
+01:35:20,095 --> 01:35:22,154
+não, com os seus olhos.
+
+729
+01:35:23,765 --> 01:35:25,699
+Escute-me,
+
+730
+01:35:25,767 --> 01:35:28,702
+poderes da noite!
+
+731
+01:35:29,604 --> 01:35:32,539
+Nós oferecemos este sacrifício
+
+732
+01:35:32,607 --> 01:35:34,973
+em sua honra,
+
+733
+01:35:36,378 --> 01:35:38,642
+santificado
+
+734
+01:35:38,713 --> 01:35:40,374
+com sangue...
+
+735
+01:35:42,651 --> 01:35:45,415
+e com fogo!
+
+736
+01:35:56,464 --> 01:35:59,433
+Eu lhe peço, Pai...
+
+737
+01:35:59,501 --> 01:36:01,662
+aceite meu sacrifício.
+
+738
+01:36:02,570 --> 01:36:05,130
+Que a luz seja extinta
+
+739
+01:36:05,206 --> 01:36:06,639
+para sempre.
+
+740
+01:36:09,177 --> 01:36:12,510
+Que comece a era da escuridão!
+
+741
+01:36:13,648 --> 01:36:16,048
+Venha, Senhora.
+
+742
+01:36:16,117 --> 01:36:18,711
+O nascimento de um
+novo mundo espera
+
+743
+01:36:18,787 --> 01:36:20,982
+Que a minha oferenda
+
+744
+01:36:23,258 --> 01:36:26,785
+seja feita de carne e sangue.
+
+745
+01:36:28,196 --> 01:36:30,960
+Ela vai fazer isto, Jack.
+Ela é um deles.
+
+746
+01:36:32,033 --> 01:36:34,467
+Eu sou irmã do destino.
+
+747
+01:36:34,536 --> 01:36:37,562
+Mate-a.
+Esqueça-a.
+
+748
+01:36:37,639 --> 01:36:40,938
+Pense no Unicórnio.
+
+749
+01:36:48,450 --> 01:36:49,417
+- Faça!
+
+750
+01:36:51,553 --> 01:36:52,645
+- Eu mato-a.
+
+751
+01:37:00,395 --> 01:37:03,091
+Sempre confiarei em você.
+
+752
+01:37:03,164 --> 01:37:04,825
+Confio em ti, Lily.
+
+753
+01:37:08,770 --> 01:37:10,431
+Foge!
+
+754
+01:37:12,374 --> 01:37:14,069
+Foge! Estás livre!
+
+755
+01:37:47,342 --> 01:37:49,276
+O que temos aqui?
+
+756
+01:37:50,378 --> 01:37:52,312
+Um rapazinho.
+
+757
+01:38:19,007 --> 01:38:21,407
+Screwball, acorde!
+
+758
+01:38:36,357 --> 01:38:38,120
+Acorde, Screwball!
+Acorde!
+
+759
+01:38:39,260 --> 01:38:43,424
+É sempre um prazer
+tirar a vida de um bravo.
+
+760
+01:38:47,936 --> 01:38:49,301
+Acorde!
+
+761
+01:39:17,232 --> 01:39:21,794
+Você não me conhece garoto?
+
+762
+01:39:43,191 --> 01:39:44,351
+Que horas são?
+
+763
+01:39:44,859 --> 01:39:48,386
+Todo o lobo tem pulgas.
+
+764
+01:39:48,463 --> 01:39:51,330
+Bem fáceis de coçar.
+
+765
+01:40:05,813 --> 01:40:08,247
+Me dê isto garoto!
+
+766
+01:40:30,405 --> 01:40:32,771
+Pai!
+
+767
+01:40:32,840 --> 01:40:35,968
+Proteja-me!
+
+768
+01:40:46,654 --> 01:40:50,021
+Pensas que ganhaste!
+
+769
+01:40:52,260 --> 01:40:54,592
+O que é a luz...
+
+770
+01:40:54,662 --> 01:40:56,596
+sem escuridão?
+
+771
+01:40:58,099 --> 01:41:00,260
+Quem é você...
+
+772
+01:41:00,335 --> 01:41:03,634
+sem mim?
+
+773
+01:41:05,840 --> 01:41:10,436
+Sou uma parte de todos voces.
+
+774
+01:41:10,511 --> 01:41:13,776
+Nunca poderão vencer-me.
+
+775
+01:41:15,183 --> 01:41:17,651
+Somos irmãos...
+
+776
+01:41:17,719 --> 01:41:19,448
+para sempre!
+
+777
+01:41:19,520 --> 01:41:23,286
+Mate-o, Jack! Mate-o!
+
+778
+01:42:07,702 --> 01:42:09,897
+Ela está enfeitiçada.
+
+779
+01:42:09,971 --> 01:42:12,462
+Um feitiço poderoso.
+
+780
+01:42:13,541 --> 01:42:14,633
+Faça alguma coisa.
+
+781
+01:42:17,879 --> 01:42:20,143
+Vejam pelo que passamos.
+
+782
+01:42:22,884 --> 01:42:24,818
+Veja quem você é.
+
+783
+01:42:24,886 --> 01:42:26,979
+Confie em você.
+
+784
+01:42:27,055 --> 01:42:30,650
+É a maior lição que aprendeu.
+
+785
+01:42:30,725 --> 01:42:33,023
+Só você pode responder a este enigma.
+
+786
+01:42:35,096 --> 01:42:37,428
+Sou uma princesa.
+
+787
+01:42:37,498 --> 01:42:40,331
+É meu direito criar
+desafios aos meus pretendentes.
+
+788
+01:42:42,370 --> 01:42:45,862
+Casarei...
+com quem encontrar este anel.
+
+789
+01:42:48,743 --> 01:42:50,870
+Nós também temos uma promessa a cumprir.
+
+790
+01:42:53,514 --> 01:42:55,448
+Agora cumpra sua promessa.
+
+791
+01:42:57,085 --> 01:42:59,019
+Sentirei sua falta.
+
+792
+01:42:59,087 --> 01:43:02,113
+- Não esqueça de nós.
+- Nunca.
+
+793
+01:44:57,905 --> 01:44:59,304
+Eu te amo, Lily.
+
+794
+01:45:01,909 --> 01:45:03,843
+Volte para mim.
+
+795
+01:45:06,514 --> 01:45:08,448
+Volte para mim.
+
+796
+01:45:18,326 --> 01:45:20,260
+Eu...
+
+797
+01:45:20,328 --> 01:45:22,262
+Eu... te amo, Jack.
+
+798
+01:45:38,412 --> 01:45:40,403
+Amo você, Lily.
+
+799
+01:45:41,883 --> 01:45:44,181
+Tive um pesadelo terrível
+
+800
+01:45:44,252 --> 01:45:45,719
+Teve?
+
+801
+01:45:48,623 --> 01:45:50,056
+Acabou.
+
+802
+01:46:07,909 --> 01:46:10,104
+Jack, foi tudo um sonho?
+
+803
+01:46:10,177 --> 01:46:11,872
+Você esta a salvo agora.
+
+804
+01:46:15,750 --> 01:46:18,617
+Aconteceram coisas tão terríveis
+
+805
+01:46:22,857 --> 01:46:25,291
+Aprendi algo sobre mim...
+
+806
+01:46:26,394 --> 01:46:28,726
+e algo sobre você.
+
+807
+01:46:28,796 --> 01:46:30,957
+O que foi?
+
+808
+01:46:31,032 --> 01:46:32,966
+Você pertence a este lugar.
+
+809
+01:46:34,936 --> 01:46:36,563
+És o meu príncipe.
+
+810
+01:46:39,941 --> 01:46:41,306
+Sou somente o Jack.
+
+811
+01:46:41,375 --> 01:46:43,843
+O meu Senhor, Jack.
+
+812
+01:47:24,585 --> 01:47:26,610
+Fique com isso...
+
+813
+01:47:26,687 --> 01:47:29,451
+e guarde,
+como um tesouro.
+
+814
+01:47:30,992 --> 01:47:32,926
+É parte de mim.
+
+815
+01:47:37,098 --> 01:47:39,032
+Posso voltar amanhã?
+
+816
+01:47:40,434 --> 01:47:41,867
+Claro.
+
+817
+01:47:43,771 --> 01:47:46,467
+Estarei aqui.
+
+818
+01:47:46,540 --> 01:47:48,974
+Estarei sempre aqui
+para você, Lily.
+
+819
+01:47:55,783 --> 01:47:57,717
+Cantará para mim?
+
+820
+01:48:01,155 --> 01:48:03,589
+Desce pardal
+
+821
+01:48:03,658 --> 01:48:05,888
+Canta-me o amanhecer
+
+822
+01:48:05,960 --> 01:48:10,556
+Levanta-te sol, como um arco no céu
+
+823
+01:48:10,631 --> 01:48:12,565
+Rio corrente
+
+824
+01:48:12,633 --> 01:48:14,897
+Transforma a luz em diamantes
+
+825
+01:48:14,969 --> 01:48:18,769
+Quando eu olho
+nos olhos do meu verdadeiro amor.
+
+826
+01:48:19,000 --> 01:48:22,140
+Best watched using Open Subtitles MKV Player
