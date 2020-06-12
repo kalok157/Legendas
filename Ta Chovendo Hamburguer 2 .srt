@@ -1,0 +1,6205 @@
+1
+00:00:28,308 --> 00:00:38,308
+
+
+2
+00:00:41,309 --> 00:00:42,936
+MAIS UM FILME DE
+
+3
+00:00:43,211 --> 00:00:46,305
+UM MONTÃO DE GENTE
+
+4
+00:00:49,951 --> 00:00:51,213
+Meu nome é...
+
+5
+00:00:51,453 --> 00:00:53,250
+Flint Lockwood.
+A vida toda...
+
+6
+00:00:53,521 --> 00:00:56,046
+eu sempre quis ser
+um grande inventor.
+
+7
+00:00:56,524 --> 00:00:57,718
+Como o meu herói.
+
+8
+00:00:57,959 --> 00:01:01,759
+O Cientificamente Maravilhoso
+Mundo da Ciência.
+
+9
+00:01:03,231 --> 00:01:05,529
+Com o seu apresentador,
+Chester V.
+
+10
+00:01:05,767 --> 00:01:07,894
+Estamos de volta, amigos da ciência.
+
+11
+00:01:08,136 --> 00:01:11,071
+Sabem que dediquei minha vida
+a inventar o futuro.
+
+12
+00:01:11,339 --> 00:01:13,534
+Mas todo sonho tem um começo.
+
+13
+00:01:13,775 --> 00:01:16,335
+Ainda me lembro
+da minha primeira invenção:
+
+14
+00:01:16,578 --> 00:01:18,478
+a humilde Barra Nutritiva.
+
+15
+00:01:19,647 --> 00:01:22,582
+O Chester Vparecia falar comigo...
+
+16
+00:01:22,851 --> 00:01:24,443
+usando a linguagem da ciência.
+
+17
+00:01:24,719 --> 00:01:25,845
+Agora, vejam.
+
+18
+00:01:26,087 --> 00:01:29,386
+Nossa nova Barra XL,
+com cristais de sabor.
+
+19
+00:01:29,624 --> 00:01:32,787
+Fazendo a alegria do público
+há gerações.
+
+20
+00:01:33,061 --> 00:01:36,224
+Crianças, é claro que
+nunca serão como eu.
+
+21
+00:01:36,464 --> 00:01:39,865
+Mas, lembrem-se: não existe
+ciência pequena...
+
+22
+00:01:40,101 --> 00:01:41,659
+apenas pequenos cientistas!
+
+23
+00:01:41,936 --> 00:01:43,904
+A gente te ama, Chester V!
+
+24
+00:01:44,305 --> 00:01:47,741
+E por falar em pequenos cientistas,
+diga adeus, Barb.
+
+25
+00:01:47,976 --> 00:01:48,943
+Adeus, Barb.
+
+26
+00:01:49,744 --> 00:01:50,972
+As suas ideias...
+
+27
+00:01:51,246 --> 00:01:52,577
+podem mudar o mundo?
+
+28
+00:01:54,482 --> 00:01:55,107
+Assim como Chester V...
+
+29
+00:01:55,383 --> 00:01:57,010
+meu sonho era
+tornar o mundo...
+
+30
+00:01:57,285 --> 00:01:57,944
+um lugar melhor.
+
+31
+00:01:59,387 --> 00:02:01,252
+Sapato spray!
+
+32
+00:02:02,290 --> 00:02:02,915
+Como é que vai...
+
+33
+00:02:03,158 --> 00:02:04,250
+tirar, nerd?
+
+34
+00:02:04,492 --> 00:02:06,585
+Infelizmente, poucos...
+
+35
+00:02:06,828 --> 00:02:07,760
+acreditaram
+em mim.
+
+36
+00:02:08,163 --> 00:02:09,630
+Mas eu nunca desisti.
+
+37
+00:02:09,898 --> 00:02:10,523
+E, por fim...
+
+38
+00:02:10,798 --> 00:02:11,822
+eu inventei isto:
+
+39
+00:02:12,100 --> 00:02:13,931
+uma máquina que transformava água...
+
+40
+00:02:14,469 --> 00:02:15,197
+em comida.
+
+41
+00:02:15,603 --> 00:02:16,194
+Cheeseburger.
+
+42
+00:02:17,472 --> 00:02:19,599
+É o Flint Lockwood Diatônico
+Super Mutante...
+
+43
+00:02:19,841 --> 00:02:21,934
+Dinâmico Fazedor de Rango.
+
+44
+00:02:22,177 --> 00:02:23,769
+Ou, abreviando...
+
+45
+00:02:24,145 --> 00:02:25,612
+FLDSMDFR.
+
+46
+00:02:25,980 --> 00:02:27,709
+Com minha chuva de comida...
+
+47
+00:02:28,550 --> 00:02:29,175
+eu tinha feito do mundo...
+
+48
+00:02:29,450 --> 00:02:30,178
+um lugar melhor.
+
+49
+00:02:33,621 --> 00:02:34,553
+Adorei!
+
+50
+00:02:34,822 --> 00:02:36,187
+Foi o que eu pensei.
+
+51
+00:02:36,457 --> 00:02:38,118
+Quando a chuva se tornou
+uma catástrofe...
+
+52
+00:02:38,359 --> 00:02:38,950
+épica...
+
+53
+00:02:40,228 --> 00:02:40,990
+e a máquina passou a criar...
+
+54
+00:02:41,863 --> 00:02:43,023
+comida viva e perigosa...
+
+55
+00:02:43,565 --> 00:02:44,691
+aí, eu encarei a verdade:
+
+56
+00:02:45,500 --> 00:02:46,125
+estava na hora...
+
+57
+00:02:46,367 --> 00:02:47,026
+de destruir...
+
+58
+00:02:47,302 --> 00:02:48,564
+a minha FLDSMDFR.
+
+59
+00:02:56,177 --> 00:02:58,441
+Chee...
+
+60
+00:02:58,680 --> 00:03:01,740
+Cheesebur...
+
+61
+00:03:07,222 --> 00:03:09,486
+Destruindo minha maior invenção...
+
+62
+00:03:09,724 --> 00:03:11,885
+eu fiz algo ainda melhor:
+
+63
+00:03:12,527 --> 00:03:13,687
+amigos!
+
+64
+00:03:17,899 --> 00:03:19,594
+Estou orgulhoso de você, filho.
+
+65
+00:03:20,101 --> 00:03:21,966
+-Valeu, pai.
+-Desculpa.
+
+66
+00:03:26,107 --> 00:03:28,974
+Sam Sparks, nos oito minutos desde que
+salvamos o mundo...
+
+67
+00:03:29,210 --> 00:03:30,541
+andei refletindo.
+
+68
+00:03:30,778 --> 00:03:33,110
+E acho que devíamos ter
+um canto nosso.
+
+69
+00:03:33,381 --> 00:03:34,279
+Um canto?
+
+70
+00:03:34,549 --> 00:03:36,210
+Para a gente trabalhar.
+
+71
+00:03:36,484 --> 00:03:39,419
+Acha que poderíamos
+dar certo juntos?
+
+72
+00:03:39,687 --> 00:03:40,483
+Eu acho.
+
+73
+00:03:40,722 --> 00:03:43,282
+Demais! Sim!
+
+74
+00:03:44,092 --> 00:03:46,083
+-O nosso laboratório.
+-Com aparelhos legais...
+
+75
+00:03:46,361 --> 00:03:47,259
+de prever o tempo!
+
+76
+00:03:47,528 --> 00:03:50,053
+E inventamos máquinas fantásticas
+como a FLDSMDFR.
+
+77
+00:03:51,132 --> 00:03:52,394
+Mas aquela, não.
+
+78
+00:03:52,634 --> 00:03:55,535
+-Nunca mais.
+-Nunquinha mesmo!
+
+79
+00:03:55,770 --> 00:03:57,533
+E o nome do laboratório?
+
+80
+00:03:58,373 --> 00:04:01,308
+Que tal "Sparkswood"?
+
+81
+00:04:02,610 --> 00:04:04,373
+Sparkswood.
+
+82
+00:04:04,612 --> 00:04:06,512
+O Sparkswood vai precisar
+de segurança.
+
+83
+00:04:06,748 --> 00:04:08,579
+E posso ser seu mascote!
+
+84
+00:04:08,816 --> 00:04:10,010
+E eu, seu pai.
+
+85
+00:04:10,251 --> 00:04:12,310
+Posso ajudar de muitas maneiras.
+
+86
+00:04:13,054 --> 00:04:14,749
+Não esqueci de você, parceiro.
+
+87
+00:04:15,023 --> 00:04:15,751
+Steve!
+
+88
+00:04:16,024 --> 00:04:17,924
+Onde ele arranjou lápis marrom?
+
+89
+00:04:19,127 --> 00:04:19,889
+Esse...
+
+90
+00:04:20,128 --> 00:04:23,586
+pode ser o nosso futuro.
+
+91
+00:04:43,651 --> 00:04:44,913
+Saudações, amigos.
+
+92
+00:04:45,153 --> 00:04:46,177
+E namaste.
+
+93
+00:04:46,921 --> 00:04:47,785
+Esse é o...
+
+94
+00:04:48,056 --> 00:04:48,954
+Chester V?
+
+95
+00:04:49,190 --> 00:04:50,282
+Bigode.
+
+96
+00:04:50,558 --> 00:04:52,583
+Trouxe uma ajuda humanitária...
+
+97
+00:04:52,827 --> 00:04:55,159
+como
+gesto de nossas boas intenções.
+
+98
+00:04:55,663 --> 00:04:57,153
+Chester V!
+
+99
+00:04:57,432 --> 00:04:59,832
+Seu jaleco é mais legal ao vivo!
+
+100
+00:05:00,101 --> 00:05:04,094
+Obrigado. Sem mangas, libera
+meus braços pra fazer isso.
+
+101
+00:05:06,708 --> 00:05:08,005
+Mão, o que você fez?
+
+102
+00:05:08,276 --> 00:05:11,302
+Sua mão não fez nada de errado,
+jovem Lockwood.
+
+103
+00:05:11,579 --> 00:05:15,572
+Veja, sou apenas um mero holograma
+do verdadeiro Chester V.
+
+104
+00:05:15,983 --> 00:05:19,180
+As Nações Unidas solicitaram a mim
+e aos meus pensonautas...
+
+105
+00:05:19,454 --> 00:05:21,581
+ajuda na limpeza e remoção...
+
+106
+00:05:21,823 --> 00:05:24,121
+das sobras de comida do mundo inteiro.
+
+107
+00:05:24,359 --> 00:05:28,193
+Inclusive aqui em Boca da Maré.
+
+108
+00:05:28,696 --> 00:05:30,391
+Vamos começar a limpeza...
+
+109
+00:05:30,665 --> 00:05:31,723
+imediatamente...
+
+110
+00:05:31,999 --> 00:05:33,967
+assim que todos forem embora.
+
+111
+00:05:34,335 --> 00:05:35,962
+Quê? Precisamos ir embora?
+
+112
+00:05:36,204 --> 00:05:37,296
+Escuta, fantasminha...
+
+113
+00:05:37,538 --> 00:05:41,133
+quer que a gente se mande de casa
+só por umas sobras nojentas?
+
+114
+00:05:41,743 --> 00:05:42,971
+Quero.
+
+115
+00:05:43,211 --> 00:05:43,905
+POLÍCIA
+NÃO ULTRAPASSE
+
+116
+00:05:44,178 --> 00:05:46,840
+Filho, a fita amarela da polícia
+é sagrada.
+
+117
+00:05:47,115 --> 00:05:49,515
+Pra trás! Obedeçam ao fantasminha.
+
+118
+00:05:49,751 --> 00:05:51,116
+Mas não se aflijam.
+
+119
+00:05:51,352 --> 00:05:54,753
+Todos vocês serão
+temporariamente realocados...
+
+120
+00:05:55,022 --> 00:05:58,321
+na ensolarada São Franjosé...
+
+121
+00:05:58,693 --> 00:06:00,388
+na Califórnia!
+
+122
+00:06:00,895 --> 00:06:02,726
+Onde fica a Live Corp!
+
+123
+00:06:02,997 --> 00:06:04,692
+Palavra de holograma:
+
+124
+00:06:04,932 --> 00:06:08,424
+retornarão
+para casa num piscar de olhos.
+
+125
+00:06:08,903 --> 00:06:10,837
+Exceto você, Flint Lockwood.
+
+126
+00:06:11,072 --> 00:06:12,232
+Eu? Por quê?
+
+127
+00:06:12,907 --> 00:06:13,999
+Você vai...
+
+128
+00:06:14,375 --> 00:06:15,774
+Peraí. Não. Pra onde eu vou?
+
+129
+00:06:16,778 --> 00:06:17,870
+Me diz, por favor!
+
+130
+00:06:18,146 --> 00:06:20,444
+Só um segundo. Ele tá carregando.
+
+131
+00:06:21,749 --> 00:06:24,547
+Você vai se juntar a mim
+na Live Corp...
+
+132
+00:06:24,786 --> 00:06:27,550
+para nos ajudar a construir
+um mundo melhor.
+
+133
+00:06:27,789 --> 00:06:31,020
+Senhor, é o que
+eu sempre quis.
+
+134
+00:06:31,392 --> 00:06:32,381
+Mas não posso.
+
+135
+00:06:33,528 --> 00:06:36,156
+Acabei de fazer uma promessa,
+há dois minutos...
+
+136
+00:06:36,397 --> 00:06:38,888
+de fazer um laboratório
+com meus amigos.
+
+137
+00:06:39,300 --> 00:06:41,530
+Entendo, Lockwood.
+
+138
+00:06:41,769 --> 00:06:44,602
+Mas tornando-se um pensonauta
+como eu...
+
+139
+00:06:44,872 --> 00:06:47,170
+todos os seus sonhos
+se realizarão.
+
+140
+00:06:47,408 --> 00:06:48,875
+Você tem que ir!
+
+141
+00:06:49,277 --> 00:06:51,040
+E o nosso sonho?
+
+142
+00:06:51,279 --> 00:06:54,180
+Flint, essa é
+uma oportunidade única.
+
+143
+00:06:55,917 --> 00:06:56,781
+Nós te apoiamos.
+
+144
+00:06:57,752 --> 00:06:59,276
+Vocês têm certeza?
+
+145
+00:06:59,720 --> 00:07:00,880
+Claro.
+
+146
+00:07:05,326 --> 00:07:07,692
+Esse é o dia mais feliz
+da minha vida!
+
+147
+00:07:12,266 --> 00:07:15,565
+Senhor, já cuidei de tudo.
+A população foi evacuada.
+
+148
+00:07:15,803 --> 00:07:18,237
+Esplêndido. E o inventor?
+
+149
+00:07:18,473 --> 00:07:20,304
+-Aceitou o emprego.
+-Excelente.
+
+150
+00:07:20,575 --> 00:07:22,065
+Ficaremos de olho.
+
+151
+00:07:22,310 --> 00:07:25,643
+Ele não faz
+ideia do nosso plano real.
+
+152
+00:07:25,913 --> 00:07:29,906
+Me informe assim que concluir
+a Operação Capturar Invenção.
+
+153
+00:07:30,284 --> 00:07:31,751
+Live Corp.
+
+154
+00:07:40,363 --> 00:07:42,058
+Cheeseburger.
+
+155
+00:07:54,403 --> 00:07:57,270
+SÃO FRANJOSÉ, CALIFÓRNIA
+
+156
+00:07:58,774 --> 00:08:00,366
+Grande dia, grande dia!
+Grande dia...
+
+157
+00:08:00,609 --> 00:08:02,201
+grande dia!
+
+158
+00:08:02,778 --> 00:08:03,540
+Acorda, Steve!
+
+159
+00:08:03,779 --> 00:08:04,541
+Steve.
+
+160
+00:08:05,381 --> 00:08:08,544
+Eu pareço um futuro pensonauta?
+
+161
+00:08:08,884 --> 00:08:11,352
+Bom dia, marujo.
+Uma omelete de sardinha?
+
+162
+00:08:11,587 --> 00:08:12,576
+Não, obrigado! Não posso me atrasar!
+
+163
+00:08:13,155 --> 00:08:16,591
+Pergunta pro Chester V
+quando voltamos pra casa.
+
+164
+00:08:19,728 --> 00:08:20,660
+Bom dia, Sam!
+
+165
+00:08:20,929 --> 00:08:23,489
+Bom dia, Flint!
+Pronto pro seu primeiro dia?
+
+166
+00:08:23,766 --> 00:08:26,098
+Tô! E você?
+
+167
+00:08:27,269 --> 00:08:27,894
+Sam?
+
+168
+00:08:28,137 --> 00:08:29,069
+A NOVA GAROTA DO TEMPO
+
+169
+00:08:29,872 --> 00:08:32,739
+É o meu. Boa sorte com
+os novos empregos, gente.
+
+170
+00:08:32,975 --> 00:08:34,772
+-Boa sorte, Flint Lockwood!
+-Merda pra você!
+
+171
+00:08:35,010 --> 00:08:36,568
+Adiós.
+
+172
+00:08:47,089 --> 00:08:48,454
+SOMENTE PARA FUNCIONÁRIOS
+
+173
+00:08:50,392 --> 00:08:51,586
+LIGADOS NAS IDEIAS.
+
+174
+00:09:07,276 --> 00:09:09,710
+Bom dia, Flint Lockwood
+e assistente.
+
+175
+00:09:09,978 --> 00:09:11,002
+Eu sou a Barb.
+
+176
+00:09:11,814 --> 00:09:12,906
+Eu sei, sou seu fã!
+
+177
+00:09:13,148 --> 00:09:13,773
+Macaca.
+
+178
+00:09:14,016 --> 00:09:14,948
+Não...
+
+179
+00:09:15,184 --> 00:09:18,950
+uma primata. Uma das invenções
+mais geniais do Chester V.
+
+180
+00:09:19,188 --> 00:09:21,520
+Uma orangotango com um cérebro
+humano...
+
+181
+00:09:21,790 --> 00:09:24,190
+no meu de primata.
+
+182
+00:09:24,460 --> 00:09:25,620
+Como frango com pato.
+
+183
+00:09:25,861 --> 00:09:28,455
+Eu vou ser sua cicerone.
+Leite de soja?
+
+184
+00:09:30,833 --> 00:09:32,664
+Café com leite?
+
+185
+00:09:35,204 --> 00:09:36,569
+Está pronto pra...
+
+186
+00:09:36,839 --> 00:09:39,433
+-Live?
+-Estou!
+
+187
+00:09:40,809 --> 00:09:41,639
+Macaca.
+
+188
+00:09:41,877 --> 00:09:43,174
+Primata. Por aqui, rapazes.
+
+189
+00:09:47,216 --> 00:09:49,081
+Bem-vindos à Live Corp.
+
+190
+00:09:53,222 --> 00:09:54,746
+Tem quiosques de café...
+
+191
+00:09:55,023 --> 00:09:55,955
+a cada 3m.
+
+192
+00:09:56,191 --> 00:09:58,250
+-Café com leite de soja zero?
+-Valeu!
+
+193
+00:09:59,728 --> 00:10:02,822
+-Quente!
+-Você também arrasa, macaco.
+
+194
+00:10:03,065 --> 00:10:05,533
+Temos adesivos de cafeína 24h.
+
+195
+00:10:05,768 --> 00:10:09,204
+E aulas de moca-ioga,
+níveis iniciante ou avançado.
+
+196
+00:10:09,471 --> 00:10:11,871
+Também estimulamos
+esportes indoor.
+
+197
+00:10:12,274 --> 00:10:14,742
+Legal! Eu nunca joguei vôlei.
+
+198
+00:10:15,010 --> 00:10:17,672
+Eles também não.
+Vai se sentir em casa!
+
+199
+00:10:18,680 --> 00:10:20,409
+Suas ideias podem mudar o mundo?
+
+200
+00:10:20,682 --> 00:10:24,209
+Veja, o telão da motivação.
+
+201
+00:10:24,486 --> 00:10:25,783
+É o máximo, né?
+
+202
+00:10:26,054 --> 00:10:28,181
+-Café com leite de quinoa?
+-Claro!
+
+203
+00:10:29,057 --> 00:10:30,183
+Suas ideias...
+
+204
+00:10:30,426 --> 00:10:31,358
+podem mudar o mundo?
+
+205
+00:10:31,593 --> 00:10:33,686
+Sim, pôster do Chester V. Podem!
+
+206
+00:10:33,929 --> 00:10:35,021
+-As minhas também!
+-E as minhas!
+
+207
+00:10:35,264 --> 00:10:38,756
+-Eu tenho ótimas ideias!
+-É! Tô "montado" e ligado.
+
+208
+00:10:39,868 --> 00:10:42,428
+Pensonautas! Demais!
+
+209
+00:10:43,205 --> 00:10:44,069
+Peraí.
+
+210
+00:10:44,306 --> 00:10:46,240
+Tô animadaço pra trabalhar
+com vocês...
+
+211
+00:10:51,213 --> 00:10:53,044
+Nosso lugar é aqui, Steve.
+
+212
+00:10:53,282 --> 00:10:54,249
+Tenso!
+
+213
+00:10:54,917 --> 00:10:58,751
+Isso só será possível na próxima
+cerimônia do jaleco.
+
+214
+00:10:59,421 --> 00:11:01,252
+-O Chester V...
+-Que é isso?
+
+215
+00:11:01,523 --> 00:11:05,084
+escolhe um grande
+inventor e o promove a pensonauta.
+
+216
+00:11:05,327 --> 00:11:06,259
+Quando? Quando?
+
+217
+00:11:06,528 --> 00:11:09,224
+Daqui a 6 meses. Envie suas ideias...
+
+218
+00:11:09,465 --> 00:11:11,456
+e quem sabe? Ele pode escolher você.
+
+219
+00:11:11,733 --> 00:11:12,631
+Sério?
+
+220
+00:11:12,901 --> 00:11:15,165
+Chocolate quente com chantilly duplo?
+
+221
+00:11:15,437 --> 00:11:17,234
+-Valeu.
+-Boas invenções!
+
+222
+00:11:30,118 --> 00:11:31,983
+Vamos nos acostumar
+a essa aterrissagem.
+
+223
+00:11:38,560 --> 00:11:42,326
+Steve, temos 6 meses
+até a cerimônia do jaleco.
+
+224
+00:11:42,598 --> 00:11:43,860
+Vamos mandar na lata.
+
+225
+00:11:44,132 --> 00:11:45,099
+Lata.
+
+226
+00:11:45,334 --> 00:11:47,097
+Esse é o espírito, Steve!
+
+227
+00:11:51,073 --> 00:11:51,801
+Diga adeus...
+
+228
+00:11:52,074 --> 00:11:54,872
+às pedras de gelo
+com o Congelentilador!
+
+229
+00:11:55,844 --> 00:11:58,369
+Suas ideias podem mudar o mundo?
+
+230
+00:11:58,647 --> 00:11:59,579
+ENVlE
+
+231
+00:12:00,983 --> 00:12:03,577
+O Garfifacalimentador!
+
+232
+00:12:05,320 --> 00:12:06,116
+Suas ideias...
+
+233
+00:12:06,355 --> 00:12:07,686
+podem mudar o mundo?
+
+234
+00:12:07,956 --> 00:12:09,787
+O Entregador de Entregas!
+
+235
+00:12:11,660 --> 00:12:13,958
+Suas ideias podem mudar o mundo?
+
+236
+00:12:14,196 --> 00:12:15,959
+Mesinha de café invisível!
+
+237
+00:12:16,198 --> 00:12:17,165
+Flint.
+
+238
+00:12:21,637 --> 00:12:22,194
+Flint!
+
+239
+00:12:28,410 --> 00:12:30,037
+O Celebracionador!
+
+240
+00:12:30,312 --> 00:12:32,678
+Uma festa
+em caixinha pra qualquer ocasião.
+
+241
+00:12:33,348 --> 00:12:36,374
+Steve, é hora de festejar!
+
+242
+00:12:36,652 --> 00:12:37,619
+Festejar!
+
+243
+00:12:38,420 --> 00:12:39,546
+Flint!
+
+244
+00:12:40,022 --> 00:12:41,649
+Feliz aniversário, Tim Lockwood!
+
+245
+00:12:41,890 --> 00:12:44,984
+Pra você, pai. Tomara que goste.
+O Steve que escolheu.
+
+246
+00:12:45,327 --> 00:12:46,385
+Steve!
+
+247
+00:12:51,199 --> 00:12:52,359
+CERIMÔNIA DO JALECO
+
+248
+00:12:52,634 --> 00:12:54,363
+SEIS MESES DEPOIS
+
+249
+00:13:00,175 --> 00:13:03,201
+Steve, como a gente treinou.
+Quando eu receber meu jaleco...
+
+250
+00:13:03,445 --> 00:13:06,141
+aperte
+o botão quando eu disser "festejar".
+
+251
+00:13:06,381 --> 00:13:06,938
+Festejar!
+
+252
+00:13:07,549 --> 00:13:08,675
+Cuidado, Steve!
+
+253
+00:13:08,917 --> 00:13:11,579
+-Essa caixa tá carregada.
+-Olá, equipe Live Corp!
+
+254
+00:13:14,790 --> 00:13:15,757
+É um prazer recebê-los...
+
+255
+00:13:16,024 --> 00:13:20,017
+na cerimônia
+anual do jaleco do pensonauta!
+
+256
+00:13:20,562 --> 00:13:21,722
+Chester V!
+
+257
+00:13:22,598 --> 00:13:26,591
+Eu criei a empresa mais irada
+e descolada do mundo.
+
+258
+00:13:28,170 --> 00:13:31,731
+Como todos sabem, nossa barrinha
+é o carro-chefe da empresa.
+
+259
+00:13:31,974 --> 00:13:35,705
+E este ano, eu me propus
+a reinventar seu sabor.
+
+260
+00:13:36,178 --> 00:13:38,271
+E em duas semanas...
+
+261
+00:13:38,547 --> 00:13:40,879
+lançaremos
+a nova barra da Live Corp!
+
+262
+00:13:41,717 --> 00:13:44,811
+Versão 8.0!
+
+263
+00:13:45,387 --> 00:13:47,446
+Agora, sem mais...
+
+264
+00:13:47,723 --> 00:13:50,749
+delongas,
+quem será o novo pensonauta...
+
+265
+00:13:50,993 --> 00:13:54,258
+da Live Corp deste ano?
+
+266
+00:13:59,968 --> 00:14:03,131
+Recebemos milhares de inscrições
+de invenções...
+
+267
+00:14:03,405 --> 00:14:06,568
+e hoje uma delas vai valer...
+
+268
+00:14:06,808 --> 00:14:08,400
+o jaleco do pensonauta.
+
+269
+00:14:08,644 --> 00:14:09,611
+Obrigado, Barb.
+
+270
+00:14:11,013 --> 00:14:13,208
+Essa pessoa vem de uma ilha.
+
+271
+00:14:14,583 --> 00:14:17,450
+Tem um cabelo bagunçado
+e rebelde.
+
+272
+00:14:17,719 --> 00:14:18,651
+Cabelo. Cabelo!
+
+273
+00:14:19,321 --> 00:14:20,151
+Sou eu!
+
+274
+00:14:20,422 --> 00:14:23,084
+Nosso mais novo
+pensonauta Live Corp é:
+
+275
+00:14:23,325 --> 00:14:26,351
+Flint...
+
+276
+00:14:28,463 --> 00:14:30,090
+-...ly McCallahan!
+-Não.
+
+277
+00:14:30,332 --> 00:14:32,300
+Carácoles!
+
+278
+00:14:32,534 --> 00:14:33,330
+Por um...
+
+279
+00:14:33,602 --> 00:14:36,298
+carro não poluente
+movido a fofurice.
+
+280
+00:14:40,342 --> 00:14:42,742
+É o dia mais feliz da minha vida!
+
+281
+00:14:42,978 --> 00:14:46,379
+Didgeridoo! Sou um inventor
+de verdade, afinal!
+
+282
+00:14:48,016 --> 00:14:50,883
+Foi mal, Steve. Sem motivos
+pra festejar.
+
+283
+00:14:51,153 --> 00:14:53,485
+-Festejar!
+-Peraí, Steve, não. Não!
+
+284
+00:15:38,700 --> 00:15:40,361
+Oi, Sam, é o Flint.
+
+285
+00:15:40,736 --> 00:15:44,604
+Tô te vendo, ao vivo na TV,
+num tornado.
+
+286
+00:15:45,006 --> 00:15:46,564
+Por isso, não atendeu.
+
+287
+00:15:46,842 --> 00:15:49,572
+Pensonauta? Nada disso!
+
+288
+00:15:50,746 --> 00:15:52,509
+Me liga, por favor.
+
+289
+00:16:04,593 --> 00:16:07,027
+Más notícias! Perdemos contato...
+
+290
+00:16:07,262 --> 00:16:08,752
+com as equipes de busca X e Y.
+
+291
+00:16:09,030 --> 00:16:09,962
+O quê?
+
+292
+00:16:10,232 --> 00:16:11,096
+A coisa tá...
+
+293
+00:16:11,366 --> 00:16:14,062
+feia, chefe.
+E nem sinal da FLDSMDFR.
+
+294
+00:16:14,336 --> 00:16:15,633
+Devo acionar a equipe Z?
+
+295
+00:16:15,904 --> 00:16:19,032
+Tá doida, Barb?
+Vamos gastar todo o alfabeto.
+
+296
+00:16:19,274 --> 00:16:22,869
+Olha, temos poucos pensonautas.
+Precisamos...
+
+297
+00:16:23,111 --> 00:16:24,976
+de alguém descartável.
+
+298
+00:16:26,047 --> 00:16:29,039
+Alguém que conheça aquela ilha
+como a palma da mão.
+
+299
+00:16:29,284 --> 00:16:32,913
+Alguém inteligente,
+mas ainda ingênuo.
+
+300
+00:16:33,155 --> 00:16:35,453
+Alguém que me idolatre...
+
+301
+00:16:35,724 --> 00:16:37,715
+que ficou na pior recentemente...
+
+302
+00:16:37,959 --> 00:16:41,087
+e que fará tudo que eu pedir.
+
+303
+00:16:41,363 --> 00:16:44,890
+Onde vamos achar alguém
+tão desesperado?
+
+304
+00:16:48,370 --> 00:16:51,100
+Acho que já encontramos.
+
+305
+00:16:55,911 --> 00:16:57,173
+Granulado!
+
+306
+00:17:00,081 --> 00:17:00,740
+Fogo!
+
+307
+00:17:00,982 --> 00:17:03,314
+Flint, quem é o número um?
+
+308
+00:17:09,291 --> 00:17:11,282
+Oi, Flint, recebi seu recado.
+
+309
+00:17:11,526 --> 00:17:13,790
+Não. O que aconteceu contigo?
+
+310
+00:17:23,672 --> 00:17:27,039
+Ser humilhado em rede nacional...
+
+311
+00:17:27,309 --> 00:17:28,606
+não é nada de mais.
+
+312
+00:17:28,844 --> 00:17:31,210
+É, mas não na frente...
+
+313
+00:17:31,479 --> 00:17:34,004
+do seu herói de infância.
+
+314
+00:17:34,950 --> 00:17:36,281
+Nunca vou ser um inventor...
+
+315
+00:17:36,518 --> 00:17:37,951
+pro Chester.
+
+316
+00:17:38,920 --> 00:17:40,717
+Mamãe me deu esse jaleco...
+
+317
+00:17:40,989 --> 00:17:44,186
+sonhando
+que eu faria coisas importantes.
+
+318
+00:17:44,960 --> 00:17:46,052
+Mas não vou fazer.
+
+319
+00:17:46,328 --> 00:17:48,193
+Isso é um monte de minhoca.
+
+320
+00:17:48,463 --> 00:17:50,988
+Você não precisa da aprovação
+do Chester
+
+321
+00:17:51,233 --> 00:17:52,165
+Ainda pode fazer...
+
+322
+00:17:52,434 --> 00:17:55,301
+um mundo melhor
+sem um colete laranja.
+
+323
+00:17:55,537 --> 00:17:57,164
+Nunca entendi o colete.
+
+324
+00:17:57,439 --> 00:18:00,875
+É pro inverno no tórax
+e verão nos braços?
+
+325
+00:18:02,577 --> 00:18:05,478
+O que importa é que
+aqueles que gostam de você...
+
+326
+00:18:05,714 --> 00:18:08,512
+acham que fica ótimo com seu jaleco.
+
+327
+00:18:08,750 --> 00:18:09,944
+Boa noite, Sr. Lockwood.
+
+328
+00:18:10,185 --> 00:18:11,652
+Boa noite, querida.
+
+329
+00:18:13,989 --> 00:18:16,184
+Olha, filho.
+
+330
+00:18:16,458 --> 00:18:18,949
+Esse tal de Chester V...
+
+331
+00:18:19,194 --> 00:18:22,527
+disse que a gente voltaria pra casa
+num piscar de olhos. Bom...
+
+332
+00:18:24,366 --> 00:18:27,028
+já pisquei
+e a gente não voltou.
+
+333
+00:18:27,269 --> 00:18:31,171
+Que tal se você, eu e seus amigos...
+
+334
+00:18:31,406 --> 00:18:33,966
+sairmos de barco
+pra um dia de pescaria?
+
+335
+00:18:34,209 --> 00:18:37,736
+E se a ilha ainda estiver imunda,
+a gente assume a faxina.
+
+336
+00:18:38,013 --> 00:18:41,107
+Pai, por favor, não curto pescar.
+
+337
+00:18:41,383 --> 00:18:45,251
+E faxina? Você tá velho demais
+pra um serviço assim.
+
+338
+00:18:45,520 --> 00:18:47,545
+Só tenho 49 anos.
+
+339
+00:18:51,893 --> 00:18:53,019
+Flint Lockwood, por favor.
+
+340
+00:18:58,033 --> 00:18:59,500
+Ô, Flint.
+
+341
+00:19:00,201 --> 00:19:03,864
+Tem uma... Chega aqui
+na porta, por favor?
+
+342
+00:19:04,105 --> 00:19:05,936
+É a macaca do seu pôster.
+
+343
+00:19:06,207 --> 00:19:07,572
+Quê? Não!
+
+344
+00:19:08,944 --> 00:19:10,206
+Barb?
+
+345
+00:19:13,648 --> 00:19:14,808
+Bom dia.
+
+346
+00:19:15,083 --> 00:19:18,314
+Tenho algo muito importante
+a discutir...
+
+347
+00:19:18,586 --> 00:19:19,518
+com você.
+
+348
+00:19:19,754 --> 00:19:20,584
+Live Corp.
+
+349
+00:19:20,822 --> 00:19:23,450
+O Chester V quer me ver?
+
+350
+00:19:29,030 --> 00:19:30,122
+É por aqui.
+
+351
+00:19:40,442 --> 00:19:41,431
+Jovem Lockwood.
+
+352
+00:19:41,676 --> 00:19:43,576
+Chester V. Senhor...
+
+353
+00:19:44,145 --> 00:19:45,942
+eu posso explicar tudo.
+
+354
+00:19:46,181 --> 00:19:48,274
+Achei que ia ver o Chester V real.
+
+355
+00:19:48,550 --> 00:19:49,482
+E vai.
+
+356
+00:19:49,751 --> 00:19:51,446
+-Eu não!
+-Ele.
+
+357
+00:19:51,686 --> 00:19:52,914
+Sim, sou eu.
+
+358
+00:19:53,154 --> 00:19:54,678
+Desculpe tudo isso.
+
+359
+00:19:55,323 --> 00:19:59,316
+Meus hologramas e eu discutíamos
+uma questão urgente.
+
+360
+00:20:01,062 --> 00:20:02,359
+Sr. V! De verdade!
+
+361
+00:20:02,630 --> 00:20:05,599
+É demais estar aqui e ter a chance
+de mostrar minhas invenções.
+
+362
+00:20:05,834 --> 00:20:09,167
+Um momento. Não foi pra isso que
+eu o trouxe aqui.
+
+363
+00:20:10,438 --> 00:20:12,668
+Nossa limpeza na Boca da Maré...
+
+364
+00:20:12,941 --> 00:20:15,842
+teve complicações inesperadas.
+
+365
+00:20:16,111 --> 00:20:17,100
+Esta é uma foto...
+
+366
+00:20:17,345 --> 00:20:19,108
+de antes
+de começarmos a limpeza.
+
+367
+00:20:20,015 --> 00:20:22,950
+E isto foi há três dias.
+
+368
+00:20:25,153 --> 00:20:26,484
+Ainda fica pior, Flint.
+
+369
+00:20:26,821 --> 00:20:28,880
+Só restamos nós dois.
+Precisamos de ajuda.
+
+370
+00:20:33,194 --> 00:20:35,287
+O que é essa coisa?
+
+371
+00:20:35,530 --> 00:20:36,827
+Queijo.
+
+372
+00:20:37,132 --> 00:20:39,692
+Parece ser um cheeseburger vivo...
+
+373
+00:20:39,968 --> 00:20:43,165
+com pernas de batata frita
+e olhos de gergelim.
+
+374
+00:20:43,471 --> 00:20:44,802
+Comida viva?
+
+375
+00:20:45,040 --> 00:20:47,702
+Essa não.
+Só tem uma explicação:
+
+376
+00:20:47,976 --> 00:20:50,706
+a FLDSMDFR resistiu à explosão.
+
+377
+00:20:51,012 --> 00:20:53,105
+E continua funcionando.
+
+378
+00:20:53,348 --> 00:20:55,908
+Isso é o que mais me preocupa.
+
+379
+00:21:01,556 --> 00:21:03,922
+Estão tentando aprender a nadar.
+
+380
+00:21:05,827 --> 00:21:07,158
+E se conseguirem...
+
+381
+00:21:07,395 --> 00:21:08,760
+chegar ao continente...
+
+382
+00:21:09,164 --> 00:21:09,823
+SIMULAÇÃO
+
+383
+00:21:10,065 --> 00:21:11,999
+...vão destruir monumentos
+pelo mundo inteiro...
+
+384
+00:21:12,233 --> 00:21:13,325
+incluindo aquela estátua...
+
+385
+00:21:13,568 --> 00:21:15,866
+que a sua chuva de comida não destruiu.
+
+386
+00:21:16,137 --> 00:21:19,573
+Não a da Liberdade! Tenho que
+destruir a FLDSMDFR. Mas como?
+
+387
+00:21:19,841 --> 00:21:22,833
+Meus pensonautas
+já inventaram...
+
+388
+00:21:23,078 --> 00:21:23,669
+isto.
+
+389
+00:21:24,345 --> 00:21:26,870
+O USB-K-O.
+
+390
+00:21:27,148 --> 00:21:28,046
+Ou Uessebekao.
+
+391
+00:21:28,283 --> 00:21:31,150
+Um Ultradesligador Sistemático
+Biônico Kamikaze Orbital!
+
+392
+00:21:31,386 --> 00:21:33,877
+Exatamente! Vai destruir a máquina...
+
+393
+00:21:34,155 --> 00:21:35,850
+e tudo o que ela criou.
+
+394
+00:21:36,458 --> 00:21:39,188
+Mas não encontramos
+sua FLDSMDFR.
+
+395
+00:21:39,427 --> 00:21:40,917
+Vasculhamos por toda parte.
+
+396
+00:21:41,196 --> 00:21:42,094
+Sem sucesso.
+
+397
+00:21:42,363 --> 00:21:46,231
+Chester, vou achar a máquina.
+Eu a inventei. Eu resolvo isso!
+
+398
+00:21:46,468 --> 00:21:47,765
+Maravilha!
+
+399
+00:21:48,036 --> 00:21:50,732
+Mas quer mesmo enfrentar
+isso sozinho?
+
+400
+00:21:50,972 --> 00:21:52,564
+Sim! Falou "sozinho"?
+
+401
+00:21:52,807 --> 00:21:54,172
+Então, vá sozinho.
+
+402
+00:21:54,409 --> 00:21:58,402
+Se conseguir, você será mais
+que um pensonauta.
+
+403
+00:21:58,780 --> 00:22:00,077
+Será o meu herói.
+
+404
+00:22:00,315 --> 00:22:01,441
+Seu herói?
+
+405
+00:22:01,716 --> 00:22:03,741
+É, o meu herói.
+
+406
+00:22:03,985 --> 00:22:05,953
+Sua missão será sigilosa.
+
+407
+00:22:06,221 --> 00:22:08,451
+Não queremos causar pânico geral.
+
+408
+00:22:08,723 --> 00:22:12,215
+Não conte a ninguém. Nem pros amigos
+nem pra família.
+
+409
+00:22:13,261 --> 00:22:15,991
+Minha boca é um túmulo, senhor.
+
+410
+00:22:16,264 --> 00:22:19,256
+Sam! Preciso te contar um segredo!
+
+411
+00:22:19,501 --> 00:22:22,402
+Novidades! Vou pra Boca da Maré
+destruir a FLDSMDFR...
+
+412
+00:22:22,637 --> 00:22:24,400
+que tá criando monstros de comida...
+
+413
+00:22:24,639 --> 00:22:27,938
+que estão aprendendo a nadar
+pra atacar a Estátua da Liberdade!
+
+414
+00:22:29,978 --> 00:22:30,945
+Sam?
+
+415
+00:22:31,212 --> 00:22:32,702
+Peraí. Vai fazer isso sozinho?
+
+416
+00:22:32,947 --> 00:22:36,713
+Vou. Não conta pro meu pai.
+Se souber que vou pra casa...
+
+417
+00:22:36,951 --> 00:22:38,919
+vai querer ir junto.
+
+418
+00:22:39,154 --> 00:22:40,644
+Bom, eu vou com você.
+
+419
+00:22:40,922 --> 00:22:44,153
+Quê? Não! Prometi pro Chester V
+que iria sozinho.
+
+420
+00:22:46,995 --> 00:22:48,485
+Não vou te convencer, né?
+
+421
+00:22:48,763 --> 00:22:49,661
+Não!
+
+422
+00:22:49,931 --> 00:22:52,923
+Será uma missão perigosa.
+Alguém pode morrer.
+
+423
+00:22:53,168 --> 00:22:54,760
+Por isso, precisaremos de ajuda.
+
+424
+00:22:55,537 --> 00:22:58,005
+Moca descafeinado triplo...
+
+425
+00:22:58,273 --> 00:23:00,173
+com leite
+de soja e pitada de noz-moscada?
+
+426
+00:23:00,441 --> 00:23:02,306
+Eu queria algo mais forte!
+
+427
+00:23:02,544 --> 00:23:04,341
+Espera a tua vez, chefia.
+
+428
+00:23:04,612 --> 00:23:05,306
+Flint Lockwood...
+
+429
+00:23:05,547 --> 00:23:06,809
+e Sam Sparks!
+
+430
+00:23:07,448 --> 00:23:08,972
+E o Steve também!
+
+431
+00:23:09,617 --> 00:23:11,380
+-Gostoso!
+-Earl, precisamos da sua ajuda.
+
+432
+00:23:11,653 --> 00:23:14,486
+Boca da Maré foi tomada por
+monstros letais de comida.
+
+433
+00:23:15,557 --> 00:23:18,651
+-Cadê meu café?
+-Café? Não sou barista...
+
+434
+00:23:18,893 --> 00:23:19,860
+Sou polí... sta!
+
+435
+00:23:21,763 --> 00:23:22,752
+Vamos nessa!
+
+436
+00:23:23,264 --> 00:23:24,322
+Posso ir também, pai?
+
+437
+00:23:24,799 --> 00:23:28,360
+Filho, você é meu anjinho
+lindo e precioso.
+
+438
+00:23:28,636 --> 00:23:30,695
+Mas não posso deixar
+você ir comigo.
+
+439
+00:23:30,972 --> 00:23:33,167
+Só depois que tiver
+pelo no peito.
+
+440
+00:23:33,408 --> 00:23:34,136
+Eu tenho pelo no peito.
+
+441
+00:23:35,977 --> 00:23:37,035
+lgualzinho ao meu.
+
+442
+00:23:37,312 --> 00:23:38,210
+Espera aí.
+
+443
+00:23:39,480 --> 00:23:41,038
+Isso não é pelo no peito.
+
+444
+00:23:41,716 --> 00:23:42,978
+É cobertura de cupcake.
+
+445
+00:23:43,218 --> 00:23:45,015
+Diz pra sua mãe que vou salvar
+nossa ilha.
+
+446
+00:23:46,854 --> 00:23:47,479
+CHOCO CREME
+
+447
+00:23:49,090 --> 00:23:50,216
+Qual é?
+
+448
+00:23:50,658 --> 00:23:51,818
+Esponja.
+
+449
+00:23:52,060 --> 00:23:52,992
+Pinça.
+
+450
+00:23:53,228 --> 00:23:54,320
+Algodão.
+
+451
+00:23:54,562 --> 00:23:56,553
+Manny. Precisamos de você.
+
+452
+00:23:56,831 --> 00:23:57,889
+Eu largo tudo.
+
+453
+00:23:58,166 --> 00:23:59,064
+Câmera.
+
+454
+00:24:01,202 --> 00:24:03,830
+Sushi do Frangão
+Fresco de montão!
+
+455
+00:24:06,241 --> 00:24:07,173
+Frango Brent!
+
+456
+00:24:07,408 --> 00:24:08,375
+Eu mesmo.
+
+457
+00:24:10,078 --> 00:24:12,546
+Boca da Maré tá ferrada.
+Ajuda a gente?
+
+458
+00:24:12,814 --> 00:24:16,511
+Pode apostar! Só preciso
+arrumar um substituto.
+
+459
+00:24:16,751 --> 00:24:18,343
+Valeu, árvore.
+
+460
+00:24:27,128 --> 00:24:28,095
+Bom, pessoal.
+
+461
+00:24:28,363 --> 00:24:31,958
+Vamos viajar pra ilha com
+meu Entregador de Entregas!
+
+462
+00:24:40,608 --> 00:24:42,132
+Quem quer ir primeiro?
+
+463
+00:24:44,245 --> 00:24:45,041
+Fome.
+
+464
+00:24:45,280 --> 00:24:47,111
+É, Steve, fome de aventura.
+
+465
+00:24:47,949 --> 00:24:49,974
+Te vejo na ilha, bravo parceiro.
+
+466
+00:24:50,251 --> 00:24:50,842
+Medo!
+
+467
+00:24:51,586 --> 00:24:53,213
+Funcionou!
+
+468
+00:24:53,588 --> 00:24:55,453
+Banana! Banana! Banana!
+Steve! Steve!
+
+469
+00:24:56,357 --> 00:24:58,723
+Só funciona com comida.
+Melhor ver isso.
+
+470
+00:25:04,399 --> 00:25:05,991
+Bom dia, marujo.
+
+471
+00:25:06,267 --> 00:25:07,791
+-Pai!
+-Sr. Lockwood?
+
+472
+00:25:08,069 --> 00:25:10,162
+Não! Como achou a gente aqui?
+
+473
+00:25:10,438 --> 00:25:11,803
+Vi vocês da minha janela.
+
+474
+00:25:16,644 --> 00:25:19,442
+Flint, se vai pra casa,
+eu também vou.
+
+475
+00:25:19,681 --> 00:25:21,410
+Pai, a ilha tá perigosa e...
+
+476
+00:25:21,649 --> 00:25:25,642
+Eu nasci naquela ilha e quero morrer
+naquela ilha, como a sua mãe.
+
+477
+00:25:26,020 --> 00:25:29,751
+E conheço aquilo lá como a minha
+caixa de iscas. Quero ajudar.
+
+478
+00:25:29,991 --> 00:25:31,652
+-Não!
+-Deixa ele ajudar.
+
+479
+00:25:31,926 --> 00:25:33,086
+Ele tem um barco.
+
+480
+00:25:33,328 --> 00:25:35,523
+Mais que o dobro de nada.
+
+481
+00:25:36,664 --> 00:25:38,188
+Tá. Mas é mais rápido...
+
+482
+00:25:38,466 --> 00:25:39,763
+com
+o Entregador de Entregas.
+
+483
+00:25:40,001 --> 00:25:40,968
+Steve!
+
+484
+00:25:41,602 --> 00:25:43,092
+Tá, vamos de barco!
+
+485
+00:25:46,107 --> 00:25:47,039
+Zarpando!
+
+486
+00:25:47,308 --> 00:25:48,969
+99 baldes de isca num barco
+
+487
+00:25:49,210 --> 00:25:50,108
+99 baldes
+
+488
+00:25:50,345 --> 00:25:51,209
+De isca
+
+489
+00:25:57,051 --> 00:25:57,652
+19 baldes de isca num barco
+
+490
+00:25:57,652 --> 00:25:59,119
+19 baldes de isca num barco
+
+491
+00:25:59,354 --> 00:26:01,219
+19 baldes de isca
+
+492
+00:26:01,489 --> 00:26:03,013
+Sente o futum
+
+493
+00:26:03,291 --> 00:26:05,725
+E foi mais um
+18 baldes de isca num barco
+
+494
+00:26:05,993 --> 00:26:08,359
+Chegamos em duas braçadas de
+sardinhas!
+
+495
+00:26:09,063 --> 00:26:10,223
+Valeu, pai!
+
+496
+00:26:10,498 --> 00:26:12,796
+Em Boca da Maré...
+
+497
+00:26:13,034 --> 00:26:15,229
+o primeiro objetivo
+é ir ao meu laboratório.
+
+498
+00:26:15,503 --> 00:26:18,472
+Posso usar meu velho computador
+pra localizar a FLDSMDFR.
+
+499
+00:26:19,340 --> 00:26:21,171
+E aí a desligamos...
+
+500
+00:26:21,442 --> 00:26:24,070
+com esse
+insubstituível USB-K-O.
+
+501
+00:26:26,814 --> 00:26:27,576
+MUNDO SALVO
+
+502
+00:26:28,216 --> 00:26:29,649
+E se a gente não achar?
+
+503
+00:26:29,884 --> 00:26:32,819
+Eu tenho que achar.
+A máquina é minha.
+
+504
+00:26:33,054 --> 00:26:35,716
+Se isso destruir o mundo,
+a culpa é minha.
+
+505
+00:26:36,557 --> 00:26:37,717
+Isso não vai acontecer.
+
+506
+00:26:37,992 --> 00:26:38,959
+Terra à vista!
+
+507
+00:26:39,193 --> 00:26:40,888
+Terra à vista!
+
+508
+00:26:41,596 --> 00:26:43,564
+Todos juntos,
+vai ser mamão com...
+
+509
+00:26:43,831 --> 00:26:44,388
+Torta.
+
+510
+00:26:50,571 --> 00:26:51,595
+Vamos virar...
+
+511
+00:26:51,873 --> 00:26:52,532
+Torrada!
+
+512
+00:26:52,774 --> 00:26:54,173
+Rabanada!
+
+513
+00:26:54,409 --> 00:26:55,774
+Vamos ter que descascar...
+
+514
+00:26:56,043 --> 00:26:56,702
+Banana!
+
+515
+00:26:56,978 --> 00:26:59,378
+Eu ia dizer "abacaxi",
+mas agora nem arrisco.
+
+516
+00:27:14,862 --> 00:27:16,921
+BEBÊ BRENT
+
+517
+00:27:39,720 --> 00:27:41,415
+-Casa!
+-Steve, espera!
+
+518
+00:27:41,656 --> 00:27:43,453
+Selva não é lugar
+pra macaco.
+
+519
+00:27:43,724 --> 00:27:46,887
+Casa, casa, casa,
+casa, casa, casa!
+
+520
+00:27:47,261 --> 00:27:48,660
+Manny, tá filmando isso?
+
+521
+00:27:48,930 --> 00:27:50,659
+-Com certeza.
+-Flint...
+
+522
+00:27:50,932 --> 00:27:52,957
+Olha!
+Uma mudança radical...
+
+523
+00:27:53,234 --> 00:27:55,668
+no clima
+fomentou toda essa vegetação!
+
+524
+00:28:03,344 --> 00:28:04,743
+Sam! Ratássaros!
+
+525
+00:28:06,614 --> 00:28:09,606
+Muito bem. Quem ficar, ficou!
+
+526
+00:28:10,084 --> 00:28:12,484
+Pai, tá muito perigoso.
+
+527
+00:28:12,753 --> 00:28:16,280
+Preferia que ficasse aqui
+no barco, em segurança.
+
+528
+00:28:16,557 --> 00:28:19,253
+Segurança? Eu quero ajudar.
+
+529
+00:28:19,660 --> 00:28:22,925
+Eu nunca me perdoaria se virasse
+lanche de queijaranha.
+
+530
+00:28:23,164 --> 00:28:24,825
+Ele tá certo, Tim Lockwood.
+
+531
+00:28:25,099 --> 00:28:27,499
+Relaxa.
+Vamos recuperar a sua ilha.
+
+532
+00:28:29,303 --> 00:28:30,292
+Tá bem.
+
+533
+00:28:30,571 --> 00:28:34,564
+Valeu, pai. Vamos tentar voltar
+pro jantar, falou?
+
+534
+00:28:35,343 --> 00:28:36,640
+Tá.
+
+535
+00:28:55,229 --> 00:28:56,787
+Olha como ficou nossa cidade.
+
+536
+00:28:57,031 --> 00:28:57,622
+PERlGO
+
+537
+00:29:01,135 --> 00:29:02,102
+Olha.
+
+538
+00:29:02,336 --> 00:29:03,132
+É a pré-escola...
+
+539
+00:29:03,371 --> 00:29:04,838
+do meu anjinho, Cal.
+
+540
+00:29:06,974 --> 00:29:08,373
+Minha antiga van.
+
+541
+00:29:14,148 --> 00:29:16,810
+Olha! Uma coisa velha que
+eu nunca tinha visto antes!
+
+542
+00:29:19,186 --> 00:29:19,845
+Foi onde...
+
+543
+00:29:20,121 --> 00:29:22,612
+os pensonautas foram
+atacados por uma queijaranha.
+
+544
+00:29:24,025 --> 00:29:27,620
+Parece uma teia de aranha
+grudenta feita...
+
+545
+00:29:27,862 --> 00:29:30,353
+queijo.
+Vamos sair daqui!
+
+546
+00:29:30,631 --> 00:29:33,225
+Peraí. E se tiver algum
+sobrevivente lá dentro?
+
+547
+00:29:33,501 --> 00:29:34,832
+Afasta, gente.
+
+548
+00:29:35,903 --> 00:29:38,269
+Vou cortar esse queijo.
+
+549
+00:29:42,577 --> 00:29:43,771
+Foi o queijo.
+
+550
+00:29:45,379 --> 00:29:48,246
+Oi? Tem alguém aí?
+
+551
+00:29:56,190 --> 00:29:58,283
+Foi mal.
+
+552
+00:30:16,444 --> 00:30:19,675
+É o maior morango
+que já vi na vida.
+
+553
+00:30:19,914 --> 00:30:22,610
+-É pesado?
+-Tirando isso...
+
+554
+00:30:22,883 --> 00:30:26,876
+parece um morango
+normal, fresco e delicioso.
+
+555
+00:30:34,295 --> 00:30:35,728
+N-woo?
+
+556
+00:30:38,466 --> 00:30:39,398
+N-woo?
+
+557
+00:30:39,634 --> 00:30:41,568
+Ele vem aí!
+
+558
+00:30:43,070 --> 00:30:44,230
+Por pouco.
+
+559
+00:30:44,472 --> 00:30:46,702
+Tem alguém preso em você.
+
+560
+00:30:47,441 --> 00:30:49,705
+Tira ele! Tira! Sam! Sam!
+
+561
+00:30:49,944 --> 00:30:51,639
+Peraí. Peraí. Para!
+
+562
+00:30:51,912 --> 00:30:55,075
+Sam, Não encosta!
+Bota no chão! No chão!
+
+563
+00:30:55,316 --> 00:30:56,783
+Olha pra ele.
+
+564
+00:31:05,226 --> 00:31:06,318
+Fala sério!
+
+565
+00:31:07,762 --> 00:31:09,286
+Vou chamar de..."Barry"!
+
+566
+00:31:09,530 --> 00:31:12,294
+Tá, mas dá pra botar o "Barry"
+no chão?
+
+567
+00:31:12,533 --> 00:31:15,366
+Temos que achar e desligar
+a FLDSMDFR...
+
+568
+00:31:15,636 --> 00:31:18,537
+com esse USB-K-O insubstituível.
+
+569
+00:31:18,806 --> 00:31:20,671
+Larga!
+
+570
+00:31:20,941 --> 00:31:23,000
+Eu preciso disso, tá?
+
+571
+00:31:23,277 --> 00:31:24,744
+Esse USB-K-O é superimportante.
+
+572
+00:31:24,979 --> 00:31:25,946
+N-woo?
+
+573
+00:31:26,180 --> 00:31:27,875
+-N-woo. É.
+-N-woo?
+
+574
+00:31:28,149 --> 00:31:31,016
+Oi, N-woo. Dá pra mim,
+amiguinho?
+
+575
+00:31:31,318 --> 00:31:32,376
+Eu te imploro.
+
+576
+00:31:32,653 --> 00:31:34,018
+Por favor?
+
+577
+00:31:34,789 --> 00:31:35,881
+Por favor?
+
+578
+00:31:36,157 --> 00:31:36,816
+N-woo.
+
+579
+00:31:37,058 --> 00:31:39,117
+N-woo, N-woo. Isso. Agora, dá.
+
+580
+00:31:40,261 --> 00:31:41,489
+Não!
+
+581
+00:31:45,633 --> 00:31:47,498
+Não deixa ele escapar!
+
+582
+00:31:52,473 --> 00:31:53,667
+Para!
+
+583
+00:31:53,908 --> 00:31:55,273
+Para!
+
+584
+00:31:55,509 --> 00:31:56,677
+Te peguei.
+
+585
+00:31:57,044 --> 00:31:59,842
+-N-woo?
+-Pega ele, pega ele.
+
+586
+00:32:00,081 --> 00:32:03,642
+Você carrega até ele
+"fazer" o USB-K-O.
+
+587
+00:32:03,884 --> 00:32:06,182
+E "fazer" quer dizer...
+
+588
+00:32:06,420 --> 00:32:08,149
+É. Vamos vazar...
+
+589
+00:32:08,389 --> 00:32:10,721
+antes de topar
+com mais dessas criaturas.
+
+590
+00:32:43,424 --> 00:32:45,619
+Que coisa linda!
+
+591
+00:32:45,893 --> 00:32:48,225
+É de fazer homem feito chorar.
+
+592
+00:32:48,462 --> 00:32:49,759
+Mas não esse aqui.
+
+593
+00:32:50,030 --> 00:32:51,827
+Volta pra dentro, lágrima.
+
+594
+00:32:53,067 --> 00:32:55,558
+Não acredito que a FLDSMDFR
+criou...
+
+595
+00:32:56,237 --> 00:32:57,761
+tudo isso.
+
+596
+00:32:59,774 --> 00:33:01,139
+Cadê o Barry?
+
+597
+00:33:07,648 --> 00:33:09,616
+Mais perto. Eu pego.
+
+598
+00:33:09,884 --> 00:33:11,078
+Earl, mais rápido.
+
+599
+00:33:11,719 --> 00:33:14,244
+-Olha as mangas.
+-Quer dizer, flamingos.
+
+600
+00:33:14,488 --> 00:33:15,455
+Flamangas!
+
+601
+00:33:15,723 --> 00:33:17,122
+Um bando de camarões!
+
+602
+00:33:17,391 --> 00:33:18,881
+Parecem chimpanzés.
+
+603
+00:33:19,126 --> 00:33:20,650
+Camaranzés!
+
+604
+00:33:20,928 --> 00:33:22,793
+Lancháguas-vivas apetitosas!
+
+605
+00:33:23,264 --> 00:33:24,663
+O que é aquilo lá?
+
+606
+00:33:24,932 --> 00:33:26,160
+É só um tomate.
+
+607
+00:33:27,268 --> 00:33:28,257
+Barry!
+
+608
+00:33:28,502 --> 00:33:29,764
+Qual é!
+
+609
+00:33:30,004 --> 00:33:31,437
+O Chester me deu esse USB-K-O.
+
+610
+00:33:31,672 --> 00:33:33,105
+É importante.
+
+611
+00:33:34,008 --> 00:33:35,441
+-Camaranzé.
+-Steve.
+
+612
+00:33:35,676 --> 00:33:36,643
+-Camaranzé.
+-Steve.
+
+613
+00:33:36,911 --> 00:33:38,640
+-Camaranzé.
+-Sai.
+
+614
+00:33:39,079 --> 00:33:40,011
+Steve.
+
+615
+00:33:40,281 --> 00:33:41,509
+Poró pirata no barco!
+
+616
+00:33:43,517 --> 00:33:44,745
+Segura, gente!
+
+617
+00:33:44,985 --> 00:33:46,509
+Coco é doce, mas é duro.
+
+618
+00:33:47,988 --> 00:33:49,387
+Para! Volta aqui!
+
+619
+00:33:50,090 --> 00:33:51,318
+Não balança, Earl.
+
+620
+00:33:52,426 --> 00:33:53,950
+Melanfantes!
+
+621
+00:34:04,305 --> 00:34:06,205
+Barry, pega minha mão!
+
+622
+00:34:09,476 --> 00:34:10,704
+Barry!
+
+623
+00:34:15,449 --> 00:34:16,507
+Parado, morangão.
+
+624
+00:34:16,784 --> 00:34:17,773
+Valeu, Earl.
+
+625
+00:34:18,419 --> 00:34:19,181
+Vem cá.
+
+626
+00:34:19,453 --> 00:34:22,422
+Já aprontou demais
+pra um dia.
+
+627
+00:34:22,690 --> 00:34:23,714
+Sushivelhas!
+
+628
+00:34:23,991 --> 00:34:24,855
+Melantílopes.
+
+629
+00:34:25,125 --> 00:34:26,615
+Não acredito que sua máquina...
+
+630
+00:34:26,861 --> 00:34:27,828
+se reprogramou pra criar...
+
+631
+00:34:28,062 --> 00:34:31,429
+esse ecossistema inteiro
+de comida viva.
+
+632
+00:34:31,665 --> 00:34:33,997
+Como isso foi possível?
+
+633
+00:34:34,235 --> 00:34:35,725
+Não faço ideia.
+
+634
+00:34:36,003 --> 00:34:37,527
+Melhor não pensar muito.
+
+635
+00:34:37,805 --> 00:34:39,466
+O mundo precisa saber disso.
+
+636
+00:34:39,707 --> 00:34:42,540
+Manny, sua câmera ainda
+tá funcionando?
+
+637
+00:34:43,577 --> 00:34:44,976
+É claro. Estou gravando tudo...
+
+638
+00:34:45,212 --> 00:34:47,043
+-desde que pousamos.
+-Seu...
+
+639
+00:34:47,314 --> 00:34:48,246
+segredo já era.
+
+640
+00:34:48,515 --> 00:34:51,848
+Não podemos deixar os amigos dele
+contarem nada.
+
+641
+00:34:52,086 --> 00:34:54,179
+Temos que ir lá...
+
+642
+00:34:54,455 --> 00:34:57,686
+e separar
+o Flint dos amigos e controlar...
+
+643
+00:34:57,958 --> 00:34:58,822
+a situação.
+
+644
+00:34:59,059 --> 00:35:00,253
+-Campeão!
+-Genial.
+
+645
+00:35:00,527 --> 00:35:02,188
+-Muito bem, Chester.
+-Obrigado.
+
+646
+00:35:02,463 --> 00:35:05,398
+-Barb, cuide da garota do tempo.
+-Mas, chefe...
+
+647
+00:35:05,666 --> 00:35:06,894
+sou cientista.
+
+648
+00:35:08,035 --> 00:35:09,832
+Por isso, preciso de você.
+
+649
+00:35:10,070 --> 00:35:14,029
+A mesma mente brilhante que resolveu
+a teoria do campo unificado precisa...
+
+650
+00:35:14,275 --> 00:35:16,675
+me ajudar a ajudar a Live Corp.
+
+651
+00:35:17,244 --> 00:35:18,472
+Conta comigo, chefe.
+
+652
+00:35:18,712 --> 00:35:19,701
+Boa macaca.
+
+653
+00:35:19,980 --> 00:35:21,345
+Pro ajudocóptero.
+
+654
+00:35:25,185 --> 00:35:25,776
+Earl.
+
+655
+00:35:26,053 --> 00:35:26,781
+Encosta ali.
+
+656
+00:35:27,054 --> 00:35:29,045
+-Vaza!
+-Asa? Eu tenho...
+
+657
+00:35:41,568 --> 00:35:43,001
+Não foi tão difícil.
+
+658
+00:35:43,237 --> 00:35:45,296
+Que bom que não apareceu
+nenhuma...
+
+659
+00:35:45,639 --> 00:35:46,697
+Queijaranha!
+
+660
+00:35:47,641 --> 00:35:48,608
+Corre!
+
+661
+00:35:53,647 --> 00:35:56,013
+Queijo. Queijo. Queijo.
+
+662
+00:35:56,817 --> 00:35:58,148
+Manny!
+
+663
+00:36:00,087 --> 00:36:01,418
+Espera por mim!
+
+664
+00:36:19,440 --> 00:36:21,237
+Que bom que ainda tá de fralda.
+
+665
+00:36:21,475 --> 00:36:23,534
+Queria ter trazido outra limpa!
+
+666
+00:36:26,447 --> 00:36:28,142
+Gente! Por esse beco!
+
+667
+00:36:28,983 --> 00:36:30,280
+Não! É sem saída.
+
+668
+00:36:30,551 --> 00:36:32,576
+Construindo becos de qualidade
+desde 1 973
+
+669
+00:36:54,675 --> 00:36:55,437
+Fantasminha?
+
+670
+00:36:55,676 --> 00:36:58,440
+Saudações e namaste.
+
+671
+00:36:58,679 --> 00:37:01,477
+-Chester V! Em pessoa!
+-Exato...
+
+672
+00:37:01,715 --> 00:37:03,979
+jovem Lockwood. E parece
+que cheguei...
+
+673
+00:37:04,218 --> 00:37:04,843
+na hora certa.
+
+674
+00:37:05,119 --> 00:37:08,111
+Mais um minuto, e íamos virar
+comida daquela comida.
+
+675
+00:37:08,355 --> 00:37:12,348
+Flint, não falou que ia completar
+essa missão sozinho?
+
+676
+00:37:12,626 --> 00:37:13,718
+Posso falar?
+
+677
+00:37:13,994 --> 00:37:15,222
+Parece que pode.
+
+678
+00:37:15,496 --> 00:37:17,157
+Barb, minha número dois.
+
+679
+00:37:17,398 --> 00:37:18,956
+Por que está levando...
+
+680
+00:37:19,199 --> 00:37:22,828
+um morango
+na sua mochila, mocinha?
+
+681
+00:37:23,337 --> 00:37:24,235
+Afasta, pessoal!
+
+682
+00:37:24,505 --> 00:37:26,473
+Para. Tá assustando ele.
+
+683
+00:37:26,707 --> 00:37:27,833
+Assustando?
+
+684
+00:37:28,108 --> 00:37:31,202
+Tenha dó. Isso deve ter presas
+afiadas na boca.
+
+685
+00:37:32,880 --> 00:37:34,507
+Tá me assustando.
+
+686
+00:37:34,748 --> 00:37:37,512
+Vim carregando ele
+e não fez mal a ninguém.
+
+687
+00:37:37,751 --> 00:37:40,413
+Peraí. Você é cientista?
+
+688
+00:37:40,687 --> 00:37:42,746
+-Sou, sim.
+-É meteorologista.
+
+689
+00:37:43,023 --> 00:37:44,854
+Meteorologia. Adoro.
+
+690
+00:37:45,125 --> 00:37:48,993
+A ciência de sorrir com um penteado
+arrumado, apontando pra um mapa.
+
+691
+00:37:49,229 --> 00:37:51,390
+-É muito importante...
+-Meteorologia é...
+
+692
+00:37:51,665 --> 00:37:55,226
+-uma análise...
+-Meninas, meninas, por favor.
+
+693
+00:37:55,502 --> 00:37:59,165
+Todos sabemos que uma das duas
+é cientista.
+
+694
+00:37:59,940 --> 00:38:00,736
+Jovem Lockwood...
+
+695
+00:38:01,909 --> 00:38:05,902
+por que a sua amiga carrega
+o morango raivoso na mochila?
+
+696
+00:38:06,180 --> 00:38:09,445
+Por que o morango tá na mochila?
+Bom, é engraçado.
+
+697
+00:38:09,883 --> 00:38:13,011
+É... Sabe o que ele fez?
+
+698
+00:38:14,421 --> 00:38:18,084
+Ele... comeu... o USB-K-O.
+
+699
+00:38:18,592 --> 00:38:19,786
+Não o USB-K-O.
+
+700
+00:38:20,060 --> 00:38:20,788
+Deixa comigo.
+
+701
+00:38:21,061 --> 00:38:22,289
+Ela tá armada!
+
+702
+00:38:22,563 --> 00:38:24,554
+Se tocar numa folha
+na cabeça dele...
+
+703
+00:38:24,798 --> 00:38:26,095
+Afaste-se da fruta, moça.
+
+704
+00:38:28,702 --> 00:38:30,932
+A ruiva peluda fez ele se geleiar!
+
+705
+00:38:31,238 --> 00:38:32,466
+N-woo?
+
+706
+00:38:33,974 --> 00:38:35,737
+Nossa, melou!
+
+707
+00:38:35,976 --> 00:38:37,807
+-Lambe. Lambe. Lambe.
+-Valeu, Steve.
+
+708
+00:38:38,078 --> 00:38:39,204
+Jovem Lockwood.
+
+709
+00:38:39,446 --> 00:38:41,175
+o mundo poderia ter
+sido destruído...
+
+710
+00:38:41,415 --> 00:38:44,816
+por causa das ações
+de um maldito morango.
+
+711
+00:38:45,085 --> 00:38:48,111
+Não podemos permitir
+outros erros como este.
+
+712
+00:38:48,889 --> 00:38:49,617
+Não vai...
+
+713
+00:38:49,890 --> 00:38:52,085
+demorar para que
+aqueles melões malvados...
+
+714
+00:38:53,260 --> 00:38:54,056
+picles perniciosos...
+
+715
+00:38:55,229 --> 00:38:56,628
+e hambúrgueres
+beligerantes aprendam a nadar...
+
+716
+00:38:56,897 --> 00:38:57,556
+e alcancem...
+
+717
+00:38:57,798 --> 00:38:58,787
+o continente.
+
+718
+00:38:59,266 --> 00:38:59,925
+Qual é...
+
+719
+00:39:00,200 --> 00:39:01,929
+o seu plano?
+
+720
+00:39:02,469 --> 00:39:04,994
+Preciso voltar ao meu laboratório...
+
+721
+00:39:05,272 --> 00:39:06,899
+e fazer contato com a FLDSMDFR.
+
+722
+00:39:07,141 --> 00:39:08,608
+-Genial!
+-Eu abro caminho.
+
+723
+00:39:10,844 --> 00:39:13,210
+Não, nós abrimos caminho.
+
+724
+00:39:13,447 --> 00:39:14,778
+Seguro, seguro, seguro.
+
+725
+00:39:15,015 --> 00:39:17,483
+Meus Sentinelas da Segurança...
+
+726
+00:39:17,751 --> 00:39:21,619
+podem nos guiar melhor
+com seus trajes robóticos.
+
+727
+00:39:26,493 --> 00:39:28,495
+N-woo?
+
+728
+00:39:28,529 --> 00:39:30,622
+BARCO DO TIM
+
+729
+00:39:32,032 --> 00:39:32,657
+"Eu volto...
+
+730
+00:39:32,933 --> 00:39:33,865
+pro jantar."
+
+731
+00:39:34,134 --> 00:39:35,533
+Ora, conversa!
+
+732
+00:39:35,802 --> 00:39:37,770
+E me deixa sem comida.
+
+733
+00:39:38,672 --> 00:39:41,004
+Sei de um lugar onde tem comida.
+
+734
+00:39:41,875 --> 00:39:42,842
+Lá está.
+
+735
+00:39:43,443 --> 00:39:44,501
+Lar, doce lar.
+
+736
+00:39:44,778 --> 00:39:46,006
+LOJA DE PESCA DO TIM
+
+737
+00:39:46,613 --> 00:39:47,272
+ABERTO
+
+738
+00:39:55,489 --> 00:39:56,114
+O quê?
+
+739
+00:39:56,790 --> 00:39:57,848
+Acabou a sardinha?
+
+740
+00:39:58,125 --> 00:39:59,023
+Limparam tudo.
+
+741
+00:40:01,662 --> 00:40:03,687
+SARDINHAS DEFUMADAS
+
+742
+00:40:03,964 --> 00:40:05,158
+A Bebê Brent original.
+
+743
+00:40:20,881 --> 00:40:21,848
+Droga.
+
+744
+00:40:31,191 --> 00:40:32,852
+Não, não!
+
+745
+00:40:40,000 --> 00:40:42,696
+Eu também gosto. Sério.
+Adoro.
+
+746
+00:40:43,003 --> 00:40:44,334
+É minha. Não. Minha.
+
+747
+00:40:44,571 --> 00:40:46,061
+Solta, solta. É minha.
+
+748
+00:40:46,340 --> 00:40:49,036
+Não, não, é minha. Solta.
+
+749
+00:40:55,315 --> 00:40:58,546
+Calma aí, gente.
+Vão perder um olho.
+
+750
+00:41:03,357 --> 00:41:07,427
+Olha, se querem mais sardinha,
+arranjo pra vocês.
+
+751
+00:41:10,464 --> 00:41:11,123
+EU TENHO MIOLOS
+
+752
+00:41:13,367 --> 00:41:16,359
+Valeu por me emprestar
+esse skinny jeans, Flint.
+
+753
+00:41:16,603 --> 00:41:19,094
+-Não é skinny jeans.
+-Não.
+
+754
+00:41:19,373 --> 00:41:22,934
+Meus pés estão ficando roxos.
+Isso é ruim?
+
+755
+00:41:29,249 --> 00:41:30,910
+Bananestruzes!
+
+756
+00:41:32,552 --> 00:41:35,578
+Vai, vai, vai!
+Anda, Brent!
+
+757
+00:41:35,856 --> 00:41:37,414
+Banana! Banana! Banana!
+
+758
+00:41:42,095 --> 00:41:44,893
+O bando de bananestruzes
+quase nos pôs numa fria.
+
+759
+00:41:45,632 --> 00:41:46,656
+Tudo bem?
+
+760
+00:41:46,933 --> 00:41:48,491
+os Lockwood
+
+761
+00:41:50,604 --> 00:41:51,764
+Meu Deus.
+
+762
+00:41:52,939 --> 00:41:54,099
+Minha casa!
+
+763
+00:41:54,374 --> 00:41:54,999
+Casa, casa, casa,
+casa, casa, casa!
+
+764
+00:42:01,448 --> 00:42:02,915
+Meu Deus.
+
+765
+00:42:03,150 --> 00:42:04,515
+Seu laboratório!
+
+766
+00:42:06,953 --> 00:42:08,079
+Babou.
+
+767
+00:42:08,322 --> 00:42:10,290
+Não podemos subir
+sem o Flint Lockwood.
+
+768
+00:42:10,524 --> 00:42:12,685
+Essa casa flutuante
+não é confiável.
+
+769
+00:42:12,959 --> 00:42:14,950
+Preciso ir pra achar a FLDSMDFR.
+
+770
+00:42:15,195 --> 00:42:16,287
+A gente consegue. Esses...
+
+771
+00:42:16,530 --> 00:42:18,691
+cipós
+aguentam um grupo pequeno.
+
+772
+00:42:19,099 --> 00:42:20,498
+Para o alto e avante!
+
+773
+00:42:20,767 --> 00:42:22,530
+Sim, senhor. Pro laboratório!
+
+774
+00:42:28,909 --> 00:42:31,969
+Sentinelas, protejam
+os habitantes locais.
+
+775
+00:42:32,479 --> 00:42:33,537
+Eu protejo eles.
+
+776
+00:42:33,814 --> 00:42:35,941
+Gente! Aonde vocês vão?
+
+777
+00:42:36,183 --> 00:42:37,207
+Esperem por mim!
+
+778
+00:42:40,821 --> 00:42:42,220
+Ajudinha aqui?
+
+779
+00:42:46,126 --> 00:42:47,150
+Sinistro.
+
+780
+00:42:47,561 --> 00:42:49,222
+Sinistro mesmo, Steve.
+
+781
+00:42:54,501 --> 00:42:55,695
+Nossa...
+
+782
+00:42:55,969 --> 00:42:59,962
+esse seu laboratório é
+uma maravilha da engenharia.
+
+783
+00:43:00,207 --> 00:43:01,367
+Sério?
+
+784
+00:43:01,641 --> 00:43:02,938
+Obrigado, senhor.
+
+785
+00:43:03,176 --> 00:43:04,666
+Ativando força auxiliar.
+
+786
+00:43:07,080 --> 00:43:09,548
+Bem-vindo, Flint.
+
+787
+00:43:10,650 --> 00:43:12,242
+Meu computador morreu.
+
+788
+00:43:12,719 --> 00:43:16,712
+O destino do mundo depende de nós.
+Pense, Lockwood.
+
+789
+00:43:17,257 --> 00:43:18,952
+Bom, se eu pegar...
+
+790
+00:43:19,192 --> 00:43:21,160
+o disco rígido
+tem equipamento suficiente...
+
+791
+00:43:21,395 --> 00:43:23,727
+aqui
+pra construir um rastreador.
+
+792
+00:43:24,231 --> 00:43:24,890
+Flint!
+
+793
+00:43:25,532 --> 00:43:28,763
+Ora, jovem Lockwood,
+que cueca...
+
+794
+00:43:29,035 --> 00:43:30,059
+extraordinária.
+
+795
+00:43:30,337 --> 00:43:33,204
+Obrigado, senhor. É minha
+cueca anticuecão.
+
+796
+00:43:33,473 --> 00:43:35,236
+Inventei aos 6 anos.
+
+797
+00:43:35,509 --> 00:43:38,342
+Eu não fazia ideia
+de como somos parecidos.
+
+798
+00:43:38,578 --> 00:43:40,478
+Só que inventei a minha...
+
+799
+00:43:40,714 --> 00:43:42,545
+quando eu tinha 3.
+
+800
+00:43:43,550 --> 00:43:46,576
+Vocês usam a mesma cueca
+desde criança?
+
+801
+00:43:48,388 --> 00:43:49,480
+Com licença.
+
+802
+00:43:49,723 --> 00:43:51,850
+Como vamos recuperar o disco rígido...
+
+803
+00:43:52,092 --> 00:43:54,219
+com essa água eletrificada?
+
+804
+00:43:58,064 --> 00:43:59,588
+Pendurados!
+
+805
+00:43:59,866 --> 00:44:02,061
+Vai, Lockwood, dá sua cueca
+pra macaca.
+
+806
+00:44:02,302 --> 00:44:03,269
+Quê?
+
+807
+00:44:04,371 --> 00:44:05,030
+Se joga...
+
+808
+00:44:05,272 --> 00:44:07,206
+jovem Lockwood.
+
+809
+00:44:20,253 --> 00:44:23,518
+Ficar pendurado pela cueca
+assim no ar...
+
+810
+00:44:23,757 --> 00:44:25,622
+me traz tantas recordações.
+
+811
+00:44:25,892 --> 00:44:28,292
+Também construí meu laboratório
+no alto...
+
+812
+00:44:28,562 --> 00:44:30,427
+pra fugir do bullying!
+
+813
+00:44:30,897 --> 00:44:31,522
+Você foi...
+
+814
+00:44:35,168 --> 00:44:36,760
+vítima de bullying?
+
+815
+00:44:37,037 --> 00:44:38,061
+Com certeza.
+
+816
+00:44:38,772 --> 00:44:40,069
+Pessoas como nós...
+
+817
+00:44:40,307 --> 00:44:41,831
+sempre são perseguidas.
+
+818
+00:44:42,409 --> 00:44:44,468
+Às vezes, queria que meus agressores
+estivessem aqui.
+
+819
+00:44:44,744 --> 00:44:45,472
+Sério?
+
+820
+00:44:45,745 --> 00:44:48,236
+Pra humilhá-los com o meu sucesso.
+
+821
+00:44:48,482 --> 00:44:50,279
+Como você fez com o bebezão.
+
+822
+00:44:50,550 --> 00:44:51,812
+Fala do Brent?
+
+823
+00:44:52,085 --> 00:44:54,747
+Ele me intimidava,
+mas agora é meu amigo.
+
+824
+00:44:54,988 --> 00:44:55,784
+Amigo?
+
+825
+00:44:56,189 --> 00:44:58,851
+Quem faz bullying
+nunca será seu amigo.
+
+826
+00:44:59,326 --> 00:45:00,486
+-Nunca?
+-Diz...
+
+827
+00:45:00,760 --> 00:45:03,422
+o antigo provérbio chinês:
+
+828
+00:45:07,634 --> 00:45:11,092
+"Agressor oferecendo ensopado
+deve estar envenenado".
+
+829
+00:45:11,338 --> 00:45:12,669
+Ensopado.
+
+830
+00:45:12,939 --> 00:45:14,566
+Tenho muito o que aprender.
+
+831
+00:45:20,580 --> 00:45:21,945
+Missão cumprida.
+
+832
+00:45:22,182 --> 00:45:25,515
+De fato, jovem Lockwood.
+De fato.
+
+833
+00:45:28,822 --> 00:45:30,119
+Socorro!
+
+834
+00:45:32,792 --> 00:45:35,818
+Socorro! Me ajuda, gente.
+Me tira...
+
+835
+00:45:39,199 --> 00:45:40,393
+Tudo bem, Earl?
+
+836
+00:45:40,667 --> 00:45:42,897
+Meus pelos do peito arrepiaram
+o dia todo.
+
+837
+00:45:43,169 --> 00:45:45,160
+Não se preocupe.
+Os sentinelas...
+
+838
+00:45:45,405 --> 00:45:48,738
+têm sensores de
+perigo nas suas placas torácicas.
+
+839
+00:45:49,142 --> 00:45:50,734
+Bravo, Lockwood.
+
+840
+00:45:51,011 --> 00:45:53,536
+Com sorte, sobreviveremos
+esta noite.
+
+841
+00:46:07,994 --> 00:46:09,928
+Parecem os lanchinhos da meia-noite.
+
+842
+00:46:10,263 --> 00:46:12,697
+Dr. Manny! Que delícia!
+
+843
+00:46:12,933 --> 00:46:15,060
+Chamo de Sopa de Gorila do Manny.
+
+844
+00:46:15,335 --> 00:46:17,132
+E como se faz sopa de gorila?
+
+845
+00:46:17,370 --> 00:46:19,167
+Deixa ele esperando duas horas.
+É sopa.
+
+846
+00:46:20,507 --> 00:46:21,997
+Oi, gente. Que cheiro bom.
+
+847
+00:46:22,242 --> 00:46:25,507
+Quer provar essa sopa especial?
+Guardei uma tigela pra você.
+
+848
+00:46:25,879 --> 00:46:27,744
+Tá de matar.
+
+849
+00:46:28,915 --> 00:46:30,177
+De matar.
+
+850
+00:46:34,287 --> 00:46:34,878
+Não!
+
+851
+00:46:37,190 --> 00:46:38,418
+Valeu...
+
+852
+00:46:39,025 --> 00:46:40,287
+Brent.
+
+853
+00:46:41,528 --> 00:46:43,223
+Desde que o fantasminha apareceu...
+
+854
+00:46:43,463 --> 00:46:45,556
+-o Flint tá meio...
+-Seco.
+
+855
+00:46:45,799 --> 00:46:47,198
+Ele rejeitou minha sopa.
+
+856
+00:46:47,434 --> 00:46:49,732
+Nunca ninguém rejeitou antes.
+
+857
+00:46:50,370 --> 00:46:52,235
+Vou falar com ele.
+
+858
+00:46:54,474 --> 00:46:56,533
+-Flint, peraí.
+-Sam?
+
+859
+00:46:56,943 --> 00:46:58,035
+Aconteceu alguma coisa?
+
+860
+00:46:58,278 --> 00:46:59,609
+Estourou um fusível.
+
+861
+00:46:59,879 --> 00:47:01,312
+Você é que estourou.
+
+862
+00:47:01,581 --> 00:47:03,947
+Por que tá tão estranho
+com seus amigos?
+
+863
+00:47:04,217 --> 00:47:05,809
+Quê? Não tô estranho.
+
+864
+00:47:06,086 --> 00:47:07,917
+Deu um caratê...
+
+865
+00:47:08,188 --> 00:47:10,782
+na tigela do Manny
+da mão do Brent.
+
+866
+00:47:11,057 --> 00:47:12,388
+Você magoou eles.
+
+867
+00:47:12,626 --> 00:47:14,617
+Sam, você não ia entender.
+
+868
+00:47:18,098 --> 00:47:20,896
+Eu entendo.
+Mas você esqueceu que:
+
+869
+00:47:26,506 --> 00:47:30,499
+"Um bully que vira seu amigo
+será amigo até o fim".
+
+870
+00:47:31,578 --> 00:47:34,240
+Escuta, o Brent veio aqui
+te ajudar.
+
+871
+00:47:34,481 --> 00:47:35,641
+Como todos nós.
+
+872
+00:47:39,819 --> 00:47:42,913
+E parece que a gente
+tá te atrapalhando.
+
+873
+00:47:43,156 --> 00:47:46,592
+Lembra: a gente trabalha junto.
+
+874
+00:47:56,503 --> 00:47:58,767
+A garota do tempo está minando
+nossos planos.
+
+875
+00:47:59,005 --> 00:48:00,632
+Só preciso de mais tempo, chefe.
+
+876
+00:48:00,874 --> 00:48:02,000
+Não temos mais tempo.
+
+877
+00:48:02,275 --> 00:48:05,142
+Se não pegarmos a FLDSMDFR
+em 48 horas...
+
+878
+00:48:05,378 --> 00:48:08,279
+perderemos o prazo para lançar
+nossa barra 8.0.
+
+879
+00:48:08,515 --> 00:48:09,777
+Todos vão rir de mim!
+
+880
+00:48:10,016 --> 00:48:12,143
+Chefe, deixa que eu cuido disso.
+
+881
+00:48:12,385 --> 00:48:15,479
+Nunca peça a uma macaca
+pra fazer o trabalho de Chester.
+
+882
+00:48:15,755 --> 00:48:17,279
+Eu me encarrego disso.
+
+883
+00:48:26,166 --> 00:48:27,292
+Pessoal, chegamos.
+
+884
+00:48:28,535 --> 00:48:30,162
+Não é pra comer, não.
+
+885
+00:48:31,137 --> 00:48:32,570
+Bom, vamos lá.
+
+886
+00:48:38,712 --> 00:48:39,701
+Todos têm uma, né?
+
+887
+00:48:39,979 --> 00:48:41,207
+ISCAS
+
+888
+00:48:41,481 --> 00:48:44,712
+Agora, botem isso aqui, assim.
+
+889
+00:48:47,287 --> 00:48:48,049
+Não, não.
+
+890
+00:48:48,321 --> 00:48:50,983
+Não come.
+Vai te fazer mal.
+
+891
+00:48:51,224 --> 00:48:53,920
+Calma! Para de implicar
+com teu irmão, tá?
+
+892
+00:48:54,194 --> 00:48:56,321
+E se ele fizesse isso contigo?
+
+893
+00:48:56,563 --> 00:48:57,894
+Olha só, atenção.
+
+894
+00:48:58,164 --> 00:49:01,861
+Estão vendo?
+E um e dois e três!
+
+895
+00:49:02,435 --> 00:49:04,027
+Fisga um grandão!
+
+896
+00:49:07,874 --> 00:49:09,068
+Legal, né?
+
+897
+00:49:09,609 --> 00:49:11,600
+Isso se chama pescaria.
+
+898
+00:49:19,686 --> 00:49:21,210
+Saí no meu barco
+
+899
+00:49:21,454 --> 00:49:23,422
+Com um picles salgado
+
+900
+00:49:23,690 --> 00:49:25,521
+O ranzinza é azedo
+
+901
+00:49:25,759 --> 00:49:27,852
+É uma pílula amarga
+
+902
+00:49:28,261 --> 00:49:29,956
+Ela é um docinho
+
+903
+00:49:30,230 --> 00:49:32,425
+Com a sua Cebolita
+
+904
+00:49:32,732 --> 00:49:34,256
+Ensinar picles a pescar
+
+905
+00:49:34,534 --> 00:49:36,900
+Essa é minha vida esquisita
+
+906
+00:49:40,840 --> 00:49:44,606
+Se o Flint gostasse de pescar
+tanto quanto vocês...
+
+907
+00:49:45,912 --> 00:49:47,573
+Por que tô falando com picles?
+
+908
+00:49:53,887 --> 00:49:55,878
+Comidanimais perigosos detectados.
+
+909
+00:49:56,122 --> 00:49:58,590
+Fique aí.
+Vamos localizar e destruir.
+
+910
+00:50:01,761 --> 00:50:02,955
+Barry!
+
+911
+00:50:03,229 --> 00:50:04,491
+Não pode ficar aqui.
+
+912
+00:50:06,566 --> 00:50:07,555
+Esconde ele.
+
+913
+00:50:07,801 --> 00:50:08,790
+Gente! Hoje...
+
+914
+00:50:09,068 --> 00:50:10,865
+vamos achar a FLDSMDFR.
+
+915
+00:50:11,171 --> 00:50:14,140
+Sam, pensei no que você falou
+ontem à noite...
+
+916
+00:50:14,407 --> 00:50:14,998
+N-woo?
+
+917
+00:50:15,275 --> 00:50:15,866
+Quê?
+
+918
+00:50:16,109 --> 00:50:17,269
+Também acho!
+
+919
+00:50:17,510 --> 00:50:19,478
+Tá.
+Escuta, tô...
+
+920
+00:50:19,746 --> 00:50:22,180
+estranho,
+porque ando estressado.
+
+921
+00:50:22,448 --> 00:50:23,415
+-N-woo?
+-Quê?
+
+922
+00:50:23,650 --> 00:50:24,947
+Falou!
+
+923
+00:50:25,185 --> 00:50:28,086
+Mas tô fazendo isso pela gente.
+Olha...
+
+924
+00:50:28,321 --> 00:50:31,586
+ainda quero que o Sparkswood
+aconteça, mas não dá.
+
+925
+00:50:31,825 --> 00:50:34,293
+Só quando eu for um grande inventor,
+como o Chester V.
+
+926
+00:50:34,527 --> 00:50:36,995
+Flint, você não precisa provar nada...
+
+927
+00:50:37,263 --> 00:50:40,164
+Lockwood! Como vão as invenções?
+
+928
+00:50:40,900 --> 00:50:43,300
+Muito bem, senhor.
+Virei a noite fazendo isso:
+
+929
+00:50:43,536 --> 00:50:45,629
+a Localizadora Topográfica Flint
+Lockwood...
+
+930
+00:50:45,905 --> 00:50:47,964
+de Comida Selvagem.
+
+931
+00:50:48,208 --> 00:50:50,472
+-Ou...
+-FLFJTPM! Genial!
+
+932
+00:50:50,710 --> 00:50:53,338
+Obrigado. Basta seguir o sinal
+até o final.
+
+933
+00:50:54,814 --> 00:50:55,473
+Só falta fazer...
+
+934
+00:50:55,715 --> 00:50:57,410
+os buracos
+pras pernas.
+
+935
+00:50:57,650 --> 00:50:59,277
+PROJETO FLFJTPM
+
+936
+00:50:59,853 --> 00:51:00,683
+Bom...
+
+937
+00:51:00,954 --> 00:51:02,945
+talvez fique melhor...
+
+938
+00:51:03,189 --> 00:51:04,178
+assim.
+
+939
+00:51:04,958 --> 00:51:05,947
+Boa ideia, Sam.
+
+940
+00:51:06,426 --> 00:51:08,018
+E também podem me ajudar...
+
+941
+00:51:08,294 --> 00:51:11,559
+Com licença. Seus amigos o estão
+distraindo da missão.
+
+942
+00:51:11,831 --> 00:51:12,456
+Distraindo?
+
+943
+00:51:14,434 --> 00:51:17,198
+Os pelos do meu peito
+não confiam nesse Chester.
+
+944
+00:51:17,470 --> 00:51:19,836
+Atrás da FLDSMDFR e menos papo.
+
+945
+00:51:20,073 --> 00:51:20,869
+Mas, senhor, eu...
+
+946
+00:51:21,140 --> 00:51:23,870
+Vá até o interior mais profundo
+e sombrio da floresta.
+
+947
+00:51:26,179 --> 00:51:28,704
+Precisa se concentrar em salvar
+o mundo.
+
+948
+00:51:28,982 --> 00:51:31,212
+Seja um herói.
+
+949
+00:51:32,652 --> 00:51:34,085
+Tá certo. Tem razão.
+
+950
+00:51:34,354 --> 00:51:36,754
+Excelente! Vamos!
+
+951
+00:51:38,725 --> 00:51:40,317
+Barry, hora de ir pra casa agora.
+
+952
+00:51:41,828 --> 00:51:45,264
+Tá bom. Só mais um abraço, Barry.
+
+953
+00:51:45,531 --> 00:51:46,463
+Barry?
+
+954
+00:51:46,699 --> 00:51:48,690
+Isso! Barry.
+
+955
+00:51:48,968 --> 00:51:50,492
+Você é o Barry.
+
+956
+00:51:50,737 --> 00:51:51,669
+Barry.
+
+957
+00:51:51,905 --> 00:51:54,738
+E eu sou a Sam Sparks.
+
+958
+00:51:56,709 --> 00:51:57,903
+-Sa-Spa!
+-Isso! Sam...
+
+959
+00:51:58,177 --> 00:51:59,701
+-Vem, Sam!
+-Tô indo!
+
+960
+00:51:59,979 --> 00:52:02,743
+Barry, é hora de você ir. Vai.
+
+961
+00:52:03,483 --> 00:52:04,507
+Vai pra casa.
+
+962
+00:52:12,859 --> 00:52:14,224
+Saspa?
+
+963
+00:52:26,272 --> 00:52:28,536
+Que tal comprar um lanche?
+
+964
+00:52:28,775 --> 00:52:30,504
+Hot dog. Hot dog.
+
+965
+00:53:18,091 --> 00:53:20,423
+Tacodilo gigante!
+
+966
+00:53:22,662 --> 00:53:24,289
+Santa guacamole!
+
+967
+00:53:24,564 --> 00:53:25,656
+Deixa comigo, bro!
+
+968
+00:53:28,134 --> 00:53:29,465
+Eu tô bem!
+
+969
+00:53:29,702 --> 00:53:31,499
+Aqui em cima! Rápido, Sam!
+
+970
+00:53:39,012 --> 00:53:39,979
+Barb!
+
+971
+00:53:48,621 --> 00:53:49,610
+Tudo bem?
+
+972
+00:53:53,860 --> 00:53:54,849
+Congela!
+
+973
+00:54:00,633 --> 00:54:02,863
+Vem! Vamos sair daqui!
+
+974
+00:54:03,669 --> 00:54:05,967
+Bravo, jovem Lockwood, bravo!
+
+975
+00:54:30,496 --> 00:54:32,361
+Ela é mãe?
+
+976
+00:54:32,632 --> 00:54:33,564
+Sam!
+
+977
+00:54:39,572 --> 00:54:41,040
+Saspa!
+
+978
+00:54:42,175 --> 00:54:43,164
+Manteiga.
+
+979
+00:54:45,445 --> 00:54:46,776
+Derretida.
+
+980
+00:54:47,046 --> 00:54:48,570
+Quase lá.
+
+981
+00:54:49,682 --> 00:54:51,149
+A FLDSMDFR deve estar
+depois...
+
+982
+00:54:51,384 --> 00:54:53,079
+-do pântano de melado.
+-Isso é melado?
+
+983
+00:54:53,753 --> 00:54:55,653
+É do que eu mais gosto!
+
+984
+00:54:56,189 --> 00:54:56,917
+Droga de mosquitorrada!
+
+985
+00:54:58,758 --> 00:55:00,749
+Não se preocupe, bebezão.
+
+986
+00:55:01,194 --> 00:55:03,856
+Como os outros abomináveis monstros
+de comida...
+
+987
+00:55:04,097 --> 00:55:05,894
+eles logo sumirão.
+
+988
+00:55:06,165 --> 00:55:07,189
+Peraí, Flint!
+
+989
+00:55:07,767 --> 00:55:10,201
+E se isso for um grande erro?
+
+990
+00:55:10,770 --> 00:55:11,964
+Um erro?
+
+991
+00:55:12,238 --> 00:55:14,229
+É, desligar a FLDSMDFR.
+
+992
+00:55:14,474 --> 00:55:17,443
+Essas criaturas...
+Elas são incríveis.
+
+993
+00:55:17,710 --> 00:55:18,438
+Incrivelmente...
+
+994
+00:55:18,711 --> 00:55:21,578
+perigosas.
+Um tacodilo gigante nos atacou.
+
+995
+00:55:21,814 --> 00:55:24,908
+Ele tem razão. Uma queijaranha
+quase nos comeu.
+
+996
+00:55:25,184 --> 00:55:28,051
+Não significa que temos
+que destruir todos eles.
+
+997
+00:55:28,287 --> 00:55:30,949
+Algumas comidas
+são até simpáticas.
+
+998
+00:55:31,224 --> 00:55:34,421
+É. As sobremesas têm sido
+uns doces.
+
+999
+00:55:34,760 --> 00:55:36,694
+Tá. Quem sabe...
+
+1000
+00:55:37,430 --> 00:55:38,260
+Mosquitorrada!
+
+1001
+00:55:38,498 --> 00:55:40,329
+la te picar.
+
+1002
+00:55:40,600 --> 00:55:43,228
+Viu? Até seres minúsculos
+nos atacam.
+
+1003
+00:55:43,469 --> 00:55:44,265
+Só nos picam...
+
+1004
+00:55:44,504 --> 00:55:46,768
+por causa da queda
+da pressão atmosférica.
+
+1005
+00:55:47,006 --> 00:55:50,134
+Fazem isso antes das tempestades.
+E com essas nuvens Nimbus-estratus...
+
+1006
+00:55:50,643 --> 00:55:51,974
+Srta. Sparks, não...
+
+1007
+00:55:52,245 --> 00:55:53,940
+estamos
+falando do clima.
+
+1008
+00:55:54,213 --> 00:55:56,977
+O assunto aqui é comida.
+
+1009
+00:55:57,250 --> 00:56:00,708
+Comida perigosa e
+sem sentimentos humanos.
+
+1010
+00:56:00,953 --> 00:56:02,921
+Comida que não é nossa amiga.
+
+1011
+00:56:03,156 --> 00:56:06,648
+-Comida que é incapaz de amar!
+-Flint...
+
+1012
+00:56:06,926 --> 00:56:10,259
+devíamos estudar
+os comidanimais, não matar eles.
+
+1013
+00:56:10,496 --> 00:56:12,020
+E se ele estiver errado?
+
+1014
+00:56:13,032 --> 00:56:14,829
+A escolha é sua, filho.
+
+1015
+00:56:15,101 --> 00:56:16,966
+Realize o seu potencial...
+
+1016
+00:56:17,236 --> 00:56:19,329
+ou desista e deixe esses monstros...
+
+1017
+00:56:19,605 --> 00:56:21,835
+destruírem a Estátua da Liberdade.
+
+1018
+00:56:23,376 --> 00:56:25,776
+Sam, encontrar a FLDSMDFR...
+
+1019
+00:56:26,012 --> 00:56:27,741
+e salvar o mundo...
+
+1020
+00:56:28,247 --> 00:56:29,271
+é o que importa.
+
+1021
+00:56:29,515 --> 00:56:32,348
+É sério? A nossa opinião
+não importa?
+
+1022
+00:56:32,618 --> 00:56:33,642
+Claro que sim!
+
+1023
+00:56:33,886 --> 00:56:35,786
+Sim! Importa...
+
+1024
+00:56:36,022 --> 00:56:38,388
+só que não agora.
+
+1025
+00:56:39,892 --> 00:56:41,154
+-Resposta errada.
+-Frito.
+
+1026
+00:56:41,394 --> 00:56:44,454
+Então, acho que isso também
+não importa...
+
+1027
+00:56:44,697 --> 00:56:46,460
+jovem Lockwood.
+
+1028
+00:56:47,867 --> 00:56:48,561
+Vejo...
+
+1029
+00:56:48,834 --> 00:56:50,028
+você lá no barco.
+
+1030
+00:56:53,406 --> 00:56:55,067
+Espera! Sam!
+
+1031
+00:56:55,341 --> 00:56:56,672
+Espera, por favor!
+
+1032
+00:56:56,909 --> 00:56:59,036
+Não! Sam! Volta!
+
+1033
+00:56:59,312 --> 00:57:00,973
+Volta aqui, Sam, não!
+
+1034
+00:57:01,214 --> 00:57:02,647
+Não, Sam!
+
+1035
+00:57:02,882 --> 00:57:05,009
+Sam! Sam!
+
+1036
+00:57:05,318 --> 00:57:09,311
+Sam!
+
+1037
+00:57:13,526 --> 00:57:15,153
+Earl, fala com ela?
+
+1038
+00:57:15,394 --> 00:57:16,418
+Falo, sim.
+
+1039
+00:57:16,696 --> 00:57:18,687
+Sam! Me espera!
+
+1040
+00:57:19,565 --> 00:57:21,499
+Adeus, señor Lockwood.
+
+1041
+00:57:21,734 --> 00:57:22,666
+Tchau, Flint.
+
+1042
+00:57:22,902 --> 00:57:24,164
+Steve!
+
+1043
+00:57:25,338 --> 00:57:27,067
+Até tu, Steve?
+
+1044
+00:57:32,378 --> 00:57:34,573
+O que aconteceu?
+
+1045
+00:57:35,915 --> 00:57:36,574
+Fez...
+
+1046
+00:57:36,849 --> 00:57:38,009
+a escolha certa, filho.
+
+1047
+00:57:38,251 --> 00:57:41,118
+Sentinelas! Tomem conta deles.
+
+1048
+00:57:47,760 --> 00:57:49,250
+Manteiga.
+
+1049
+00:57:52,198 --> 00:57:53,893
+Jovem Lockwood...
+
+1050
+00:57:54,133 --> 00:57:57,125
+estamos próximos.
+Sinto na minha barbicha!
+
+1051
+00:58:04,744 --> 00:58:06,473
+A água entra por cima...
+
+1052
+00:58:06,746 --> 00:58:09,408
+e a comida sai por baixo.
+
+1053
+00:58:09,649 --> 00:58:11,583
+Tem que estar dentro daquela
+montanha de bala!
+
+1054
+00:58:11,851 --> 00:58:15,116
+Foi por isso que eu o quis
+nessa missão.
+
+1055
+00:58:15,388 --> 00:58:17,481
+Partiu, Lockwood!
+
+1056
+00:58:21,627 --> 00:58:24,460
+Não acredito que o Flint
+ouve aquele cara!
+
+1057
+00:58:24,730 --> 00:58:27,290
+É ingênuo. E está sendo manipulado...
+
+1058
+00:58:27,566 --> 00:58:29,124
+com algum propósito nefasto.
+
+1059
+00:58:29,402 --> 00:58:31,267
+É claro que está!
+
+1060
+00:58:31,504 --> 00:58:32,732
+Sam! Para!
+
+1061
+00:58:32,972 --> 00:58:33,904
+Quê?
+
+1062
+00:58:34,140 --> 00:58:36,904
+Fica calma e vem vindo
+pra cá...
+
+1063
+00:58:37,143 --> 00:58:39,236
+devagar.
+
+1064
+00:58:39,478 --> 00:58:42,641
+Bem devagar.
+
+1065
+00:58:42,982 --> 00:58:45,917
+Qual é. Agora vocês é que estão
+esquisitos.
+
+1066
+00:58:46,152 --> 00:58:47,619
+Não tô a fim disso.
+
+1067
+00:58:55,027 --> 00:58:56,654
+Pode parar, monstrengo de queijo!
+
+1068
+00:58:56,929 --> 00:58:58,419
+Ninguém come meus amigos...
+
+1069
+00:58:58,664 --> 00:58:59,961
+na minha ronda!
+
+1070
+00:59:05,037 --> 00:59:06,937
+Não, Earl, espera! O Chester mentiu...
+
+1071
+00:59:07,173 --> 00:59:09,266
+sobre essas criaturas, e vou provar.
+
+1072
+00:59:09,508 --> 00:59:11,203
+Sam, não faz isso!
+
+1073
+00:59:11,477 --> 00:59:13,445
+É nutricídio!
+
+1074
+00:59:16,182 --> 00:59:17,513
+Perigo! Perigo! Perigo!
+
+1075
+00:59:17,783 --> 00:59:19,114
+Queijaranha boazinha.
+
+1076
+00:59:25,691 --> 00:59:26,953
+-Amarelo.
+-Cara!
+
+1077
+00:59:27,193 --> 00:59:29,718
+Ganhou molho especial!
+
+1078
+00:59:32,031 --> 00:59:34,022
+Tudo bem, gente. Viu?
+
+1079
+00:59:34,300 --> 00:59:35,699
+Ela não é má.
+É só...
+
+1080
+00:59:35,968 --> 00:59:37,299
+meio pesadona.
+
+1081
+00:59:42,675 --> 00:59:43,733
+O que tá fazendo?
+
+1082
+00:59:44,009 --> 00:59:46,443
+Acho que ela quer carinho.
+
+1083
+00:59:46,846 --> 00:59:47,972
+Eu também gosto.
+
+1084
+00:59:48,214 --> 00:59:49,841
+Queijaranha boazinha!
+
+1085
+00:59:50,483 --> 00:59:51,541
+Que fofa!
+
+1086
+00:59:51,817 --> 00:59:53,478
+Mas por que ela nos atacou antes?
+
+1087
+00:59:53,719 --> 00:59:55,243
+Porque estávamos vestidos...
+
+1088
+00:59:55,521 --> 00:59:56,647
+como eles.
+
+1089
+00:59:58,491 --> 00:59:59,515
+Ela não gosta de mochilas?
+
+1090
+01:00:00,559 --> 01:00:01,685
+Acho que...
+
+1091
+01:00:01,961 --> 01:00:03,019
+não gosta da Live Corp.
+
+1092
+01:00:03,262 --> 01:00:05,492
+Os comidanimais sabem algo que...
+
+1093
+01:00:05,731 --> 01:00:06,663
+nós não sabemos.
+
+1094
+01:00:08,534 --> 01:00:09,330
+Uau!
+
+1095
+01:00:09,568 --> 01:00:10,830
+Quem é Evel?
+
+1096
+01:00:11,070 --> 01:00:13,504
+É Evil, "mal".
+
+1097
+01:00:13,906 --> 01:00:16,704
+Eu sabia! O Chester planeja
+algo sinistro.
+
+1098
+01:00:16,976 --> 01:00:18,000
+Vamos avisar o Flint!
+
+1099
+01:00:18,244 --> 01:00:18,972
+Vamos nessa!
+
+1100
+01:00:19,412 --> 01:00:20,174
+Foge!
+
+1101
+01:00:27,119 --> 01:00:28,051
+Não vão avisar...
+
+1102
+01:00:28,287 --> 01:00:30,084
+ninguém
+sobre nada.
+
+1103
+01:00:30,356 --> 01:00:32,017
+Babou.
+
+1104
+01:00:54,380 --> 01:00:55,608
+Magnífico.
+
+1105
+01:01:00,019 --> 01:01:00,610
+A FLDSMDFR...
+
+1106
+01:01:00,886 --> 01:01:02,148
+deve estar
+lá em cima.
+
+1107
+01:01:06,625 --> 01:01:08,923
+Uma queda lastimável.
+
+1108
+01:01:10,129 --> 01:01:12,620
+Termine o trabalho, Lockwood.
+
+1109
+01:01:12,898 --> 01:01:14,126
+Sim, senhor.
+
+1110
+01:01:39,191 --> 01:01:40,590
+Consegui!
+
+1111
+01:01:49,568 --> 01:01:50,830
+FLDSMDFR.
+
+1112
+01:01:56,509 --> 01:01:59,808
+Olha, desculpa eu fazer isso
+com você.
+
+1113
+01:02:00,079 --> 01:02:01,171
+Outra vez.
+
+1114
+01:02:01,447 --> 01:02:04,439
+Mas as queijaranhas não vão destruir
+a Estátua da Liberdade...
+
+1115
+01:02:04,683 --> 01:02:05,308
+nem o mundo.
+
+1116
+01:02:16,462 --> 01:02:18,225
+Marshmallow.
+
+1117
+01:02:38,918 --> 01:02:39,509
+São como...
+
+1118
+01:02:39,752 --> 01:02:41,117
+uma família.
+
+1119
+01:02:51,630 --> 01:02:53,257
+A Sam estava certa.
+
+1120
+01:02:53,532 --> 01:02:55,693
+Isso é um erro.
+
+1121
+01:03:07,279 --> 01:03:09,270
+Nossa!
+
+1122
+01:03:09,648 --> 01:03:11,445
+-Senhor! Senhor?
+-Aí está ela.
+
+1123
+01:03:11,850 --> 01:03:13,784
+Em toda a sua glória.
+
+1124
+01:03:14,420 --> 01:03:16,911
+Chester, olha, não posso fazer isso.
+
+1125
+01:03:17,189 --> 01:03:18,213
+Tá bem. Eu faço.
+
+1126
+01:03:18,457 --> 01:03:19,424
+Quê? Peraí.
+
+1127
+01:03:19,892 --> 01:03:21,689
+Espera. Não podemos destruir ela.
+
+1128
+01:03:23,028 --> 01:03:24,655
+Me solta, Lockwood.
+
+1129
+01:03:24,897 --> 01:03:27,024
+Não, não posso deixar
+que faça isso.
+
+1130
+01:03:35,107 --> 01:03:37,371
+Não! Não! Não!
+
+1131
+01:03:42,781 --> 01:03:43,748
+Live Corp.
+
+1132
+01:03:43,983 --> 01:03:45,610
+O USB-K-O...
+
+1133
+01:03:45,951 --> 01:03:47,179
+a reprogramou?
+
+1134
+01:03:47,419 --> 01:03:49,250
+Eu nunca quis desligá-la.
+
+1135
+01:03:49,488 --> 01:03:52,980
+Com um USB-Kaô? Oi?
+
+1136
+01:03:53,258 --> 01:03:56,489
+O que eu queria o tempo todo
+era a sua máquina.
+
+1137
+01:03:56,895 --> 01:03:59,420
+Você mentiu pra mim?
+
+1138
+01:03:59,698 --> 01:04:01,097
+É claro que menti.
+
+1139
+01:04:01,333 --> 01:04:04,564
+Sabia que você ia gostar
+desses seres patéticos.
+
+1140
+01:04:05,504 --> 01:04:07,335
+Mas o senhor era meu ídolo.
+
+1141
+01:04:07,606 --> 01:04:11,599
+A vida toda, eu o admirei.
+Eu queria ser o senhor!
+
+1142
+01:04:12,011 --> 01:04:14,639
+Lockwood, eu só usei você...
+
+1143
+01:04:14,913 --> 01:04:16,403
+para roubar a sua invenção.
+
+1144
+01:04:16,649 --> 01:04:17,581
+Tudo pronto.
+
+1145
+01:04:17,816 --> 01:04:19,807
+Iniciar Operação Picadinho.
+
+1146
+01:04:31,096 --> 01:04:33,997
+Já consegui o que queria,
+não preciso mais de você.
+
+1147
+01:04:34,266 --> 01:04:37,292
+Infelizmente, vamos ter
+que dispensá-lo.
+
+1148
+01:04:37,536 --> 01:04:38,503
+Peraí, peraí. Por favor!
+
+1149
+01:04:58,791 --> 01:05:00,122
+Isso não é natural.
+
+1150
+01:05:00,359 --> 01:05:01,348
+Não, não, não.
+
+1151
+01:05:01,627 --> 01:05:03,959
+Calma,
+calma, pessoal. Não chora.
+
+1152
+01:05:50,309 --> 01:05:53,574
+Steve. Se juntarmos nossas mentes
+brilhantes...
+
+1153
+01:05:53,846 --> 01:05:55,438
+a gente sai daqui.
+
+1154
+01:05:55,714 --> 01:05:57,682
+-Steve?
+-Brent, já pensou...
+
+1155
+01:05:57,916 --> 01:06:00,942
+que talvez
+Steve Lockwood seja só um macaco?
+
+1156
+01:06:01,220 --> 01:06:03,916
+Como pode falar dele assim, Earl?
+
+1157
+01:06:04,189 --> 01:06:06,714
+Como pode falar isso?
+
+1158
+01:06:07,025 --> 01:06:10,688
+Claro que ele é só um macaco.
+Vocês são burros?
+
+1159
+01:06:10,929 --> 01:06:14,228
+Não se deve confiar num macaco.
+
+1160
+01:06:14,466 --> 01:06:16,400
+O Chester acha que você é macaca.
+
+1161
+01:06:16,635 --> 01:06:19,365
+Sou uma primata
+e o Chester sabe disso.
+
+1162
+01:06:19,738 --> 01:06:21,763
+Mas te chama de macaca.
+
+1163
+01:06:23,442 --> 01:06:24,636
+É verdade. Chama.
+
+1164
+01:06:24,910 --> 01:06:26,571
+É brincadeira dele.
+
+1165
+01:06:26,845 --> 01:06:29,279
+O Chester é meu melhor amigo.
+
+1166
+01:06:30,349 --> 01:06:32,977
+Se ele fosse mesmo seu amigo...
+
+1167
+01:06:33,252 --> 01:06:35,584
+chamaria você de macaca?
+
+1168
+01:07:00,012 --> 01:07:01,809
+N-woo! N-woo!
+
+1169
+01:07:16,695 --> 01:07:17,389
+Flint.
+
+1170
+01:07:18,897 --> 01:07:19,795
+Pai.
+
+1171
+01:07:20,032 --> 01:07:23,160
+O que houve, filho?
+Você tá horrível.
+
+1172
+01:07:23,702 --> 01:07:26,466
+-Quem são eles?
+-Salvaram a minha vida.
+
+1173
+01:07:28,340 --> 01:07:32,333
+Deixei o Chester roubar minha máquina
+e ele lançou a Operação Picadinho.
+
+1174
+01:07:32,778 --> 01:07:35,838
+Ora, filho, não está falando
+coisa com coisa.
+
+1175
+01:07:36,114 --> 01:07:38,674
+O Chester vai matar os comidanimais.
+
+1176
+01:07:41,019 --> 01:07:41,678
+Meus amigos tentaram...
+
+1177
+01:07:41,954 --> 01:07:44,479
+me dizer
+que eram bons e não acreditei.
+
+1178
+01:07:44,723 --> 01:07:46,850
+Tudo que eu faço dá errado.
+
+1179
+01:07:47,125 --> 01:07:49,116
+-N-woo!
+-Barry?
+
+1180
+01:07:50,128 --> 01:07:51,823
+N-woo!
+
+1181
+01:07:52,130 --> 01:07:54,860
+Barry, desculpa ter te julgado mal.
+
+1182
+01:07:55,133 --> 01:07:56,623
+E ter duvidado da Sam.
+
+1183
+01:07:57,069 --> 01:08:00,436
+-Sa-Saspa. Sa-Sa-Sam.
+-Que foi? O que quer dizer?
+
+1184
+01:08:04,309 --> 01:08:05,571
+Saspa, Saspa.
+
+1185
+01:08:05,844 --> 01:08:06,936
+Saspa!
+
+1186
+01:08:07,512 --> 01:08:08,171
+Saspa.
+
+1187
+01:08:08,447 --> 01:08:09,937
+-Serelepe?
+-Pai.
+
+1188
+01:08:10,182 --> 01:08:11,206
+Saspa, Saspa!
+
+1189
+01:08:11,483 --> 01:08:12,814
+Sam e a galera?
+
+1190
+01:08:16,388 --> 01:08:18,652
+Ele tá parecendo
+um Sentinela da Segurança.
+
+1191
+01:08:23,729 --> 01:08:24,593
+Serelepe!
+
+1192
+01:08:24,863 --> 01:08:28,526
+Não, pai. Falou que os sentinelas
+capturaram a Sam e a galera.
+
+1193
+01:08:33,272 --> 01:08:36,833
+-E prenderam eles na fábrica?
+-Temos que soltar eles.
+
+1194
+01:08:37,075 --> 01:08:39,976
+Mas como? Somos só nós dois.
+
+1195
+01:08:41,380 --> 01:08:42,608
+N-woo!
+
+1196
+01:08:55,394 --> 01:08:57,988
+-N-woo!
+-N-woo! N-woo!
+
+1197
+01:08:58,230 --> 01:09:01,199
+-N-woo!
+-N-woo!
+
+1198
+01:09:01,433 --> 01:09:02,593
+N-woo!
+
+1199
+01:09:06,371 --> 01:09:07,998
+Que que é "N-woos"?
+
+1200
+01:09:09,241 --> 01:09:10,606
+Por que pegaram minha TV?
+
+1201
+01:09:13,211 --> 01:09:17,204
+A água entra por cima
+e a comida sai por baixo.
+
+1202
+01:09:18,383 --> 01:09:22,376
+N-woo! N-woo!
+
+1203
+01:09:22,754 --> 01:09:24,551
+Isso pifou? Que foi?
+
+1204
+01:09:24,790 --> 01:09:26,587
+N-woo!
+
+1205
+01:09:27,592 --> 01:09:29,059
+Pega, pega.
+
+1206
+01:09:30,462 --> 01:09:31,520
+N-woo.
+
+1207
+01:09:31,763 --> 01:09:35,255
+Tá dizendo que eu sou o N-woo.
+
+1208
+01:09:35,534 --> 01:09:39,163
+N-woo. N-woo.
+
+1209
+01:09:39,438 --> 01:09:42,168
+Olha, eles vieram pra ajudar.
+
+1210
+01:09:42,441 --> 01:09:44,671
+Todos viemos. Hora de fazer isso.
+
+1211
+01:09:48,613 --> 01:09:50,604
+Não sei se vão me entender.
+
+1212
+01:09:53,085 --> 01:09:56,543
+-Sei que acham que sou o N-woo.
+-Sei que acham que sou o N-woo.
+
+1213
+01:09:56,788 --> 01:09:59,757
+Mas, na verdade, não sou N-woo...
+
+1214
+01:09:59,992 --> 01:10:01,857
+sou apenas um homem.
+
+1215
+01:10:02,260 --> 01:10:05,855
+Um homem que errou muito
+nesses últimos dias.
+
+1216
+01:10:06,298 --> 01:10:10,291
+Agora, os meus amigos
+estão ferrados por minha causa.
+
+1217
+01:10:10,969 --> 01:10:13,836
+Me disseram, uma vez, que
+eu não precisava de amigos.
+
+1218
+01:10:14,106 --> 01:10:16,370
+Que conquistaria
+mais coisas sozinho.
+
+1219
+01:10:16,875 --> 01:10:18,308
+Sei agora, mais que nunca...
+
+1220
+01:10:18,577 --> 01:10:20,169
+que ele estava errado.
+
+1221
+01:10:20,445 --> 01:10:22,845
+Precisamos de todos os amigos
+que tivermos.
+
+1222
+01:10:23,115 --> 01:10:26,209
+E preciso da ajuda de vocês.
+De todos vocês. Frutas...
+
+1223
+01:10:26,485 --> 01:10:28,510
+vegetais e carnes!
+
+1224
+01:10:29,955 --> 01:10:31,946
+Me ajudem a entrar naquela...
+
+1225
+01:10:32,190 --> 01:10:33,657
+fábrica, salvar nossos amigos...
+
+1226
+01:10:34,359 --> 01:10:36,589
+e reaver a nossa ilha!
+
+1227
+01:10:42,000 --> 01:10:44,833
+Agora, só preciso descobrir...
+
+1228
+01:10:45,103 --> 01:10:46,798
+um jeito de entrar lá.
+
+1229
+01:10:47,039 --> 01:10:49,906
+Com a vara e a linha certas, te lanço...
+
+1230
+01:10:50,175 --> 01:10:51,802
+até o topo inacabado da fábrica.
+
+1231
+01:10:52,044 --> 01:10:53,534
+Vai ser bolinho.
+
+1232
+01:10:55,247 --> 01:10:58,350
+Pai, vamos pescar.
+
+1233
+01:11:14,533 --> 01:11:15,431
+Besterraba!
+
+1234
+01:11:16,001 --> 01:11:18,128
+Almórsegas! Anda, anda!
+
+1235
+01:11:18,370 --> 01:11:20,167
+Melanfante, faz sua parte!
+
+1236
+01:11:30,415 --> 01:11:31,439
+Sapato spray.
+
+1237
+01:11:31,716 --> 01:11:32,774
+Descarecador.
+
+1238
+01:11:33,051 --> 01:11:34,746
+Entregador de Entregas.
+
+1239
+01:11:35,387 --> 01:11:36,684
+Capacete.
+
+1240
+01:11:51,403 --> 01:11:52,392
+BARCO DO TIM E FILHO
+
+1241
+01:11:56,274 --> 01:11:57,935
+Quando quiser, pai!
+
+1242
+01:11:58,210 --> 01:12:00,405
+Pronto, meu filho, marujo.
+
+1243
+01:12:09,254 --> 01:12:10,243
+Tá pesado!
+
+1244
+01:12:17,996 --> 01:12:20,089
+Chegou o reforço.
+
+1245
+01:12:21,233 --> 01:12:22,325
+Fala sério! Sandubas!
+
+1246
+01:12:22,601 --> 01:12:24,068
+Sandubaleias!
+
+1247
+01:12:29,207 --> 01:12:30,299
+Preparar pra soltar a isca.
+
+1248
+01:12:31,443 --> 01:12:32,341
+Vai, Cebolita.
+
+1249
+01:12:38,416 --> 01:12:40,077
+Fisga um grandão, filho.
+
+1250
+01:12:53,165 --> 01:12:54,633
+Temos um problema.
+
+1251
+01:12:57,169 --> 01:12:59,433
+N-woo, aqui.
+
+1252
+01:13:05,510 --> 01:13:07,444
+O que tá havendo?
+
+1253
+01:13:10,649 --> 01:13:12,742
+SOCORRO
+
+1254
+01:13:12,984 --> 01:13:14,679
+A mochila da Sam.
+
+1255
+01:13:15,387 --> 01:13:16,354
+Estiveram aqui!
+
+1256
+01:13:23,395 --> 01:13:24,384
+Queijaranha boazinha.
+
+1257
+01:13:25,530 --> 01:13:26,827
+Saspa?
+
+1258
+01:13:35,874 --> 01:13:36,898
+Entendi, Barry.
+
+1259
+01:13:39,811 --> 01:13:40,971
+Valeu, queijaranha.
+
+1260
+01:13:41,213 --> 01:13:44,205
+N-woo!
+
+1261
+01:13:47,586 --> 01:13:51,078
+Barry, usa o Entregador de Entregas
+pra salvar seus amigos.
+
+1262
+01:13:52,490 --> 01:13:54,185
+Eu vou salvar os meus.
+
+1263
+01:14:12,444 --> 01:14:14,036
+Tem um poró pirata no barco.
+
+1264
+01:14:15,513 --> 01:14:16,309
+Flint!
+
+1265
+01:14:19,217 --> 01:14:19,842
+Parados!
+
+1266
+01:14:24,089 --> 01:14:25,579
+Guerra de comida!
+
+1267
+01:14:31,563 --> 01:14:33,030
+Siri-bolos!
+
+1268
+01:14:40,572 --> 01:14:41,231
+Corre!
+
+1269
+01:14:43,708 --> 01:14:45,437
+Derrotada por queijo derretido!
+
+1270
+01:14:50,482 --> 01:14:51,278
+Retirada!
+
+1271
+01:14:51,549 --> 01:14:53,278
+Retirada!
+
+1272
+01:15:02,060 --> 01:15:03,357
+Leitura da cabeça completa.
+
+1273
+01:15:21,880 --> 01:15:22,608
+Lockwood?
+
+1274
+01:15:22,881 --> 01:15:24,143
+Ainda está vivo?
+
+1275
+01:15:24,449 --> 01:15:27,475
+Isso mesmo. Mãos ao alto.
+Devolve meus amigos.
+
+1276
+01:15:27,752 --> 01:15:30,414
+É claro! Estão bem aqui.
+
+1277
+01:15:33,158 --> 01:15:34,420
+Flint.
+
+1278
+01:15:34,659 --> 01:15:35,956
+Sam! Pessoal!
+
+1279
+01:15:36,194 --> 01:15:37,491
+Chester, solta eles!
+
+1280
+01:15:37,762 --> 01:15:40,287
+Não se preocupe, Lockwood,
+vou soltar.
+
+1281
+01:15:41,499 --> 01:15:45,162
+Dentro da minha super mega
+máquina de barrinhas.
+
+1282
+01:15:45,637 --> 01:15:46,968
+Barrinhas?
+
+1283
+01:15:47,205 --> 01:15:50,504
+Barrinhas? Vai transformar eles
+em barrinhas?
+
+1284
+01:15:50,775 --> 01:15:54,609
+Sim, barras nutritivas,
+o carro-chefe da companhia.
+
+1285
+01:15:54,846 --> 01:15:58,839
+Soube que a comida da FLDSMDFR
+é mais gostosa que comida-comida.
+
+1286
+01:15:59,117 --> 01:16:00,982
+E usando seus comidanimais como
+ingredientes...
+
+1287
+01:16:01,219 --> 01:16:03,517
+serão superdeliciosas!
+
+1288
+01:16:03,788 --> 01:16:05,619
+Tinha que roubar a sua invenção.
+
+1289
+01:16:05,857 --> 01:16:08,189
+Só que eu não conseguia achá-la.
+
+1290
+01:16:08,860 --> 01:16:11,420
+Até ter a sua ajuda.
+
+1291
+01:16:12,697 --> 01:16:14,221
+FLDSMDFR!
+
+1292
+01:16:14,632 --> 01:16:15,826
+Melancia!
+
+1293
+01:16:21,172 --> 01:16:24,335
+Você é um monstro!
+Essas criaturas têm vida.
+
+1294
+01:16:24,576 --> 01:16:25,736
+Taí o problema.
+
+1295
+01:16:26,544 --> 01:16:29,172
+Comida com perna é mais difícil
+de se pegar.
+
+1296
+01:16:29,514 --> 01:16:33,075
+Eles fogem, lutam,
+querem viver.
+
+1297
+01:16:33,351 --> 01:16:35,842
+Agora que eu controlo
+a sua FLDSMDFR...
+
+1298
+01:16:36,087 --> 01:16:39,955
+posso asfaltar a ilha
+e trabalhar em total sigilo.
+
+1299
+01:16:40,191 --> 01:16:41,556
+A Live Corp continuará sendo...
+
+1300
+01:16:41,826 --> 01:16:44,454
+a indústria mais irada do mundo...
+
+1301
+01:16:44,696 --> 01:16:46,596
+com a nova barrinha,
+versão...
+
+1302
+01:16:46,865 --> 01:16:48,230
+8.0!
+
+1303
+01:16:48,500 --> 01:16:49,524
+Não devia ter acreditado em você.
+
+1304
+01:16:50,068 --> 01:16:51,865
+É, foi muita burrice.
+
+1305
+01:16:52,103 --> 01:16:55,664
+Se quiser seus amigos de volta,
+sugiro que baixe essas latas.
+
+1306
+01:16:55,907 --> 01:16:58,603
+Não faz isso, Flint! Salva a ilha!
+
+1307
+01:16:58,977 --> 01:17:00,706
+Mas vocês são a minha ilha.
+
+1308
+01:17:01,880 --> 01:17:03,905
+Pra começar, cala a boca.
+
+1309
+01:17:04,182 --> 01:17:07,242
+Depois, solta as latas
+ou eu solto seus amigos.
+
+1310
+01:17:07,519 --> 01:17:08,577
+Tá, tá. Pronto.
+
+1311
+01:17:09,020 --> 01:17:12,854
+Não, Flint. Tô sem jeito.
+Mudei de ideia.
+
+1312
+01:17:13,091 --> 01:17:15,184
+Entenda, não posso
+deixar testemunhas.
+
+1313
+01:17:16,728 --> 01:17:17,990
+Barb, moa todos.
+
+1314
+01:17:18,229 --> 01:17:21,687
+-Mas, chefe, não achei...
+-Por isso, eu trabalho sozinho.
+
+1315
+01:17:21,933 --> 01:17:22,763
+Macaca!
+
+1316
+01:17:23,034 --> 01:17:24,626
+Está dispensada.
+
+1317
+01:17:26,404 --> 01:17:27,393
+E agora, sem...
+
+1318
+01:17:27,639 --> 01:17:29,004
+mais delongas...
+
+1319
+01:17:29,374 --> 01:17:31,808
+Flint, rápido!
+
+1320
+01:17:32,076 --> 01:17:33,566
+Por que não vai mais rápido?
+
+1321
+01:17:33,812 --> 01:17:36,781
+-Me dá esse controle!
+-Claro. Vem pegar.
+
+1322
+01:17:41,119 --> 01:17:42,381
+Mas com quem está?
+
+1323
+01:17:42,620 --> 01:17:43,552
+Comigo?
+
+1324
+01:17:43,888 --> 01:17:44,946
+Ou comigo?
+
+1325
+01:17:46,458 --> 01:17:47,049
+Earl...
+
+1326
+01:17:47,292 --> 01:17:49,089
+consegue tirar a gente daqui?
+
+1327
+01:17:49,327 --> 01:17:52,660
+É fita da polícia!
+Não posso rasgar.
+
+1328
+01:17:56,734 --> 01:17:58,258
+Garfifacalimentador!
+
+1329
+01:17:59,037 --> 01:17:59,765
+Sam, gente, escuta.
+
+1330
+01:18:01,039 --> 01:18:02,301
+Mesinha de café invisível!
+
+1331
+01:18:03,041 --> 01:18:04,440
+Desculpa eu ter sido tão idiota.
+
+1332
+01:18:04,676 --> 01:18:06,109
+Flint, é verdade...
+
+1333
+01:18:06,344 --> 01:18:08,312
+mas não é hora pra isso!
+
+1334
+01:18:08,580 --> 01:18:10,912
+Me deixa terminar. Fui ingrato...
+
+1335
+01:18:11,149 --> 01:18:12,582
+e devia ter ouvido vocês.
+
+1336
+01:18:12,817 --> 01:18:15,251
+Continua, mas acelera!
+
+1337
+01:18:15,487 --> 01:18:18,581
+A verdade é que eu preciso
+de cada um de vocês.
+
+1338
+01:18:18,823 --> 01:18:21,417
+Vocês são mais que amigos.
+São a minha família.
+
+1339
+01:18:21,793 --> 01:18:25,354
+Fofo! Lembrete:
+pôr isso no túmulo deles.
+
+1340
+01:18:25,630 --> 01:18:27,120
+Boa, Chester!
+
+1341
+01:18:27,365 --> 01:18:29,060
+Não vê, jovem Lockwood...
+
+1342
+01:18:29,300 --> 01:18:31,666
+que esses
+amigos levam aos seus fracassos.
+
+1343
+01:18:31,936 --> 01:18:34,166
+Melhor do que terminar sozinho
+como você.
+
+1344
+01:18:34,439 --> 01:18:35,667
+Não estou sozinho!
+
+1345
+01:18:36,007 --> 01:18:37,440
+Tenho meus hologramas!
+
+1346
+01:18:40,612 --> 01:18:44,104
+Flint! Por que não oferece a ele
+uma festa?
+
+1347
+01:18:44,349 --> 01:18:45,316
+Adoramos festa.
+
+1348
+01:18:45,683 --> 01:18:46,980
+Festa?
+
+1349
+01:18:47,719 --> 01:18:48,708
+Festa!
+
+1350
+01:18:49,120 --> 01:18:51,486
+A festa acabou, Lockwood.
+
+1351
+01:18:51,723 --> 01:18:52,621
+Não!
+
+1352
+01:18:57,829 --> 01:18:58,796
+Ainda não.
+
+1353
+01:18:59,030 --> 01:19:01,521
+Tá na hora
+de festejar!
+
+1354
+01:19:05,370 --> 01:19:06,860
+Não!
+
+1355
+01:19:07,138 --> 01:19:09,971
+Festejar!
+
+1356
+01:19:21,252 --> 01:19:23,015
+-Valeu, parceiro.
+-Ajuda!
+
+1357
+01:19:28,192 --> 01:19:29,318
+Gente...
+
+1358
+01:19:29,561 --> 01:19:30,721
+foi mal eu ter sido tão...
+
+1359
+01:19:30,995 --> 01:19:32,826
+-Chester!
+-Eu mereço.
+
+1360
+01:19:33,064 --> 01:19:34,929
+Não, Flint! O Chester!
+
+1361
+01:19:37,135 --> 01:19:39,126
+EM CASO DE FALHA
+NO PLANO, QUEBRE O VIDRO
+
+1362
+01:19:43,174 --> 01:19:46,735
+Peguei o que eu quero.
+Curta seus amigos, Lockwood.
+
+1363
+01:19:48,846 --> 01:19:50,370
+Não faz isso!
+
+1364
+01:19:56,154 --> 01:19:57,018
+Comida!
+
+1365
+01:20:05,730 --> 01:20:08,426
+Se alguém vai garantir
+a segurança local aqui, sou eu.
+
+1366
+01:20:10,802 --> 01:20:12,895
+Tacodilo gigante.
+
+1367
+01:20:17,175 --> 01:20:17,937
+Fim de jogo, Chester.
+
+1368
+01:20:18,209 --> 01:20:21,269
+-Bigode!
+-Passa a FLDSMDFR.
+
+1369
+01:20:21,546 --> 01:20:23,036
+Não! Nunca!
+
+1370
+01:20:23,281 --> 01:20:24,213
+Chester...
+
+1371
+01:20:24,449 --> 01:20:25,973
+não tem pra onde fugir.
+
+1372
+01:20:27,385 --> 01:20:28,909
+É o que você pensa.
+
+1373
+01:20:29,187 --> 01:20:30,779
+Me salva, macaca!
+
+1374
+01:20:31,623 --> 01:20:32,954
+Sou primata!
+
+1375
+01:20:33,725 --> 01:20:36,922
+Macaca feia! Me dá isso!
+Macaca fe...
+
+1376
+01:20:40,765 --> 01:20:42,323
+Meus hologramas! Me salvem!
+
+1377
+01:20:42,600 --> 01:20:43,498
+Tem nosso apoio.
+
+1378
+01:20:43,768 --> 01:20:45,793
+-Vai ficar bem.
+-Vamos te salvar.
+
+1379
+01:20:46,070 --> 01:20:48,595
+Está vendo, Flint?
+Com meus hologramas...
+
+1380
+01:20:50,642 --> 01:20:52,075
+Ai, ferrou.
+
+1381
+01:20:58,583 --> 01:21:00,278
+Me salvei!
+
+1382
+01:21:11,796 --> 01:21:13,923
+O gosto deve ser péssimo.
+
+1383
+01:21:17,602 --> 01:21:20,036
+Acho que isso é de vocês.
+
+1384
+01:21:36,120 --> 01:21:37,519
+Pronto, colega.
+
+1385
+01:21:38,356 --> 01:21:40,187
+Tomara que funcione.
+
+1386
+01:21:58,776 --> 01:21:59,708
+Picles.
+
+1387
+01:21:59,977 --> 01:22:00,875
+Cheeseburger.
+
+1388
+01:22:01,145 --> 01:22:03,340
+Alho-poró.
+Morango.
+
+1389
+01:22:03,581 --> 01:22:05,208
+Banana.
+
+1390
+01:22:22,600 --> 01:22:25,592
+É de fazer homem feito chorar.
+
+1391
+01:22:25,870 --> 01:22:27,303
+E tudo bem.
+
+1392
+01:22:28,039 --> 01:22:30,030
+Pode ir, lágrima.
+
+1393
+01:22:38,583 --> 01:22:39,743
+Galera...
+
+1394
+01:22:40,518 --> 01:22:43,817
+acham que a gente ainda
+pode dar certo junto?
+
+1395
+01:22:44,055 --> 01:22:47,456
+A gente pode dar supercerto junto.
+
+1396
+01:22:50,728 --> 01:22:53,458
+Vem, chega aqui, Barb.
+
+1397
+01:23:10,348 --> 01:23:11,906
+Eu adorei.
+
+1398
+01:23:12,784 --> 01:23:13,944
+Primata!
+
+1399
+01:23:15,253 --> 01:23:16,948
+Macaco.
+
+1400
+01:23:18,356 --> 01:23:19,653
+Tô orgulhoso de você, filho.
+
+1401
+01:23:19,924 --> 01:23:21,050
+Valeu, pai.
+
+1402
+01:23:21,392 --> 01:23:23,758
+Mas ainda falta fazer uma coisa.
+
+1403
+01:23:23,995 --> 01:23:24,654
+BARCO DO TIM E FILHO
+
+1404
+01:23:25,763 --> 01:23:28,926
+Depois que você põe a isca assim...
+
+1405
+01:23:29,167 --> 01:23:30,896
+é só jogar no mar.
+
+1406
+01:23:31,135 --> 01:23:32,898
+Quer dizer, assim?
+
+1407
+01:23:33,905 --> 01:23:37,397
+Não, não. Vem. Eu mostro.
+
+1408
+01:23:37,642 --> 01:23:39,610
+O segredo tá na munheca. Assim.
+
+1409
+01:23:40,278 --> 01:23:42,246
+Fisga um grandão, moleque.
+
+1410
+01:23:42,480 --> 01:23:44,175
+-Eu tô pescando?
+-Tá.
+
+1411
+01:23:44,448 --> 01:23:46,143
+Eu tô pescando!
+
+1412
+01:23:48,019 --> 01:23:50,647
+Você pegou um. Recolhe, Flint.
+
+1413
+01:23:51,455 --> 01:23:54,447
+Isso, Firme, firme.
+Esse é brigão!
+
+1414
+01:23:57,762 --> 01:23:59,252
+Pesquei um!
+
+1415
+01:23:59,497 --> 01:24:01,397
+Pesquei um, pai!
+
+1416
+01:24:01,999 --> 01:24:04,900
+Vamos fazer isso de novo?
+Tipo, sempre?
+
+1417
+01:24:06,537 --> 01:24:07,834
+Claro, marujo.
+
+1418
+01:24:10,107 --> 01:24:13,008
+Sam, gente, pesquei meu primeiro peixe!
+
+1419
+01:24:13,711 --> 01:24:15,178
+Aê, Flint!
+
+1420
+01:24:15,613 --> 01:24:18,548
+Flint Lockwood,
+você é um pescador.
+
+1421
+01:24:18,816 --> 01:24:20,010
+Feliz.
+
+1422
+01:24:20,551 --> 01:24:22,678
+Olha lá! Arco-íris!
+
+1423
+01:24:27,959 --> 01:24:29,426
+NOVA BOCA DA MARÉ
+
+1424
+01:24:30,494 --> 01:24:31,984
+POPULAÇÃO: 603.582
+
+1425
+01:24:37,802 --> 01:24:39,201
+SPARKSWOOD
+Laboratório
+
+1426
+01:25:01,859 --> 01:25:02,848
+Morango.
+
+1427
+01:25:11,836 --> 01:25:12,666
+ESCOLA
+
+1428
+01:25:21,979 --> 01:25:24,072
+Fazenda Sushivelha do Frangão
+do Frango Brent
+
+1429
+01:25:36,060 --> 01:25:38,051
+Os Besterrabas Rebeldes
+
+1430
+01:25:43,734 --> 01:25:46,100
+pistas de
+sorvete derretido
+
+1431
+01:26:18,836 --> 01:26:20,269
+PRAIA DOS
+MARISCULTURISTAS
+
+1432
+01:26:29,480 --> 01:26:30,469
+SALSICHÃO EMPANADO
+
+1433
+01:27:01,145 --> 01:27:02,942
+Teatro de Bonecos
+
+1434
+01:27:06,317 --> 01:27:08,182
+HOJE TOURADA DE MATZÁ!
+
+1435
+01:27:27,238 --> 01:27:27,897
+SUSHI DO FRANGÃO
+
+1436
+01:27:38,883 --> 01:27:40,111
+BOLICHE
+
+1437
+01:27:48,726 --> 01:27:50,660
+FruTube
+
+1438
+01:28:04,575 --> 01:28:05,769
+Programa do Milho
+
+1439
+01:28:10,214 --> 01:28:11,408
+Biscoito da Sorte
+
+1440
+01:28:31,902 --> 01:28:33,301
+GARFOX
+
+1441
+01:28:34,171 --> 01:28:35,729
+Berry e Salada...
+Feitos Um Para o Outro
+
+1442
+01:28:56,193 --> 01:28:57,455
+Oi, Steve.
+
+1443
+01:28:58,329 --> 01:29:00,593
+Olá, Steven. Sou a Barb.
+
+1444
+01:29:00,831 --> 01:29:03,561
+Então, quer tomar
+um café um dia desses?
+
+1445
+01:29:03,801 --> 01:29:04,392
+Jantar!
+
+1446
+01:29:04,635 --> 01:29:05,966
+Melhor ainda!
+
+1447
+01:34:45,809 --> 01:34:47,800
+Tradução:
+Monika Pecegueiro do Amaral
+
