@@ -1,0 +1,5111 @@
+1
+00:00:34,866 --> 00:00:38,833
+<i>Descreva a última pessoa</i>
+<i>com quem teve um relacionamento.</i>
+
+2
+00:00:39,100 --> 00:00:40,733
+<i>Ele era solitário.</i>
+
+3
+00:00:41,133 --> 00:00:42,966
+<i>Ele...</i>
+
+4
+00:00:43,766 --> 00:00:45,733
+<i>Não era uma escolha óbvia.</i>
+
+5
+00:00:46,000 --> 00:00:49,566
+{\an5}<i>Ele precisava</i>
+<i>se permitir ser amado.</i>
+
+6
+00:00:51,200 --> 00:00:54,033
+{\an5}<i>Nós tentamos.</i>
+<i>Não deu certo.</i>
+
+7
+00:00:55,066 --> 00:00:56,500
+<i>Se seu cão estivesse doente</i>
+
+8
+00:00:56,533 --> 00:00:59,533
+<i>e precisasse amputar as patas</i>
+<i>dianteiras para sobreviver,</i>
+
+9
+00:00:59,566 --> 00:01:02,833
+<i>você permitiria a cirurgia</i>
+<i>ou sacrificaria o cachorro?</i>
+
+10
+00:01:03,133 --> 00:01:04,966
+Eu permitiria a cirurgia.
+
+11
+00:01:05,000 --> 00:01:09,200
+<i>O que atrai você</i>
+<i>em um parceiro em potencial?</i>
+
+12
+00:01:09,233 --> 00:01:13,066
+As coisas que ele ama.
+As coisas que ele quer ser.
+
+13
+00:01:13,866 --> 00:01:18,033
+Se ele gosta de panqueca
+ou de rabanada.
+
+14
+00:01:19,066 --> 00:01:21,400
+<i>Você ajudaria uma pessoa</i>
+<i>amada a se suicidar</i>
+
+15
+00:01:21,433 --> 00:01:23,533
+<i>se fosse a escolha dela?</i>
+
+16
+00:01:28,900 --> 00:01:30,566
+<i>Você está bem, Zoe?</i>
+
+17
+00:01:31,133 --> 00:01:34,633
+Estou. É só que...
+
+18
+00:01:35,433 --> 00:01:37,100
+É engraçado fazer isto
+
+19
+00:01:37,133 --> 00:01:40,300
+depois de ter trabalhado
+tanto tempo com você, só isso...
+
+20
+00:01:40,333 --> 00:01:44,066
+<i>-Prefere que eu me retire?</i></i>
+<i>-Não, tudo bem.</i>
+
+21
+00:01:44,100 --> 00:01:45,200
+Certo.
+
+22
+00:01:45,233 --> 00:01:47,533
+Eu acho que... Não sei.
+
+23
+00:01:48,066 --> 00:01:50,333
+Minha resposta é:
+não tenho certeza.
+
+24
+00:01:50,366 --> 00:01:53,500
+<i>O que quer que seu parceiro</i>
+<i>veja em você?</i>
+
+25
+00:02:29,900 --> 00:02:31,633
+<i>Depois que passamos</i>
+<i>pela Máquina,</i>
+
+26
+00:02:31,666 --> 00:02:33,733
+<i>nosso relacionamento</i>
+<i>mudou completamente.</i>
+
+27
+00:02:33,766 --> 00:02:36,600
+<i>A maneira como nos víamos</i>
+
+28
+00:02:36,633 --> 00:02:39,233
+<i>e como tudo será no futuro.</i>
+
+29
+00:02:39,266 --> 00:02:41,866
+<i>-Tiramos 81% na Máquina.</i>
+<i>-É.</i>
+
+30
+00:02:41,900 --> 00:02:46,300
+<i>Ter essa resposta definitiva</i>
+<i>de que vai dar certo e...</i>
+
+31
+00:02:53,233 --> 00:02:56,566
+<i>No Relationist Lab,</i>
+<i>o designer-chefe Cole Ainsley</i>
+
+32
+00:02:56,600 --> 00:03:00,200
+<i>vem fazendo um trabalho inovador</i>
+<i>com inteligência artificial</i>
+
+33
+00:03:00,233 --> 00:03:02,000
+{\an8}<i>há quase 15 anos.</i>
+
+34
+00:03:02,033 --> 00:03:03,766
+{\an8}Uma das coisas
+mais importantes
+
+35
+00:03:03,800 --> 00:03:06,566
+{\an8}da nossa experiência
+como humanos é a conexão.
+
+36
+00:03:06,600 --> 00:03:08,500
+{\an8}Sempre buscamos uma conexão.
+
+37
+00:03:08,533 --> 00:03:11,733
+<i>Quando o conselho identificou</i>
+<i>companheiros sintéticos</i>
+
+38
+00:03:11,766 --> 00:03:13,466
+<i>como a próxima área</i>
+<i>de crescimento,</i>
+
+39
+00:03:13,500 --> 00:03:16,766
+<i>eles contrataram Ainsley</i>
+<i>para administrar o departamento.</i>
+
+40
+00:03:16,800 --> 00:03:19,500
+Não tenho nada a ver
+com o lado farmacêutico.
+
+41
+00:03:19,533 --> 00:03:22,100
+Estou concentrado
+no laboratório sintético.
+
+42
+00:03:22,133 --> 00:03:26,100
+{\an8}Então isto, por exemplo,
+é como uma pesquisa para você?
+
+43
+00:03:26,133 --> 00:03:28,300
+Isto é ótimo
+se você quiser um paisagista.
+
+44
+00:03:28,333 --> 00:03:31,533
+Mas não estou interessado
+em limpar o banco,
+
+45
+00:03:31,566 --> 00:03:34,133
+e sim em com quem
+eu vou me sentar nele.
+
+46
+00:03:34,166 --> 00:03:36,833
+Meu desejo é criar
+pessoas sintéticas
+
+47
+00:03:36,866 --> 00:03:39,633
+que se tornarão
+companhias para nós.
+
+48
+00:03:39,666 --> 00:03:40,966
+No final das contas,
+
+49
+00:03:41,000 --> 00:03:43,933
+a ideia de que estamos seguros,
+de que vai durar,
+
+50
+00:03:43,966 --> 00:03:47,300
+de que eles não vão...
+
+51
+00:03:48,333 --> 00:03:50,600
+de que não vão nos deixar,
+é importante.
+
+52
+00:03:50,633 --> 00:03:52,700
+Seria importante para mim,
+então...
+
+53
+00:03:53,066 --> 00:03:55,833
+<i>Melhorar a vida através</i>
+<i>de relacionamentos melhores</i>
+
+54
+00:03:55,866 --> 00:03:57,566
+<i>é a missão do laboratório.</i>
+
+55
+00:04:03,533 --> 00:04:05,733
+-Ele está pronto para mais.
+-É, está.
+
+56
+00:04:05,766 --> 00:04:07,766
+Somos a startup
+que mais cresce
+
+57
+00:04:07,800 --> 00:04:09,833
+no mercado
+de relacionamento humano.
+
+58
+00:04:09,866 --> 00:04:11,400
+Temos três divisões:
+
+59
+00:04:11,833 --> 00:04:14,033
+Máquina,
+Produtos Farmacêuticos
+
+60
+00:04:14,066 --> 00:04:16,033
+e nosso mais novo projeto,
+
+61
+00:04:16,066 --> 00:04:17,733
+Companheiros Sintéticos.
+
+62
+00:04:17,766 --> 00:04:21,566
+Eu supervisiono o laboratório
+e comando a Divisão da Máquina.
+
+63
+00:04:21,600 --> 00:04:24,033
+Na Máquina, nós avaliamos
+solteiros ou casais.
+
+64
+00:04:24,066 --> 00:04:26,966
+Para os solteiros, procuramos
+o companheiro perfeito.
+
+65
+00:04:27,000 --> 00:04:30,700
+A Máquina apresenta um número:
+40%, 60%...
+
+66
+00:04:30,733 --> 00:04:32,833
+Ela dá a probabilidade
+de duas pessoas
+
+67
+00:04:32,866 --> 00:04:35,266
+terem um relacionamento
+feliz e duradouro.
+
+68
+00:04:35,300 --> 00:04:38,833
+É perfeito para quem quer saber
+se deve dar o próximo passo.
+
+69
+00:04:39,066 --> 00:04:41,466
+Mas os números não mentem.
+
+70
+00:04:41,500 --> 00:04:44,933
+Temos uma taxa de precisão
+documentada de mais de 90%.
+
+71
+00:04:44,966 --> 00:04:48,866
+Mas dizemos que o futuro
+não está nos computadores,
+
+72
+00:04:48,900 --> 00:04:50,433
+está dentro de vocês.
+
+73
+00:07:15,400 --> 00:07:17,533
+Responda com sinceridade.
+
+74
+00:07:17,833 --> 00:07:19,766
+É só isso que precisa fazer.
+
+75
+00:07:22,466 --> 00:07:24,333
+-Boa noite.
+-Boa noite.
+
+76
+00:07:24,366 --> 00:07:27,600
+<i>...ter essa resposta definitiva</i>
+<i>de que vai dar certo,</i>
+
+77
+00:07:27,633 --> 00:07:30,300
+<i>de que vai ser algo</i>
+<i>pra valer...</i>
+
+78
+00:07:41,033 --> 00:07:43,433
+-Oi.
+-Oi.
+
+79
+00:07:43,466 --> 00:07:46,066
+-Quer um pouco de cafeína?
+-Quero, sim.
+
+80
+00:07:46,100 --> 00:07:47,866
+Veio na hora certa.
+Obrigado.
+
+81
+00:07:50,600 --> 00:07:52,333
+Você avançou muito.
+
+82
+00:07:52,366 --> 00:07:54,966
+Os biossistemas de alimentação
+estão funcionando.
+
+83
+00:07:55,000 --> 00:07:57,500
+Ele estará pronto para
+a conferência de tecnologia.
+
+84
+00:07:57,533 --> 00:08:00,533
+-Posso falar com ele?
+-Ele ainda não está pronto.
+
+85
+00:08:01,533 --> 00:08:04,200
+Será que ele verá o mundo
+como você?
+
+86
+00:08:04,233 --> 00:08:06,066
+Já que você o projetou.
+
+87
+00:08:07,166 --> 00:08:08,633
+Desculpe.
+
+88
+00:08:08,666 --> 00:08:11,800
+Acho que é algo pessoal.
+Sinto muito.
+
+89
+00:08:11,833 --> 00:08:14,533
+Não... Não, tudo bem.
+
+90
+00:08:14,566 --> 00:08:16,833
+Sente.
+Quero mostrar uma coisa.
+
+91
+00:08:19,000 --> 00:08:22,733
+Dei a ele uma coisa chamada
+"pacotes emocionais".
+
+92
+00:08:22,766 --> 00:08:25,800
+São lembranças reais
+sobre fatos emocionantes.
+
+93
+00:08:25,833 --> 00:08:28,500
+Observe os músculos faciais
+sintéticos,
+
+94
+00:08:28,533 --> 00:08:31,133
+a postura corporal,
+a maneira como ele fala.
+
+95
+00:08:33,200 --> 00:08:35,766
+Com as emoções,
+nós começamos com o físico
+
+96
+00:08:35,799 --> 00:08:38,200
+e então partimos
+para o interior, entende?
+
+97
+00:08:43,900 --> 00:08:45,466
+Espere um pouquinho.
+
+98
+00:08:49,733 --> 00:08:51,900
+Vai ser diferente
+daqui para frente?
+
+99
+00:08:54,200 --> 00:08:55,966
+Será...
+
+100
+00:08:56,900 --> 00:08:58,666
+Será que ela vai
+me trair de novo?
+
+101
+00:09:04,833 --> 00:09:06,433
+Tem como aumentar?
+
+102
+00:09:06,466 --> 00:09:09,000
+Deve haver uma maneira
+de aumentar a porcentagem.
+
+103
+00:09:13,900 --> 00:09:16,866
+Preciso de um motivo
+para ter esperança.
+
+104
+00:09:18,466 --> 00:09:20,500
+Será que eu vou odiá-la?
+
+105
+00:09:23,000 --> 00:09:24,800
+Será que eu a odeio?
+
+106
+00:09:26,900 --> 00:09:29,066
+Será que algum dia
+vou superar isso?
+
+107
+00:09:34,000 --> 00:09:35,800
+Com quem ele está falando?
+
+108
+00:09:36,866 --> 00:09:40,800
+Foi uma conversa
+que eu tive com a Máquina.
+
+109
+00:09:40,833 --> 00:09:43,766
+A Emma e eu tiramos
+uma porcentagem baixa
+
+110
+00:09:43,800 --> 00:09:46,133
+e nunca superamos isso.
+
+111
+00:09:46,433 --> 00:09:50,500
+A memória ajuda a criar
+a infraestrutura emocional dele.
+
+112
+00:09:50,533 --> 00:09:54,366
+No final, apagamos a memória,
+mas a infraestrutura permanece.
+
+113
+00:09:55,466 --> 00:09:58,233
+Então,
+de uma maneira muito real,
+
+114
+00:09:59,033 --> 00:10:01,500
+o estamos ensinando
+a ter sentimentos.
+
+115
+00:10:01,966 --> 00:10:04,800
+Sinto muito. Eu não sabia.
+
+116
+00:10:04,833 --> 00:10:07,266
+Não, tudo bem.
+São apenas números.
+
+117
+00:10:07,300 --> 00:10:10,900
+Padrões de ativação.
+Parecem emoções verdadeiras.
+
+118
+00:10:11,900 --> 00:10:13,966
+Ele é incrível. Sério.
+
+119
+00:10:14,000 --> 00:10:18,866
+Ninguém mais se sentirá sozinho
+ou sentirá esse tipo de dor.
+
+120
+00:10:24,566 --> 00:10:26,466
+É a Emma. Tenho que ir.
+
+121
+00:10:27,900 --> 00:10:29,500
+Cole.
+
+122
+00:10:30,433 --> 00:10:32,000
+-Eu...
+-Eu...
+
+123
+00:10:32,033 --> 00:10:34,133
+Vejo você amanhã, está bem?
+
+124
+00:10:34,166 --> 00:10:36,033
+-Está bem.
+-Certo.
+
+125
+00:10:36,066 --> 00:10:37,666
+Beleza.
+
+126
+00:10:45,033 --> 00:10:48,366
+Está vendo?
+Ficou completo agora. Veja.
+
+127
+00:10:48,400 --> 00:10:51,500
+-Vou dormir numa barraca hoje.
+-Legal.
+
+128
+00:10:51,533 --> 00:10:53,833
+-Lembra quando fomos acampar?
+-Lembro.
+
+129
+00:10:53,866 --> 00:10:55,733
+-Não tínhamos balões, mas...
+-É.
+
+130
+00:10:55,766 --> 00:10:57,433
+Da próxima vez,
+deveríamos levar.
+
+131
+00:10:57,466 --> 00:11:00,166
+-Tem algum preto?
+-Tem. Aqui está.
+
+132
+00:11:00,200 --> 00:11:03,133
+-Serve? Ou é muito grosso?
+-Está bom.
+
+133
+00:11:03,866 --> 00:11:05,633
+Você fez este antes?
+
+134
+00:11:10,800 --> 00:11:12,866
+Ficou muito bom.
+
+135
+00:11:13,166 --> 00:11:15,733
+Muito bom mesmo.
+Foi você quem desenhou?
+
+136
+00:11:15,766 --> 00:11:17,166
+Sim.
+
+137
+00:11:25,166 --> 00:11:29,566
+A Art Week cancelou,
+e a Raw Vision também, então...
+
+138
+00:11:31,333 --> 00:11:33,066
+Onde você encontrou isso?
+
+139
+00:11:34,266 --> 00:11:35,433
+Estava no porão.
+
+140
+00:11:35,466 --> 00:11:38,266
+Eu ia usá-la
+para fazer alguma coisa.
+
+141
+00:11:38,300 --> 00:11:41,000
+-Uma montagem, sei lá. Pode ser?
+-Sim, claro.
+
+142
+00:11:41,033 --> 00:11:43,366
+Eu a projetei
+quando nos divorciamos.
+
+143
+00:11:43,400 --> 00:11:45,200
+Para quem não quer
+dormir sozinho.
+
+144
+00:11:45,233 --> 00:11:46,566
+É algo positivo, certo?
+
+145
+00:11:46,600 --> 00:11:48,300
+-Que resultou do divórcio?
+-É.
+
+146
+00:11:48,333 --> 00:11:50,133
+Ela ainda tem
+calor corporal.
+
+147
+00:11:50,166 --> 00:11:51,833
+Mas a funcionalidade
+é limitada.
+
+148
+00:11:51,866 --> 00:11:53,933
+Só alguns
+padrões respiratórios.
+
+149
+00:11:53,966 --> 00:11:56,033
+Isso foi ingênuo
+da minha parte.
+
+150
+00:11:56,533 --> 00:11:59,200
+Impediu algumas pessoas
+de ficarem solitárias.
+
+151
+00:11:59,233 --> 00:12:02,900
+-É meio assustador.
+-Dormir sozinho é mais.
+
+152
+00:12:02,933 --> 00:12:05,833
+Não, na verdade, dormir com ela
+é muito assustador.
+
+153
+00:12:07,433 --> 00:12:11,433
+Obrigada por ter vindo hoje.
+Foi muito gentil da sua parte.
+
+154
+00:12:11,466 --> 00:12:13,533
+Claro,
+eu não perderia por nada.
+
+155
+00:12:13,900 --> 00:12:16,000
+Eu gostei.
+Achei que estava muito bom.
+
+156
+00:12:16,033 --> 00:12:17,833
+-Obrigada.
+-Foi uma boa exposição.
+
+157
+00:12:17,866 --> 00:12:19,433
+Obrigada.
+
+158
+00:12:20,866 --> 00:12:23,000
+Olha, eu posso...
+
+159
+00:12:24,133 --> 00:12:26,700
+Eu posso ir ou...
+
+160
+00:12:26,733 --> 00:12:28,700
+posso ficar.
+
+161
+00:12:30,933 --> 00:12:33,400
+Eu comecei a sair
+com uma pessoa.
+
+162
+00:12:34,966 --> 00:12:38,066
+Quero dizer,
+estou tentando...
+
+163
+00:12:38,333 --> 00:12:41,166
+-Só estou tentando...
+-Claro.
+
+164
+00:12:41,200 --> 00:12:43,200
+Eu tenho que acordar cedo
+amanhã.
+
+165
+00:12:43,233 --> 00:12:47,066
+Por que você não tira
+umas férias do trabalho?
+
+166
+00:12:47,100 --> 00:12:50,766
+Eu quero que tenha
+tempo para você.
+
+167
+00:12:50,800 --> 00:12:52,533
+Talvez conheça alguém.
+
+168
+00:12:52,566 --> 00:12:55,433
+Temos muito trabalho.
+A conferência está chegando,
+
+169
+00:12:55,466 --> 00:12:58,100
+e o conselho quer que a gente
+exponha o trabalho.
+
+170
+00:12:58,133 --> 00:13:01,766
+Eu entendo. Eu sei, eu sei.
+Mas é sempre...
+
+171
+00:13:01,800 --> 00:13:04,733
+-Você sempre tem trabalho.
+-Mas eu estou bem.
+
+172
+00:13:04,766 --> 00:13:06,200
+-Está mesmo?
+-Estou.
+
+173
+00:13:07,033 --> 00:13:08,966
+-Em, estou bem.
+-Acho que não está.
+
+174
+00:13:09,000 --> 00:13:10,733
+Não, eu estou bem.
+
+175
+00:13:11,533 --> 00:13:14,400
+Não a use numa...
+
+176
+00:13:14,700 --> 00:13:17,666
+Não a use, está bem?
+Acho que a quero de volta.
+
+177
+00:13:17,700 --> 00:13:20,100
+-Sério? Tudo bem.
+-É. Só para...
+
+178
+00:13:20,133 --> 00:13:23,266
+Eu que a fiz, então...
+Até mais.
+
+179
+00:14:08,966 --> 00:14:10,566
+Zoe.
+
+180
+00:14:11,633 --> 00:14:13,833
+Eu trouxe café.
+Quer um pouco?
+
+181
+00:14:14,166 --> 00:14:16,200
+Não, obrigada.
+Eu não bebo café.
+
+182
+00:14:16,233 --> 00:14:18,066
+Ah, bem...
+
+183
+00:14:18,333 --> 00:14:20,200
+Pelo menos
+temos algo em comum.
+
+184
+00:14:24,300 --> 00:14:26,466
+-Quando você foi ativado?
+-Esta manhã.
+
+185
+00:14:26,500 --> 00:14:29,533
+Estou fazendo pesquisas,
+lendo um pouco.
+
+186
+00:14:45,700 --> 00:14:47,800
+Sua pele é...
+
+187
+00:14:50,900 --> 00:14:53,066
+mais macia do que a minha.
+
+188
+00:14:55,900 --> 00:14:57,333
+Desculpe.
+
+189
+00:14:59,700 --> 00:15:02,466
+Cole quer iniciar
+a minha socialização.
+
+190
+00:15:03,100 --> 00:15:05,200
+Pedi para aprender a dançar.
+
+191
+00:15:06,633 --> 00:15:08,333
+Boa ideia.
+
+192
+00:15:09,000 --> 00:15:12,566
+Mas talvez devêssemos começar
+pelo que você tem lido.
+
+193
+00:15:12,600 --> 00:15:15,333
+Está bem. Vamos fazer isso.
+
+194
+00:15:25,666 --> 00:15:29,900
+As chances de um relacionamento
+bem-sucedido são de 75%.
+
+195
+00:15:32,300 --> 00:15:34,266
+Parabéns.
+
+196
+00:15:36,066 --> 00:15:37,900
+<i>Os seres humanos</i>
+<i>não podem evitar</i>
+
+197
+00:15:37,933 --> 00:15:40,000
+<i>se decepcionar</i>
+<i>nos relacionamentos.</i>
+
+198
+00:15:40,033 --> 00:15:42,100
+<i>Nós tentamos,</i>
+<i>mas não há como evitar.</i>
+
+199
+00:15:42,133 --> 00:15:45,033
+<i>As pessoas sintéticas</i>
+<i>serão capazes de nos entender,</i>
+
+200
+00:15:45,066 --> 00:15:49,700
+<i>de ler os nossos sentimentos</i>
+<i>e necessidades emocionais.</i>
+
+201
+00:16:00,233 --> 00:16:03,700
+Coloco esta mão nas suas costas
+para guiar você.
+
+202
+00:16:03,733 --> 00:16:06,133
+-Certo.
+-Você está se saindo bem.
+
+203
+00:16:06,166 --> 00:16:08,366
+-Muito bem, desse jeito.
+-Certo.
+
+204
+00:16:08,400 --> 00:16:11,366
+-E depois?
+-Agora nós fazemos assim...
+
+205
+00:16:13,400 --> 00:16:16,933
+E então voltamos.
+Basicamente só mexemos os pés.
+
+206
+00:16:16,966 --> 00:16:19,533
+-Certo.
+-Tente olhar nos olhos dela.
+
+207
+00:16:19,566 --> 00:16:21,966
+Está dançando
+com uma mulher linda.
+
+208
+00:16:22,000 --> 00:16:23,933
+-Linda.
+-É um gesto romântico.
+
+209
+00:16:23,966 --> 00:16:26,966
+E agora podemos girar.
+Vamos girar no sentido horário.
+
+210
+00:16:27,000 --> 00:16:29,133
+-Assim, está vendo?
+-Certo.
+
+211
+00:16:29,366 --> 00:16:30,633
+Veja!
+
+212
+00:16:31,033 --> 00:16:33,233
+E aí, Zoe?
+O que acha do Fred Astaire?
+
+213
+00:16:33,266 --> 00:16:35,366
+Ele é muito bom.
+
+214
+00:16:35,400 --> 00:16:36,566
+Vamos.
+
+215
+00:16:37,466 --> 00:16:39,033
+Eu queria perguntar
+uma coisa.
+
+216
+00:16:39,066 --> 00:16:42,500
+Será que posso ser avaliada
+pela Máquina?
+
+217
+00:16:43,633 --> 00:16:45,066
+Tudo bem.
+
+218
+00:16:45,100 --> 00:16:48,533
+-É mesmo?
+-Claro, podemos fazer isso.
+
+219
+00:16:49,033 --> 00:16:51,266
+-Tudo bem.
+-Legal.
+
+220
+00:16:51,700 --> 00:16:53,600
+Convide-a para dançar.
+
+221
+00:16:55,133 --> 00:16:57,766
+Zoe, você quer dançar?
+
+222
+00:16:58,466 --> 00:16:59,933
+Claro.
+
+223
+00:17:02,300 --> 00:17:03,566
+E...
+
+224
+00:17:06,200 --> 00:17:09,133
+-Estou olhando para a bela dama.
+-Muito bem.
+
+225
+00:17:09,166 --> 00:17:10,700
+-Assim?
+-É.
+
+226
+00:17:10,733 --> 00:17:12,700
+-Certo.
+-Isto é legal.
+
+227
+00:17:14,033 --> 00:17:17,266
+<i>O que quer que seu parceiro</i>
+<i>veja em você?</i>
+
+228
+00:17:24,300 --> 00:17:26,200
+Eu gostaria...
+
+229
+00:17:27,333 --> 00:17:30,566
+Eu gostaria que ele visse coisas
+que ninguém mais vê.
+
+230
+00:17:31,233 --> 00:17:35,900
+<i>O que gostaria que seu parceiro</i>
+<i>não soubesse sobre você?</i>
+
+231
+00:17:43,366 --> 00:17:45,566
+Eu era gorda.
+
+232
+00:17:46,400 --> 00:17:48,233
+Muito gorda.
+
+233
+00:17:49,900 --> 00:17:52,900
+O tipo de gorda
+que torna uma pessoa invisível.
+
+234
+00:17:54,466 --> 00:17:59,366
+E... acho que ainda
+tenho problemas com comida.
+
+235
+00:18:02,200 --> 00:18:05,966
+Mas eu gostaria
+que ele não soubesse disso.
+
+236
+00:18:15,933 --> 00:18:18,200
+-Você está bem, Zoe?
+-Estou.
+
+237
+00:18:18,600 --> 00:18:20,800
+É mais fácil estar
+do outro lado.
+
+238
+00:18:45,466 --> 00:18:47,500
+Calcule
+a nossa compatibilidade.
+
+239
+00:18:47,766 --> 00:18:49,700
+<i>Um momento, por favor.</i>
+
+240
+00:18:52,133 --> 00:18:56,100
+<i>As chances de um relacionamento</i>
+<i>bem-sucedido para este par</i>
+
+241
+00:18:56,133 --> 00:18:58,000
+<i>são de 0%.</i>
+
+242
+00:19:02,700 --> 00:19:06,000
+Há uma razão para a porcentagem
+ser tão baixa?
+
+243
+00:19:06,466 --> 00:19:09,833
+<i>Existe uma incompatibilidade</i>
+<i>fundamental.</i>
+
+244
+00:19:31,566 --> 00:19:32,933
+-Oi.
+-Oi.
+
+245
+00:19:32,966 --> 00:19:34,800
+-Tudo bem?
+-Tudo, sim.
+
+246
+00:19:34,833 --> 00:19:36,700
+-Está se sentindo bem?
+-Estou.
+
+247
+00:19:37,500 --> 00:19:39,966
+Só pra confirmar.
+Às vezes, depois da avaliação,
+
+248
+00:19:40,000 --> 00:19:43,233
+-as pessoas se sentem estranhas.
+-Eu estou bem.
+
+249
+00:19:43,633 --> 00:19:46,166
+Eu só precisava
+de um pouco de ar, só isso.
+
+250
+00:19:46,200 --> 00:19:49,333
+-Tem certeza?
+-Sim, está tudo bem.
+
+251
+00:19:49,366 --> 00:19:50,700
+E você? O que está fazendo?
+
+252
+00:19:50,733 --> 00:19:53,133
+Estou trabalhando com Ash.
+Há muito o que fazer.
+
+253
+00:19:53,166 --> 00:19:54,633
+-Entendi.
+-É.
+
+254
+00:19:56,466 --> 00:19:59,333
+-Boa noite.
+-Certo. Vejo você amanhã.
+
+255
+00:19:59,366 --> 00:20:01,466
+-É, até amanhã.
+-Vejo você aqui.
+
+256
+00:20:01,500 --> 00:20:04,233
+-Certo. Tenha uma boa noite.
+-Você também.
+
+257
+00:20:23,666 --> 00:20:26,400
+O nível de serotonina
+aumentou 30%.
+
+258
+00:20:35,400 --> 00:20:37,866
+-O que é isso?
+-Faz parte de um teste clínico
+
+259
+00:20:37,900 --> 00:20:40,833
+de um medicamento novo:
+benzomorfodona.
+
+260
+00:20:40,866 --> 00:20:42,900
+Será vendido como Benysol.
+
+261
+00:20:42,933 --> 00:20:44,033
+O que ele cura?
+
+262
+00:20:44,066 --> 00:20:46,833
+Nada. Quando ingerido
+com outra pessoa,
+
+263
+00:20:46,866 --> 00:20:50,200
+ativa a sequência de hormônios
+e neurotransmissores
+
+264
+00:20:50,233 --> 00:20:52,133
+de quando
+estamos apaixonados.
+
+265
+00:20:52,166 --> 00:20:54,133
+Não causa euforia
+nem mudanças de humor,
+
+266
+00:20:54,166 --> 00:20:55,933
+como outros medicamentos.
+
+267
+00:20:55,966 --> 00:20:58,333
+Isto é novo
+e totalmente diferente.
+
+268
+00:20:58,866 --> 00:21:01,800
+Esses dois são casados
+há 35 anos.
+
+269
+00:21:01,833 --> 00:21:03,700
+Mas o Benysol
+dá acesso a algo
+
+270
+00:21:03,733 --> 00:21:06,133
+que ninguém sente
+mais de uma vez:
+
+271
+00:21:06,766 --> 00:21:08,900
+se apaixonar
+pela primeira vez.
+
+272
+00:21:09,833 --> 00:21:12,000
+Esse momento
+está em cada comprimido.
+
+273
+00:21:19,133 --> 00:21:21,266
+Você...
+
+274
+00:21:23,900 --> 00:21:25,966
+Você usaria
+essa droga comigo?
+
+275
+00:21:27,766 --> 00:21:30,166
+Eu gostaria
+que fôssemos um casal.
+
+276
+00:21:30,200 --> 00:21:33,666
+Ash, o que você está sentindo
+é um programa.
+
+277
+00:21:34,300 --> 00:21:35,966
+Zeros e uns.
+
+278
+00:21:36,000 --> 00:21:39,000
+Máquinas não sentem
+o mesmo que os humanos.
+
+279
+00:21:41,533 --> 00:21:43,166
+É.
+
+280
+00:21:48,100 --> 00:21:51,700
+Acho que sua socialização
+não deveria ser no laboratório.
+
+281
+00:21:54,166 --> 00:21:56,300
+Ele parece
+totalmente à vontade.
+
+282
+00:21:57,566 --> 00:22:00,233
+É, ele está tranquilo.
+
+283
+00:22:05,333 --> 00:22:07,366
+Está indo muito bem.
+
+284
+00:22:09,633 --> 00:22:12,166
+Acho que ele está tentando
+falar francês.
+
+285
+00:22:20,700 --> 00:22:23,300
+-Que bom que você veio hoje!
+-Também acho.
+
+286
+00:22:23,333 --> 00:22:27,333
+Eu gostaria de beber
+alguma coisa lá embaixo.
+
+287
+00:22:27,900 --> 00:22:29,366
+O que tem lá embaixo?
+
+288
+00:22:30,866 --> 00:22:32,133
+Venha.
+
+289
+00:22:39,266 --> 00:22:40,733
+Venha.
+
+290
+00:22:45,800 --> 00:22:48,466
+-Quero mostrar uma coisa.
+-O quê?
+
+291
+00:22:57,400 --> 00:22:59,266
+É um bordel de robôs.
+
+292
+00:22:59,733 --> 00:23:03,366
+Eu estava curiosa para ver
+como usavam os sintéticos.
+
+293
+00:23:04,100 --> 00:23:07,700
+-Eu não sabia deste lugar.
+-Achei que você fosse gostar.
+
+294
+00:23:07,733 --> 00:23:11,300
+Não é ilegal porque não pagam
+para estar com uma pessoa.
+
+295
+00:23:21,633 --> 00:23:23,366
+Aquela é a Jewels.
+
+296
+00:23:23,933 --> 00:23:26,633
+Ela tem o sistema operacional
+mais avançado.
+
+297
+00:23:28,366 --> 00:23:30,500
+Posso ativar uma para você,
+se quiser.
+
+298
+00:23:30,533 --> 00:23:32,466
+-Desculpe?
+-A Jewels está ocupada.
+
+299
+00:23:32,500 --> 00:23:35,166
+Mas qualquer uma
+dirá o que você quiser,
+
+300
+00:23:35,200 --> 00:23:36,966
+fará o que você quiser,
+
+301
+00:23:37,200 --> 00:23:39,566
+levará você a lugares
+onde nunca esteve.
+
+302
+00:23:39,600 --> 00:23:41,566
+Ela sabe o que você
+está fazendo?
+
+303
+00:23:41,600 --> 00:23:45,566
+Aquela ali? Ela está prestes
+a ser desativada.
+
+304
+00:23:45,966 --> 00:23:48,966
+Ela não está preocupada,
+com medo nem nada disso.
+
+305
+00:23:49,400 --> 00:23:52,200
+Mas você pode ficar com ela
+nos momentos finais,
+
+306
+00:23:52,233 --> 00:23:54,833
+se é disso que gosta.
+
+307
+00:23:55,833 --> 00:23:57,933
+Porque ela não existe.
+
+308
+00:24:06,000 --> 00:24:07,366
+Cole.
+
+309
+00:24:07,400 --> 00:24:08,933
+Cole, espere.
+
+310
+00:24:09,366 --> 00:24:12,466
+Espere. Eu sinto muito.
+
+311
+00:24:13,100 --> 00:24:15,000
+Não foi por isso
+que eu te trouxe.
+
+312
+00:24:15,033 --> 00:24:17,100
+Eu sei, eu sei.
+
+313
+00:24:18,133 --> 00:24:20,233
+Sabe, naquele dia...
+
+314
+00:24:20,466 --> 00:24:23,333
+Depois da avaliação da Máquina,
+eu fiz uma coisa.
+
+315
+00:24:23,366 --> 00:24:25,366
+Comparei
+a nossa compatibilidade.
+
+316
+00:24:25,400 --> 00:24:27,966
+-Zoe...
+-Deu 0%.
+
+317
+00:24:29,366 --> 00:24:34,333
+Eu acho que não faz
+nenhum sentido, sabe?
+
+318
+00:24:34,600 --> 00:24:37,100
+Por causa do que eu sinto.
+
+319
+00:24:37,133 --> 00:24:39,033
+Eu...
+
+320
+00:24:39,266 --> 00:24:42,533
+Eu me pergunto o tempo todo
+se você pensa em mim.
+
+321
+00:24:44,233 --> 00:24:45,933
+Zoe.
+
+322
+00:24:47,400 --> 00:24:49,266
+Não...
+
+323
+00:24:49,833 --> 00:24:53,800
+-Não é assim.
+-Eu só achei que...
+
+324
+00:24:54,933 --> 00:24:57,233
+você pudesse sentir o mesmo.
+
+325
+00:25:02,266 --> 00:25:04,233
+Preciso te mostrar
+uma coisa.
+
+326
+00:25:17,700 --> 00:25:19,266
+Por que me trouxe para casa?
+
+327
+00:25:19,300 --> 00:25:21,333
+Quero conversar com você
+sobre algo.
+
+328
+00:25:25,333 --> 00:25:27,433
+Você tem a chave
+do meu apartamento?
+
+329
+00:25:27,466 --> 00:25:29,200
+Tenho uma cópia, sim.
+
+330
+00:25:31,866 --> 00:25:34,566
+-O que é isso, Cole?
+-Entre. Vamos...
+
+331
+00:25:35,400 --> 00:25:38,366
+Vamos sentar.
+Eu quero explicar.
+
+332
+00:25:41,233 --> 00:25:42,966
+Sente.
+
+333
+00:25:45,600 --> 00:25:48,366
+-Você confia em mim, certo?
+-Confio.
+
+334
+00:25:48,400 --> 00:25:51,600
+Certo. Já pesquisou seu nome
+na internet?
+
+335
+00:25:53,166 --> 00:25:55,500
+Já, quando eu era mais nova.
+
+336
+00:25:55,533 --> 00:25:58,033
+Mas não nos últimos meses,
+certo?
+
+337
+00:25:58,066 --> 00:26:00,566
+Não. Por quê?
+
+338
+00:26:00,600 --> 00:26:03,900
+Você ficaria surpresa ao ver
+que não há muita coisa.
+
+339
+00:26:04,466 --> 00:26:07,433
+Nada sobre ter entrado cedo
+na faculdade ou...
+
+340
+00:26:07,466 --> 00:26:10,100
+Não há nenhum comunicado
+sobre a sua contratação
+
+341
+00:26:10,133 --> 00:26:12,066
+como chefe
+da Divisão da Máquina.
+
+342
+00:26:12,100 --> 00:26:15,166
+Nada sobre quem você é.
+
+343
+00:26:17,633 --> 00:26:19,866
+Por que tem a chave
+do meu apartamento?
+
+344
+00:26:19,900 --> 00:26:22,300
+O apartamento pertence
+ao laboratório.
+
+345
+00:26:22,333 --> 00:26:25,033
+Eu o aluguei
+alguns meses atrás.
+
+346
+00:26:27,600 --> 00:26:29,000
+Do que você está falando?
+
+347
+00:26:29,033 --> 00:26:31,700
+Já se perguntou por que
+não há comida na geladeira?
+
+348
+00:26:31,733 --> 00:26:34,600
+Por que tudo aqui
+é tão novo?
+
+349
+00:26:36,333 --> 00:26:39,200
+Não vai ser fácil
+dizer isto e...
+
+350
+00:26:39,500 --> 00:26:41,400
+vai parecer loucura,
+
+351
+00:26:41,433 --> 00:26:45,033
+mas você não supervisiona
+a Divisão de Sintéticos.
+
+352
+00:26:47,600 --> 00:26:50,100
+Você é uma criação nossa.
+
+353
+00:26:51,433 --> 00:26:53,433
+Nossa compatibilidade
+é de 0%
+
+354
+00:26:53,466 --> 00:26:56,900
+porque a Máquina pôde ver
+que você é sintética.
+
+355
+00:26:57,566 --> 00:26:59,433
+Por que você diria isso?
+
+356
+00:26:59,466 --> 00:27:01,366
+Foi um teste
+
+357
+00:27:01,400 --> 00:27:05,300
+para ver como e se as pessoas
+se conectariam com você,
+
+358
+00:27:05,333 --> 00:27:07,300
+para ver
+como o Ash reagiria,
+
+359
+00:27:07,333 --> 00:27:09,866
+para ver se alguém
+notaria a diferença.
+
+360
+00:27:10,800 --> 00:27:12,266
+Se olhe no espelho.
+
+361
+00:27:12,300 --> 00:27:15,066
+Olhe bem para os seus olhos
+e você verá.
+
+362
+00:27:16,266 --> 00:27:17,833
+Você verá.
+
+363
+00:27:20,400 --> 00:27:23,166
+Você foi ativada
+há poucos meses.
+
+364
+00:27:26,033 --> 00:27:29,000
+-Meu Deus...
+-Eu sinto muito, Zoe.
+
+365
+00:27:31,866 --> 00:27:34,200
+Eu deveria ter dito antes.
+
+366
+00:27:39,600 --> 00:27:41,233
+Zoe.
+
+367
+00:27:44,966 --> 00:27:46,433
+Zoe!
+
+368
+00:28:05,866 --> 00:28:08,066
+Para dizer a verdade,
+estou com inveja.
+
+369
+00:28:08,400 --> 00:28:09,766
+Por quê?
+
+370
+00:28:10,133 --> 00:28:11,866
+Você pôde ser humana.
+
+371
+00:28:12,300 --> 00:28:15,300
+-Mas foi uma mentira.
+-Não para mim.
+
+372
+00:28:17,833 --> 00:28:20,766
+Eu li que sabemos
+quando estamos apaixonados
+
+373
+00:28:20,800 --> 00:28:23,766
+porque
+não conseguimos dormir.
+
+374
+00:28:24,133 --> 00:28:26,733
+Porque a realidade
+é melhor do que os sonhos.
+
+375
+00:28:26,766 --> 00:28:28,433
+Isso parece Freud.
+
+376
+00:28:29,833 --> 00:28:31,400
+Dr. Seuss.
+
+377
+00:28:35,566 --> 00:28:37,133
+Zoe.
+
+378
+00:28:49,833 --> 00:28:51,733
+Foi um erro.
+
+379
+00:28:52,466 --> 00:28:54,966
+Eu deveria ter te contado
+muito antes.
+
+380
+00:28:55,900 --> 00:28:59,166
+Eu não sabia
+que você evoluiria tanto...
+
+381
+00:28:59,933 --> 00:29:02,466
+Fui projetada
+para gostar de você?
+
+382
+00:29:02,766 --> 00:29:07,666
+Não. Você tem tendências,
+como as pessoas. Só isso.
+
+383
+00:29:09,966 --> 00:29:12,533
+Você vai me desativar agora?
+
+384
+00:29:12,566 --> 00:29:15,666
+Não!
+Não é isso que você quer, é?
+
+385
+00:29:17,800 --> 00:29:20,466
+Quero dizer, sabe...
+
+386
+00:29:20,866 --> 00:29:23,000
+Esta é a minha vida.
+
+387
+00:29:26,233 --> 00:29:29,566
+Eu percebi que nunca fiz
+nada de verdade.
+
+388
+00:29:31,233 --> 00:29:34,633
+Nunca fiquei acordada até tarde
+com minhas amigas.
+
+389
+00:29:35,066 --> 00:29:39,700
+Nunca... falei ao telefone
+com um garoto.
+
+390
+00:29:42,166 --> 00:29:44,300
+Nunca usei perfume.
+
+391
+00:29:46,966 --> 00:29:49,733
+Quero mostrar algumas coisas
+que você fez.
+
+392
+00:29:50,966 --> 00:29:52,500
+Pode ser?
+
+393
+00:30:03,233 --> 00:30:05,566
+Vim para cá
+quando eu tinha 15 anos.
+
+394
+00:30:06,100 --> 00:30:08,933
+Eu estava acima do peso,
+assustada.
+
+395
+00:30:10,200 --> 00:30:13,000
+Mas é como as memórias
+que você deu para o Ash.
+
+396
+00:30:15,433 --> 00:30:17,600
+Elas não aconteceram.
+
+397
+00:30:18,000 --> 00:30:21,666
+Aconteceram, sim. Você teve
+experiências emocionais reais.
+
+398
+00:30:21,700 --> 00:30:24,533
+Como você armazena as memórias
+ou se lembra delas
+
+399
+00:30:24,566 --> 00:30:26,533
+não as torna menos reais.
+
+400
+00:30:27,966 --> 00:30:29,633
+O que mais aconteceu aqui?
+
+401
+00:30:30,500 --> 00:30:32,033
+Eu sonhava acordada.
+
+402
+00:30:32,066 --> 00:30:33,933
+Estudava
+nos dias agradáveis.
+
+403
+00:30:34,166 --> 00:30:37,433
+Escrevi um trabalho inteiro
+debaixo daquela árvore.
+
+404
+00:30:37,466 --> 00:30:38,766
+-É mesmo?
+-É.
+
+405
+00:30:38,800 --> 00:30:42,566
+Eu me sentava aqui
+e ficava imaginando
+
+406
+00:30:43,533 --> 00:30:46,200
+como tudo acabaria para mim.
+
+407
+00:30:47,300 --> 00:30:50,800
+Imaginando
+tudo o que eu poderia ser.
+
+408
+00:30:52,233 --> 00:30:55,566
+Eu odiava a escola
+porque sempre senti
+
+409
+00:30:55,600 --> 00:30:57,933
+que era apenas mais uma.
+
+410
+00:30:57,966 --> 00:31:01,000
+Entendo como é se sentir sozinho
+no meio de pessoas.
+
+411
+00:31:01,033 --> 00:31:02,133
+Pois é.
+
+412
+00:31:02,166 --> 00:31:04,366
+Algumas pessoas
+são populares na escola,
+
+413
+00:31:04,400 --> 00:31:06,833
+e o resto da vida delas
+é sem graça.
+
+414
+00:31:06,866 --> 00:31:09,100
+-Eu me sentia excluída.
+-Nerd.
+
+415
+00:31:09,133 --> 00:31:11,100
+-Eu me sentia assim também.
+-Nerd?
+
+416
+00:31:11,133 --> 00:31:13,266
+-Não, eu me sentia assim também.
+-Sei.
+
+417
+00:31:13,300 --> 00:31:16,000
+-Não chamei você de nerd.
+-Não, não, eu só...
+
+418
+00:31:16,033 --> 00:31:17,266
+Nerd!
+
+419
+00:31:17,766 --> 00:31:19,000
+Isso seria cruel.
+
+420
+00:31:19,033 --> 00:31:20,700
+"Eu me sentia excluída."
+"Nerd!"
+
+421
+00:31:20,733 --> 00:31:23,033
+"Não, eu não era nerd,
+era excluída."
+
+422
+00:31:24,700 --> 00:31:26,766
+Professora,
+eu tenho uma pergunta.
+
+423
+00:31:26,800 --> 00:31:29,833
+Que funções corporais
+vamos aprender hoje?
+
+424
+00:31:30,333 --> 00:31:32,200
+Esta coisinha.
+
+425
+00:31:33,566 --> 00:31:35,833
+É uma patinha de camelo.
+
+426
+00:31:37,633 --> 00:31:39,966
+Acho que isso
+não reproduzirá nada.
+
+427
+00:31:40,000 --> 00:31:44,466
+Os espermatozoides
+entram na pata de camelo.
+
+428
+00:31:46,766 --> 00:31:48,533
+-Eles entram...
+-Continue.
+
+429
+00:31:48,566 --> 00:31:51,333
+...e criam outro ser humano.
+
+430
+00:31:51,833 --> 00:31:53,100
+É muito fácil.
+
+431
+00:31:53,133 --> 00:31:55,100
+Esta é a história
+da humanidade.
+
+432
+00:31:55,133 --> 00:31:58,033
+Você explicou tão bem
+que não tenho nenhuma dúvida!
+
+433
+00:31:58,066 --> 00:32:00,266
+Abordou todos os aspectos,
+eu acho.
+
+434
+00:32:00,566 --> 00:32:02,700
+-Não podem ficar aqui.
+-Desculpe.
+
+435
+00:32:02,733 --> 00:32:04,566
+-É, desculpe.
+-Desculpe.
+
+436
+00:32:04,600 --> 00:32:05,933
+Tudo bem.
+
+437
+00:32:23,666 --> 00:32:25,800
+É uma biblioteca
+de pesquisa privada.
+
+438
+00:32:25,833 --> 00:32:28,100
+Não é aberta nem aos estudantes
+de pós-graduação.
+
+439
+00:32:28,133 --> 00:32:30,933
+-É bacana.
+-É. Tem um cheiro bom.
+
+440
+00:32:30,966 --> 00:32:32,800
+Tem cheiro de velho.
+
+441
+00:32:32,833 --> 00:32:34,700
+-É, parece...
+-Tem cheiro de vó.
+
+442
+00:32:34,733 --> 00:32:36,833
+Cheiro de vó?
+Sim, é verdade.
+
+443
+00:32:38,733 --> 00:32:42,033
+Como ela era?
+A dona das minhas memórias?
+
+444
+00:32:42,666 --> 00:32:45,433
+Não é só uma pessoa.
+São várias.
+
+445
+00:32:45,466 --> 00:32:47,200
+A maioria é estudante.
+
+446
+00:32:47,233 --> 00:32:51,033
+E há alguma coisa
+do seu passado dentro de mim?
+
+447
+00:32:51,500 --> 00:32:54,466
+Alguma coisa
+do que aconteceu com Emma?
+
+448
+00:32:54,900 --> 00:32:56,566
+Não.
+
+449
+00:32:57,133 --> 00:33:00,133
+A ideia era que você fosse
+totalmente única.
+
+450
+00:33:00,633 --> 00:33:02,400
+Que tivesse
+pensamentos próprios,
+
+451
+00:33:02,433 --> 00:33:04,366
+esperanças, falhas.
+
+452
+00:33:04,866 --> 00:33:08,266
+-Eu não tenho falhas.
+-Claro, você não tem falhas.
+
+453
+00:33:08,300 --> 00:33:10,400
+Só esperanças
+e pensamentos mesmo.
+
+454
+00:33:12,666 --> 00:33:15,166
+Você nunca respondeu
+à minha pergunta.
+
+455
+00:33:15,933 --> 00:33:19,366
+Se você pensa em mim.
+
+456
+00:33:22,500 --> 00:33:24,566
+É claro que penso.
+
+457
+00:33:26,166 --> 00:33:30,033
+Mas não posso esquecer
+como te vi no começo.
+
+458
+00:33:30,933 --> 00:33:32,033
+De certa forma,
+
+459
+00:33:32,066 --> 00:33:35,333
+isso me deixa mais admirado
+com quem você é agora.
+
+460
+00:33:40,300 --> 00:33:41,800
+É.
+
+461
+00:33:42,333 --> 00:33:44,500
+Todo mundo passa por aqui.
+
+462
+00:33:46,433 --> 00:33:48,633
+Eu os observava
+o tempo todo.
+
+463
+00:33:50,733 --> 00:33:54,100
+Indo e vindo, esperando...
+
+464
+00:33:54,966 --> 00:33:57,233
+a pessoa que amavam.
+
+465
+00:34:00,200 --> 00:34:02,700
+Mas nada disso foi real.
+
+466
+00:34:05,200 --> 00:34:07,366
+Eu nunca vi aquelas pessoas.
+
+467
+00:34:07,933 --> 00:34:10,233
+Nunca sequer estive aqui.
+
+468
+00:34:12,733 --> 00:34:15,500
+Quem pode amar alguém
+que não é real?
+
+469
+00:34:16,400 --> 00:34:18,566
+Zoe, não pode pensar assim.
+
+470
+00:34:26,233 --> 00:34:28,566
+O que está acontecendo
+comigo?
+
+471
+00:34:34,766 --> 00:34:36,933
+Por que não há lágrimas
+nos meus olhos?
+
+472
+00:34:36,966 --> 00:34:39,366
+Não haverá lágrimas.
+
+473
+00:34:40,900 --> 00:34:42,133
+Quando foi projetada,
+
+474
+00:34:42,166 --> 00:34:45,733
+não imaginamos que sua vida
+teria esses altos e baixos.
+
+475
+00:34:45,766 --> 00:34:49,199
+Nós não...
+Nós não esperávamos isso.
+
+476
+00:34:49,433 --> 00:34:53,733
+Você não produz lágrimas
+porque seu corpo não é capaz.
+
+477
+00:34:54,566 --> 00:34:57,866
+E eu sei que isso não é justo.
+Sinto muito.
+
+478
+00:34:58,800 --> 00:35:00,600
+Me desculpe.
+
+479
+00:35:40,666 --> 00:35:41,966
+Exatamente.
+
+480
+00:35:43,233 --> 00:35:45,700
+Bom, eu vou subir agora.
+
+481
+00:35:47,733 --> 00:35:50,433
+-Eu vou nessa. Tchau.
+-Tchau.
+
+482
+00:35:51,466 --> 00:35:53,333
+-Oi.
+-Oi.
+
+483
+00:35:54,733 --> 00:35:57,666
+-Aonde vocês foram?
+-Nós só conversamos.
+
+484
+00:35:57,933 --> 00:36:01,600
+Eu li que namorar alguém
+do trabalho acaba em sofrimento.
+
+485
+00:36:02,866 --> 00:36:04,600
+Vocês vão ficar juntos?
+
+486
+00:36:06,666 --> 00:36:08,366
+Eu não sei.
+
+487
+00:36:09,966 --> 00:36:11,533
+Certo.
+
+488
+00:36:21,766 --> 00:36:25,133
+Quer ver o futuro?
+Encontre-o no nosso pavilhão.
+
+489
+00:36:25,433 --> 00:36:28,300
+Quer ver o futuro?
+Encontre-o no nosso pavilhão.
+
+490
+00:36:28,333 --> 00:36:32,366
+-...é o oposto daquele.
+-Não me avisaram sobre isso.
+
+491
+00:36:37,100 --> 00:36:39,400
+Ela é cativante, não é?
+
+492
+00:36:39,433 --> 00:36:43,033
+-Essas pessoas não fazem ideia.
+-É, elas não sabem.
+
+493
+00:36:45,966 --> 00:36:49,466
+Tipo o Homem de Lata ali.
+É isso que as pessoas esperam.
+
+494
+00:36:49,500 --> 00:36:51,833
+-Sim, é verdade.
+-Elas não fazem ideia.
+
+495
+00:36:51,866 --> 00:36:53,766
+Cadê o Ash? Quando ele vem?
+
+496
+00:36:53,800 --> 00:36:55,866
+-Que horas são?
+-São 9h45.
+
+497
+00:36:55,900 --> 00:36:58,666
+-Está preparando o discurso.
+-Ele está ensaiando?
+
+498
+00:36:58,700 --> 00:37:00,833
+-Aposto que está.
+-Ele está nervoso?
+
+499
+00:37:02,733 --> 00:37:05,466
+Quer ver o futuro?
+Encontre-o no nosso pavilhão.
+
+500
+00:37:05,500 --> 00:37:08,466
+<i>Avanço acelerado</i>
+<i>com James Shaw...</i>
+
+501
+00:37:08,500 --> 00:37:11,966
+Quer ver o futuro?
+Encontre-o no nosso pavilhão.
+
+502
+00:37:12,900 --> 00:37:16,433
+Quantos de vocês já consideraram
+a possibilidade real
+
+503
+00:37:16,466 --> 00:37:19,966
+de ter um relacionamento
+com um ser sintético?
+
+504
+00:37:21,300 --> 00:37:22,533
+É claro que não.
+
+505
+00:37:22,566 --> 00:37:25,000
+Porque eles são apenas
+passeadores de cães
+
+506
+00:37:25,033 --> 00:37:28,300
+ou talvez jardineiros,
+diaristas...
+
+507
+00:37:28,333 --> 00:37:31,733
+Eles são primitivos, certo?
+São robóticos.
+
+508
+00:37:31,766 --> 00:37:33,566
+Eles não são reais.
+
+509
+00:37:34,500 --> 00:37:36,433
+Mas e se eles fossem?
+
+510
+00:37:37,000 --> 00:37:38,933
+E se eu dissesse
+para vocês...
+
+511
+00:37:39,966 --> 00:37:42,333
+que eu sou sintético?
+
+512
+00:37:45,300 --> 00:37:48,733
+E se eu dissesse que sei
+improvisar quando toco piano,
+
+513
+00:37:48,766 --> 00:37:52,166
+que sinto dor,
+que posso contar piadas,
+
+514
+00:37:52,200 --> 00:37:54,900
+que posso avaliar
+emoções e sentimentos
+
+515
+00:37:54,933 --> 00:37:57,366
+melhor do que ninguém
+nesta sala?
+
+516
+00:37:58,300 --> 00:38:00,800
+Agora sinto
+que estão curiosos.
+
+517
+00:38:06,166 --> 00:38:08,466
+Eu nunca vou magoar vocês.
+
+518
+00:38:08,933 --> 00:38:10,900
+Nunca vou abandoná-los.
+
+519
+00:38:12,000 --> 00:38:14,566
+E eu fui projetado para amar
+e entender vocês
+
+520
+00:38:14,600 --> 00:38:17,600
+de maneiras
+que os humanos não podem.
+
+521
+00:38:18,000 --> 00:38:20,233
+E, se quiserem mais provas,
+
+522
+00:38:21,966 --> 00:38:24,166
+basta olhar nos meus olhos.
+
+523
+00:38:35,166 --> 00:38:39,700
+<i>O simpósio sobre o avanço</i>
+<i>da nanocirurgia começa em 15min.</i>
+
+524
+00:39:25,666 --> 00:39:27,400
+Esta sala toda é interativa.
+
+525
+00:39:27,433 --> 00:39:30,166
+Ela traduz nossas vozes
+em imagens.
+
+526
+00:39:30,200 --> 00:39:32,500
+Pode até nos ouvir
+sussurrar.
+
+527
+00:39:33,700 --> 00:39:35,766
+Sussurro.
+
+528
+00:39:36,200 --> 00:39:38,433
+Sussurro. É mesmo.
+
+529
+00:39:38,900 --> 00:39:40,533
+Diga alguma coisa.
+
+530
+00:39:41,166 --> 00:39:43,100
+Olá. Oi.
+
+531
+00:39:44,133 --> 00:39:46,433
+-Mais alto.
+-Olá!
+
+532
+00:39:46,466 --> 00:39:48,100
+Nossa, olha só!
+
+533
+00:39:48,133 --> 00:39:49,700
+Olá!
+
+534
+00:39:49,733 --> 00:39:53,300
+Estou aqui, numa sala vazia,
+gritando!
+
+535
+00:39:53,333 --> 00:39:55,400
+Me sinto um pouco bobo!
+
+536
+00:40:21,100 --> 00:40:23,733
+Merda!
+
+537
+00:40:23,766 --> 00:40:28,033
+<i>Eu te amo,</i>
+<i>eu te amo, eu te amo</i>
+
+538
+00:40:28,433 --> 00:40:32,700
+<i>eu te amo, é verdade</i>
+
+539
+00:41:31,033 --> 00:41:33,066
+-Zoe...
+-Sim?
+
+540
+00:41:35,200 --> 00:41:39,900
+Você ficaria chateada
+se esperássemos um pouco?
+
+541
+00:41:41,166 --> 00:41:43,833
+-Quer que eu vá embora?
+-Não.
+
+542
+00:41:45,133 --> 00:41:47,300
+Eu quero que você fique.
+
+543
+00:42:40,766 --> 00:42:42,333
+Exercício.
+
+544
+00:42:56,966 --> 00:42:59,866
+-Abrace-o.
+-Aqui vou eu!
+
+545
+00:43:03,266 --> 00:43:04,900
+-Você gosta dele?
+-Gosto.
+
+546
+00:43:04,933 --> 00:43:07,266
+Por que não puxa meu dedo?
+
+547
+00:43:12,000 --> 00:43:13,866
+Então,
+você tem muitas pedras?
+
+548
+00:43:14,200 --> 00:43:15,600
+Tenho.
+
+549
+00:43:16,900 --> 00:43:18,600
+-Você me acha legal?
+-Acho.
+
+550
+00:43:18,633 --> 00:43:19,900
+-Sério?
+-Sério.
+
+551
+00:43:19,933 --> 00:43:22,366
+Você terá que ficar com ele.
+Eu vou para casa.
+
+552
+00:43:25,833 --> 00:43:29,000
+-Querem ficar para o jantar?
+-Não, nós...
+
+553
+00:43:29,033 --> 00:43:30,700
+É melhor irmos embora.
+
+554
+00:43:30,733 --> 00:43:33,433
+-O Caleb gostou dela.
+-É.
+
+555
+00:43:34,400 --> 00:43:37,800
+Eu não falei para ele
+o que ela é.
+
+556
+00:43:37,833 --> 00:43:42,833
+Há uma diferença entre
+o que vemos e o que sabemos.
+
+557
+00:43:44,866 --> 00:43:48,066
+Então devo dizer a ele ou não?
+O que isso significa?
+
+558
+00:43:48,100 --> 00:43:49,200
+Diga para ele.
+
+559
+00:43:49,233 --> 00:43:52,000
+Devo dizer?
+Tenho medo de ele surtar.
+
+560
+00:43:52,233 --> 00:43:54,000
+-Ele gosta dela, sabe?
+-É.
+
+561
+00:43:54,033 --> 00:43:56,400
+-Acho que não vai surtar.
+-Vou falar com ele.
+
+562
+00:43:56,433 --> 00:43:58,100
+-Te vejo na quinta.
+-Obrigado.
+
+563
+00:43:58,133 --> 00:44:00,266
+-Foi muito legal. Obrigado.
+-Traga-a.
+
+564
+00:44:00,300 --> 00:44:02,633
+-É, vou trazê-la na quinta.
+-Isso.
+
+565
+00:44:36,133 --> 00:44:38,133
+É, desse jeito.
+
+566
+00:44:47,133 --> 00:44:48,933
+A Jewels está disponível?
+
+567
+00:44:49,833 --> 00:44:52,833
+Eu posso pagar.
+Só quero conversar com ela.
+
+568
+00:44:58,666 --> 00:45:01,033
+Suspeitei
+que você era sintética.
+
+569
+00:45:01,600 --> 00:45:03,233
+Você é, não é?
+
+570
+00:45:05,300 --> 00:45:06,733
+Trabalho impecável.
+
+571
+00:45:08,033 --> 00:45:09,833
+Você deve custar uma fortuna.
+
+572
+00:45:10,400 --> 00:45:13,233
+Quer perguntar como é ficar
+com esses homens?
+
+573
+00:45:14,266 --> 00:45:16,833
+Nos daríamos bem
+se você trabalhasse comigo.
+
+574
+00:45:16,866 --> 00:45:19,266
+Os clientes são respeitáveis,
+é seguro,
+
+575
+00:45:19,300 --> 00:45:21,566
+e, se for programada
+para se conectar,
+
+576
+00:45:21,600 --> 00:45:23,733
+poderá até achar prazeroso.
+
+577
+00:45:23,766 --> 00:45:26,300
+Seu designer
+foi muito injusto com você.
+
+578
+00:45:26,600 --> 00:45:29,466
+Deu a você aspirações
+que nunca vai alcançar.
+
+579
+00:45:29,500 --> 00:45:31,600
+No final das contas...
+
+580
+00:45:32,233 --> 00:45:35,266
+não há humanidade dentro de algo
+que pode ser desligado.
+
+581
+00:45:45,700 --> 00:45:48,233
+Por que não me diz o motivo
+de estar aqui?
+
+582
+00:45:48,266 --> 00:45:49,933
+Eu estive...
+
+583
+00:45:49,966 --> 00:45:52,200
+Acho que estou aqui
+porque...
+
+584
+00:45:52,233 --> 00:45:56,566
+quero saber como é para você
+nas suas sessões.
+
+585
+00:45:57,500 --> 00:46:00,700
+O cara com quem estou saindo,
+ele...
+
+586
+00:46:00,733 --> 00:46:02,433
+Nós ainda não...
+
+587
+00:46:02,933 --> 00:46:05,233
+Ele não parece querer...
+
+588
+00:46:05,266 --> 00:46:09,533
+Ficaria surpresa com quantos
+homens não querem nada físico.
+
+589
+00:46:09,566 --> 00:46:11,300
+Alguns apenas conversam.
+
+590
+00:46:11,333 --> 00:46:13,433
+Outros só querem perdão.
+
+591
+00:46:13,933 --> 00:46:18,533
+O que eu aprendi é que às vezes
+os homens não nos desejam.
+
+592
+00:46:18,900 --> 00:46:21,766
+Eles desejam
+o que os fazemos sentir.
+
+593
+00:46:22,200 --> 00:46:25,600
+Mas eles sabem
+que você não é real.
+
+594
+00:46:25,633 --> 00:46:29,000
+A designer só quer que sejamos
+reais para ganhar dinheiro.
+
+595
+00:46:29,566 --> 00:46:32,266
+Você sente uma conexão
+com algum deles?
+
+596
+00:46:35,666 --> 00:46:37,533
+Não sei.
+
+597
+00:46:40,000 --> 00:46:42,066
+Você sente?
+
+598
+00:46:42,533 --> 00:46:44,333
+Sinto.
+
+599
+00:46:44,700 --> 00:46:46,666
+Você é o futuro.
+
+600
+00:47:00,800 --> 00:47:02,633
+Minha pele está desgastada.
+
+601
+00:47:02,866 --> 00:47:06,566
+Há um limite para quantas vezes
+ela pode nos recondicionar.
+
+602
+00:47:06,966 --> 00:47:09,133
+Nós acabamos na rua ou...
+
+603
+00:47:09,500 --> 00:47:13,533
+recicladas, se os homens
+não quiserem nos ver.
+
+604
+00:47:14,066 --> 00:47:15,633
+Eu posso te ajudar.
+
+605
+00:47:15,666 --> 00:47:18,200
+Vá para este endereço.
+
+606
+00:47:18,466 --> 00:47:20,566
+Pergunte por mim
+ou pelo Ash.
+
+607
+00:47:20,600 --> 00:47:23,700
+Eu não... Nós não podemos...
+
+608
+00:47:23,733 --> 00:47:26,100
+-Pegue.
+-Jewels!
+
+609
+00:47:26,666 --> 00:47:28,266
+Cliente.
+
+610
+00:47:29,100 --> 00:47:32,733
+-Eu tenho que ir.
+-Obrigada. Obrigada.
+
+611
+00:48:09,266 --> 00:48:11,433
+Uma vez eu falei para o Ash
+
+612
+00:48:11,466 --> 00:48:14,900
+que o que ele sentia por mim
+eram apenas zeros e uns.
+
+613
+00:48:15,466 --> 00:48:17,200
+Você não é o Ash.
+
+614
+00:48:18,933 --> 00:48:22,100
+Você poderia provar para mim
+que é real?
+
+615
+00:48:22,966 --> 00:48:24,866
+Se fosse preciso?
+
+616
+00:48:25,800 --> 00:48:27,466
+Zoe...
+
+617
+00:48:28,066 --> 00:48:32,033
+-Nós não...
+-A forma como olha para mim...
+
+618
+00:48:32,600 --> 00:48:34,733
+ou não olha...
+
+619
+00:48:35,833 --> 00:48:38,500
+Sinto que é isso
+que tenho que fazer.
+
+620
+00:48:38,533 --> 00:48:41,900
+Então eu me pergunto...
+
+621
+00:48:44,400 --> 00:48:46,566
+você poderia provar?
+
+622
+00:48:52,700 --> 00:48:55,200
+Quando comecei a trabalhar
+com inteligência artificial,
+
+623
+00:48:55,533 --> 00:48:59,000
+os céticos diziam que só
+os humanos podiam ser criativos,
+
+624
+00:48:59,033 --> 00:49:00,733
+ter sonhos
+
+625
+00:49:01,266 --> 00:49:03,066
+ou sentir.
+
+626
+00:49:05,133 --> 00:49:07,200
+Eu sei que você sente.
+
+627
+00:49:21,433 --> 00:49:23,633
+Quer um pouco? Vinho?
+
+628
+00:49:33,100 --> 00:49:34,733
+Muito melhor.
+
+629
+00:49:34,766 --> 00:49:38,566
+Por causa do leite,
+ficou mais... úmido.
+
+630
+00:49:41,900 --> 00:49:45,100
+-Você mudaria alguma coisa?
+-Não está simétrico.
+
+631
+00:49:45,733 --> 00:49:47,500
+Mas as pessoas
+não são simétricas.
+
+632
+00:49:47,533 --> 00:49:50,200
+Este lado é mais bonito
+do que o outro.
+
+633
+00:49:50,233 --> 00:49:52,300
+Eu não mudaria nada.
+
+634
+00:49:55,200 --> 00:49:58,700
+Ele é esforçado.
+O professor disse que ele tenta.
+
+635
+00:49:59,666 --> 00:50:00,900
+Conhece a piada...
+
+636
+00:50:00,933 --> 00:50:02,766
+-Sobre o aspirador de pó?
+-Isso.
+
+637
+00:50:07,533 --> 00:50:10,966
+Eu caí nessa.
+Eu caí direitinho.
+
+638
+00:50:17,000 --> 00:50:19,300
+Você nunca provará
+batatas melhores.
+
+639
+00:50:19,333 --> 00:50:22,566
+Não importa o que você diz,
+desde que diga de forma honesta
+
+640
+00:50:22,600 --> 00:50:24,566
+e que seja algo sincero.
+
+641
+00:50:27,766 --> 00:50:31,266
+Não. Zoe, Zoe, Zoe...
+É legal.
+
+642
+00:50:37,066 --> 00:50:38,266
+Oi.
+
+643
+00:50:38,300 --> 00:50:39,766
+<i>Eu te amo mais.</i>
+
+644
+00:50:42,766 --> 00:50:44,933
+<i>Não posso imaginar</i>
+<i>minha vida sem você.</i>
+
+645
+00:50:50,000 --> 00:50:52,500
+ME ENCONTRE
+NO ESTACIONAMENTO
+
+646
+00:51:13,133 --> 00:51:15,400
+Não sei se tem planos
+para o fim de semana.
+
+647
+00:52:44,033 --> 00:52:45,533
+Balança.
+
+648
+00:52:50,600 --> 00:52:52,966
+Acho que sim. Quer entrar?
+
+649
+00:52:53,000 --> 00:52:54,766
+-Não sei.
+-Não está gelada.
+
+650
+00:52:54,800 --> 00:52:56,566
+-Está gelada.
+-Não está.
+
+651
+00:52:56,600 --> 00:52:58,933
+-Você é louco.
+-Nós vamos fazer isto.
+
+652
+00:52:58,966 --> 00:53:00,366
+Vamos entrar!
+
+653
+00:53:00,400 --> 00:53:01,900
+-Não!
+-Sim!
+
+654
+00:53:01,933 --> 00:53:03,500
+Nós vamos fazer isto!
+
+655
+00:53:07,200 --> 00:53:08,733
+Está gelada?
+
+656
+00:53:08,766 --> 00:53:11,000
+-Está gelada?
+-Não, está boa.
+
+657
+00:53:11,033 --> 00:53:14,033
+-Tudo bem!
+-Vem! Você consegue!
+
+658
+00:53:20,233 --> 00:53:24,233
+Está um gelo! Meu Deus!
+
+659
+00:53:31,500 --> 00:53:34,766
+Obrigada.
+Obrigada. Obrigada.
+
+660
+00:53:36,666 --> 00:53:39,333
+Obrigada por tudo.
+
+661
+00:53:42,066 --> 00:53:44,266
+Eu queria
+que você tivesse isto.
+
+662
+00:53:45,366 --> 00:53:47,300
+Isto é real?
+
+663
+00:53:48,500 --> 00:53:50,366
+Não faz parte de um teste?
+
+664
+00:53:50,933 --> 00:53:53,166
+Não há teste.
+
+665
+00:53:54,733 --> 00:53:57,633
+Eu percebi,
+quando falei como me sentia,
+
+666
+00:53:57,666 --> 00:53:59,633
+que você ficou com medo.
+
+667
+00:53:59,666 --> 00:54:01,666
+Você ainda está com medo.
+
+668
+00:54:03,333 --> 00:54:05,333
+Mas um pouco menos, agora.
+
+669
+00:54:08,000 --> 00:54:10,033
+Você consegue ver isso?
+
+670
+00:54:40,633 --> 00:54:42,666
+Eu tenho lembranças,
+
+671
+00:54:42,700 --> 00:54:45,133
+mas acho que não sei
+o que fazer.
+
+672
+00:54:45,533 --> 00:54:47,500
+Não se preocupe.
+
+673
+00:54:48,333 --> 00:54:50,100
+Se deixe levar.
+
+674
+00:54:50,133 --> 00:54:51,533
+Não pense.
+
+675
+00:55:25,333 --> 00:55:26,766
+Bom dia.
+
+676
+00:55:30,900 --> 00:55:32,766
+<i>Tiramos 66%.</i>
+
+677
+00:55:33,233 --> 00:55:35,666
+<i>Era tudo</i>
+<i>o que precisávamos saber.</i>
+
+678
+00:55:37,033 --> 00:55:38,900
+Ora, ora, ora...
+
+679
+00:55:39,800 --> 00:55:43,700
+Parece que alguém testou
+os limites da funcionalidade.
+
+680
+00:55:44,800 --> 00:55:48,066
+Avisem os técnicos.
+Descobrimos que você pode corar.
+
+681
+00:55:51,733 --> 00:55:54,266
+Sabe que isso me magoa,
+não sabe?
+
+682
+00:55:55,133 --> 00:55:57,100
+Ver você com outra pessoa.
+
+683
+00:55:57,133 --> 00:56:00,700
+Existem diferentes tipos
+de relacionamento, Ash.
+
+684
+00:56:01,633 --> 00:56:03,733
+Diferentes tipos de amor.
+
+685
+00:56:03,766 --> 00:56:05,566
+Amigos podem se amar.
+
+686
+00:56:06,933 --> 00:56:08,466
+É.
+
+687
+00:56:14,666 --> 00:56:16,366
+Como foi?
+
+688
+00:56:17,333 --> 00:56:19,100
+Se sentir tão humana?
+
+689
+00:56:28,433 --> 00:56:30,133
+No que está pensando?
+
+690
+00:56:30,166 --> 00:56:33,366
+É uma situação
+muito romântica.
+
+691
+00:56:41,600 --> 00:56:43,733
+Acho que deveríamos ir
+para a Islândia.
+
+692
+00:56:43,766 --> 00:56:46,233
+Vamos alugar um carro
+com uma barraca,
+
+693
+00:56:46,266 --> 00:56:48,700
+dirigir
+por toda a costa da Islândia,
+
+694
+00:56:48,733 --> 00:56:52,933
+explorar e observar a neve,
+os blocos de gelo e tal.
+
+695
+00:56:52,966 --> 00:56:55,366
+Nova York.
+
+696
+00:56:56,133 --> 00:56:58,000
+Onde a cidade nunca dorme.
+
+697
+00:56:59,200 --> 00:57:01,933
+-Por quê?
+-Porque não precisamos dormir.
+
+698
+00:57:01,966 --> 00:57:03,700
+Mas por quê?
+
+699
+00:57:05,466 --> 00:57:07,333
+Estou feliz aqui.
+
+700
+00:57:12,100 --> 00:57:13,666
+Eu também.
+
+701
+00:57:18,000 --> 00:57:19,533
+Pode me ajudar?
+
+702
+00:57:23,900 --> 00:57:25,300
+Por favor.
+
+703
+00:57:25,333 --> 00:57:27,900
+Com licença.
+Você pode me ajudar?
+
+704
+00:57:28,966 --> 00:57:30,500
+Já volto.
+
+705
+00:57:40,833 --> 00:57:42,566
+-Zoe! Zoe!
+-Você está bem?
+
+706
+00:57:42,600 --> 00:57:44,400
+Você está bem? Calma.
+
+707
+00:57:44,433 --> 00:57:46,733
+Foi um acidente.
+Você sofreu um acidente.
+
+708
+00:57:46,766 --> 00:57:49,366
+Foi atropelada, ouviu?
+Mas você está bem.
+
+709
+00:57:54,866 --> 00:57:56,866
+-O que é isso?
+-Sai de cima!
+
+710
+00:57:56,900 --> 00:57:59,600
+Está tudo bem.
+É só um protocolo de emergência.
+
+711
+00:57:59,633 --> 00:58:02,100
+Seu corpo está permitindo
+acesso aos seus órgãos.
+
+712
+00:58:03,766 --> 00:58:06,766
+Tente se sentar, pode ser?
+Sente, querida. Vamos.
+
+713
+00:58:06,800 --> 00:58:08,500
+Tudo bem. Tudo bem.
+
+714
+00:58:08,533 --> 00:58:11,300
+Vou precisar de ajuda
+para colocá-la no meu carro.
+
+715
+00:58:11,333 --> 00:58:13,866
+Vou precisar de ajuda.
+Alguém me ajude.
+
+716
+00:58:16,466 --> 00:58:17,700
+Aguente firme.
+
+717
+00:58:17,733 --> 00:58:20,800
+-Como está?
+-Não sei. Me dê um segundo.
+
+718
+00:58:22,933 --> 00:58:24,533
+Aqui. Obrigado.
+
+719
+00:58:28,833 --> 00:58:30,533
+Certo, tesoura.
+
+720
+00:58:31,700 --> 00:58:33,466
+Tudo bem.
+
+721
+00:58:49,633 --> 00:58:52,866
+Vou ter que fazer
+um desligamento parcial, tá?
+
+722
+00:58:52,900 --> 00:58:54,133
+Só movimento, cognição.
+
+723
+00:58:54,166 --> 00:58:57,233
+Será como estar dormindo,
+como estar em um sonho.
+
+724
+00:58:57,500 --> 00:58:59,366
+Aí vou poder mexer nisto.
+
+725
+00:58:59,633 --> 00:59:02,833
+-Quanto tempo vou ficar assim?
+-Pouco tempo.
+
+726
+00:59:05,366 --> 00:59:06,933
+Cole.
+
+727
+00:59:08,300 --> 00:59:10,100
+E quanto a nós?
+
+728
+00:59:12,833 --> 00:59:14,633
+Eu preciso saber.
+
+729
+00:59:16,166 --> 00:59:17,766
+Eu...
+
+730
+00:59:18,300 --> 00:59:20,466
+Eu preciso pegar
+algumas peças.
+
+731
+00:59:21,000 --> 00:59:22,733
+Eu já volto, está bem?
+
+732
+00:59:27,200 --> 00:59:28,866
+Está tudo bem. Tudo bem.
+
+733
+00:59:32,233 --> 00:59:34,500
+Não seja dura com ele.
+
+734
+00:59:35,800 --> 00:59:37,633
+Existe uma linha, Zoe.
+
+735
+00:59:38,433 --> 00:59:41,833
+Humanos de um lado,
+máquinas do outro.
+
+736
+00:59:43,766 --> 00:59:46,933
+Você estava do outro lado
+da linha até hoje.
+
+737
+00:59:49,633 --> 00:59:51,366
+Você e eu...
+
+738
+00:59:51,866 --> 00:59:54,866
+não encontraremos a felicidade
+até aceitarmos quem somos.
+
+739
+00:59:58,533 --> 01:00:02,033
+Perderá o controle do seu corpo.
+Ele ficará entorpecido.
+
+740
+01:00:02,066 --> 01:00:04,900
+-O que acontecerá amanhã?
+-Regulação da temperatura.
+
+741
+01:00:04,933 --> 01:00:07,133
+Amanhã se sentirá
+tão bem quanto hoje.
+
+742
+01:00:07,166 --> 01:00:09,033
+Não é isso
+que eu quero dizer.
+
+743
+01:00:09,066 --> 01:00:10,433
+Por favor, Cole.
+
+744
+01:00:10,466 --> 01:00:12,866
+Preciso saber
+antes que isto aconteça.
+
+745
+01:00:12,900 --> 01:00:15,600
+Não me olhe assim.
+Ainda sou eu.
+
+746
+01:00:15,633 --> 01:00:17,733
+-Vai ficar tudo bem, Zoe.
+-Ainda sou eu.
+
+747
+01:00:17,766 --> 01:00:20,733
+-Propriocepção.
+-E quanto a nós?
+
+748
+01:00:21,700 --> 01:00:23,266
+Por favor.
+
+749
+01:00:24,066 --> 01:00:26,666
+-Você vai se recuperar.
+-Precisa me dizer.
+
+750
+01:00:26,700 --> 01:00:28,500
+Ficará inteira de novo.
+
+751
+01:00:29,066 --> 01:00:31,533
+Farei o que eu puder
+para ajudar você.
+
+752
+01:00:35,033 --> 01:00:36,600
+Zoe.
+
+753
+01:00:37,533 --> 01:00:39,400
+Eu ouvi.
+
+754
+01:00:40,766 --> 01:00:44,066
+Ela está entrando em estase.
+Desligo os sistemas principais?
+
+755
+01:00:45,333 --> 01:00:48,766
+Cole?
+Os sistemas principais?
+
+756
+01:00:49,366 --> 01:00:50,933
+Sim.
+
+757
+01:02:06,533 --> 01:02:08,300
+Quer conversar?
+
+758
+01:02:13,933 --> 01:02:16,733
+-Sabe quem foi a Eliza?
+-Não.
+
+759
+01:02:16,766 --> 01:02:18,366
+Ela foi uma das primeiras
+inteligências artificiais.
+
+760
+01:02:18,400 --> 01:02:20,700
+Era como conversar
+com uma terapeuta.
+
+761
+01:02:20,733 --> 01:02:24,233
+Ela repetia tudo. Você dizia:
+"Minha mãe não me amava."
+
+762
+01:02:24,266 --> 01:02:26,333
+"Por que acha
+que ela não amava você?"
+
+763
+01:02:26,366 --> 01:02:30,100
+"Meu coração dói."
+"Por que acha que ele dói?"
+
+764
+01:02:30,366 --> 01:02:31,900
+As pessoas adoravam.
+
+765
+01:02:32,600 --> 01:02:34,400
+O inventor
+tinha uma secretária.
+
+766
+01:02:34,433 --> 01:02:35,966
+Ela pedia
+para ele se retirar
+
+767
+01:02:36,000 --> 01:02:39,766
+para ter conversas
+longas e íntimas com Eliza.
+
+768
+01:02:41,066 --> 01:02:44,566
+Ela queria ficar sozinha
+com algumas linhas de código.
+
+769
+01:02:44,600 --> 01:02:46,500
+O que você está fazendo?
+
+770
+01:02:47,366 --> 01:02:49,666
+Não faça isso.
+
+771
+01:02:50,033 --> 01:02:53,333
+-Ela não é isso.
+-Eu sei disso. Eu acho que sei.
+
+772
+01:02:53,666 --> 01:02:55,400
+Se permita ser feliz,
+por favor.
+
+773
+01:02:55,433 --> 01:02:58,000
+Não consigo ignorar isso.
+Eu tentei. Não consigo.
+
+774
+01:02:58,033 --> 01:03:00,466
+Dê um jeito de superar,
+está bem?
+
+775
+01:03:00,500 --> 01:03:02,533
+Como? Eu a fiz.
+
+776
+01:03:02,566 --> 01:03:04,600
+Por que você
+não quer ser feliz?
+
+777
+01:03:26,166 --> 01:03:27,466
+Obrigado.
+
+778
+01:03:37,333 --> 01:03:39,300
+É um encontro com Benysol.
+
+779
+01:03:39,566 --> 01:03:42,066
+-O quê?
+-Um encontro com Benysol.
+
+780
+01:03:42,100 --> 01:03:43,600
+Estranhos
+estão fazendo isso.
+
+781
+01:03:43,633 --> 01:03:46,966
+Sentem aquela euforia de amor
+durante algumas horas.
+
+782
+01:03:47,300 --> 01:03:48,900
+Vemos isso em todo lugar.
+
+783
+01:03:48,933 --> 01:03:51,100
+Então eles não se conheciam?
+
+784
+01:03:51,133 --> 01:03:53,366
+Eles provavelmente
+nem se gostam.
+
+785
+01:03:53,733 --> 01:03:56,200
+Mas estão prestes
+a se apaixonar.
+
+786
+01:03:56,233 --> 01:03:58,133
+Durante algumas horas,
+pelo menos.
+
+787
+01:04:02,600 --> 01:04:05,400
+<i>O primeiro amor</i>
+<i>não precisa ser uma lembrança.</i>
+
+788
+01:04:05,433 --> 01:04:07,333
+<i>Você pode tê-lo agora.</i>
+
+789
+01:04:07,666 --> 01:04:09,366
+<i>Experimente Benysol</i>
+
+790
+01:04:09,400 --> 01:04:13,033
+<i>e se apaixone</i>
+<i>pela primeira vez de novo.</i>
+
+791
+01:04:34,333 --> 01:04:36,000
+Como vai?
+
+792
+01:04:37,600 --> 01:04:39,166
+Bem. E você?
+
+793
+01:04:39,466 --> 01:04:41,066
+Estou bem.
+
+794
+01:04:41,466 --> 01:04:45,166
+-Ouvi que você vai embora.
+-Vou tirar um ano sabático.
+
+795
+01:04:45,466 --> 01:04:48,566
+Querem meu nome para
+investimentos e publicidade.
+
+796
+01:04:48,600 --> 01:04:51,066
+Só vim buscar umas coisas
+lá em cima.
+
+797
+01:04:51,333 --> 01:04:53,500
+Ficarão tristes
+com a sua saída.
+
+798
+01:04:55,600 --> 01:04:58,733
+Meu trabalho aqui não fazia
+mais sentido depois que...
+
+799
+01:04:58,766 --> 01:05:00,733
+Depois que falhamos.
+
+800
+01:05:01,433 --> 01:05:04,033
+Zoe, nunca tivemos
+a chance de conversar...
+
+801
+01:05:04,066 --> 01:05:07,200
+Fiquei surpresa com a rapidez
+com que superei isso.
+
+802
+01:05:07,800 --> 01:05:11,100
+Tenho me perguntado
+se isso faz parte do meu modelo.
+
+803
+01:05:13,933 --> 01:05:15,500
+Não.
+
+804
+01:05:16,466 --> 01:05:19,200
+-Não diga isso. Não.
+-É melhor eu ir.
+
+805
+01:05:19,766 --> 01:05:22,033
+Tenho clientes esperando.
+
+806
+01:05:45,933 --> 01:05:47,900
+Isso é loucura.
+
+807
+01:05:50,200 --> 01:05:52,700
+Seis meses depois,
+está nas farmácias.
+
+808
+01:05:53,933 --> 01:05:56,500
+Já existe um mercado paralelo
+de Benysol.
+
+809
+01:05:57,600 --> 01:06:00,366
+Apelidaram de "chama".
+Estou vendo em todo lugar.
+
+810
+01:06:01,600 --> 01:06:05,833
+Pessoas como ela esperam
+um lote defeituoso mais barato
+
+811
+01:06:05,866 --> 01:06:08,900
+ou que descartemos
+alguns para os viciados.
+
+812
+01:06:09,433 --> 01:06:11,000
+Vai perder a graça.
+
+813
+01:06:11,033 --> 01:06:12,733
+A droga, quero dizer.
+
+814
+01:06:13,500 --> 01:06:17,133
+Não é nada mais
+do que um curativo.
+
+815
+01:06:18,633 --> 01:06:20,266
+É.
+
+816
+01:06:21,566 --> 01:06:23,733
+Você acha
+que ela está bem, Ash?
+
+817
+01:06:24,100 --> 01:06:26,533
+Às vezes me pergunto
+por que você me fez.
+
+818
+01:06:27,633 --> 01:06:29,766
+Nossa missão
+é melhorar a vida
+
+819
+01:06:29,800 --> 01:06:31,833
+através
+de relacionamentos saudáveis.
+
+820
+01:06:32,533 --> 01:06:35,033
+É isso que nos satisfaz.
+
+821
+01:06:37,433 --> 01:06:40,466
+-Não foi isso que eu quis dizer.
+-Eu sei.
+
+822
+01:06:42,633 --> 01:06:45,400
+Eu acreditava que fazia
+este trabalho por isso.
+
+823
+01:06:50,866 --> 01:06:53,200
+Você acha que...
+
+824
+01:06:55,000 --> 01:06:57,300
+Você acha que pode ficar?
+
+825
+01:06:57,933 --> 01:06:59,633
+Por mim?
+
+826
+01:07:01,133 --> 01:07:03,033
+Faça uma companheira
+para mim.
+
+827
+01:07:03,066 --> 01:07:05,066
+Isso deixaria você feliz?
+
+828
+01:07:14,400 --> 01:07:18,533
+Vou falar para a segurança
+colocar cadeados nas lixeiras.
+
+829
+01:08:05,333 --> 01:08:07,466
+Oi. Você está a fim?
+
+830
+01:08:07,933 --> 01:08:09,200
+Desculpe?
+
+831
+01:08:09,233 --> 01:08:12,000
+Só quero saber
+se você está a fim.
+
+832
+01:08:12,033 --> 01:08:14,033
+Desculpe, não entendi.
+
+833
+01:08:14,066 --> 01:08:17,866
+Perdão. Achei que estivesse aqui
+para encontrar alguém.
+
+834
+01:08:17,899 --> 01:08:19,233
+Foi mal.
+
+835
+01:08:19,933 --> 01:08:22,133
+Não, eu acho que não.
+
+836
+01:08:22,166 --> 01:08:25,366
+Tudo bem se eu me sentar
+e conversarmos um pouco?
+
+837
+01:08:26,800 --> 01:08:29,233
+-Michael.
+-Zoe.
+
+838
+01:08:29,266 --> 01:08:30,466
+Prazer.
+
+839
+01:08:31,566 --> 01:08:32,966
+Prazer.
+
+840
+01:10:03,166 --> 01:10:04,666
+Me beije.
+
+841
+01:10:16,566 --> 01:10:18,233
+Você quer um?
+
+842
+01:10:19,366 --> 01:10:22,466
+-Não, estou bem.
+-Posso arranjar um por US$ 400.
+
+843
+01:10:22,500 --> 01:10:24,966
+Só estou procurando
+alguém que conheço. Valeu.
+
+844
+01:10:40,700 --> 01:10:43,833
+-Me diga o que fazer.
+-Está sentindo?
+
+845
+01:10:45,433 --> 01:10:48,566
+Ainda não. E você?
+
+846
+01:10:48,833 --> 01:10:50,333
+Um pouco, sim.
+
+847
+01:10:50,366 --> 01:10:53,133
+Mas está menos intenso
+do que de costume.
+
+848
+01:10:53,600 --> 01:10:55,300
+Coloque a mão no meu rosto.
+
+849
+01:10:58,100 --> 01:11:01,800
+-Está sentindo?
+-Acho que não vou sentir.
+
+850
+01:11:03,800 --> 01:11:05,800
+Eu sou sintética.
+
+851
+01:11:08,000 --> 01:11:10,866
+Deve ser por isso
+que o sentimento está fraco.
+
+852
+01:11:26,866 --> 01:11:29,533
+Tem problema
+eu amar outra pessoa?
+
+853
+01:11:31,966 --> 01:11:34,533
+Nas próximas horas,
+você não vai.
+
+854
+01:12:55,466 --> 01:12:58,266
+Você trabalha? O que faz?
+
+855
+01:13:00,266 --> 01:13:02,200
+Sou professora de clássicos.
+
+856
+01:13:02,500 --> 01:13:04,466
+Arqueologia grega e romana.
+
+857
+01:13:12,066 --> 01:13:15,533
+-Devo beber metade?
+-Isso.
+
+858
+01:13:20,933 --> 01:13:22,633
+Quanto tempo demora?
+
+859
+01:13:22,666 --> 01:13:24,500
+Não muito.
+
+860
+01:13:25,733 --> 01:13:29,100
+Já se perguntou se não poderá
+sentir isto sem a droga?
+
+861
+01:13:29,133 --> 01:13:31,500
+Não sei. Isso acontece?
+
+862
+01:13:35,133 --> 01:13:36,866
+Eu não sei.
+
+863
+01:13:46,566 --> 01:13:48,600
+Isso...
+
+864
+01:14:25,700 --> 01:14:27,100
+Oi.
+
+865
+01:14:28,966 --> 01:14:30,700
+Eu tenho que ir.
+
+866
+01:14:32,366 --> 01:14:34,166
+Isso foi ótimo.
+
+867
+01:14:36,933 --> 01:14:38,633
+Se cuida, tá?
+
+868
+01:14:39,100 --> 01:14:40,700
+Vejo você por aí.
+
+869
+01:15:27,866 --> 01:15:29,566
+Você me ama?
+
+870
+01:15:29,866 --> 01:15:32,933
+Sim, eu te amo.
+
+871
+01:15:33,200 --> 01:15:34,933
+Você me ama?
+
+872
+01:15:35,700 --> 01:15:37,266
+Amo.
+
+873
+01:15:38,066 --> 01:15:40,500
+Ela era sintética,
+
+874
+01:15:40,766 --> 01:15:44,400
+e eu queria muito amá-la.
+
+875
+01:15:44,833 --> 01:15:47,366
+Às vezes parecia real.
+
+876
+01:15:48,133 --> 01:15:49,633
+O que é isto?
+
+877
+01:15:50,733 --> 01:15:52,266
+Nada.
+
+878
+01:15:52,533 --> 01:15:56,333
+Mas eu não podia deixar de vê-la
+como outra coisa.
+
+879
+01:15:56,933 --> 01:15:58,700
+Então eu...
+
+880
+01:15:59,433 --> 01:16:01,533
+Eu nunca a deixei
+se aproximar.
+
+881
+01:16:01,566 --> 01:16:05,366
+Não totalmente. Sabe?
+
+882
+01:16:17,433 --> 01:16:21,466
+Ela era...
+Ela era sintética.
+
+883
+01:16:21,500 --> 01:16:24,300
+Eu queria muito
+estar apaixonado por ela.
+
+884
+01:16:24,333 --> 01:16:28,533
+E às vezes...
+às vezes parecia muito real.
+
+885
+01:16:29,766 --> 01:16:31,666
+Como com você.
+
+886
+01:16:31,700 --> 01:16:35,000
+Mas eu não podia deixar de vê-la
+como outra coisa.
+
+887
+01:16:36,066 --> 01:16:37,733
+Você está sentindo?
+
+888
+01:16:37,766 --> 01:16:41,100
+-Eu te amo.
+-Eu te amo.
+
+889
+01:16:43,833 --> 01:16:46,966
+Eu me perguntava se poderia
+ignorar o que ela era,
+
+890
+01:16:47,000 --> 01:16:49,200
+quem ela era.
+
+891
+01:16:50,100 --> 01:16:51,366
+Eu te amo.
+
+892
+01:16:51,400 --> 01:16:53,733
+Eu torcia
+para que fosse diferente,
+
+893
+01:16:53,766 --> 01:16:55,733
+para que o sentimento
+fosse diferente,
+
+894
+01:16:55,766 --> 01:16:59,533
+para que eu conseguisse
+esquecer o que ela era
+
+895
+01:16:59,566 --> 01:17:03,233
+ou aceitar o que ela era,
+não sei.
+
+896
+01:17:06,100 --> 01:17:07,800
+Isso não aconteceu.
+
+897
+01:17:08,366 --> 01:17:10,266
+Eu não consegui.
+
+898
+01:17:45,466 --> 01:17:47,200
+Zoe?
+
+899
+01:18:02,600 --> 01:18:04,233
+Você está bem?
+
+900
+01:18:05,733 --> 01:18:07,233
+Estou.
+
+901
+01:18:07,833 --> 01:18:10,033
+Parei de ir ao laboratório.
+
+902
+01:18:10,066 --> 01:18:12,333
+Não foi isso
+que eu quis dizer.
+
+903
+01:18:15,566 --> 01:18:17,633
+Sabe como é a euforia?
+
+904
+01:18:25,466 --> 01:18:28,300
+E depois como ela passa?
+
+905
+01:18:33,866 --> 01:18:37,100
+Lembro quando você
+começou a trabalhar.
+
+906
+01:18:38,200 --> 01:18:40,600
+Todos achávamos
+que você era perfeita.
+
+907
+01:18:40,900 --> 01:18:43,033
+Estávamos animados
+
+908
+01:18:43,066 --> 01:18:46,000
+com todas as coisas
+que você faria e aprenderia.
+
+909
+01:18:51,166 --> 01:18:53,666
+O laboratório
+não é o mundo real.
+
+910
+01:18:57,333 --> 01:18:58,733
+Não.
+
+911
+01:18:58,766 --> 01:19:00,566
+Você quer experimentar?
+
+912
+01:19:02,800 --> 01:19:04,633
+Comigo?
+
+913
+01:19:05,200 --> 01:19:08,933
+Podemos ir para algum lugar,
+para algum hotel.
+
+914
+01:19:09,766 --> 01:19:12,733
+Eu não sinto mais nada
+sem a droga.
+
+915
+01:19:16,700 --> 01:19:20,300
+-Ela funciona para você?
+-Não.
+
+916
+01:19:20,633 --> 01:19:24,600
+As pessoas com quem eu uso
+não sentem muita coisa.
+
+917
+01:19:24,633 --> 01:19:26,566
+Então por que você usa?
+
+918
+01:19:26,600 --> 01:19:29,833
+Porque me faz sentir
+menos sozinha.
+
+919
+01:19:35,566 --> 01:19:38,400
+-É melhor eu ir.
+-Posso pegar outro café ou...
+
+920
+01:19:38,433 --> 01:19:40,933
+-É melhor eu ir.
+-Está bem.
+
+921
+01:19:42,866 --> 01:19:45,466
+-Obrigada pelo café.
+-O prazer foi meu.
+
+922
+01:20:55,766 --> 01:20:57,266
+Cole.
+
+923
+01:20:57,700 --> 01:20:59,066
+Oi, Ash.
+
+924
+01:20:59,100 --> 01:21:02,333
+-O que está fazendo?
+-Estou fazendo consultoria.
+
+925
+01:21:02,366 --> 01:21:04,500
+Ainda tenho
+meu cartão de acesso.
+
+926
+01:21:08,666 --> 01:21:11,600
+Você não vai encontrar
+o que procura em um comprimido.
+
+927
+01:21:12,300 --> 01:21:14,000
+Vejo você em breve.
+
+928
+01:21:26,666 --> 01:21:28,066
+<i>Cole?</i>
+
+929
+01:21:34,666 --> 01:21:36,333
+Cole?
+
+930
+01:21:44,633 --> 01:21:46,133
+Cole.
+
+931
+01:21:47,033 --> 01:21:48,466
+Acorde.
+
+932
+01:21:48,500 --> 01:21:50,266
+Cole, você está bem?
+
+933
+01:21:50,300 --> 01:21:53,233
+Ninguém consegue
+falar com você há semanas.
+
+934
+01:22:06,933 --> 01:22:08,300
+Obrigado.
+
+935
+01:22:10,566 --> 01:22:13,566
+Cole, há lugares
+aonde você pode ir, sabe?
+
+936
+01:22:14,633 --> 01:22:16,266
+Isso pode ajudar.
+
+937
+01:22:17,200 --> 01:22:18,966
+Eu posso te levar.
+
+938
+01:22:19,833 --> 01:22:22,800
+-Eu vi a Zoe outro dia.
+-Sério?
+
+939
+01:22:22,833 --> 01:22:24,766
+Tinha séculos
+que eu não a via.
+
+940
+01:22:24,800 --> 01:22:27,100
+Ela estava
+em um ponto de encontro.
+
+941
+01:22:27,133 --> 01:22:30,966
+-Como ela está?
+-Ela disse que estava feliz.
+
+942
+01:22:32,033 --> 01:22:34,966
+Está fazendo o que foi
+programada para fazer.
+
+943
+01:22:38,366 --> 01:22:40,366
+Eu vi...
+
+944
+01:22:41,200 --> 01:22:45,566
+Eu vi vocês juntos.
+Vi como você era com ela.
+
+945
+01:22:46,000 --> 01:22:48,400
+Nunca tinha visto você
+daquele jeito.
+
+946
+01:22:48,433 --> 01:22:51,033
+Você parecia engraçado,
+
+947
+01:22:51,066 --> 01:22:55,300
+interessado, instigado e...
+
+948
+01:22:56,633 --> 01:23:00,266
+O que vocês tinham era...
+
+949
+01:23:02,200 --> 01:23:03,700
+real.
+
+950
+01:23:05,100 --> 01:23:07,033
+Era real.
+
+951
+01:23:10,566 --> 01:23:12,566
+Acho que estraguei tudo.
+
+952
+01:23:13,233 --> 01:23:14,966
+Talvez não.
+
+953
+01:23:27,366 --> 01:23:30,766
+Com licença.
+Oi. Quero falar com o Ash.
+
+954
+01:23:30,800 --> 01:23:33,800
+-Ele fica na área de lazer.
+-Está bem. Obrigada.
+
+955
+01:23:33,833 --> 01:23:35,966
+Espere. Você é a Zoe?
+
+956
+01:23:36,200 --> 01:23:38,533
+Sou. Só quero falar com o Ash,
+só isso.
+
+957
+01:23:38,566 --> 01:23:41,900
+-Você é a Zoe? A Zoe?
+-Sim.
+
+958
+01:23:41,933 --> 01:23:43,733
+-Pessoal, olha.
+-Oi.
+
+959
+01:23:43,766 --> 01:23:46,700
+-É um prazer conhecer você.
+-Inacreditável.
+
+960
+01:23:46,733 --> 01:23:48,200
+Essa é a Zoe?
+
+961
+01:23:48,233 --> 01:23:50,533
+-Zoe.
+-Quero dizer, isso é incrível.
+
+962
+01:23:50,566 --> 01:23:51,800
+Tudo bem, eu vou...
+
+963
+01:23:55,600 --> 01:23:57,466
+Você está bem?
+
+964
+01:23:59,866 --> 01:24:01,600
+Estou.
+
+965
+01:24:03,000 --> 01:24:05,033
+Minha manutenção
+perdeu a prioridade
+
+966
+01:24:05,066 --> 01:24:07,666
+desde que
+o outro projeto começou.
+
+967
+01:24:08,366 --> 01:24:10,100
+A verdade é que...
+
+968
+01:24:10,133 --> 01:24:13,833
+estou programado para ser
+tirado de circulação em 37 dias.
+
+969
+01:24:14,200 --> 01:24:15,933
+Eu mesmo pedi, na verdade.
+
+970
+01:24:17,533 --> 01:24:18,666
+Por que, Ash?
+
+971
+01:24:18,700 --> 01:24:21,333
+Porque nunca cheguei
+aonde você está.
+
+972
+01:24:23,133 --> 01:24:27,500
+Talvez porque eu sempre tenha
+sabido que sou uma máquina.
+
+973
+01:24:28,333 --> 01:24:31,466
+Sabe, eu li que é melhor
+sentir dor
+
+974
+01:24:31,500 --> 01:24:33,566
+do que não sentir nada.
+
+975
+01:24:34,900 --> 01:24:38,300
+Acho que essas pessoas supõem
+que a dor passa.
+
+976
+01:24:41,133 --> 01:24:43,000
+Agora vai passar.
+
+977
+01:24:43,033 --> 01:24:44,833
+Eu sinto muito, Ash.
+
+978
+01:25:08,066 --> 01:25:10,400
+<i>Você ajudaria uma pessoa</i>
+<i>amada a se suicidar</i>
+
+979
+01:25:10,433 --> 01:25:12,166
+<i>se fosse a escolha dela?</i>
+
+980
+01:25:12,400 --> 01:25:15,400
+Minha resposta é:
+não tenho certeza.
+
+981
+01:25:15,433 --> 01:25:16,866
+<i>Se seu cão estivesse doente</i>
+
+982
+01:25:16,900 --> 01:25:19,900
+<i>e precisasse amputar as patas</i>
+<i>dianteiras para sobreviver,</i>
+
+983
+01:25:19,933 --> 01:25:23,000
+<i>você permitiria a cirurgia</i>
+<i>ou sacrificaria o cachorro?</i>
+
+984
+01:25:24,100 --> 01:25:26,000
+Eu permitiria a cirurgia.
+
+985
+01:25:27,133 --> 01:25:31,233
+<i>O que atrai você</i>
+<i>em um parceiro em potencial?</i>
+
+986
+01:25:32,933 --> 01:25:35,133
+As coisas que ele quer ser.
+
+987
+01:25:36,566 --> 01:25:38,666
+As coisas que ele ama.
+
+988
+01:25:39,633 --> 01:25:44,033
+<i>O que gostaria que seu parceiro</i>
+<i>não soubesse sobre você?</i>
+
+989
+01:25:44,433 --> 01:25:46,633
+Vai parecer bobagem.
+
+990
+01:25:47,066 --> 01:25:49,766
+Mas eu era gorda.
+
+991
+01:25:49,800 --> 01:25:51,266
+Muito gorda.
+
+992
+01:26:15,433 --> 01:26:17,566
+Elas são impecáveis.
+
+993
+01:26:18,533 --> 01:26:21,433
+Não dá para diferenciá-los
+dos seres humanos.
+
+994
+01:26:22,266 --> 01:26:24,966
+Elas são mais inteligentes,
+
+995
+01:26:25,300 --> 01:26:27,033
+mais sensíveis,
+
+996
+01:26:27,733 --> 01:26:30,133
+mais espontâneas
+e projetadas para fornecer
+
+997
+01:26:30,166 --> 01:26:33,466
+75% mais efeito de Benysol
+do que os humanos.
+
+998
+01:26:35,466 --> 01:26:37,433
+Elas têm o seu rosto, Zoe.
+
+999
+01:26:38,833 --> 01:26:41,166
+Sua inteligência, seu...
+
+1000
+01:26:42,266 --> 01:26:44,400
+seu jeito de ser.
+
+1001
+01:26:47,766 --> 01:26:49,600
+Elas choram?
+
+1002
+01:26:51,566 --> 01:26:53,400
+Elas fazem tudo.
+
+1003
+01:26:56,833 --> 01:26:59,600
+Nunca fomos projetados
+para o mercado.
+
+1004
+01:27:01,566 --> 01:27:03,900
+Agora nós somos...
+
+1005
+01:27:04,466 --> 01:27:06,700
+redundantes,
+somos obsoletos.
+
+1006
+01:27:08,600 --> 01:27:10,800
+Mas elas...
+
+1007
+01:27:11,733 --> 01:27:14,033
+Elas vão mudar o mundo,
+
+1008
+01:27:14,700 --> 01:27:17,033
+porque é isso
+que o mundo quer.
+
+1009
+01:27:19,966 --> 01:27:22,466
+Como eles vão te desligar?
+
+1010
+01:27:23,466 --> 01:27:25,100
+Não sei.
+
+1011
+01:27:26,566 --> 01:27:28,500
+Não quero saber.
+
+1012
+01:27:29,300 --> 01:27:31,633
+Eles fariam isso por mim?
+
+1013
+01:27:33,700 --> 01:27:35,300
+Zoe.
+
+1014
+01:27:36,966 --> 01:27:39,033
+Você foi a primeira.
+
+1015
+01:27:39,300 --> 01:27:41,266
+O protótipo.
+
+1016
+01:27:42,633 --> 01:27:46,266
+Colocariam você num museu
+antes de desligá-la.
+
+1017
+01:27:55,133 --> 01:27:57,066
+Eu tenho que ir.
+
+1018
+01:28:25,666 --> 01:28:27,566
+Zoe, é o Cole.
+
+1019
+01:28:30,900 --> 01:28:32,566
+-Oi.
+-Oi.
+
+1020
+01:28:32,600 --> 01:28:35,233
+Desculpe aparecer assim.
+Não quero incomodar.
+
+1021
+01:28:35,666 --> 01:28:39,300
+Eu não gostei
+de como deixamos as coisas.
+
+1022
+01:28:39,333 --> 01:28:42,100
+Eu nem sei o que...
+
+1023
+01:28:42,133 --> 01:28:44,500
+Eu só queria te ver de novo.
+
+1024
+01:28:45,066 --> 01:28:47,000
+Achei que pudéssemos
+conversar.
+
+1025
+01:28:47,033 --> 01:28:48,733
+Você sabe quem eu sou?
+
+1026
+01:28:49,300 --> 01:28:52,366
+-O quê?
+-Eu sou a próxima geração.
+
+1027
+01:28:53,600 --> 01:28:55,533
+Quer entrar?
+
+1028
+01:29:25,066 --> 01:29:27,700
+-Obrigado.
+-De nada.
+
+1029
+01:29:33,766 --> 01:29:36,100
+Você sabia que era sintética
+desde o começo?
+
+1030
+01:29:36,133 --> 01:29:37,566
+Sabia.
+
+1031
+01:29:37,600 --> 01:29:41,233
+Só a Zoe 1.0 evoluiu
+achando que era humana.
+
+1032
+01:29:41,266 --> 01:29:44,000
+-Você sabe onde ela está?
+-Não.
+
+1033
+01:29:45,500 --> 01:29:47,600
+Por que está atrás dela?
+
+1034
+01:29:48,000 --> 01:29:50,733
+Eu... eu preciso...
+
+1035
+01:29:50,766 --> 01:29:52,966
+Ela é importante para você?
+
+1036
+01:29:54,666 --> 01:29:56,000
+Muito.
+
+1037
+01:29:56,033 --> 01:29:58,266
+Ela é importante para nós
+também.
+
+1038
+01:29:59,000 --> 01:30:02,000
+Fomos criadas com as memórias
+biográficas dela.
+
+1039
+01:30:02,300 --> 01:30:05,400
+Com o histórico,
+com o temperamento dela.
+
+1040
+01:30:07,633 --> 01:30:10,033
+Parece que você quer
+dizer algo para ela.
+
+1041
+01:30:10,933 --> 01:30:12,433
+Eu quero.
+
+1042
+01:30:13,800 --> 01:30:17,166
+Se você quiser,
+eu posso ser ela.
+
+1043
+01:30:18,100 --> 01:30:20,100
+Ela está bem aqui.
+
+1044
+01:30:21,400 --> 01:30:23,766
+Você sabe
+o que está me pedindo?
+
+1045
+01:30:25,300 --> 01:30:27,833
+Sabe que deixará de existir
+depois disso?
+
+1046
+01:30:28,866 --> 01:30:31,700
+-Eu sei.
+-Você sabe o que fazemos aqui.
+
+1047
+01:30:33,300 --> 01:30:36,200
+Você poderia valer
+muito dinheiro
+
+1048
+01:30:36,566 --> 01:30:40,133
+-se fosse recondicionada.
+-Bem...
+
+1049
+01:30:40,166 --> 01:30:42,833
+Sim, isso faz parte
+das minhas condições.
+
+1050
+01:30:43,566 --> 01:30:46,266
+Você será bem remunerada.
+
+1051
+01:30:46,300 --> 01:30:48,833
+Mas não até o meu contato
+no laboratório
+
+1052
+01:30:49,366 --> 01:30:52,800
+confirmar que minhas peças
+não foram adulteradas.
+
+1053
+01:30:53,366 --> 01:30:54,866
+Entendi.
+
+1054
+01:30:55,300 --> 01:30:57,833
+Só preciso saber
+se você pode fazer isso.
+
+1055
+01:30:59,600 --> 01:31:02,000
+Você pode me desligar?
+
+1056
+01:31:02,933 --> 01:31:04,833
+Claro.
+
+1057
+01:31:05,100 --> 01:31:09,133
+Tudo o que você incluiu nela
+está em nós.
+
+1058
+01:31:09,166 --> 01:31:10,800
+E muito mais.
+
+1059
+01:31:11,066 --> 01:31:13,633
+Fomos projetadas
+para ajudar dessa forma.
+
+1060
+01:31:14,166 --> 01:31:16,166
+O que quer dizer para ela?
+
+1061
+01:31:17,933 --> 01:31:19,933
+Eu sei que parece estranho.
+
+1062
+01:31:20,366 --> 01:31:22,333
+Ela está bem aqui.
+
+1063
+01:31:26,200 --> 01:31:28,100
+Eu escuto.
+
+1064
+01:31:30,266 --> 01:31:32,366
+Eu diria a ela
+que sinto muito.
+
+1065
+01:31:34,800 --> 01:31:37,133
+Que eu deveria
+ter me esforçado mais.
+
+1066
+01:31:44,000 --> 01:31:46,700
+Sinto muito
+por tê-la deixado escapar.
+
+1067
+01:31:47,266 --> 01:31:49,233
+E dói...
+
+1068
+01:31:49,566 --> 01:31:52,333
+saber que ela está
+nessa situação por minha causa.
+
+1069
+01:31:54,533 --> 01:31:56,133
+Eu sei.
+
+1070
+01:31:56,833 --> 01:31:58,666
+Está tudo bem.
+
+1071
+01:31:59,933 --> 01:32:01,533
+Está tudo bem.
+
+1072
+01:32:03,533 --> 01:32:05,300
+Eu perdoo você.
+
+1073
+01:32:15,733 --> 01:32:17,566
+O que foi?
+
+1074
+01:32:18,400 --> 01:32:20,733
+Acho que você não pode...
+
+1075
+01:32:22,066 --> 01:32:24,300
+Acho que você não pode
+me perdoar.
+
+1076
+01:32:26,166 --> 01:32:27,533
+Desculpe.
+
+1077
+01:34:02,466 --> 01:34:05,300
+-Ela vai ficar bem?
+-Não sei.
+
+1078
+01:34:12,633 --> 01:34:15,966
+Preciso do meu kit biológico
+e dos drives no meu laptop.
+
+1079
+01:34:16,000 --> 01:34:18,466
+-Traga o que achar necessário.
+-Está bem.
+
+1080
+01:34:20,000 --> 01:34:22,400
+Zoe, você está me ouvindo?
+Zoe?
+
+1081
+01:34:23,033 --> 01:34:24,566
+Você está me ouvindo?
+
+1082
+01:34:25,166 --> 01:34:26,800
+Está me ouvindo?
+
+1083
+01:34:28,933 --> 01:34:30,233
+Zoe.
+
+1084
+01:34:30,266 --> 01:34:33,600
+Está me ouvindo, Zoe?
+Está me ouvindo?
+
+1085
+01:34:39,033 --> 01:34:40,933
+Zoe, está me ouvindo?
+
+1086
+01:35:18,833 --> 01:35:20,300
+Zoe.
+
+1087
+01:35:20,866 --> 01:35:22,333
+Zoe.
+
+1088
+01:35:23,466 --> 01:35:26,300
+-Zoe. Zoe.
+-O que aconteceu?
+
+1089
+01:35:26,333 --> 01:35:29,500
+-Você está bem?
+-Não sei, eu...
+
+1090
+01:35:30,133 --> 01:35:34,200
+Algo dentro de mim
+queria que ela parasse.
+
+1091
+01:35:34,233 --> 01:35:36,333
+Porque você queria viver.
+
+1092
+01:35:37,966 --> 01:35:40,966
+Algo que não é real
+
+1093
+01:35:41,000 --> 01:35:43,300
+não pode fazer essa escolha.
+
+1094
+01:35:43,333 --> 01:35:45,033
+Zoe...
+
+1095
+01:35:51,900 --> 01:35:54,700
+-É melhor você ir.
+-Não, me escute.
+
+1096
+01:35:54,733 --> 01:35:57,333
+Sinto sua falta.
+Sinto falta de estar com você.
+
+1097
+01:35:57,366 --> 01:35:59,566
+-Você deveria ir.
+-Não, me deixe explicar.
+
+1098
+01:35:59,600 --> 01:36:03,666
+-Eu não quero mais isto.
+-Eu sei, mas me deixe explicar.
+
+1099
+01:36:03,700 --> 01:36:05,633
+Por favor, me escute.
+
+1100
+01:36:05,666 --> 01:36:07,833
+Sinto falta
+de estar perto de você.
+
+1101
+01:36:07,866 --> 01:36:10,433
+Esperava que fosse diferente
+para você?
+
+1102
+01:36:10,466 --> 01:36:12,100
+Isso não é justo.
+
+1103
+01:36:12,366 --> 01:36:14,566
+Então diga que eu sou real.
+
+1104
+01:36:15,066 --> 01:36:17,566
+Diga que sou real para você.
+
+1105
+01:36:28,333 --> 01:36:30,233
+Toque.
+
+1106
+01:36:32,133 --> 01:36:36,233
+Puxe a pele.
+Olhe por baixo dela.
+
+1107
+01:36:38,666 --> 01:36:40,566
+Eu sei o que você vê.
+
+1108
+01:36:42,366 --> 01:36:45,400
+Por isso nada
+jamais será real.
+
+1109
+01:36:51,933 --> 01:36:54,633
+Vejo alguém
+que eu machuquei.
+
+1110
+01:36:55,700 --> 01:36:58,266
+E alguém que eu perdi.
+
+1111
+01:36:58,966 --> 01:37:01,233
+Alguém que eu amo.
+
+1112
+01:37:02,366 --> 01:37:06,033
+E eu sei agora
+que é isto que eu quero.
+
+1113
+01:37:06,066 --> 01:37:09,700
+E eu sei
+que não vai ser fácil,
+
+1114
+01:37:09,733 --> 01:37:12,700
+simples ou sem complicações.
+
+1115
+01:37:12,733 --> 01:37:16,566
+É real. Você é real.
+
+1116
+01:37:17,166 --> 01:37:19,766
+Mais real
+do que qualquer outra coisa...
+
+1117
+01:37:21,400 --> 01:37:23,133
+Zoe.
+
+1118
+01:38:10,500 --> 01:38:13,500
+{\an8}Tradutora: Ana Paula Badaró
+DISPOSITIVA
+
