@@ -1,0 +1,4420 @@
+1
+00:03:44,885 --> 00:03:48,192
+<font color=#FFFF00>Seus pais se conheceram
+de uma maneira normal...</font>
+
+2
+00:03:48,793 --> 00:03:51,098
+<font color=#FFFF00>a música virou amor...</font>
+
+3
+00:03:51,799 --> 00:03:54,506
+<font color=#FFFF00>... e o amor virou um ovo.</font>
+
+4
+00:03:59,818 --> 00:04:00,819
+<font color=#FFFF00>Memphis?</font>
+
+5
+00:04:01,621 --> 00:04:03,426
+<font color=#FFFF00>- Está com ele, querido?
+- Sim.</font>
+
+6
+00:04:04,428 --> 00:04:05,731
+<font color=#FFFF00>Aquecido e seguro.</font>
+
+7
+00:04:06,032 --> 00:04:07,335
+<font color=#FFFF00>Agora tome cuidado.</font>
+
+8
+00:04:07,736 --> 00:04:09,539
+<font color=#FFFF00>Oh! Acho que senti alguma coisa se movendo.</font>
+
+9
+00:04:10,041 --> 00:04:11,644
+<font color=#FFFF00>E como era a tradição...</font>
+
+10
+00:04:12,346 --> 00:04:15,352
+<font color=#FFFF00>... as mães se foram para a
+temporada de pesca...</font>
+
+11
+00:04:15,453 --> 00:04:19,629
+<font color=#FFFF00>... enquanto os pais se encarregavam
+de cuidar do ovo.</font>
+
+12
+00:04:19,629 --> 00:04:21,934
+<font color=#FFFF00>- Ficarás bem, pai?
+- Oh, claro, querida.</font>
+
+13
+00:04:22,236 --> 00:04:26,345
+<font color=#FFFF00>Te esperaremos aqui na colina solitária.</font>
+
+14
+00:04:29,652 --> 00:04:31,054
+<font color=#FFFF00>Adeus.</font>
+
+15
+00:04:31,054 --> 00:04:34,463
+<font color=#FFFF00>Adeus Norma Jean,  não se preocupe com nada.</font>
+
+16
+00:04:45,085 --> 00:04:47,090
+<font color=#FFFF00>Quando outros se vão...</font>
+
+17
+00:04:48,995 --> 00:04:50,398
+<font color=#FFFF00>Nós permanecemos.</font>
+
+18
+00:04:50,464 --> 00:04:52,770
+<font color=#FFFF00>Quando o sol desaparece...</font>
+
+19
+00:04:54,675 --> 00:04:56,477
+<font color=#FFFF00>Nós permanecemos.</font>
+
+20
+00:05:00,287 --> 00:05:02,693
+<font color=#FFFF00>Sigam seus instintos, irmãos.</font>
+
+21
+00:05:02,992 --> 00:05:04,797
+<font color=#FFFF00>Todos juntos.</font>
+
+22
+00:05:05,397 --> 00:05:07,604
+<font color=#FFFF00>Cuide do ovo.</font>
+
+23
+00:05:08,504 --> 00:05:10,309
+<font color=#FFFF00>Todos juntos.</font>
+
+24
+00:05:11,211 --> 00:05:13,817
+<font color=#FFFF00>Compartilhe o frio.</font>
+
+25
+00:05:13,817 --> 00:05:17,424
+<font color=#FFFF00>Devemos nos unir para combater
+o vento gelado...</font>
+
+26
+00:05:17,424 --> 00:05:20,933
+<font color=#FFFF00>... e para sobreviver na infinita noite...</font>
+
+27
+00:05:22,536 --> 00:05:25,409
+<font color=#FFFF00>... alzad la voz hermanos...</font>
+
+28
+00:05:25,409 --> 00:05:33,428
+<font color=#FFFF00>... viva o grande Güin que criou almas nos
+corações e peixes nos estômagos.</font>
+
+29
+00:05:53,072 --> 00:05:55,877
+<font color=#FFFF00>Irmãos e irmãs, há uma regra...</font>
+
+30
+00:05:56,278 --> 00:05:59,553
+<font color=#FFFF00>... que predomina sobre qualquer outra:</font>
+
+31
+00:06:00,355 --> 00:06:04,664
+<font color=#FFFF00>- Nunca, jamais, aconteça o que acontecer...
+- Não aconteceu nada.</font>
+
+32
+00:06:04,664 --> 00:06:06,969
+<font color=#FFFF00>deixe cair o ovo.</font>
+
+33
+00:06:07,270 --> 00:06:10,978
+<font color=#FFFF00>Todo está bem, tudo está bem.</font>
+
+34
+00:06:18,895 --> 00:06:23,807
+<font color=#FFFF00>Entre as milhares de vozes que cantaram
+nessa longa noite de inverno...</font>
+
+35
+00:06:24,308 --> 00:06:28,317
+<font color=#FFFF00>... Memphis cantou ferventemente...</font>
+
+36
+00:06:28,417 --> 00:06:33,796
+<font color=#FFFF00>... para que a terra girasse e voltasse o sol.</font>
+
+37
+00:07:33,396 --> 00:07:34,298
+<font color=#FFFF00>Memphis?</font>
+
+38
+00:07:34,799 --> 00:07:36,904
+<font color=#FFFF00>Está tudo bem?</font>
+
+39
+00:07:38,273 --> 00:07:40,779
+<font color=#FFFF00>Não sei, não ouço nada.</font>
+
+40
+00:07:46,792 --> 00:07:48,296
+<font color=#FFFF00>- Está vazio?
+- Querido.</font>
+
+41
+00:07:48,296 --> 00:07:49,699
+<font color=#FFFF00>- Me dê de presente?
+- Gloria!</font>
+
+42
+00:07:49,699 --> 00:07:51,102
+<font color=#FFFF00>Não se preocupe Maurice.</font>
+
+43
+00:07:58,919 --> 00:08:00,824
+<font color=#FFFF00>- Às vezes isso acontece, Memphis.</font>
+
+44
+00:08:02,126 --> 00:08:02,928
+<font color=#FFFF00>Sim.</font>
+
+45
+00:08:09,243 --> 00:08:10,646
+<font color=#FFFF00>Espera, ouviu isso?</font>
+
+46
+00:08:11,915 --> 00:08:12,517
+<font color=#FFFF00>Sim.</font>
+
+47
+00:08:12,517 --> 00:08:16,125
+<font color=#FFFF00>Posso te ouvir amigo, seu pai está aqui.
+Está tudo bem.</font>
+
+48
+00:08:19,432 --> 00:08:21,237
+<font color=#FFFF00>Oh! Está tudo certo, Maurice!</font>
+
+49
+00:08:21,237 --> 00:08:23,842
+<font color=#FFFF00>¡Essa és sua patita!</font>
+
+50
+00:08:24,343 --> 00:08:26,248
+<font color=#FFFF00>Oh, e aí está a outra!</font>
+
+51
+00:08:29,154 --> 00:08:30,356
+<font color=#FFFF00>É diferente.</font>
+
+52
+00:08:31,059 --> 00:08:32,963
+<font color=#FFFF00>Oi! Volte Sr. Mambo!</font>
+
+53
+00:08:33,063 --> 00:08:34,065
+<font color=#FFFF00>Ah Gloria.</font>
+
+54
+00:08:42,885 --> 00:08:44,355
+<font color=#FFFF00>Mambo! Mambo!</font>
+
+55
+00:08:44,555 --> 00:08:45,657
+<font color=#FFFF00>Você está bem?</font>
+
+56
+00:08:46,760 --> 00:08:49,266
+<font color=#FFFF00>Frio, frio.</font>
+
+57
+00:08:49,567 --> 00:08:51,370
+<font color=#FFFF00>Oh, já você se acostuma.</font>
+
+58
+00:08:52,774 --> 00:08:54,677
+<font color=#FFFF00>Vamos filho, vem com seu pai.</font>
+
+59
+00:08:56,783 --> 00:08:57,585
+<font color=#FFFF00>O que acha disso?</font>
+
+60
+00:08:57,585 --> 00:08:59,087
+<font color=#FFFF00>Tem as patas estranhas.</font>
+
+61
+00:08:59,188 --> 00:09:00,391
+<font color=#FFFF00>- Você está bem?
+- Eu não sei.</font>
+
+62
+00:09:00,591 --> 00:09:01,694
+<font color=#FFFF00>O que está fazendo, meu garoto?</font>
+
+63
+00:09:01,994 --> 00:09:03,497
+<font color=#FFFF00>Estou feliz, pai.</font>
+
+64
+00:09:04,199 --> 00:09:05,402
+<font color=#FFFF00>O que está fazendo com suas patas?</font>
+
+65
+00:09:07,307 --> 00:09:08,709
+<font color=#FFFF00>Também estão felizes.</font>
+
+66
+00:09:08,809 --> 00:09:10,514
+<font color=#FFFF00>Eu não faria isso diante das pessoas, filho.</font>
+
+67
+00:09:10,514 --> 00:09:11,615
+<font color=#FFFF00>Por que não?</font>
+
+68
+00:09:11,716 --> 00:09:13,118
+<font color=#FFFF00>Porque isso não se faz. Certo?</font>
+
+69
+00:09:13,118 --> 00:09:14,422
+<font color=#FFFF00>Certo.</font>
+
+70
+00:09:15,223 --> 00:09:17,495
+<font color=#FFFF00>Bem, agora vem aqui no quentinho.</font>
+
+71
+00:09:18,096 --> 00:09:22,005
+<font color=#FFFF00>Cuidado com o bico, o bico. O bico! Ah!</font>
+
+72
+00:09:22,306 --> 00:09:24,612
+<font color=#FFFF00>Certo... bom garoto.</font>
+
+73
+00:09:30,925 --> 00:09:32,830
+<font color=#FFFF00>Chegaram tarde.
+Por que se atrasaram?</font>
+
+74
+00:09:33,430 --> 00:09:36,839
+<font color=#FFFF00>Rezemos irmãos para que o grande Güin
+não nos castigue pela má pesca.</font>
+
+75
+00:09:37,140 --> 00:09:40,948
+<font color=#FFFF00>Por que Noah?
+Não fomos os responsáveis.</font>
+
+76
+00:09:41,850 --> 00:09:43,052
+<font color=#FFFF00>E quando ver a mamã...</font>
+
+77
+00:09:43,052 --> 00:09:45,557
+<font color=#FFFF00>- Fico totalmente quieto.
+- Está certo.</font>
+
+78
+00:09:45,759 --> 00:09:48,665
+<font color=#FFFF00>Mas como saberei qual é a minha mãe?</font>
+
+79
+00:09:48,765 --> 00:09:52,541
+<font color=#FFFF00>Oh, você saberá. Tem um estilo muito
+particular de andar e falar.</font>
+
+80
+00:09:53,142 --> 00:09:56,048
+<font color=#FFFF00>E quando canta,
+quase estilhaça o seu coração.</font>
+
+81
+00:10:02,965 --> 00:10:03,766
+<font color=#FFFF00>¡Estou vendo-a!</font>
+
+82
+00:10:04,568 --> 00:10:06,772
+<font color=#FFFF00>Está vindo! Está vindo!</font>
+
+83
+00:10:06,772 --> 00:10:09,178
+<font color=#FFFF00>Mulheres chegando!</font>
+
+84
+00:10:09,178 --> 00:10:11,183
+<font color=#FFFF00>Mulheres chegando!</font>
+
+85
+00:10:11,183 --> 00:10:12,885
+<font color=#FFFF00>Mulheres chegando!</font>
+
+86
+00:10:13,187 --> 00:10:14,089
+<font color=#FFFF00>Mambo, volte aqui.</font>
+
+87
+00:10:15,492 --> 00:10:17,096
+<font color=#FFFF00>Mumble, volte aqui!</font>
+
+88
+00:10:42,819 --> 00:10:43,822
+<font color=#FFFF00>Mamble!</font>
+
+89
+00:10:43,822 --> 00:10:44,824
+<font color=#FFFF00>Mambo!</font>
+
+90
+00:10:44,824 --> 00:10:45,827
+<font color=#FFFF00>Mambo!</font>
+
+91
+00:10:47,129 --> 00:10:48,031
+<font color=#FFFF00>Mãe!</font>
+
+92
+00:10:51,940 --> 00:10:53,342
+<font color=#FFFF00>Mambo!</font>
+
+93
+00:10:54,846 --> 00:10:56,550
+<font color=#FFFF00>Volte Mambo. Onde você está?</font>
+
+94
+00:11:03,833 --> 00:11:05,137
+<font color=#FFFF00>Memphis?</font>
+
+95
+00:11:07,040 --> 00:11:11,651
+<font color=#FFFF00>- Oh, mãe.
+- Pai.</font>
+
+96
+00:11:12,954 --> 00:11:14,758
+<font color=#FFFF00>Então, onde está o bebé?</font>
+
+97
+00:11:14,758 --> 00:11:16,361
+<font color=#FFFF00>Bem, querida...</font>
+
+98
+00:11:16,661 --> 00:11:17,563
+<font color=#FFFF00>O encontrarei.</font>
+
+99
+00:11:17,563 --> 00:11:18,868
+<font color=#FFFF00>- Você perdeu o bebé?
+- Fique tranquila.</font>
+
+100
+00:11:18,868 --> 00:11:19,770
+<font color=#FFFF00>Memphis!</font>
+
+101
+00:11:19,969 --> 00:11:20,972
+<font color=#FFFF00>Mãe? Mamã!</font>
+
+102
+00:11:20,972 --> 00:11:22,074
+<font color=#FFFF00>Quieto!</font>
+
+103
+00:11:24,179 --> 00:11:25,482
+<font color=#FFFF00>- Vem com a mamã.
+- Não Mambo!</font>
+
+104
+00:11:28,689 --> 00:11:30,593
+<font color=#FFFF00>O que há de errado com suas patas?</font>
+
+105
+00:11:30,593 --> 00:11:33,166
+<font color=#FFFF00>Oh, é uma gracinha que está fazendo,
+já vai passar.</font>
+
+106
+00:11:34,369 --> 00:11:35,571
+<font color=#FFFF00>Mama.</font>
+
+107
+00:11:37,976 --> 00:11:41,184
+<font color=#FFFF00>- Memphis, é maravilhoso.
+- Verdade, não?</font>
+
+108
+00:11:41,184 --> 00:11:42,987
+<font color=#FFFF00>- Olhe para você.
+- Mamã.</font>
+
+109
+00:11:42,987 --> 00:11:46,695
+<font color=#FFFF00>Tenho algo para você. Abre o bico.</font>
+
+110
+00:11:50,704 --> 00:11:52,810
+<font color=#FFFF00>Eu amo quando vejo isso.</font>
+
+111
+00:11:58,722 --> 00:12:02,831
+<font color=#FFFF00>- Bom dia, classe.
+- Bom dia senhorita Viola.</font>
+
+112
+00:12:03,734 --> 00:12:06,005
+<font color=#FFFF00>Hoje começaremos com o tema
+mais importante que...</font>
+
+113
+00:12:06,005 --> 00:12:08,612
+<font color=#FFFF00>... que aprenderão na escola de pinguins.</font>
+
+114
+00:12:08,812 --> 00:12:11,217
+<font color=#FFFF00>Alguém sabe qual é? Alguém?</font>
+
+115
+00:12:11,519 --> 00:12:14,224
+<font color=#FFFF00>- Ninguém? Seymour?
+- Pescar?</font>
+
+116
+00:12:14,224 --> 00:12:15,828
+<font color=#FFFF00>Não.
+Mambo ?</font>
+
+117
+00:12:16,329 --> 00:12:20,238
+<font color=#FFFF00>- Hm, não comer neve amarela?
+- Não, não é essa, não.</font>
+
+118
+00:12:20,238 --> 00:12:23,344
+<font color=#FFFF00>- É nossa canção do coração.
+- Obrigada Gloria. Muito bem, sim.</font>
+
+119
+00:12:26,250 --> 00:12:26,351
+<font color=#FFFF00>Sem a música do coração
+seríamos pinguins? Não?</font>
+
+120
+00:12:26,351 --> 00:12:28,556
+<font color=#FFFF00>Não.</font>
+
+121
+00:12:28,556 --> 00:12:32,064
+<font color=#FFFF00>No entanto, não é um habilidade
+queres e pode ensinar.</font>
+
+122
+00:12:32,064 --> 00:12:34,570
+<font color=#FFFF00>Alguém sabe por quê? Alguém?</font>
+
+123
+00:12:34,570 --> 00:12:37,844
+<font color=#FFFF00>Se pode ensinar porque
+temos que encontrar...</font>
+
+124
+00:12:37,844 --> 00:12:40,049
+<font color=#FFFF00>... nossa música, nós mesmos.</font>
+
+125
+00:12:40,249 --> 00:12:43,155
+<font color=#FFFF00>- Parabéns, Gloria.
+- É a voz do nosso interior.</font>
+
+126
+00:12:43,155 --> 00:12:45,261
+<font color=#FFFF00>- Sim.
+- Nosso verdadeiro "eu".</font>
+
+127
+00:12:45,560 --> 00:12:47,365
+<font color=#FFFF00>Obrigada, Gloria. Muito bem, muito obrigada.</font>
+
+128
+00:12:47,365 --> 00:12:53,379
+<font color=#FFFF00>Fiquem todos muito quietos.
+Esperem e ela chamará por vocês.</font>
+
+129
+00:12:54,181 --> 00:12:55,383
+<font color=#FFFF00>Eu por favor. Eu primeiro!</font>
+
+130
+00:12:55,383 --> 00:12:57,687
+<font color=#FFFF00>Um de cada vez! Seymour?</font>
+
+131
+00:13:05,506 --> 00:13:08,512
+<font color=#FFFF00>Gostei. Essa canção sim que está na moda.
+Encantador.</font>
+
+132
+00:13:08,512 --> 00:13:10,317
+<font color=#FFFF00>Estou pronta. Eu tenho uma.</font>
+
+133
+00:13:10,317 --> 00:13:12,187
+<font color=#FFFF00>Ah, já sabia Gloria.</font>
+
+134
+00:13:15,695 --> 00:13:26,619
+<font color=#FFFF00><i>A noite se aproxima lentamente
+para quem precisa mas...</i></font>
+
+135
+00:13:26,619 --> 00:13:36,242
+<font color=#FFFF00><i>...a luz não ajuda um pinguim
+que vai cuidar de seus ovos.</i></font>
+
+136
+00:13:36,642 --> 00:13:38,346
+<font color=#FFFF00>Isso é tudo que tenho agora.</font>
+
+137
+00:13:38,346 --> 00:13:39,648
+<font color=#FFFF00>Encantadora.</font>
+
+138
+00:13:39,648 --> 00:13:41,151
+<font color=#FFFF00>É maravilhosa.</font>
+
+139
+00:13:41,151 --> 00:13:43,757
+<font color=#FFFF00>Bem Mambo, parece que quer participar.</font>
+
+140
+00:13:44,627 --> 00:13:49,037
+<font color=#FFFF00>Hm, a minha é como "bum" e vai...</font>
+
+141
+00:13:51,842 --> 00:13:53,246
+<font color=#FFFF00>... e logo outro "bum".</font>
+
+142
+00:13:53,246 --> 00:13:55,450
+<font color=#FFFF00>- Isso é o que sente?
+- Você gosta?</font>
+
+143
+00:13:55,450 --> 00:13:58,057
+<font color=#FFFF00>- Nem sequer é uma melodia
+- Ah. Não?</font>
+
+144
+00:13:58,057 --> 00:14:00,561
+<font color=#FFFF00>Não querido. A melodia é como...</font>
+
+145
+00:14:04,671 --> 00:14:05,774
+<font color=#FFFF00>Oh, certo.</font>
+
+146
+00:14:11,185 --> 00:14:12,890
+<font color=#FFFF00>Quem é esse?</font>
+
+147
+00:14:12,890 --> 00:14:15,596
+<font color=#FFFF00>É o filhote de Memphis e Norma Jean.</font>
+
+148
+00:14:16,097 --> 00:14:17,701
+<font color=#FFFF00>Ah, o pequeno bebé bailarino.</font>
+
+149
+00:14:24,182 --> 00:14:26,287
+<font color=#FFFF00>Não tem graça!</font>
+
+150
+00:14:26,287 --> 00:14:27,990
+<font color=#FFFF00>Não, não mesmo.</font>
+
+151
+00:14:28,391 --> 00:14:31,899
+<font color=#FFFF00>Um pinguim se música no coração
+não é um pinguim inteiro.</font>
+
+152
+00:14:32,199 --> 00:14:33,503
+<font color=#FFFF00>Meus ouvidos doem.</font>
+
+153
+00:14:35,607 --> 00:14:39,616
+<font color=#FFFF00>Nunca em toda minha vida...
+E você tem uma tão bonita voz.</font>
+
+154
+00:14:39,917 --> 00:14:44,527
+<font color=#FFFF00>É muito raro. Aconteceu algo?
+Não sei, durante seu crescimento?</font>
+
+155
+00:14:44,727 --> 00:14:47,734
+<font color=#FFFF00>Não, tudo saiu bem. Uma gravidez normal.</font>
+
+156
+00:14:47,734 --> 00:14:48,736
+<font color=#FFFF00>Não é querido?</font>
+
+157
+00:14:49,037 --> 00:14:53,213
+<font color=#FFFF00>- Sim, foi um inverno difícil, acho.
+- Eu me lembro.</font>
+
+158
+00:14:53,715 --> 00:14:56,320
+<font color=#FFFF00>- Demorou um pouco para nascer...
+- Sim, entendo.</font>
+
+159
+00:14:56,320 --> 00:14:59,126
+<font color=#FFFF00>E pensar que poderia passar sua vida sozinho.</font>
+
+160
+00:14:59,828 --> 00:15:02,032
+<font color=#FFFF00>No conhecera seu verdadeiro amor.</font>
+
+161
+00:15:02,032 --> 00:15:05,239
+<font color=#FFFF00>Por favor senhorita Viola,
+Há algo que podemos fazer?</font>
+
+162
+00:15:05,541 --> 00:15:09,049
+<font color=#FFFF00>Bom, talvez a senhora Astrakhan.</font>
+
+163
+00:15:09,049 --> 00:15:10,150
+<font color=#FFFF00>A senhora Astrakhan?</font>
+
+164
+00:15:10,150 --> 00:15:12,256
+<font color=#FFFF00>Se alguém pode ajudar, é
+a senhora Astrakhan.</font>
+
+165
+00:15:17,367 --> 00:15:23,781
+<font color=#FFFF00>Não canta? Não canta? Parece mentira,
+cada pinguim tem uma música.</font>
+
+166
+00:15:23,781 --> 00:15:29,060
+<font color=#FFFF00>Quando terminarmos, sua música
+transformará todos em carne de galinha.</font>
+
+167
+00:15:29,762 --> 00:15:33,069
+<font color=#FFFF00>Bem, comecemos. Primeiro tem que
+buscar um sentimento...</font>
+
+168
+00:15:33,871 --> 00:15:39,785
+<font color=#FFFF00>... de felicidade, de tristeza ou talvez
+um de solidão.</font>
+
+169
+00:15:40,887 --> 00:15:42,791
+<font color=#FFFF00>-Está sentindo?
+- Sim.</font>
+
+170
+00:15:42,791 --> 00:15:48,403
+<font color=#FFFF00>Bem. Agora coloque para fora,
+seja espontâneo.</font>
+
+171
+00:15:53,014 --> 00:15:56,822
+<font color=#FFFF00>- O que é isso?
+- Estou sendo espontâneo.</font>
+
+172
+00:15:58,893 --> 00:16:02,000
+<font color=#FFFF00>Quer conhecer uma garoto bonita?
+Quer procriar um ovo?</font>
+
+173
+00:16:02,000 --> 00:16:03,504
+<font color=#FFFF00>Oh, sim.</font>
+
+174
+00:16:03,504 --> 00:16:10,520
+<font color=#FFFF00>Então cante e não dance! Não mova
+um só músculo. Não se mova.</font>
+
+175
+00:16:12,323 --> 00:16:15,530
+<font color=#FFFF00><i>Estrelinha, onde está...</i></font>
+
+176
+00:16:16,332 --> 00:16:21,143
+<font color=#FFFF00>Chega! Muito bem, voltemos ao começo.</font>
+
+177
+00:16:21,244 --> 00:16:27,257
+<font color=#FFFF00>Ouça o corpo, busque dento de sua alma,
+sinta o sentimento.</font>
+
+178
+00:16:27,257 --> 00:16:32,334
+<font color=#FFFF00>Um grande sentimento, tão grande
+que leve todo o seu corpo.</font>
+
+179
+00:16:32,334 --> 00:16:38,750
+<font color=#FFFF00>Deve escapar e explodir.
+Agora, abra seu bico.</font>
+
+180
+00:16:39,952 --> 00:16:45,765
+<font color=#FFFF00>Continue assim. Levante a cara, sim e
+agora, agora...</font>
+
+181
+00:17:17,904 --> 00:17:25,521
+<font color=#FFFF00>Que desastre. Catastrófico.
+Eu jamais havia fracassado, jamais, jamais.</font>
+
+182
+00:17:35,342 --> 00:17:38,716
+<font color=#FFFF00>- Pois eu achei que foi algo simpático.
+- Mas não é dos pinguins. Certo?</font>
+
+183
+00:17:38,716 --> 00:17:42,124
+<font color=#FFFF00>E o que há de ruim em ser diferente?
+Sempre gostei do diferente.</font>
+
+184
+00:17:42,124 --> 00:17:45,030
+<font color=#FFFF00>Não é diferente, é um pinguim
+imperador normal.</font>
+
+185
+00:17:45,030 --> 00:17:50,042
+<font color=#FFFF00>Que saber? Posso deixar o colégio,
+posso trabalhar, estaremos os três juntos.</font>
+
+186
+00:17:50,042 --> 00:17:53,450
+<font color=#FFFF00>Espere, espere filho. Não irá a nenhum lugar
+até terminar o colégio.</font>
+
+187
+00:17:53,851 --> 00:17:56,857
+<font color=#FFFF00>Deve ter suas cordas vocais muito fortes.
+Entendeu?</font>
+
+188
+00:17:56,857 --> 00:17:59,062
+<font color=#FFFF00>- Eu tentarei pai.
+- Melhor assim.</font>
+
+189
+00:17:59,062 --> 00:18:01,568
+<font color=#FFFF00>Para triunfar tem que treinar, e isso rima com...</font>
+
+190
+00:18:01,968 --> 00:18:02,270
+<font color=#FFFF00>"A".</font>
+
+191
+00:18:02,270 --> 00:18:04,675
+<font color=#FFFF00>Isso. Um enorme "A".</font>
+
+192
+00:18:06,379 --> 00:18:07,982
+<font color=#FFFF00>Estou indo pescar.</font>
+
+193
+00:18:19,875 --> 00:18:25,087
+<font color=#FFFF00>Pela primeira vez, enquanto seu pai
+sua mãe trabalhavam horas extras...</font>
+
+194
+00:18:25,087 --> 00:18:27,192
+<font color=#FFFF00>... em sua grande viajem fazia no mar...</font>
+
+195
+00:18:28,695 --> 00:18:32,804
+<font color=#FFFF00>Mambo encontrou um lugar
+onde não haveria desaprovações...</font>
+
+196
+00:18:32,804 --> 00:18:38,084
+<font color=#FFFF00>para que um pinguim bailarino
+fosse ele mesmo.</font>
+
+197
+00:19:33,774 --> 00:19:38,284
+<font color=#FFFF00>Olhe! O que está fazendo garoto atleta?
+- Nada. E vocês, o que estão fazendo?</font>
+
+198
+00:19:38,284 --> 00:19:42,894
+<font color=#FFFF00>- Nada, só viemos pela comida.
+- Tem comida aqui?</font>
+
+199
+00:19:45,400 --> 00:19:49,008
+<font color=#FFFF00>Não, não, não, não me comam.
+Sou um pinguim.</font>
+
+200
+00:19:49,008 --> 00:19:52,182
+<font color=#FFFF00>Exacto. Os garotos que andam
+como você, comem peixes...</font>
+
+201
+00:19:52,182 --> 00:19:56,258
+<font color=#FFFF00>... e as aves, como eu, comem
+garotos que nadam e peixes.</font>
+
+202
+00:19:56,492 --> 00:19:59,498
+<font color=#FFFF00>Ultimamente, Tem havido pouco peixe.
+Assim que...</font>
+
+203
+00:20:06,614 --> 00:20:09,421
+<font color=#FFFF00>Ei! Olhe isso.</font>
+
+204
+00:20:14,833 --> 00:20:16,671
+<font color=#FFFF00>Bom, é algo raro, na verdade.</font>
+
+205
+00:20:17,038 --> 00:20:21,381
+<font color=#FFFF00>Desta vez faremos de um jeito civilizado.
+Ache cola.</font>
+
+206
+00:20:21,414 --> 00:20:24,454
+<font color=#FFFF00>- Olhe! O que tem na para?
+- Está falando disso?</font>
+
+207
+00:20:24,756 --> 00:20:26,225
+<font color=#FFFF00>Ah! Não! Não o deixem falar.</font>
+
+208
+00:20:26,225 --> 00:20:29,600
+<font color=#FFFF00>Silêncio! O garoto me fez uma pergunta,
+uma pergunta muito inteligente.</font>
+
+209
+00:20:29,600 --> 00:20:31,270
+<font color=#FFFF00>Essa pergunta merece um resposta.</font>
+
+210
+00:20:31,270 --> 00:20:32,339
+<font color=#FFFF00>Aqui vai.</font>
+
+211
+00:20:32,639 --> 00:20:37,149
+<font color=#FFFF00>Tenho duas palavras para você:
+sequestro alienígena.</font>
+
+212
+00:20:39,554 --> 00:20:40,657
+<font color=#FFFF00>Silêncio!</font>
+
+213
+00:20:42,127 --> 00:20:47,172
+<font color=#FFFF00>Escute amiguinho. Há algo mais além,
+criaturas diferentes.</font>
+
+214
+00:20:47,172 --> 00:20:49,142
+<font color=#FFFF00>Grandes, feias e inteligentes.</font>
+
+215
+00:20:49,610 --> 00:20:51,382
+<font color=#FFFF00>- Pergunte como eu sei.
+- Como você sabe?</font>
+
+216
+00:20:51,382 --> 00:20:54,989
+<font color=#FFFF00>- Porque me capturaram, por isso.
+- Incrível.</font>
+
+217
+00:20:54,989 --> 00:20:59,666
+<font color=#FFFF00>Como é incrível? É a verdade!
+Estava em uma rocha tranquilo, e de repente...</font>
+
+218
+00:20:59,666 --> 00:21:05,713
+<font color=#FFFF00>me agarraram uns seres, como enormes
+pinguins de cara plana com olhos na frente,</font>
+
+219
+00:21:05,713 --> 00:21:09,188
+<font color=#FFFF00>sem plumas e bico, só umas...
+extremidades.</font>
+
+220
+00:21:09,622 --> 00:21:14,600
+<font color=#FFFF00>Me prenderam, me cercaram, me examinaram,
+apontaram algo pontiagudo e me injectaram...</font>
+
+221
+00:21:15,502 --> 00:21:17,907
+<font color=#FFFF00>e então eu desmaiei.</font>
+
+222
+00:21:19,612 --> 00:21:24,523
+<font color=#FFFF00>Quando acordei, estava com isso...
+agora, cada ave que vejo, riem de mim...</font>
+
+223
+00:21:24,722 --> 00:21:28,731
+<font color=#FFFF00>"Ei, Como vai, pata amarela?"
+Foi algo humilhante.</font>
+
+224
+00:21:29,333 --> 00:21:33,309
+<font color=#FFFF00>- Foi o que?
+- Foi humilhante. O que você quer?</font>
+
+225
+00:21:34,611 --> 00:21:36,616
+<font color=#FFFF00>Podiam ter te comido.</font>
+
+226
+00:21:37,717 --> 00:21:43,431
+<font color=#FFFF00>Sim, suponho que minhas súplicas de piedade
+tocaram seu lado sensível.</font>
+
+227
+00:21:43,431 --> 00:21:46,537
+<font color=#FFFF00>Então...
+Podia eu, tocar o seu lado sensível?</font>
+
+228
+00:21:47,440 --> 00:21:49,846
+<font color=#FFFF00>Boa tentativa, mas não.</font>
+
+229
+00:21:55,057 --> 00:21:57,663
+<font color=#FFFF00>-O que está fazendo aí, nadador?
+- Venha aqui!</font>
+
+230
+00:21:58,064 --> 00:22:00,069
+<font color=#FFFF00>-Ordeno-te que saia agora mesmo.
+- Não!</font>
+
+231
+00:22:00,569 --> 00:22:02,273
+<font color=#FFFF00>Está bem, deixe-o ir.</font>
+
+232
+00:22:03,776 --> 00:22:06,450
+<font color=#FFFF00>- Eh! Sequestraram-me!</font>
+
+233
+00:22:09,054 --> 00:22:11,761
+<font color=#FFFF00>Onde você vai? Tem algo que não
+contei.</font>
+
+234
+00:22:42,997 --> 00:22:48,510
+<font color=#FFFF00>Sem prestar atenção em seu coração bailarino,
+o pequeno passou dias no colégio...</font>
+
+235
+00:22:48,510 --> 00:22:53,722
+<font color=#FFFF00>chacoteado pelo grupo,
+perdido em seus pensamentos.</font>
+
+236
+00:22:58,532 --> 00:23:03,443
+<font color=#FFFF00>Quão incríveis mundos existiam
+muito mais além do gelo.</font>
+
+237
+00:23:06,952 --> 00:23:11,628
+<font color=#FFFF00>Havia algum lugar em que um pinguim
+como ele, sem um coração cantante</font>
+
+238
+00:23:11,628 --> 00:23:15,704
+<font color=#FFFF00>... pudera ser feliz?</font>
+
+239
+00:23:31,607 --> 00:23:33,612
+<font color=#FFFF00>E milhares de generacões atrás...</font>
+
+240
+00:23:33,612 --> 00:23:37,051
+<font color=#FFFF00>nossos antepassados trocaram
+as asas por nadadeiras.</font>
+
+241
+00:23:37,419 --> 00:23:40,760
+<font color=#FFFF00>Os graduados que foram ao mar
+pela primeira vez</font>
+
+242
+00:23:40,760 --> 00:23:43,700
+<font color=#FFFF00>viram os benefícios de sua sábia escolha.</font>
+
+243
+00:23:44,202 --> 00:23:46,641
+<font color=#FFFF00>Estamos em tempos difíceis e incertos...</font>
+
+244
+00:23:46,641 --> 00:23:49,848
+<font color=#FFFF00>mas com o poder da sabedoria
+de nossos ancestrais</font>
+
+245
+00:23:49,848 --> 00:23:52,320
+<font color=#FFFF00>nós, familiares, permaneceremos...</font>
+
+246
+00:23:53,689 --> 00:23:55,961
+<font color=#FFFF00>- Bla bla, bla, bla.
+- Norma Jean.</font>
+
+247
+00:23:56,094 --> 00:23:58,466
+<font color=#FFFF00>Quem é ele para decidir que meu filho
+não pode se formar.</font>
+
+248
+00:23:58,466 --> 00:24:01,005
+<font color=#FFFF00>Não faz mal a ninguém.</font>
+
+249
+00:24:00,504 --> 00:24:06,918
+<font color=#FFFF00>... e ser sempre dignos desta honorável
+e valente nação dos pinguins.</font>
+
+250
+00:24:06,918 --> 00:24:07,787
+<font color=#FFFF00>Excelsia!</font>
+
+251
+00:24:26,529 --> 00:24:30,538
+<font color=#FFFF00>Quer saber? Podemos fazer nossa
+própria cerimónia de graduação.</font>
+
+252
+00:24:30,538 --> 00:24:33,879
+<font color=#FFFF00>- É verdade, mãe?
+- Com certeza. Excelsia!</font>
+
+253
+00:24:33,879 --> 00:24:36,986
+<font color=#FFFF00>- Ya, ya, ya!
+- Não levante a voz.</font>
+
+254
+00:24:37,286 --> 00:24:38,890
+<font color=#FFFF00>- Pai.
+- Memphis.</font>
+
+255
+00:24:40,260 --> 00:24:41,530
+<font color=#FFFF00>Ya, ya, ya.</font>
+
+256
+00:24:42,598 --> 00:24:44,903
+<font color=#FFFF00>- É com você, tigre.
+- Obrigado mãe.</font>
+
+257
+00:24:48,311 --> 00:24:50,549
+<font color=#FFFF00>- Desfrute cada momento.
+- Claro mãe.</font>
+
+258
+00:24:50,549 --> 00:24:52,988
+<font color=#FFFF00>- Não fale com desconhecidos.
+- Sim, fique tranquilo pai.</font>
+
+259
+00:24:52,988 --> 00:24:56,295
+<font color=#FFFF00>Cuidado com as focas leopardo
+e as baleias assassinas.</font>
+
+260
+00:24:57,532 --> 00:25:03,478
+<font color=#FFFF00>Escute Noah, esse garoto é de má tradição.
+Acredite em mim, nada bom sairá disso.</font>
+
+261
+00:25:14,001 --> 00:25:15,238
+<font color=#FFFF00>Garotos!</font>
+
+262
+00:25:16,808 --> 00:25:17,710
+<font color=#FFFF00>Esperem-me!</font>
+
+263
+00:25:43,736 --> 00:25:46,408
+<font color=#FFFF00>Você primeiro.
+- Não, você primeiro.</font>
+
+264
+00:26:01,442 --> 00:26:03,980
+<font color=#FFFF00>- O que foi isso?
+- Acho que era uma bola peluda.</font>
+
+265
+00:26:09,927 --> 00:26:11,598
+<font color=#FFFF00>Está vendo sangue?</font>
+
+266
+00:26:15,206 --> 00:26:16,810
+<font color=#FFFF00>O que estão esperando?</font>
+
+267
+00:27:15,808 --> 00:27:20,285
+<font color=#FFFF00>Ei Gloria. Te adoro.
+Que bom te ver, Gloria.</font>
+
+268
+00:27:20,986 --> 00:27:22,089
+<font color=#FFFF00>Gloria.</font>
+
+269
+00:27:48,414 --> 00:27:49,584
+<font color=#FFFF00>Desculpe.</font>
+
+270
+00:27:50,685 --> 00:27:52,390
+<font color=#FFFF00>Abra espaço, aqui vou eu.</font>
+
+271
+00:28:11,198 --> 00:28:12,235
+<font color=#FFFF00>- Gloria.
+- O quê?</font>
+
+272
+00:28:12,235 --> 00:28:15,608
+<font color=#FFFF00>- Toda minha vida eu quis te dizer isso...
+- Peixes.</font>
+
+273
+00:28:15,608 --> 00:28:19,183
+<font color=#FFFF00>- Sim, que você é um peixe.
+- Não. Peixes!</font>
+
+274
+00:28:38,626 --> 00:28:41,199
+<font color=#FFFF00>- Gloria, pegou algum?
+- Não, acho que não.</font>
+
+275
+00:28:41,867 --> 00:28:43,904
+<font color=#FFFF00>- Pegue este.
+- Obrigada Mambo, mas é seu.</font>
+
+276
+00:28:43,904 --> 00:28:46,343
+<font color=#FFFF00>- Quero que você pegue.
+- Não, você o pegou, você deve comê-lo.</font>
+
+277
+00:28:46,343 --> 00:28:47,580
+<font color=#FFFF00>- Quero que você...</font>
+
+278
+00:28:48,315 --> 00:28:48,916
+<font color=#FFFF00>Gaivota!</font>
+
+279
+00:28:49,550 --> 00:28:50,754
+<font color=#FFFF00>Volte aqui!</font>
+
+280
+00:29:20,454 --> 00:29:23,026
+<font color=#FFFF00>- Está respirando?
+- Não, parece que está morto.</font>
+
+281
+00:29:23,493 --> 00:29:26,501
+<font color=#FFFF00>Mambo? Você está bem?</font>
+
+282
+00:29:27,502 --> 00:29:29,106
+<font color=#FFFF00>Mambo.</font>
+
+283
+00:29:30,877 --> 00:29:32,046
+<font color=#FFFF00>O peixe.</font>
+
+284
+00:29:32,313 --> 00:29:33,081
+<font color=#FFFF00>O quê?</font>
+
+285
+00:29:33,916 --> 00:29:36,021
+<font color=#FFFF00>Pegue o estúpido peixe.</font>
+
+286
+00:29:48,048 --> 00:29:49,853
+<font color=#FFFF00>Obrigada Mambo.</font>
+
+287
+00:29:50,921 --> 00:29:52,124
+<font color=#FFFF00>De nada.</font>
+
+288
+00:29:59,240 --> 00:30:03,216
+<font color=#FFFF00>Nesta grande noite de colação,
+de emoção e iluminação...</font>
+
+289
+00:30:03,216 --> 00:30:04,486
+<font color=#FFFF00>... a melhor da sala...</font>
+
+290
+00:30:05,288 --> 00:30:06,723
+<font color=#FFFF00>... a senhorita Gloria.</font>
+
+291
+00:31:10,533 --> 00:31:11,668
+<font color=#FFFF00>- Mambo?
+- Sim?</font>
+
+292
+00:31:11,668 --> 00:31:13,372
+<font color=#FFFF00>- É melhor que só...
+- Sim, eu sei.</font>
+
+293
+00:31:13,372 --> 00:31:16,112
+<font color=#FFFF00>- ... escute. Certo?
+- Sim.</font>
+
+294
+00:31:16,579 --> 00:31:17,950
+<font color=#FFFF00>- Desculpe-me.
+- Não faça nada.</font>
+
+295
+00:31:18,216 --> 00:31:19,286
+<font color=#FFFF00>Perdão.</font>
+
+296
+00:31:19,954 --> 00:31:22,861
+<font color=#FFFF00>É genial. Foi genial.</font>
+
+297
+00:31:25,734 --> 00:31:27,639
+<font color=#FFFF00>Vamos! Quieto ver essas nadadeiras!</font>
+
+298
+00:32:17,249 --> 00:32:18,285
+<font color=#FFFF00>Que você acha que é?</font>
+
+299
+00:32:18,285 --> 00:32:21,693
+<font color=#FFFF00>Está aborrecendo à todos!
+Saia daqui!</font>
+
+300
+00:33:07,028 --> 00:33:09,667
+<font color=#FFFF00>Muito bem garotos. Tudo certo.</font>
+
+301
+00:33:13,174 --> 00:33:15,579
+<font color=#FFFF00>Estou totalmente aterrorizado.</font>
+
+302
+00:33:17,617 --> 00:33:18,687
+<font color=#FFFF00>Gloria?</font>
+
+303
+00:33:19,823 --> 00:33:20,992
+<font color=#FFFF00>Garotos?</font>
+
+304
+00:33:23,998 --> 00:33:26,404
+<font color=#FFFF00>Subam aqui ou vou pegá-los</font>
+
+305
+00:35:02,319 --> 00:35:04,623
+<font color=#FFFF00>- Você é uma bomba, irmão!
+- Isso é um 9.</font>
+
+306
+00:35:04,623 --> 00:35:05,792
+<font color=#FFFF00>Eu te dou um 10.</font>
+
+307
+00:35:09,133 --> 00:35:11,372
+<font color=#FFFF00>Venha. Adiante.</font>
+
+308
+00:35:12,174 --> 00:35:14,312
+<font color=#FFFF00>Aproxime-se e beije minha bunda.</font>
+
+309
+00:35:17,552 --> 00:35:21,394
+<font color=#FFFF00>Aproxime-se salsicha,
+e te comerei ketchup.</font>
+
+310
+00:35:21,628 --> 00:35:23,198
+<font color=#FFFF00>Primeiro terá o ketchup.</font>
+
+311
+00:35:24,668 --> 00:35:25,202
+<font color=#FFFF00>Oh! Está vindo.</font>
+
+312
+00:35:25,202 --> 00:35:26,873
+<font color=#FFFF00>Deveríamos fugir em meia hora.</font>
+
+313
+00:35:28,777 --> 00:35:32,319
+<font color=#FFFF00>Huuuuyaaaan</font>
+
+314
+00:35:36,395 --> 00:35:38,031
+<font color=#FFFF00>Ei amigo, faça isso de novo.
+- O quê?</font>
+
+315
+00:35:38,266 --> 00:35:40,871
+<font color=#FFFF00>- Esse "tili qui cliqui".
+- Sim.</font>
+
+316
+00:35:41,173 --> 00:35:44,512
+<font color=#FFFF00>- Vamos, vamos.
+- Bom, somente faço...</font>
+
+317
+00:35:45,649 --> 00:35:46,417
+<font color=#FFFF00>Oh, sim.</font>
+
+318
+00:35:47,853 --> 00:35:49,658
+<font color=#FFFF00>... e isso...</font>
+
+319
+00:36:00,281 --> 00:36:03,455
+<font color=#FFFF00>Os bigodes do pobrezinho
+acabaram com sua cara.</font>
+
+320
+00:36:03,455 --> 00:36:05,760
+<font color=#FFFF00>Ah não, essa é a sua cara mesmo.</font>
+
+321
+00:36:06,394 --> 00:36:10,872
+<font color=#FFFF00>- Não se esqueçam que eu sei onde vocês vivem.
+- Sim, em terra firme peixe narizudo.</font>
+
+322
+00:36:12,141 --> 00:36:14,145
+<font color=#FFFF00>Volte quando quiser um barrigão.</font>
+
+323
+00:36:16,951 --> 00:36:18,356
+<font color=#FFFF00>Vejo você, gordão.</font>
+
+324
+00:36:19,424 --> 00:36:21,061
+<font color=#FFFF00>Genial: "Vejo você, gordão".</font>
+
+325
+00:36:21,362 --> 00:36:23,399
+<font color=#FFFF00>Criou isso agora?</font>
+
+326
+00:36:24,402 --> 00:36:26,139
+<font color=#FFFF00>Isso é tudo, caras.</font>
+
+327
+00:36:26,139 --> 00:36:27,876
+<font color=#FFFF00>Bate aqui, bate aqui.</font>
+
+328
+00:36:40,438 --> 00:36:42,910
+<font color=#FFFF00>Ei. Você não vem, grandalhão?</font>
+
+329
+00:36:44,681 --> 00:36:46,851
+<font color=#FFFF00>O que, tem algo melhor para fazer?</font>
+
+330
+00:36:48,924 --> 00:36:49,658
+<font color=#FFFF00>Não.</font>
+
+331
+00:36:49,658 --> 00:36:52,265
+<font color=#FFFF00>Pois então vamos, peludo.
+Vamos.</font>
+
+332
+00:37:08,768 --> 00:37:13,279
+<font color=#FFFF00>- Ei amigo, você gosta de festas?
+- Festas? Acho que sim.</font>
+
+333
+00:37:13,279 --> 00:37:17,420
+<font color=#FFFF00>- Fique com nós, garoto.
+- Sim, porque vamos botar para quebrar aqui.</font>
+
+334
+00:37:22,065 --> 00:37:24,369
+<font color=#FFFF00>Todo mundo é tão... espontâneo.</font>
+
+335
+00:37:24,670 --> 00:37:26,441
+<font color=#FFFF00>Espontâneo.</font>
+
+336
+00:37:26,441 --> 00:37:29,715
+<font color=#FFFF00>- E estamos nos más tempos.
+- A cadeia alimentar está louca.</font>
+
+337
+00:37:29,715 --> 00:37:33,924
+<font color=#FFFF00>- A depressão está acabando com todos.
+- Por isso não vai acabar a festa.</font>
+
+338
+00:37:36,028 --> 00:37:37,433
+<font color=#FFFF00>Viva a festa!</font>
+
+339
+00:37:38,067 --> 00:37:39,235
+<font color=#FFFF00>Está comendo pedras!</font>
+
+340
+00:37:41,207 --> 00:37:43,713
+<font color=#FFFF00>- O que você disse?
+- Que está comendo pedras.</font>
+
+341
+00:37:44,782 --> 00:37:46,252
+<font color=#FFFF00>Tinha uma pedra no pico.</font>
+
+342
+00:37:46,653 --> 00:37:49,392
+<font color=#FFFF00>Isso não são pedras, homem.
+São pérolas do amor.</font>
+
+343
+00:37:49,860 --> 00:37:52,566
+<font color=#FFFF00>- Para construir o ninho.
+- O que tem mais pérolas, ganha.</font>
+
+344
+00:37:52,566 --> 00:37:55,372
+<font color=#FFFF00>Já sabe, "chicachicabumbumbum".</font>
+
+345
+00:37:55,372 --> 00:37:57,410
+<font color=#FFFF00>Não te interessam as... garotas?</font>
+
+346
+00:37:57,978 --> 00:37:58,847
+<font color=#FFFF00>Está brincando?</font>
+
+347
+00:37:58,847 --> 00:38:01,252
+<font color=#FFFF00>Sem nós, as garotas não tem "bum".</font>
+
+348
+00:38:02,822 --> 00:38:04,358
+<font color=#FFFF00>E por que não recolhem pérolas?</font>
+
+349
+00:38:04,358 --> 00:38:08,267
+<font color=#FFFF00>- Não fazem falta, cara.
+- Temos "personalidade com P maiúsculo...</font>
+
+350
+00:38:08,267 --> 00:38:11,508
+<font color=#FFFF00>- ...por que? porque somos "quentes".
+- Olhe e aprenda, grandalhão.</font>
+
+351
+00:38:14,281 --> 00:38:16,452
+<font color=#FFFF00>- Ei! Aqui mamã
+- Venha aqui.</font>
+
+352
+00:38:16,452 --> 00:38:17,723
+<font color=#FFFF00>O que é que está olhando,
+está olhando para mim?</font>
+
+353
+00:38:17,723 --> 00:38:19,894
+<font color=#FFFF00>Vem aqui, gracinha.
+Vamos, mane.</font>
+
+354
+00:38:20,461 --> 00:38:21,765
+<font color=#FFFF00>Está vendo algo que gosta?</font>
+
+355
+00:38:21,765 --> 00:38:23,702
+<font color=#FFFF00>Não, não esta noite querido.</font>
+
+356
+00:38:24,938 --> 00:38:26,208
+<font color=#FFFF00>Suba até que aqui que não mordo.</font>
+
+357
+00:38:29,148 --> 00:38:32,689
+<font color=#FFFF00><i>Você gosta, você gosta, me quer,
+eu tenho, você também pode ter...</i></font>
+
+358
+00:38:32,689 --> 00:38:34,393
+<font color=#FFFF00>Olhe estas patas gracinha.
+Olhe isso!</font>
+
+359
+00:38:35,095 --> 00:38:36,932
+<font color=#FFFF00><i>Arriba, arriba, arriba!</i></font>
+
+360
+00:38:37,767 --> 00:38:38,902
+<font color=#FFFF00>Onde aprendeu isso?</font>
+
+361
+00:38:39,002 --> 00:38:40,506
+<font color=#FFFF00>- Com o grandalhão.
+- Ele não é daqui.</font>
+
+362
+00:38:40,506 --> 00:38:41,142
+<font color=#FFFF00>Ele está connosco.</font>
+
+363
+00:38:41,408 --> 00:38:44,615
+<font color=#FFFF00>- Faça de novo, querido.
+- Deixe-me ver estas patas dançantes.</font>
+
+364
+00:38:45,384 --> 00:38:48,157
+<font color=#FFFF00>-Não, não, desculpe garotas.
+- Outro dia, quem sabe.</font>
+
+365
+00:38:49,025 --> 00:38:51,766
+<font color=#FFFF00>Você tem neve no cérebro! Certo?</font>
+
+366
+00:38:52,166 --> 00:38:54,738
+<font color=#FFFF00>- Vamos.
+- Elas acabaram de nos perder.</font>
+
+367
+00:38:54,939 --> 00:38:57,779
+<font color=#FFFF00>- Sim, hasta que seja temporada.
+- Te ensinarei o que tenho.</font>
+
+368
+00:38:57,812 --> 00:39:01,821
+<font color=#FFFF00>- E o que não tenho.
+- Y los amigos, também lo teremos.</font>
+
+369
+00:39:04,193 --> 00:39:05,730
+<font color=#FFFF00>Sabe se posso aprender um pouco disso?</font>
+
+370
+00:39:05,930 --> 00:39:10,207
+<font color=#FFFF00>Homem, você já sabe tanto agora,
+que se tornou perigoso.</font>
+
+371
+00:39:10,974 --> 00:39:12,344
+<font color=#FFFF00>Está falando sério?</font>
+
+372
+00:39:12,612 --> 00:39:16,554
+<font color=#FFFF00>Está brincando? Com esses seus passos,
+deve ter muitas garotas a seus pés</font>
+
+373
+00:39:16,954 --> 00:39:18,024
+<font color=#FFFF00>Eu não diria isso.</font>
+
+374
+00:39:18,992 --> 00:39:21,532
+<font color=#FFFF00>Escutem ele, é tão triste.</font>
+
+375
+00:39:21,532 --> 00:39:24,706
+<font color=#FFFF00>Deixe-me dizer algo.
+Depois de mim, grandalhão...</font>
+
+376
+00:39:24,706 --> 00:39:27,278
+<font color=#FFFF00>você tem mais carisma que qualquer um.</font>
+
+377
+00:39:27,278 --> 00:39:29,984
+<font color=#FFFF00>- Deixe te ego de lado, Ramón.
+- Vai machucar alguém.</font>
+
+378
+00:39:31,221 --> 00:39:33,023
+<font color=#FFFF00>Você tem inveja de mim.
+Um momento!</font>
+
+379
+00:39:33,023 --> 00:39:34,660
+<font color=#FFFF00>O público pede algo.</font>
+
+380
+00:39:35,296 --> 00:39:36,499
+<font color=#FFFF00>A mim!</font>
+
+381
+00:41:10,910 --> 00:41:13,582
+<font color=#FFFF00>Me sinto como uma criança  em um tobogã.</font>
+
+382
+00:42:45,722 --> 00:42:48,060
+<font color=#FFFF00>Ei garotos. Aonde vamos?</font>
+
+383
+00:42:48,527 --> 00:42:50,667
+<font color=#FFFF00>- Vamos voltar.
+- Nós vamos para outro lugar.</font>
+
+384
+00:42:50,700 --> 00:42:52,904
+<font color=#FFFF00>Mas o que era essa coisa?</font>
+
+385
+00:42:52,904 --> 00:42:54,408
+<font color=#FFFF00>- E como vamos saber?
+- Somos pinguins.</font>
+
+386
+00:42:54,408 --> 00:42:55,911
+<font color=#FFFF00>Uns pinguins muito pequenos.</font>
+
+387
+00:42:56,380 --> 00:43:00,389
+<font color=#FFFF00>Mas de onde saiu?
+é muito raro, é... alienígena.</font>
+
+388
+00:43:00,621 --> 00:43:02,861
+<font color=#FFFF00>- Do que ele está falando?
+- Não sei. De alguém chamado "Indígena".</font>
+
+389
+00:43:02,861 --> 00:43:06,134
+<font color=#FFFF00>Eu não conheço nenhum Indígena,
+só a minha prima Epígena.</font>
+
+390
+00:43:06,134 --> 00:43:09,474
+<font color=#FFFF00>Há um mistério aqui, um mistério inexplicável.</font>
+
+391
+00:43:09,474 --> 00:43:11,913
+<font color=#FFFF00>- E? O que quer que façamos?
+- Sim.</font>
+
+392
+00:43:11,913 --> 00:43:14,086
+<font color=#FFFF00>Amigos, tenho que chagar ao fundo disto.</font>
+
+393
+00:43:14,988 --> 00:43:19,063
+<font color=#FFFF00>Sócio, deixe-me dizer algo.
+Aproxime-se, sem medo.</font>
+
+394
+00:43:20,266 --> 00:43:20,967
+<font color=#FFFF00>Você quer respostas?</font>
+
+395
+00:43:20,967 --> 00:43:22,738
+<font color=#FFFF00>- Sim.
+- E é tudo o que precisa?</font>
+
+396
+00:43:22,738 --> 00:43:23,973
+<font color=#FFFF00>- Sim.
+- Nada mais?</font>
+
+397
+00:43:23,973 --> 00:43:25,411
+<font color=#FFFF00>- Não.
+- Pois isso é muito fácil.</font>
+
+398
+00:43:26,112 --> 00:43:27,649
+<font color=#FFFF00>Vamos ver o Amoroso.</font>
+
+399
+00:43:30,354 --> 00:43:31,926
+<font color=#FFFF00>- Ramón é um génio.
+- Obrigado.</font>
+
+400
+00:43:31,926 --> 00:43:34,097
+<font color=#FFFF00>E agora uma pausa para mim.</font>
+
+401
+00:43:34,430 --> 00:43:37,137
+<font color=#FFFF00><i>Abajo, abajo. Já é o suficiente,
+já senti seu amor.</i></font>
+
+402
+00:43:37,137 --> 00:43:40,176
+<font color=#FFFF00>- Quem é o Amoroso?
+- Amoroso é um gurú.</font>
+
+403
+00:43:40,176 --> 00:43:40,945
+<font color=#FFFF00>Vamos ver o Amoroso.</font>
+
+404
+00:43:40,945 --> 00:43:43,551
+<font color=#FFFF00>- Tem respostas para tudo.
+- Sério?</font>
+
+405
+00:43:43,551 --> 00:43:45,590
+<font color=#FFFF00>- Pergunte-o, ele nunca erra.
+- Jamais.</font>
+
+406
+00:43:45,590 --> 00:43:48,329
+<font color=#FFFF00>Mas antes precisa de uma pérola.</font>
+
+407
+00:43:53,340 --> 00:43:57,014
+<font color=#FFFF00>Sua atenção, por favor.
+Uma advertência para o público...</font>
+
+408
+00:43:57,883 --> 00:44:04,165
+<font color=#FFFF00>senhoritas, por favor desviem seus olhos
+porque senão, podem ficar hipnotizadas.</font>
+
+409
+00:44:05,802 --> 00:44:11,514
+<font color=#FFFF00>Ouvirão sua voz. Agora, irão conhecer,
+o único e original Amoroso...</font>
+
+410
+00:44:11,514 --> 00:44:17,561
+<font color=#FFFF00>em pessoa, aqui y agora.</font>
+
+411
+00:44:18,563 --> 00:44:21,302
+<font color=#FFFF00>Sua oferenda. Por favor.</font>
+
+412
+00:44:22,405 --> 00:44:26,347
+<font color=#FFFF00>Bem. E agora, sua pergunta.</font>
+
+413
+00:44:26,748 --> 00:44:31,458
+<font color=#FFFF00>Senhor Amoroso, minha mulher
+está desaparecida. Ainda está viva?</font>
+
+414
+00:44:33,830 --> 00:44:39,108
+<font color=#FFFF00>Escute. Ela está viva?
+Quero saber a verdade.</font>
+
+415
+00:44:39,108 --> 00:44:41,348
+<font color=#FFFF00>Falem-me, seres místicos.</font>
+
+416
+00:44:44,855 --> 00:44:47,762
+<font color=#FFFF00>Sim, é feliz e pensa em você.</font>
+
+417
+00:44:47,961 --> 00:44:51,904
+<font color=#FFFF00>- Está com outro pinguim?
+- Una pérola, uma pergunta. O próximo.</font>
+
+418
+00:44:53,107 --> 00:44:57,884
+<font color=#FFFF00>Senhor, pergunte aos seres místicos:
+Chegarei a ser tão rico como você?</font>
+
+419
+00:44:58,319 --> 00:44:59,789
+<font color=#FFFF00>Em teus sonhos. Próximo.</font>
+
+420
+00:45:00,190 --> 00:45:01,292
+<font color=#FFFF00>Que desagradável.</font>
+
+421
+00:45:03,630 --> 00:45:07,139
+<font color=#FFFF00>Pinguins, já basta. Um de cada vez.</font>
+
+422
+00:45:08,207 --> 00:45:10,913
+<font color=#FFFF00>Viemos aqui com ele. Estamos juntos.
+Ele tem uma grande pergunta.</font>
+
+423
+00:45:11,582 --> 00:45:13,219
+<font color=#FFFF00>- Vamos.
+- Não o olhe nos olhos.</font>
+
+424
+00:45:13,819 --> 00:45:18,965
+<font color=#FFFF00>- Os alienígenas te sequestraram?
+- Que pergunta é essa? Próximo.</font>
+
+425
+00:45:19,733 --> 00:45:22,540
+<font color=#FFFF00>Conheci uma gaivota com uma coisa
+como essa na pata</font>
+
+426
+00:45:22,540 --> 00:45:24,143
+<font color=#FFFF00>... e disse que foram os alienígenas.</font>
+
+427
+00:45:24,510 --> 00:45:28,888
+<font color=#FFFF00>Isto, amigo, é meu talismã secreto.</font>
+
+428
+00:45:30,524 --> 00:45:32,461
+<font color=#FFFF00>Talismã, talismã.</font>
+
+429
+00:45:32,461 --> 00:45:38,909
+<font color=#FFFF00>- Foi-me outorgado pelos seres místicos...
+- Seres místicos.</font>
+
+430
+00:45:38,909 --> 00:45:42,183
+<font color=#FFFF00>... em minha viagem épica de iluminação...</font>
+
+431
+00:45:43,252 --> 00:45:47,028
+<font color=#FFFF00>... à costa proibida.</font>
+
+432
+00:45:47,028 --> 00:45:48,932
+<font color=#FFFF00>E tenho dito.</font>
+
+433
+00:45:50,167 --> 00:45:53,341
+<font color=#FFFF00><i>Costa proibida.</i></font>
+
+434
+00:45:53,341 --> 00:45:54,311
+<font color=#FFFF00>É assim.</font>
+
+435
+00:45:54,311 --> 00:46:00,525
+<font color=#FFFF00>- Viu os seres místicos?
+- Escutei-os. Falaram através de mim. Oh sim.</font>
+
+436
+00:46:01,560 --> 00:46:04,099
+<font color=#FFFF00>É o poder que me sustenta no dever.</font>
+
+437
+00:46:04,099 --> 00:46:08,041
+<font color=#FFFF00>Tinham os olhos na frente? Examinaram-te?
+Prenderam-te? Cercaram-te?</font>
+
+438
+00:46:08,041 --> 00:46:08,977
+<font color=#FFFF00>Chega!</font>
+
+439
+00:46:11,549 --> 00:46:14,455
+<font color=#FFFF00>Perguntas demais...
+Não tem pérolas o suficiente.</font>
+
+440
+00:46:14,856 --> 00:46:16,594
+<font color=#FFFF00>Não respondeu nenhuma
+de minhas perguntas.</font>
+
+441
+00:46:16,594 --> 00:46:17,830
+<font color=#FFFF00>Quantas perguntas tens?</font>
+
+442
+00:46:17,830 --> 00:46:19,634
+<font color=#FFFF00>Todos temos perguntas.</font>
+
+443
+00:46:24,911 --> 00:46:26,650
+<font color=#FFFF00>Silêncio!</font>
+
+444
+00:46:27,985 --> 00:46:30,424
+<font color=#FFFF00>Trazeis esse estrangeiro
+ante minha presença.</font>
+
+445
+00:46:30,424 --> 00:46:34,968
+<font color=#FFFF00>Duvida de meus poderes.
+Compara-me com uma gaivota.</font>
+
+446
+00:46:35,435 --> 00:46:40,580
+<font color=#FFFF00>As vozes se retorcem em minha mente.
+Dizem: "Amoroso, quem é o tonto?</font>
+
+447
+00:46:40,947 --> 00:46:45,592
+<font color=#FFFF00>Digo, digo que se vão e multipliquem-se.</font>
+
+448
+00:46:46,593 --> 00:46:52,140
+<font color=#FFFF00>Pensando bem. Por que não vamos
+todos nos multiplicar?</font>
+
+449
+00:46:52,140 --> 00:46:53,711
+<font color=#FFFF00>Amoroso.</font>
+
+450
+00:46:53,711 --> 00:46:55,715
+<font color=#FFFF00>- Mas o que ele disse?
+- Que hoje tem festa.</font>
+
+451
+00:46:56,382 --> 00:47:00,158
+<font color=#FFFF00>E agora me retiro aos meus aposentos
+de perpétua complacência.</font>
+
+452
+00:47:00,158 --> 00:47:02,129
+<font color=#FFFF00>Bom garotas, qual é a primeira?</font>
+
+453
+00:47:06,305 --> 00:47:08,476
+<font color=#FFFF00>Espere um momento.
+E o que acontece com a gente?</font>
+
+454
+00:47:12,551 --> 00:47:16,594
+<font color=#FFFF00>Escutem-me! Não há
+suficiente amor no mundo.</font>
+
+455
+00:47:16,594 --> 00:47:18,767
+<font color=#FFFF00>Virem-se para o pinguim ao lado...</font>
+
+456
+00:47:18,767 --> 00:47:24,111
+<font color=#FFFF00>Abram as asas, sacudam-nas
+e dê um enorme abraço.</font>
+
+457
+00:47:31,227 --> 00:47:32,531
+<font color=#FFFF00>O que vêem nesse cara?</font>
+
+458
+00:47:32,531 --> 00:47:34,333
+<font color=#FFFF00>- Por que está me abraçando?
+- Porque é uma ordem.</font>
+
+459
+00:47:34,333 --> 00:47:35,904
+<font color=#FFFF00>- Largue-me.
+- Não, você gosta.</font>
+
+460
+00:47:36,772 --> 00:47:40,081
+<font color=#FFFF00>- E vocês? Recolhem pérolas?
+- Não recolhemos pérolas.</font>
+
+461
+00:47:40,281 --> 00:47:42,753
+<font color=#FFFF00>- Não? Por quê?
+- Vivemos no gelo.</font>
+
+462
+00:47:43,120 --> 00:47:46,729
+<font color=#FFFF00>- E como paqueram as garotas?
+- Bem... cantamos.</font>
+
+463
+00:47:51,171 --> 00:47:52,107
+<font color=#FFFF00>Está brincando, não?</font>
+
+464
+00:47:52,408 --> 00:47:56,817
+<font color=#FFFF00>Não, nós cantamos um para o outro.
+Se alguém especial que goste de sua música...</font>
+
+465
+00:47:57,319 --> 00:47:59,223
+<font color=#FFFF00>Oh, e você tem alguém especial?</font>
+
+466
+00:47:59,223 --> 00:48:01,728
+<font color=#FFFF00>-Alguma beleza no teu obscuro
+passado romântico...</font>
+
+467
+00:48:01,929 --> 00:48:04,200
+<font color=#FFFF00>- de que nunca tem falado?
+- Talvez, algo assim.</font>
+
+468
+00:48:04,200 --> 00:48:07,007
+<font color=#FFFF00>Óptimo, fale de nós,
+talvez tenha amigas.</font>
+
+469
+00:48:07,007 --> 00:48:08,043
+<font color=#FFFF00>Eu gosto das altas.</font>
+
+470
+00:48:08,712 --> 00:48:10,349
+<font color=#FFFF00>- Jamais funcionará.
+- Ei grandalhão.</font>
+
+471
+00:48:10,349 --> 00:48:13,120
+<font color=#FFFF00>- É temporada de amor.
+- Apenas cante.</font>
+
+472
+00:48:13,120 --> 00:48:14,992
+<font color=#FFFF00>Esse é o problema, não posso.</font>
+
+473
+00:48:14,992 --> 00:48:17,598
+<font color=#FFFF00>- É um pássaro, não?
+- Todos os pássaros cantam.</font>
+
+474
+00:48:17,798 --> 00:48:19,168
+<font color=#FFFF00>Tente cantar assim.</font>
+
+475
+00:48:21,373 --> 00:48:27,219
+<font color=#FFFF00>Certo. "Só preciso de
+alguém que me..."</font>
+
+476
+00:48:27,219 --> 00:48:29,391
+<font color=#FFFF00>- O que está fazendo?
+- Acho que está cantando.</font>
+
+477
+00:48:29,458 --> 00:48:30,994
+<font color=#FFFF00>Não está cantando, isso não é cantar.</font>
+
+478
+00:48:32,765 --> 00:48:35,538
+<font color=#FFFF00>Uma vez vi um animal que fazia isso,
+quando percebi, estava morto.</font>
+
+479
+00:48:35,637 --> 00:48:39,547
+<font color=#FFFF00>Sim. E quando ela canta
+quase rompe o coração.</font>
+
+480
+00:48:39,547 --> 00:48:43,923
+<font color=#FFFF00>- Uh, o seu caso é triste cara, cara.
+- Fique tranquilo, vamos ajudá-lo.</font>
+
+481
+00:48:43,923 --> 00:48:45,093
+<font color=#FFFF00>- Sério?
+- Claro.</font>
+
+482
+00:48:45,093 --> 00:48:47,331
+<font color=#FFFF00>- Que sim, que sim.
+- De verdade?</font>
+
+483
+00:48:47,331 --> 00:48:49,536
+<font color=#FFFF00>Si.
+Déjame decirte algo.</font>
+
+484
+00:48:49,536 --> 00:48:51,340
+<font color=#FFFF00>Aproxime-se. Mais.</font>
+
+485
+00:48:51,440 --> 00:48:53,043
+<font color=#FFFF00>- Você quer cantar?
+- Sim.</font>
+
+486
+00:48:53,645 --> 00:48:54,413
+<font color=#FFFF00>- Certeza?
+- Claro.</font>
+
+487
+00:48:54,547 --> 00:48:55,650
+<font color=#FFFF00>- Duvida de mim?
+- Não.</font>
+
+488
+00:48:55,650 --> 00:48:57,052
+<font color=#FFFF00>Então isso será fácil.</font>
+
+489
+00:48:57,052 --> 00:49:00,126
+<font color=#FFFF00>Sério? garotos, se puder cantar
+tudo mudará.</font>
+
+490
+00:49:00,260 --> 00:49:04,904
+<font color=#FFFF00>Você vai cantar, só tem que fazer
+exactamente o que eu disser.</font>
+
+491
+00:49:05,137 --> 00:49:06,073
+<font color=#FFFF00>Certo.</font>
+
+492
+00:49:06,440 --> 00:49:07,677
+<font color=#FFFF00>- Eu disse "Certo"?
+- Não.</font>
+
+493
+00:49:07,943 --> 00:49:10,448
+<font color=#FFFF00>- ¿Não? Então o que eu disse?
+- Para fazer exaltamento o que disse.</font>
+
+494
+00:49:10,448 --> 00:49:12,922
+<font color=#FFFF00>Exactamente o que eu disser.</font>
+
+495
+00:50:12,054 --> 00:50:13,524
+<font color=#FFFF00>Isso não vai funcionar.</font>
+
+496
+00:50:50,072 --> 00:50:51,542
+<font color=#FFFF00>Mambo?</font>
+
+497
+00:50:56,420 --> 00:50:57,422
+<font color=#FFFF00>Mambo!</font>
+
+498
+00:51:00,261 --> 00:51:02,934
+<font color=#FFFF00>- Olá Gloria. Olá
+- Olá.</font>
+
+499
+00:51:08,547 --> 00:51:10,418
+<font color=#FFFF00>É você?</font>
+
+500
+00:51:11,687 --> 00:51:14,793
+<font color=#FFFF00>Claro que sou eu. Você gostou?</font>
+
+501
+00:51:15,763 --> 00:51:19,372
+<font color=#FFFF00>Eu até gostaria.
+Se fosse você de verdade, se.</font>
+
+502
+00:51:21,108 --> 00:51:23,580
+<font color=#FFFF00>- Sim, sou eu... quase.
+- Claro.</font>
+
+503
+00:51:25,018 --> 00:51:25,985
+<font color=#FFFF00>Dê uma volta.</font>
+
+504
+00:51:27,890 --> 00:51:28,759
+<font color=#FFFF00>Por quê?</font>
+
+505
+00:51:33,670 --> 00:51:35,340
+<font color=#FFFF00>- Quem diria.
+- Si.</font>
+
+506
+00:51:37,812 --> 00:51:39,483
+<font color=#FFFF00>- Gloria...
+- Mambo, como você pôde...</font>
+
+507
+00:51:41,654 --> 00:51:47,066
+<font color=#FFFF00>"Olá". Eu sei que o tamanho decepciona,
+mas não tenha medo. Te quero.</font>
+
+508
+00:51:47,334 --> 00:51:48,970
+<font color=#FFFF00>- Gloria por favor.
+- Te amo.</font>
+
+509
+00:51:49,138 --> 00:51:50,206
+<font color=#FFFF00>Gloria.</font>
+
+510
+00:51:51,943 --> 00:51:53,380
+<font color=#FFFF00>Gloria espera por favor.</font>
+
+511
+00:51:54,182 --> 00:51:54,884
+<font color=#FFFF00>Ramón!</font>
+
+512
+00:51:56,320 --> 00:51:57,456
+<font color=#FFFF00>Gloria.</font>
+
+513
+00:51:57,456 --> 00:51:59,894
+<font color=#FFFF00>Mambo, não entendo no
+que estava pensando.</font>
+
+514
+00:52:01,031 --> 00:52:03,168
+<font color=#FFFF00>Não sabia mais o que fazer...</font>
+
+515
+00:52:09,984 --> 00:52:11,488
+<font color=#FFFF00>Gloria, não.</font>
+
+516
+00:52:26,220 --> 00:52:29,629
+<font color=#FFFF00>Gloria. Gloria. Cante com isso.</font>
+
+517
+00:52:31,166 --> 00:52:33,971
+<font color=#FFFF00>Mamboe. Está me envergonhando.</font>
+
+518
+00:52:41,388 --> 00:52:43,359
+<font color=#FFFF00>Querido, isso não vai funcionar.</font>
+
+519
+00:54:12,158 --> 00:54:14,262
+<font color=#FFFF00>Todos juntos.</font>
+
+520
+00:54:21,078 --> 00:54:22,682
+<font color=#FFFF00>Vamos Mambo!</font>
+
+521
+00:54:30,064 --> 00:54:31,468
+<font color=#FFFF00>Mambo!</font>
+
+522
+00:54:37,581 --> 00:54:38,984
+<font color=#FFFF00>Mambo!</font>
+
+523
+00:55:06,913 --> 00:55:07,816
+<font color=#FFFF00>Mambo!</font>
+
+524
+00:55:07,816 --> 00:55:09,319
+<font color=#FFFF00>Vamos senhorita Viola.</font>
+
+525
+00:55:20,142 --> 00:55:21,746
+<font color=#FFFF00>É um escândalo!</font>
+
+526
+00:55:23,250 --> 00:55:24,353
+<font color=#FFFF00>Quem acham que são?</font>
+
+527
+00:55:25,355 --> 00:55:27,259
+<font color=#FFFF00>Onde está Noah?
+Se está vendo de las manos.</font>
+
+528
+00:55:34,943 --> 00:55:37,548
+<font color=#FFFF00>Olhe Memphis.
+É o teu filho, Mambo.</font>
+
+529
+00:55:37,548 --> 00:55:38,751
+<font color=#FFFF00>Mambo?</font>
+
+530
+00:55:41,056 --> 00:55:43,462
+<font color=#FFFF00>Oh não. É o Mambo!</font>
+
+531
+00:55:45,667 --> 00:55:46,769
+<font color=#FFFF00>Está dizendo...</font>
+
+532
+00:55:47,270 --> 00:55:48,372
+<font color=#FFFF00>Mambo!</font>
+
+533
+00:56:10,389 --> 00:56:11,692
+<font color=#FFFF00>Olhe Noah.</font>
+
+534
+00:56:11,692 --> 00:56:16,702
+<font color=#FFFF00>Desde o começo foi um presságio.
+E agora teremos a insurreição.</font>
+
+535
+00:56:18,407 --> 00:56:19,309
+<font color=#FFFF00>Pare!</font>
+
+536
+00:56:20,111 --> 00:56:21,414
+<font color=#FFFF00>Pare..</font>
+
+537
+00:56:22,750 --> 00:56:25,323
+<font color=#FFFF00>..com essa irreverente loucura!</font>
+
+538
+00:56:27,828 --> 00:56:29,832
+<font color=#FFFF00>Pare agora mesmo!</font>
+
+539
+00:56:31,737 --> 00:56:34,143
+<font color=#FFFF00>Um pouco de autocontrole, por favor.</font>
+
+540
+00:56:34,143 --> 00:56:38,518
+<font color=#FFFF00>Traen este desordem, esta aberração
+hasta el corazón de nuestra comunidad.</font>
+
+541
+00:56:38,919 --> 00:56:41,826
+<font color=#FFFF00>- Os sãos viraram loucos?
+- Só estamos nos divertindo.</font>
+
+542
+00:56:41,826 --> 00:56:46,437
+<font color=#FFFF00>O que está dizendo? Esse é o motivo da
+desgraça que caiu sobre nós.</font>
+
+543
+00:56:46,970 --> 00:56:49,342
+<font color=#FFFF00>Perdão Sr. Alegre
+Poderia falar em pingüinês?</font>
+
+544
+00:56:49,342 --> 00:56:52,683
+<font color=#FFFF00>Ele acha que a falta de comida
+tem algo haver comigo.</font>
+
+545
+00:56:52,683 --> 00:56:56,157
+<font color=#FFFF00>Não consegue entender que só
+sobreviveremos estando em harmonia?</font>
+
+546
+00:56:56,157 --> 00:56:59,465
+<font color=#FFFF00>Mas você e seus amigos estrangeiros
+incitam a desordem...</font>
+
+547
+00:56:59,465 --> 00:57:03,474
+<font color=#FFFF00>ofendem o Grande Güin e renegam
+as suas dádivas.</font>
+
+548
+00:57:03,474 --> 00:57:04,677
+<font color=#FFFF00>Ele faz as temporadas.</font>
+
+549
+00:57:04,677 --> 00:57:06,280
+<font color=#FFFF00>- Él provee y também pude quitar.
+- ¡Si!</font>
+
+550
+00:57:07,082 --> 00:57:09,354
+<font color=#FFFF00>Um instante! Um baile não pode
+pode causar fome.</font>
+
+551
+00:57:10,156 --> 00:57:13,463
+<font color=#FFFF00>Se esta demonstração pagã nã
+é a causa. Então qual é?</font>
+
+552
+00:57:13,463 --> 00:57:16,069
+<font color=#FFFF00>Acho que vem do exterior.
+Mais além do gelo.</font>
+
+553
+00:57:16,069 --> 00:57:18,374
+<font color=#FFFF00>Há coisas lá,
+coisas que não entendemos.</font>
+
+554
+00:57:18,374 --> 00:57:20,179
+<font color=#FFFF00>- Mistérios.
+- Mistérios inexplicáveis.</font>
+
+555
+00:57:20,179 --> 00:57:22,082
+<font color=#FFFF00>- Seres místicos.
+- Sim, alienígenas.</font>
+
+556
+00:57:22,082 --> 00:57:24,789
+<font color=#FFFF00>-Está de brincadeira.
+- Não, é sério. E são inteligentes.</font>
+
+557
+00:57:24,789 --> 00:57:25,825
+<font color=#FFFF00>Está maluco!</font>
+
+558
+00:57:25,825 --> 00:57:28,264
+<font color=#FFFF00>Não! Talvez mais espertos que nós.
+Quem sabe?</font>
+
+559
+00:57:28,264 --> 00:57:31,002
+<font color=#FFFF00>Él ha alejado a los peces e agora
+inventa isso.</font>
+
+560
+00:57:31,002 --> 00:57:34,109
+<font color=#FFFF00>- Escute, Deixe-me dizer algo.
+- Não me toque estrangeiro irreverente.</font>
+
+561
+00:57:35,712 --> 00:57:40,023
+<font color=#FFFF00>És lógico, a confusão nos divide
+e a divisão é a perdição.</font>
+
+562
+00:57:40,023 --> 00:57:43,095
+<font color=#FFFF00>Você, Mambo "Patas Alegres"
+Deve partir!</font>
+
+563
+00:57:43,598 --> 00:57:45,501
+<font color=#FFFF00>Não dê nem um passo, querido.</font>
+
+564
+00:57:46,003 --> 00:57:50,011
+<font color=#FFFF00>Tem tanto direito de estar aqui quando
+qualquer um destes velhos estúpidos.</font>
+
+565
+00:57:50,480 --> 00:57:51,381
+<font color=#FFFF00>Norma Jean?</font>
+
+566
+00:57:51,716 --> 00:57:54,122
+<font color=#FFFF00>- Eu solucionarei isso.
+- Pai.</font>
+
+567
+00:57:57,128 --> 00:57:58,029
+<font color=#FFFF00>Mambo?</font>
+
+568
+00:57:58,631 --> 00:58:02,139
+<font color=#FFFF00>Deve renunciar seus amigos
+e esses estranhos costumes e ideias.</font>
+
+569
+00:58:02,139 --> 00:58:02,840
+<font color=#FFFF00>Memphis!</font>
+
+570
+00:58:02,940 --> 00:58:05,847
+<font color=#FFFF00>Se sermos devotos aos nossos costumes,
+os peixes voltarão.</font>
+
+571
+00:58:06,249 --> 00:58:08,152
+<font color=#FFFF00>- Mas pai.
+- Escute filho...</font>
+
+572
+00:58:08,152 --> 00:58:12,262
+<font color=#FFFF00>eu também fui irresponsável e descuidado
+e agora estou pagando por isso.</font>
+
+573
+00:58:12,262 --> 00:58:15,135
+<font color=#FFFF00>- O que isso tem haver com Mambo?
+- Por ser assim.</font>
+
+574
+00:58:15,135 --> 00:58:16,236
+<font color=#FFFF00>Ele não tem nada de diferente.</font>
+
+575
+00:58:16,236 --> 00:58:18,743
+<font color=#FFFF00>Aceite Norma Jean, nosso
+filho não está bem.</font>
+
+576
+00:58:18,743 --> 00:58:20,947
+<font color=#FFFF00>- Si está bem ¿me ouves?
+- Acredite em mim. Ele não está bem!</font>
+
+577
+00:58:20,947 --> 00:58:24,055
+<font color=#FFFF00>- Por que está falando isso?
+- Porque quando ele estava no ovo, eu o deixei cair.</font>
+
+578
+00:58:25,558 --> 00:58:26,460
+<font color=#FFFF00>Memphis.</font>
+
+579
+00:58:29,266 --> 00:58:30,268
+<font color=#FFFF00>Mambo.</font>
+
+580
+00:58:33,375 --> 00:58:35,781
+<font color=#FFFF00>Ai, meu pobrezinho Mambo.</font>
+
+581
+00:58:35,781 --> 00:58:37,686
+<font color=#FFFF00>Mãe, eu estou bem.</font>
+
+582
+00:58:37,686 --> 00:58:39,188
+<font color=#FFFF00>Não, não está bem.</font>
+
+583
+00:58:39,188 --> 00:58:42,997
+<font color=#FFFF00>Por mais que não queira, deve largar
+essa loucura de dançar.</font>
+
+584
+00:58:42,997 --> 00:58:47,875
+<font color=#FFFF00>Seu pai está sendo verdadeiro. Alivie
+seu coração ferido e se arrependa.</font>
+
+585
+00:58:47,875 --> 00:58:50,480
+<font color=#FFFF00>Mas isso não tem sentido.</font>
+
+586
+00:58:50,514 --> 00:58:52,752
+<font color=#FFFF00>Pois tua arrogância não
+nos deixa outra opção.</font>
+
+587
+00:58:52,785 --> 00:58:53,521
+<font color=#FFFF00>Não. Espere.</font>
+
+588
+00:58:54,623 --> 00:58:58,498
+<font color=#FFFF00>Por favor filho, você pode se arrepender.
+Não é tão difícil.</font>
+
+589
+00:59:00,703 --> 00:59:04,011
+<font color=#FFFF00>Não me peça que eu mude, pai.
+Por que eu não posso.</font>
+
+590
+00:59:08,821 --> 00:59:12,262
+<font color=#FFFF00>E aqui, amigos, isso acaba.</font>
+
+591
+00:59:12,797 --> 00:59:14,467
+<font color=#FFFF00>Saia daqui!</font>
+
+592
+00:59:14,501 --> 00:59:16,839
+<font color=#FFFF00>- Você nos infecta.
+- Nos traz má sorte.</font>
+
+593
+00:59:17,641 --> 00:59:20,147
+<font color=#FFFF00>- Mambo...
+- Não, mãe. Estou bem, fique tranquila.</font>
+
+594
+00:59:22,485 --> 00:59:24,323
+<font color=#FFFF00>Deixe-me dizer uma coisa.</font>
+
+595
+00:59:25,225 --> 00:59:27,463
+<font color=#FFFF00>Quando descobrir
+o que está acontecendo com os peixes...</font>
+
+596
+00:59:28,130 --> 00:59:30,436
+<font color=#FFFF00>.... voltarei.</font>
+
+597
+00:59:31,138 --> 00:59:33,944
+<font color=#FFFF00>Deixe-me passar.
+Mambo, você não precisa ir.</font>
+
+598
+00:59:33,944 --> 00:59:34,946
+<font color=#FFFF00>- Deixe ele ir.
+- Não!</font>
+
+599
+00:59:34,946 --> 00:59:37,252
+<font color=#FFFF00>- Gloria.
+- No pai, isso não é justo.</font>
+
+600
+00:59:37,252 --> 00:59:39,056
+<font color=#FFFF00>- Gloria, obedeça o seu pai.</font>
+
+601
+00:59:40,559 --> 00:59:45,370
+<font color=#FFFF00><i>Quiseram achar que estava tudo ruim.</i></font>
+
+602
+00:59:48,778 --> 00:59:53,187
+<font color=#FFFF00><i>Diziam que veio do lugar errado.</i></font>
+
+603
+00:59:53,187 --> 00:59:56,161
+<font color=#FFFF00>Que veio do lugar equivocado.</font>
+
+604
+00:59:56,963 --> 01:00:00,872
+<font color=#FFFF00>Disseram que era ruim...</font>
+
+605
+01:00:00,872 --> 01:00:04,680
+<font color=#FFFF00>...e estava apenas triste.</font>
+
+606
+01:00:05,982 --> 01:00:07,486
+<font color=#FFFF00>Eu não duvidarei...</font>
+
+607
+01:00:07,486 --> 01:00:10,793
+<font color=#FFFF00>que dançando, sempre estará.</font>
+
+608
+01:00:10,793 --> 01:00:14,501
+<font color=#FFFF00>Cantando em honra ao nosso grande
+amigo Mambo.</font>
+
+609
+01:00:15,003 --> 01:00:19,713
+<font color=#FFFF00>Os senhores são uma nação de pinguins
+flifi picolini filidili fú.</font>
+
+610
+01:00:22,218 --> 01:00:26,127
+<font color=#FFFF00>- Juntos permanecemos.
+- E na sabedoria confiamos.</font>
+
+611
+01:00:26,528 --> 01:00:27,731
+<font color=#FFFF00>Confiamos.</font>
+
+612
+01:00:30,905 --> 01:00:33,043
+<font color=#FFFF00>Olhe...</font>
+
+613
+01:00:34,713 --> 01:00:38,122
+<font color=#FFFF00>Ao seu redor.</font>
+
+614
+01:00:54,524 --> 01:00:55,861
+<font color=#FFFF00>Não se preocupe, grandalhão.</font>
+
+615
+01:00:56,162 --> 01:00:59,970
+<font color=#FFFF00>Meu pai também me chamou de perdedor.
+E olhe para mim agora.</font>
+
+616
+01:00:59,970 --> 01:01:02,343
+<font color=#FFFF00>- Você não está ajudando, Ramón.
+- Tudo vai ficar bem.</font>
+
+617
+01:01:02,943 --> 01:01:05,349
+<font color=#FFFF00>O que temos que fazer é averiguar
+o que aconteceu com os peixes.</font>
+
+618
+01:01:05,450 --> 01:01:07,353
+<font color=#FFFF00>- Como você vai fazer isso?
+- Eu tive uma ideia.</font>
+
+619
+01:01:07,654 --> 01:01:08,757
+<font color=#FFFF00>Os alienígenas.</font>
+
+620
+01:01:08,757 --> 01:01:11,262
+<font color=#FFFF00>- O quê?
+- Vou conversar com os alienígenas.</font>
+
+621
+01:01:11,262 --> 01:01:12,465
+<font color=#FFFF00>Como vai encontrar eles?</font>
+
+622
+01:01:12,465 --> 01:01:15,171
+<font color=#FFFF00>- Amoroso.
+- Mas ele não gosta de você. Ele não vai cair.</font>
+
+623
+01:01:15,171 --> 01:01:17,476
+<font color=#FFFF00>Eu sei, mas tocarei em seu
+lado sensível.</font>
+
+624
+01:01:17,476 --> 01:01:19,982
+<font color=#FFFF00>- Como vai fazer?
+- Com um castigo impiedoso?</font>
+
+625
+01:01:19,982 --> 01:01:22,388
+<font color=#FFFF00>- Com uma horrível tortura.
+- Uma horrível tortura?</font>
+
+626
+01:01:23,088 --> 01:01:25,594
+<font color=#FFFF00>- Com o seu canto?
+- Não!</font>
+
+627
+01:01:28,266 --> 01:01:30,338
+<font color=#FFFF00>Que quebre o gelo.
+Avalanche!</font>
+
+628
+01:01:31,006 --> 01:01:32,109
+<font color=#FFFF00>Sim, claro. Obrigado.</font>
+
+629
+01:01:43,000 --> 01:01:45,405
+<font color=#FFFF00>Amoroso! Você está ai?</font>
+
+630
+01:01:46,307 --> 01:01:47,109
+<font color=#FFFF00>Amoroso!</font>
+
+631
+01:01:51,118 --> 01:01:52,120
+<font color=#FFFF00>Amoroso!</font>
+
+632
+01:01:58,133 --> 01:01:58,735
+<font color=#FFFF00>Amoroso?</font>
+
+633
+01:01:59,938 --> 01:02:02,845
+<font color=#FFFF00>- Não estamos interrompendo?
+- Sei que não temos pérolas, mas...</font>
+
+634
+01:02:02,845 --> 01:02:05,350
+<font color=#FFFF00>Só uma pergunta, e quero
+uma resposta concreta.</font>
+
+635
+01:02:05,350 --> 01:02:07,554
+<font color=#FFFF00>Onde posso encontrar os
+seres místicos?</font>
+
+636
+01:02:10,327 --> 01:02:11,330
+<font color=#FFFF00>Porque você não fala?</font>
+
+637
+01:02:14,336 --> 01:02:15,840
+<font color=#FFFF00>Amoroso, você está bem?</font>
+
+638
+01:02:20,450 --> 01:02:22,755
+<font color=#FFFF00>- Está tendo um ataque!
+-Abra o bico, segure sua língua!</font>
+
+639
+01:02:22,755 --> 01:02:25,661
+<font color=#FFFF00>Não, não! Ele está se afogando, o quê ele tem
+no pescoço, está o sufocando.</font>
+
+640
+01:02:25,661 --> 01:02:28,669
+<font color=#FFFF00>Porque você não disse antes?
+Juntos, no três.</font>
+
+641
+01:02:31,274 --> 01:02:33,179
+<font color=#FFFF00>Amigos! Amigos! Parem!</font>
+
+642
+01:02:33,179 --> 01:02:34,282
+<font color=#FFFF00>Vocês estão machucando ele!</font>
+
+643
+01:02:37,489 --> 01:02:38,490
+<font color=#FFFF00>Já morreu?</font>
+
+644
+01:02:39,193 --> 01:02:41,464
+<font color=#FFFF00>Amoroso, porque está com isso
+no pescoço?</font>
+
+645
+01:02:41,464 --> 01:02:44,070
+<font color=#FFFF00>- É um amuleto.
+- Dos seres místicos.</font>
+
+646
+01:02:44,971 --> 01:02:46,675
+<font color=#FFFF00>Eles não te deram?</font>
+
+647
+01:02:47,277 --> 01:02:49,882
+<font color=#FFFF00>- Que?
+- Por favor, não sabem o que dizem.</font>
+
+648
+01:02:50,985 --> 01:02:53,792
+<font color=#FFFF00>Estava nadando e
+enganchou no teu pescoço.</font>
+
+649
+01:02:53,792 --> 01:02:55,796
+<font color=#FFFF00>Não pode ser, ele é o guru.</font>
+
+650
+01:02:57,801 --> 01:03:00,908
+<font color=#FFFF00>Amoroso, conheceu algum ser místico?</font>
+
+651
+01:03:01,810 --> 01:03:02,310
+<font color=#FFFF00>De verdade?</font>
+
+652
+01:03:05,819 --> 01:03:07,823
+<font color=#FFFF00>Ah, eu sabia!
+Era tudo mentira.</font>
+
+653
+01:03:07,823 --> 01:03:12,533
+<font color=#FFFF00>Isso deve ser de alguém.
+Se o encontramos podiam tirá-lo.</font>
+
+654
+01:03:13,334 --> 01:03:16,108
+<font color=#FFFF00>Me diga onde foi. Sei que nos
+ajudaram, a você e a mim.</font>
+
+655
+01:03:20,418 --> 01:03:22,221
+<font color=#FFFF00>Duas palavras.
+Quatro sílabas.</font>
+
+656
+01:03:23,124 --> 01:03:25,028
+<font color=#FFFF00>- Você morre?
+- Não, não, esperem.</font>
+
+657
+01:03:25,028 --> 01:03:27,634
+<font color=#FFFF00>Passo, passar, vida passada...</font>
+
+658
+01:03:28,469 --> 01:03:29,037
+<font color=#FFFF00>Nos passem um gás!</font>
+
+659
+01:03:31,141 --> 01:03:32,845
+<font color=#FFFF00>Agora acham que é uma foca elefante.</font>
+
+660
+01:03:32,946 --> 01:03:36,053
+<font color=#FFFF00>- Não, não, não, passando a montanha.
+- A montanha!</font>
+
+661
+01:03:36,353 --> 01:03:38,225
+<font color=#FFFF00>Através da terra das focas elefantes.</font>
+
+662
+01:03:38,257 --> 01:03:42,366
+<font color=#FFFF00>- Passando a terra das focas elefantes!
+- Passando a terra das focas elefantes!</font>
+
+663
+01:03:54,059 --> 01:03:55,463
+<font color=#FFFF00>- Parem.
+- O quê?</font>
+
+664
+01:03:57,233 --> 01:03:58,502
+<font color=#FFFF00>Ouço vozes.</font>
+
+665
+01:03:59,171 --> 01:04:00,874
+<font color=#FFFF00>- Sim, é uma voz.
+- Onde?</font>
+
+666
+01:04:00,874 --> 01:04:03,380
+<font color=#FFFF00>É uma voz no vento.</font>
+
+667
+01:04:03,982 --> 01:04:05,486
+<font color=#FFFF00>- Mambo!
+- Mambo?</font>
+
+668
+01:04:05,486 --> 01:04:06,688
+<font color=#FFFF00>- Mambo.
+- Escutem.</font>
+
+669
+01:04:06,688 --> 01:04:09,394
+<font color=#FFFF00>- Mambo "patas alegres"
+- Gloria?</font>
+
+670
+01:04:09,894 --> 01:04:10,596
+<font color=#FFFF00>Gloria?</font>
+
+671
+01:04:10,596 --> 01:04:13,604
+<font color=#FFFF00>- Tem uma admiradora.
+- Cara, ela está louca por você.</font>
+
+672
+01:04:17,378 --> 01:04:19,317
+<font color=#FFFF00>Não posso acreditar que seja você.</font>
+
+673
+01:04:20,217 --> 01:04:21,421
+<font color=#FFFF00>Claro que sou eu.</font>
+
+674
+01:04:23,292 --> 01:04:24,494
+<font color=#FFFF00>O que está fazendo aqui?</font>
+
+675
+01:04:25,095 --> 01:04:27,902
+<font color=#FFFF00>Quando o amor é grande,
+não desaparece...</font>
+
+676
+01:04:28,503 --> 01:04:32,613
+<font color=#FFFF00>e a urgência de amar vai se impor.</font>
+
+677
+01:04:32,613 --> 01:04:33,615
+<font color=#FFFF00>Ai mamã...</font>
+
+678
+01:04:33,615 --> 01:04:38,525
+<font color=#FFFF00>- Para onde bailarino?
+- Não. Se vier igual não volta para casa.</font>
+
+679
+01:04:38,525 --> 01:04:40,330
+<font color=#FFFF00>Não me importa.</font>
+
+680
+01:04:40,330 --> 01:04:44,940
+<font color=#FFFF00>Gloria, tem uma vida bonita na colónia.
+Eu não, más bem, nos não...</font>
+
+681
+01:04:44,940 --> 01:04:47,679
+<font color=#FFFF00>... aqui não.
+Como cuidaríamos de um ovo?</font>
+
+682
+01:04:47,679 --> 01:04:49,282
+<font color=#FFFF00>Se é que tivéssemos um.</font>
+
+683
+01:04:49,316 --> 01:04:51,454
+<font color=#FFFF00>Eu não preciso de um ovo para ser feliz.</font>
+
+684
+01:04:51,956 --> 01:04:56,132
+<font color=#FFFF00>Você diz isso agora, mas e depois?
+Quando todas suas amigas tiverem um...</font>
+
+685
+01:04:57,335 --> 01:04:58,637
+<font color=#FFFF00>Eu terei você.</font>
+
+686
+01:05:00,141 --> 01:05:01,944
+<font color=#FFFF00>Agora entregue sua alma para sempre.</font>
+
+687
+01:05:03,848 --> 01:05:04,451
+<font color=#FFFF00>- Gloria...
+- Aí vai.</font>
+
+688
+01:05:04,451 --> 01:05:10,463
+<font color=#FFFF00>... Sou dessa classe em particular.
+Sou desses que precisam de seu próprio espaço.</font>
+
+689
+01:05:12,067 --> 01:05:16,678
+<font color=#FFFF00>Não é você, sou eu. É que
+não estou a procura de uma relação séria agora.</font>
+
+690
+01:05:17,079 --> 01:05:18,882
+<font color=#FFFF00>O que está tentando fazer é
+tirá-la da sua cabeça.</font>
+
+691
+01:05:18,882 --> 01:05:20,386
+<font color=#FFFF00>- Mambo...
+- Vamos ver a briga.</font>
+
+692
+01:05:20,386 --> 01:05:23,093
+<font color=#FFFF00>Não importa o que digas ou faça,
+irei contigo.</font>
+
+693
+01:05:23,693 --> 01:05:23,995
+<font color=#FFFF00>Não.</font>
+
+694
+01:05:23,995 --> 01:05:27,102
+<font color=#FFFF00>Por favor, como se não tivesse feliz
+quem que eu vá contigo.</font>
+
+695
+01:05:27,401 --> 01:05:28,637
+<font color=#FFFF00>Te coloquei entra a cruz e a espada.</font>
+
+696
+01:05:28,871 --> 01:05:32,380
+<font color=#FFFF00>Olhe, aí está o seu problema
+acha que é irresistível, né?</font>
+
+697
+01:05:32,380 --> 01:05:34,785
+<font color=#FFFF00>Oh, não importa de onde veio,
+isso doeu.</font>
+
+698
+01:05:34,785 --> 01:05:36,121
+<font color=#FFFF00>Desculpe-me?</font>
+
+699
+01:05:36,121 --> 01:05:38,192
+<font color=#FFFF00><i>Gloria é tão bonita.
+Gloria tem tanto talento.</i></font>
+
+700
+01:05:38,192 --> 01:05:39,094
+<font color=#FFFF00>Quê!?</font>
+
+701
+01:05:39,094 --> 01:05:41,199
+<font color=#FFFF00>Só porque chega nas
+notas altas.</font>
+
+702
+01:05:42,101 --> 01:05:46,412
+<font color=#FFFF00>- Você tem algum problema com a minha música?
+- Não, na verdade até que é bom.</font>
+
+703
+01:05:46,912 --> 01:05:47,413
+<font color=#FFFF00>Bom?</font>
+
+704
+01:05:47,413 --> 01:05:50,921
+<font color=#FFFF00>Claro, se você gosta desse estilo, mas é
+algo exagerado para o meu gosto.</font>
+
+705
+01:05:50,921 --> 01:05:51,522
+<font color=#FFFF00>Quê?</font>
+
+706
+01:05:51,522 --> 01:05:54,429
+<font color=#FFFF00>- Não sei, pretensioso, muito.
+- Muito, muito?</font>
+
+707
+01:05:54,429 --> 01:05:54,930
+<font color=#FFFF00>Isso mesmo.</font>
+
+708
+01:05:55,531 --> 01:05:58,639
+<font color=#FFFF00>E diz para alguém que acha que o melhor
+é dançar de cima para baixo...</font>
+
+709
+01:05:58,639 --> 01:06:01,044
+<font color=#FFFF00>... no mesmo lugar, como um idiota?</font>
+
+710
+01:06:05,822 --> 01:06:08,828
+<font color=#FFFF00>Que bailarino mais cabeça dura e tonto você é!</font>
+
+711
+01:06:08,828 --> 01:06:09,931
+<font color=#FFFF00>Todas são iguais.</font>
+
+712
+01:06:21,055 --> 01:06:23,160
+<font color=#FFFF00>Amigo, foi bom o que você fez.</font>
+
+713
+01:06:23,761 --> 01:06:28,772
+<font color=#FFFF00>Ela ficará melhor sem você, encontrará um
+pinguim estável, que a console...</font>
+
+714
+01:06:28,772 --> 01:06:33,383
+<font color=#FFFF00>...que a ame com todo coração, e terão
+uma grande família, e então...</font>
+
+715
+01:06:33,383 --> 01:06:35,621
+<font color=#FFFF00>...ela vai se descuidar, e vai
+ficar gorda e f...</font>
+
+716
+01:06:35,621 --> 01:06:38,161
+<font color=#FFFF00>Ramón! Ele está mal,
+ele está muito mal.</font>
+
+717
+01:06:39,463 --> 01:06:46,077
+<font color=#FFFF00>Ouça, ouça, não segure a dor, ou vai explodir.
+Deixe-a sair, apenas deixe-a sair, tire-a!</font>
+
+718
+01:06:46,077 --> 01:06:48,283
+<font color=#FFFF00>Por favor, todos dêem meia-volta.</font>
+
+719
+01:06:49,285 --> 01:06:51,490
+<font color=#FFFF00><i>Se a deixar...</i></font>
+
+720
+01:06:51,991 --> 01:06:55,199
+<font color=#FFFF00><i>uma parte dela se irá também.</i></font>
+
+721
+01:06:58,906 --> 01:07:02,514
+<font color=#FFFF00>- Uh uh uh, não vá, não.
+- Garotos, fechem os bicos.</font>
+
+722
+01:07:03,416 --> 01:07:04,519
+<font color=#FFFF00>Não cantem mais.</font>
+
+723
+01:07:21,524 --> 01:07:25,131
+<font color=#FFFF00>... e sabem o que me disse? não suprima
+seus sentimentos, deixe-os sair.</font>
+
+724
+01:07:25,131 --> 01:07:27,136
+<font color=#FFFF00>- Pronto Ramón, deixe-o agora.
+- Já chega.</font>
+
+725
+01:07:29,642 --> 01:07:32,248
+<font color=#FFFF00>Jamais tive uma boa
+relação na minha vida.</font>
+
+726
+01:07:32,248 --> 01:07:33,551
+<font color=#FFFF00>Pare de chorar e continue carregando.</font>
+
+727
+01:07:33,551 --> 01:07:35,556
+<font color=#FFFF00>Eu deixo sair, sim, deixo sair!</font>
+
+728
+01:07:36,958 --> 01:07:38,261
+<font color=#FFFF00>Consegue continuar?</font>
+
+729
+01:07:40,667 --> 01:07:42,337
+<font color=#FFFF00>- Que cheiro é esse?
+- Não fui eu.</font>
+
+730
+01:07:45,110 --> 01:07:47,549
+<font color=#FFFF00>Peludinho, nós te seguimos.
+O que esperava?</font>
+
+731
+01:07:58,005 --> 01:08:00,777
+<font color=#FFFF00>Ouça, as focas elefantes não comem
+pinguins, não?</font>
+
+732
+01:08:00,777 --> 01:08:03,685
+<font color=#FFFF00>- Não . Acho que são herbívoras.
+- Que?</font>
+
+733
+01:08:03,685 --> 01:08:05,088
+<font color=#FFFF00>Sabe, comem folhas.</font>
+
+734
+01:08:05,088 --> 01:08:08,195
+<font color=#FFFF00>Vamos Amoroso, é muito fácil.</font>
+
+735
+01:08:09,697 --> 01:08:13,106
+<font color=#FFFF00>Pular, pular, vamos todos pular!</font>
+
+736
+01:08:17,282 --> 01:08:21,090
+<font color=#FFFF00>Eu consigo, eu consigo. Me enganarei
+sozinho: Cara, olhe isso. O quê?</font>
+
+737
+01:08:38,028 --> 01:08:42,539
+<font color=#FFFF00>Seria melhor que os fossem anões.
+Porque estar aqui é muito perigoso.</font>
+
+738
+01:08:43,241 --> 01:08:45,945
+<font color=#FFFF00>- Só estamos de passagem.
+- Ah sim?</font>
+
+739
+01:08:47,316 --> 01:08:51,926
+<font color=#FFFF00>Não pretendem ir além das colinas?
+Cruzando a terra das ventiscas...</font>
+
+740
+01:08:51,926 --> 01:08:54,431
+<font color=#FFFF00>Sim é o único caminho até
+costa proibida, sim.</font>
+
+741
+01:08:54,832 --> 01:08:59,844
+<font color=#FFFF00>Então podem se encontrar cara
+a cara com um aniquilador.</font>
+
+742
+01:08:59,844 --> 01:09:01,949
+<font color=#FFFF00>- Um alienígena aniquilador?
+- Isso mesmo...</font>
+
+743
+01:09:01,949 --> 01:09:04,254
+<font color=#FFFF00>... Te destroçariam quando te vissem</font>
+
+744
+01:09:04,254 --> 01:09:09,165
+<font color=#FFFF00>- Matam todo ser vivo que aparece em seu caminho.
+- Acha que eles matam os peixes?</font>
+
+745
+01:09:09,165 --> 01:09:13,675
+<font color=#FFFF00>- Todo ser vivo.
+- É horrível, é horrível...</font>
+
+746
+01:09:13,675 --> 01:09:18,887
+<font color=#FFFF00>... ainda que fosse uma grande baleia,
+tiraria seu triste cadáver da água...</font>
+
+747
+01:09:18,887 --> 01:09:23,463
+<font color=#FFFF00>... te cortariam, te derreteriam para
+te transformar em comida.</font>
+
+748
+01:09:24,866 --> 01:09:28,074
+<font color=#FFFF00>Um dia você é uma grande baleia, e
+de repente...</font>
+
+749
+01:09:29,377 --> 01:09:30,981
+<font color=#FFFF00>... vira comida.</font>
+
+750
+01:09:31,381 --> 01:09:35,189
+<font color=#FFFF00>- Alguém devia pará-los.
+- Ah sim? E quem vai fazer isso?</font>
+
+751
+01:09:35,189 --> 01:09:39,499
+<font color=#FFFF00>Se eu pudesse falar com eles,
+tocaria seu lado sensível.</font>
+
+752
+01:09:40,602 --> 01:09:44,910
+<font color=#FFFF00>Quando esse engenhoso plano funcionar,
+nos avise, certo?</font>
+
+753
+01:09:46,414 --> 01:09:48,720
+<font color=#FFFF00>Bem, Amoroso. Vamos.</font>
+
+754
+01:09:52,028 --> 01:09:52,928
+<font color=#FFFF00>Adeus, Amoroso.</font>
+
+755
+01:09:56,671 --> 01:09:57,607
+<font color=#FFFF00>Será o vosso funeral, amigos.</font>
+
+756
+01:10:46,884 --> 01:10:47,885
+<font color=#FFFF00>Não posso!</font>
+
+757
+01:10:51,293 --> 01:10:52,596
+<font color=#FFFF00>Agarrem-se!</font>
+
+758
+01:11:12,907 --> 01:11:16,316
+<font color=#FFFF00>Pinguins unidos, jamais serão vencidos!</font>
+
+759
+01:11:58,376 --> 01:11:59,078
+<font color=#FFFF00>O que foi esse barulho?</font>
+
+760
+01:12:01,484 --> 01:12:04,824
+<font color=#FFFF00>- Não houve barulho.
+- Não houve rebuliço nem roncos.</font>
+
+761
+01:12:04,824 --> 01:12:06,696
+<font color=#FFFF00>- Onde está o Amoroso?
+- Onde está o gurú?</font>
+
+762
+01:12:07,897 --> 01:12:11,506
+<font color=#FFFF00>As vezes, os pinguins valentes se
+isolam para esticar as patas.</font>
+
+763
+01:12:11,540 --> 01:12:14,178
+<font color=#FFFF00>- É?
+- Acreditam que já passou o melhor da vida?</font>
+
+764
+01:12:14,178 --> 01:12:16,083
+<font color=#FFFF00>- Talvez.
+- Não.</font>
+
+765
+01:12:16,083 --> 01:12:17,085
+<font color=#FFFF00>Acho que ele foi por aqui.</font>
+
+766
+01:12:30,115 --> 01:12:31,718
+<font color=#FFFF00>Vamos, temos que seguir.</font>
+
+767
+01:12:35,626 --> 01:12:36,461
+<font color=#FFFF00>Não tenha medo.</font>
+
+768
+01:12:49,324 --> 01:12:49,925
+<font color=#FFFF00>Amoroso?</font>
+
+769
+01:12:52,230 --> 01:12:53,534
+<font color=#FFFF00>Amoroso!</font>
+
+770
+01:13:01,049 --> 01:13:01,951
+<font color=#FFFF00>Olá?</font>
+
+771
+01:13:04,591 --> 01:13:05,794
+<font color=#FFFF00>Tem alguém aí?</font>
+
+772
+01:13:05,794 --> 01:13:07,965
+<font color=#FFFF00>- Não grite.
+- Alguém poderia te ouvir.</font>
+
+773
+01:13:14,780 --> 01:13:16,785
+<font color=#FFFF00>Essas vielas não dão
+boa impressão.</font>
+
+774
+01:13:16,953 --> 01:13:20,694
+<font color=#FFFF00>- Ele parou aqui.
+- E por aqui estava sua tripa...</font>
+
+775
+01:13:23,467 --> 01:13:24,468
+<font color=#FFFF00>Aí está!
+Amoroso!</font>
+
+776
+01:13:31,685 --> 01:13:32,587
+<font color=#FFFF00>Estávamos te procurando.</font>
+
+777
+01:13:32,587 --> 01:13:35,293
+<font color=#FFFF00>- Você está bem?
+- Aguenta, cara.</font>
+
+778
+01:13:37,397 --> 01:13:38,299
+<font color=#FFFF00>O que é isso?</font>
+
+779
+01:13:39,001 --> 01:13:41,608
+<font color=#FFFF00>Olhem! Tem um talismã para cada um.</font>
+
+780
+01:13:42,409 --> 01:13:44,714
+<font color=#FFFF00>Espera Amoroso,
+Sei que tem alguém por aqui.</font>
+
+781
+01:13:44,915 --> 01:13:47,119
+<font color=#FFFF00>- Sim. Por que abandonariam tudo isso?
+- Não sei.</font>
+
+782
+01:13:49,392 --> 01:13:52,098
+<font color=#FFFF00>- Diga a eles que viemos em paz
+- Viemos em paz. Sim!</font>
+
+783
+01:13:52,499 --> 01:13:55,104
+<font color=#FFFF00>- Amoroso!
+- O que está acontecendo?</font>
+
+784
+01:14:00,516 --> 01:14:02,321
+<font color=#FFFF00>- Tem, isso não é bom...
+- Não tenham pânico.</font>
+
+785
+01:14:05,727 --> 01:14:06,930
+<font color=#FFFF00>Que medo!</font>
+
+786
+01:14:18,390 --> 01:14:20,561
+<font color=#FFFF00>- Vão lanchar a gente?.
+- Somos a merenda rapazes.</font>
+
+787
+01:14:20,561 --> 01:14:22,198
+<font color=#FFFF00>Oh, vamos morrer.</font>
+
+788
+01:14:24,637 --> 01:14:26,741
+<font color=#FFFF00>Aconteça o que acontecer, fiquem longe da água!</font>
+
+789
+01:14:32,488 --> 01:14:34,092
+<font color=#FFFF00>Para cima, para cima, para cima!</font>
+
+790
+01:14:38,602 --> 01:14:40,673
+<font color=#FFFF00>Amoroso! Aguenta!</font>
+
+791
+01:14:42,578 --> 01:14:44,782
+<font color=#FFFF00>Tira essa língua nojenta de perto dele.</font>
+
+792
+01:15:23,435 --> 01:15:24,838
+<font color=#FFFF00>Estão brincando?</font>
+
+793
+01:15:24,838 --> 01:15:27,611
+<font color=#FFFF00>Não é um espectáculo.
+Espectáculo com janta.</font>
+
+794
+01:15:40,039 --> 01:15:41,075
+<font color=#FFFF00>Finalmente!</font>
+
+795
+01:15:50,262 --> 01:15:50,963
+<font color=#FFFF00>Amoroso!</font>
+
+796
+01:15:52,266 --> 01:15:53,469
+<font color=#FFFF00>Se segura!</font>
+
+797
+01:15:53,869 --> 01:15:54,972
+<font color=#FFFF00>Obrigado irmão David.</font>
+
+798
+01:16:09,170 --> 01:16:12,579
+<font color=#FFFF00>Oh meu salvador.
+Obrigado, obrigado, obrigado, obrigado.</font>
+
+799
+01:16:20,195 --> 01:16:22,199
+<font color=#FFFF00>Basta!</font>
+
+800
+01:16:23,001 --> 01:16:27,411
+<font color=#FFFF00>Este é um mal dia para vocês.
+Agora você vão enfrentar o Amoroso...</font>
+
+801
+01:16:27,411 --> 01:16:29,817
+<font color=#FFFF00>... e ao meu amigo Mambo.</font>
+
+802
+01:16:29,951 --> 01:16:30,519
+<font color=#FFFF00>Mostre como se faz Amoroso.</font>
+
+803
+01:16:30,519 --> 01:16:34,528
+<font color=#FFFF00>Vão demónios marinhos.
+"Adeus, andemos, chão".</font>
+
+804
+01:16:36,098 --> 01:16:39,906
+<font color=#FFFF00>Voltem chorando para a mamã.
+Não me façam voltar para a água.</font>
+
+805
+01:16:39,906 --> 01:16:44,416
+<font color=#FFFF00>Não vou ter piedade de ninguém.
+Os lançarei um mal olhado.</font>
+
+806
+01:17:39,807 --> 01:17:40,709
+<font color=#FFFF00>Parece que são muitos.</font>
+
+807
+01:17:40,709 --> 01:17:43,549
+<font color=#FFFF00>- Vão dominar o mundo.
+- Ai, meu Deus.</font>
+
+808
+01:17:43,549 --> 01:17:46,488
+<font color=#FFFF00>- Tem que ser eles.
+- Se é assim, eu não quero saber nada.</font>
+
+809
+01:17:46,488 --> 01:17:49,095
+<font color=#FFFF00>- Nem sequer sabem que existimos.
+- Deixe-me dizer algo.</font>
+
+810
+01:17:49,095 --> 01:17:55,610
+<font color=#FFFF00>Este é o fim do caminho.  Acabou.
+Fizeste tudo o  pinguinamente possível.</font>
+
+811
+01:17:56,010 --> 01:17:58,582
+<font color=#FFFF00>- Já encontrou os alienígenas.
+- Daremos testemunho disso.</font>
+
+812
+01:17:58,582 --> 01:18:01,923
+<font color=#FFFF00>Diremos a toda a nação
+pinguim que se equivocaram com você</font>
+
+813
+01:18:01,923 --> 01:18:04,429
+<font color=#FFFF00>- Agora voltemos para casa. Agora mesmo.
+- Exacto.</font>
+
+814
+01:18:05,430 --> 01:18:07,269
+<font color=#FFFF00>Posso pedir um favor?</font>
+
+815
+01:18:07,269 --> 01:18:08,337
+<font color=#FFFF00>- Claro.
+- Que tipo de favor?</font>
+
+816
+01:18:08,337 --> 01:18:09,641
+<font color=#FFFF00>Podem cuidar para que a Gloria fique bem?</font>
+
+817
+01:18:09,641 --> 01:18:10,442
+<font color=#FFFF00>Que?</font>
+
+818
+01:18:10,442 --> 01:18:11,478
+<font color=#FFFF00>- E a minha mãe?
+- Que?</font>
+
+819
+01:18:11,478 --> 01:18:14,050
+<font color=#FFFF00>E se virem aos meus pais, digam-lhes...</font>
+
+820
+01:18:15,020 --> 01:18:15,855
+<font color=#FFFF00>... que eu tentei.</font>
+
+821
+01:18:16,355 --> 01:18:18,026
+<font color=#FFFF00>Ta bom, do que estava falando?</font>
+
+822
+01:18:18,326 --> 01:18:20,164
+<font color=#FFFF00>Vou evitar que levem os peixes.</font>
+
+823
+01:18:20,197 --> 01:18:21,633
+<font color=#FFFF00>Como vai fazer isso, Mambo?</font>
+
+824
+01:18:24,139 --> 01:18:27,246
+<font color=#FFFF00>Adeus amigos!</font>
+
+825
+01:18:27,949 --> 01:18:28,750
+<font color=#FFFF00>Ele conseguiu!</font>
+
+826
+01:18:51,166 --> 01:18:53,271
+<font color=#FFFF00>Meu Deus
+Conseguem acreditar?</font>
+
+827
+01:18:53,271 --> 01:18:57,414
+<font color=#FFFF00>Como vamos dizer a mãe dele que chegamos
+só para que ele se suicidasse.</font>
+
+828
+01:18:57,414 --> 01:18:58,884
+<font color=#FFFF00>Não! Ele conseguiu!
+Olhem!</font>
+
+829
+01:19:01,390 --> 01:19:02,759
+<font color=#FFFF00>Ele está louco!</font>
+
+830
+01:19:03,027 --> 01:19:05,767
+<font color=#FFFF00>O primeiro pinguim voador!</font>
+
+831
+01:19:06,200 --> 01:19:08,205
+<font color=#FFFF00>Eu sou grande mas ele é maior.</font>
+
+832
+01:19:08,538 --> 01:19:10,611
+<font color=#FFFF00>Quem sabe... O maior de todos.</font>
+
+833
+01:19:11,612 --> 01:19:17,826
+<font color=#FFFF00>Ouçam! Sou eu, Amoroso.
+Antes conhecido como gurú.</font>
+
+834
+01:19:18,428 --> 01:19:24,408
+<font color=#FFFF00>Eu vou contar a sua história, "Patas Alegres".
+Incluindo depois que desapareceu.</font>
+
+835
+01:19:42,548 --> 01:19:43,852
+<font color=#FFFF00>Ei, ei!</font>
+
+836
+01:20:34,798 --> 01:20:37,004
+<font color=#FFFF00>Motivado por diferença.</font>
+
+837
+01:20:38,105 --> 01:20:42,114
+<font color=#FFFF00>Continuou ainda depois que
+desapareceram de vista.</font>
+
+838
+01:20:45,489 --> 01:20:49,598
+<font color=#FFFF00>Foi mais longe do que nunca
+ninguém tinha ido.</font>
+
+839
+01:20:50,099 --> 01:20:53,039
+<font color=#FFFF00>Mais além de toda a esperança de voltar.</font>
+
+840
+01:20:54,676 --> 01:20:58,886
+<font color=#FFFF00>Preso às grandes correntes,
+foi levado à deriva...</font>
+
+841
+01:20:58,886 --> 01:21:05,500
+<font color=#FFFF00>... através de enormes oceanos,
+até mundo desconhecidos.</font>
+
+842
+01:22:01,927 --> 01:22:04,967
+<font color=#FFFF00>Desculpe, onde estamos?</font>
+
+843
+01:22:04,967 --> 01:22:07,940
+<font color=#FFFF00>Está no céu, David.
+No céu dos pinguins.</font>
+
+844
+01:22:07,940 --> 01:22:12,116
+<font color=#FFFF00>- Está perto do território do imperador?
+- Está onde você quiser que esteja.</font>
+
+845
+01:22:13,519 --> 01:22:17,095
+<font color=#FFFF00>Experimente a água David, isso sim é real.</font>
+
+846
+01:22:34,166 --> 01:22:38,374
+<font color=#FFFF00>Eu gostaria de dizer que quando viu
+os alienígenas de perto...</font>
+
+847
+01:22:38,374 --> 01:22:42,483
+<font color=#FFFF00>... eram justamente como
+a gaivota tinha descrevias.</font>
+
+848
+01:22:42,751 --> 01:22:45,825
+<font color=#FFFF00>Desculpe-me
+Por que estão levando nossos peixes?</font>
+
+849
+01:22:45,825 --> 01:22:50,669
+<font color=#FFFF00>Grandes e feios pinguins, sem penas
+e suas flácidas caras planas.</font>
+
+850
+01:22:51,171 --> 01:22:53,476
+<font color=#FFFF00>Por que estão levando nossos peixes?</font>
+
+851
+01:22:54,177 --> 01:22:55,780
+<font color=#FFFF00>Isso está nos matando.</font>
+
+852
+01:22:58,787 --> 01:23:00,291
+<font color=#FFFF00>Não, não, não!
+Espera!</font>
+
+853
+01:23:11,015 --> 01:23:11,916
+<font color=#FFFF00>Oh meu Deus!</font>
+
+854
+01:23:14,322 --> 01:23:18,030
+<font color=#FFFF00>Olá? Saudações do território do imperador,
+boa tarde.</font>
+
+855
+01:23:18,097 --> 01:23:20,001
+<font color=#FFFF00>Por que estão levando nossos peixes?</font>
+
+856
+01:23:20,001 --> 01:23:23,609
+<font color=#FFFF00>Sei que não é a sua intenção, mas estão
+causando um grande desastre.</font>
+
+857
+01:23:25,514 --> 01:23:29,723
+<font color=#FFFF00>Não estou sendo suficientemente claro?
+Lhes falei claramente em pinguinês.</font>
+
+858
+01:23:30,726 --> 01:23:33,933
+<font color=#FFFF00>Pingüinês! Não me entendem?
+Estão roubando o nosso peixe!</font>
+
+859
+01:23:38,644 --> 01:23:41,116
+<font color=#FFFF00>Por favor, alguém me responda.</font>
+
+860
+01:23:41,149 --> 01:23:43,555
+<font color=#FFFF00>Suplico a vocês, estão roubando os
+nossos peixes!</font>
+
+861
+01:23:48,565 --> 01:23:52,741
+<font color=#FFFF00>Depois de três dias,
+perdeu a voz.</font>
+
+862
+01:23:53,542 --> 01:23:55,547
+<font color=#FFFF00>Depois de três meses...</font>
+
+863
+01:23:58,220 --> 01:24:00,759
+<font color=#FFFF00>... quase perdeu toda a razão.</font>
+
+864
+01:24:14,290 --> 01:24:16,996
+<font color=#FFFF00>- Encontrou os peixes querido?
+- Mãe?</font>
+
+865
+01:24:18,299 --> 01:24:19,001
+<font color=#FFFF00>Mãe?</font>
+
+866
+01:24:19,802 --> 01:24:21,305
+<font color=#FFFF00>- Oi querido.
+- Mãe!</font>
+
+867
+01:24:21,305 --> 01:24:26,249
+<font color=#FFFF00>Peludinho, não importa o que digam ou façam,
+jamais deixaremos de acreditar em você.</font>
+
+868
+01:24:26,784 --> 01:24:28,087
+<font color=#FFFF00>Voltará logo, não?</font>
+
+869
+01:24:28,087 --> 01:24:32,097
+<font color=#FFFF00>- Por favor, deixe-o comer.
+- Continue David, não nos incomoda.</font>
+
+870
+01:24:32,697 --> 01:24:36,506
+<font color=#FFFF00>- Mas tem o suficiente para todos.
+- Não importa querido, esperaremos.</font>
+
+871
+01:24:37,208 --> 01:24:42,018
+<font color=#FFFF00>Não, não! Mãe! Tem muitos aqui! Mãe!</font>
+
+872
+01:27:32,633 --> 01:27:33,736
+<font color=#FFFF00>Eii!</font>
+
+873
+01:27:34,037 --> 01:27:34,737
+<font color=#FFFF00>Olá!</font>
+
+874
+01:27:37,544 --> 01:27:38,947
+<font color=#FFFF00>Não é o cara das patas loucas?</font>
+
+875
+01:27:38,947 --> 01:27:40,718
+<font color=#FFFF00>Parece que é ele.
+Como ele se chamava?</font>
+
+876
+01:27:40,718 --> 01:27:41,854
+<font color=#FFFF00>Eu pensei que estivesse morto.</font>
+
+877
+01:27:42,623 --> 01:27:44,059
+<font color=#FFFF00>- Escutem todos!
+- Pelo visto não.</font>
+
+878
+01:27:44,059 --> 01:27:47,132
+<font color=#FFFF00>Escutem amigos. Tenho
+noticias importantes.</font>
+
+879
+01:27:47,734 --> 01:27:49,739
+<font color=#FFFF00>Já sei quem está levando os peixes!</font>
+
+880
+01:27:49,739 --> 01:27:51,943
+<font color=#FFFF00>- Sim, e te levaram o cérebro.
+- São os alienígenas.</font>
+
+881
+01:27:52,244 --> 01:27:53,848
+<font color=#FFFF00>Fiz contacto com eles.</font>
+
+882
+01:27:54,248 --> 01:27:56,787
+<font color=#FFFF00>Os alienígenas estão levando os peixes.</font>
+
+883
+01:27:56,821 --> 01:27:58,659
+<font color=#FFFF00>Avisem Noah e ao conselho.</font>
+
+884
+01:27:58,659 --> 01:28:01,966
+<font color=#FFFF00>- Ouça você.
+- Gloria.</font>
+
+885
+01:28:02,768 --> 01:28:04,672
+<font color=#FFFF00>É raro que eu volte a te ver.</font>
+
+886
+01:28:05,273 --> 01:28:06,075
+<font color=#FFFF00>Sim.</font>
+
+887
+01:28:06,576 --> 01:28:08,580
+<font color=#FFFF00>- Está tudo bem, querida?
+- Você lembra do Seymour?</font>
+
+888
+01:28:08,580 --> 01:28:10,084
+<font color=#FFFF00>Sim. Olá Seymour.</font>
+
+889
+01:28:10,084 --> 01:28:10,886
+<font color=#FFFF00>Sim.</font>
+
+890
+01:28:13,391 --> 01:28:15,295
+<font color=#FFFF00>E... qual deles é o seu?</font>
+
+891
+01:28:16,364 --> 01:28:17,200
+<font color=#FFFF00>Todos.</font>
+
+892
+01:28:20,106 --> 01:28:21,710
+<font color=#FFFF00>É a nossa classe de canto.</font>
+
+893
+01:28:21,743 --> 01:28:23,682
+<font color=#FFFF00>Ele ensina ritmo e eu melodia.</font>
+
+894
+01:28:23,682 --> 01:28:26,587
+<font color=#FFFF00>- Ah, então não...
+- Não, nunca escutei a canção adequada.</font>
+
+895
+01:28:26,587 --> 01:28:31,800
+<font color=#FFFF00>Genial! Não... Me refiro a que...bue...
+Já sei quem está roubando os peixes.</font>
+
+896
+01:28:31,800 --> 01:28:36,711
+<font color=#FFFF00>São grandes e um pouco feios, mas Gloria
+o que fazem, e estão vindo!</font>
+
+897
+01:28:36,711 --> 01:28:37,913
+<font color=#FFFF00>Ah, é serio?</font>
+
+898
+01:28:37,913 --> 01:28:40,819
+<font color=#FFFF00>Virão logo, e acredito que
+querem nos ajudar.</font>
+
+899
+01:28:40,819 --> 01:28:42,657
+<font color=#FFFF00>Ahh.. e agora você fala com eles.</font>
+
+900
+01:28:42,657 --> 01:28:45,564
+<font color=#FFFF00>Não falam penguinês,
+mas respondem a isso.</font>
+
+901
+01:28:48,436 --> 01:28:51,409
+<font color=#FFFF00>Sugiro que todos aprendam.
+Lhes chamam a atenção.</font>
+
+902
+01:28:51,409 --> 01:28:52,912
+<font color=#FFFF00>E porque deveríamos atraí-los?</font>
+
+903
+01:28:52,912 --> 01:28:54,817
+<font color=#FFFF00>Não sei, mas funciona.</font>
+
+904
+01:28:56,421 --> 01:28:58,125
+<font color=#FFFF00>Ei! É o Saltarín.</font>
+
+905
+01:28:58,725 --> 01:29:00,430
+<font color=#FFFF00>- Rapazes, rapazes! É...</font>
+
+906
+01:29:00,430 --> 01:29:01,432
+<font color=#FFFF00>- Peludinho!
+- Grandalhão!</font>
+
+907
+01:29:07,145 --> 01:29:09,751
+<font color=#FFFF00>Como se atreve a voltar?</font>
+
+908
+01:29:10,553 --> 01:29:12,857
+<font color=#FFFF00>Disse que viu os alienígenas, e que
+estão levando os peixes.</font>
+
+909
+01:29:12,857 --> 01:29:15,163
+<font color=#FFFF00>Disse que vão vir e que
+teremos que fazer isso.</font>
+
+910
+01:29:17,067 --> 01:29:20,374
+<font color=#FFFF00>Não existem alienígenas!</font>
+
+911
+01:29:22,579 --> 01:29:25,251
+<font color=#FFFF00>Mambo. Dê a volta.</font>
+
+912
+01:29:28,559 --> 01:29:29,562
+<font color=#FFFF00>É uma doença.</font>
+
+913
+01:29:30,363 --> 01:29:31,866
+<font color=#FFFF00>Isso é deles?</font>
+
+914
+01:29:32,769 --> 01:29:36,778
+<font color=#FFFF00>Sim. Más não se assustem, acho que só
+é para poder me encontrar, mais nada.</font>
+
+915
+01:29:36,878 --> 01:29:40,586
+<font color=#FFFF00>Os trouxe até aqui?
+Os trouxe com os da sua espécie?</font>
+
+916
+01:29:41,789 --> 01:29:45,396
+<font color=#FFFF00>Um momento. O senhor disse que
+não existiam esses alienígenas.</font>
+
+917
+01:29:48,002 --> 01:29:53,916
+<font color=#FFFF00>Bem... Não existem, mas existiam
+e um traidor os trouxe até aqui.</font>
+
+918
+01:29:53,916 --> 01:29:57,992
+<font color=#FFFF00>Mas eles tem que vir, são eles que estão levando
+os peixes. Podiam fazer algo a respeito.</font>
+
+919
+01:29:57,992 --> 01:30:01,801
+<font color=#FFFF00>Somente o Grande Güin tem o poder
+de dar e de tirar.</font>
+
+920
+01:30:01,801 --> 01:30:05,708
+<font color=#FFFF00>Mas o Grande Güin não mudou as coisas.
+Foram os alienígenas.</font>
+
+921
+01:30:07,312 --> 01:30:10,619
+<font color=#FFFF00>Um necio volta a burlar
+nosso sofrimento.</font>
+
+922
+01:30:11,656 --> 01:30:14,429
+<font color=#FFFF00>Morreremos de fome e ele quer
+que a gente dance.</font>
+
+923
+01:30:15,933 --> 01:30:18,637
+<font color=#FFFF00>Agora, nos apegamos aos
+nossos costumes?...</font>
+
+924
+01:30:18,637 --> 01:30:22,814
+<font color=#FFFF00>... Cederemos às fantasias
+de um bailarino tonto?</font>
+
+925
+01:30:32,335 --> 01:30:36,444
+<font color=#FFFF00>- Ouça, e como era o passo que dizia.
+- Sim, ensine eles, Mambo.</font>
+
+926
+01:30:38,148 --> 01:30:39,752
+<font color=#FFFF00>Ah, é muito fácil.</font>
+
+927
+01:30:40,254 --> 01:30:42,858
+<font color=#FFFF00>Não, não! Vocês têm que resistir!</font>
+
+928
+01:30:44,162 --> 01:30:45,465
+<font color=#FFFF00>Isso aí.</font>
+
+929
+01:30:47,569 --> 01:30:49,774
+<font color=#FFFF00>Resistam! Sigam firme!</font>
+
+930
+01:30:49,975 --> 01:30:52,681
+<font color=#FFFF00>Sigam firme contra esse tonto.</font>
+
+931
+01:30:59,597 --> 01:31:01,601
+<font color=#FFFF00>Aumentem a voz irmãos.</font>
+
+932
+01:31:02,503 --> 01:31:05,276
+<font color=#FFFF00>Gritem, desafiando essa coisa ridícula.</font>
+
+933
+01:31:06,011 --> 01:31:07,012
+<font color=#FFFF00>Me mostre como fazer.</font>
+
+934
+01:31:19,908 --> 01:31:25,621
+<font color=#FFFF00>Irmãos, sigam o vosso instinto.
+Ainda que a terra trema...</font>
+
+935
+01:31:25,621 --> 01:31:29,129
+<font color=#FFFF00>... Quando os outros se vão,
+nós permanecemos.</font>
+
+936
+01:31:34,440 --> 01:31:35,477
+<font color=#FFFF00>Amigos!</font>
+
+937
+01:31:36,044 --> 01:31:36,813
+<font color=#FFFF00>Companheiros!</font>
+
+938
+01:31:37,714 --> 01:31:38,016
+<font color=#FFFF00>Mamã!</font>
+
+939
+01:31:38,317 --> 01:31:42,025
+<font color=#FFFF00>Meu garoto, meu precioso filho.</font>
+
+940
+01:31:43,728 --> 01:31:45,132
+<font color=#FFFF00>Você está mais bonito.</font>
+
+941
+01:31:46,302 --> 01:31:47,036
+<font color=#FFFF00>Te amo lindinho.</font>
+
+942
+01:31:50,344 --> 01:31:51,346
+<font color=#FFFF00>Onde está o papai?</font>
+
+943
+01:31:51,613 --> 01:31:53,483
+<font color=#FFFF00>Acredite, não vai querer ver seu pai.</font>
+
+944
+01:31:53,550 --> 01:31:55,255
+<font color=#FFFF00>- Seu pai está...
+- Que?</font>
+
+945
+01:31:55,956 --> 01:31:57,259
+<font color=#FFFF00>Vem, vou te mostrar.</font>
+
+946
+01:32:07,681 --> 01:32:08,784
+<font color=#FFFF00>Memphis?</font>
+
+947
+01:32:10,556 --> 01:32:11,758
+<font color=#FFFF00>Memphis?</font>
+
+948
+01:32:11,858 --> 01:32:12,860
+<font color=#FFFF00>Pai?</font>
+
+949
+01:32:17,370 --> 01:32:20,477
+<font color=#FFFF00>Mambo. É você de verdade?</font>
+
+950
+01:32:21,278 --> 01:32:22,882
+<font color=#FFFF00>Mais vivo do que nunca.</font>
+
+951
+01:32:28,094 --> 01:32:29,397
+<font color=#FFFF00>Eu pensei...</font>
+
+952
+01:32:30,801 --> 01:32:31,902
+<font color=#FFFF00>... que...</font>
+
+953
+01:32:33,807 --> 01:32:34,709
+<font color=#FFFF00>Pai?</font>
+
+954
+01:32:38,919 --> 01:32:41,123
+<font color=#FFFF00>Não houve um só dia...</font>
+
+955
+01:32:43,228 --> 01:32:44,397
+<font color=#FFFF00>... nem um só dia...</font>
+
+956
+01:32:45,499 --> 01:32:47,504
+<font color=#FFFF00>... em que eu tenha feito algo contra você.</font>
+
+957
+01:32:52,215 --> 01:32:53,117
+<font color=#FFFF00>Pai.</font>
+
+958
+01:32:54,419 --> 01:32:55,924
+<font color=#FFFF00>Dance para ele, pai.</font>
+
+959
+01:32:55,924 --> 01:32:57,928
+<font color=#FFFF00>Dance com o seu filho.</font>
+
+960
+01:33:01,937 --> 01:33:03,842
+<font color=#FFFF00>Terá que me desculpar.</font>
+
+961
+01:33:04,943 --> 01:33:07,348
+<font color=#FFFF00>A música me tomou para o completo.</font>
+
+962
+01:33:10,055 --> 01:33:15,667
+<font color=#FFFF00>Não é verdade... é a mesma coisa que...
+cantar com o seu corpo.</font>
+
+963
+01:33:15,667 --> 01:33:17,838
+<font color=#FFFF00>Anime-se querido, você consegue.</font>
+
+964
+01:33:17,838 --> 01:33:18,841
+<font color=#FFFF00>Oh mamã.</font>
+
+965
+01:33:19,743 --> 01:33:23,051
+<font color=#FFFF00>Só tem que mexer uma pata e
+depois a outra.</font>
+
+966
+01:33:29,565 --> 01:33:30,367
+<font color=#FFFF00>Isso aí.</font>
+
+967
+01:33:32,471 --> 01:33:33,374
+<font color=#FFFF00>Sim.</font>
+
+968
+01:33:35,678 --> 01:33:37,583
+<font color=#FFFF00>- Está vendo?
+- Me sinto bem.</font>
+
+969
+01:35:06,014 --> 01:35:07,485
+<font color=#FFFF00>Mamã, mamã, mamã, mamã...</font>
+
+970
+01:35:44,635 --> 01:35:46,739
+<font color=#FFFF00>Acho que é hora de dançar.</font>
+
+971
+01:36:41,094 --> 01:36:42,597
+<font color=#FFFF00>Ainda tem vários aí.</font>
+
+972
+01:36:42,597 --> 01:36:44,935
+<font color=#FFFF00>Estão tentando nos dizer algo?</font>
+
+973
+01:36:44,902 --> 01:36:47,876
+<font color=#FFFF00>- Qual é o problema?
+- Estamos alterando a sua cadeia alimentar.</font>
+
+974
+01:36:47,909 --> 01:36:49,146
+<font color=#FFFF00>Temos que fazer algo
+a respeito.</font>
+
+975
+01:36:49,146 --> 01:36:51,350
+<font color=#FFFF00>Sugiro uma rede em toda
+a área de pesca.</font>
+
+976
+01:36:51,417 --> 01:36:52,619
+<font color=#FFFF00>Isso significa muito dinheiro.</font>
+
+977
+01:36:54,624 --> 01:36:58,231
+<font color=#FFFF00>Por que temos que fazer alguma coisa?
+Não tem coisas mais importantes?</font>
+
+978
+01:37:02,843 --> 01:37:05,749
+<font color=#FFFF00>São um monte de pássaros
+no fim do mundo.</font>
+
+979
+01:37:05,749 --> 01:37:08,556
+<font color=#FFFF00>Pesca proibida!
+Salvem os pinguins!</font>
+
+980
+01:37:08,956 --> 01:37:10,827
+<font color=#FFFF00>Devem entender que alteramos...</font>
+
+981
+01:37:10,827 --> 01:37:11,929
+<font color=#FFFF00>Senhores congressistas, estamos falando...</font>
+
+982
+01:37:13,300 --> 01:37:14,937
+<font color=#FFFF00>O que vamos fazer?</font>
+
+983
+01:37:14,937 --> 01:37:16,139
+<font color=#FFFF00>Coloquem a faixa para que não pesquem!</font>
+
+984
+01:37:18,144 --> 01:37:23,155
+<font color=#FFFF00>O amor é igual a compartilhar.</font>
+
+985
+01:37:27,464 --> 01:37:28,566
+<font color=#FFFF00>Oh querida.</font>
+
+986
+01:37:29,970 --> 01:37:31,975
+<font color=#FFFF00>Isso aí.</font>
+
+987
+01:37:33,578 --> 01:37:34,579
+<font color=#FFFF00>Mambo.</font>
+
+988
+01:37:56,696 --> 01:37:59,202
+<font color=#FFFF00>Oh sim, que ouçam. Vamos.</font>
+
