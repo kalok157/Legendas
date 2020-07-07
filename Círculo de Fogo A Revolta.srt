@@ -1,0 +1,6296 @@
+1
+00:00:44,128 --> 00:00:47,006
+<i>Minha geração nasceu
+no meio de uma guerra.</i>
+
+2
+00:00:51,802 --> 00:00:54,055
+<i>Monstros gigantes atacaram
+nosso mundo.</i>
+
+3
+00:00:55,765 --> 00:00:57,933
+<i>Nós os chamamos de Kaiju.</i>
+
+4
+00:00:59,935 --> 00:01:02,063
+<i>Eles entraram pela fenda.</i>
+
+5
+00:01:02,521 --> 00:01:06,817
+<i>Um portal para outra dimensão
+no fundo do Oceano Pacífico.</i>
+
+6
+00:01:07,526 --> 00:01:11,906
+<i>Foram enviados por uma raça alienígena
+do outro lado, os Precursores.</i>
+
+7
+00:01:13,491 --> 00:01:15,534
+<i>Nós reagimos...</i>
+
+8
+00:01:15,701 --> 00:01:17,661
+<i>construindo nossos próprios monstros.</i>
+
+9
+00:01:18,162 --> 00:01:20,831
+<i>Jaegers, robôs gigantes.</i>
+
+10
+00:01:21,248 --> 00:01:23,709
+<i>Tão grandes que precisavam
+de 2 pilotos.</i>
+
+11
+00:01:25,503 --> 00:01:27,213
+<i>Meu pai era um deles.</i>
+
+12
+00:01:28,923 --> 00:01:31,676
+<i>Ele se sacrificou
+para ajudar a salvar o mundo.</i>
+
+13
+00:01:35,554 --> 00:01:38,099
+<i>Eu não sou o meu pai.</i>
+
+14
+00:01:41,644 --> 00:01:43,688
+<i>Faz 10 anos que vencemos a guerra...</i>
+
+15
+00:01:43,854 --> 00:01:44,939
+<i>e fechamos a fenda.</i>
+
+16
+00:01:47,108 --> 00:01:49,193
+<i>A maior parte do mundo se recuperou.</i>
+
+17
+00:01:49,360 --> 00:01:52,154
+<i>Mas algumas cidades litorâneas, não.</i>
+
+18
+00:01:52,321 --> 00:01:54,907
+<i>E o mundo ainda está juntando
+os pedaços.</i>
+
+19
+00:02:01,497 --> 00:02:04,333
+<i>Mas alguns de nós vivem melhor
+num mundo despedaçado.</i>
+
+20
+00:02:08,504 --> 00:02:11,090
+<i>E invadir uma mansão semidestruída...</i>
+
+21
+00:02:11,257 --> 00:02:13,009
+<i>é melhor do que pagar
+por um apê meia-boca.</i>
+
+22
+00:02:13,175 --> 00:02:14,593
+APARTAMENTOS CRAPI
+
+23
+00:02:15,052 --> 00:02:17,763
+<i>Nas áreas libertadas,
+é preciso ser criativo.</i>
+
+24
+00:02:17,930 --> 00:02:20,850
+<i>E ficar ligado...
+pra não comerem seu café da manhã.</i>
+
+25
+00:02:23,602 --> 00:02:24,895
+<i>E seus biscoitos.</i>
+
+26
+00:02:27,857 --> 00:02:29,650
+<i>E seu molho picante favorito.</i>
+
+27
+00:02:29,817 --> 00:02:32,278
+<i>Aqui, valorizamos as coisas
+de um jeito diferente.</i>
+
+28
+00:02:35,656 --> 00:02:38,534
+<i>A Corporação de Defesa Pan-pacífica
+costuma fazer vista grossa...</i>
+
+29
+00:02:38,701 --> 00:02:41,537
+<i>desde que você não se meta
+onde não é chamado.</i>
+
+30
+00:02:42,121 --> 00:02:44,290
+<i>Tipo um ferro-velho
+de Jaegers desativados.</i>
+
+31
+00:02:44,457 --> 00:02:45,791
+FERRO-VELHO DE JAEGERS DESATIVADOS
+
+32
+00:02:46,000 --> 00:02:47,084
+SANTA MÔNICA
+CALIFÓRNIA
+
+33
+00:02:47,251 --> 00:02:49,337
+<i>Altos riscos geram altos lucros.</i>
+
+34
+00:02:50,171 --> 00:02:52,882
+<i>E nada dá mais lucro
+do que tecnologia Jaeger roubada.</i>
+
+35
+00:02:53,507 --> 00:02:57,511
+<i>Vários malucos por aqui
+tentam montar seus próprios Jaegers.</i>
+
+36
+00:03:00,181 --> 00:03:02,224
+<i>Mas eles precisam de peças
+para isso.</i>
+
+37
+00:03:04,393 --> 00:03:07,063
+<i>Então, se conseguir roubar
+o que ninguém consegue...</i>
+
+38
+00:03:09,774 --> 00:03:11,650
+<i>pode viver como rei.</i>
+
+39
+00:03:17,573 --> 00:03:18,991
+Tem certeza de que está aqui?
+
+40
+00:03:19,158 --> 00:03:21,660
+Retiram o núcleo de força
+antes de desativar.
+
+41
+00:03:22,078 --> 00:03:24,747
+Às vezes, esquecem
+os capacitores de plasma.
+
+42
+00:03:25,539 --> 00:03:28,125
+E nós demos sorte.
+Este ainda tem carga.
+
+43
+00:03:31,379 --> 00:03:32,797
+É bom que tenha mesmo.
+
+44
+00:03:33,464 --> 00:03:34,674
+Tudo bem.
+
+45
+00:03:35,049 --> 00:03:37,009
+Vamos nos acalmar.
+Sem nervosismo.
+
+46
+00:03:37,176 --> 00:03:38,260
+Só estou me garantindo.
+
+47
+00:03:38,427 --> 00:03:41,305
+Você enganou o Barada em Juarez,
+o Chau em Hong Kong.
+
+48
+00:03:41,472 --> 00:03:43,891
+-Foi um mal-entendido.
+-E me roubou...
+
+49
+00:03:44,058 --> 00:03:45,309
+debaixo do meu nariz.
+
+50
+00:03:45,726 --> 00:03:48,646
+Agora estou roubando para você.
+É o ciclo da vida.
+
+51
+00:03:49,188 --> 00:03:50,189
+Estamos quites?
+
+52
+00:03:50,481 --> 00:03:51,857
+Você entrega...
+
+53
+00:03:52,775 --> 00:03:56,529
+e aí, sim,
+estaremos quites.
+
+54
+00:03:57,238 --> 00:03:58,447
+Tudo bem.
+
+55
+00:04:05,996 --> 00:04:07,123
+Vamos ficar ricos.
+
+56
+00:04:07,665 --> 00:04:08,666
+Vamos.
+
+57
+00:04:18,592 --> 00:04:20,011
+<i>Alvo localizado.</i>
+
+58
+00:04:20,761 --> 00:04:22,096
+Onde está?
+
+59
+00:04:22,596 --> 00:04:23,639
+<i>Alvo localizado.</i>
+
+60
+00:04:23,806 --> 00:04:26,183
+Olha, cara, tem um probleminha.
+
+61
+00:04:26,350 --> 00:04:27,977
+Diz que está aqui...
+
+62
+00:04:28,144 --> 00:04:29,478
+era pra estar bem ali...
+
+63
+00:04:29,645 --> 00:04:31,105
+mas deixa que eu resolvo.
+
+64
+00:04:32,189 --> 00:04:33,691
+<i>Alvo localizado.</i>
+
+65
+00:04:34,108 --> 00:04:35,735
+Alguém, por favor,
+mata esse cara pra mim.
+
+66
+00:04:36,986 --> 00:04:38,487
+<i>Alvo em movimento.</i>
+
+67
+00:04:38,779 --> 00:04:39,864
+Não. Está aqui.
+
+68
+00:04:40,031 --> 00:04:41,115
+Ei, você, espera!
+
+69
+00:04:41,282 --> 00:04:42,950
+Alguém aqui já pegou o capacitor.
+
+70
+00:04:43,117 --> 00:04:44,702
+-Vamos. Rápido.
+-Jake!
+
+71
+00:04:45,119 --> 00:04:46,662
+Jake! Ei, espera!
+
+72
+00:04:47,788 --> 00:04:49,040
+Seu filho da...
+
+73
+00:04:52,251 --> 00:04:53,711
+Vão! Vão!
+
+74
+00:04:54,462 --> 00:04:56,255
+Separem-se. Vão!
+
+75
+00:05:16,984 --> 00:05:17,985
+Qual é, Jake?
+
+76
+00:05:23,449 --> 00:05:25,826
+<i>-Ei, chefe, ele foi por ali!
+-Vão, vão!</i>
+
+77
+00:05:25,993 --> 00:05:27,453
+<i>Está ali.</i>
+
+78
+00:05:43,177 --> 00:05:44,595
+Jake, Jake.
+
+79
+00:05:45,429 --> 00:05:46,597
+Boa tentativa.
+
+80
+00:05:52,019 --> 00:05:53,020
+É.
+
+81
+00:05:53,187 --> 00:05:54,980
+-Jake!
+-Estamos quites.
+
+82
+00:05:55,147 --> 00:05:56,190
+Jake!
+
+83
+00:05:57,525 --> 00:05:58,567
+AFASTE-SE DAS PORTAS
+
+84
+00:05:58,651 --> 00:05:59,652
+<i>Jake, seu filho da...</i>
+
+85
+00:06:03,114 --> 00:06:04,615
+<i>Alvo localizado.</i>
+
+86
+00:06:04,907 --> 00:06:05,908
+<i>Alvo localizado.</i>
+
+87
+00:06:08,494 --> 00:06:09,578
+<i>Alvo localizado.</i>
+
+88
+00:06:09,745 --> 00:06:11,706
+Ei! Volta aqui com isso!
+
+89
+00:06:52,663 --> 00:06:54,081
+<i>Alvo em movimento.</i>
+
+90
+00:07:31,077 --> 00:07:33,537
+AJUDE A VENCER ESTA GUERRA
+
+91
+00:07:36,207 --> 00:07:39,043
+FIM DOS KAIJUS
+GUERRA CONTRA KAIJUS ACABOU!
+
+92
+00:07:39,210 --> 00:07:40,503
+SHAO PLANEJA
+DOMÍNIO TECNOLÓGICO
+
+93
+00:07:40,670 --> 00:07:42,171
+JAEGER MARK VI
+RESISTENTE, FORTE E VELOZ
+
+94
+00:08:26,257 --> 00:08:28,467
+-Quantos anos você tem?
+-O suficiente pra te dar uma surra.
+
+95
+00:08:29,552 --> 00:08:31,012
+Vamos parar um pouco.
+Para trás.
+
+96
+00:08:31,178 --> 00:08:32,555
+Para trás.
+
+97
+00:08:32,888 --> 00:08:34,223
+Construiu isso sozinha?
+
+98
+00:08:34,390 --> 00:08:35,599
+O que você acha?
+
+99
+00:08:35,766 --> 00:08:37,977
+Acho que vendo seu brinquedo
+por uma grana.
+
+100
+00:08:38,144 --> 00:08:40,563
+Scrapper não é brinquedo
+nem está à venda.
+
+101
+00:08:40,730 --> 00:08:43,691
+O cara com o cano na mão acha que é.
+Então, ouça...
+
+102
+00:08:46,110 --> 00:08:47,153
+Você foi seguido?
+
+103
+00:08:47,319 --> 00:08:48,404
+É impossível.
+
+104
+00:08:49,363 --> 00:08:50,364
+Ei!
+
+105
+00:08:51,657 --> 00:08:53,284
+Ah, qual é, cara.
+
+106
+00:09:09,800 --> 00:09:11,177
+Vamos lá!
+
+107
+00:09:12,595 --> 00:09:15,097
+É! Funciona!
+
+108
+00:09:17,099 --> 00:09:18,100
+Muito bem.
+
+109
+00:09:23,731 --> 00:09:25,316
+Ei! Cai fora.
+
+110
+00:09:25,483 --> 00:09:27,318
+O que está fazendo?
+Não, não!
+
+111
+00:09:27,485 --> 00:09:28,819
+-Onde está?
+-Para! Ei!
+
+112
+00:09:28,986 --> 00:09:30,112
+Não toque nisso. Ei!
+
+113
+00:09:30,279 --> 00:09:31,947
+O que está fazendo? Para!
+
+114
+00:09:32,114 --> 00:09:33,199
+-Cadê o outro?
+-Outro o quê?
+
+115
+00:09:33,366 --> 00:09:34,825
+Berço. Um Jaeger precisa de 2 pilotos.
+
+116
+00:09:34,992 --> 00:09:37,244
+O Scrapper é pequeno,
+basta um lobo neural.
+
+117
+00:09:37,411 --> 00:09:39,288
+Ok, então sai,
+e me deixa pilotar!
+
+118
+00:09:39,455 --> 00:09:40,456
+Sai logo!
+
+119
+00:09:40,623 --> 00:09:41,749
+Não mesmo!
+
+120
+00:09:50,049 --> 00:09:52,468
+-Falei que não é brinquedo.
+-Vai nos matar.
+
+121
+00:09:52,635 --> 00:09:54,887
+-Posso tirar a gente daqui.
+-Já tirei.
+
+122
+00:10:01,268 --> 00:10:02,269
+Ai, não.
+
+123
+00:10:02,436 --> 00:10:03,646
+ALERTA DE PROXIMIDADE
+AVISO
+
+124
+00:10:05,356 --> 00:10:06,440
+É o November Ajax.
+
+125
+00:10:06,941 --> 00:10:09,318
+<i>Pilotos do Jaeger não registrado...</i>
+
+126
+00:10:09,485 --> 00:10:12,238
+<i>aqui é a Corporação
+de Defesa Pan-pacífica.</i>
+
+127
+00:10:12,780 --> 00:10:15,366
+<i>Desconectem e saiam do casulo.</i>
+
+128
+00:10:17,910 --> 00:10:19,787
+Não. Não. Não desista.
+
+129
+00:10:19,995 --> 00:10:21,288
+Você desiste fácil demais.
+
+130
+00:10:21,539 --> 00:10:22,832
+É o que eles pensam.
+
+131
+00:10:33,300 --> 00:10:34,927
+<i>Parem.</i>
+
+132
+00:10:37,304 --> 00:10:39,932
+<i>Estão infringindo o código 10,
+parágrafo 14.</i>
+
+133
+00:10:40,099 --> 00:10:42,309
+<i>Operação de Jaeger não identificado.</i>
+
+134
+00:10:43,102 --> 00:10:44,603
+-Segura firme.
+-Estou segurando!
+
+135
+00:10:44,770 --> 00:10:45,771
+Mais forte.
+
+136
+00:10:57,867 --> 00:10:59,201
+<i>É sério?</i>
+
+137
+00:11:01,537 --> 00:11:02,747
+<i>Parem.</i>
+
+138
+00:11:19,555 --> 00:11:20,681
+Viu?
+
+139
+00:11:20,848 --> 00:11:23,059
+Despistei o November Ajax.
+
+140
+00:11:23,309 --> 00:11:24,310
+Claro que não.
+
+141
+00:11:24,393 --> 00:11:25,394
+Sim.
+
+142
+00:11:28,397 --> 00:11:29,398
+Não.
+
+143
+00:11:31,359 --> 00:11:34,528
+Ok, qual é o seu plano?
+Mas não vou sair daqui.
+
+144
+00:11:35,654 --> 00:11:37,073
+Tem uma célula eletrolítica sobrando?
+
+145
+00:11:37,239 --> 00:11:38,741
+-Não!
+-Agora tem.
+
+146
+00:11:38,908 --> 00:11:40,618
+-Vamos precisar.
+-Vá pra cabeça do Ajax.
+
+147
+00:11:40,785 --> 00:11:42,370
+-O quê?
+-Vai!
+
+148
+00:11:56,842 --> 00:11:58,219
+<i>Desconectem.</i>
+
+149
+00:12:04,600 --> 00:12:06,727
+<i>Alerta de baixa potência.
+12%.</i>
+
+150
+00:12:06,894 --> 00:12:08,354
+Eu disse que precisava daquilo!
+
+151
+00:12:08,521 --> 00:12:09,563
+Deu certo, né?
+
+152
+00:12:09,730 --> 00:12:11,232
+<i>11%.</i>
+
+153
+00:12:14,985 --> 00:12:17,446
+Quanto tempo até o Ajax
+reiniciar os sistemas?
+
+154
+00:12:21,826 --> 00:12:22,827
+Já deu tempo.
+
+155
+00:12:28,165 --> 00:12:29,166
+<i>Desconectem.</i>
+
+156
+00:12:29,792 --> 00:12:31,711
+<i>É seu último aviso.</i>
+
+157
+00:12:48,644 --> 00:12:50,646
+<i>Muito bem, podem sair.</i>
+
+158
+00:13:01,866 --> 00:13:04,869
+Olha o que você fez com meu Jaeger,
+idiota!
+
+159
+00:13:17,089 --> 00:13:18,674
+Devia ter me deixado pilotar.
+
+160
+00:13:19,508 --> 00:13:21,177
+Agora a culpa é minha.
+
+161
+00:13:21,719 --> 00:13:23,262
+Você expôs meu centro de comando.
+
+162
+00:13:23,429 --> 00:13:25,473
+Seu centro de comando?
+
+163
+00:13:25,639 --> 00:13:27,099
+-É, meu centro...
+-Peraí, não ouvi isso.
+
+164
+00:13:27,183 --> 00:13:28,184
+-Seu centro de comando?
+-É!
+
+165
+00:13:28,351 --> 00:13:31,103
+Não tinha nada que entrar
+e me dizer o que fazer.
+
+166
+00:13:31,270 --> 00:13:32,730
+Eu vou aonde quero.
+É um mundo diferente.
+
+167
+00:13:32,897 --> 00:13:34,565
+E deu muito certo, né?
+Olhe onde estamos.
+
+168
+00:13:34,732 --> 00:13:36,859
+Seus lábios superior e inferior
+têm que ficar amigos.
+
+169
+00:13:36,942 --> 00:13:37,943
+Essa foi boa.
+
+170
+00:13:38,110 --> 00:13:39,445
+Precisam se encontrar, tá?
+Feche a boca.
+
+171
+00:13:39,528 --> 00:13:40,905
+-Chega de papo.
+-Eu consigo.
+
+172
+00:13:40,988 --> 00:13:41,989
+Melhor.
+
+173
+00:13:42,281 --> 00:13:43,657
+Garota ferro-velho.
+
+174
+00:13:48,621 --> 00:13:49,789
+Por que construiu aquilo?
+
+175
+00:13:49,955 --> 00:13:51,207
+Não era pra fechar a boca?
+
+176
+00:13:51,374 --> 00:13:54,043
+Falou que não ia vender,
+então era pra quê?
+
+177
+00:13:54,794 --> 00:13:56,212
+Roubar um banco ou algo assim?
+
+178
+00:13:57,922 --> 00:14:00,633
+Construí porque, um dia,
+eles vão voltar.
+
+179
+00:14:02,426 --> 00:14:03,427
+Os Kaijus.
+
+180
+00:14:03,969 --> 00:14:05,388
+Quando voltarem,
+não vou ficar...
+
+181
+00:14:05,554 --> 00:14:08,140
+esperando alguém vir me salvar.
+
+182
+00:14:11,185 --> 00:14:12,687
+Não como da outra vez.
+
+183
+00:14:20,986 --> 00:14:22,363
+Você. Vamos.
+
+184
+00:14:22,530 --> 00:14:23,864
+FICHA CRIMINAL
+
+185
+00:14:42,967 --> 00:14:43,968
+<i>Olá, Jake.</i>
+
+186
+00:14:46,512 --> 00:14:48,014
+<i>Aqui estamos nós de novo.</i>
+
+187
+00:14:48,305 --> 00:14:50,433
+Olha, é só uma fase ruim.
+Vou dar um jeito.
+
+188
+00:14:50,599 --> 00:14:54,186
+<i>Papai dizia que nós fazemos
+nossa própria sorte.</i>
+
+189
+00:14:54,603 --> 00:14:56,355
+É, ele dizia muitas coisas.
+
+190
+00:14:56,522 --> 00:14:58,232
+<i>Você foi preso em um Jaeger pirata.</i>
+
+191
+00:14:58,649 --> 00:15:01,152
+Peraí, o Jaeger não era meu.
+É daquela garota.
+
+192
+00:15:01,318 --> 00:15:03,446
+-Uma baixinha...
+<i>-Já tem antecedentes.</i>
+
+193
+00:15:03,863 --> 00:15:05,656
+<i>Isso é sério.</i>
+
+194
+00:15:05,740 --> 00:15:06,741
+Está bem.
+
+195
+00:15:06,907 --> 00:15:10,745
+É por isso que minha irmã mais velha
+vai me ajudar a sair daqui.
+
+196
+00:15:10,911 --> 00:15:12,288
+Pela última vez.
+
+197
+00:15:12,747 --> 00:15:17,126
+<i>Não vão deixar você se safar.
+Mas pode ter outro jeito.</i>
+
+198
+00:15:17,293 --> 00:15:18,836
+Era o que eu queria ouvir.
+
+199
+00:15:19,003 --> 00:15:21,213
+É sobre o que vim falar,
+o outro jeito.
+
+200
+00:15:21,380 --> 00:15:22,465
+E aí, o que tenho que fazer?
+
+201
+00:15:22,631 --> 00:15:24,884
+<i>Realistar-se e terminar o que começou.</i>
+
+202
+00:15:25,634 --> 00:15:28,429
+Sem chance.
+Sou velho demais pra ser cadete.
+
+203
+00:15:28,596 --> 00:15:31,932
+<i>Não quero que seja cadete.
+Quero que ajude a treiná-los.</i>
+
+204
+00:15:32,099 --> 00:15:34,310
+Quem? O quê?
+Não vou treinar crianças.
+
+205
+00:15:34,477 --> 00:15:37,730
+<i>O transporte está esperando
+para levar os dois a Moyulan.</i>
+
+206
+00:15:37,813 --> 00:15:38,814
+Nós dois?
+
+207
+00:15:38,981 --> 00:15:40,691
+<i>Você e sua nova recruta.</i>
+
+208
+00:15:40,858 --> 00:15:41,859
+Mako.
+
+209
+00:15:48,199 --> 00:15:50,993
+Não acredito que ela apagou
+na minha cara.
+
+210
+00:15:56,123 --> 00:15:58,501
+ACADEMIA DE PILOTOS DA PPDC
+
+211
+00:15:58,668 --> 00:16:01,796
+SHATTERDOME DE MOYULAN
+CHINA
+
+212
+00:16:12,014 --> 00:16:14,016
+Olha. Eu não tive escolha.
+
+213
+00:16:14,183 --> 00:16:16,602
+Já entendi. Mas por que eu?
+
+214
+00:16:16,769 --> 00:16:18,688
+Por que me querem no programa?
+
+215
+00:16:18,854 --> 00:16:20,690
+Construiu e pilotou seu Jaeger.
+
+216
+00:16:20,856 --> 00:16:22,400
+Essa gente gosta disso.
+
+217
+00:16:22,858 --> 00:16:26,445
+Então por que eu sou só cadete,
+e você já é ranger?
+
+218
+00:16:28,197 --> 00:16:29,490
+Valor Omega.
+
+219
+00:16:31,450 --> 00:16:32,660
+Não acredito.
+
+220
+00:16:33,661 --> 00:16:35,413
+É o Valor Omega!
+
+221
+00:16:37,373 --> 00:16:38,374
+Scrapper!
+
+222
+00:16:42,920 --> 00:16:43,921
+Ei!
+
+223
+00:16:46,007 --> 00:16:47,550
+Deve estar de brincadeira.
+
+224
+00:16:47,967 --> 00:16:49,927
+Não acreditei quando disseram
+que vinha.
+
+225
+00:16:50,469 --> 00:16:51,512
+Como vai, Nate?
+
+226
+00:16:51,679 --> 00:16:52,680
+É Ranger Lambert.
+
+227
+00:16:53,097 --> 00:16:54,181
+Está me zoando?
+
+228
+00:16:54,348 --> 00:16:55,391
+É uma base militar.
+
+229
+00:16:55,558 --> 00:16:57,852
+Sabe como funciona, Ranger Pentecost.
+
+230
+00:16:59,270 --> 00:17:00,688
+Você deve ser Amara Namani.
+
+231
+00:17:01,480 --> 00:17:03,441
+Sim, senhor. Ranger, senhor.
+
+232
+00:17:03,607 --> 00:17:05,443
+Então vamos integrá-la.
+
+233
+00:17:07,278 --> 00:17:10,281
+E tente não roubar nada
+enquanto estiver aqui.
+
+234
+00:17:11,991 --> 00:17:13,868
+Aquele reco te chamou de Pentecost?
+
+235
+00:17:14,035 --> 00:17:16,579
+Tipo o mito Stacker Pentecost?
+
+236
+00:17:16,746 --> 00:17:21,042
+Piloto do Coyote Tango,
+herói de, praticamente, o mundo todo?
+
+237
+00:17:21,208 --> 00:17:22,585
+É só um nome.
+
+238
+00:17:22,752 --> 00:17:24,086
+É, um nome bem legal.
+
+239
+00:17:26,756 --> 00:17:28,716
+A simulação começa às 6h.
+
+240
+00:17:28,883 --> 00:17:30,384
+Se atrasar, perde o dia.
+
+241
+00:17:30,551 --> 00:17:32,553
+Se der mole,
+volta no próximo transporte...
+
+242
+00:17:32,720 --> 00:17:34,096
+para onde acharam você.
+
+243
+00:17:34,263 --> 00:17:36,223
+É o Titan Redeemer!
+
+244
+00:17:38,392 --> 00:17:39,810
+E o Bracer Phoenix!
+
+245
+00:17:39,977 --> 00:17:41,937
+Ele precisa de 3 pilotos!
+
+246
+00:17:42,104 --> 00:17:43,230
+Saber Athena!
+
+247
+00:17:43,606 --> 00:17:45,232
+Adoro o Saber Athena!
+
+248
+00:17:45,399 --> 00:17:47,234
+É o mais veloz da frota, sabia?
+
+249
+00:17:47,401 --> 00:17:50,237
+<i>Alerta. Afastem-se do elevador.</i>
+
+250
+00:17:50,404 --> 00:17:52,198
+E qual é o seu?
+
+251
+00:17:55,117 --> 00:17:56,118
+Gipsy.
+
+252
+00:18:00,289 --> 00:18:01,791
+Você pilota o Gipsy Avenger?
+
+253
+00:18:01,957 --> 00:18:03,042
+Pilotava.
+
+254
+00:18:03,209 --> 00:18:06,212
+Até o copiloto receber uma proposta
+melhor do setor privado.
+
+255
+00:18:06,379 --> 00:18:08,297
+Jules Reyes. J-Tech.
+
+256
+00:18:08,589 --> 00:18:10,383
+Amara. Cadete.
+
+257
+00:18:11,342 --> 00:18:12,468
+Jake.
+
+258
+00:18:12,635 --> 00:18:13,803
+Ranger, eu acho.
+
+259
+00:18:14,095 --> 00:18:15,429
+Ouvi muito sobre você, Pentecost.
+
+260
+00:18:15,680 --> 00:18:16,681
+Ouviu?
+
+261
+00:18:16,847 --> 00:18:17,973
+Sabe que ainda é o recordista?
+
+262
+00:18:18,140 --> 00:18:19,433
+-De quê?
+-Calada.
+
+263
+00:18:19,934 --> 00:18:23,270
+Como atraíram você?
+Não pode ter sido pelo dinheiro...
+
+264
+00:18:23,437 --> 00:18:24,689
+É uma longa história.
+
+265
+00:18:24,855 --> 00:18:26,941
+Mas se quiser saber,
+a gente podia...
+
+266
+00:18:27,108 --> 00:18:28,734
+Ela está ocupada.
+
+267
+00:18:29,985 --> 00:18:31,070
+Ranger.
+
+268
+00:18:33,823 --> 00:18:35,366
+Olha pra frente, Pentecost.
+
+269
+00:18:41,122 --> 00:18:43,249
+-Qual é, Renata, na cara não!
+-Foi mal.
+
+270
+00:18:47,378 --> 00:18:49,630
+Aposto mais dois vales-banho.
+
+271
+00:18:50,464 --> 00:18:52,842
+Não, Ilya. Você precisa
+de todos os banhos possíveis.
+
+272
+00:18:53,217 --> 00:18:56,387
+Eu tenho um aroma!
+Esse cheiro é de almíscar.
+
+273
+00:18:57,179 --> 00:18:58,431
+Ranger no recinto!
+
+274
+00:18:58,597 --> 00:19:00,474
+<i>Sistema de áudio desativado.</i>
+
+275
+00:19:02,518 --> 00:19:05,312
+Cadetes, esta é Amara Namani.
+
+276
+00:19:05,479 --> 00:19:07,690
+Estará na simulação com vocês amanhã.
+
+277
+00:19:07,857 --> 00:19:09,608
+E este é o Ranger Pentecost.
+
+278
+00:19:09,775 --> 00:19:11,277
+Ajudará na instrução de vocês...
+
+279
+00:19:11,444 --> 00:19:14,238
+até eu achar um copiloto
+pro lugar do Ranger Burke.
+
+280
+00:19:14,864 --> 00:19:16,157
+Quer acrescentar algo?
+
+281
+00:19:18,117 --> 00:19:19,452
+Nada que queira ouvir.
+
+282
+00:19:22,663 --> 00:19:25,291
+Malikova, prepare a Namani
+para o treinamento.
+
+283
+00:19:25,374 --> 00:19:26,375
+Sim, senhor!
+
+284
+00:19:27,501 --> 00:19:28,753
+À vontade.
+
+285
+00:19:33,257 --> 00:19:34,633
+Pentecost.
+
+286
+00:19:35,259 --> 00:19:36,927
+Vamos treinar com um Pentecost!
+
+287
+00:19:37,011 --> 00:19:38,012
+E daí?
+
+288
+00:19:38,179 --> 00:19:41,265
+Não foi ele quem morreu
+ajudando a fechar a fenda.
+
+289
+00:19:41,432 --> 00:19:43,601
+Ele nunca esteve em combate.
+
+290
+00:19:43,768 --> 00:19:45,686
+Renata, vamos pra 2ª rodada.
+
+291
+00:19:45,853 --> 00:19:47,563
+Ei, Ilya, viu isso?
+
+292
+00:19:49,273 --> 00:19:52,026
+Oi. Então, onde devo...
+
+293
+00:19:52,193 --> 00:19:53,903
+Soube que construiu um Jaeger.
+
+294
+00:19:54,070 --> 00:19:55,071
+É.
+
+295
+00:19:55,237 --> 00:19:56,947
+Na verdade, o Scrapper.
+
+296
+00:19:57,531 --> 00:19:59,533
+E pilotei, também,
+só com um lobo...
+
+297
+00:19:59,700 --> 00:20:02,119
+Se quiser montar sucata,
+seja mecânica.
+
+298
+00:20:02,286 --> 00:20:03,871
+Moyulan é pra pilotos.
+
+299
+00:20:06,165 --> 00:20:07,708
+Ei, vem cá. Eu te ajudo.
+
+300
+00:20:07,875 --> 00:20:09,377
+Valeu.
+
+301
+00:20:11,128 --> 00:20:12,880
+Jinhai. Ou-yang Jinhai.
+
+302
+00:20:13,047 --> 00:20:15,091
+Você e a Vik já ficaram
+amiguinhas, né?
+
+303
+00:20:15,257 --> 00:20:17,093
+-Vik?
+-É o apelido de Viktoria.
+
+304
+00:20:17,259 --> 00:20:18,594
+Mas não a chame assim.
+
+305
+00:20:18,761 --> 00:20:19,804
+O que há com ela?
+
+306
+00:20:19,970 --> 00:20:21,764
+Fez 3 vezes
+o teste de admissão.
+
+307
+00:20:21,931 --> 00:20:23,849
+Não gostou de como você entrou.
+
+308
+00:20:24,016 --> 00:20:25,351
+Não foi culpa minha.
+
+309
+00:20:25,518 --> 00:20:27,520
+Os recrutadores não vão
+onde eu moro.
+
+310
+00:20:27,687 --> 00:20:29,397
+Ei, você fala russo?
+
+311
+00:20:29,480 --> 00:20:30,481
+Não.
+
+312
+00:20:30,648 --> 00:20:32,858
+Eu te ensino um pouco.
+Ajuda a acalmá-la.
+
+313
+00:20:33,025 --> 00:20:35,069
+Venha. Vamos integrar você.
+
+314
+00:21:07,351 --> 00:21:09,395
+<i>Hemisférios fora de alinhamento.</i>
+
+315
+00:21:09,478 --> 00:21:10,479
+<i>Alerta.</i>
+
+316
+00:21:10,646 --> 00:21:11,897
+Temos que reconectar!
+
+317
+00:21:12,064 --> 00:21:13,399
+Eu sei!
+Estou tentando!
+
+318
+00:21:22,950 --> 00:21:25,036
+<i>Levitação magnética desativada.</i>
+
+319
+00:21:25,202 --> 00:21:26,704
+Eu não consigo.
+
+320
+00:21:26,871 --> 00:21:27,872
+Foi um horror.
+
+321
+00:21:28,039 --> 00:21:30,124
+<i>Simulação de fluxo terminada.</i>
+
+322
+00:21:32,418 --> 00:21:33,627
+AMARA FALHOU
+SURESH FALHOU
+
+323
+00:21:33,794 --> 00:21:37,173
+Quando soube que você deu um trabalhão
+pro November Ajax...
+
+324
+00:21:38,174 --> 00:21:39,800
+achei que tivesse potencial.
+
+325
+00:21:39,967 --> 00:21:41,802
+Agora, não tenho certeza.
+
+326
+00:21:42,178 --> 00:21:43,929
+Como vou entrar em fluxo nesta coisa?
+
+327
+00:21:44,513 --> 00:21:45,848
+Tem cheiro de chulé.
+
+328
+00:21:46,015 --> 00:21:47,892
+Não me venha com desculpas.
+
+329
+00:21:48,059 --> 00:21:51,645
+Colocá-la contra Kaijus
+que quase mataram pilotos veteranos...
+
+330
+00:21:51,812 --> 00:21:53,147
+não faz sentido.
+
+331
+00:21:53,314 --> 00:21:55,316
+Pode não ser a única
+que não pertence a este lugar.
+
+332
+00:21:57,360 --> 00:21:59,278
+Eu sei que tem um problema comigo.
+
+333
+00:21:59,445 --> 00:22:01,530
+Mas, olha só, ela é uma criança.
+
+334
+00:22:01,697 --> 00:22:03,866
+A gente também era.
+Esta é a questão.
+
+335
+00:22:04,033 --> 00:22:06,410
+Você faz conexões mais fortes
+quando é jovem.
+
+336
+00:22:06,577 --> 00:22:08,496
+Esse vínculo torna você
+um piloto melhor.
+
+337
+00:22:08,662 --> 00:22:10,790
+Eu sei. Me lembro do slogan.
+
+338
+00:22:10,956 --> 00:22:11,999
+Valeu.
+
+339
+00:22:13,876 --> 00:22:15,378
+Ryoichi e Renata, sua vez.
+
+340
+00:22:15,544 --> 00:22:17,588
+Mostrem à nova recruta
+como se faz.
+
+341
+00:22:31,519 --> 00:22:34,105
+Mas que roupa é essa?
+
+342
+00:22:35,564 --> 00:22:36,565
+A Jules adorou.
+
+343
+00:22:36,857 --> 00:22:39,777
+Ela disse que é bom
+ter alguém com estilo por aqui.
+
+344
+00:22:39,944 --> 00:22:41,529
+Não culpo a garota. Eu sou <i>sexy.</i>
+
+345
+00:22:41,696 --> 00:22:43,489
+-Sei.
+-Quer uma bebida?
+
+346
+00:22:44,490 --> 00:22:45,741
+Quero.
+
+347
+00:22:48,869 --> 00:22:49,870
+Obrigado.
+
+348
+00:22:50,037 --> 00:22:51,539
+O sorvete fica na de cima.
+
+349
+00:22:51,956 --> 00:22:53,249
+Isso.
+
+350
+00:22:53,874 --> 00:22:54,875
+Isso.
+
+351
+00:22:55,042 --> 00:22:58,087
+Resolveu voltar pra provar
+que seu pai estava errado?
+
+352
+00:22:58,254 --> 00:23:00,840
+Não, foi pra ver como ficou
+seu queixo novo.
+
+353
+00:23:01,007 --> 00:23:02,800
+Acho que ficou perfeito.
+
+354
+00:23:02,967 --> 00:23:05,261
+Ficou bem imponente.
+As crianças devem adorar.
+
+355
+00:23:05,428 --> 00:23:08,597
+Jake, essas crianças admiram a gente.
+
+356
+00:23:09,515 --> 00:23:11,684
+Temos que mostrar
+que podemos trabalhar juntos.
+
+357
+00:23:12,893 --> 00:23:16,355
+A guerra acabou há 10 anos, cara.
+Você tem que desapegar.
+
+358
+00:23:16,522 --> 00:23:17,815
+Deixa rolar.
+
+359
+00:23:17,982 --> 00:23:20,151
+Tem que entender
+o que seu inimigo...
+
+360
+00:23:22,528 --> 00:23:23,946
+Tem que...
+
+361
+00:23:25,114 --> 00:23:26,115
+Foi mal, parceiro.
+
+362
+00:23:26,532 --> 00:23:29,535
+Tem que entender o objetivo dele
+pra saber que o derrotou.
+
+363
+00:23:29,618 --> 00:23:30,619
+Ainda não entendemos.
+
+364
+00:23:30,786 --> 00:23:32,955
+Não. Eu posso ajudar nisso.
+
+365
+00:23:33,122 --> 00:23:34,665
+Acho que tem a ver com...
+
+366
+00:23:34,832 --> 00:23:37,126
+mandarem monstros pra bater na gente.
+
+367
+00:23:37,293 --> 00:23:39,920
+Não. Os Precursores
+não enviariam Kaijus...
+
+368
+00:23:40,087 --> 00:23:42,340
+pra destruir umas cidades
+se quisessem aniquilar tudo.
+
+369
+00:23:42,506 --> 00:23:44,592
+Cara, não tenho nada contra você.
+
+370
+00:23:44,759 --> 00:23:46,218
+Mas tive que optar.
+
+371
+00:23:46,385 --> 00:23:48,512
+Era a sua carinha bonita
+ou a prisão.
+
+372
+00:23:48,888 --> 00:23:50,514
+Escolhi sua carinha.
+
+373
+00:23:50,973 --> 00:23:52,641
+Estou comovido.
+
+374
+00:23:52,808 --> 00:23:54,518
+De quantas coberturas precisa?
+
+375
+00:23:54,685 --> 00:23:57,480
+Deixe minhas coberturas, cara.
+Não mexa nelas.
+
+376
+00:23:58,814 --> 00:24:02,151
+Então quantos meses os cadetes têm
+até a formatura?
+
+377
+00:24:02,735 --> 00:24:04,028
+-Seis.
+-Entendi.
+
+378
+00:24:04,195 --> 00:24:05,196
+Vamos fazer assim...
+
+379
+00:24:05,363 --> 00:24:07,323
+Se quiser falar algo soldadesco...
+
+380
+00:24:07,406 --> 00:24:08,407
+Vou balançar a cabeça.
+
+381
+00:24:08,574 --> 00:24:10,743
+Ou falar: "É isso aí".
+
+382
+00:24:10,910 --> 00:24:12,661
+E quando menos esperar,
+já serão pilotos.
+
+383
+00:24:12,828 --> 00:24:14,663
+-E eu volto pra minha vida.
+-Ótimo.
+
+384
+00:24:17,625 --> 00:24:19,251
+Pode rolar antes do que imagina.
+
+385
+00:24:19,919 --> 00:24:20,920
+Como assim?
+
+386
+00:24:21,087 --> 00:24:22,755
+Vai ter uma apresentação amanhã.
+
+387
+00:24:22,922 --> 00:24:26,884
+A Shao e sua equipe vão apresentar
+um novo programa de drones.
+
+388
+00:24:27,051 --> 00:24:28,219
+Pode nos tornar obsoletos.
+
+389
+00:24:28,386 --> 00:24:31,055
+Parece ser meu bilhete pra sair
+da cadeia.
+
+390
+00:24:33,849 --> 00:24:36,727
+Sabe, pode fingir o quanto quiser...
+
+391
+00:24:38,187 --> 00:24:40,815
+mas nós dois sabemos
+que você teria sido ótimo.
+
+392
+00:24:54,370 --> 00:24:56,664
+Sra. Shao. Marechal Quan.
+
+393
+00:24:57,665 --> 00:24:58,749
+É uma honra conhecê-la.
+
+394
+00:24:59,000 --> 00:25:00,001
+Desculpe.
+
+395
+00:25:00,167 --> 00:25:01,919
+Ela não faz isso de apertar a mão.
+
+396
+00:25:02,086 --> 00:25:05,589
+Dr. Newton Geiszler. Chefe de pesquisa
+e desenvolvimento da Shao Industries.
+
+397
+00:25:05,756 --> 00:25:08,926
+Você tem um aperto de mão bem firme.
+
+398
+00:25:09,385 --> 00:25:11,429
+Mão firme, bom aperto.
+
+399
+00:25:11,512 --> 00:25:12,513
+Grata por nos receber.
+
+400
+00:25:12,680 --> 00:25:14,807
+Eu e Ranger Lambert
+vamos acomodá-la, senhora.
+
+401
+00:25:20,896 --> 00:25:22,773
+Gostei mais desse visual.
+
+402
+00:25:22,940 --> 00:25:25,776
+É melhor do que as listras da cadeia.
+Bem pouco.
+
+403
+00:25:26,944 --> 00:25:29,488
+Desculpe, é ele mesmo?
+Só pode ser ele, né?
+
+404
+00:25:29,655 --> 00:25:31,449
+É o filho do Stacker.
+Sou Newt.
+
+405
+00:25:31,615 --> 00:25:33,701
+Eu era um grande fã do seu pai.
+
+406
+00:25:33,868 --> 00:25:34,910
+Discursos incríveis.
+
+407
+00:25:34,994 --> 00:25:36,871
+Ouviu aquele
+sobre cancelar o apocalipse?
+
+408
+00:25:36,954 --> 00:25:37,955
+Newton!
+
+409
+00:25:38,122 --> 00:25:40,124
+-Hermann...
+-Que bom que você veio.
+
+410
+00:25:40,291 --> 00:25:43,002
+Sua ajuda seria útil
+em uma experiência.
+
+411
+00:25:43,461 --> 00:25:46,297
+Não vai demorar nada.
+Sei que é muito ocupado.
+
+412
+00:25:46,464 --> 00:25:48,507
+-É.
+-Não quero pressioná-lo, mas...
+
+413
+00:25:49,133 --> 00:25:51,469
+Imagina, pode me pressionar.
+
+414
+00:25:51,635 --> 00:25:54,013
+Já entramos na cabeça
+um do outro, certo?
+
+415
+00:25:54,180 --> 00:25:56,015
+Nós salvamos o mundo!
+
+416
+00:25:56,182 --> 00:25:57,933
+Entramos em fluxo com um Kaiju!
+
+417
+00:25:58,100 --> 00:26:00,603
+Sem a informação que tiramos
+do cérebro do Kaiju...
+
+418
+00:26:00,770 --> 00:26:02,438
+Raleigh não teria fechado a fenda.
+
+419
+00:26:02,605 --> 00:26:04,357
+E foi você! E fui eu!
+
+420
+00:26:05,232 --> 00:26:08,361
+Tecnicamente mais eu,
+mas dá para ser rápido? Ou...
+
+421
+00:26:08,736 --> 00:26:09,737
+Envio.
+
+422
+00:26:10,863 --> 00:26:11,864
+De Jaegers.
+
+423
+00:26:12,031 --> 00:26:14,450
+Enviá-los para batalha,
+leva muito tempo.
+
+424
+00:26:14,617 --> 00:26:17,453
+O estrago que um Kaiju pode causar
+antes de...
+
+425
+00:26:17,620 --> 00:26:20,539
+Aqui. Acho que encontrei uma solução.
+
+426
+00:26:23,501 --> 00:26:25,836
+Sabe que eu nunca consigo ler sua...
+
+427
+00:26:27,338 --> 00:26:28,756
+Propulsão a foguete?
+
+428
+00:26:29,715 --> 00:26:30,841
+Sim.
+
+429
+00:26:31,008 --> 00:26:32,176
+Não.
+
+430
+00:26:32,343 --> 00:26:35,846
+Não existe combustível no mundo
+com essa taxa de impulsão.
+
+431
+00:26:36,013 --> 00:26:37,348
+Neste mundo.
+
+432
+00:26:41,686 --> 00:26:42,687
+Não.
+
+433
+00:26:43,104 --> 00:26:44,480
+Isso é sangue de Kaiju?
+
+434
+00:26:44,563 --> 00:26:45,564
+Exato!
+
+435
+00:26:46,774 --> 00:26:49,527
+Descobri que é altamente reativo...
+
+436
+00:26:49,694 --> 00:26:53,322
+quando combinado a terras-raras.
+Cério, lantânio, gadolínio...
+
+437
+00:26:53,489 --> 00:26:54,907
+Já entendi, amigo.
+
+438
+00:26:55,074 --> 00:26:57,535
+Não brinque com isso.
+Vai se explodir.
+
+439
+00:26:57,702 --> 00:27:00,746
+Ninguém sabe mais de morfologia Kaiju
+do que você!
+
+440
+00:27:00,913 --> 00:27:02,289
+Por favor, olhe ali.
+
+441
+00:27:02,456 --> 00:27:03,874
+Terei que interrompê-lo.
+
+442
+00:27:04,041 --> 00:27:05,710
+Olha, nada disso importa.
+
+443
+00:27:05,876 --> 00:27:07,461
+Quando aprovarem
+os drones...
+
+444
+00:27:07,628 --> 00:27:09,380
+o tempo de envio
+não será problema.
+
+445
+00:27:09,547 --> 00:27:12,883
+Em um ano, meu chapa,
+teremos drones em todo lugar.
+
+446
+00:27:14,301 --> 00:27:15,761
+Então não vai me ajudar?
+
+447
+00:27:16,345 --> 00:27:18,806
+Que tal jantar lá em casa
+pra conversarmos?
+
+448
+00:27:18,973 --> 00:27:20,558
+Ok? E poderá conhecer a Alice.
+
+449
+00:27:20,850 --> 00:27:22,184
+Não quero uma refeição.
+
+450
+00:27:22,351 --> 00:27:24,687
+Quero resolver um problema específico.
+
+451
+00:27:26,188 --> 00:27:27,982
+Estão me chamando. Lamento.
+
+452
+00:27:28,149 --> 00:27:29,817
+O dever chama.
+Adorei o papo.
+
+453
+00:27:30,776 --> 00:27:31,819
+Newton.
+
+454
+00:27:36,157 --> 00:27:38,242
+Ainda tenho pesadelos...
+
+455
+00:27:39,243 --> 00:27:40,703
+com o que vimos...
+
+456
+00:27:41,454 --> 00:27:44,582
+quando entramos em fluxo
+com aquele cérebro Kaiju.
+
+457
+00:27:44,749 --> 00:27:45,833
+É.
+
+458
+00:27:49,211 --> 00:27:51,005
+Mas foi a maior adrenalina, né?
+
+459
+00:27:53,007 --> 00:27:55,009
+Dr. Geiszler. Está na hora.
+
+460
+00:27:55,426 --> 00:27:56,427
+Está bem.
+
+461
+00:28:00,765 --> 00:28:02,850
+Dr. Gottlieb e você eram próximos?
+
+462
+00:28:02,933 --> 00:28:03,934
+Durante a guerra?
+
+463
+00:28:05,269 --> 00:28:06,854
+Sim, dividíamos o laboratório...
+
+464
+00:28:07,313 --> 00:28:08,356
+Em inglês.
+
+465
+00:28:08,522 --> 00:28:10,566
+Parece um idiota
+quando fala mandarim.
+
+466
+00:28:10,733 --> 00:28:12,693
+É verdade.
+Dividíamos o laboratório.
+
+467
+00:28:12,902 --> 00:28:15,029
+Sobre o que estavam conversando?
+
+468
+00:28:15,196 --> 00:28:18,240
+Uma ideia maluca de botar
+propulsores num Jaeger.
+
+469
+00:28:18,407 --> 00:28:21,369
+Até a recomendação da Secretária Mori
+na Cúpula do Conselho...
+
+470
+00:28:21,535 --> 00:28:22,620
+não quero falhas.
+
+471
+00:28:23,079 --> 00:28:24,747
+Não fale mais com ele...
+
+472
+00:28:25,206 --> 00:28:26,290
+até o fim da votação.
+
+473
+00:28:28,125 --> 00:28:29,877
+O cara é totalmente inofensivo.
+
+474
+00:28:30,836 --> 00:28:31,837
+Tudo bem.
+
+475
+00:28:32,004 --> 00:28:36,425
+Poderia repetir a última parte,
+só que 80% mais devagar?
+
+476
+00:28:36,592 --> 00:28:39,470
+Eu disse: "Não me faça
+questionar sua lealdade".
+
+477
+00:28:39,637 --> 00:28:40,680
+Entendeu?
+
+478
+00:28:42,598 --> 00:28:43,766
+Questionar o quê?
+
+479
+00:28:45,518 --> 00:28:47,311
+Eu mal falo com o cara mesmo.
+
+480
+00:28:47,395 --> 00:28:48,396
+Então não terá problemas.
+
+481
+00:28:48,938 --> 00:28:50,231
+E estude mandarim.
+
+482
+00:28:50,773 --> 00:28:52,066
+Não gosto de repetir.
+
+483
+00:28:52,733 --> 00:28:53,859
+Em nenhuma língua.
+
+484
+00:28:54,485 --> 00:28:57,697
+Meus drones são o próximo passo
+na evolução Jaeger.
+
+485
+00:28:57,863 --> 00:28:59,448
+O sistema que projetei...
+
+486
+00:28:59,615 --> 00:29:02,576
+processa os comandos
+com um núcleo quântico de dados.
+
+487
+00:29:02,743 --> 00:29:04,578
+Então um único piloto...
+
+488
+00:29:04,745 --> 00:29:07,498
+pode operar o drone remotamente...
+
+489
+00:29:07,665 --> 00:29:09,250
+de qualquer lugar do mundo.
+
+490
+00:29:10,084 --> 00:29:12,378
+Quando o Conselho aprovar
+a liberação...
+
+491
+00:29:12,545 --> 00:29:15,631
+baseado no relatório final
+da Secretária Mori...
+
+492
+00:29:15,798 --> 00:29:19,593
+os problemas para achar
+e treinar pilotos compatíveis...
+
+493
+00:29:19,760 --> 00:29:21,387
+serão uma coisa do passado.
+
+494
+00:29:21,554 --> 00:29:24,223
+Prefere um bando de sedentários a nós?
+
+495
+00:29:24,390 --> 00:29:26,559
+Não queremos que deixem de operar.
+
+496
+00:29:26,726 --> 00:29:30,146
+A cooperação entre nossos programas
+nunca foi tão vital.
+
+497
+00:29:30,938 --> 00:29:33,482
+-Alguma pergunta?
+-Sim, eu tenho uma.
+
+498
+00:29:35,192 --> 00:29:37,361
+Nós somos pilotos.
+Não somos burocratas!
+
+499
+00:29:37,528 --> 00:29:40,031
+Agora estamos gritando.
+Não precisa gritar.
+
+500
+00:29:46,037 --> 00:29:47,038
+Ela falou bonito.
+
+501
+00:29:47,371 --> 00:29:50,166
+Quanto tempo até fecharem aqui
+pra eu ir embora?
+
+502
+00:29:50,332 --> 00:29:52,835
+Não confio na tecnologia.
+Não por enquanto.
+
+503
+00:29:53,002 --> 00:29:54,545
+Me pareceu muito boa.
+
+504
+00:29:55,004 --> 00:29:58,716
+Sistemas remotos podem ser hackeados
+ou comprometidos.
+
+505
+00:29:58,883 --> 00:30:00,718
+Não, você tem o voto final, certo?
+
+506
+00:30:00,885 --> 00:30:02,762
+Então, pronto. A decisão é sua.
+
+507
+00:30:03,846 --> 00:30:06,932
+Eu queria muito poder aprovar.
+
+508
+00:30:07,099 --> 00:30:10,478
+Quase metade do Conselho apoia Liwen.
+
+509
+00:30:11,395 --> 00:30:13,939
+Não vão gostar da minha decisão.
+
+510
+00:30:14,523 --> 00:30:17,693
+Quem liga para o que eles gostam
+ou não?
+
+511
+00:30:17,860 --> 00:30:19,987
+Quer saber, eu vou com você.
+
+512
+00:30:20,154 --> 00:30:21,405
+Para dar apoio moral.
+
+513
+00:30:21,572 --> 00:30:23,115
+E eu quero sair daqui.
+
+514
+00:30:23,282 --> 00:30:24,784
+Que bom que se ofereceu...
+
+515
+00:30:24,950 --> 00:30:27,912
+porque já solicitei o Gipsy Avenger...
+
+516
+00:30:28,079 --> 00:30:29,914
+como guarda de honra
+para a Cúpula do Conselho.
+
+517
+00:30:30,081 --> 00:30:31,582
+Mas é a máquina do Nate.
+
+518
+00:30:31,749 --> 00:30:35,127
+Agora, o copiloto trabalha pra Liwen.
+Ele precisa de um novo.
+
+519
+00:30:35,294 --> 00:30:38,005
+Um que você saiba
+que é compatível com o fluxo.
+
+520
+00:30:39,256 --> 00:30:40,257
+Tudo bem.
+
+521
+00:30:41,217 --> 00:30:42,677
+Eu vou com você.
+
+522
+00:30:42,843 --> 00:30:44,220
+Mas quero ver contar ao Nate...
+
+523
+00:30:44,387 --> 00:30:46,597
+Quero ver a cara dele.
+Ele vai pirar.
+
+524
+00:30:46,764 --> 00:30:48,349
+Vai fazer aquela cara
+e dizer...
+
+525
+00:30:48,516 --> 00:30:50,893
+"Jake, seu lugar não é num Jaeger."
+
+526
+00:30:51,060 --> 00:30:52,311
+"Sai do meu Jaeger."
+
+527
+00:30:52,478 --> 00:30:54,438
+"Sou bonitão e <i>sexy."</i>
+
+528
+00:30:55,773 --> 00:30:57,525
+Ele é bonito e <i>sexy.</i>
+
+529
+00:30:58,109 --> 00:30:59,193
+Obrigada, Jake.
+
+530
+00:31:08,994 --> 00:31:12,456
+SYDNEY
+AUSTRÁLIA
+
+531
+00:31:15,418 --> 00:31:17,795
+<i>E parece que haverá sol
+no fim de semana.</i>
+
+532
+00:31:17,962 --> 00:31:19,171
+PPDC
+CÚPULA DO CONSELHO
+
+533
+00:31:19,255 --> 00:31:20,506
+<i>Boa tarde a todos.</i>
+
+534
+00:31:20,673 --> 00:31:23,300
+<i>Peter Overton direto do estúdio
+em Sydney...</i>
+
+535
+00:31:23,551 --> 00:31:27,304
+<i>A polícia informa que há
+ao menos 49 oficiais feridos.</i>
+
+536
+00:31:27,471 --> 00:31:30,391
+<i>Fanáticos por Kaijus mascarados
+jogam garrafas e pedras.</i>
+
+537
+00:31:30,558 --> 00:31:32,351
+<i>A tropa de choque da PPDC tenta...</i>
+
+538
+00:31:32,518 --> 00:31:37,481
+LÍDER JAEGER CHEGA À CÚPULA DA PPDC
+
+539
+00:31:37,648 --> 00:31:39,900
+<i>Gipsy Avenger, aqui é o Marechal Quan.</i>
+
+540
+00:31:40,067 --> 00:31:42,778
+<i>É só não pisarem na bola.</i>
+
+541
+00:31:43,320 --> 00:31:46,073
+<i>Concentrem-se e tentem não cair.</i>
+
+542
+00:31:46,240 --> 00:31:48,034
+-Entendido.
+<i>-Preparar para descer.</i>
+
+543
+00:31:48,409 --> 00:31:51,787
+Em 3, 2, 1... Descer!
+
+544
+00:32:03,049 --> 00:32:04,091
+Jake!
+
+545
+00:32:05,343 --> 00:32:07,261
+<i>Alinhamento de fluxo instável.</i>
+
+546
+00:32:07,428 --> 00:32:10,014
+Relaxa. Estou me lembrando.
+
+547
+00:32:10,389 --> 00:32:13,017
+-Tem certeza?
+<i>-Células eletrolíticas ativadas.</i>
+
+548
+00:32:13,184 --> 00:32:14,685
+Estamos na cabeça
+um do outro, lembra?
+
+549
+00:32:14,852 --> 00:32:17,063
+Agradeço se parar de pensar na Jules.
+
+550
+00:32:17,855 --> 00:32:19,106
+Não vai rolar.
+
+551
+00:32:19,273 --> 00:32:21,942
+Que tal parar de pensar
+em me dar uma surra?
+
+552
+00:32:22,109 --> 00:32:23,861
+Não vai rolar também.
+
+553
+00:32:25,029 --> 00:32:26,238
+O dia vai ser longo.
+
+554
+00:32:26,530 --> 00:32:28,240
+Hemisférios calibrados, senhor.
+
+555
+00:32:29,492 --> 00:32:31,744
+Contato neural é fraco, mas estável.
+
+556
+00:32:36,123 --> 00:32:37,291
+<i>Chegada de transporte.</i>
+
+557
+00:32:37,458 --> 00:32:38,626
+SECRETÁRIA-GERAL MAKO MORI
+
+558
+00:32:44,757 --> 00:32:46,008
+RELATÓRIO DE VIABILIDADE
+DO DRONE JAEGER
+
+559
+00:32:46,175 --> 00:32:48,469
+<i>Previsão de pouso em 2 minutos.</i>
+
+560
+00:32:58,270 --> 00:32:59,772
+FIM DOS JAEGERS E DA PPDC
+
+561
+00:33:19,166 --> 00:33:21,043
+<i>-Alerta.
+</i>-Comando, captaram isso?
+
+562
+00:33:35,683 --> 00:33:37,309
+Gipsy, aqui é o Comando.
+
+563
+00:33:37,476 --> 00:33:39,478
+<i>Atenção. Temos um Jaeger pirata.</i>
+
+564
+00:33:42,398 --> 00:33:44,233
+<i>Pilotos de Jaeger não registrado...</i>
+
+565
+00:33:44,400 --> 00:33:47,236
+Desconectem e saiam do casulo
+imediatamente.
+
+566
+00:33:48,070 --> 00:33:52,199
+<i>Repito. Desconectem
+e saiam do casulo agora.</i>
+
+567
+00:33:53,993 --> 00:33:55,161
+Mísseis disparados!
+
+568
+00:34:16,682 --> 00:34:18,392
+<i>-Perda de potência.
+</i>-Estamos perdendo potência!
+
+569
+00:34:29,862 --> 00:34:30,863
+ASSINATURA DE FORÇA
+
+570
+00:34:31,614 --> 00:34:34,158
+Jake! A leitura de força
+desse Jaeger...
+
+571
+00:34:37,661 --> 00:34:39,080
+Está bloqueando nossa comunicação!
+
+572
+00:34:42,375 --> 00:34:44,168
+-Nate!
+-Já temos potência!
+
+573
+00:35:33,300 --> 00:35:34,844
+Que merda.
+
+574
+00:35:57,616 --> 00:35:59,160
+-O que vamos fazer?
+-Me imita!
+
+575
+00:36:15,593 --> 00:36:16,594
+Mako foi atingida!
+
+576
+00:36:18,387 --> 00:36:19,597
+Ela vai cair! Vamos!
+
+577
+00:36:19,764 --> 00:36:21,265
+Ativar estilingue gravitacional!
+
+578
+00:36:38,991 --> 00:36:41,077
+<i>Mayday! Mayday!
+</i>Aqui é M-M-C-0-5-2.
+
+579
+00:36:41,160 --> 00:36:42,244
+ASSINATURA DE FORÇA
+
+580
+00:36:42,328 --> 00:36:43,329
+Fomos atingidos e vamos cair!
+
+581
+00:36:43,412 --> 00:36:44,413
+CORRESPONDENTE LOCALIZADO
+COMPILANDO ARQUIVOS
+
+582
+00:36:44,497 --> 00:36:45,498
+FALHA NA CONEXÃO
+ENVIAR ARQUIVO
+
+583
+00:36:45,581 --> 00:36:46,665
+<i>Enviando.</i>
+
+584
+00:37:12,024 --> 00:37:13,025
+Mako!
+
+585
+00:37:13,192 --> 00:37:14,402
+Jake! Espere!
+
+586
+00:38:40,237 --> 00:38:41,781
+<i>Perdendo alinhamento de fluxo.</i>
+
+587
+00:38:41,947 --> 00:38:43,532
+Sarah! Faz alguma coisa!
+
+588
+00:38:43,699 --> 00:38:47,119
+<i>-Perdendo alinhamento de fluxo.
+</i>-Seu cérebro burro!
+
+589
+00:38:47,203 --> 00:38:49,538
+SEM SINAL
+
+590
+00:38:49,622 --> 00:38:50,623
+Oi.
+
+591
+00:38:50,956 --> 00:38:51,957
+Oi.
+
+592
+00:38:57,171 --> 00:39:02,968
+Não sou muito boa
+nesses lances sentimentais, mas...
+
+593
+00:39:04,470 --> 00:39:06,555
+lamento muito por sua irmã.
+
+594
+00:39:08,099 --> 00:39:10,184
+Meia-irmã?
+
+595
+00:39:10,643 --> 00:39:13,437
+É, a família dela morreu
+no ataque a Onibaba.
+
+596
+00:39:14,313 --> 00:39:15,898
+Meu pai a adotou.
+
+597
+00:39:16,857 --> 00:39:20,611
+Ela era minha irmã.
+Minha família.
+
+598
+00:39:21,779 --> 00:39:23,072
+Cadê seu uniforme?
+
+599
+00:39:25,116 --> 00:39:27,535
+Fiquei muito estressado
+depois de Sydney.
+
+600
+00:39:28,411 --> 00:39:30,329
+Eu só quis ficar à vontade.
+
+601
+00:39:30,496 --> 00:39:33,040
+Só não deixa o Ranger Lambert
+te ver assim.
+
+602
+00:39:33,207 --> 00:39:35,501
+Ele é capaz de te meter porrada.
+
+603
+00:39:35,668 --> 00:39:37,962
+Acho que não.
+Ele é metido demais pra isso.
+
+604
+00:39:40,464 --> 00:39:42,508
+Ainda estão usando a Sarah.
+
+605
+00:39:43,342 --> 00:39:47,054
+É. Mas não entro em fluxo com ela
+por algum motivo.
+
+606
+00:39:47,221 --> 00:39:50,975
+Todos os outros cadetes
+treinam há anos e eu...
+
+607
+00:39:51,517 --> 00:39:53,227
+odeio ser a lerda do grupo.
+
+608
+00:39:53,394 --> 00:39:54,645
+Tem que relaxar.
+
+609
+00:39:54,812 --> 00:39:56,856
+Ou vai emperrar as engrenagens.
+Eu ajudo.
+
+610
+00:39:57,023 --> 00:39:58,607
+-Ok, Treinador.
+-Não me chame assim.
+
+611
+00:39:58,774 --> 00:39:59,859
+Certo, <i>Sensei.</i>
+
+612
+00:40:00,526 --> 00:40:01,986
+Concentra.
+
+613
+00:40:02,611 --> 00:40:04,113
+Precisamos de uma boa conexão.
+
+614
+00:40:04,280 --> 00:40:06,657
+Não vai conseguir se ficar
+tagarelando.
+
+615
+00:40:12,246 --> 00:40:13,539
+Está pronta?
+
+616
+00:40:13,622 --> 00:40:14,623
+Estou.
+
+617
+00:40:15,499 --> 00:40:16,917
+Muito bem.
+
+618
+00:40:17,084 --> 00:40:18,961
+Vamos ver se somos compatíveis.
+
+619
+00:40:23,799 --> 00:40:25,176
+Pega ele!
+
+620
+00:40:33,809 --> 00:40:35,686
+<i>Carga neural excedendo o limite.</i>
+
+621
+00:40:35,853 --> 00:40:37,730
+Concentre-se, Amara.
+
+622
+00:40:38,272 --> 00:40:42,651
+Lembre-se, quanto mais forte
+a conexão, melhor você luta.
+
+623
+00:40:43,569 --> 00:40:44,820
+É isso aí.
+
+624
+00:40:46,697 --> 00:40:49,033
+Amara! Venha, pule!
+Pule, filha!
+
+625
+00:40:49,200 --> 00:40:50,659
+Venha, Amara! Pule!
+
+626
+00:40:50,826 --> 00:40:53,371
+Amara! Não se apegue à lembrança.
+
+627
+00:40:53,537 --> 00:40:55,956
+Deixe que ela passe por você.
+Amara!
+
+628
+00:40:56,207 --> 00:40:57,833
+Amara! Entre na foto!
+
+629
+00:40:58,292 --> 00:41:01,462
+Isso, venha. Juntos.
+Prontos? 1, 2...
+
+630
+00:41:01,629 --> 00:41:02,672
+Xis!
+
+631
+00:41:03,673 --> 00:41:05,925
+Pronto. Quer ver?
+
+632
+00:41:06,467 --> 00:41:07,677
+Espere um segundo.
+
+633
+00:41:10,763 --> 00:41:14,642
+Amara, precisa se desapegar.
+Amara!
+
+634
+00:41:16,185 --> 00:41:17,520
+Só escute a minha voz!
+
+635
+00:41:19,063 --> 00:41:20,064
+Amara!
+
+636
+00:41:37,415 --> 00:41:40,042
+-Amara!
+-Papai!
+
+637
+00:41:40,501 --> 00:41:42,211
+Amara! Rápido, pule!
+
+638
+00:41:42,378 --> 00:41:45,548
+-Amara! Temos que romper o fluxo!
+-Pule para mim!
+
+639
+00:41:45,631 --> 00:41:46,799
+Estou com medo!
+
+640
+00:41:46,882 --> 00:41:48,384
+Eu te pego! Prometo.
+Pule!
+
+641
+00:41:48,467 --> 00:41:49,468
+Amara!
+
+642
+00:41:49,635 --> 00:41:50,845
+Amara, vamos!
+
+643
+00:41:51,012 --> 00:41:52,179
+Pule!
+
+644
+00:41:56,976 --> 00:41:59,270
+Amara! Tira isso!
+
+645
+00:42:01,355 --> 00:42:02,648
+Ei.
+
+646
+00:42:03,399 --> 00:42:04,942
+Tudo bem?
+
+647
+00:42:09,655 --> 00:42:11,782
+Eu estava lá.
+
+648
+00:42:14,285 --> 00:42:15,828
+Eu senti.
+
+649
+00:42:15,995 --> 00:42:17,288
+É.
+
+650
+00:42:18,080 --> 00:42:19,832
+Eu também senti.
+
+651
+00:42:21,459 --> 00:42:23,669
+<i>Jake, sou eu. Na escuta?</i>
+
+652
+00:42:24,837 --> 00:42:25,838
+Sim, estou.
+
+653
+00:42:26,005 --> 00:42:28,007
+<i>Vá pro laboratório.
+O Marechal quer nos ver.</i>
+
+654
+00:42:28,174 --> 00:42:29,759
+Ok, estou indo.
+
+655
+00:42:31,719 --> 00:42:33,179
+Tudo bem?
+
+656
+00:42:44,607 --> 00:42:46,817
+-O que é isto?
+-Uma mensagem da Mako.
+
+657
+00:42:46,984 --> 00:42:50,279
+Ela tentou enviar do helicóptero
+pouco antes de cair.
+
+658
+00:42:50,446 --> 00:42:52,740
+É um pacote de dados.
+Alta densidade.
+
+659
+00:42:52,907 --> 00:42:56,327
+Obsidian Fury bloqueou a comunicação.
+Como o sinal dela passou?
+
+660
+00:42:56,410 --> 00:42:58,162
+Não passou.
+Não intacto, pelo menos.
+
+661
+00:42:58,245 --> 00:42:59,246
+Então sumiu?
+
+662
+00:42:59,413 --> 00:43:01,165
+"Sumir" é relativo no reino digital.
+
+663
+00:43:01,332 --> 00:43:03,459
+Executando um algoritmo fractal
+modificado...
+
+664
+00:43:03,626 --> 00:43:06,045
+posso conseguir recuperar uma parte.
+
+665
+00:43:10,257 --> 00:43:11,342
+Pronto.
+
+666
+00:43:13,844 --> 00:43:15,012
+É um Kaiju?
+
+667
+00:43:15,930 --> 00:43:19,141
+Vou comparar com arquivos Kaiju
+da PPDC.
+
+668
+00:43:19,433 --> 00:43:21,769
+NEGATIVO
+
+669
+00:43:23,813 --> 00:43:25,356
+Nada no banco de dados.
+
+670
+00:43:25,523 --> 00:43:28,693
+Continue. Seja lá o que for,
+era importante para ela.
+
+671
+00:43:29,068 --> 00:43:30,319
+Quero saber por quê.
+
+672
+00:43:30,486 --> 00:43:33,322
+E quero saber quem pilotava
+aquele Jaeger pirata.
+
+673
+00:43:38,077 --> 00:43:41,330
+SHAO INDUSTRIES
+XANGAI, CHINA
+
+674
+00:43:51,882 --> 00:43:55,720
+Oi. Desculpe o atraso.
+Achei que ainda estava em Sydney.
+
+675
+00:43:55,886 --> 00:43:58,889
+O Conselho aprovou os drones
+numa sessão extraordinária.
+
+676
+00:44:02,018 --> 00:44:03,019
+Que ótimo.
+
+677
+00:44:03,185 --> 00:44:05,438
+Achei que ficaria mais animado.
+
+678
+00:44:06,147 --> 00:44:08,566
+É, não, estou animadão.
+Isso é ótimo.
+
+679
+00:44:08,733 --> 00:44:11,736
+É que agora, com o ataque e tal,
+me parece meio...
+
+680
+00:44:11,902 --> 00:44:14,530
+Eu estava lá.
+Eu sei o que aconteceu.
+
+681
+00:44:15,656 --> 00:44:17,283
+E não teria acontecido...
+
+682
+00:44:17,992 --> 00:44:19,869
+com nossos drones em campo.
+
+683
+00:44:20,036 --> 00:44:21,954
+<i>Conexão neural desfeita.</i>
+
+684
+00:44:22,830 --> 00:44:24,790
+Agora todos enxergam isso.
+
+685
+00:44:25,332 --> 00:44:27,668
+É. Imagino que sim.
+
+686
+00:44:27,835 --> 00:44:29,295
+O ataque foi positivo...
+
+687
+00:44:29,754 --> 00:44:31,297
+apesar de tudo.
+
+688
+00:44:33,549 --> 00:44:35,384
+Vendo de longe,
+dando uma piscada...
+
+689
+00:44:35,551 --> 00:44:37,845
+talvez possa dizer isso.
+
+690
+00:44:38,012 --> 00:44:40,056
+Mas o que está acontecendo aqui?
+
+691
+00:44:40,222 --> 00:44:42,975
+O Conselho quer que o envio
+seja feito em 48h.
+
+692
+00:44:44,352 --> 00:44:45,353
+48 é um...
+
+693
+00:44:45,519 --> 00:44:46,854
+Trabalhei a vida toda para isso.
+
+694
+00:44:47,188 --> 00:44:48,522
+Dê um jeito.
+
+695
+00:44:49,148 --> 00:44:52,401
+Está bem. Tranquilo.
+Vai dar tempo.
+
+696
+00:44:52,568 --> 00:44:53,736
+48 horas?
+
+697
+00:44:53,903 --> 00:44:55,029
+Não vai dar tempo.
+
+698
+00:44:55,196 --> 00:44:58,157
+Acha que não tem jeito?
+Então vai ser despedida.
+
+699
+00:44:58,324 --> 00:44:59,617
+O que acha disso?
+
+700
+00:44:59,784 --> 00:45:01,994
+Ou promovida. Não sei.
+Vamos ver.
+
+701
+00:45:02,161 --> 00:45:03,287
+Mas dê um jeito!
+
+702
+00:45:04,413 --> 00:45:05,873
+Me dá isso aqui.
+
+703
+00:45:25,810 --> 00:45:28,354
+Oi, amor. Cheguei.
+
+704
+00:45:28,521 --> 00:45:32,024
+Desculpe o atraso.
+É que as coisas estavam...
+
+705
+00:45:32,191 --> 00:45:35,528
+Hoje foi uma loucura,
+com o que aconteceu em Sydney.
+
+706
+00:45:37,154 --> 00:45:40,241
+Aquela gente toda, não foi bonito.
+
+707
+00:45:40,408 --> 00:45:43,035
+Minha chefe quase foi morta.
+Teria sido ruim.
+
+708
+00:45:43,202 --> 00:45:44,912
+Talvez. Eu acho, não sei.
+
+709
+00:45:45,788 --> 00:45:49,208
+Na verdade, teria sido ótimo,
+porque ela vive no meu pé.
+
+710
+00:45:49,375 --> 00:45:50,751
+Ela não me deixa em paz!
+
+711
+00:45:51,168 --> 00:45:52,712
+Agora chega de trabalho.
+
+712
+00:45:53,170 --> 00:45:56,132
+E chega de falar dela, sério,
+quero focar em você.
+
+713
+00:45:56,298 --> 00:45:59,093
+Que tal a gente se divertir no quarto?
+
+714
+00:45:59,343 --> 00:46:00,428
+Como foi o seu dia?
+
+715
+00:46:03,556 --> 00:46:07,184
+Que ótimo. É, isso é bem emocionante.
+
+716
+00:46:07,435 --> 00:46:08,436
+O que disse?
+
+717
+00:46:09,770 --> 00:46:11,522
+Quer me animar?
+
+718
+00:46:12,314 --> 00:46:16,193
+O que posso dizer?
+
+719
+00:46:17,278 --> 00:46:19,071
+Você leu a minha mente.
+
+720
+00:46:26,454 --> 00:46:27,747
+<i>Centenas de policiais...</i>
+
+721
+00:46:27,913 --> 00:46:29,957
+Estão chamando de Obsidian Fury.
+
+722
+00:46:30,124 --> 00:46:31,876
+Nunca houve um pirata desses.
+
+723
+00:46:32,043 --> 00:46:34,754
+Dizem que vão colocar 12 Jaegers
+no memorial.
+
+724
+00:46:35,129 --> 00:46:36,922
+Quando eu morrer,
+tem que ser assim.
+
+725
+00:46:37,089 --> 00:46:39,967
+Seu pai vai obrigá-lo a trabalhar
+com peitos quando for eliminado.
+
+726
+00:46:40,134 --> 00:46:41,844
+Jaegers não aparecem
+quando o cara dos peitos morre.
+
+727
+00:46:42,011 --> 00:46:43,262
+Seu pai trabalha com peitos?
+
+728
+00:46:43,429 --> 00:46:46,265
+Ele é cirurgião plástico.
+Não trabalha só com...
+
+729
+00:46:46,432 --> 00:46:48,809
+Não vou ser eliminado.
+Vou ser piloto.
+
+730
+00:46:48,976 --> 00:46:52,355
+Ainda assim, quando morrer,
+vai ter um Jaeger no enterro.
+
+731
+00:46:53,397 --> 00:46:54,648
+Talvez meio Jaeger.
+
+732
+00:46:56,025 --> 00:46:59,362
+Ouvi que foi onde acharam a Amara.
+Dentro de meio Jaeger.
+
+733
+00:46:59,528 --> 00:47:01,364
+Era um Jaeger inteiro.
+
+734
+00:47:01,781 --> 00:47:04,367
+Só não era muito grande...
+
+735
+00:47:04,992 --> 00:47:06,452
+Viktoria.
+
+736
+00:47:09,205 --> 00:47:10,831
+Maior é melhor.
+
+737
+00:47:14,585 --> 00:47:15,586
+Vai se danar!
+
+738
+00:47:16,629 --> 00:47:17,797
+Como é que é?
+
+739
+00:47:18,506 --> 00:47:19,715
+Vai se danar!
+
+740
+00:47:19,882 --> 00:47:21,717
+-É assim?
+-É.
+
+741
+00:47:24,929 --> 00:47:27,807
+Me esforcei muito pra estar aqui.
+Você não fez nada.
+
+742
+00:47:27,973 --> 00:47:29,850
+Cataram você na rua,
+feito lixo!
+
+743
+00:47:30,810 --> 00:47:32,687
+Gente, para com isso! Ei! Ei!
+
+744
+00:47:35,106 --> 00:47:36,565
+Sabe onde aprendi isso?
+
+745
+00:47:36,732 --> 00:47:38,442
+Na rua, sua idiota...
+
+746
+00:47:38,609 --> 00:47:39,819
+Ranger no recinto!
+
+747
+00:47:42,446 --> 00:47:44,365
+-Ela me atacou!
+-O lugar dela não é aqui!
+
+748
+00:47:44,532 --> 00:47:46,701
+Não me importo!
+
+749
+00:47:48,119 --> 00:47:51,372
+Quando entrei para a PPDC,
+eu era igual a vocês.
+
+750
+00:47:52,039 --> 00:47:55,251
+Pior. Eu não era ninguém.
+
+751
+00:47:57,169 --> 00:48:00,840
+Mas a mulher que enterramos hoje,
+Mako Mori...
+
+752
+00:48:01,007 --> 00:48:02,633
+Disse: "Seja lá quem for...
+
+753
+00:48:02,800 --> 00:48:04,802
+"ao começar no programa,
+você entra para a família.
+
+754
+00:48:06,012 --> 00:48:07,388
+"E não importa o que façam...
+
+755
+00:48:07,805 --> 00:48:10,850
+"mesmo que, às vezes,
+se comportem como idiotas...
+
+756
+00:48:13,269 --> 00:48:15,312
+"Você perdoa e segue adiante."
+
+757
+00:48:17,273 --> 00:48:20,985
+Então comecem a acreditar nisso.
+Aqui dentro.
+
+758
+00:48:21,902 --> 00:48:24,363
+E vão começar a acreditar num Jaeger.
+
+759
+00:48:24,822 --> 00:48:25,823
+Ei.
+
+760
+00:48:26,741 --> 00:48:30,202
+O Marechal quer falar com vocês.
+Gottlieb achou uma coisa.
+
+761
+00:48:32,121 --> 00:48:35,291
+Não é uma coisa.
+É um lugar.
+
+762
+00:48:35,708 --> 00:48:39,670
+Severnaya Zemlya. Perto
+da Península de Taimir, na Sibéria.
+
+763
+00:48:39,837 --> 00:48:42,340
+-O que tem em Zemlya?
+-Agora, nada.
+
+764
+00:48:42,757 --> 00:48:44,216
+Uma fábrica ali perto...
+
+765
+00:48:44,383 --> 00:48:47,303
+fazia núcleos de força de Jaegers
+no começo da guerra...
+
+766
+00:48:47,470 --> 00:48:49,388
+mas foi desativada há anos.
+
+767
+00:48:49,555 --> 00:48:52,141
+Por que Mako quis nos avisar
+sobre uma fábrica abandonada...
+
+768
+00:48:52,308 --> 00:48:53,809
+num lugar tão isolado?
+
+769
+00:48:53,976 --> 00:48:59,899
+Senhor, permissão para levar Gipsy
+Avenger para ver o que tem lá.
+
+770
+00:49:02,568 --> 00:49:04,904
+SEVERNAYA ZEMLYA
+SIBÉRIA
+
+771
+00:49:29,178 --> 00:49:30,554
+<i>Escaneando.</i>
+
+772
+00:49:30,721 --> 00:49:33,140
+Parece que a mensagem da Mako
+não deu em nada.
+
+773
+00:49:34,308 --> 00:49:36,018
+Este lugar está abandonado.
+
+774
+00:49:36,185 --> 00:49:37,311
+Não, espere aí.
+
+775
+00:49:39,605 --> 00:49:41,649
+Estou captando leituras estranhas.
+
+776
+00:49:42,108 --> 00:49:43,192
+Inimigo!
+
+777
+00:49:59,250 --> 00:50:00,459
+Ataque as pernas!
+
+778
+00:50:38,164 --> 00:50:39,248
+Temos que sair daqui!
+
+779
+00:51:14,867 --> 00:51:15,868
+Canhão de plasma!
+
+780
+00:51:23,751 --> 00:51:24,960
+Acho que irritamos o cara.
+
+781
+00:51:25,419 --> 00:51:26,629
+Que bom.
+
+782
+00:51:32,677 --> 00:51:34,178
+Lembra da nossa manobra?
+
+783
+00:51:34,345 --> 00:51:35,429
+É claro.
+
+784
+00:51:48,234 --> 00:51:49,318
+Acho que acertamos!
+
+785
+00:51:49,485 --> 00:51:50,820
+Mire no núcleo de força!
+
+786
+00:52:06,836 --> 00:52:07,837
+<i>Alerta.</i>
+
+787
+00:52:11,382 --> 00:52:12,383
+<i>Alerta.</i>
+
+788
+00:52:40,161 --> 00:52:42,163
+<i>Pilotos do Obsidian Fury...</i>
+
+789
+00:52:42,496 --> 00:52:43,831
+saiam do casulo.
+
+790
+00:52:55,843 --> 00:52:57,094
+O que é aquilo?
+
+791
+00:53:04,769 --> 00:53:06,771
+Com certeza é Kaiju.
+
+792
+00:53:07,063 --> 00:53:09,106
+Um cérebro secundário controla
+a parte posterior.
+
+793
+00:53:09,273 --> 00:53:10,316
+Como entraram aqui?
+
+794
+00:53:10,483 --> 00:53:12,109
+Faz 10 anos que não há fendas.
+
+795
+00:53:12,276 --> 00:53:13,778
+Os sensores teriam captado.
+
+796
+00:53:14,195 --> 00:53:15,905
+Não acho que foi por uma fenda.
+
+797
+00:53:16,072 --> 00:53:19,825
+A meia-vida radioativa da carne Kaiju
+é bem distinta.
+
+798
+00:53:19,992 --> 00:53:21,494
+Específica do Anteverso.
+
+799
+00:53:21,660 --> 00:53:24,080
+Este espécime não tem.
+
+800
+00:53:24,705 --> 00:53:27,750
+Então está dizendo
+que é do nosso universo?
+
+801
+00:53:27,917 --> 00:53:31,879
+As digitais genéticas indicam
+técnicas de modificação terrestres...
+
+802
+00:53:32,046 --> 00:53:35,257
+certamente a partir de carne Kaiju
+que sobrou da guerra.
+
+803
+00:53:35,424 --> 00:53:37,635
+Os Precursores não fizeram isso.
+
+804
+00:53:39,637 --> 00:53:40,971
+Foram os humanos.
+
+805
+00:53:45,685 --> 00:53:49,730
+Meu Deus. Aquela coisa gosmenta
+estava pilotando o Obsidian Fury?
+
+806
+00:53:50,106 --> 00:53:52,400
+-Temos que ver por dentro.
+-Dentro?
+
+807
+00:53:52,692 --> 00:53:54,068
+Aquilo é parte Kaiju.
+
+808
+00:53:54,944 --> 00:53:56,195
+Vamos lá, pessoal.
+
+809
+00:53:56,362 --> 00:53:58,781
+Quando teremos outra chance
+de ver algo assim?
+
+810
+00:53:58,948 --> 00:54:00,950
+Nunca. Nunca seria ótimo.
+
+811
+00:54:01,117 --> 00:54:03,661
+Então fiquem aqui. Eu vou.
+
+812
+00:54:03,828 --> 00:54:05,830
+Não. Amara!
+
+813
+00:54:06,747 --> 00:54:09,917
+Pessoal, a gente não devia
+estar aqui dentro.
+
+814
+00:54:16,966 --> 00:54:19,260
+Está distribuído por todo o sistema.
+
+815
+00:54:20,177 --> 00:54:23,180
+Como tecido muscular.
+
+816
+00:54:25,725 --> 00:54:29,020
+É por isso que se movia
+daquele jeito. Legal.
+
+817
+00:54:29,186 --> 00:54:31,063
+É, legal.
+
+818
+00:54:32,231 --> 00:54:34,483
+Dá até vontade
+de trabalhar com peitos.
+
+819
+00:54:35,234 --> 00:54:36,277
+Ilumine aqui.
+
+820
+00:54:37,403 --> 00:54:42,199
+É, vamos mexer
+nas tripas do Kaiju robótico.
+
+821
+00:54:45,161 --> 00:54:46,495
+O que é isso?
+
+822
+00:54:46,787 --> 00:54:48,330
+Acho que é um tipo de...
+
+823
+00:54:48,956 --> 00:54:49,957
+Jinhai!
+
+824
+00:54:50,124 --> 00:54:52,793
+-Falei pra não mexer nisso.
+-Vá buscar ajuda!
+
+825
+00:54:52,960 --> 00:54:55,087
+Cara, estamos tão ferrados!
+
+826
+00:54:56,088 --> 00:54:58,632
+-Isso é exagero.
+-A decisão já foi tomada.
+
+827
+00:54:58,799 --> 00:55:01,177
+A segurança vai escoltá-la.
+Terminamos.
+
+828
+00:55:08,059 --> 00:55:09,518
+O Jinhai está bem?
+
+829
+00:55:09,685 --> 00:55:11,562
+Vai ter cicatrizes,
+mas sobreviveu.
+
+830
+00:55:11,729 --> 00:55:13,064
+O Marechal o deixou de castigo.
+
+831
+00:55:13,606 --> 00:55:16,025
+Meilin e Suresh, também.
+Estão por um fio.
+
+832
+00:55:16,192 --> 00:55:18,611
+A culpa não foi deles.
+Eu os convenci.
+
+833
+00:55:18,778 --> 00:55:20,321
+Lamento, falei com o Marechal...
+
+834
+00:55:20,738 --> 00:55:22,490
+mas foi desligada do programa.
+
+835
+00:55:24,033 --> 00:55:26,035
+Nunca foi o meu lugar mesmo.
+
+836
+00:55:26,202 --> 00:55:27,203
+Sério?
+
+837
+00:55:28,871 --> 00:55:32,166
+Era o que eu dizia muito tempo atrás.
+
+838
+00:55:32,917 --> 00:55:36,337
+Mas, na verdade,
+eu não queria ficar aqui.
+
+839
+00:55:36,504 --> 00:55:37,838
+Ainda não quero.
+
+840
+00:55:38,047 --> 00:55:39,590
+Por que se alistou?
+
+841
+00:55:40,883 --> 00:55:42,426
+Estávamos em guerra.
+
+842
+00:55:42,510 --> 00:55:45,304
+Meu pai liderava o ataque,
+então achei...
+
+843
+00:55:45,471 --> 00:55:46,889
+que ficaria mais com ele.
+
+844
+00:55:47,807 --> 00:55:49,767
+Talvez até entrasse em fluxo
+com ele.
+
+845
+00:55:50,559 --> 00:55:52,770
+Mas, uma noite,
+Nate e eu brigamos.
+
+846
+00:55:52,937 --> 00:55:55,773
+Por algum motivo idiota.
+Nem me lembro o que foi.
+
+847
+00:55:55,940 --> 00:55:58,693
+Então, eu entrei num Mark-4 velho...
+
+848
+00:55:58,859 --> 00:56:01,487
+só pra provar que poderia
+ser um ótimo piloto sem ele.
+
+849
+00:56:01,654 --> 00:56:04,281
+-Muita burrice.
+-É.
+
+850
+00:56:04,740 --> 00:56:05,783
+Até onde chegou?
+
+851
+00:56:06,033 --> 00:56:07,952
+Dei uns 7 passos.
+Mais ou menos.
+
+852
+00:56:08,035 --> 00:56:09,036
+Até onde chegou?
+
+853
+00:56:09,203 --> 00:56:12,123
+Dei 2 passos e desmaiei com o esforço.
+
+854
+00:56:12,289 --> 00:56:14,959
+E a 1ª coisa que vi
+ao acordar foi meu pai...
+
+855
+00:56:15,126 --> 00:56:17,336
+olhando para mim com cara de mau.
+
+856
+00:56:17,545 --> 00:56:19,171
+O que ele disse?
+
+857
+00:56:19,588 --> 00:56:21,298
+Que estava fora do programa.
+
+858
+00:56:21,465 --> 00:56:25,052
+Que eu não merecia estar num Jaeger.
+Ele disse muitas coisas.
+
+859
+00:56:27,763 --> 00:56:29,932
+Um ano depois, meu pai morreu.
+
+860
+00:56:31,350 --> 00:56:32,893
+E eu não pude provar
+que estava errado.
+
+861
+00:56:33,060 --> 00:56:36,147
+E, ainda mais importante,
+não pude provar a mim mesmo.
+
+862
+00:56:37,481 --> 00:56:38,983
+Ouça bem.
+
+863
+00:56:39,859 --> 00:56:42,903
+Não deixe que o que acham de você
+defina quem você é.
+
+864
+00:56:43,279 --> 00:56:47,074
+Não vai gostar de como isso acaba.
+Você entendeu?
+
+865
+00:56:51,579 --> 00:56:52,997
+Mantenha a cabeça erguida.
+
+866
+00:56:53,998 --> 00:56:56,500
+Pode não ficar tão bem assim
+numa situação dessas.
+
+867
+00:56:57,084 --> 00:56:58,085
+É sério.
+
+868
+00:56:58,419 --> 00:57:03,007
+Este rostinho é perfeito.
+A beleza é um fardo.
+
+869
+00:57:06,177 --> 00:57:07,928
+Você vai ficar bem.
+
+870
+00:57:11,807 --> 00:57:12,975
+Shao Industries.
+
+871
+00:57:15,019 --> 00:57:16,020
+O quê?
+
+872
+00:57:17,104 --> 00:57:20,441
+O Obsidian Fury tem tecnologia
+feita pela Shao Industries.
+
+873
+00:57:20,608 --> 00:57:21,942
+Impossível.
+
+874
+00:57:22,109 --> 00:57:24,153
+Jules e sua equipe escanearam
+o Jaeger.
+
+875
+00:57:24,320 --> 00:57:26,238
+Metamateriais térmicos enrolados
+nos cabos
+
+876
+00:57:26,322 --> 00:57:28,866
+de ramais no sentido anti-horário.
+
+877
+00:57:29,617 --> 00:57:31,869
+Shao é a única empresa que faz assim.
+
+878
+00:57:32,828 --> 00:57:35,289
+Amara, tem certeza do
+que está dizendo?
+
+879
+00:57:36,248 --> 00:57:39,835
+Sim. Eu roubei uma tonelada
+para fazer o Scrapper.
+
+880
+00:57:42,880 --> 00:57:44,340
+Pode ser importante.
+
+881
+00:57:45,758 --> 00:57:48,803
+É. Obrigado.
+
+882
+00:57:49,303 --> 00:57:52,682
+Shao Industries?
+Eles nem têm uma biodivisão.
+
+883
+00:57:52,973 --> 00:57:54,433
+Não que a gente saiba.
+
+884
+00:57:54,600 --> 00:57:56,811
+Os cabos podem ser roubados,
+como no Jaeger da Amara.
+
+885
+00:57:56,977 --> 00:57:59,313
+Precisamos de provas
+que liguem Fury a Shao.
+
+886
+00:57:59,480 --> 00:58:00,481
+E o Newt?
+
+887
+00:58:00,648 --> 00:58:03,317
+Ele teria acesso a registros internos
+e de envios.
+
+888
+00:58:03,484 --> 00:58:06,320
+Sim, fale com ele.
+Seja discreto.
+
+889
+00:58:06,487 --> 00:58:08,656
+Eu tenho uma missão? Finalmente!
+
+890
+00:58:09,031 --> 00:58:11,409
+Vamos atualizar o Marechal.
+
+891
+00:58:23,879 --> 00:58:25,214
+O prédio está seguro, senhora.
+
+892
+00:58:26,257 --> 00:58:28,134
+Nada de visitantes sem credenciais.
+
+893
+00:58:28,759 --> 00:58:30,636
+Não quero ninguém
+atrapalhando o envio.
+
+894
+00:58:33,723 --> 00:58:34,724
+O que é isso?
+
+895
+00:58:36,308 --> 00:58:37,351
+Estarei na minha sala.
+
+896
+00:58:37,768 --> 00:58:38,769
+Está bem.
+
+897
+00:58:45,484 --> 00:58:46,736
+Isso não é justo.
+
+898
+00:58:49,864 --> 00:58:52,700
+Sinto muito. Você não merece isso.
+
+899
+00:58:53,909 --> 00:58:55,536
+A culpa foi minha.
+
+900
+00:58:57,246 --> 00:58:58,956
+Eu assumo.
+
+901
+00:59:09,133 --> 00:59:10,426
+Amara.
+
+902
+00:59:12,470 --> 00:59:14,597
+O próximo Jaeger que construir...
+
+903
+00:59:15,931 --> 00:59:17,683
+tem que ser grande.
+
+904
+00:59:29,153 --> 00:59:30,488
+<i>Sistema on-line.</i>
+
+905
+00:59:31,072 --> 00:59:35,868
+-E entregamos em 100%, galera.
+<i>-Sistema on-line.</i>
+
+906
+00:59:35,951 --> 00:59:38,829
+100%, gente!
+É assim que se faz, entenderam?
+
+907
+00:59:38,913 --> 00:59:40,790
+Eu disse que a gente entregaria!
+
+908
+00:59:40,873 --> 00:59:41,874
+<i>Mau funcionamento.</i>
+
+909
+00:59:42,041 --> 00:59:44,001
+Estou perdendo o controle do 375!
+
+910
+00:59:44,502 --> 00:59:46,212
+Por quê?
+
+911
+00:59:46,379 --> 00:59:47,588
+Descubra por quê?
+
+912
+00:59:48,089 --> 00:59:49,799
+Vamos informar ao Conselho
+pessoalmente.
+
+913
+00:59:50,466 --> 00:59:51,550
+Prepare um transporte.
+
+914
+00:59:53,803 --> 00:59:54,845
+Me dá um segundo.
+
+915
+00:59:55,137 --> 00:59:56,389
+Os drones em campo
+estão com defeito!
+
+916
+00:59:56,555 --> 00:59:57,848
+Interrompa o envio!
+
+917
+01:00:06,691 --> 01:00:08,109
+Entrem no Gipsy! Vão!
+
+918
+01:00:20,788 --> 01:00:23,958
+<i>Pilotos, entrem nos Jaegers
+e ataquem os inimigos!</i>
+
+919
+01:00:39,765 --> 01:00:43,686
+Calma, você consegue. Tudo bem?
+Isso, tudo bem. Fique calmo.
+
+920
+01:00:43,853 --> 01:00:45,312
+Dr. Geiszler! Shao está te procurando.
+
+921
+01:00:45,479 --> 01:00:46,480
+Eu sei. Já vou subir.
+Estou indo.
+
+922
+01:00:48,065 --> 01:00:50,776
+Hermann. O que está fazendo aqui?
+Como entrou?
+
+923
+01:00:50,943 --> 01:00:52,319
+Com a credencial da PPDC.
+
+924
+01:00:52,486 --> 01:00:54,530
+E o pessoal está
+só um pouco preocupado...
+
+925
+01:00:54,697 --> 01:00:56,699
+com os drones assassinos
+da sua chefe!
+
+926
+01:01:26,645 --> 01:01:28,105
+-Ela te usou.
+-Não.
+
+927
+01:01:28,272 --> 01:01:30,733
+-Ofereceu dinheiro e um cargo chique.
+-Nada disso.
+
+928
+01:01:30,900 --> 01:01:32,568
+Distraiu-se com a fama...
+
+929
+01:01:32,735 --> 01:01:34,862
+enquanto ela manipulava
+sua pesquisa.
+
+930
+01:01:35,363 --> 01:01:38,866
+Ajude-me a detê-la, Newton.
+E a salvar o mundo de novo.
+
+931
+01:01:39,033 --> 01:01:41,243
+Tecnicamente, da outra vez
+foi você quem me ajudou.
+
+932
+01:01:41,410 --> 01:01:42,453
+Só pra registrar.
+
+933
+01:01:42,620 --> 01:01:45,790
+Certo. Ajude-me a ajudá-lo
+a salvar o mundo.
+
+934
+01:01:45,956 --> 01:01:48,084
+-O que me diz?
+-Eu digo...
+
+935
+01:01:48,167 --> 01:01:49,168
+Digo... Não atirem!
+
+936
+01:01:52,213 --> 01:01:54,090
+Nunca vou aprender essa língua!
+
+937
+01:01:57,593 --> 01:01:59,679
+-O que houve?
+-Amara! São Jaegers?
+
+938
+01:01:59,845 --> 01:02:01,347
+Não, são drones da Shao.
+
+939
+01:02:01,514 --> 01:02:03,516
+-O que estão fazendo?
+-Sei lá! Surtaram!
+
+940
+01:02:03,683 --> 01:02:05,726
+Ei! Saiam do hangar agora!
+
+941
+01:02:05,893 --> 01:02:07,812
+Vão pro alojamento imediatamente!
+
+942
+01:02:10,606 --> 01:02:12,066
+-Sim, senhor!
+-Vão, vão!
+
+943
+01:02:17,822 --> 01:02:20,324
+Vão! Saiam logo daqui!
+Depressa! Vão!
+
+944
+01:02:20,491 --> 01:02:21,992
+Calma. Venha, levante.
+
+945
+01:02:33,546 --> 01:02:34,547
+Sério?
+
+946
+01:02:35,172 --> 01:02:36,173
+Isso é hora?
+
+947
+01:02:53,274 --> 01:02:54,275
+Hermann!
+
+948
+01:02:55,276 --> 01:02:56,277
+Ajuda aqui!
+
+949
+01:02:56,694 --> 01:02:59,780
+Da próxima vez, que tal aprender
+a usar uma arma?
+
+950
+01:02:59,947 --> 01:03:01,699
+Sujeito desprezível!
+
+951
+01:03:03,826 --> 01:03:05,036
+Obrigado, Newton.
+
+952
+01:03:05,202 --> 01:03:07,288
+Eu te abraçaria, mas não
+demonstro afeição em público.
+
+953
+01:03:07,455 --> 01:03:08,622
+-Tudo bem.
+-Que se dane.
+
+954
+01:03:08,789 --> 01:03:10,541
+Ok! Já acabou de demonstrar?
+
+955
+01:03:10,708 --> 01:03:12,668
+Vamos cuidar dos drones, certo?
+
+956
+01:03:12,835 --> 01:03:13,836
+ERRO
+PERIGO
+
+957
+01:03:14,545 --> 01:03:15,713
+Desliguem os sistemas! Já!
+
+958
+01:03:15,880 --> 01:03:18,424
+Saiam todos do laboratório
+ou eu atiro!
+
+959
+01:03:18,591 --> 01:03:19,592
+Vou atirar duas vezes!
+
+960
+01:03:19,759 --> 01:03:20,843
+Sabia que você ia pirar!
+
+961
+01:03:21,010 --> 01:03:22,303
+Está oficialmente demitida!
+
+962
+01:03:23,346 --> 01:03:24,555
+Como vamos parar isso?
+
+963
+01:03:24,722 --> 01:03:25,848
+Tem uma saída.
+
+964
+01:03:26,015 --> 01:03:28,267
+-Pra quê?
+-A sub-rotina dos drones.
+
+965
+01:03:28,642 --> 01:03:29,810
+Criei uma sub-rotina...
+
+966
+01:03:29,977 --> 01:03:32,521
+caso eu quisesse entrar
+para mexer depois.
+
+967
+01:03:32,688 --> 01:03:33,814
+Espertinho.
+
+968
+01:03:35,066 --> 01:03:36,317
+Mandei bem, né?
+
+969
+01:03:38,235 --> 01:03:40,821
+CONFIRMADO
+INICIANDO QUEBRA DE PROTOCOLO
+
+970
+01:03:41,530 --> 01:03:43,199
+O que foi que você fez?
+
+971
+01:03:43,366 --> 01:03:45,910
+O que venho planejando há 10 anos.
+
+972
+01:03:49,038 --> 01:03:50,498
+Vou acabar com o mundo.
+
+973
+01:03:52,166 --> 01:03:53,876
+HONOLULU
+ESTADOS UNIDOS
+
+974
+01:04:00,591 --> 01:04:01,717
+HONOLULU, HAVAÍ
+FENDA DETECTADA
+
+975
+01:04:02,968 --> 01:04:04,970
+HONG KONG, CHINA
+FENDA DETECTADA
+
+976
+01:04:06,722 --> 01:04:09,517
+ANCHORAGE, ALASCA
+FENDA DETECTADA
+
+977
+01:04:20,528 --> 01:04:21,570
+Onde estão meus pilotos?
+
+978
+01:04:21,904 --> 01:04:22,947
+Status!
+
+979
+01:04:23,030 --> 01:04:24,031
+Várias fendas detectadas!
+
+980
+01:04:24,115 --> 01:04:25,116
+São os drones, senhor!
+
+981
+01:04:27,493 --> 01:04:28,494
+Todos os pilotos...
+
+982
+01:04:28,661 --> 01:04:29,870
+fendas detectadas.
+
+983
+01:04:30,037 --> 01:04:33,374
+Drones em campo estão abrindo fendas
+no Círculo de Fogo!
+
+984
+01:04:45,511 --> 01:04:46,721
+Por quê?
+
+985
+01:04:46,887 --> 01:04:48,597
+Por que você faria isso?
+
+986
+01:04:48,764 --> 01:04:50,474
+Por que eu faria isso?
+
+987
+01:04:52,309 --> 01:04:55,479
+Acho que não faria.
+Normalmente, não. Não é meu estilo.
+
+988
+01:04:56,272 --> 01:04:58,065
+Sei lá, talvez eu odeie
+todos vocês...
+
+989
+01:04:58,232 --> 01:05:00,234
+por me desprezarem,
+como se eu fosse uma piada.
+
+990
+01:05:00,401 --> 01:05:03,112
+Talvez tenha sido por isso
+que ele fez. Fui eu.
+
+991
+01:05:03,654 --> 01:05:05,072
+Viu?
+
+992
+01:05:05,239 --> 01:05:06,907
+É isso aí.
+
+993
+01:05:07,074 --> 01:05:08,826
+Esse é o problema.
+
+994
+01:05:10,703 --> 01:05:14,165
+Não tenho me sentido totalmente eu
+nesses últimos dias.
+
+995
+01:05:14,540 --> 01:05:15,750
+Você.
+
+996
+01:05:17,126 --> 01:05:18,544
+ESPÉCIME
+CÉREBRO KAIJU
+
+997
+01:05:22,506 --> 01:05:23,799
+Precursores.
+
+998
+01:05:26,677 --> 01:05:28,721
+Muito bem, Hermann,
+você descobriu.
+
+999
+01:05:28,888 --> 01:05:31,349
+Como sempre, um passo atrás.
+
+1000
+01:05:31,515 --> 01:05:32,641
+Newton.
+
+1001
+01:05:33,517 --> 01:05:35,436
+-Você é um homem bom.
+-Não.
+
+1002
+01:05:35,603 --> 01:05:37,104
+-Deve parar.
+-Não adianta lutar contra eles.
+
+1003
+01:05:37,271 --> 01:05:39,065
+-Deve resistir.
+-Não sou suficientemente forte.
+
+1004
+01:05:39,231 --> 01:05:41,025
+-Deve parar!
+-Não sou suficientemente forte.
+
+1005
+01:05:41,192 --> 01:05:43,402
+Ele não é suficientemente forte!
+
+1006
+01:05:43,944 --> 01:05:46,906
+Nenhum de vocês é suficientemente
+forte!
+
+1007
+01:05:50,659 --> 01:05:52,536
+Desculpe, Hermann.
+
+1008
+01:05:54,914 --> 01:05:56,332
+Eles estão na minha cabeça.
+
+1009
+01:05:57,083 --> 01:05:58,084
+Solte-o!
+
+1010
+01:05:58,501 --> 01:06:00,628
+Não vai arruinar o trabalho
+de toda a minha vida.
+
+1011
+01:06:01,045 --> 01:06:02,171
+Oi, chefe.
+
+1012
+01:06:16,977 --> 01:06:19,146
+O que estão fazendo aqui?
+Mandei irem pro alojamento!
+
+1013
+01:06:19,438 --> 01:06:21,565
+-As portas estão bloqueadas!
+-E agora?
+
+1014
+01:06:22,108 --> 01:06:23,734
+Como conseguiu fazer sem eu saber?
+
+1015
+01:06:24,276 --> 01:06:28,280
+Olha, 38% da sua empresa
+é automatizada.
+
+1016
+01:06:28,447 --> 01:06:31,992
+Não foi muito difícil realocar
+um pouco aqui...
+
+1017
+01:06:32,159 --> 01:06:33,285
+e um pouco ali.
+
+1018
+01:06:33,452 --> 01:06:35,871
+E fazer uma surpresa Kaiju
+sem você notar.
+
+1019
+01:06:36,872 --> 01:06:39,959
+Principalmente porque você
+sempre se achou...
+
+1020
+01:06:40,459 --> 01:06:42,253
+a pessoa mais esperta aqui.
+
+1021
+01:06:42,670 --> 01:06:44,630
+Em menos de um segundo, eu serei.
+
+1022
+01:06:44,797 --> 01:06:47,299
+Pare! Espere. O Newt está fora de si!
+
+1023
+01:06:48,217 --> 01:06:49,593
+Não é ele! São os Precursores.
+
+1024
+01:06:49,677 --> 01:06:51,846
+Acho que foi infectado
+quando entramos em fluxo com o Kaiju.
+
+1025
+01:06:51,929 --> 01:06:52,930
+Cala a boca!
+
+1026
+01:06:54,140 --> 01:06:55,641
+Detenham o Dr. Geiszler.
+
+1027
+01:06:55,808 --> 01:06:57,435
+Se ele resistir, atirem pra matar.
+
+1028
+01:06:57,601 --> 01:06:59,937
+Fiquem aqui!
+Tentaremos chegar ao Gipsy.
+
+1029
+01:07:02,481 --> 01:07:03,566
+Está pronto?
+
+1030
+01:07:03,733 --> 01:07:04,900
+Não. E você?
+
+1031
+01:07:05,067 --> 01:07:07,028
+-Não. No três.
+-Ótimo.
+
+1032
+01:07:07,194 --> 01:07:08,612
+Um, dois...
+
+1033
+01:07:08,779 --> 01:07:10,322
+<i>Alô? Tem alguém aí?</i>
+
+1034
+01:07:10,614 --> 01:07:11,615
+Gottlieb?
+
+1035
+01:07:11,782 --> 01:07:13,576
+Jake! Graças a Deus!
+
+1036
+01:07:13,743 --> 01:07:15,661
+Estamos sob ataque.
+Force a Liwen...
+
+1037
+01:07:15,828 --> 01:07:17,288
+<i>-a desligar os drones.
+</i>-Não é ela.
+
+1038
+01:07:17,455 --> 01:07:19,331
+Não é a Liwen. Foi o Newt.
+
+1039
+01:07:19,749 --> 01:07:21,542
+Os Precursores o infectaram.
+
+1040
+01:07:21,709 --> 01:07:23,461
+<i>Estão controlando a mente dele.</i>
+
+1041
+01:07:23,627 --> 01:07:25,504
+Gottlieb, consegue fazer ele
+desabilitar os drones?
+
+1042
+01:07:25,671 --> 01:07:27,131
+Não. Ele fugiu.
+
+1043
+01:07:31,927 --> 01:07:33,596
+Gottlieb, desligue-os.
+
+1044
+01:07:33,763 --> 01:07:35,681
+Entrei na sub-rotina.
+
+1045
+01:07:37,016 --> 01:07:38,601
+Está tentando bloqueá-la.
+
+1046
+01:07:38,768 --> 01:07:39,935
+Retroalimentação.
+
+1047
+01:07:49,528 --> 01:07:51,864
+O que está acontecendo? Gottlieb!
+
+1048
+01:08:12,468 --> 01:08:14,470
+Desliga logo ou vamos morrer!
+
+1049
+01:08:16,889 --> 01:08:18,182
+Desliga isso!
+
+1050
+01:08:18,766 --> 01:08:19,934
+GRANADA DE RETROALIMENTAÇÃO
+CARREGAR
+
+1051
+01:08:28,984 --> 01:08:29,985
+Isso!
+
+1052
+01:08:56,012 --> 01:08:58,097
+FENDA
+
+1053
+01:08:58,264 --> 01:08:59,932
+Liwen desabilitou os drones.
+
+1054
+01:09:00,099 --> 01:09:03,936
+As fendas estão fechadas.
+Repito, as fendas estão fechadas.
+
+1055
+01:09:07,523 --> 01:09:08,733
+Ai, não.
+
+1056
+01:09:08,899 --> 01:09:10,192
+"Ai, não" o quê?
+
+1057
+01:09:10,693 --> 01:09:12,445
+Três Kaijus passaram.
+
+1058
+01:09:12,778 --> 01:09:15,990
+Coreia do Sul, costa da Rússia
+e Mar da China Oriental.
+
+1059
+01:09:16,782 --> 01:09:18,743
+Dois da categoria 4 e um da 5.
+
+1060
+01:09:18,909 --> 01:09:19,910
+<i>Entendido.</i>
+
+1061
+01:09:20,369 --> 01:09:21,620
+Volte para o domo.
+
+1062
+01:09:21,787 --> 01:09:24,123
+<i>Vamos precisar de toda ajuda possível.</i>
+
+1063
+01:09:27,835 --> 01:09:29,712
+-Tudo bem aí?
+-Sim, senhora.
+
+1064
+01:09:37,803 --> 01:09:38,888
+E os relatórios?
+
+1065
+01:09:38,971 --> 01:09:39,972
+Estão chegando...
+
+1066
+01:09:40,139 --> 01:09:42,266
+mas os drones destruíram Jaegers
+e Shatterdomes pelo Círculo.
+
+1067
+01:09:42,433 --> 01:09:43,517
+E quantos Jaegers temos?
+
+1068
+01:09:43,684 --> 01:09:45,436
+Funcionando? Gipsy, e olhe lá.
+
+1069
+01:09:45,519 --> 01:09:46,520
+-Só?
+-É.
+
+1070
+01:09:46,687 --> 01:09:49,565
+Precisamos de mais Jaegers
+ou vai ser uma luta breve.
+
+1071
+01:09:49,732 --> 01:09:52,234
+Mesmo que consiga,
+os pilotos estão mortos ou feridos.
+
+1072
+01:09:52,401 --> 01:09:55,071
+Um desastre por vez.
+Vamos focar nos Jaegers.
+
+1073
+01:09:57,740 --> 01:09:59,533
+Baixinha, vem cá.
+
+1074
+01:10:03,871 --> 01:10:05,873
+Preciso que ajude a Jules
+nos consertos. Consegue?
+
+1075
+01:10:06,624 --> 01:10:07,625
+Não me chutaram pra fora?
+
+1076
+01:10:08,084 --> 01:10:09,627
+Estou te chutando pra dentro.
+
+1077
+01:10:10,336 --> 01:10:11,962
+Ela é boa em transformar lixo
+em Jaegers.
+
+1078
+01:10:12,129 --> 01:10:13,547
+Tudo bem pra você?
+
+1079
+01:10:14,924 --> 01:10:15,925
+É claro.
+
+1080
+01:10:16,092 --> 01:10:17,301
+Temos muito trabalho...
+
+1081
+01:10:17,468 --> 01:10:18,886
+e pouco tempo.
+
+1082
+01:10:20,930 --> 01:10:21,931
+Vamos ser atacados!
+
+1083
+01:10:47,665 --> 01:10:49,625
+Eu trouxe ajuda!
+
+1084
+01:10:54,547 --> 01:10:56,632
+Hakuja, Shrikethorn...
+
+1085
+01:10:56,799 --> 01:10:58,634
+e o grandão, Raijin.
+
+1086
+01:10:58,801 --> 01:11:01,470
+Tomei a liberdade de escolher
+os nomes.
+
+1087
+01:11:01,637 --> 01:11:02,930
+O espinhudo e o bobalhão...
+
+1088
+01:11:03,097 --> 01:11:05,057
+estão saindo das cidades
+e indo para o mar.
+
+1089
+01:11:05,224 --> 01:11:06,225
+O que significa?
+
+1090
+01:11:06,559 --> 01:11:10,104
+Podem querer se conectar com Hakuja
+no Mar da China Oriental.
+
+1091
+01:11:10,271 --> 01:11:12,648
+Aposto que o Newt saberia
+o que planejam...
+
+1092
+01:11:12,815 --> 01:11:14,150
+se conseguíssemos arrancar dele.
+
+1093
+01:11:14,316 --> 01:11:16,360
+Mas teríamos que achá-lo primeiro.
+
+1094
+01:11:18,863 --> 01:11:20,823
+Algum Jaeger mais perto dos Kaijus
+do que nós?
+
+1095
+01:11:20,990 --> 01:11:23,743
+Os de Chin-do e Sakhalinsk,
+que tentaram interceptar.
+
+1096
+01:11:23,909 --> 01:11:25,119
+Mas só "tentaram".
+
+1097
+01:11:25,286 --> 01:11:27,580
+-Estamos sós nessa.
+-Deve ter algo aqui.
+
+1098
+01:11:28,581 --> 01:11:30,624
+Algo no Mar da China Oriental.
+
+1099
+01:11:31,751 --> 01:11:33,461
+Talvez não estejam indo pra lá.
+
+1100
+01:11:33,627 --> 01:11:35,880
+Pega um mapa de movimento Kaiju
+durante a guerra.
+
+1101
+01:11:36,047 --> 01:11:37,673
+Enviando para o monitor central.
+
+1102
+01:11:38,591 --> 01:11:40,301
+Sabe de algo que não sabemos?
+
+1103
+01:11:40,468 --> 01:11:43,346
+Você disse: "Tem que entender
+o objetivo do inimigo...
+
+1104
+01:11:43,512 --> 01:11:45,389
+"pra saber que o derrotou."
+
+1105
+01:11:45,556 --> 01:11:48,684
+E se os Kaijus não atacaram as cidades
+às cegas na guerra?
+
+1106
+01:11:48,851 --> 01:11:50,686
+E se éramos só um obstáculo?
+
+1107
+01:11:54,774 --> 01:11:55,941
+Bem aqui.
+
+1108
+01:11:56,734 --> 01:11:58,152
+Monte Fuji, no Japão.
+
+1109
+01:11:58,569 --> 01:12:01,197
+Extrapola para Hakuja,
+Shrikethorn e Raijin.
+
+1110
+01:12:03,699 --> 01:12:04,700
+MONTE FUJI
+
+1111
+01:12:04,867 --> 01:12:06,702
+Monte Fuji? Por quê?
+
+1112
+01:12:07,953 --> 01:12:09,080
+Terras-raras.
+
+1113
+01:12:11,082 --> 01:12:14,960
+O Monte Fuji é um vulcão
+rico em terras-raras.
+
+1114
+01:12:15,127 --> 01:12:18,130
+Sangue Kaiju reage violentamente
+com terras-raras...
+
+1115
+01:12:18,297 --> 01:12:21,008
+é a base da minha experiência
+com propulsão.
+
+1116
+01:12:21,550 --> 01:12:24,053
+-Parece ruim. É ruim, né?
+-Muito.
+
+1117
+01:12:24,220 --> 01:12:26,889
+É um vulcão ativo.
+Um ponto de pressão geológica.
+
+1118
+01:12:27,056 --> 01:12:29,058
+Com base na razão sangue/massa
+do Kaiju...
+
+1119
+01:12:29,225 --> 01:12:31,727
+a reação provocaria um efeito
+cascata...
+
+1120
+01:12:31,894 --> 01:12:35,147
+acendendo o Círculo de Fogo.
+
+1121
+01:12:35,981 --> 01:12:38,567
+Bilhões de toneladas de cinza e gases
+
+1122
+01:12:38,651 --> 01:12:41,070
+tóxicos seriam cuspidos na
+atmosfera...
+
+1123
+01:12:41,237 --> 01:12:42,947
+extinguindo a vida.
+
+1124
+01:12:43,114 --> 01:12:44,615
+Concluindo a terraformação
+da Terra...
+
+1125
+01:12:45,199 --> 01:12:46,534
+para os Precursores.
+
+1126
+01:12:46,701 --> 01:12:48,411
+Eles não podem
+chegar ao Monte Fuji.
+
+1127
+01:12:48,577 --> 01:12:50,121
+Vou ver com a Jules
+como estão os Jaegers.
+
+1128
+01:12:50,287 --> 01:12:53,749
+Mesmo tendo cem Jaegers,
+não há como interceptar a tempo.
+
+1129
+01:12:54,375 --> 01:12:55,793
+E os seus propulsores?
+
+1130
+01:12:55,960 --> 01:12:57,837
+Não, eles não estão prontos.
+
+1131
+01:12:58,129 --> 01:12:59,130
+E podem ficar?
+
+1132
+01:13:00,006 --> 01:13:02,633
+Teoricamente, talvez,
+com a ajuda de vocês.
+
+1133
+01:13:02,800 --> 01:13:04,927
+O que quer dizer "teoricamente"?
+
+1134
+01:13:07,430 --> 01:13:08,431
+Hoje...
+
+1135
+01:13:09,432 --> 01:13:11,934
+quer dizer "sim".
+
+1136
+01:13:28,951 --> 01:13:30,953
+IMPLANTE DE BRAÇO EM ANDAMENTO
+
+1137
+01:13:55,644 --> 01:13:57,730
+<i>Energia parcialmente restaurada
+nos setores 2...</i>
+
+1138
+01:13:57,897 --> 01:14:00,608
+Saber Athena, Guardian Bravo
+e Bracer Phoenix estão prontos.
+
+1139
+01:14:00,775 --> 01:14:01,984
+Não é muita coisa.
+
+1140
+01:14:02,151 --> 01:14:03,361
+Liwen inseriu tecnologia Fury
+no Gipsy.
+
+1141
+01:14:03,444 --> 01:14:04,695
+Pode ser útil.
+
+1142
+01:14:06,238 --> 01:14:08,366
+-Preparem tudo que temos pra enviar.
+-Ok.
+
+1143
+01:14:08,866 --> 01:14:10,618
+Não morra.
+
+1144
+01:14:13,204 --> 01:14:14,622
+Nem você.
+
+1145
+01:14:20,211 --> 01:14:21,837
+Fiquei confuso.
+
+1146
+01:14:25,049 --> 01:14:26,634
+Vamos manter o foco.
+
+1147
+01:14:26,801 --> 01:14:29,804
+Temos quatro Jaegers
+contra dois da categoria 4 e um da 5.
+
+1148
+01:14:29,970 --> 01:14:31,472
+É melhor do que só o Gipsy.
+
+1149
+01:14:31,639 --> 01:14:33,307
+Mas precisamos de pilotos.
+
+1150
+01:14:33,808 --> 01:14:35,017
+Nós já temos.
+
+1151
+01:14:35,434 --> 01:14:36,727
+Que merda.
+
+1152
+01:14:53,411 --> 01:14:56,122
+Se estivesse aqui,
+meu pai faria um belo discurso.
+
+1153
+01:14:57,790 --> 01:14:59,291
+Faria com que se sentissem
+invencíveis.
+
+1154
+01:15:02,336 --> 01:15:04,046
+Eu não sou o meu pai.
+
+1155
+01:15:05,339 --> 01:15:07,133
+Não sou herói como ele foi.
+
+1156
+01:15:08,843 --> 01:15:10,386
+Como Raleigh Becket...
+
+1157
+01:15:11,012 --> 01:15:12,388
+e Mako Mori.
+
+1158
+01:15:13,556 --> 01:15:15,558
+Mas eles não foram sempre assim.
+
+1159
+01:15:16,642 --> 01:15:19,478
+Eles começaram como cadetes,
+assim como vocês.
+
+1160
+01:15:20,521 --> 01:15:23,482
+Nós nos lembramos deles como gigantes
+porque resistiram.
+
+1161
+01:15:23,649 --> 01:15:24,942
+Porque resistiram unidos.
+
+1162
+01:15:26,318 --> 01:15:27,862
+Não importa
+quem são seus pais...
+
+1163
+01:15:28,988 --> 01:15:32,158
+de onde vocês vieram,
+quem acreditava em vocês ou não.
+
+1164
+01:15:32,324 --> 01:15:33,993
+Somos uma família agora.
+
+1165
+01:15:34,368 --> 01:15:36,162
+E somos a última defesa da Terra.
+
+1166
+01:15:36,579 --> 01:15:40,291
+É a nossa vez,
+é a nossa chance de fazer a diferença.
+
+1167
+01:15:41,000 --> 01:15:43,419
+Então vamos encarar e executar!
+
+1168
+01:15:43,586 --> 01:15:44,837
+Entenderam?
+
+1169
+01:15:44,920 --> 01:15:45,963
+Sim, senhor!
+
+1170
+01:15:46,047 --> 01:15:48,424
+Pilotos de Jaeger, entenderam?
+
+1171
+01:15:48,507 --> 01:15:49,508
+Sim, senhor!
+
+1172
+01:15:49,592 --> 01:15:50,593
+Entenderam?
+
+1173
+01:15:50,760 --> 01:15:52,011
+Sim, senhor!
+
+1174
+01:15:52,178 --> 01:15:54,388
+Então me ajudem a salvar o mundo.
+
+1175
+01:15:54,555 --> 01:15:55,639
+Vamos nessa.
+
+1176
+01:16:00,227 --> 01:16:01,228
+<i>Sistema on-line.</i>
+
+1177
+01:16:01,395 --> 01:16:02,938
+Iniciando contato neural.
+
+1178
+01:16:03,314 --> 01:16:05,399
+<i>Estabelecendo elo neural.</i>
+
+1179
+01:16:05,566 --> 01:16:07,151
+<i>Amara, entre na foto!</i>
+
+1180
+01:16:09,695 --> 01:16:11,989
+Contato neural firme e forte.
+
+1181
+01:16:13,199 --> 01:16:15,284
+Qual é a sensação de estar
+num Jaeger de verdade?
+
+1182
+01:16:17,286 --> 01:16:18,454
+Maior não é ruim.
+
+1183
+01:16:18,621 --> 01:16:19,789
+Todos os Jaegers, respondam.
+
+1184
+01:16:19,955 --> 01:16:21,749
+<i>Sim ou não para o lançamento.</i>
+
+1185
+01:16:21,916 --> 01:16:23,793
+Guardian Bravo, sim.
+
+1186
+01:16:23,959 --> 01:16:25,378
+Saber Athena, sim.
+
+1187
+01:16:25,544 --> 01:16:28,005
+Bracer Phoenix, demorou.
+
+1188
+01:16:28,172 --> 01:16:29,423
+Entendido.
+
+1189
+01:16:30,508 --> 01:16:33,594
+Comando, estamos prontos
+pro lançamento.
+
+1190
+01:16:33,761 --> 01:16:35,012
+Entendido, Gipsy Avenger.
+
+1191
+01:16:35,680 --> 01:16:38,015
+Ignição em 10 segundos.
+
+1192
+01:16:38,182 --> 01:16:39,433
+Nove...
+
+1193
+01:16:39,600 --> 01:16:41,143
+<i>oito...</i>
+
+1194
+01:16:41,310 --> 01:16:43,521
+<i>sete, seis...</i>
+
+1195
+01:16:43,688 --> 01:16:46,482
+<i>cinco, quatro...</i>
+
+1196
+01:16:46,649 --> 01:16:48,651
+<i>três, dois...</i>
+
+1197
+01:16:48,818 --> 01:16:50,111
+<i>um.</i>
+
+1198
+01:16:50,277 --> 01:16:51,612
+Ignição!
+
+1199
+01:17:16,554 --> 01:17:17,555
+<i>Alerta.</i>
+
+1200
+01:17:17,722 --> 01:17:20,016
+<i>Excedendo limite estrutural.</i>
+
+1201
+01:17:34,780 --> 01:17:36,115
+O que é isso?
+
+1202
+01:17:36,282 --> 01:17:38,451
+Minha avó tocava pra mim.
+
+1203
+01:17:38,617 --> 01:17:39,660
+Me acalma.
+
+1204
+01:17:39,827 --> 01:17:42,830
+E eu? Não me acalmo, cara,
+não me acalmo.
+
+1205
+01:17:55,051 --> 01:17:56,761
+Sabia que daria certo.
+
+1206
+01:17:58,262 --> 01:18:01,098
+TÓQUIO
+JAPÃO
+
+1207
+01:19:14,672 --> 01:19:16,382
+Gipsy para Comando.
+Alvos encontrados.
+
+1208
+01:19:16,549 --> 01:19:17,717
+<i>Entendido, Gipsy.</i>
+
+1209
+01:19:17,883 --> 01:19:20,052
+Todos os habitantes
+estão em abrigos.
+
+1210
+01:19:20,219 --> 01:19:21,554
+Podem atacar.
+
+1211
+01:19:21,721 --> 01:19:23,139
+Entendido. Vou com tudo.
+
+1212
+01:19:23,305 --> 01:19:25,141
+Bracer Phoenix, comigo.
+Pegamos o Raijin.
+
+1213
+01:19:25,224 --> 01:19:26,225
+Entendido, Gipsy.
+
+1214
+01:19:26,392 --> 01:19:27,852
+Saber Athena, Guardian Bravo...
+
+1215
+01:19:28,019 --> 01:19:30,229
+<i>-vocês pegam os outros dois.
+</i>-Entendido.
+
+1216
+01:19:30,396 --> 01:19:31,814
+É a nossa vez de salvar o mundo.
+
+1217
+01:19:31,981 --> 01:19:33,733
+-Tomara.
+<i>-Ao meu sinal.</i>
+
+1218
+01:19:33,899 --> 01:19:37,278
+3, 2, 1... já!
+
+1219
+01:20:24,950 --> 01:20:25,951
+Fogo!
+
+1220
+01:20:41,509 --> 01:20:43,052
+<i>Gipsy, as placas faciais do Raijin...</i>
+
+1221
+01:20:43,219 --> 01:20:45,513
+estão absorvendo os golpes
+e usando a energia contra você!
+
+1222
+01:20:45,680 --> 01:20:46,972
+Quero ver absorver isso!
+
+1223
+01:21:03,614 --> 01:21:05,658
+Quantos prédios essa coisa aguenta?
+
+1224
+01:21:30,057 --> 01:21:31,058
+Shrikethorn atacando!
+
+1225
+01:21:31,225 --> 01:21:34,645
+Gente, uma ajudinha aqui! Agora!
+
+1226
+01:21:34,812 --> 01:21:35,980
+Entendido, Saber.
+
+1227
+01:21:36,147 --> 01:21:38,190
+Vik, cuida do Shrikethorn!
+
+1228
+01:21:38,357 --> 01:21:39,358
+Deixa comigo.
+
+1229
+01:21:52,496 --> 01:21:54,832
+Saber Athena, Guardian Bravo
+indo ajudar!
+
+1230
+01:21:54,999 --> 01:21:56,500
+Ativando o chicote!
+
+1231
+01:22:14,685 --> 01:22:17,313
+<i>É isso aí! Foge mesmo!</i>
+
+1232
+01:22:17,772 --> 01:22:19,231
+Essas coisas não são tão fortes.
+
+1233
+01:22:29,742 --> 01:22:31,494
+Bracer Phoenix, atrás de você!
+
+1234
+01:22:31,660 --> 01:22:32,912
+Ataque inimigo!
+
+1235
+01:22:32,995 --> 01:22:33,996
+<i>Entendido!</i>
+
+1236
+01:22:53,724 --> 01:22:55,851
+Ok, vamos de robôs gigantes de novo.
+
+1237
+01:22:56,018 --> 01:22:57,937
+Está bem, muito criativo, gente.
+
+1238
+01:22:58,104 --> 01:22:59,438
+Não me impressionou.
+
+1239
+01:22:59,605 --> 01:23:02,441
+Não me impressionou.
+
+1240
+01:23:11,701 --> 01:23:14,286
+Atividade!
+Vários inimigos, 3 km a sudeste.
+
+1241
+01:23:15,454 --> 01:23:17,081
+Liwen! Está vendo isso?
+
+1242
+01:23:17,248 --> 01:23:19,250
+<i>É uma das minhas fábricas.</i>
+
+1243
+01:23:21,585 --> 01:23:24,422
+Foi o Newt. Ele está em Tóquio.
+
+1244
+01:23:24,505 --> 01:23:25,506
+<i>Localizando a posição dele.</i>
+
+1245
+01:23:25,673 --> 01:23:27,842
+Inimigos a 1 km e se aproximando!
+
+1246
+01:23:28,009 --> 01:23:29,385
+Todos os Jaegers,
+preparar para impacto.
+
+1247
+01:23:29,552 --> 01:23:31,303
+<i>Interromper ataque
+e preparar para impacto.</i>
+
+1248
+01:23:40,730 --> 01:23:42,398
+Muito bem. Tudo pronto.
+
+1249
+01:23:43,441 --> 01:23:46,736
+Vamos lá, vão, vão!
+Vai, pessoal, vai!
+
+1250
+01:23:46,902 --> 01:23:48,029
+REDIRECIONAR RIPPERS
+ATIVADO
+
+1251
+01:23:51,365 --> 01:23:52,366
+Aonde estão indo?
+
+1252
+01:24:49,173 --> 01:24:51,008
+Ele é bem grande.
+
+1253
+01:25:04,647 --> 01:25:05,731
+Todos os Jaegers...
+
+1254
+01:25:05,898 --> 01:25:08,776
+avançar e atacar com tudo
+ao meu comando!
+
+1255
+01:25:16,701 --> 01:25:17,702
+Já!
+
+1256
+01:25:34,885 --> 01:25:35,886
+DEFENDA SEU MUNDO!
+ALISTE-SE JÁ NA PPDC
+
+1257
+01:25:43,269 --> 01:25:44,353
+Guardian, recuar!
+
+1258
+01:25:44,520 --> 01:25:45,855
+Vamos conseguir!
+
+1259
+01:25:46,022 --> 01:25:47,690
+Negativo! É uma ordem!
+
+1260
+01:25:47,857 --> 01:25:49,066
+Adolescentes dos infernos!
+
+1261
+01:25:49,233 --> 01:25:51,152
+-Mira nos olhos!
+-Quais deles?
+
+1262
+01:25:51,318 --> 01:25:52,528
+Em todos.
+
+1263
+01:26:21,223 --> 01:26:23,142
+Ilya, Suresh, status.
+
+1264
+01:26:23,559 --> 01:26:26,354
+<i>Na escuta?
+Qual é, gente, responde aí!</i>
+
+1265
+01:26:26,771 --> 01:26:29,982
+<i>Guardian Bravo, relatório.
+Vocês estão bem?</i>
+
+1266
+01:26:30,858 --> 01:26:32,610
+Guardian abatido.
+
+1267
+01:26:32,777 --> 01:26:34,737
+Estou preso no casulo.
+
+1268
+01:26:35,196 --> 01:26:36,197
+Suresh?
+
+1269
+01:26:39,992 --> 01:26:41,619
+Não sobreviveu, senhor.
+
+1270
+01:26:43,037 --> 01:26:44,038
+Entendido, Guardian.
+
+1271
+01:26:45,039 --> 01:26:47,792
+Espere aí, enviaremos ajuda
+assim que possível.
+
+1272
+01:26:51,921 --> 01:26:53,714
+Bracer Phoenix, status.
+
+1273
+01:26:54,465 --> 01:26:55,675
+<i>Vocês estão bem?</i>
+
+1274
+01:26:55,841 --> 01:26:59,387
+Estamos meio zonzas,
+mas ainda na briga.
+
+1275
+01:26:59,553 --> 01:27:01,597
+Nós também, Saber.
+
+1276
+01:27:01,764 --> 01:27:04,100
+Quer dizer, Saber Athena, senhor!
+
+1277
+01:27:04,266 --> 01:27:06,894
+Preparar para interceptar
+nas seguintes coordenadas.
+
+1278
+01:27:07,061 --> 01:27:08,104
+Vamos acabar com isso.
+
+1279
+01:27:08,270 --> 01:27:09,647
+Acelerem, não se atrasem.
+
+1280
+01:27:09,814 --> 01:27:12,400
+Entendido. Bracer Phoenix acelerando!
+
+1281
+01:27:15,069 --> 01:27:16,195
+Gipsy para Comando...
+
+1282
+01:27:16,362 --> 01:27:18,155
+<i>algum perfil tático do inimigo?</i>
+
+1283
+01:27:18,322 --> 01:27:19,990
+Analisando dados dos sensores.
+
+1284
+01:27:20,157 --> 01:27:21,992
+Sim, mas está sendo compilado.
+
+1285
+01:27:22,159 --> 01:27:24,370
+<i>Sem tempo. Localizou os cérebros?</i>
+
+1286
+01:27:24,537 --> 01:27:26,205
+A massa cerebral central é blindada.
+
+1287
+01:27:26,288 --> 01:27:27,415
+Suas armas não vão penetrar.
+
+1288
+01:27:27,581 --> 01:27:30,584
+E tem algum secundário?
+O filho da mãe tem isso?
+
+1289
+01:27:30,751 --> 01:27:33,129
+O inimigo tem três cérebros
+secundários.
+
+1290
+01:27:33,295 --> 01:27:35,131
+Um para cada componente Kaiju.
+
+1291
+01:27:35,548 --> 01:27:36,966
+Enviando informações.
+
+1292
+01:27:37,842 --> 01:27:40,052
+Dados recebidos no Saber Athena.
+
+1293
+01:27:42,263 --> 01:27:44,181
+Recebidos no Bracer Phoenix.
+
+1294
+01:27:44,557 --> 01:27:47,018
+Muito bem, venham comigo
+e fiquem atentos!
+
+1295
+01:27:47,184 --> 01:27:49,895
+Acione a tecnologia Fury
+que a Liwen arranjou.
+
+1296
+01:27:50,062 --> 01:27:51,564
+Leu a minha mente, parceiro.
+
+1297
+01:28:35,149 --> 01:28:36,192
+<i>Dano detectado.</i>
+
+1298
+01:28:36,275 --> 01:28:37,276
+Ejetar!
+
+1299
+01:28:41,030 --> 01:28:42,031
+Todos os pilotos, ejetar!
+
+1300
+01:29:37,962 --> 01:29:38,963
+Amara!
+
+1301
+01:30:18,961 --> 01:30:21,839
+<i>Alerta. Carga neural excedendo
+o limite.</i>
+
+1302
+01:30:22,381 --> 01:30:24,383
+-Nate! Nate!
+<i>-Alerta.</i>
+
+1303
+01:30:25,217 --> 01:30:26,635
+<i>Nate, não apaga!</i>
+
+1304
+01:30:26,802 --> 01:30:28,804
+<i>Levanta! Nate!</i>
+
+1305
+01:30:29,138 --> 01:30:30,139
+Piloto atingido!
+
+1306
+01:30:37,813 --> 01:30:40,316
+Levanta agora, lata-velha!
+
+1307
+01:31:04,256 --> 01:31:05,716
+Tchau!
+
+1308
+01:31:05,883 --> 01:31:07,885
+Liwen! Pode ajudar de algum jeito?
+
+1309
+01:31:08,052 --> 01:31:09,095
+Preciso de mais tempo!
+
+1310
+01:31:09,178 --> 01:31:10,179
+Não temos tempo!
+
+1311
+01:31:10,346 --> 01:31:12,390
+-Se o inimigo chegar ao Monte Fuji...
+<i>-Entendido.</i>
+
+1312
+01:31:13,349 --> 01:31:15,142
+Não vou deixar isso acontecer.
+
+1313
+01:31:19,855 --> 01:31:22,358
+Não pode operar o Gipsy sem copiloto!
+
+1314
+01:31:22,525 --> 01:31:25,111
+<i>O esforço vai destruir sua mente!</i>
+
+1315
+01:31:28,989 --> 01:31:30,616
+O que vamos fazer agora?
+
+1316
+01:31:30,783 --> 01:31:32,576
+-Nos juntar aos outros.
+-Amara!
+
+1317
+01:31:34,745 --> 01:31:35,871
+<i>Gipsy Avenger...</i>
+
+1318
+01:31:36,372 --> 01:31:38,124
+<i>aqui é Amara Namani.</i>
+
+1319
+01:31:38,290 --> 01:31:39,291
+Estou indo ajudar.
+
+1320
+01:31:39,917 --> 01:31:40,918
+Não, Amara!
+
+1321
+01:31:41,460 --> 01:31:42,962
+<i>-Não vai conseguir.
+</i>-Vou sim!
+
+1322
+01:31:43,129 --> 01:31:44,296
+Não! Não!
+
+1323
+01:32:02,523 --> 01:32:03,649
+Eu falei.
+
+1324
+01:32:05,109 --> 01:32:06,193
+Desde quando eu escuto?
+
+1325
+01:32:06,485 --> 01:32:07,695
+Amara...
+
+1326
+01:32:07,862 --> 01:32:09,238
+é com você.
+
+1327
+01:32:09,822 --> 01:32:10,823
+O que está fazendo?
+
+1328
+01:32:11,991 --> 01:32:13,868
+Saindo do seu pé.
+
+1329
+01:32:14,035 --> 01:32:15,536
+Você consegue, irmão.
+
+1330
+01:32:18,622 --> 01:32:20,958
+<i>Sequência de ejeção iniciada.</i>
+
+1331
+01:32:24,503 --> 01:32:26,589
+<i>Sequência de ejeção bem-sucedida.</i>
+
+1332
+01:32:26,756 --> 01:32:28,174
+Está preparada, baixinha?
+
+1333
+01:32:28,341 --> 01:32:29,800
+Só tem um jeito de saber.
+
+1334
+01:32:31,969 --> 01:32:32,970
+Tá legal.
+
+1335
+01:32:33,888 --> 01:32:37,350
+Aguarde, Comando.
+Iniciando contato neural.
+
+1336
+01:32:37,516 --> 01:32:38,934
+<i>Estabelecendo elo neural.</i>
+
+1337
+01:32:39,101 --> 01:32:40,227
+Vamos lá.
+
+1338
+01:32:56,911 --> 01:32:58,454
+Era para ter sido épico...
+
+1339
+01:32:58,621 --> 01:33:00,122
+-mas não foi.
+-Não mesmo.
+
+1340
+01:33:00,289 --> 01:33:03,876
+<i>Alerta. Falha em cadeia.
+Vários sistemas off-line.</i>
+
+1341
+01:33:03,959 --> 01:33:05,336
+-Reiniciar.
+-Deixa comigo.
+
+1342
+01:33:05,419 --> 01:33:06,420
+<i>Comando para Gipsy.</i>
+
+1343
+01:33:06,587 --> 01:33:10,591
+Inimigo a 2 km do cume do Monte Fuji
+e se aproximando rapidamente!
+
+1344
+01:33:25,898 --> 01:33:28,442
+Gottlieb, tem combustível
+nos propulsores...
+
+1345
+01:33:28,609 --> 01:33:29,985
+para nos lançar na atmosfera?
+
+1346
+01:33:30,152 --> 01:33:31,570
+-Na atmosfera?
+-É.
+
+1347
+01:33:31,737 --> 01:33:33,948
+Deve ter, mas não
+para uma reentrada suave.
+
+1348
+01:33:34,115 --> 01:33:35,241
+<i>Não precisamos suavizar.</i>
+
+1349
+01:33:35,408 --> 01:33:37,284
+Vamos jogar o Gipsy naquela coisa.
+
+1350
+01:33:37,451 --> 01:33:39,245
+Eu ejetei meu módulo de fuga.
+
+1351
+01:33:39,412 --> 01:33:41,664
+Vamos ter que usar o meu.
+
+1352
+01:33:41,831 --> 01:33:44,333
+Só tem um propulsor
+com combustível suficiente.
+
+1353
+01:33:44,500 --> 01:33:45,584
+Enviando localização.
+
+1354
+01:33:45,751 --> 01:33:46,877
+Ok, verificando.
+
+1355
+01:33:47,420 --> 01:33:48,629
+Estamos longe demais.
+
+1356
+01:33:50,756 --> 01:33:51,841
+Não conseguiremos.
+
+1357
+01:33:52,008 --> 01:33:53,843
+<i>Gipsy Avenger, transporte chegando.</i>
+
+1358
+01:33:54,010 --> 01:33:56,512
+Sistemas remotos estão on-line.
+Enviando ajuda!
+
+1359
+01:34:01,684 --> 01:34:02,685
+Scrapper!
+
+1360
+01:34:19,744 --> 01:34:21,579
+Localizei o propulsor!
+
+1361
+01:34:21,746 --> 01:34:22,913
+Aguardem!
+
+1362
+01:34:31,464 --> 01:34:32,965
+Vem logo! Mexe essas pernas!
+
+1363
+01:34:33,132 --> 01:34:36,052
+O propulsor é forte demais,
+não tem como segurar!
+
+1364
+01:34:36,302 --> 01:34:37,970
+<i>Liwen, o que me diz?</i>
+
+1365
+01:34:38,387 --> 01:34:39,764
+Posso soldar à sua mão.
+
+1366
+01:34:39,930 --> 01:34:41,432
+<i>Aprimorei as armas do Scrapper.</i>
+
+1367
+01:34:41,599 --> 01:34:43,142
+Boa. Eu estava planejando fazer isso.
+
+1368
+01:34:43,309 --> 01:34:44,352
+Estava nada.
+
+1369
+01:34:44,518 --> 01:34:45,603
+Estava, sim.
+
+1370
+01:34:53,110 --> 01:34:54,653
+Nós só temos uma chance.
+
+1371
+01:34:54,820 --> 01:34:56,530
+É! Então vamos aproveitar.
+
+1372
+01:35:11,003 --> 01:35:12,004
+Fiquei presa!
+
+1373
+01:35:12,171 --> 01:35:14,840
+Fica aí! É mais uma tonelada
+pra jogar naquela coisa.
+
+1374
+01:35:36,195 --> 01:35:38,155
+-Está se desfazendo!
+-Falta pouco!
+
+1375
+01:36:04,056 --> 01:36:05,224
+Estamos desviando!
+
+1376
+01:36:05,391 --> 01:36:06,642
+Use o canhão de plasma!
+
+1377
+01:36:07,018 --> 01:36:08,602
+Desativando protocolo de segurança!
+
+1378
+01:36:08,769 --> 01:36:10,104
+<i>Canhão de plasma acionado.</i>
+
+1379
+01:36:14,734 --> 01:36:16,819
+<i>Alerta. Excedendo o limite estrutural.</i>
+
+1380
+01:36:16,902 --> 01:36:17,903
+Está funcionando!
+
+1381
+01:36:18,070 --> 01:36:19,113
+<i>Falha estrutural.</i>
+
+1382
+01:36:19,196 --> 01:36:20,197
+Segura!
+
+1383
+01:36:24,493 --> 01:36:25,494
+Vamos! Vamos!
+
+1384
+01:36:25,578 --> 01:36:26,579
+ALVO
+SELECIONADO
+
+1385
+01:36:26,746 --> 01:36:27,955
+Alvo selecionado!
+
+1386
+01:36:28,122 --> 01:36:29,957
+Jake, Amara, precisam ejetar!
+
+1387
+01:36:34,170 --> 01:36:35,171
+Desconectar!
+
+1388
+01:36:35,796 --> 01:36:37,089
+Amara, desconectar!
+
+1389
+01:36:37,673 --> 01:36:39,884
+Eu vou te segurar! Prometo!
+
+1390
+01:36:40,760 --> 01:36:41,969
+Vem logo!
+
+1391
+01:36:46,640 --> 01:36:47,933
+Peguei você.
+
+1392
+01:36:48,100 --> 01:36:51,145
+Gipsy para Comando,
+vamos dar o fora daqui!
+
+1393
+01:36:52,646 --> 01:36:53,814
+<i>Falha no módulo de fuga.</i>
+
+1394
+01:36:54,482 --> 01:36:55,524
+Não.
+
+1395
+01:36:55,691 --> 01:36:56,984
+Não, não!
+
+1396
+01:37:00,988 --> 01:37:02,156
+Desculpe, baixinha!
+
+1397
+01:37:04,575 --> 01:37:05,743
+Pelo quê?
+
+1398
+01:37:06,160 --> 01:37:07,953
+Tivemos a chance de salvar o mundo.
+
+1399
+01:37:10,247 --> 01:37:11,999
+Seu pai ficaria orgulhoso.
+
+1400
+01:37:16,962 --> 01:37:17,963
+Scrapper!
+
+1401
+01:37:18,589 --> 01:37:20,716
+-Depressa!
+-Vem pra cá! Rápido!
+
+1402
+01:37:22,218 --> 01:37:24,136
+Vamos! Temos que ir!
+
+1403
+01:37:24,303 --> 01:37:26,639
+20 km para o impacto.
+Saiam já daí!
+
+1404
+01:37:27,515 --> 01:37:28,516
+Vá!
+
+1405
+01:37:36,649 --> 01:37:38,067
+Entramos! Fecha a porta!
+
+1406
+01:37:45,116 --> 01:37:46,867
+-Segura!
+-Estou segurando!
+
+1407
+01:37:46,951 --> 01:37:47,952
+Mais forte!
+
+1408
+01:38:34,957 --> 01:38:36,375
+ABATIDO
+
+1409
+01:38:49,638 --> 01:38:50,639
+MEGAKAIJU
+MORTO
+
+1410
+01:38:50,806 --> 01:38:52,475
+Não! Não!
+
+1411
+01:38:54,852 --> 01:38:56,228
+Quer saber?
+
+1412
+01:38:56,395 --> 01:38:58,230
+Plano B. Tem sempre um plano B.
+
+1413
+01:39:02,443 --> 01:39:03,819
+A quem estiver ouvindo...
+
+1414
+01:39:04,195 --> 01:39:05,988
+<i>aqui é o Ranger Lambert.</i>
+
+1415
+01:39:06,155 --> 01:39:08,449
+<i>Informo que acabamos
+de capturar um Newt.</i>
+
+1416
+01:39:08,532 --> 01:39:09,533
+<i>Entendido.</i>
+
+1417
+01:39:09,700 --> 01:39:10,951
+Olha ele ali.
+
+1418
+01:39:11,369 --> 01:39:12,787
+Que bom que você está bem...
+
+1419
+01:39:12,953 --> 01:39:15,581
+<i>Você, também, irmão.
+Sabia que ia conseguir.</i>
+
+1420
+01:39:17,333 --> 01:39:18,459
+Tive muita ajuda.
+
+1421
+01:39:20,419 --> 01:39:21,796
+Bom trabalho, Ranger Namani.
+
+1422
+01:39:21,879 --> 01:39:22,880
+Obrigada, senhor.
+
+1423
+01:39:28,135 --> 01:39:30,179
+Eu nunca tinha visto neve.
+
+1424
+01:39:30,346 --> 01:39:32,306
+De tudo que tem pra ver aqui,
+você vê a neve?
+
+1425
+01:39:33,349 --> 01:39:35,184
+Tem um Kaiju enorme morto
+bem ali.
+
+1426
+01:39:35,351 --> 01:39:36,435
+-Tá legal.
+-E não sei se sabe...
+
+1427
+01:39:36,602 --> 01:39:39,188
+É agora que vai fazer
+um daqueles sermões bobos?
+
+1428
+01:39:39,355 --> 01:39:41,357
+Todos acharam bobo,
+ou foi só você...
+
+1429
+01:39:41,524 --> 01:39:43,025
+Confessa. Ensaiou com o espelho, né?
+
+1430
+01:39:43,192 --> 01:39:45,361
+Foi motivacional.
+Você pode ser quem você quiser.
+
+1431
+01:39:46,987 --> 01:39:48,364
+-Fogo!
+-Vai entrar nessa agora?
+
+1432
+01:39:48,531 --> 01:39:50,616
+-Eu levo jeito.
+-Não leva nada...
+
+1433
+01:39:50,783 --> 01:39:52,284
+Dá um tempo.
+É minha 1ª vez!
+
+1434
+01:39:54,829 --> 01:39:56,372
+Toma essa.
+
+1435
+01:39:59,375 --> 01:40:01,210
+Nós conseguimos!
+
+1436
+01:40:09,135 --> 01:40:13,222
+CÍRCULO DE FOGO:
+A REVOLTA
+
+1437
+01:40:22,690 --> 01:40:23,774
+Acham que acabou?
+
+1438
+01:40:23,941 --> 01:40:26,569
+Acham que salvaram seu mundinho?
+
+1439
+01:40:27,111 --> 01:40:28,863
+Vamos continuar!
+
+1440
+01:40:29,864 --> 01:40:31,282
+Não vamos parar nunca...
+
+1441
+01:40:31,449 --> 01:40:32,700
+e cedo ou tarde...
+
+1442
+01:40:32,867 --> 01:40:35,244
+a sorte de vocês vai acabar!
+
+1443
+01:40:38,581 --> 01:40:39,582
+Não.
+
+1444
+01:40:40,458 --> 01:40:42,168
+As coisas na sua cabeça?
+
+1445
+01:40:42,335 --> 01:40:43,461
+Os Precursores?
+
+1446
+01:40:44,420 --> 01:40:45,796
+Diga a eles que não temos medo.
+
+1447
+01:40:46,255 --> 01:40:47,590
+Diga que, da próxima vez...
+
+1448
+01:40:47,757 --> 01:40:49,759
+não precisam se preocupar
+em vir nos atacar.
+
+1449
+01:40:50,843 --> 01:40:53,012
+Porque nós vamos até eles.
+
+1450
+01:42:32,069 --> 01:42:34,905
+CÍRCULO DE FOGO:
+A REVOLTA
+
+1451
+01:50:35,720 --> 01:50:37,722
+COMANDOTORRENTS.COM
+
