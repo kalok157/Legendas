@@ -1,0 +1,5929 @@
+1
+00:00:56,255 --> 00:01:00,385
+<b><font color=#FFFF00>GLADIADOR</font></b>
+
+2
+00:01:04,514 --> 00:01:07,517
+<font color=#FFFF00>No auge do seu poder,
+o Império Romano era vasto...</font>
+
+3
+00:01:07,600 --> 00:01:10,061
+<font color=#FFFF00>...estendendo-se dos desertos
+da África...</font>
+
+4
+00:01:10,144 --> 00:01:13,648
+<font color=#FFFF00>... até as fronteiras do norte
+da Inglaterra.</font>
+
+5
+00:01:13,690 --> 00:01:16,901
+<font color=#FFFF00>Mais de um quarto da
+população mundial...</font>
+
+6
+00:01:16,943 --> 00:01:20,947
+<font color=#FFFF00>...viveu e morreu sob o domínio
+dos Césares.</font>
+
+7
+00:01:22,073 --> 00:01:24,742
+<font color=#FFFF00>No Inverno de 180 A.D.,
+a campanha de 12 anos...</font>
+
+8
+00:01:24,826 --> 00:01:26,786
+<font color=#FFFF00>...do Imperador Marcus Aurelius...</font>
+
+9
+00:01:26,828 --> 00:01:29,622
+<font color=#FFFF00>...contra os bárbaros da Germânia
+chegava ao fim.</font>
+
+10
+00:01:29,706 --> 00:01:34,711
+<font color=#FFFF00>Apenas uma pequena barreira se impõe
+no caminho da vitória romana...</font>
+
+11
+00:01:34,794 --> 00:01:38,798
+<font color=#FFFF00>...e da promessa de paz
+em todo império.</font>
+
+12
+00:02:40,067 --> 00:02:43,738
+<font color=#FFFF00>GERMÂNIA</font>
+
+13
+00:03:19,440 --> 00:03:20,942
+<font color=#FFFF00>General.</font>
+
+14
+00:03:26,072 --> 00:03:27,531
+<font color=#FFFF00>Senhor.</font>
+
+15
+00:03:47,635 --> 00:03:49,595
+<font color=#FFFF00>Ávidos e famintos.</font>
+
+16
+00:03:52,348 --> 00:03:54,016
+<font color=#FFFF00>Ainda nada?</font>
+
+17
+00:03:54,058 --> 00:03:55,309
+<font color=#FFFF00>Nem um sinal.</font>
+
+18
+00:03:55,393 --> 00:03:58,270
+<font color=#FFFF00>- Há quanto tempo ele se foi?
+- Há quase 2 horas.</font>
+
+19
+00:04:01,107 --> 00:04:02,650
+<font color=#FFFF00>Eles irão lutar?</font>
+
+20
+00:04:02,775 --> 00:04:04,276
+<font color=#FFFF00>Iremos descobrir rapidamente.</font>
+
+21
+00:04:04,360 --> 00:04:08,030
+<font color=#FFFF00>Soldado! As catapultas estão fora
+de alcance.</font>
+
+22
+00:04:08,155 --> 00:04:09,573
+<font color=#FFFF00>O alcance está bom.</font>
+
+23
+00:04:11,283 --> 00:04:14,078
+<font color=#FFFF00>- O risco para a cavalaria...
+- ...é aceitável, de acordo?</font>
+
+24
+00:04:24,088 --> 00:04:25,423
+<font color=#FFFF00>Disseram "não".</font>
+
+25
+00:04:51,157 --> 00:04:53,200
+<font color=#FFFF00>Deviam saber quando
+são conquistados.</font>
+
+26
+00:05:04,295 --> 00:05:06,297
+<font color=#FFFF00>Você saberia, Quintus?</font>
+
+27
+00:05:06,881 --> 00:05:08,174
+<font color=#FFFF00>Eu saberia?</font>
+
+28
+00:05:25,024 --> 00:05:26,609
+<font color=#FFFF00>- Força e honra.
+- Força e honra.</font>
+
+29
+00:05:33,449 --> 00:05:36,285
+<font color=#FFFF00>Ao meu sinal, libertem
+o inferno.</font>
+
+30
+00:05:59,183 --> 00:06:00,684
+<font color=#FFFF00>Carreguem as catapultas!</font>
+
+31
+00:06:01,685 --> 00:06:03,437
+<font color=#FFFF00>Infantaria, formar para avançar.</font>
+
+32
+00:06:05,022 --> 00:06:05,981
+<font color=#FFFF00>Arqueiros, prontos.</font>
+
+33
+00:06:06,106 --> 00:06:08,067
+<font color=#FFFF00>Arqueiros, preparar!</font>
+
+34
+00:06:08,192 --> 00:06:09,235
+<font color=#FFFF00>Preparar!</font>
+
+35
+00:06:32,925 --> 00:06:34,301
+<font color=#FFFF00>Patres!</font>
+
+36
+00:06:34,426 --> 00:06:36,220
+<font color=#FFFF00>Maximus!</font>
+
+37
+00:06:37,680 --> 00:06:41,558
+<font color=#FFFF00>Daqui a 3 semanas,
+estarei fazendo minha colheita.</font>
+
+38
+00:06:41,642 --> 00:06:43,769
+<font color=#FFFF00>Imaginem onde estarão...</font>
+
+39
+00:06:44,603 --> 00:06:46,105
+<font color=#FFFF00>...e assim o será.</font>
+
+40
+00:06:47,106 --> 00:06:50,025
+<font color=#FFFF00>Mantenham a posição!
+Fiquem comigo!</font>
+
+41
+00:06:50,609 --> 00:06:52,569
+<font color=#FFFF00>Se se virem sozinhos, galopando...</font>
+
+42
+00:06:53,278 --> 00:06:55,906
+<font color=#FFFF00>...por campos verdes, com o Sol
+em vossas faces...</font>
+
+43
+00:06:57,533 --> 00:06:59,326
+<font color=#FFFF00>...não se perturbem...</font>
+
+44
+00:07:00,244 --> 00:07:01,912
+<font color=#FFFF00>...pois estarão no Elísio...</font>
+
+45
+00:07:02,454 --> 00:07:04,081
+<font color=#FFFF00>...e estarão mortos!</font>
+
+46
+00:07:06,417 --> 00:07:07,751
+<font color=#FFFF00>Irmãos...</font>
+
+47
+00:07:09,253 --> 00:07:11,046
+<font color=#FFFF00>...o que fazemos durante a vida...</font>
+
+48
+00:07:12,214 --> 00:07:14,174
+<font color=#FFFF00>...ecoa na eternidade.</font>
+
+49
+00:07:20,014 --> 00:07:21,015
+<font color=#FFFF00>Puxar!</font>
+
+50
+00:07:22,182 --> 00:07:23,434
+<font color=#FFFF00>Puxar!</font>
+
+51
+00:07:39,116 --> 00:07:41,118
+<font color=#FFFF00>Catapultas prontas, senhor!</font>
+
+52
+00:07:52,045 --> 00:07:54,339
+<font color=#FFFF00>Arqueiros, atear fogo.</font>
+
+53
+00:07:54,465 --> 00:07:55,466
+<font color=#FFFF00>Atear fogo!</font>
+
+54
+00:07:55,549 --> 00:07:57,009
+<font color=#FFFF00>Atear fogo!</font>
+
+55
+00:08:03,182 --> 00:08:05,476
+<font color=#FFFF00>Arqueiros, lancem!</font>
+
+56
+00:08:05,559 --> 00:08:07,144
+<font color=#FFFF00>Lancem!</font>
+
+57
+00:08:08,937 --> 00:08:09,897
+<font color=#FFFF00>Soltem!</font>
+
+58
+00:08:47,559 --> 00:08:49,353
+<font color=#FFFF00>Mantenham a posição!</font>
+
+59
+00:09:06,453 --> 00:09:08,413
+<font color=#FFFF00>Mantenham a posição!</font>
+
+60
+00:09:08,539 --> 00:09:09,498
+<font color=#FFFF00>Lancem!</font>
+
+61
+00:09:13,502 --> 00:09:15,170
+<font color=#FFFF00>Fiquem comigo!</font>
+
+62
+00:09:20,550 --> 00:09:22,010
+<font color=#FFFF00>Fiquem comigo!</font>
+
+63
+00:09:51,039 --> 00:09:53,500
+<font color=#FFFF00>Roma Victor!</font>
+
+64
+00:13:10,697 --> 00:13:12,198
+<font color=#FFFF00>Ele está mesmo morrendo?</font>
+
+65
+00:13:14,409 --> 00:13:16,328
+<font color=#FFFF00>Está morrendo há 10 anos.</font>
+
+66
+00:13:17,871 --> 00:13:19,664
+<font color=#FFFF00>Por isso deve ter nos chamado.</font>
+
+67
+00:13:20,874 --> 00:13:22,876
+<font color=#FFFF00>Talvez seja só saudade.</font>
+
+68
+00:13:22,959 --> 00:13:25,712
+<font color=#FFFF00>Mas ele não reuniria
+os senadores se...</font>
+
+69
+00:13:25,837 --> 00:13:29,924
+<font color=#FFFF00>Calma, Commodus. As suas maquinações
+estão me dando dor de cabeça.</font>
+
+70
+00:13:38,266 --> 00:13:39,726
+<font color=#FFFF00>Ele tomou a sua decisão.</font>
+
+71
+00:13:40,268 --> 00:13:41,895
+<font color=#FFFF00>E vai anunciá-la.</font>
+
+72
+00:13:45,398 --> 00:13:47,233
+<font color=#FFFF00>Ele irá nomear-me.</font>
+
+73
+00:13:50,153 --> 00:13:54,699
+<font color=#FFFF00>A primeira coisa que irei fazer...</font>
+
+74
+00:13:56,743 --> 00:13:59,662
+<font color=#FFFF00>...será homenageá-lo com jogos
+à altura de Sua Majestade.</font>
+
+75
+00:13:59,746 --> 00:14:01,539
+<font color=#FFFF00>Por enquanto...</font>
+
+76
+00:14:01,664 --> 00:14:04,918
+<font color=#FFFF00>...a primeira coisa que irei fazer
+será tomar um banho.</font>
+
+77
+00:14:06,920 --> 00:14:08,088
+<font color=#FFFF00>Sua Alteza!</font>
+
+78
+00:14:12,175 --> 00:14:13,676
+<font color=#FFFF00>Estamos quase lá, senhor.</font>
+
+79
+00:14:20,600 --> 00:14:21,559
+<font color=#FFFF00>Alteza.</font>
+
+80
+00:14:21,643 --> 00:14:23,728
+<font color=#FFFF00>- Onde está o Imperador?
+- Está na frente de combate, Alteza.</font>
+
+81
+00:14:23,853 --> 00:14:25,563
+<font color=#FFFF00>Partiram há 19 dias.</font>
+
+82
+00:14:26,356 --> 00:14:28,441
+<font color=#FFFF00>Os feridos continuam a chegar.</font>
+
+83
+00:14:28,566 --> 00:14:30,068
+<font color=#FFFF00>O meu cavalo.</font>
+
+84
+00:14:30,360 --> 00:14:32,111
+<font color=#FFFF00>Meu senhor.</font>
+
+85
+00:14:35,073 --> 00:14:36,032
+<font color=#FFFF00>Um beijo.</font>
+
+86
+00:15:12,610 --> 00:15:16,155
+<font color=#FFFF00>Provou mais uma vez
+o seu valor, Maximus.</font>
+
+87
+00:15:18,283 --> 00:15:20,994
+<font color=#FFFF00>Esperamos que seja pela última vez.</font>
+
+88
+00:15:21,119 --> 00:15:22,912
+<font color=#FFFF00>Não há mais ninguém
+para lutar, Majestade.</font>
+
+89
+00:15:23,830 --> 00:15:26,207
+<font color=#FFFF00>Há sempre alguém para lutar.</font>
+
+90
+00:15:26,457 --> 00:15:29,419
+<font color=#FFFF00>Como posso recompensar o maior
+General de Roma?</font>
+
+91
+00:15:34,841 --> 00:15:36,467
+<font color=#FFFF00>Deixe-me ir para casa.</font>
+
+92
+00:15:37,594 --> 00:15:40,179
+<font color=#FFFF00>Para casa.</font>
+
+93
+00:15:58,823 --> 00:16:00,450
+<font color=#FFFF00>Eles honram-no, César.</font>
+
+94
+00:16:00,575 --> 00:16:03,745
+<font color=#FFFF00>É para você, Maximus.
+Eles honram-te.</font>
+
+95
+00:16:26,434 --> 00:16:29,020
+<font color=#FFFF00>Eu perdi? Perdi a batalha?</font>
+
+96
+00:16:30,813 --> 00:16:32,482
+<font color=#FFFF00>Você perdeu a guerra.</font>
+
+97
+00:16:32,607 --> 00:16:35,068
+<font color=#FFFF00>Pai, parabéns.</font>
+
+98
+00:16:35,360 --> 00:16:37,695
+<font color=#FFFF00>Sacrificarei 100 touros
+em sua honra.</font>
+
+99
+00:16:37,820 --> 00:16:41,574
+<font color=#FFFF00>Poupe-os. Homenageie Maximus.
+Ele ganhou a batalha.</font>
+
+100
+00:16:42,450 --> 00:16:44,660
+<font color=#FFFF00>- General.
+- Sua Alteza.</font>
+
+101
+00:16:45,828 --> 00:16:49,040
+<font color=#FFFF00>Roma saúda-te e eu lhe abraço
+como um irmão.</font>
+
+102
+00:16:49,582 --> 00:16:51,376
+<font color=#FFFF00>Faz muito tempo, meu amigo.</font>
+
+103
+00:16:51,501 --> 00:16:52,794
+<font color=#FFFF00>Sua Alteza.</font>
+
+104
+00:16:52,919 --> 00:16:55,880
+<font color=#FFFF00>Aqui, pai. Apoie-se no meu braço.</font>
+
+105
+00:16:57,090 --> 00:16:59,967
+<font color=#FFFF00>Acho que é a hora de eu partir.</font>
+
+106
+00:17:15,441 --> 00:17:18,194
+<font color=#FFFF00>Tudo isto pela glória de Roma.</font>
+
+107
+00:18:47,867 --> 00:18:49,660
+<font color=#FFFF00>Batalha magnífica, senhor.</font>
+
+108
+00:19:13,559 --> 00:19:16,312
+<font color=#FFFF00>- General, ainda está vivo?
+- Ainda estou vivo.</font>
+
+109
+00:19:16,437 --> 00:19:18,356
+<font color=#FFFF00>Os deuses devem ter
+senso de humor.</font>
+
+110
+00:19:18,397 --> 00:19:21,067
+<font color=#FFFF00>- Os deuses devem lhe amar.
+- Valerius.</font>
+
+111
+00:19:21,192 --> 00:19:23,694
+<font color=#FFFF00>De volta ao acampamento?
+Ou a Roma?</font>
+
+112
+00:19:23,819 --> 00:19:26,864
+<font color=#FFFF00>Para casa. Para minha mulher,
+meu filho, minha colheita.</font>
+
+113
+00:19:27,823 --> 00:19:31,077
+<font color=#FFFF00>Maximus, o fazendeiro.
+Não consigo imaginar isso.</font>
+
+114
+00:19:31,160 --> 00:19:34,205
+<font color=#FFFF00>O pó sai mais facilmente
+do que o sangue, Quintus.</font>
+
+115
+00:19:34,872 --> 00:19:36,290
+<font color=#FFFF00>Aqui está ele.</font>
+
+116
+00:19:37,124 --> 00:19:39,001
+<font color=#FFFF00>Senador Gaius, senador Falco.</font>
+
+117
+00:19:39,126 --> 00:19:42,505
+<font color=#FFFF00>Cuidado. Gaius lhe enche os
+ouvidos com tantos elogios...</font>
+
+118
+00:19:42,588 --> 00:19:46,050
+<font color=#FFFF00>...que acorda um dia dizendo:
+"República, República!"</font>
+
+119
+00:19:46,175 --> 00:19:48,677
+<font color=#FFFF00>Mas Roma foi fundada
+como uma República.</font>
+
+120
+00:19:48,761 --> 00:19:53,933
+<font color=#FFFF00>Numa República, o Senado tem poder.
+Isso não o influencia, claro.</font>
+
+121
+00:19:54,016 --> 00:19:56,644
+<font color=#FFFF00>De que lado fica, General?
+Imperador ou Senado?</font>
+
+122
+00:19:56,769 --> 00:20:02,024
+<font color=#FFFF00>Um soldado tem a vantagem de
+poder olhar o inimigo nos olhos.</font>
+
+123
+00:20:02,108 --> 00:20:06,112
+<font color=#FFFF00>Com um exército atrás, teria
+muito poder na política.</font>
+
+124
+00:20:06,237 --> 00:20:09,073
+<font color=#FFFF00>Eu lhe avisei.
+Vou lhe salvar. Senadores.</font>
+
+125
+00:20:18,958 --> 00:20:20,626
+<font color=#FFFF00>Maximus.</font>
+
+126
+00:20:21,669 --> 00:20:23,838
+<font color=#FFFF00>Precisarei de homens bons
+como você.</font>
+
+127
+00:20:26,173 --> 00:20:28,717
+<font color=#FFFF00>Como posso ser-lhe útil,
+Alteza?</font>
+
+128
+00:20:28,801 --> 00:20:33,055
+<font color=#FFFF00>Você sabe o que é comandar.
+Dar ordens...</font>
+
+129
+00:20:33,180 --> 00:20:36,475
+<font color=#FFFF00>...e as ordens são obedecidas.
+Mas estes senadores...</font>
+
+130
+00:20:36,559 --> 00:20:39,895
+<font color=#FFFF00>Eles conspiram, discutem,
+elogiam e enganam.</font>
+
+131
+00:20:40,563 --> 00:20:43,482
+<font color=#FFFF00>Temos que salvar Roma
+dos políticos.</font>
+
+132
+00:20:43,566 --> 00:20:45,359
+<font color=#FFFF00>Posso contar com você...</font>
+
+133
+00:20:45,484 --> 00:20:47,111
+<font color=#FFFF00>...quando chegar a hora?</font>
+
+134
+00:20:52,867 --> 00:20:55,494
+<font color=#FFFF00>Quando seu pai me libertar,
+irei para casa.</font>
+
+135
+00:20:55,578 --> 00:20:59,206
+<font color=#FFFF00>Casa? Ninguém merece
+mais do que você.</font>
+
+136
+00:21:00,457 --> 00:21:04,170
+<font color=#FFFF00>Mas não se acomode muito.
+Posso lhe chamar em breve.</font>
+
+137
+00:21:06,255 --> 00:21:08,841
+<font color=#FFFF00>Lucilla está aqui.
+Sabia?</font>
+
+138
+00:21:09,466 --> 00:21:11,260
+<font color=#FFFF00>Ela não lhe esqueceu.</font>
+
+139
+00:21:12,595 --> 00:21:14,638
+<font color=#FFFF00>E agora você é um grande homem.</font>
+
+140
+00:21:27,192 --> 00:21:29,737
+<font color=#FFFF00>Se ao menos tivesse
+nascido homem...</font>
+
+141
+00:21:30,779 --> 00:21:32,740
+<font color=#FFFF00>...teria dado um grande César!</font>
+
+142
+00:21:34,742 --> 00:21:36,368
+<font color=#FFFF00>Pai.</font>
+
+143
+00:21:42,082 --> 00:21:43,959
+<font color=#FFFF00>Teria sido forte.</font>
+
+144
+00:21:44,168 --> 00:21:47,254
+<font color=#FFFF00>Pergunto-me,
+teria sido justa?</font>
+
+145
+00:21:48,130 --> 00:21:49,924
+<font color=#FFFF00>Eu seria o que me ensinou a ser.</font>
+
+146
+00:21:52,801 --> 00:21:54,470
+<font color=#FFFF00>Como foi a sua viagem?</font>
+
+147
+00:21:54,553 --> 00:21:58,599
+<font color=#FFFF00>Longa. Desconfortável.
+Porque é que vim?</font>
+
+148
+00:21:58,766 --> 00:22:01,352
+<font color=#FFFF00>Preciso da sua ajuda
+com o seu irmão.</font>
+
+149
+00:22:01,518 --> 00:22:03,103
+<font color=#FFFF00>Claro.</font>
+
+150
+00:22:03,187 --> 00:22:05,564
+<font color=#FFFF00>Ele lhe ama. Sempre lhe amou.</font>
+
+151
+00:22:06,815 --> 00:22:08,275
+<font color=#FFFF00>E...</font>
+
+152
+00:22:09,860 --> 00:22:13,197
+<font color=#FFFF00>...precisará de você agora,
+mais do que nunca.</font>
+
+153
+00:22:18,160 --> 00:22:19,995
+<font color=#FFFF00>Chega de política.</font>
+
+154
+00:22:20,204 --> 00:22:23,624
+<font color=#FFFF00>Vamos fingir que você é
+uma filha adorável...</font>
+
+155
+00:22:23,707 --> 00:22:26,377
+<font color=#FFFF00>...e eu sou um bom pai.</font>
+
+156
+00:22:31,715 --> 00:22:34,218
+<font color=#FFFF00>É uma agradável ficção, não é?</font>
+
+157
+00:23:13,340 --> 00:23:14,299
+<font color=#FFFF00>Um...</font>
+
+158
+00:23:14,800 --> 00:23:16,677
+<font color=#FFFF00>...dois, três...</font>
+
+159
+00:23:17,386 --> 00:23:18,846
+<font color=#FFFF00>...quatro.</font>
+
+160
+00:23:18,929 --> 00:23:21,473
+<font color=#FFFF00>Um, dois.</font>
+
+161
+00:23:37,197 --> 00:23:39,032
+<font color=#FFFF00>Mandou-me chamar, César?</font>
+
+162
+00:23:43,370 --> 00:23:44,329
+<font color=#FFFF00>César?</font>
+
+163
+00:23:45,038 --> 00:23:46,999
+<font color=#FFFF00>Diga-me de novo, Maximus.</font>
+
+164
+00:23:47,916 --> 00:23:50,169
+<font color=#FFFF00>Porque estamos aqui?</font>
+
+165
+00:23:50,878 --> 00:23:52,671
+<font color=#FFFF00>Pela glória do Império, Majestade.</font>
+
+166
+00:23:54,047 --> 00:23:55,340
+<font color=#FFFF00>Sim.</font>
+
+167
+00:23:56,967 --> 00:23:59,261
+<font color=#FFFF00>Sim, eu lembro-me.</font>
+
+168
+00:24:02,014 --> 00:24:04,308
+<font color=#FFFF00>Vês este mapa, Maximus?</font>
+
+169
+00:24:05,142 --> 00:24:07,686
+<font color=#FFFF00>Este é o mundo que eu criei.</font>
+
+170
+00:24:08,562 --> 00:24:10,898
+<font color=#FFFF00>Durante 25 anos...</font>
+
+171
+00:24:10,981 --> 00:24:14,610
+<font color=#FFFF00>...conquistei, derramei sangue,
+expandi o Império.</font>
+
+172
+00:24:15,903 --> 00:24:19,698
+<font color=#FFFF00>Desde que me tornei César,
+conheci 4 anos sem guerra.</font>
+
+173
+00:24:19,823 --> 00:24:22,159
+<font color=#FFFF00>4 anos de paz em 20.</font>
+
+174
+00:24:22,242 --> 00:24:24,203
+<font color=#FFFF00>E para quê?</font>
+
+175
+00:24:31,668 --> 00:24:33,462
+<font color=#FFFF00>Eu trouxe a espada.</font>
+
+176
+00:24:33,962 --> 00:24:35,088
+<font color=#FFFF00>Nada mais.</font>
+
+177
+00:24:36,423 --> 00:24:37,883
+<font color=#FFFF00>César, a sua vida...</font>
+
+178
+00:24:37,966 --> 00:24:41,011
+<font color=#FFFF00>Por favor, não me chame assim.
+Venha aqui.</font>
+
+179
+00:24:42,429 --> 00:24:43,722
+<font color=#FFFF00>Por favor...</font>
+
+180
+00:24:43,972 --> 00:24:45,599
+<font color=#FFFF00>...sente-se.</font>
+
+181
+00:24:46,224 --> 00:24:49,353
+<font color=#FFFF00>Vamos conversar agora,
+de forma...</font>
+
+182
+00:24:49,770 --> 00:24:51,730
+<font color=#FFFF00>...bem simples, como homens.</font>
+
+183
+00:24:53,523 --> 00:24:55,025
+<font color=#FFFF00>Maximus...</font>
+
+184
+00:24:56,568 --> 00:24:58,195
+<font color=#FFFF00>...fale.</font>
+
+185
+00:25:00,948 --> 00:25:03,659
+<font color=#FFFF00>Tenho 5.000 homens naquela
+lama fria.</font>
+
+186
+00:25:03,992 --> 00:25:08,288
+<font color=#FFFF00>3.000 estão sangrando. 2.000 nunca
+sairão daqui. Não acredito...</font>
+
+187
+00:25:08,413 --> 00:25:10,457
+<font color=#FFFF00>...que lutaram e morreram por nada.</font>
+
+188
+00:25:10,582 --> 00:25:12,292
+<font color=#FFFF00>Em que acredita?</font>
+
+189
+00:25:12,417 --> 00:25:14,211
+<font color=#FFFF00>Eles lutaram por você!</font>
+
+190
+00:25:15,379 --> 00:25:18,090
+<font color=#FFFF00>- E por Roma.
+- E o que é Roma?</font>
+
+191
+00:25:20,342 --> 00:25:22,552
+<font color=#FFFF00>Vi muito deste mundo.</font>
+
+192
+00:25:22,678 --> 00:25:26,640
+<font color=#FFFF00>É brutal, cruel e obscuro.
+Roma é a luz.</font>
+
+193
+00:25:26,765 --> 00:25:31,019
+<font color=#FFFF00>Você nunca esteve lá. Não viu
+o que ela se tornou.</font>
+
+194
+00:25:31,603 --> 00:25:34,398
+<font color=#FFFF00>Estou morrendo, Maximus.</font>
+
+195
+00:25:35,232 --> 00:25:40,028
+<font color=#FFFF00>Quando um homem vê o fim,
+quer saber a razão da sua vida.</font>
+
+196
+00:25:40,612 --> 00:25:43,699
+<font color=#FFFF00>Como é que o mundo dirá o meu
+nome nos anos vindouros?</font>
+
+197
+00:25:43,907 --> 00:25:47,411
+<font color=#FFFF00>Serei conhecido como o filósofo?
+O guerreiro?</font>
+
+198
+00:25:47,994 --> 00:25:49,705
+<font color=#FFFF00>O tirano?</font>
+
+199
+00:25:50,997 --> 00:25:55,502
+<font color=#FFFF00>Ou serei o Imperador que devolveu
+Roma ao que era?</font>
+
+200
+00:25:56,753 --> 00:25:58,714
+<font color=#FFFF00>Roma já foi um sonho.</font>
+
+201
+00:25:58,797 --> 00:26:01,550
+<font color=#FFFF00>Podíamos apenas...</font>
+
+202
+00:26:01,925 --> 00:26:04,970
+<font color=#FFFF00>...sussurrá-lo. Qualquer coisa
+a mais, ele desapareceria.</font>
+
+203
+00:26:05,095 --> 00:26:07,180
+<font color=#FFFF00>Era muito frágil.</font>
+
+204
+00:26:07,264 --> 00:26:10,934
+<font color=#FFFF00>E temo que Roma
+não sobreviverá ao Inverno.</font>
+
+205
+00:26:12,477 --> 00:26:13,937
+<font color=#FFFF00>Maximus...</font>
+
+206
+00:26:14,896 --> 00:26:17,774
+<font color=#FFFF00>...vamos sussurrar agora...</font>
+
+207
+00:26:17,899 --> 00:26:19,734
+<font color=#FFFF00>...juntos, você e eu.</font>
+
+208
+00:26:20,318 --> 00:26:21,987
+<font color=#FFFF00>Você tem um filho.</font>
+
+209
+00:26:23,071 --> 00:26:24,698
+<font color=#FFFF00>Fale-me de sua casa.</font>
+
+210
+00:26:31,663 --> 00:26:34,541
+<font color=#FFFF00>A minha casa fica nas montanhas
+de Tiujillo.</font>
+
+211
+00:26:35,834 --> 00:26:37,419
+<font color=#FFFF00>Um lugar simples.</font>
+
+212
+00:26:38,128 --> 00:26:40,422
+<font color=#FFFF00>Pedras rosadas que aquecem
+ao sol.</font>
+
+213
+00:26:41,047 --> 00:26:46,553
+<font color=#FFFF00>Um quintal com cheiro de ervas
+de dia e de jasmim, à noite.</font>
+
+214
+00:26:48,763 --> 00:26:51,141
+<font color=#FFFF00>No portão há um choupo gigante.</font>
+
+215
+00:26:51,766 --> 00:26:54,519
+<font color=#FFFF00>Figueiras, macieiras, pereiras.</font>
+
+216
+00:26:54,644 --> 00:26:58,106
+<font color=#FFFF00>O solo, Marcus, é negro. Negro como
+o cabelo da minha mulher.</font>
+
+217
+00:26:59,566 --> 00:27:01,735
+<font color=#FFFF00>Uvas na encosta sul e
+azeitonas no norte.</font>
+
+218
+00:27:01,860 --> 00:27:03,403
+<font color=#FFFF00>Pôneis selvagens brincam
+perto da minha casa.</font>
+
+219
+00:27:03,403 --> 00:27:05,697
+<font color=#FFFF00>Eles fascinam o meu filho.
+Ele quer ser um deles.</font>
+
+220
+00:27:05,822 --> 00:27:07,407
+<font color=#FFFF00>Quando esteve em casa
+pela última vez?</font>
+
+221
+00:27:07,532 --> 00:27:10,869
+<font color=#FFFF00>Há 2 anos, 264 dias e mais
+esta manhã.</font>
+
+222
+00:27:12,537 --> 00:27:15,832
+<font color=#FFFF00>Invejo-lhe, Maximus.
+É uma boa casa.</font>
+
+223
+00:27:17,042 --> 00:27:18,501
+<font color=#FFFF00>Vale a pena lutar por ela.</font>
+
+224
+00:27:22,047 --> 00:27:24,007
+<font color=#FFFF00>Há mais uma tarefa...</font>
+
+225
+00:27:24,674 --> 00:27:27,302
+<font color=#FFFF00>...que lhe peço antes de
+voltar para casa.</font>
+
+226
+00:27:29,346 --> 00:27:31,139
+<font color=#FFFF00>O que deseja que eu faça, César?</font>
+
+227
+00:27:31,556 --> 00:27:35,060
+<font color=#FFFF00>Que se torne o protetor de Roma
+depois que eu morrer.</font>
+
+228
+00:27:36,394 --> 00:27:39,397
+<font color=#FFFF00>Eu vou dar-lhe poderes
+somente para um fim.</font>
+
+229
+00:27:39,856 --> 00:27:43,735
+<font color=#FFFF00>Devolver o poder ao povo
+de Roma...</font>
+
+230
+00:27:43,818 --> 00:27:47,030
+<font color=#FFFF00>...e acabar com a corrupção
+que o tolheu.</font>
+
+231
+00:27:53,244 --> 00:27:56,456
+<font color=#FFFF00>Aceita esta grande honra
+que lhe ofereci?</font>
+
+232
+00:27:58,291 --> 00:28:00,502
+<font color=#FFFF00>De todo o meu coração, não.</font>
+
+233
+00:28:02,587 --> 00:28:04,047
+<font color=#FFFF00>Maximus...</font>
+
+234
+00:28:04,923 --> 00:28:07,926
+<font color=#FFFF00>...é por isso que tem que ser você.</font>
+
+235
+00:28:08,009 --> 00:28:12,722
+<font color=#FFFF00>É melhor um prefeito ou um senador
+que conheça Roma e a sua política.</font>
+
+236
+00:28:12,806 --> 00:28:15,809
+<font color=#FFFF00>Mas você não foi corrompido
+pela sua política.</font>
+
+237
+00:28:20,855 --> 00:28:21,815
+<font color=#FFFF00>E Commodus?</font>
+
+238
+00:28:22,232 --> 00:28:24,818
+<font color=#FFFF00>Commodus não é um homem de moral.</font>
+
+239
+00:28:25,318 --> 00:28:27,404
+<font color=#FFFF00>Sabe disso desde que era jovem.</font>
+
+240
+00:28:28,154 --> 00:28:30,115
+<font color=#FFFF00>Commodus não pode governar.</font>
+
+241
+00:28:30,198 --> 00:28:32,951
+<font color=#FFFF00>Ele não deve governar.</font>
+
+242
+00:28:34,119 --> 00:28:37,455
+<font color=#FFFF00>Você é o filho que eu deveria
+ter tido.</font>
+
+243
+00:28:39,457 --> 00:28:42,919
+<font color=#FFFF00>Commodus aceitará a minha decisão.</font>
+
+244
+00:28:44,629 --> 00:28:49,259
+<font color=#FFFF00>Ele sabe que você comanda
+a lealdade do exército.</font>
+
+245
+00:28:54,347 --> 00:28:55,974
+<font color=#FFFF00>Preciso de um tempo, Majestade.</font>
+
+246
+00:28:56,057 --> 00:28:58,852
+<font color=#FFFF00>Sim. Ao entardecer...</font>
+
+247
+00:28:59,227 --> 00:29:01,438
+<font color=#FFFF00>...espero que tenha aceitado.</font>
+
+248
+00:29:02,147 --> 00:29:04,566
+<font color=#FFFF00>Agora, abrace-me como meu filho.</font>
+
+249
+00:29:07,944 --> 00:29:10,822
+<font color=#FFFF00>E traga para este velho
+outro cobertor.</font>
+
+250
+00:29:26,713 --> 00:29:28,673
+<font color=#FFFF00>- O meu pai agora lhe favorece.
+- Senhora.</font>
+
+251
+00:29:29,632 --> 00:29:31,050
+<font color=#FFFF00>Nem sempre foi assim.</font>
+
+252
+00:29:31,676 --> 00:29:34,429
+<font color=#FFFF00>- Muitas coisas mudam.
+- Muitas.</font>
+
+253
+00:29:34,929 --> 00:29:36,264
+<font color=#FFFF00>Mas não tudo.</font>
+
+254
+00:29:39,184 --> 00:29:40,977
+<font color=#FFFF00>Maximus, pare.</font>
+
+255
+00:29:44,397 --> 00:29:46,483
+<font color=#FFFF00>Deixa-me ver o seu rosto.</font>
+
+256
+00:29:48,943 --> 00:29:51,362
+<font color=#FFFF00>- Parece preocupado.
+- Perdi muitos homens.</font>
+
+257
+00:29:52,363 --> 00:29:53,990
+<font color=#FFFF00>O que é que o meu pai queria?</font>
+
+258
+00:29:55,909 --> 00:29:58,495
+<font color=#FFFF00>Desejar-me sorte antes
+de eu partir.</font>
+
+259
+00:29:59,412 --> 00:30:00,997
+<font color=#FFFF00>Está mentindo.</font>
+
+260
+00:30:01,122 --> 00:30:04,042
+<font color=#FFFF00>Soube sempre quando está
+mentindo porque nunca foi bom nisso.</font>
+
+261
+00:30:04,542 --> 00:30:06,503
+<font color=#FFFF00>Nunca obtive o seu conforto com mentiras.</font>
+
+262
+00:30:06,628 --> 00:30:09,214
+<font color=#FFFF00>É verdade. Mas nunca precisou.</font>
+
+263
+00:30:09,923 --> 00:30:12,258
+<font color=#FFFF00>A vida é mais simples
+para um soldado.</font>
+
+264
+00:30:14,552 --> 00:30:16,596
+<font color=#FFFF00>Ou você acha que sou fria?</font>
+
+265
+00:30:17,805 --> 00:30:20,266
+<font color=#FFFF00>Acho que tem talento
+para sobreviver.</font>
+
+266
+00:30:26,481 --> 00:30:28,316
+<font color=#FFFF00>Maximus, pare.</font>
+
+267
+00:30:30,401 --> 00:30:32,445
+<font color=#FFFF00>Reencontrar-me é assim
+tão terrível?</font>
+
+268
+00:30:33,321 --> 00:30:35,823
+<font color=#FFFF00>Não. Estou cansado da batalha.</font>
+
+269
+00:30:36,407 --> 00:30:39,118
+<font color=#FFFF00>Você sofre ao ver o meu pai
+tão frágil.</font>
+
+270
+00:30:42,372 --> 00:30:45,917
+<font color=#FFFF00>Commodus acha que o meu pai anunciará
+a sua sucessão dentro de dias.</font>
+
+271
+00:30:47,919 --> 00:30:50,797
+<font color=#FFFF00>Servirá o meu irmão como serviu
+o pai dele?</font>
+
+272
+00:30:53,466 --> 00:30:55,593
+<font color=#FFFF00>Sempre servirei Roma.</font>
+
+273
+00:30:57,553 --> 00:30:59,347
+<font color=#FFFF00>Sabe que...</font>
+
+274
+00:30:59,430 --> 00:31:01,891
+<font color=#FFFF00>...ainda lembro de você
+nas minhas orações?</font>
+
+275
+00:31:02,850 --> 00:31:04,477
+<font color=#FFFF00>Sim.</font>
+
+276
+00:31:04,602 --> 00:31:06,813
+<font color=#FFFF00>Eu rezo.</font>
+
+277
+00:31:10,483 --> 00:31:13,319
+<font color=#FFFF00>Fiquei triste ao saber da morte
+do seu marido.</font>
+
+278
+00:31:15,530 --> 00:31:17,031
+<font color=#FFFF00>Obrigada.</font>
+
+279
+00:31:17,115 --> 00:31:19,242
+<font color=#FFFF00>Soube que tem um filho.</font>
+
+280
+00:31:20,118 --> 00:31:22,870
+<font color=#FFFF00>Sim, Lucius.</font>
+
+281
+00:31:24,205 --> 00:31:25,873
+<font color=#FFFF00>Tem quase 8 anos.</font>
+
+282
+00:31:25,957 --> 00:31:28,334
+<font color=#FFFF00>O meu também tem quase 8.</font>
+
+283
+00:31:31,212 --> 00:31:33,256
+<font color=#FFFF00>Obrigado pelas orações.</font>
+
+284
+00:31:41,264 --> 00:31:43,808
+<font color=#FFFF00>Ancestrais, peço a
+vossa orientação.</font>
+
+285
+00:31:45,143 --> 00:31:48,479
+<font color=#FFFF00>Mãe abençoada, mostre-me o desejo
+dos deuses para o meu futuro.</font>
+
+286
+00:31:50,273 --> 00:31:53,484
+<font color=#FFFF00>Pai abençoado, proteja o meu lar
+com uma espada em prontidão.</font>
+
+287
+00:31:55,319 --> 00:31:57,739
+<font color=#FFFF00>Diga-lhes que só vivo
+para poder abraçá-los.</font>
+
+288
+00:31:59,198 --> 00:32:01,117
+<font color=#FFFF00>Ancestrais, eu vos reverencio...</font>
+
+289
+00:32:02,618 --> 00:32:05,580
+<font color=#FFFF00>...e tentarei viver com a
+dignidade que me ensinaram.</font>
+
+290
+00:32:28,728 --> 00:32:29,854
+<font color=#FFFF00>Cícero.</font>
+
+291
+00:32:40,072 --> 00:32:42,033
+<font color=#FFFF00>Às vezes não acha difícil
+cumprir o seu dever?</font>
+
+292
+00:32:45,411 --> 00:32:48,247
+<font color=#FFFF00>Às vezes faço o que quero fazer.</font>
+
+293
+00:32:48,790 --> 00:32:51,501
+<font color=#FFFF00>O resto do tempo, faço o que
+tenho que fazer.</font>
+
+294
+00:32:54,462 --> 00:32:57,048
+<font color=#FFFF00>Talvez não voltemos para casa.</font>
+
+295
+00:33:48,307 --> 00:33:51,060
+<font color=#FFFF00>Está pronto para prestar
+o seu dever para com Roma?</font>
+
+296
+00:33:54,146 --> 00:33:55,273
+<font color=#FFFF00>Sim, pai.</font>
+
+297
+00:33:56,774 --> 00:33:58,567
+<font color=#FFFF00>Você não será Imperador.</font>
+
+298
+00:34:02,196 --> 00:34:04,323
+<font color=#FFFF00>Que homem mais sábio e
+mais velho tomará o meu lugar?</font>
+
+299
+00:34:04,448 --> 00:34:07,743
+<font color=#FFFF00>Os meus poderes passarão
+para Maximus...</font>
+
+300
+00:34:08,411 --> 00:34:10,746
+<font color=#FFFF00>...que responderá por eles
+até que o Senado...</font>
+
+301
+00:34:10,830 --> 00:34:14,709
+<font color=#FFFF00>...esteja pronto para governar
+de novo.</font>
+
+302
+00:34:15,459 --> 00:34:19,547
+<font color=#FFFF00>Roma será novamente uma República.</font>
+
+303
+00:34:20,840 --> 00:34:22,341
+<font color=#FFFF00>Maximus.</font>
+
+304
+00:34:29,557 --> 00:34:31,517
+<font color=#FFFF00>A minha decisão lhe desaponta.</font>
+
+305
+00:34:35,396 --> 00:34:37,356
+<font color=#FFFF00>Uma vez escreveu-me...</font>
+
+306
+00:34:39,275 --> 00:34:41,902
+<font color=#FFFF00>...uma lista das 4
+virtudes principais.</font>
+
+307
+00:34:42,862 --> 00:34:44,113
+<font color=#FFFF00>Sabedoria...</font>
+
+308
+00:34:44,989 --> 00:34:46,407
+<font color=#FFFF00>...Justiça...</font>
+
+309
+00:34:46,532 --> 00:34:48,034
+<font color=#FFFF00>...Fortaleza...</font>
+
+310
+00:34:48,325 --> 00:34:49,910
+<font color=#FFFF00>...e Temperança.</font>
+
+311
+00:34:52,288 --> 00:34:55,207
+<font color=#FFFF00>Ao ler, sabia que não tinha
+nenhuma delas.</font>
+
+312
+00:34:56,333 --> 00:34:58,711
+<font color=#FFFF00>Mas tenho outras virtudes, pai.</font>
+
+313
+00:34:59,754 --> 00:35:01,547
+<font color=#FFFF00>Ambição.</font>
+
+314
+00:35:02,715 --> 00:35:05,593
+<font color=#FFFF00>Pode ser uma virtude quando
+nos motiva a vencer.</font>
+
+315
+00:35:06,969 --> 00:35:08,804
+<font color=#FFFF00>Recursos.</font>
+
+316
+00:35:09,180 --> 00:35:10,306
+<font color=#FFFF00>Coragem.</font>
+
+317
+00:35:11,182 --> 00:35:15,895
+<font color=#FFFF00>Talvez não em batalha, mas há
+muitas formas de coragem.</font>
+
+318
+00:35:17,021 --> 00:35:18,814
+<font color=#FFFF00>Devoção.</font>
+
+319
+00:35:18,898 --> 00:35:20,274
+<font color=#FFFF00>À minha família.</font>
+
+320
+00:35:21,400 --> 00:35:22,860
+<font color=#FFFF00>A você.</font>
+
+321
+00:35:24,236 --> 00:35:27,156
+<font color=#FFFF00>Mas nenhuma das minhas virtudes
+está na sua lista.</font>
+
+322
+00:35:29,325 --> 00:35:32,036
+<font color=#FFFF00>Era como se não me quisesse
+como filho.</font>
+
+323
+00:35:32,077 --> 00:35:33,996
+<font color=#FFFF00>Commodus...</font>
+
+324
+00:35:35,122 --> 00:35:36,916
+<font color=#FFFF00>...está indo longe demais.</font>
+
+325
+00:35:37,541 --> 00:35:40,544
+<font color=#FFFF00>Não me canso de perguntar
+aos deuses...</font>
+
+326
+00:35:41,170 --> 00:35:43,631
+<font color=#FFFF00>...como lhe agradar...</font>
+
+327
+00:35:44,089 --> 00:35:45,883
+<font color=#FFFF00>...como o deixar orgulhoso.</font>
+
+328
+00:35:46,383 --> 00:35:48,344
+<font color=#FFFF00>Uma palavra gentil...</font>
+
+329
+00:35:49,178 --> 00:35:53,766
+<font color=#FFFF00>...um abraço em que me apertasse
+contra o peito e me segurasse...</font>
+
+330
+00:35:55,810 --> 00:35:58,646
+<font color=#FFFF00>...seria como o sol brilhando em
+meu coração por 1.000 anos.</font>
+
+331
+00:36:01,982 --> 00:36:05,069
+<font color=#FFFF00>O que há em mim que odeia tanto?</font>
+
+332
+00:36:05,152 --> 00:36:06,612
+<font color=#FFFF00>Commodus.</font>
+
+333
+00:36:06,862 --> 00:36:08,823
+<font color=#FFFF00>Tudo o que sempre quis foi...</font>
+
+334
+00:36:09,281 --> 00:36:11,242
+<font color=#FFFF00>...preencher as suas expectativas...</font>
+
+335
+00:36:12,618 --> 00:36:13,744
+<font color=#FFFF00>...César.</font>
+
+336
+00:36:14,870 --> 00:36:16,330
+<font color=#FFFF00>Pai.</font>
+
+337
+00:36:16,413 --> 00:36:17,915
+<font color=#FFFF00>Commodus...</font>
+
+338
+00:36:21,835 --> 00:36:24,255
+<font color=#FFFF00>...as suas falhas como filho...</font>
+
+339
+00:36:24,922 --> 00:36:28,509
+<font color=#FFFF00>...são as minhas falhas como pai.</font>
+
+340
+00:36:39,270 --> 00:36:40,688
+<font color=#FFFF00>Ande.</font>
+
+341
+00:36:44,149 --> 00:36:45,776
+<font color=#FFFF00>Pai.</font>
+
+342
+00:37:00,874 --> 00:37:03,294
+<font color=#FFFF00>Assassinaria o mundo inteiro...</font>
+
+343
+00:37:04,128 --> 00:37:06,839
+<font color=#FFFF00>...pelo seu amor...</font>
+
+344
+00:37:44,084 --> 00:37:46,712
+<font color=#FFFF00>Maximus, o Imperador precisa de você.
+É urgente.</font>
+
+345
+00:37:52,718 --> 00:37:54,678
+<font color=#FFFF00>Chore comigo, irmão.</font>
+
+346
+00:37:55,554 --> 00:37:56,972
+<font color=#FFFF00>O nosso grande pai morreu.</font>
+
+347
+00:38:24,333 --> 00:38:25,959
+<font color=#FFFF00>Como é que ele morreu?</font>
+
+348
+00:38:27,336 --> 00:38:32,049
+<font color=#FFFF00>Os cirurgiões dizem que não houve dor.
+Parou de respirar durante o sono.</font>
+
+349
+00:38:41,850 --> 00:38:43,185
+<font color=#FFFF00>Pai.</font>
+
+350
+00:38:45,729 --> 00:38:48,148
+<font color=#FFFF00>O seu Imperador pede a sua lealdade.</font>
+
+351
+00:38:49,817 --> 00:38:51,860
+<font color=#FFFF00>Segure a minha mão.</font>
+
+352
+00:38:54,154 --> 00:38:55,906
+<font color=#FFFF00>Só a ofereço uma vez.</font>
+
+353
+00:39:10,170 --> 00:39:11,630
+<font color=#FFFF00>Quintus.</font>
+
+354
+00:40:01,680 --> 00:40:03,515
+<font color=#FFFF00>Avé César.</font>
+
+355
+00:40:04,057 --> 00:40:08,687
+<font color=#FFFF00>Preciso do conselho dos Senadores.
+Acorde Gaius e Falco.</font>
+
+356
+00:40:09,479 --> 00:40:10,772
+<font color=#FFFF00>Espada.</font>
+
+357
+00:40:14,401 --> 00:40:17,029
+<font color=#FFFF00>Maximus, cuidado.
+Aquilo não foi prudente.</font>
+
+358
+00:40:17,154 --> 00:40:20,157
+<font color=#FFFF00>Prudente? O Imperador
+foi assassinado.</font>
+
+359
+00:40:20,240 --> 00:40:23,243
+<font color=#FFFF00>O Imperador morreu
+de causas naturais.</font>
+
+360
+00:40:24,828 --> 00:40:26,580
+<font color=#FFFF00>- Porque está armado?
+- Guardas.</font>
+
+361
+00:40:30,083 --> 00:40:32,252
+<font color=#FFFF00>Por favor, não lute.</font>
+
+362
+00:40:34,254 --> 00:40:36,340
+<font color=#FFFF00>Desculpe. O César ordenou.</font>
+
+363
+00:40:36,923 --> 00:40:38,675
+<font color=#FFFF00>Cavalguem até ao amanhecer...</font>
+
+364
+00:40:40,010 --> 00:40:42,846
+<font color=#FFFF00>- ...e executem-no.
+- Quintus, olhe para mim!</font>
+
+365
+00:40:42,971 --> 00:40:46,641
+<font color=#FFFF00>Prometa que cuidará
+da minha família.</font>
+
+366
+00:40:48,393 --> 00:40:50,395
+<font color=#FFFF00>Eles irão juntar-se a você em outra vida.</font>
+
+367
+00:41:15,837 --> 00:41:17,339
+<font color=#FFFF00>Ajoelhe-se.</font>
+
+368
+00:41:20,717 --> 00:41:23,303
+<font color=#FFFF00>Pai abençoado, proteja a
+minha mulher e o meu filho.</font>
+
+369
+00:41:23,428 --> 00:41:25,555
+<font color=#FFFF00>Diga-lhes que só vivo
+para poder abraçá-los.</font>
+
+370
+00:41:28,767 --> 00:41:30,727
+<font color=#FFFF00>Ao menos dê-me uma morte rápida.</font>
+
+371
+00:41:32,729 --> 00:41:34,231
+<font color=#FFFF00>Uma morte de soldado.</font>
+
+372
+00:41:55,836 --> 00:41:59,005
+<font color=#FFFF00>Ás vezes, o frio prende a lâmina.</font>
+
+373
+00:42:19,526 --> 00:42:20,527
+<font color=#FFFF00>Pretoriano!</font>
+
+374
+00:43:41,107 --> 00:43:42,901
+<font color=#FFFF00>Quando esteve em casa
+pela última vez?</font>
+
+375
+00:43:43,026 --> 00:43:45,904
+<font color=#FFFF00>Há 2 anos, 264 dias e mais
+esta manhã.</font>
+
+376
+00:43:47,697 --> 00:43:50,867
+<font color=#FFFF00>Pai, proteja a minha mulher e o meu
+filho com uma espada em prontidão.</font>
+
+377
+00:43:52,077 --> 00:43:55,372
+<font color=#FFFF00>Diga-lhes que só vivo
+para poder abraçá-los.</font>
+
+378
+00:43:55,455 --> 00:43:57,248
+<font color=#FFFF00>O resto é pó e ar.</font>
+
+379
+00:43:57,332 --> 00:44:01,878
+<font color=#FFFF00>Diga-lhes que só vivo para poder
+abraçá-los. O resto é pó e ar.</font>
+
+380
+00:45:02,730 --> 00:45:04,315
+<font color=#FFFF00>Papai! Papai!</font>
+
+381
+00:47:48,771 --> 00:47:50,398
+<font color=#FFFF00>Não morra.</font>
+
+382
+00:47:56,696 --> 00:47:57,697
+<font color=#FFFF00>Irá encontrá-los de novo.</font>
+
+383
+00:48:00,658 --> 00:48:01,909
+<font color=#FFFF00>Ainda não.</font>
+
+384
+00:48:10,251 --> 00:48:13,796
+<font color=#FFFF00>Não. Eles vão limpar.
+Espere e veja.</font>
+
+385
+00:48:48,206 --> 00:48:49,832
+<font color=#FFFF00>Não morra.</font>
+
+386
+00:48:50,625 --> 00:48:54,712
+<font color=#FFFF00>Vão lhe jogar aos leões.
+Eles valem mais do que nós.</font>
+
+387
+00:49:05,389 --> 00:49:07,016
+<font color=#FFFF00>Está melhor?</font>
+
+388
+00:49:07,850 --> 00:49:09,477
+<font color=#FFFF00>Está limpa. Vê?</font>
+
+389
+00:49:20,071 --> 00:49:23,491
+<font color=#FFFF00>ZUCCHABAR
+PROVÍNCIA ROMANA</font>
+
+390
+00:49:40,591 --> 00:49:43,719
+<font color=#FFFF00>Proximo! Meu velho amigo!</font>
+
+391
+00:49:44,887 --> 00:49:47,765
+<font color=#FFFF00>É sempre um grande dia
+quando está aqui.</font>
+
+392
+00:49:48,224 --> 00:49:49,225
+<font color=#FFFF00>Mas hoje...</font>
+
+393
+00:49:49,934 --> 00:49:52,561
+<font color=#FFFF00>...é o seu maior dia de sorte.</font>
+
+394
+00:49:55,272 --> 00:49:58,984
+<font color=#FFFF00>Aquelas girafas que me vendeu
+não querem acasalar.</font>
+
+395
+00:49:59,485 --> 00:50:03,572
+<font color=#FFFF00>Elas andam de um lado para o
+outro e não acasalam.</font>
+
+396
+00:50:04,532 --> 00:50:07,743
+<font color=#FFFF00>Me vendeu girafas afeminadas.</font>
+
+397
+00:50:07,827 --> 00:50:09,704
+<font color=#FFFF00>Devolva-me o meu dinheiro.</font>
+
+398
+00:50:10,287 --> 00:50:11,789
+<font color=#FFFF00>Não há chance.</font>
+
+399
+00:50:14,834 --> 00:50:17,503
+<font color=#FFFF00>- Faço-lhe um preço especial.
+- Em quê?</font>
+
+400
+00:50:19,672 --> 00:50:22,591
+<font color=#FFFF00>Já viu minhas mercadorias?
+Venha vê-los.</font>
+
+401
+00:50:36,689 --> 00:50:39,275
+<font color=#FFFF00>Podem lutar? Tenho uma luta
+em breve.</font>
+
+402
+00:50:39,400 --> 00:50:44,113
+<font color=#FFFF00>Alguns são para lutar, outros
+para morrer. Precisa de ambos.</font>
+
+403
+00:50:44,155 --> 00:50:45,072
+<font color=#FFFF00>Levante-se.</font>
+
+404
+00:50:53,914 --> 00:50:55,583
+<font color=#FFFF00>O que sabe fazer?</font>
+
+405
+00:50:56,083 --> 00:50:57,418
+<font color=#FFFF00>Eu era caçador.</font>
+
+406
+00:50:57,501 --> 00:51:01,380
+<font color=#FFFF00>Não, comprei-o numa mina de sal
+em Cartago.</font>
+
+407
+00:51:01,755 --> 00:51:02,715
+<font color=#FFFF00>Sente-se.</font>
+
+408
+00:51:07,803 --> 00:51:09,722
+<font color=#FFFF00>Marca da legião.</font>
+
+409
+00:51:09,805 --> 00:51:11,098
+<font color=#FFFF00>Desertor.</font>
+
+410
+00:51:14,477 --> 00:51:17,104
+<font color=#FFFF00>- Levarei 6 por 1.000.
+- Mil?</font>
+
+411
+00:51:17,354 --> 00:51:19,356
+<font color=#FFFF00>Só o núbio vale 2.000.</font>
+
+412
+00:51:20,232 --> 00:51:22,151
+<font color=#FFFF00>Estes escravos estão podres.</font>
+
+413
+00:51:22,234 --> 00:51:23,861
+<font color=#FFFF00>Dá mais sabor.</font>
+
+414
+00:51:23,986 --> 00:51:27,239
+<font color=#FFFF00>Não, espere, espere!
+Podemos negociar.</font>
+
+415
+00:51:28,616 --> 00:51:30,409
+<font color=#FFFF00>Dou-lhe 2.000...</font>
+
+416
+00:51:30,868 --> 00:51:32,870
+<font color=#FFFF00>...e 4.000 pelos animais.</font>
+
+417
+00:51:32,995 --> 00:51:35,456
+<font color=#FFFF00>Fica por 5.000 para
+um velho amigo.</font>
+
+418
+00:51:52,765 --> 00:51:55,184
+<font color=#FFFF00>Quanto tempo é preciso
+para chegar a minha casa?</font>
+
+419
+00:51:56,227 --> 00:51:58,062
+<font color=#FFFF00>Eu sou Proximo.</font>
+
+420
+00:51:58,812 --> 00:52:03,525
+<font color=#FFFF00>Estarei mais perto de vocês estes
+dias, os últimos de vossas vidas...</font>
+
+421
+00:52:03,651 --> 00:52:07,238
+<font color=#FFFF00>...do que as cabras das vossas mães
+que os trouxeram ao mundo.</font>
+
+422
+00:52:08,447 --> 00:52:11,325
+<font color=#FFFF00>Não paguei tanto dinheiro
+pela vossa companhia.</font>
+
+423
+00:52:12,868 --> 00:52:15,621
+<font color=#FFFF00>Paguei porque podia lucrar
+com as vossas mortes.</font>
+
+424
+00:52:16,747 --> 00:52:20,417
+<font color=#FFFF00>E da mesma forma que as vossas
+mães estavam lá no início...</font>
+
+425
+00:52:21,627 --> 00:52:24,338
+<font color=#FFFF00>...eu estarei lá no vosso fim.</font>
+
+426
+00:52:25,589 --> 00:52:28,509
+<font color=#FFFF00>E quando morrerem,
+e irão morrer...</font>
+
+427
+00:52:29,677 --> 00:52:32,596
+<font color=#FFFF00>...a vossa transição será ao som de...</font>
+
+428
+00:52:37,267 --> 00:52:40,980
+<font color=#FFFF00>Gladiadores, eu vos saúdo.</font>
+
+429
+00:52:46,110 --> 00:52:47,403
+<font color=#FFFF00>Vermelho.</font>
+
+430
+00:52:50,823 --> 00:52:52,074
+<font color=#FFFF00>Amarelo.</font>
+
+431
+00:52:53,367 --> 00:52:54,868
+<font color=#FFFF00>Amarelo.</font>
+
+432
+00:53:05,004 --> 00:53:05,963
+<font color=#FFFF00>Bom.</font>
+
+433
+00:53:07,256 --> 00:53:08,382
+<font color=#FFFF00>Vermelho.</font>
+
+434
+00:53:13,470 --> 00:53:15,013
+<font color=#FFFF00>Espanhol.</font>
+
+435
+00:53:48,213 --> 00:53:50,299
+<font color=#FFFF00>É o suficiente por agora.</font>
+
+436
+00:53:50,758 --> 00:53:52,259
+<font color=#FFFF00>A sua hora chegará.</font>
+
+437
+00:53:55,596 --> 00:53:56,555
+<font color=#FFFF00>O seguinte.</font>
+
+438
+00:54:09,818 --> 00:54:11,069
+<font color=#FFFF00>Espanhol...</font>
+
+439
+00:54:12,029 --> 00:54:14,114
+<font color=#FFFF00>...porque não luta?</font>
+
+440
+00:54:14,198 --> 00:54:15,782
+<font color=#FFFF00>Todos temos que lutar.</font>
+
+441
+00:54:16,492 --> 00:54:17,493
+<font color=#FFFF00>Mas eu não luto.</font>
+
+442
+00:54:19,077 --> 00:54:21,330
+<font color=#FFFF00>Eu não devia estar aqui, eu sou
+escrivão, escrevo palavras.</font>
+
+443
+00:54:22,498 --> 00:54:23,749
+<font color=#FFFF00>Falo sete línguas.</font>
+
+444
+00:54:24,166 --> 00:54:25,209
+<font color=#FFFF00>Ainda bem.</font>
+
+445
+00:54:26,001 --> 00:54:29,046
+<font color=#FFFF00>Amanhã poderá gritar em sete línguas.</font>
+
+446
+00:54:37,387 --> 00:54:40,891
+<font color=#FFFF00>Talvez você seja aquele que
+vai ganhar a liberdade.</font>
+
+447
+00:54:41,808 --> 00:54:42,935
+<font color=#FFFF00>Liberdade?</font>
+
+448
+00:54:43,769 --> 00:54:45,354
+<font color=#FFFF00>O que é que eu tenho que fazer?</font>
+
+449
+00:54:46,271 --> 00:54:48,273
+<font color=#FFFF00>Vai para a arena e mate-me...</font>
+
+450
+00:54:49,024 --> 00:54:49,900
+<font color=#FFFF00>... e a ele...</font>
+
+451
+00:54:51,151 --> 00:54:52,402
+<font color=#FFFF00>... e o Núbio...</font>
+
+452
+00:54:52,903 --> 00:54:54,196
+<font color=#FFFF00>... e o desertor.</font>
+
+453
+00:54:55,781 --> 00:54:57,449
+<font color=#FFFF00>E mais 100!</font>
+
+454
+00:54:57,532 --> 00:54:58,909
+<font color=#FFFF00>E quando não houver
+mais ninguém para lutar.</font>
+
+455
+00:54:59,576 --> 00:55:00,994
+<font color=#FFFF00>Você será livre.</font>
+
+456
+00:55:01,203 --> 00:55:03,247
+<font color=#FFFF00>Eu não consigo fazer isso.</font>
+
+457
+00:55:03,956 --> 00:55:04,915
+<font color=#FFFF00>Não?</font>
+
+458
+00:55:11,421 --> 00:55:12,881
+<font color=#FFFF00>Mas eu consigo.</font>
+
+459
+00:55:28,230 --> 00:55:30,232
+<font color=#FFFF00>Isso é a marca dos seus deuses?</font>
+
+460
+00:55:35,404 --> 00:55:37,197
+<font color=#FFFF00>Isso não os vai enfurecer?</font>
+
+461
+00:55:58,885 --> 00:56:03,098
+<font color=#FFFF00>Os deuses favorecem-lhe.
+Vermelho é a cor dos deuses.</font>
+
+462
+00:56:04,224 --> 00:56:06,518
+<font color=#FFFF00>Precisará da ajuda deles hoje.</font>
+
+463
+00:56:53,565 --> 00:56:55,609
+<font color=#FFFF00>Ainda negocia com Germanos?</font>
+
+464
+00:56:55,859 --> 00:56:57,527
+<font color=#FFFF00>A multidão adora um Bárbaro...</font>
+
+465
+00:56:58,236 --> 00:56:59,780
+<font color=#FFFF00>Além disso, isso tornou-me rico.</font>
+
+466
+00:57:00,155 --> 00:57:02,407
+<font color=#FFFF00>O Núbio já lutou antes?</font>
+
+467
+00:57:03,700 --> 00:57:04,701
+<font color=#FFFF00>Não, é a primeira vez.</font>
+
+468
+00:57:05,285 --> 00:57:07,496
+<font color=#FFFF00>E aquele? Trabalhador?
+Soldado?</font>
+
+469
+00:57:08,789 --> 00:57:12,584
+<font color=#FFFF00>Ele é um espanhol. Mais lhe valia ser
+um eunuco pelo que traz ao ringue...</font>
+
+470
+00:57:14,044 --> 00:57:18,048
+<font color=#FFFF00>500 sestércios como o
+Núbio e o Espanhol sobrevivem.</font>
+
+471
+00:57:18,381 --> 00:57:21,593
+<font color=#FFFF00>E 1.000, como só o Núbio sobrevive.</font>
+
+472
+00:57:23,595 --> 00:57:26,515
+<font color=#FFFF00>Está propondo que eu
+aposte contra os meus próprios homens?</font>
+
+473
+00:57:28,683 --> 00:57:29,518
+<font color=#FFFF00>É pouco ético.</font>
+
+474
+00:57:29,976 --> 00:57:31,937
+<font color=#FFFF00>E se forem 2.000?</font>
+
+475
+00:57:46,076 --> 00:57:48,787
+<font color=#FFFF00>Alguns de vocês pensam
+que não lutarão.</font>
+
+476
+00:57:50,413 --> 00:57:52,582
+<font color=#FFFF00>Outros, que não sabem.</font>
+
+477
+00:57:53,166 --> 00:57:54,960
+<font color=#FFFF00>Todos dizem isso...</font>
+
+478
+00:57:55,335 --> 00:57:57,337
+<font color=#FFFF00>...até chegarem lá.</font>
+
+479
+00:57:59,422 --> 00:58:00,674
+<font color=#FFFF00>Ouçam.</font>
+
+480
+00:58:00,799 --> 00:58:03,843
+<font color=#FFFF00>Mate! Mate! Mate! Mate!</font>
+
+481
+00:58:10,684 --> 00:58:13,144
+<font color=#FFFF00>Enfiem isto na carne
+de outro homem...</font>
+
+482
+00:58:14,145 --> 00:58:15,939
+<font color=#FFFF00>...e eles irão aplaudí-los
+e amá-los por isso.</font>
+
+483
+00:58:19,776 --> 00:58:21,653
+<font color=#FFFF00>Vocês podem começar a amá-los...</font>
+
+484
+00:58:22,821 --> 00:58:24,698
+<font color=#FFFF00>...por isso.</font>
+
+485
+00:58:28,243 --> 00:58:32,289
+<font color=#FFFF00>Na verdade, nós todos morremos.</font>
+
+486
+00:58:34,207 --> 00:58:37,127
+<font color=#FFFF00>Infelizmente, não podemos escolher
+a forma. Mas...</font>
+
+487
+00:58:37,877 --> 00:58:40,880
+<font color=#FFFF00>...podemos decidir como chegar lá...</font>
+
+488
+00:58:41,506 --> 00:58:44,175
+<font color=#FFFF00>...para sermos lembrados...</font>
+
+489
+00:58:45,802 --> 00:58:47,304
+<font color=#FFFF00>...como homens.</font>
+
+490
+00:58:51,474 --> 00:58:54,019
+<font color=#FFFF00>Os da esquerda, empunhem
+os vossos escudos.</font>
+
+491
+00:58:54,728 --> 00:58:57,522
+<font color=#FFFF00>Os da direita, empunhem
+as vossas espadas.</font>
+
+492
+00:59:00,984 --> 00:59:03,778
+<font color=#FFFF00>Em pares. Vermelho com amarelo.</font>
+
+493
+00:59:07,866 --> 00:59:09,159
+<font color=#FFFF00>Os seguintes!</font>
+
+494
+00:59:14,873 --> 00:59:15,999
+<font color=#FFFF00>Mexa-se!</font>
+
+495
+01:02:34,113 --> 01:02:35,406
+<font color=#FFFF00>Usurpador!</font>
+
+496
+01:02:57,678 --> 01:03:00,014
+<font color=#FFFF00>- Vá embora!
+- Nunca nos governarás, Commodus!</font>
+
+497
+01:03:30,753 --> 01:03:33,673
+<font color=#FFFF00>Ele entra em Roma como
+um herói conquistador...</font>
+
+498
+01:03:34,549 --> 01:03:36,175
+<font color=#FFFF00>...mas o que é que conquistou?</font>
+
+499
+01:03:36,259 --> 01:03:40,972
+<font color=#FFFF00>Dê-lhe tempo, Gracchus. É jovem.
+Acho que fará muitas coisas.</font>
+
+500
+01:03:41,055 --> 01:03:42,974
+<font color=#FFFF00>Por Roma ou por você?</font>
+
+501
+01:03:49,397 --> 01:03:51,858
+<font color=#FFFF00>Vá ver sua mãe, Lucius.
+É o que ela quer.</font>
+
+502
+01:03:59,031 --> 01:03:59,991
+<font color=#FFFF00>Lucius.</font>
+
+503
+01:04:00,074 --> 01:04:01,367
+<font color=#FFFF00>Mãe!</font>
+
+504
+01:04:05,162 --> 01:04:06,163
+<font color=#FFFF00>Senadores.</font>
+
+505
+01:04:10,209 --> 01:04:12,837
+<font color=#FFFF00>Roma cumprimenta
+o seu novo Imperador.</font>
+
+506
+01:04:13,129 --> 01:04:16,215
+<font color=#FFFF00>Os seus leais súditos
+saúdam-no, Majestade.</font>
+
+507
+01:04:16,841 --> 01:04:18,634
+<font color=#FFFF00>Obrigado, Falco.</font>
+
+508
+01:04:18,718 --> 01:04:22,680
+<font color=#FFFF00>Quanto aos leais súditos, espero
+não tenham sido muito caros.</font>
+
+509
+01:04:23,055 --> 01:04:25,016
+<font color=#FFFF00>- César.
+- Gracchus.</font>
+
+510
+01:04:25,099 --> 01:04:30,062
+<font color=#FFFF00>Roma regozija-se com o seu regresso.
+Muitos assuntos pedem a sua atenção.</font>
+
+511
+01:04:33,774 --> 01:04:36,485
+<font color=#FFFF00>À ordem, à ordem!</font>
+
+512
+01:04:38,070 --> 01:04:38,946
+<font color=#FFFF00>Para sua orientação, o Senado...</font>
+
+513
+01:04:39,030 --> 01:04:43,701
+<font color=#FFFF00>...preparou protocolos para tratar
+de vários problemas na cidade...</font>
+
+514
+01:04:44,827 --> 01:04:48,664
+<font color=#FFFF00>...a começar pelas medidas
+sanitárias no bairro grego...</font>
+
+515
+01:04:49,415 --> 01:04:52,293
+<font color=#FFFF00>...para combater a peste que está
+aumentando por lá.</font>
+
+516
+01:04:53,210 --> 01:04:54,879
+<font color=#FFFF00>Se César...</font>
+
+517
+01:04:56,922 --> 01:04:59,300
+<font color=#FFFF00>Não entende, Gracchus?</font>
+
+518
+01:05:00,343 --> 01:05:02,345
+<font color=#FFFF00>É esse o problema, não é?</font>
+
+519
+01:05:03,137 --> 01:05:05,473
+<font color=#FFFF00>O meu pai passava todo
+o tempo estudando...</font>
+
+520
+01:05:07,391 --> 01:05:08,642
+<font color=#FFFF00>...livros de ensino...</font>
+
+521
+01:05:09,310 --> 01:05:11,103
+<font color=#FFFF00>...e de filosofia.</font>
+
+522
+01:05:11,812 --> 01:05:14,940
+<font color=#FFFF00>No fim do dia, lia
+os pergaminhos do Senado.</font>
+
+523
+01:05:16,359 --> 01:05:19,612
+<font color=#FFFF00>E, enquanto isso, o povo
+era esquecido.</font>
+
+524
+01:05:20,112 --> 01:05:22,281
+<font color=#FFFF00>Mas o Senado é o povo.</font>
+
+525
+01:05:22,406 --> 01:05:25,951
+<font color=#FFFF00>Escolhido pelo povo
+para falar pelo povo.</font>
+
+526
+01:05:26,619 --> 01:05:29,914
+<font color=#FFFF00>Duvido que o povo coma o
+que você come, Gracchus.</font>
+
+527
+01:05:30,956 --> 01:05:33,542
+<font color=#FFFF00>Ou tenha amantes
+tão esplêndidas, Gaius.</font>
+
+528
+01:05:33,667 --> 01:05:35,711
+<font color=#FFFF00>Eu entendo o meu povo.</font>
+
+529
+01:05:35,795 --> 01:05:39,465
+<font color=#FFFF00>Então o nosso bom César
+poderá ensinar-nos muito...</font>
+
+530
+01:05:39,590 --> 01:05:43,219
+<font color=#FFFF00>...a partir da sua
+grande experiência.</font>
+
+531
+01:05:46,055 --> 01:05:47,848
+<font color=#FFFF00>Chamo isso de amor.</font>
+
+532
+01:05:47,973 --> 01:05:51,435
+<font color=#FFFF00>Sou o pai deles.
+O povo é o meu filho.</font>
+
+533
+01:05:51,936 --> 01:05:54,021
+<font color=#FFFF00>Devo abraçá-lo com força.</font>
+
+534
+01:05:54,146 --> 01:05:56,649
+<font color=#FFFF00>Já abraçou alguém morrendo
+de peste?</font>
+
+535
+01:06:03,572 --> 01:06:04,532
+<font color=#FFFF00>Não.</font>
+
+536
+01:06:04,824 --> 01:06:06,617
+<font color=#FFFF00>Mas se me interromper de novo...</font>
+
+537
+01:06:07,910 --> 01:06:09,161
+<font color=#FFFF00>...você vai abraçar.</font>
+
+538
+01:06:09,286 --> 01:06:12,206
+<font color=#FFFF00>Senador, o meu irmão está
+muito cansado.</font>
+
+539
+01:06:12,706 --> 01:06:13,833
+<font color=#FFFF00>Dê-me a sua lista.</font>
+
+540
+01:06:14,959 --> 01:06:17,503
+<font color=#FFFF00>César fará tudo o que
+Roma precisa.</font>
+
+541
+01:06:17,753 --> 01:06:22,591
+<font color=#FFFF00>Senhora, como sempre, a sua
+delicadeza impõe obediência.</font>
+
+542
+01:06:29,723 --> 01:06:31,809
+<font color=#FFFF00>Quem são eles para me repreender?</font>
+
+543
+01:06:32,309 --> 01:06:34,854
+<font color=#FFFF00>Commodus, o Senado tem a sua função.</font>
+
+544
+01:06:34,937 --> 01:06:38,023
+<font color=#FFFF00>Que função?
+Só sabem falar.</font>
+
+545
+01:06:39,150 --> 01:06:40,568
+<font color=#FFFF00>Isto deveria ser só...</font>
+
+546
+01:06:41,235 --> 01:06:43,654
+<font color=#FFFF00>...você e eu... e Roma.</font>
+
+547
+01:06:43,737 --> 01:06:46,740
+<font color=#FFFF00>Nem pense nisso.
+Sempre existiu um Senado..</font>
+
+548
+01:06:47,408 --> 01:06:49,034
+<font color=#FFFF00>Roma mudou.</font>
+
+549
+01:06:49,159 --> 01:06:52,955
+<font color=#FFFF00>É o Imperador que governa
+um Império.</font>
+
+550
+01:06:53,080 --> 01:06:55,791
+<font color=#FFFF00>- Sim, mas deixa o povo com as suas...
+- Ilusões?</font>
+
+551
+01:06:57,418 --> 01:06:58,878
+<font color=#FFFF00>Tradições.</font>
+
+552
+01:07:00,045 --> 01:07:02,506
+<font color=#FFFF00>A guerra do meu pai contra
+os bárbaros...</font>
+
+553
+01:07:03,340 --> 01:07:06,635
+<font color=#FFFF00>Ele disse que não valeu de nada.
+Mas o povo adorava-o.</font>
+
+554
+01:07:06,760 --> 01:07:09,054
+<font color=#FFFF00>O povo adora vitórias.</font>
+
+555
+01:07:09,138 --> 01:07:10,764
+<font color=#FFFF00>Porquê?</font>
+
+556
+01:07:10,890 --> 01:07:15,269
+<font color=#FFFF00>Eles não vêem as batalhas. Pensa que
+se importam com a Germânia?</font>
+
+557
+01:07:16,061 --> 01:07:17,855
+<font color=#FFFF00>Importam-se com a grandeza de Roma.</font>
+
+558
+01:07:18,522 --> 01:07:20,524
+<font color=#FFFF00>A grandeza de Roma.</font>
+
+559
+01:07:22,318 --> 01:07:23,611
+<font color=#FFFF00>O que é isso?</font>
+
+560
+01:07:26,739 --> 01:07:28,365
+<font color=#FFFF00>Uma ideia.</font>
+
+561
+01:07:29,033 --> 01:07:30,826
+<font color=#FFFF00>Grandeza...</font>
+
+562
+01:07:33,579 --> 01:07:35,372
+<font color=#FFFF00>A grandeza é uma visão.</font>
+
+563
+01:07:35,456 --> 01:07:37,791
+<font color=#FFFF00>Exatamente. Uma visão.</font>
+
+564
+01:07:39,376 --> 01:07:41,378
+<font color=#FFFF00>Não está vendo, Lucilla?</font>
+
+565
+01:07:42,796 --> 01:07:46,175
+<font color=#FFFF00>Darei ao povo uma visão de Roma
+pela qual irão me amar.</font>
+
+566
+01:07:47,343 --> 01:07:51,555
+<font color=#FFFF00>Rapidamente esquecerão o sermão
+entediante de uns velhos secos.</font>
+
+567
+01:08:03,400 --> 01:08:06,612
+<font color=#FFFF00>Darei ao povo a maior visão
+das suas vidas.</font>
+
+568
+01:08:57,830 --> 01:09:00,124
+<font color=#FFFF00>Vinho tinto e branco
+para o vosso prazer!</font>
+
+569
+01:09:09,007 --> 01:09:10,634
+<font color=#FFFF00>Jogos.</font>
+
+570
+01:09:12,469 --> 01:09:15,347
+<font color=#FFFF00>150 dias de jogos.</font>
+
+571
+01:09:16,056 --> 01:09:18,642
+<font color=#FFFF00>- É mais esperto do que eu pensei.
+- Esperto.</font>
+
+572
+01:09:19,268 --> 01:09:24,189
+<font color=#FFFF00>Roma estaria rindo dele se não
+temessem tanto os Pretorianos.</font>
+
+573
+01:09:24,273 --> 01:09:26,567
+<font color=#FFFF00>Medo e admiração.
+Combinação poderosa.</font>
+
+574
+01:09:28,527 --> 01:09:30,946
+<font color=#FFFF00>Acha que o povo será seduzido
+por isso?</font>
+
+575
+01:09:31,697 --> 01:09:35,075
+<font color=#FFFF00>Acho que ele sabe o que Roma é.
+Roma é a multidão.</font>
+
+576
+01:09:35,617 --> 01:09:38,453
+<font color=#FFFF00>Mostre-lhe magia e
+ficam extasiados.</font>
+
+577
+01:09:39,037 --> 01:09:42,541
+<font color=#FFFF00>Irá tirar a sua liberdade,
+mas eles irão exaltá-lo.</font>
+
+578
+01:09:43,041 --> 01:09:47,421
+<font color=#FFFF00>O coração pulsante de Roma não é
+o mármore do Senado...</font>
+
+579
+01:09:47,546 --> 01:09:50,090
+<font color=#FFFF00>...mas a areia do Coliseu.</font>
+
+580
+01:09:51,508 --> 01:09:53,594
+<font color=#FFFF00>Ele lhes trará a morte.</font>
+
+581
+01:09:55,220 --> 01:09:57,472
+<font color=#FFFF00>E eles irão amá-lo por isso.</font>
+
+582
+01:10:02,144 --> 01:10:05,147
+<font color=#FFFF00>Espanhol! Espanhol!</font>
+
+583
+01:10:20,120 --> 01:10:22,080
+<font color=#FFFF00>Tudo o que faz é matar, matar, matar.</font>
+
+584
+01:10:22,289 --> 01:10:24,249
+<font color=#FFFF00>Mas a multidão não quer
+um carniceiro, quer um herói.</font>
+
+585
+01:10:24,625 --> 01:10:26,501
+<font color=#FFFF00>Você quer que eles
+voltem.</font>
+
+586
+01:10:26,919 --> 01:10:30,672
+<font color=#FFFF00>Por isso não os despedace apenas,
+lembre-se que tem que diverti-los.</font>
+
+587
+01:10:34,051 --> 01:10:41,850
+<font color=#FFFF00>Espanhol! Espanhol!
+Espanhol! Espanhol!</font>
+
+588
+01:10:43,101 --> 01:10:44,436
+<font color=#FFFF00>Por isso divirta-os.</font>
+
+589
+01:11:49,292 --> 01:11:50,752
+<font color=#FFFF00>Não estão se divertindo?</font>
+
+590
+01:11:51,503 --> 01:11:54,089
+<font color=#FFFF00>Não estão se divertindo?</font>
+
+591
+01:11:55,674 --> 01:11:58,135
+<font color=#FFFF00>Não é para isso que estão aqui?</font>
+
+592
+01:12:02,973 --> 01:12:05,058
+<font color=#FFFF00>Espanhol! Espanhol!</font>
+
+593
+01:12:23,076 --> 01:12:24,619
+<font color=#FFFF00>O que é que quer?</font>
+
+594
+01:12:27,330 --> 01:12:29,124
+<font color=#FFFF00>Uma moça?</font>
+
+595
+01:12:29,666 --> 01:12:31,418
+<font color=#FFFF00>Um rapaz?</font>
+
+596
+01:12:31,668 --> 01:12:34,129
+<font color=#FFFF00>- Mandou me chamar.
+- Sim, mandei.</font>
+
+597
+01:12:35,088 --> 01:12:37,632
+<font color=#FFFF00>Você é bom, mas não assim tão bom.</font>
+
+598
+01:12:37,716 --> 01:12:39,342
+<font color=#FFFF00>Podia ser magnífico.</font>
+
+599
+01:12:39,467 --> 01:12:43,305
+<font color=#FFFF00>Obrigam-me a matar, e eu mato.
+É o bastante.</font>
+
+600
+01:12:43,722 --> 01:12:46,975
+<font color=#FFFF00>É o bastante para as províncias,
+não para Roma.</font>
+
+601
+01:12:50,312 --> 01:12:54,232
+<font color=#FFFF00>O jovem Imperador preparou
+uma série de espetáculos...</font>
+
+602
+01:12:55,066 --> 01:12:58,612
+<font color=#FFFF00>...para homenagear o seu pai,
+Marcus Aurelius.</font>
+
+603
+01:12:59,029 --> 01:13:03,074
+<font color=#FFFF00>Acho isso interessante,
+pois foi Marcus Aurelius...</font>
+
+604
+01:13:03,200 --> 01:13:07,662
+<font color=#FFFF00>...o sábio, o onipotente Marcus
+Aurelius que proibiu os jogos.</font>
+
+605
+01:13:10,916 --> 01:13:13,627
+<font color=#FFFF00>E finalmente, depois de 5 anos...</font>
+
+606
+01:13:13,752 --> 01:13:17,464
+<font color=#FFFF00>...tentando sobreviver em vilas
+infestadas de pulgas...</font>
+
+607
+01:13:17,589 --> 01:13:20,217
+<font color=#FFFF00>...estamos voltando
+para onde pertencemos.</font>
+
+608
+01:13:21,176 --> 01:13:23,053
+<font color=#FFFF00>O Coliseu.</font>
+
+609
+01:13:25,013 --> 01:13:28,183
+<font color=#FFFF00>Devia ver o Coliseu, Espanhol.</font>
+
+610
+01:13:29,309 --> 01:13:31,353
+<font color=#FFFF00>50 mil romanos...</font>
+
+611
+01:13:32,062 --> 01:13:33,647
+<font color=#FFFF00>...assistindo...</font>
+
+612
+01:13:34,189 --> 01:13:36,399
+<font color=#FFFF00>...cada movimento de sua espada...</font>
+
+613
+01:13:37,359 --> 01:13:39,486
+<font color=#FFFF00>...esperando que dê o golpe final.</font>
+
+614
+01:13:40,987 --> 01:13:43,114
+<font color=#FFFF00>O silêncio antes de atacar...</font>
+
+615
+01:13:43,239 --> 01:13:45,492
+<font color=#FFFF00>...e o barulho depois.</font>
+
+616
+01:13:45,575 --> 01:13:49,871
+<font color=#FFFF00>Ele aumenta...</font>
+
+617
+01:13:50,997 --> 01:13:54,876
+<font color=#FFFF00>...como uma tempestade, como
+se fosse o deus do trovão.</font>
+
+618
+01:13:55,460 --> 01:13:56,878
+<font color=#FFFF00>Você foi um gladiador.</font>
+
+619
+01:13:57,671 --> 01:13:59,464
+<font color=#FFFF00>Sim, fui.</font>
+
+620
+01:14:05,095 --> 01:14:07,055
+<font color=#FFFF00>Conseguiu a sua liberdade?</font>
+
+621
+01:14:07,347 --> 01:14:09,933
+<font color=#FFFF00>Há muito tempo. O Imperador...</font>
+
+622
+01:14:11,267 --> 01:14:12,936
+<font color=#FFFF00>...presenteou-me com um rudius.</font>
+
+623
+01:14:15,313 --> 01:14:17,190
+<font color=#FFFF00>É apenas uma espada de madeira.</font>
+
+624
+01:14:18,149 --> 01:14:20,360
+<font color=#FFFF00>Um símbolo da sua liberdade.</font>
+
+625
+01:14:22,070 --> 01:14:25,699
+<font color=#FFFF00>Ele tocou-me no ombro e
+eu fiquei livre.</font>
+
+626
+01:14:26,700 --> 01:14:28,785
+<font color=#FFFF00>Conheceu Marcus Aurelius?</font>
+
+627
+01:14:28,868 --> 01:14:32,455
+<font color=#FFFF00>Não disse que o conheci.
+Disse que ele tocou no meu ombro.</font>
+
+628
+01:14:34,249 --> 01:14:36,126
+<font color=#FFFF00>Perguntou o que eu queria.</font>
+
+629
+01:14:37,544 --> 01:14:40,255
+<font color=#FFFF00>Eu também quero ficar
+de frente com o Imperador...</font>
+
+630
+01:14:41,798 --> 01:14:45,009
+<font color=#FFFF00>- ...como você ficou.
+- Então escute-me.</font>
+
+631
+01:14:45,593 --> 01:14:47,262
+<font color=#FFFF00>Aprenda comigo.</font>
+
+632
+01:14:47,345 --> 01:14:50,890
+<font color=#FFFF00>Eu não era o melhor porque
+matava rápido.</font>
+
+633
+01:14:51,641 --> 01:14:54,728
+<font color=#FFFF00>Era o melhor porque a multidão
+me adorava.</font>
+
+634
+01:14:55,520 --> 01:14:59,274
+<font color=#FFFF00>Ganhe a multidão e ganhará
+a sua liberdade.</font>
+
+635
+01:15:03,319 --> 01:15:05,280
+<font color=#FFFF00>Eu ganharei a multidão.</font>
+
+636
+01:15:07,532 --> 01:15:10,243
+<font color=#FFFF00>Lhes darei algo que nunca
+viram antes.</font>
+
+637
+01:15:11,786 --> 01:15:14,831
+<font color=#FFFF00>Então, Espanhol, iremos juntos
+a Roma e teremos...</font>
+
+638
+01:15:15,540 --> 01:15:17,333
+<font color=#FFFF00>...aventuras sangrentas.</font>
+
+639
+01:15:17,459 --> 01:15:21,880
+<font color=#FFFF00>E a grande vadia cuidará de nós
+até ficarmos gordos e felizes.</font>
+
+640
+01:15:22,005 --> 01:15:23,631
+<font color=#FFFF00>E depois, quando...</font>
+
+641
+01:15:24,632 --> 01:15:26,718
+<font color=#FFFF00>...homens suficientes morrerem...</font>
+
+642
+01:15:28,928 --> 01:15:31,097
+<font color=#FFFF00>...talvez você seja livre.</font>
+
+643
+01:15:35,810 --> 01:15:38,229
+<font color=#FFFF00>Tome, use isto.</font>
+
+644
+01:16:01,628 --> 01:16:05,256
+<font color=#FFFF00>Em algum lugar por alí, o meu país.</font>
+
+645
+01:16:06,174 --> 01:16:07,800
+<font color=#FFFF00>O meu lar.</font>
+
+646
+01:16:08,676 --> 01:16:10,803
+<font color=#FFFF00>A minha mulher prepara comida.</font>
+
+647
+01:16:11,721 --> 01:16:14,390
+<font color=#FFFF00>As minhas filhas carregam água
+do rio.</font>
+
+648
+01:16:15,642 --> 01:16:17,852
+<font color=#FFFF00>Será que irei vê-las de novo?</font>
+
+649
+01:16:18,937 --> 01:16:20,647
+<font color=#FFFF00>Acho que não.</font>
+
+650
+01:16:20,980 --> 01:16:22,690
+<font color=#FFFF00>Acredita que irá vê-las
+quando morrer?</font>
+
+651
+01:16:23,316 --> 01:16:25,151
+<font color=#FFFF00>Acho que sim.</font>
+
+652
+01:16:25,443 --> 01:16:28,988
+<font color=#FFFF00>Mas eu irei morrer em breve.</font>
+
+653
+01:16:30,156 --> 01:16:32,492
+<font color=#FFFF00>Elas irão viver muitos anos.</font>
+
+654
+01:16:33,534 --> 01:16:37,497
+<font color=#FFFF00>- Terei que esperar.
+- Mas você irá esperar.</font>
+
+655
+01:16:37,872 --> 01:16:39,332
+<font color=#FFFF00>Claro.</font>
+
+656
+01:16:41,334 --> 01:16:42,961
+<font color=#FFFF00>Sabe...</font>
+
+657
+01:16:43,711 --> 01:16:45,171
+<font color=#FFFF00>...a minha mulher...</font>
+
+658
+01:16:46,714 --> 01:16:48,633
+<font color=#FFFF00>...e o meu filho...</font>
+
+659
+01:16:48,967 --> 01:16:50,593
+<font color=#FFFF00>...já estão à minha espera.</font>
+
+660
+01:16:51,219 --> 01:16:53,179
+<font color=#FFFF00>Você irá encontrá-los de novo.</font>
+
+661
+01:16:54,013 --> 01:16:55,807
+<font color=#FFFF00>Mas não agora.</font>
+
+662
+01:16:58,851 --> 01:17:00,728
+<font color=#FFFF00>Não agora...</font>
+
+663
+01:17:02,605 --> 01:17:03,731
+<font color=#FFFF00>Não agora.</font>
+
+664
+01:17:07,860 --> 01:17:09,654
+<font color=#FFFF00>Não agora.</font>
+
+665
+01:18:12,550 --> 01:18:13,968
+<font color=#FFFF00>Saiam!</font>
+
+666
+01:18:15,011 --> 01:18:17,013
+<font color=#FFFF00>Andem, andem, saiam!</font>
+
+667
+01:18:29,484 --> 01:18:31,444
+<font color=#FFFF00>Que bom lhe ver de novo, velho amigo.</font>
+
+668
+01:18:37,200 --> 01:18:38,701
+<font color=#FFFF00>Conceda-me sorte.</font>
+
+669
+01:18:43,706 --> 01:18:45,917
+<font color=#FFFF00>Já viu algo assim?</font>
+
+670
+01:18:47,710 --> 01:18:50,421
+<font color=#FFFF00>Não sabia que construíam
+coisas assim.</font>
+
+671
+01:19:00,097 --> 01:19:01,891
+<font color=#FFFF00>Ganhe a multidão.</font>
+
+672
+01:19:02,016 --> 01:19:05,728
+<font color=#FFFF00>Entrem. Andem! Para dentro!</font>
+
+673
+01:19:54,986 --> 01:19:57,571
+<font color=#FFFF00>Ele dorme bem porque é amado.</font>
+
+674
+01:20:00,616 --> 01:20:03,160
+<font color=#FFFF00>Vamos, irmão. É tarde.</font>
+
+675
+01:20:06,163 --> 01:20:08,833
+<font color=#FFFF00>Farei de Roma a maravilha
+de todos os tempos.</font>
+
+676
+01:20:11,877 --> 01:20:14,547
+<font color=#FFFF00>É isso que Gracchus não entende.</font>
+
+677
+01:20:15,673 --> 01:20:18,968
+<font color=#FFFF00>Os meus desejos estão arrebentando
+a minha cabeça.</font>
+
+678
+01:20:25,766 --> 01:20:26,892
+<font color=#FFFF00>Commodus...</font>
+
+679
+01:20:27,184 --> 01:20:28,477
+<font color=#FFFF00>...beba este tônico.</font>
+
+680
+01:20:38,404 --> 01:20:41,449
+<font color=#FFFF00>Acho que a hora é apropriada.
+Eu poderia anunciar...</font>
+
+681
+01:20:41,532 --> 01:20:45,661
+<font color=#FFFF00>...a dissolução do Senado
+durante a homenagem ao Pai.</font>
+
+682
+01:20:46,287 --> 01:20:47,913
+<font color=#FFFF00>Acha que deveria?</font>
+
+683
+01:20:48,956 --> 01:20:50,791
+<font color=#FFFF00>O povo está pronto?</font>
+
+684
+01:20:52,793 --> 01:20:54,462
+<font color=#FFFF00>Acho que precisa descansar.</font>
+
+685
+01:21:01,343 --> 01:21:02,803
+<font color=#FFFF00>Vai ficar comigo?</font>
+
+686
+01:21:02,887 --> 01:21:04,805
+<font color=#FFFF00>Ainda tem medo do escuro?</font>
+
+687
+01:21:12,313 --> 01:21:13,814
+<font color=#FFFF00>Ainda.</font>
+
+688
+01:21:15,441 --> 01:21:17,151
+<font color=#FFFF00>Sempre.</font>
+
+689
+01:21:18,235 --> 01:21:19,612
+<font color=#FFFF00>Fica comigo esta noite?</font>
+
+690
+01:21:19,695 --> 01:21:21,113
+<font color=#FFFF00>Sabe que não.</font>
+
+691
+01:21:25,743 --> 01:21:27,036
+<font color=#FFFF00>Então beije-me.</font>
+
+692
+01:21:36,212 --> 01:21:37,797
+<font color=#FFFF00>Durma, irmão.</font>
+
+693
+01:22:30,558 --> 01:22:35,271
+<font color=#FFFF00>Os servos são surdos-mudos, mas isso
+assegura que eu viva um pouco mais.</font>
+
+694
+01:22:37,064 --> 01:22:39,149
+<font color=#FFFF00>Agora estão prendendo estudiosos.</font>
+
+695
+01:22:39,692 --> 01:22:41,235
+<font color=#FFFF00>Qualquer um que se atreva a falar...</font>
+
+696
+01:22:41,819 --> 01:22:43,529
+<font color=#FFFF00>Até sátiros e cronistas.</font>
+
+697
+01:22:43,571 --> 01:22:45,698
+<font color=#FFFF00>E matemáticos.</font>
+
+698
+01:22:47,324 --> 01:22:49,576
+<font color=#FFFF00>E tudo para alimentar a Arena.</font>
+
+699
+01:22:51,078 --> 01:22:53,163
+<font color=#FFFF00>O Senado não aprovou a lei marcial.</font>
+
+700
+01:22:53,706 --> 01:22:56,458
+<font color=#FFFF00>Este reino de terror
+é inteiramente dos Pretonianos.</font>
+
+701
+01:22:57,751 --> 01:22:59,545
+<font color=#FFFF00>Eu tenho medo de sair
+depois de escurecer.</font>
+
+702
+01:23:00,045 --> 01:23:02,756
+<font color=#FFFF00>Devia ter mais medo das
+suas atividades diárias</font>
+
+703
+01:23:03,215 --> 01:23:05,551
+<font color=#FFFF00>O senado está cheio de espiões dele.</font>
+
+704
+01:23:06,135 --> 01:23:08,470
+<font color=#FFFF00>Liderados por aquele vádio, o Falco.</font>
+
+705
+01:23:09,680 --> 01:23:11,598
+<font color=#FFFF00>Mas o que é que ele estará pensando?</font>
+
+706
+01:23:12,141 --> 01:23:13,434
+<font color=#FFFF00>É com isso que me preocupo.</font>
+
+707
+01:23:14,685 --> 01:23:19,606
+<font color=#FFFF00>Ele passa os dias unicamente obcecado em
+planear os festivais para honrar seu pai.</font>
+
+708
+01:23:19,940 --> 01:23:23,193
+<font color=#FFFF00>E negligencia até as tarefas
+mais fundamentais de governo.</font>
+
+709
+01:23:24,945 --> 01:23:26,947
+<font color=#FFFF00>Por isso, o que é que ele está planejando?</font>
+
+710
+01:23:27,406 --> 01:23:28,907
+<font color=#FFFF00>E quem é que vai pagar por isto?</font>
+
+711
+01:23:29,366 --> 01:23:33,495
+<font color=#FFFF00>Estes jogos diários estão custando uma fortuna,
+e no entanto não há novos impostos.</font>
+
+712
+01:23:33,996 --> 01:23:34,830
+<font color=#FFFF00>O futuro.</font>
+
+713
+01:23:36,832 --> 01:23:38,333
+<font color=#FFFF00>O futuro pagará isto.</font>
+
+714
+01:23:40,377 --> 01:23:42,212
+<font color=#FFFF00>Ele começou a vender as reservas de grão.</font>
+
+715
+01:23:43,672 --> 01:23:44,715
+<font color=#FFFF00>Isso não pode ser verdade.</font>
+
+716
+01:23:45,924 --> 01:23:48,010
+<font color=#FFFF00>Ele está vendendo as reservas
+de grão de Roma.</font>
+
+717
+01:23:49,053 --> 01:23:51,096
+<font color=#FFFF00>O povo irá passar fome
+dentro de dois anos.</font>
+
+718
+01:23:52,389 --> 01:23:53,849
+<font color=#FFFF00>Espero que aproveitem estes jogos...</font>
+
+719
+01:23:53,932 --> 01:23:55,934
+<font color=#FFFF00>porque em breve vão estar
+mortos por causa deles.</font>
+
+720
+01:23:57,770 --> 01:23:59,730
+<font color=#FFFF00>- Roma tem que saber disto.
+- E como?</font>
+
+721
+01:24:00,773 --> 01:24:02,107
+<font color=#FFFF00>Ele vai dissolver o Senado.</font>
+
+722
+01:24:03,650 --> 01:24:06,361
+<font color=#FFFF00>E quem irá lhe dizer antes que seja
+tarde demais? Você, Gracchus?</font>
+
+723
+01:24:08,447 --> 01:24:09,406
+<font color=#FFFF00>Você, Gaius?</font>
+
+724
+01:24:10,449 --> 01:24:12,743
+<font color=#FFFF00>Irá fazer um discurso no Senado
+denunciando o meu irmão?</font>
+
+725
+01:24:14,411 --> 01:24:16,121
+<font color=#FFFF00>E depois ver a sua família
+no Coliseu?</font>
+
+726
+01:24:17,539 --> 01:24:18,665
+<font color=#FFFF00>Quem é que se atreveria?</font>
+
+727
+01:24:28,342 --> 01:24:30,511
+<font color=#FFFF00>Tenho vivido todos os dias
+numa prisão de medo...</font>
+
+728
+01:24:31,553 --> 01:24:33,388
+<font color=#FFFF00>porque o meu filho é
+herdeiro do trono.</font>
+
+729
+01:24:39,394 --> 01:24:40,437
+<font color=#FFFF00>Ele tem que morrer.</font>
+
+730
+01:24:45,526 --> 01:24:48,821
+<font color=#FFFF00>Quintus e os Pretorianos iriam ficar
+simplesmente com o controle para eles.</font>
+
+731
+01:24:49,571 --> 01:24:53,033
+<font color=#FFFF00>Não. Corta-se a cabeça e a
+serpente não consegue atacar.</font>
+
+732
+01:24:53,242 --> 01:24:54,660
+<font color=#FFFF00>Lucilla, Gaius tem razão.</font>
+
+733
+01:24:55,494 --> 01:24:59,164
+<font color=#FFFF00>Até conseguirmos neutralizar
+os Pretorianos, não podemos nada.</font>
+
+734
+01:25:01,166 --> 01:25:02,000
+<font color=#FFFF00>E então não fazemos nada?</font>
+
+735
+01:25:02,751 --> 01:25:04,962
+<font color=#FFFF00>Não, criança.
+Mantemos o nosso Conselho.</font>
+
+736
+01:25:06,505 --> 01:25:07,381
+<font color=#FFFF00>Nos preparamos.</font>
+
+737
+01:25:08,799 --> 01:25:12,928
+<font color=#FFFF00>Enquanto o povo o apoiar,
+somos vozes sem força.</font>
+
+738
+01:25:14,304 --> 01:25:15,264
+<font color=#FFFF00>Somos ar.</font>
+
+739
+01:25:18,684 --> 01:25:21,144
+<font color=#FFFF00>Mas a cada dia que passa,
+ele faz inimigos.</font>
+
+740
+01:25:21,562 --> 01:25:24,022
+<font color=#FFFF00>Um dia, ele terá mais
+inimigos do que amigos.</font>
+
+741
+01:25:24,815 --> 01:25:27,317
+<font color=#FFFF00>E nesse dia, agiremos.</font>
+
+742
+01:25:28,443 --> 01:25:29,987
+<font color=#FFFF00>Aí atacaremos.</font>
+
+743
+01:25:31,154 --> 01:25:32,364
+<font color=#FFFF00>Mas até la...</font>
+
+744
+01:25:33,490 --> 01:25:34,825
+<font color=#FFFF00>Somos dóceis.</font>
+
+745
+01:25:36,034 --> 01:25:37,536
+<font color=#FFFF00>Somos obedientes.</font>
+
+746
+01:25:40,038 --> 01:25:41,039
+<font color=#FFFF00>E somos traiçoeiros.</font>
+
+747
+01:25:50,007 --> 01:25:50,841
+<font color=#FFFF00>Vamos lá!</font>
+
+748
+01:26:22,748 --> 01:26:24,875
+<font color=#FFFF00>Muito bem, já chega!</font>
+
+749
+01:26:24,958 --> 01:26:28,295
+<font color=#FFFF00>Não quero sacrificar os meus
+melhores lutadores.</font>
+
+750
+01:26:28,378 --> 01:26:31,715
+<font color=#FFFF00>A multidão quer batalhas e
+o Imperador lhes dará batalhas.</font>
+
+751
+01:26:32,132 --> 01:26:35,510
+<font color=#FFFF00>- Reviverão a batalha de Cartago.
+- O massacre de Cartago.</font>
+
+752
+01:26:37,804 --> 01:26:40,849
+<font color=#FFFF00>Por que não reúnem mendigos
+e ladrões da prisão?</font>
+
+753
+01:26:40,974 --> 01:26:42,559
+<font color=#FFFF00>Fizemos isso.</font>
+
+754
+01:26:42,684 --> 01:26:47,814
+<font color=#FFFF00>Se quer sacrificar os nossos melhores
+gladiadores, dobro as taxas.</font>
+
+755
+01:26:48,398 --> 01:26:51,860
+<font color=#FFFF00>Receberá as taxas do contrato ou
+não terá contrato.</font>
+
+756
+01:26:54,738 --> 01:26:57,324
+<font color=#FFFF00>Se não gostar, volte
+para a latrina de onde veio.</font>
+
+757
+01:27:00,911 --> 01:27:02,496
+<font color=#FFFF00>Cassius, por favor,
+você pode nos libertar.</font>
+
+758
+01:27:32,943 --> 01:27:35,487
+<font color=#FFFF00>Gladiador, é a você que chamam
+de Espanhol?</font>
+
+759
+01:27:36,071 --> 01:27:37,322
+<font color=#FFFF00>Sim.</font>
+
+760
+01:27:38,031 --> 01:27:40,575
+<font color=#FFFF00>Disseram que era um gigante.</font>
+
+761
+01:27:40,700 --> 01:27:42,828
+<font color=#FFFF00>Que esmaga o crânio de um homem
+com uma mão.</font>
+
+762
+01:27:42,911 --> 01:27:45,288
+<font color=#FFFF00>De um homem? Não.</font>
+
+763
+01:27:46,581 --> 01:27:48,208
+<font color=#FFFF00>Mas de um garoto...</font>
+
+764
+01:27:50,001 --> 01:27:51,753
+<font color=#FFFF00>Há cavalos bons na Espanha?</font>
+
+765
+01:27:52,212 --> 01:27:54,005
+<font color=#FFFF00>Os melhores.</font>
+
+766
+01:27:54,548 --> 01:27:56,508
+<font color=#FFFF00>Este é Argento...</font>
+
+767
+01:27:56,591 --> 01:27:58,510
+<font color=#FFFF00>...e este, Scarto.</font>
+
+768
+01:27:59,052 --> 01:28:01,263
+<font color=#FFFF00>Eram os meus cavalos.</font>
+
+769
+01:28:01,847 --> 01:28:03,682
+<font color=#FFFF00>Foram tirados de mim.</font>
+
+770
+01:28:04,224 --> 01:28:07,477
+<font color=#FFFF00>Gosto de você, Espanhol.
+Torcerei por você.</font>
+
+771
+01:28:07,602 --> 01:28:11,273
+<font color=#FFFF00>- Pode ver os jogos?
+- O meu tio disse que me fortalece.</font>
+
+772
+01:28:11,356 --> 01:28:14,609
+<font color=#FFFF00>- E o seu pai?
+- O meu pai morreu.</font>
+
+773
+01:28:16,278 --> 01:28:18,488
+<font color=#FFFF00>Senhor Lucius, está na hora.</font>
+
+774
+01:28:19,573 --> 01:28:20,866
+<font color=#FFFF00>Tenho de ir.</font>
+
+775
+01:28:20,991 --> 01:28:22,617
+<font color=#FFFF00>O seu nome é Lucius?</font>
+
+776
+01:28:24,870 --> 01:28:27,581
+<font color=#FFFF00>Lucius Verus, como o meu pai.</font>
+
+777
+01:28:58,236 --> 01:28:59,821
+<font color=#FFFF00>Desçam!</font>
+
+778
+01:29:04,576 --> 01:29:05,577
+<font color=#FFFF00>Claudius!</font>
+
+779
+01:29:06,995 --> 01:29:08,788
+<font color=#FFFF00>- Sim?
+- Mais escudos.</font>
+
+780
+01:29:09,289 --> 01:29:09,998
+<font color=#FFFF00>Está bem.</font>
+
+781
+01:29:29,684 --> 01:29:31,603
+<font color=#FFFF00>Quando o Imperador entrar...</font>
+
+782
+01:29:31,686 --> 01:29:36,191
+<font color=#FFFF00>...levantem as armas, saúdem-no
+e depois falem ao mesmo tempo.</font>
+
+783
+01:29:37,359 --> 01:29:41,112
+<font color=#FFFF00>Encarem o Imperador e
+não lhes virem as costas.</font>
+
+784
+01:29:41,946 --> 01:29:45,200
+<font color=#FFFF00>Vão, e morram com honra.</font>
+
+785
+01:30:39,796 --> 01:30:41,840
+<font color=#FFFF00>Avé, poderoso César!</font>
+
+786
+01:30:43,133 --> 01:30:45,718
+<font color=#FFFF00>César! César!</font>
+
+787
+01:30:52,392 --> 01:30:55,061
+<font color=#FFFF00>Nós, que vamos morrer,
+o saudamos!</font>
+
+788
+01:30:57,021 --> 01:30:58,982
+<font color=#FFFF00>Neste dia...</font>
+
+789
+01:30:59,482 --> 01:31:02,944
+<font color=#FFFF00>...nos voltamos
+à tão reverenciada antiguidade...</font>
+
+790
+01:31:03,319 --> 01:31:04,988
+<font color=#FFFF00>...para dar-lhes...</font>
+
+791
+01:31:05,029 --> 01:31:08,867
+<font color=#FFFF00>...uma recriação da segunda derrota
+do grande Cartago!</font>
+
+792
+01:31:12,871 --> 01:31:15,582
+<font color=#FFFF00>Nas planícies estéreis...</font>
+
+793
+01:31:15,957 --> 01:31:17,625
+<font color=#FFFF00>...de Zama...</font>
+
+794
+01:31:17,876 --> 01:31:20,837
+<font color=#FFFF00>...estavam os
+exércitos invencíveis...</font>
+
+795
+01:31:21,296 --> 01:31:24,173
+<font color=#FFFF00>...do bárbaro Hannibal.</font>
+
+796
+01:31:24,591 --> 01:31:29,387
+<font color=#FFFF00>Mercenários e guerreiros ferozes
+de todas as nações selvagens...</font>
+
+797
+01:31:29,470 --> 01:31:32,932
+<font color=#FFFF00>...curvaram-se à impiedosa...</font>
+
+798
+01:31:33,600 --> 01:31:35,643
+<font color=#FFFF00>...destruição...</font>
+
+799
+01:31:35,768 --> 01:31:37,729
+<font color=#FFFF00>...conquista.</font>
+
+800
+01:31:37,812 --> 01:31:39,647
+<font color=#FFFF00>O vosso Imperador...</font>
+
+801
+01:31:39,772 --> 01:31:41,566
+<font color=#FFFF00>...tem o prazer de lhes oferecer...</font>
+
+802
+01:31:41,649 --> 01:31:44,402
+<font color=#FFFF00>...a horda de bárbaros!</font>
+
+803
+01:31:53,328 --> 01:31:54,954
+<font color=#FFFF00>Alguém esteve no exército?</font>
+
+804
+01:31:55,330 --> 01:31:58,458
+<font color=#FFFF00>Sim. Servi com você
+em Vindobona.</font>
+
+805
+01:31:59,334 --> 01:32:01,127
+<font color=#FFFF00>Você pode me ajudar.</font>
+
+806
+01:32:02,420 --> 01:32:04,464
+<font color=#FFFF00>Seja lá o que sair desses portões...</font>
+
+807
+01:32:05,256 --> 01:32:08,217
+<font color=#FFFF00>...teremos mais chance
+se trabalharmos juntos.</font>
+
+808
+01:32:09,344 --> 01:32:10,470
+<font color=#FFFF00>Compreendem?</font>
+
+809
+01:32:13,389 --> 01:32:15,558
+<font color=#FFFF00>Se ficarmos juntos, sobrevivemos.</font>
+
+810
+01:32:15,642 --> 01:32:18,186
+<font color=#FFFF00>...tragam os legionários...</font>
+
+811
+01:32:18,269 --> 01:32:22,231
+<font color=#FFFF00>...de Scipio Africanus!</font>
+
+812
+01:32:32,992 --> 01:32:34,410
+<font color=#FFFF00>Até a morte!</font>
+
+813
+01:32:45,046 --> 01:32:46,589
+<font color=#FFFF00>Fiquem juntos!</font>
+
+814
+01:32:52,470 --> 01:32:53,846
+<font color=#FFFF00>Venham juntos!</font>
+
+815
+01:32:56,099 --> 01:32:59,560
+<font color=#FFFF00>Em colunas!
+Em colunas!</font>
+
+816
+01:33:11,989 --> 01:33:14,534
+<font color=#FFFF00>- Os seus homens vão morrer.
+- Não há chance.</font>
+
+817
+01:33:26,587 --> 01:33:28,005
+<font color=#FFFF00>Juntem os escudos!</font>
+
+818
+01:33:28,089 --> 01:33:29,382
+<font color=#FFFF00>Um só bloco!</font>
+
+819
+01:33:30,258 --> 01:33:31,759
+<font color=#FFFF00>Esperem!</font>
+
+820
+01:33:33,886 --> 01:33:35,430
+<font color=#FFFF00>Esperem!</font>
+
+821
+01:33:35,555 --> 01:33:36,848
+<font color=#FFFF00>Um só bloco!</font>
+
+822
+01:33:39,976 --> 01:33:40,768
+<font color=#FFFF00>Muito bem!</font>
+
+823
+01:33:53,197 --> 01:33:54,073
+<font color=#FFFF00>Esperem!</font>
+
+824
+01:33:54,907 --> 01:33:56,951
+<font color=#FFFF00>Por baixo! Por baixo!</font>
+
+825
+01:34:16,179 --> 01:34:17,346
+<font color=#FFFF00>Haken!</font>
+
+826
+01:34:41,495 --> 01:34:44,999
+<font color=#FFFF00>Esta coluna para o carro!
+Esta coluna fica comigo!</font>
+
+827
+01:34:48,669 --> 01:34:49,962
+<font color=#FFFF00>Rápido!</font>
+
+828
+01:34:50,546 --> 01:34:51,714
+<font color=#FFFF00>Sai daí!</font>
+
+829
+01:35:34,674 --> 01:35:35,591
+<font color=#FFFF00>Maximus!</font>
+
+830
+01:35:48,145 --> 01:35:50,147
+<font color=#FFFF00>Colunas únicas! Colunas únicas!</font>
+
+831
+01:35:50,189 --> 01:35:51,857
+<font color=#FFFF00>Colunas únicas!</font>
+
+832
+01:36:42,408 --> 01:36:45,286
+<font color=#FFFF00>Não sou muito bom em História...</font>
+
+833
+01:36:46,036 --> 01:36:48,747
+<font color=#FFFF00>...mas os bárbaros
+não perdem a batalha de Cartago?</font>
+
+834
+01:36:48,831 --> 01:36:50,791
+<font color=#FFFF00>Sim, Alteza.</font>
+
+835
+01:36:52,543 --> 01:36:54,170
+<font color=#FFFF00>Desculpe-me, Alteza.</font>
+
+836
+01:36:54,295 --> 01:36:57,006
+<font color=#FFFF00>Não, eu gosto de surpresas.</font>
+
+837
+01:36:57,339 --> 01:36:58,716
+<font color=#FFFF00>Quem é ele?</font>
+
+838
+01:36:58,841 --> 01:37:01,802
+<font color=#FFFF00>O chamam de Espanhol, Majestade.</font>
+
+839
+01:37:03,679 --> 01:37:05,347
+<font color=#FFFF00>Vou conhecê-lo.</font>
+
+840
+01:37:05,973 --> 01:37:07,433
+<font color=#FFFF00>Sim, Majestade.</font>
+
+841
+01:37:26,702 --> 01:37:29,622
+<font color=#FFFF00>Em frente! Continuem!</font>
+
+842
+01:37:43,594 --> 01:37:45,387
+<font color=#FFFF00>Larguem as vossas armas.</font>
+
+843
+01:37:49,350 --> 01:37:52,353
+<font color=#FFFF00>Gladiador, o Imperador
+quer lhe conhecer.</font>
+
+844
+01:37:52,811 --> 01:37:54,396
+<font color=#FFFF00>Estou ao serviço do imperador.</font>
+
+845
+01:38:21,799 --> 01:38:23,634
+<font color=#FFFF00>Levantem-se. Levantem-se.</font>
+
+846
+01:38:33,435 --> 01:38:35,396
+<font color=#FFFF00>A sua fama é merecida, Espanhol.</font>
+
+847
+01:38:35,479 --> 01:38:37,982
+<font color=#FFFF00>Nunca houve um gladiador
+à sua altura.</font>
+
+848
+01:38:38,107 --> 01:38:42,319
+<font color=#FFFF00>O garoto insiste que você é a
+encarnação de Heitor. Ou Hércules?</font>
+
+849
+01:38:44,321 --> 01:38:47,241
+<font color=#FFFF00>Por que não nos diz
+o seu verdadeiro nome?</font>
+
+850
+01:38:49,702 --> 01:38:51,245
+<font color=#FFFF00>Você tem um nome?</font>
+
+851
+01:38:52,538 --> 01:38:54,498
+<font color=#FFFF00>O meu nome é Gladiador.</font>
+
+852
+01:38:57,292 --> 01:38:58,919
+<font color=#FFFF00>Como se atreve a me virar as costas?</font>
+
+853
+01:39:00,045 --> 01:39:01,630
+<font color=#FFFF00>Escravo!</font>
+
+854
+01:39:02,548 --> 01:39:05,342
+<font color=#FFFF00>Tire o seu elmo e
+diga-me o seu nome!</font>
+
+855
+01:39:17,312 --> 01:39:19,356
+<font color=#FFFF00>O meu nome é Maximus
+Decimus Meridius...</font>
+
+856
+01:39:20,357 --> 01:39:24,153
+<font color=#FFFF00>...comandante dos exércitos do
+norte, general das Legiões Felix...</font>
+
+857
+01:39:24,778 --> 01:39:28,073
+<font color=#FFFF00>...servo leal do verdadeiro
+Imperador, Marcus Aurelius.</font>
+
+858
+01:39:29,450 --> 01:39:31,452
+<font color=#FFFF00>Pai de um filho assassinado...</font>
+
+859
+01:39:31,952 --> 01:39:33,912
+<font color=#FFFF00>...marido de
+uma esposa assassinada...</font>
+
+860
+01:39:34,705 --> 01:39:38,250
+<font color=#FFFF00>...e terei minha vingança,
+nesta vida ou na próxima.</font>
+
+861
+01:39:45,340 --> 01:39:46,800
+<font color=#FFFF00>Armas!</font>
+
+862
+01:39:59,855 --> 01:40:02,065
+<font color=#FFFF00>Vive! Vive! Vive!</font>
+
+863
+01:40:04,151 --> 01:40:06,195
+<font color=#FFFF00>Vive! Vive!</font>
+
+864
+01:40:11,492 --> 01:40:12,910
+<font color=#FFFF00>Vive! Vive!</font>
+
+865
+01:40:14,203 --> 01:40:15,829
+<font color=#FFFF00>Vive! Vive!</font>
+
+866
+01:40:50,572 --> 01:40:53,325
+<font color=#FFFF00>Descansar armas!</font>
+
+867
+01:41:43,542 --> 01:41:46,670
+<font color=#FFFF00>Maximus! Maximus! Maximus!</font>
+
+868
+01:42:38,054 --> 01:42:38,930
+<font color=#FFFF00>Pai.</font>
+
+869
+01:43:53,588 --> 01:43:55,548
+<font color=#FFFF00>Porque é que ele ainda está vivo?</font>
+
+870
+01:43:56,758 --> 01:43:58,551
+<font color=#FFFF00>Não sei.</font>
+
+871
+01:43:58,802 --> 01:44:00,762
+<font color=#FFFF00>Não deveria estar vivo.</font>
+
+872
+01:44:01,096 --> 01:44:02,889
+<font color=#FFFF00>Isso me humilha.</font>
+
+873
+01:44:04,099 --> 01:44:05,767
+<font color=#FFFF00>Estou muito humilhado.</font>
+
+874
+01:44:17,112 --> 01:44:18,947
+<font color=#FFFF00>Fiz o que tinha de fazer.</font>
+
+875
+01:44:19,990 --> 01:44:23,785
+<font color=#FFFF00>Se o meu pai tivesse feito à sua maneira,
+o Império teria desmoronado.</font>
+
+876
+01:44:24,202 --> 01:44:25,829
+<font color=#FFFF00>Vê isso?</font>
+
+877
+01:44:26,246 --> 01:44:27,747
+<font color=#FFFF00>Sim.</font>
+
+878
+01:44:32,127 --> 01:44:35,297
+<font color=#FFFF00>O que sentiu quando o viu?</font>
+
+879
+01:44:37,549 --> 01:44:39,384
+<font color=#FFFF00>Nada.</font>
+
+880
+01:44:41,136 --> 01:44:43,430
+<font color=#FFFF00>Ele feriu-lhe profundamente, não foi?</font>
+
+881
+01:44:44,848 --> 01:44:47,475
+<font color=#FFFF00>Não mais do que eu o feri.</font>
+
+882
+01:44:51,396 --> 01:44:53,356
+<font color=#FFFF00>Mentiram para mim na Germânia.</font>
+
+883
+01:44:55,400 --> 01:44:57,610
+<font color=#FFFF00>Disseram-me que estava morto.</font>
+
+884
+01:44:59,487 --> 01:45:03,867
+<font color=#FFFF00>Se mentem para mim, não me
+respeitam. Como podem me amar?</font>
+
+885
+01:45:06,828 --> 01:45:10,540
+<font color=#FFFF00>Tem que mostrar às legiões
+que a traição...</font>
+
+886
+01:45:10,665 --> 01:45:12,917
+<font color=#FFFF00>...sempre será punida.</font>
+
+887
+01:45:13,251 --> 01:45:15,045
+<font color=#FFFF00>Pobre irmã.</font>
+
+888
+01:45:15,128 --> 01:45:17,130
+<font color=#FFFF00>Não queria ser seu inimigo.</font>
+
+889
+01:45:18,715 --> 01:45:20,341
+<font color=#FFFF00>O que vai fazer?</font>
+
+890
+01:45:33,021 --> 01:45:34,147
+<font color=#FFFF00>Por aqui.</font>
+
+891
+01:46:10,058 --> 01:46:13,228
+<font color=#FFFF00>Mulheres ricas pagam
+para ter prazer com os campeões.</font>
+
+892
+01:46:13,311 --> 01:46:15,980
+<font color=#FFFF00>Eu sabia que o seu irmão
+mandaria assassinos.</font>
+
+893
+01:46:16,648 --> 01:46:18,942
+<font color=#FFFF00>Não imaginei que mandaria
+o melhor deles.</font>
+
+894
+01:46:20,735 --> 01:46:22,904
+<font color=#FFFF00>Ele não sabe.</font>
+
+895
+01:46:23,905 --> 01:46:27,075
+<font color=#FFFF00>A minha família foi queimada viva
+e crucificada.</font>
+
+896
+01:46:27,200 --> 01:46:29,494
+<font color=#FFFF00>- Eu não sabia de nada.
+- Não minta!</font>
+
+897
+01:46:36,125 --> 01:46:38,086
+<font color=#FFFF00>Chorei por eles.</font>
+
+898
+01:46:38,211 --> 01:46:40,004
+<font color=#FFFF00>Como chorou pelo seu pai?</font>
+
+899
+01:46:40,129 --> 01:46:42,090
+<font color=#FFFF00>Como chorou pelo seu pai?</font>
+
+900
+01:46:42,215 --> 01:46:45,176
+<font color=#FFFF00>Vivo numa prisão de medo desde
+aquele dia.</font>
+
+901
+01:46:45,969 --> 01:46:49,264
+<font color=#FFFF00>Sem poder chorar pelo pai
+por medo do meu irmão.</font>
+
+902
+01:46:50,807 --> 01:46:53,643
+<font color=#FFFF00>Vivendo em terror todos os dias...</font>
+
+903
+01:46:53,726 --> 01:46:55,853
+<font color=#FFFF00>...porque o filho é herdeiro
+do trono.</font>
+
+904
+01:46:58,523 --> 01:47:00,650
+<font color=#FFFF00>Eu chorei.</font>
+
+905
+01:47:01,276 --> 01:47:04,445
+<font color=#FFFF00>O meu filho era inocente.</font>
+
+906
+01:47:05,154 --> 01:47:07,657
+<font color=#FFFF00>O meu também é.</font>
+
+907
+01:47:09,117 --> 01:47:11,619
+<font color=#FFFF00>Ele precisa morrer para que
+confie em mim?</font>
+
+908
+01:47:13,746 --> 01:47:16,165
+<font color=#FFFF00>Que diferença faz se confio
+ou não em você?</font>
+
+909
+01:47:17,625 --> 01:47:20,420
+<font color=#FFFF00>Os deuses pouparam-lhe.
+Não entende?</font>
+
+910
+01:47:20,503 --> 01:47:23,965
+<font color=#FFFF00>Hoje vi um escravo ser mais poderoso
+que o imperador de Roma.</font>
+
+911
+01:47:24,090 --> 01:47:25,842
+<font color=#FFFF00>Os deuses pouparam-me?</font>
+
+912
+01:47:26,092 --> 01:47:29,470
+<font color=#FFFF00>Estou à mercê deles. O meu único
+poder é divertir a multidão.</font>
+
+913
+01:47:29,595 --> 01:47:32,932
+<font color=#FFFF00>Isso é poder. A multidão é Roma.</font>
+
+914
+01:47:33,016 --> 01:47:35,560
+<font color=#FFFF00>Se Commodus a controla,
+controla tudo.</font>
+
+915
+01:47:36,894 --> 01:47:38,521
+<font color=#FFFF00>Escute-me.</font>
+
+916
+01:47:38,938 --> 01:47:42,108
+<font color=#FFFF00>O meu irmão tem inimigos,
+a maioria no Senado.</font>
+
+917
+01:47:42,150 --> 01:47:44,319
+<font color=#FFFF00>Enquanto o povo o segue, ninguém...</font>
+
+918
+01:47:44,402 --> 01:47:47,405
+<font color=#FFFF00>...se atreveria a desafiá-lo,
+até você chegar.</font>
+
+919
+01:47:48,406 --> 01:47:50,867
+<font color=#FFFF00>Opõe-se a ele, mas não
+fazem nada!</font>
+
+920
+01:47:50,950 --> 01:47:54,537
+<font color=#FFFF00>Alguns políticos dedicaram
+as suas vidas a Roma.</font>
+
+921
+01:47:54,662 --> 01:47:56,622
+<font color=#FFFF00>Um homem mais do que todos.</font>
+
+922
+01:47:57,498 --> 01:48:00,710
+<font color=#FFFF00>Se eu conseguir um encontro,
+você fala com ele?</font>
+
+923
+01:48:00,835 --> 01:48:02,795
+<font color=#FFFF00>Não compreende?</font>
+
+924
+01:48:03,046 --> 01:48:06,758
+<font color=#FFFF00>Posso morrer na arena amanhã.
+Sou um escravo!</font>
+
+925
+01:48:07,425 --> 01:48:09,844
+<font color=#FFFF00>Que diferença eu posso fazer?</font>
+
+926
+01:48:10,428 --> 01:48:12,513
+<font color=#FFFF00>Esse homem quer o que você quer.</font>
+
+927
+01:48:12,972 --> 01:48:15,266
+<font color=#FFFF00>Então que ele mate Commodus!</font>
+
+928
+01:48:17,435 --> 01:48:19,395
+<font color=#FFFF00>Certa vez, conheci um homem...</font>
+
+929
+01:48:20,271 --> 01:48:22,231
+<font color=#FFFF00>...um homem nobre...</font>
+
+930
+01:48:22,565 --> 01:48:25,818
+<font color=#FFFF00>...um homem de princípios,
+que amou o meu pai.</font>
+
+931
+01:48:26,569 --> 01:48:28,529
+<font color=#FFFF00>E o meu pai o amou.</font>
+
+932
+01:48:30,490 --> 01:48:33,242
+<font color=#FFFF00>Esse homem também serviu bem Roma.</font>
+
+933
+01:48:36,954 --> 01:48:38,748
+<font color=#FFFF00>Esse homem já não existe.</font>
+
+934
+01:48:39,749 --> 01:48:41,501
+<font color=#FFFF00>O seu irmão fez um bom trabalho.</font>
+
+935
+01:48:42,001 --> 01:48:43,795
+<font color=#FFFF00>Deixe-me lhe ajudar.</font>
+
+936
+01:48:49,592 --> 01:48:51,052
+<font color=#FFFF00>Sim.</font>
+
+937
+01:48:51,636 --> 01:48:53,429
+<font color=#FFFF00>Você pode me ajudar.</font>
+
+938
+01:48:55,932 --> 01:49:00,228
+<font color=#FFFF00>Esqueça que me conheceu e
+nunca mais volte aqui.</font>
+
+939
+01:49:03,356 --> 01:49:06,442
+<font color=#FFFF00>Guarda! A senhora já terminou.</font>
+
+940
+01:49:34,554 --> 01:49:35,513
+<font color=#FFFF00>Como se chama?</font>
+
+941
+01:49:39,225 --> 01:49:40,560
+<font color=#FFFF00>Julian</font>
+
+942
+01:49:46,399 --> 01:49:47,024
+<font color=#FFFF00>Nome?</font>
+
+943
+01:49:48,943 --> 01:49:50,278
+<font color=#FFFF00>Marcus, senhor.</font>
+
+944
+01:49:51,404 --> 01:49:52,572
+<font color=#FFFF00>O nome do meu Pai.</font>
+
+945
+01:50:00,538 --> 01:50:02,623
+<font color=#FFFF00>Eles deviam ter percebido que
+Maximus tinha fugido</font>
+
+946
+01:50:02,456 --> 01:50:04,458
+<font color=#FFFF00>quando encontraram os
+corpos dos quatro homens.</font>
+
+947
+01:50:06,085 --> 01:50:08,004
+<font color=#FFFF00>Pensaram que tinha sido um
+ataque dos bárbaros.</font>
+
+948
+01:50:09,714 --> 01:50:12,592
+<font color=#FFFF00>Estes são bons homens, senhor,
+leais ao Imperador.</font>
+
+949
+01:50:20,308 --> 01:50:21,851
+<font color=#FFFF00>Preparar!</font>
+
+950
+01:50:29,400 --> 01:50:31,027
+<font color=#FFFF00>Apontar!</font>
+
+951
+01:50:52,048 --> 01:50:55,217
+<font color=#FFFF00>Então talvez tivesse
+sido você...</font>
+
+952
+01:50:56,093 --> 01:50:57,428
+<font color=#FFFF00>...e nunca tivesse me dito.</font>
+
+953
+01:50:58,012 --> 01:50:59,096
+<font color=#FFFF00>Eu não sabia.</font>
+
+954
+01:50:59,347 --> 01:51:00,306
+<font color=#FFFF00>Não sabia?</font>
+
+955
+01:51:01,891 --> 01:51:04,560
+<font color=#FFFF00>Mas um General está
+sempre controlando,</font>
+
+956
+01:51:06,103 --> 01:51:07,271
+<font color=#FFFF00>sempre no comando.</font>
+
+957
+01:51:08,731 --> 01:51:09,607
+<font color=#FFFF00>Não está?</font>
+
+958
+01:51:11,108 --> 01:51:12,276
+<font color=#FFFF00>Sim, César.</font>
+
+959
+01:51:26,582 --> 01:51:27,917
+<font color=#FFFF00>Então dê a ordem.</font>
+
+960
+01:51:28,626 --> 01:51:29,293
+<font color=#FFFF00>Diga.</font>
+
+961
+01:51:46,268 --> 01:51:46,977
+<font color=#FFFF00>Fogo!</font>
+
+962
+01:52:22,555 --> 01:52:23,889
+<font color=#FFFF00>Maximus</font>
+
+963
+01:52:24,473 --> 01:52:27,643
+<font color=#FFFF00>...você comandou legiões?
+Teve muitas vitórias?</font>
+
+964
+01:52:28,394 --> 01:52:29,353
+<font color=#FFFF00>Sim.</font>
+
+965
+01:52:29,478 --> 01:52:30,688
+<font color=#FFFF00>Na Germânia?</font>
+
+966
+01:52:32,690 --> 01:52:34,316
+<font color=#FFFF00>Em muitos países.</font>
+
+967
+01:52:36,068 --> 01:52:37,528
+<font color=#FFFF00>General!</font>
+
+968
+01:53:26,243 --> 01:53:28,287
+<font color=#FFFF00>Tem um grande nome.</font>
+
+969
+01:53:29,622 --> 01:53:31,749
+<font color=#FFFF00>Ele terá que matar o seu nome
+antes de lhe matar.</font>
+
+970
+01:53:43,177 --> 01:53:44,595
+<font color=#FFFF00>Senador Gaius.</font>
+
+971
+01:53:45,763 --> 01:53:47,348
+<font color=#FFFF00>Senador Gracchus!</font>
+
+972
+01:53:49,308 --> 01:53:52,728
+<font color=#FFFF00>Não costumo lhe ver usufruindo
+dos prazeres da multidão.</font>
+
+973
+01:53:52,853 --> 01:53:55,230
+<font color=#FFFF00>Não finjo ser um homem do povo.</font>
+
+974
+01:53:56,148 --> 01:53:58,567
+<font color=#FFFF00>Mas tento ser um homem
+para o povo.</font>
+
+975
+01:54:16,293 --> 01:54:18,212
+<font color=#FFFF00>César! César!</font>
+
+976
+01:54:24,510 --> 01:54:26,470
+<font color=#FFFF00>Povo de Roma!</font>
+
+977
+01:54:28,597 --> 01:54:31,266
+<font color=#FFFF00>No quarto dia de Antioquia...</font>
+
+978
+01:54:31,558 --> 01:54:36,438
+<font color=#FFFF00>...podemos comemorar o 64° dia
+dos jogos.</font>
+
+979
+01:54:36,563 --> 01:54:41,068
+<font color=#FFFF00>E na sua majestosa caridade...</font>
+
+980
+01:54:41,610 --> 01:54:45,989
+<font color=#FFFF00>...o Imperador escolheu este dia
+para presentear o povo de Roma...</font>
+
+981
+01:54:46,407 --> 01:54:50,119
+<font color=#FFFF00>...com um torneio final histórico.</font>
+
+982
+01:54:50,577 --> 01:54:55,541
+<font color=#FFFF00>Voltando ao Coliseu hoje,
+depois de 5 anos afastado...</font>
+
+983
+01:54:56,667 --> 01:55:00,129
+<font color=#FFFF00>...César tem o prazer de vos
+oferecer...</font>
+
+984
+01:55:00,254 --> 01:55:03,632
+<font color=#FFFF00>...o único campeão invencivel...</font>
+
+985
+01:55:03,757 --> 01:55:05,968
+<font color=#FFFF00>...da história de Roma...</font>
+
+986
+01:55:06,093 --> 01:55:09,763
+<font color=#FFFF00>...o lendário Tigris...</font>
+
+987
+01:55:09,847 --> 01:55:11,390
+<font color=#FFFF00>... da Gália!</font>
+
+988
+01:55:32,661 --> 01:55:36,039
+<font color=#FFFF00>Ele sabe bem como manipular
+a multidão.</font>
+
+989
+01:55:36,165 --> 01:55:38,834
+<font color=#FFFF00>Marcus Aurelius sonhou com
+uma Roma.</font>
+
+990
+01:55:38,959 --> 01:55:41,378
+<font color=#FFFF00>E não é esta! E não é esta!</font>
+
+991
+01:55:41,461 --> 01:55:44,047
+<font color=#FFFF00>Marcus Aurelius está morto,
+Maximus.</font>
+
+992
+01:55:45,215 --> 01:55:47,342
+<font color=#FFFF00>Nós, mortais, não passamos de
+sombras e pó.</font>
+
+993
+01:55:48,385 --> 01:55:50,804
+<font color=#FFFF00>Sombras e pó, Maximus!</font>
+
+994
+01:55:50,888 --> 01:55:54,266
+<font color=#FFFF00>Da escola de treino
+de Antonius Proximo...</font>
+
+995
+01:55:54,308 --> 01:55:58,061
+<font color=#FFFF00>...César tem o orgulho
+de lhes oferecer...</font>
+
+996
+01:55:58,312 --> 01:56:01,940
+<font color=#FFFF00>...Aelius Maximus!</font>
+
+997
+01:56:09,573 --> 01:56:11,783
+<font color=#FFFF00>Maximus! Maximus! Maximus!</font>
+
+998
+01:56:14,703 --> 01:56:16,914
+<font color=#FFFF00>Eles recebem-no como se fosse
+um deles.</font>
+
+999
+01:56:17,080 --> 01:56:20,667
+<font color=#FFFF00>A multidão é inconstante.
+Ele será esquecido em um mês.</font>
+
+1000
+01:56:23,921 --> 01:56:26,757
+<font color=#FFFF00>Não.
+Muito antes disso.</font>
+
+1001
+01:56:28,592 --> 01:56:30,552
+<font color=#FFFF00>Já está tudo tratado.</font>
+
+1002
+01:56:48,862 --> 01:56:51,406
+<font color=#FFFF00>Nós, que vamos morrer,
+o saudamos.</font>
+
+1003
+01:57:39,121 --> 01:57:40,831
+<font color=#FFFF00>Acabe com ele!</font>
+
+1004
+01:59:13,340 --> 01:59:15,175
+<font color=#FFFF00>Corte-o!
+Mate-o!</font>
+
+1005
+01:59:17,427 --> 01:59:18,803
+<font color=#FFFF00>Mate-o! Mate-o!</font>
+
+1006
+01:59:23,266 --> 01:59:25,226
+<font color=#FFFF00>Mate-o!!</font>
+
+1007
+01:59:26,478 --> 01:59:28,146
+<font color=#FFFF00>Mate-o! Mate-o!</font>
+
+1008
+01:59:28,229 --> 01:59:29,397
+<font color=#FFFF00>Mate-o!</font>
+
+1009
+02:00:19,364 --> 02:00:22,075
+<font color=#FFFF00>Maximus! Maximus,
+o misericordioso!</font>
+
+1010
+02:00:32,961 --> 02:00:35,296
+<font color=#FFFF00>Maximus! Maximus!</font>
+
+1011
+02:01:17,630 --> 02:01:19,674
+<font color=#FFFF00>O que vou fazer com você?</font>
+
+1012
+02:01:21,050 --> 02:01:22,844
+<font color=#FFFF00>Você simplesmente não...</font>
+
+1013
+02:01:23,678 --> 02:01:25,305
+<font color=#FFFF00>...morre.</font>
+
+1014
+02:01:29,309 --> 02:01:31,478
+<font color=#FFFF00>Somos assim tão diferentes, você e eu?</font>
+
+1015
+02:01:32,687 --> 02:01:36,024
+<font color=#FFFF00>Você tira a vida quando tem
+de fazê-lo, como eu.</font>
+
+1016
+02:01:37,066 --> 02:01:40,862
+<font color=#FFFF00>Só tenho mais uma vida para tirar.
+Depois, acabou.</font>
+
+1017
+02:01:41,321 --> 02:01:43,198
+<font color=#FFFF00>Então tire agora.</font>
+
+1018
+02:01:55,877 --> 02:01:57,670
+<font color=#FFFF00>Disseram que o seu filho...</font>
+
+1019
+02:01:58,713 --> 02:02:00,798
+<font color=#FFFF00>...gritou como uma menina...</font>
+
+1020
+02:02:01,132 --> 02:02:03,426
+<font color=#FFFF00>...quando o pregaram na cruz.</font>
+
+1021
+02:02:04,928 --> 02:02:06,721
+<font color=#FFFF00>E a sua mulher...</font>
+
+1022
+02:02:07,764 --> 02:02:09,724
+<font color=#FFFF00>...gemeu como uma prostituta...</font>
+
+1023
+02:02:10,767 --> 02:02:12,769
+<font color=#FFFF00>...quando a violaram...</font>
+
+1024
+02:02:13,019 --> 02:02:15,230
+<font color=#FFFF00>...uma vez atrás da outra...</font>
+
+1025
+02:02:16,731 --> 02:02:18,399
+<font color=#FFFF00>...sem parar.</font>
+
+1026
+02:02:23,613 --> 02:02:26,866
+<font color=#FFFF00>O tempo de homenageá-lo está
+chegando ao fim...</font>
+
+1027
+02:02:31,871 --> 02:02:33,706
+<font color=#FFFF00>...Majestade.</font>
+
+1028
+02:02:47,387 --> 02:02:49,514
+<font color=#FFFF00>Maximus! Maximus!</font>
+
+1029
+02:03:00,692 --> 02:03:01,985
+<font color=#FFFF00>General!</font>
+
+1030
+02:03:02,944 --> 02:03:04,278
+<font color=#FFFF00>General!</font>
+
+1031
+02:03:09,409 --> 02:03:10,743
+<font color=#FFFF00>Cícero!!</font>
+
+1032
+02:03:17,333 --> 02:03:18,209
+<font color=#FFFF00>General!</font>
+
+1033
+02:03:18,334 --> 02:03:20,169
+<font color=#FFFF00>- Onde estão acampados?
+- Ostia.</font>
+
+1034
+02:03:29,804 --> 02:03:32,432
+<font color=#FFFF00>Diga aos homens que o General está vivo.
+Encontre-me!</font>
+
+1035
+02:03:32,557 --> 02:03:33,808
+<font color=#FFFF00>- Vá!
+- Encontre-me!</font>
+
+1036
+02:04:00,334 --> 02:04:02,253
+<font color=#FFFF00>Podem lhe ouvir?</font>
+
+1037
+02:04:06,090 --> 02:04:09,510
+<font color=#FFFF00>- Quem?
+- A sua família, na outra vida.</font>
+
+1038
+02:04:12,013 --> 02:04:14,182
+<font color=#FFFF00>- Sim.
+- O que lhes diz?</font>
+
+1039
+02:04:18,186 --> 02:04:19,812
+<font color=#FFFF00>Ao meu filho...</font>
+
+1040
+02:04:21,355 --> 02:04:23,649
+<font color=#FFFF00>...digo que o verei em breve.</font>
+
+1041
+02:04:23,983 --> 02:04:26,694
+<font color=#FFFF00>E que baixe os calcanhares
+se estiver montando.</font>
+
+1042
+02:04:28,946 --> 02:04:30,823
+<font color=#FFFF00>À minha mulher...</font>
+
+1043
+02:04:33,034 --> 02:04:35,036
+<font color=#FFFF00>não é da sua conta.</font>
+
+1044
+02:04:42,877 --> 02:04:45,505
+<font color=#FFFF00>E agora adoram Maximus
+pela sua misericórdia!</font>
+
+1045
+02:04:47,006 --> 02:04:50,384
+<font color=#FFFF00>Não posso matá-lo ou parecerei
+ainda mais impiedoso.</font>
+
+1046
+02:04:51,969 --> 02:04:56,182
+<font color=#FFFF00>A coisa toda parece
+um pesadelo louco!</font>
+
+1047
+02:04:57,600 --> 02:05:02,855
+<font color=#FFFF00>Ele está lhe provocando. A sua vitória
+é um ato de provocação.</font>
+
+1048
+02:05:02,980 --> 02:05:06,776
+<font color=#FFFF00>A multidão vê isso, bem como
+o Senado.</font>
+
+1049
+02:05:07,151 --> 02:05:10,613
+<font color=#FFFF00>Cada dia que ele vive, eles ficam
+mais valentes.</font>
+
+1050
+02:05:11,489 --> 02:05:12,615
+<font color=#FFFF00>Mate-o.</font>
+
+1051
+02:05:12,740 --> 02:05:13,699
+<font color=#FFFF00>Não.</font>
+
+1052
+02:05:15,326 --> 02:05:17,662
+<font color=#FFFF00>Não o tornarei um mártir.</font>
+
+1053
+02:05:25,503 --> 02:05:28,798
+<font color=#FFFF00>Hoje quando fui ao Senado,
+lhes disse propositadamente</font>
+
+1054
+02:05:28,798 --> 02:05:31,884
+<font color=#FFFF00>que estava usando as reservas
+de grão para pagar os jogos.</font>
+
+1055
+02:05:34,387 --> 02:05:36,097
+<font color=#FFFF00>Reparou no que aconteceu?</font>
+
+1056
+02:05:36,847 --> 02:05:37,473
+<font color=#FFFF00>Nada.</font>
+
+1057
+02:05:37,682 --> 02:05:38,099
+<font color=#FFFF00>Exatamente.</font>
+
+1058
+02:05:39,308 --> 02:05:40,059
+<font color=#FFFF00>Nada.</font>
+
+1059
+02:05:40,810 --> 02:05:46,065
+<font color=#FFFF00>Nem uma só palavra de protesto</font>
+
+1060
+02:05:46,983 --> 02:05:47,733
+<font color=#FFFF00>Porquê?</font>
+
+1061
+02:05:49,902 --> 02:05:51,529
+<font color=#FFFF00>Falaram-me...</font>
+
+1062
+02:05:52,154 --> 02:05:57,702
+<font color=#FFFF00>...de uma serpente do mar que tem um
+método incomum para atrair as suas presas.</font>
+
+1063
+02:05:57,743 --> 02:06:02,123
+<font color=#FFFF00>Ela fica no fundo do oceano
+como se estivesse ferida.</font>
+
+1064
+02:06:02,164 --> 02:06:05,209
+<font color=#FFFF00>Quando os seus inimigos se aproximam...</font>
+
+1065
+02:06:05,334 --> 02:06:08,045
+<font color=#FFFF00>...ela continua parada.</font>
+
+1066
+02:06:08,546 --> 02:06:13,134
+<font color=#FFFF00>E então os seus inimigos
+começam a mordê-la...</font>
+
+1067
+02:06:13,259 --> 02:06:16,429
+<font color=#FFFF00>...e ela continua parada.</font>
+
+1068
+02:06:19,181 --> 02:06:20,766
+<font color=#FFFF00>Então...</font>
+
+1069
+02:06:21,559 --> 02:06:23,811
+<font color=#FFFF00>...ficaremos bem quietos...</font>
+
+1070
+02:06:24,061 --> 02:06:27,606
+<font color=#FFFF00>...e deixamos os nossos inimigos
+virem nos morder.</font>
+
+1071
+02:06:28,482 --> 02:06:30,484
+<font color=#FFFF00>E que venham todos os senadores.</font>
+
+1072
+02:06:48,294 --> 02:06:49,587
+<font color=#FFFF00>Cícero, meu amigo.</font>
+
+1073
+02:06:50,045 --> 02:06:51,672
+<font color=#FFFF00>Pensei que tinha lhe visto pela última vez.</font>
+
+1074
+02:06:51,797 --> 02:06:54,216
+<font color=#FFFF00>- Pensei que estava morto.
+- Quase.</font>
+
+1075
+02:06:54,467 --> 02:06:56,427
+<font color=#FFFF00>Desde quando é que os
+homens estão em Ostia?</font>
+
+1076
+02:06:56,552 --> 02:06:57,803
+<font color=#FFFF00>Durante todo o Inverno.</font>
+
+1077
+02:06:57,928 --> 02:06:59,472
+<font color=#FFFF00>Como estão eles?</font>
+
+1078
+02:06:59,597 --> 02:07:01,807
+<font color=#FFFF00>Gordos e irritados.</font>
+
+1079
+02:07:02,266 --> 02:07:05,186
+<font color=#FFFF00>- Quem está no comando?
+- Algum idiota de Roma.</font>
+
+1080
+02:07:06,687 --> 02:07:08,481
+<font color=#FFFF00>Quando podem estar prontos?</font>
+
+1081
+02:07:08,564 --> 02:07:10,316
+<font color=#FFFF00>Por você, amanhã.</font>
+
+1082
+02:07:11,984 --> 02:07:14,028
+<font color=#FFFF00>Preciso que faça uma coisa por mim.</font>
+
+1083
+02:07:19,200 --> 02:07:23,621
+<font color=#FFFF00>Venham! Se não estiveram na arena,
+vejam o espetáculo aqui!</font>
+
+1084
+02:07:23,746 --> 02:07:26,749
+<font color=#FFFF00>O gigante Maximus desafia
+o nosso Imperador.</font>
+
+1085
+02:07:26,874 --> 02:07:28,375
+<font color=#FFFF00>O que faremos?</font>
+
+1086
+02:07:28,459 --> 02:07:31,170
+<font color=#FFFF00>Ele desafia toda a gente!
+Ao fazerem-lhe isto, eles...</font>
+
+1087
+02:07:36,050 --> 02:07:37,468
+<font color=#FFFF00>Ele o pegou!</font>
+
+1088
+02:07:45,976 --> 02:07:48,479
+<font color=#FFFF00>Senhora? Servi o seu pai
+em Vindobona!</font>
+
+1089
+02:07:48,562 --> 02:07:51,982
+<font color=#FFFF00>- Afaste-se!
+- Servi o seu pai em Vindobona.</font>
+
+1090
+02:07:52,650 --> 02:07:53,734
+<font color=#FFFF00>Afaste-se!</font>
+
+1091
+02:07:53,817 --> 02:07:56,320
+<font color=#FFFF00>Servi o General Maximus.
+Ainda o sirvo.</font>
+
+1092
+02:07:58,572 --> 02:08:00,616
+<font color=#FFFF00>Párem. Párem!</font>
+
+1093
+02:08:02,785 --> 02:08:04,245
+<font color=#FFFF00>Para trás!</font>
+
+1094
+02:08:05,704 --> 02:08:08,040
+<font color=#FFFF00>O general diz que verá
+o seu político.</font>
+
+1095
+02:08:10,292 --> 02:08:13,003
+<font color=#FFFF00>- Pela sua lealdade, soldado.
+- Obrigado, senhora.</font>
+
+1096
+02:08:23,347 --> 02:08:24,807
+<font color=#FFFF00>Deixe-nos a sós.</font>
+
+1097
+02:08:30,396 --> 02:08:31,981
+<font color=#FFFF00>Senador Gracchus.</font>
+
+1098
+02:08:45,869 --> 02:08:46,829
+<font color=#FFFF00>General.</font>
+
+1099
+02:08:48,289 --> 02:08:51,500
+<font color=#FFFF00>Espero que minha vinda
+aqui prove...</font>
+
+1100
+02:08:52,293 --> 02:08:54,253
+<font color=#FFFF00>...que pode confiar em mim.</font>
+
+1101
+02:08:58,507 --> 02:09:00,467
+<font color=#FFFF00>- O Senado está com você?
+- O Senado?</font>
+
+1102
+02:09:02,553 --> 02:09:05,347
+<font color=#FFFF00>Sim. Posso falar por eles..</font>
+
+1103
+02:09:05,931 --> 02:09:08,309
+<font color=#FFFF00>Compre a minha liberdade e
+tire-me de Roma?</font>
+
+1104
+02:09:09,518 --> 02:09:11,478
+<font color=#FFFF00>Para quê?</font>
+
+1105
+02:09:12,354 --> 02:09:14,648
+<font color=#FFFF00>Ponha-me fora dos muros
+da cidade.</font>
+
+1106
+02:09:15,357 --> 02:09:18,986
+<font color=#FFFF00>Prepare cavalos para me levar
+a Ostia. O meu exército está lá.</font>
+
+1107
+02:09:19,486 --> 02:09:22,906
+<font color=#FFFF00>No segundo dia, volto à frente
+de 5.000 homens.</font>
+
+1108
+02:09:23,032 --> 02:09:25,075
+<font color=#FFFF00>Mas as legiões têm
+novos comandantes...</font>
+
+1109
+02:09:25,159 --> 02:09:26,785
+<font color=#FFFF00>...leais a Commodus.</font>
+
+1110
+02:09:26,910 --> 02:09:29,872
+<font color=#FFFF00>Quando me virem, verá onde está
+a lealdade deles.</font>
+
+1111
+02:09:29,955 --> 02:09:31,623
+<font color=#FFFF00>Isso é loucura!</font>
+
+1112
+02:09:32,207 --> 02:09:35,586
+<font color=#FFFF00>Nenhum exército romano entrou
+na capital em 100 anos.</font>
+
+1113
+02:09:35,669 --> 02:09:37,546
+<font color=#FFFF00>Não trocarei um ditador por outro!</font>
+
+1114
+02:09:37,629 --> 02:09:41,717
+<font color=#FFFF00>Não há tempo para meias medidas
+nem para conversa, senador.</font>
+
+1115
+02:09:41,842 --> 02:09:45,471
+<font color=#FFFF00>E depois do seu glorioso golpe?</font>
+
+1116
+02:09:46,180 --> 02:09:49,600
+<font color=#FFFF00>Pegará seus 5.000 guerreiros
+e partirá?</font>
+
+1117
+02:09:49,683 --> 02:09:51,310
+<font color=#FFFF00>Partirei.</font>
+
+1118
+02:09:52,144 --> 02:09:55,814
+<font color=#FFFF00>Os soldados ficarão para proteção,
+sob o comando do Senado.</font>
+
+1119
+02:09:55,939 --> 02:09:57,524
+<font color=#FFFF00>Então....</font>
+
+1120
+02:09:57,649 --> 02:10:01,779
+<font color=#FFFF00>...quando toda Roma for sua,
+simplesmente a devolverá ao povo.</font>
+
+1121
+02:10:03,197 --> 02:10:04,990
+<font color=#FFFF00>Diga-me o porquê.</font>
+
+1122
+02:10:10,245 --> 02:10:12,581
+<font color=#FFFF00>Foi o último desejo
+de um moribundo.</font>
+
+1123
+02:10:16,335 --> 02:10:18,295
+<font color=#FFFF00>Eu matarei Commodus.</font>
+
+1124
+02:10:20,214 --> 02:10:22,007
+<font color=#FFFF00>O destino de Roma...</font>
+
+1125
+02:10:22,090 --> 02:10:23,550
+<font color=#FFFF00>...deixo para você...</font>
+
+1126
+02:10:25,135 --> 02:10:27,471
+<font color=#FFFF00>Marcus Aurelius confiava em você.</font>
+
+1127
+02:10:29,223 --> 02:10:31,683
+<font color=#FFFF00>A filha dele confia em você.</font>
+
+1128
+02:10:35,187 --> 02:10:37,147
+<font color=#FFFF00>Eu confiarei em você.</font>
+
+1129
+02:10:37,272 --> 02:10:39,066
+<font color=#FFFF00>Mas temos pouco tempo.</font>
+
+1130
+02:10:39,942 --> 02:10:41,944
+<font color=#FFFF00>Dê-me 2 dias...</font>
+
+1131
+02:10:42,027 --> 02:10:44,738
+<font color=#FFFF00>...e comprarei a sua liberdade.</font>
+
+1132
+02:10:45,405 --> 02:10:46,990
+<font color=#FFFF00>E você...</font>
+
+1133
+02:10:48,200 --> 02:10:50,494
+<font color=#FFFF00>...mantenha-se vivo.</font>
+
+1134
+02:10:51,286 --> 02:10:53,247
+<font color=#FFFF00>Ou eu morrerei.</font>
+
+1135
+02:10:54,873 --> 02:10:56,542
+<font color=#FFFF00>Agora temos que ir..</font>
+
+1136
+02:11:23,694 --> 02:11:27,155
+<font color=#FFFF00>Ele vai estar à sua espera
+à beira do Colosso.</font>
+
+1137
+02:11:27,364 --> 02:11:28,407
+<font color=#FFFF00>Ele lhe encontra.</font>
+
+1138
+02:12:12,909 --> 02:12:14,578
+<font color=#FFFF00>Não vai dar certo.</font>
+
+1139
+02:12:15,370 --> 02:12:17,497
+<font color=#FFFF00>O Imperador sabe demais.</font>
+
+1140
+02:12:18,373 --> 02:12:19,499
+<font color=#FFFF00>Para mim...</font>
+
+1141
+02:12:21,626 --> 02:12:23,628
+<font color=#FFFF00>...está ficando perigoso.</font>
+
+1142
+02:12:24,921 --> 02:12:27,007
+<font color=#FFFF00>Será pago quando eu voltar.</font>
+
+1143
+02:12:29,176 --> 02:12:30,802
+<font color=#FFFF00>Tem a minha palavra.</font>
+
+1144
+02:12:31,386 --> 02:12:34,056
+<font color=#FFFF00>A sua palavra. E se não voltar?</font>
+
+1145
+02:12:35,557 --> 02:12:37,517
+<font color=#FFFF00>Lembra-se o que significava confiar?</font>
+
+1146
+02:12:38,518 --> 02:12:40,145
+<font color=#FFFF00>Confiar?</font>
+
+1147
+02:12:44,066 --> 02:12:45,567
+<font color=#FFFF00>Quem sou eu para confiar?</font>
+
+1148
+02:12:46,401 --> 02:12:48,361
+<font color=#FFFF00>Eu matarei Commodus.</font>
+
+1149
+02:12:48,445 --> 02:12:50,280
+<font color=#FFFF00>Porque é que eu desejaria isso?</font>
+
+1150
+02:12:50,405 --> 02:12:52,365
+<font color=#FFFF00>Ele enriquece-me.</font>
+
+1151
+02:12:57,329 --> 02:13:00,290
+<font color=#FFFF00>Sei que é um homem
+de palavra, General.</font>
+
+1152
+02:13:02,000 --> 02:13:03,960
+<font color=#FFFF00>Sei que morreria pela honra.</font>
+
+1153
+02:13:06,213 --> 02:13:08,173
+<font color=#FFFF00>Morreria por Roma...</font>
+
+1154
+02:13:08,924 --> 02:13:11,093
+<font color=#FFFF00>...pela memória dos seus antepassados.</font>
+
+1155
+02:13:11,968 --> 02:13:13,970
+<font color=#FFFF00>Mas eu, por outro lado...</font>
+
+1156
+02:13:17,182 --> 02:13:19,267
+<font color=#FFFF00>...sou um homem da diversão.</font>
+
+1157
+02:13:22,395 --> 02:13:23,855
+<font color=#FFFF00>Guarda!</font>
+
+1158
+02:13:28,443 --> 02:13:30,445
+<font color=#FFFF00>Ele matou o homem
+que lhe libertou.</font>
+
+1159
+02:13:40,163 --> 02:13:41,915
+<font color=#FFFF00>Pretorianos, senhor.</font>
+
+1160
+02:13:48,171 --> 02:13:49,631
+<font color=#FFFF00>Alto!</font>
+
+1161
+02:14:54,654 --> 02:14:57,866
+<font color=#FFFF00>Onde esteve? Mandei lhe chamar.</font>
+
+1162
+02:14:59,951 --> 02:15:01,745
+<font color=#FFFF00>Por favor, irmão.</font>
+
+1163
+02:15:07,417 --> 02:15:09,044
+<font color=#FFFF00>O que lhe perturba?</font>
+
+1164
+02:15:11,588 --> 02:15:13,715
+<font color=#FFFF00>Gracchus tem uma nova amante?</font>
+
+1165
+02:15:15,842 --> 02:15:17,677
+<font color=#FFFF00>Não sei.</font>
+
+1166
+02:15:19,554 --> 02:15:21,639
+<font color=#FFFF00>Pensei que o tivesse visto.</font>
+
+1167
+02:15:22,390 --> 02:15:25,101
+<font color=#FFFF00>Ele infecta a todos como
+uma febre pútrida.</font>
+
+1168
+02:15:26,853 --> 02:15:29,773
+<font color=#FFFF00>Pela saúde de Roma, o
+Senado deve ser sangrado.</font>
+
+1169
+02:15:30,231 --> 02:15:32,025
+<font color=#FFFF00>E ele também sangrará.</font>
+
+1170
+02:15:33,193 --> 02:15:34,861
+<font color=#FFFF00>Em breve.</font>
+
+1171
+02:15:36,196 --> 02:15:38,239
+<font color=#FFFF00>Mas não esta noite.</font>
+
+1172
+02:15:52,754 --> 02:15:54,547
+<font color=#FFFF00>Lembra-se do que o nosso pai disse?</font>
+
+1173
+02:15:57,175 --> 02:15:58,760
+<font color=#FFFF00>''É um sonho...''</font>
+
+1174
+02:16:00,595 --> 02:16:02,722
+<font color=#FFFF00>''...um sonho assustador...''?</font>
+
+1175
+02:16:04,766 --> 02:16:06,226
+<font color=#FFFF00>''...a vida.''.</font>
+
+1176
+02:16:09,062 --> 02:16:11,022
+<font color=#FFFF00>Acha que é verdade?</font>
+
+1177
+02:16:11,773 --> 02:16:13,566
+<font color=#FFFF00>Não sei.</font>
+
+1178
+02:16:16,903 --> 02:16:18,988
+<font color=#FFFF00>Acho que sim.</font>
+
+1179
+02:16:21,324 --> 02:16:24,160
+<font color=#FFFF00>E só tenho a você
+para compartilhá-la.</font>
+
+1180
+02:17:01,865 --> 02:17:03,825
+<font color=#FFFF00>Abra a sua boca.</font>
+
+1181
+02:17:40,612 --> 02:17:42,196
+<font color=#FFFF00>Sabe que te amo.</font>
+
+1182
+02:17:44,449 --> 02:17:46,409
+<font color=#FFFF00>E eu também te amo.</font>
+
+1183
+02:18:22,654 --> 02:18:24,739
+<font color=#FFFF00>Saiam. Para fora!</font>
+
+1184
+02:18:25,365 --> 02:18:27,200
+<font color=#FFFF00>Andem!</font>
+
+1185
+02:18:31,329 --> 02:18:33,164
+<font color=#FFFF00>Parabéns, General.</font>
+
+1186
+02:18:33,539 --> 02:18:37,043
+<font color=#FFFF00>Você tem amigos bem persuasivos.</font>
+
+1187
+02:18:42,423 --> 02:18:44,384
+<font color=#FFFF00>O meu irmão prendeu Gracchus.</font>
+
+1188
+02:18:44,842 --> 02:18:48,179
+<font color=#FFFF00>Não podemos esperar mais.
+Partiremos esta noite.</font>
+
+1189
+02:18:48,262 --> 02:18:51,015
+<font color=#FFFF00>Proximo lhe levará ao portão
+à meia-noite.</font>
+
+1190
+02:18:52,767 --> 02:18:55,478
+<font color=#FFFF00>O seu servo, Cícero, estará lá
+com os cavalos.</font>
+
+1191
+02:18:58,272 --> 02:19:00,024
+<font color=#FFFF00>Você preparou tudo?</font>
+
+1192
+02:19:01,692 --> 02:19:03,111
+<font color=#FFFF00>Está arriscando muito.</font>
+
+1193
+02:19:04,570 --> 02:19:07,031
+<font color=#FFFF00>Tenho muito a pagar.</font>
+
+1194
+02:19:08,991 --> 02:19:10,660
+<font color=#FFFF00>Não tem que pagar nada.</font>
+
+1195
+02:19:11,244 --> 02:19:14,330
+<font color=#FFFF00>Você ama o seu filho.
+Está sendo forte por ele.</font>
+
+1196
+02:19:17,500 --> 02:19:20,545
+<font color=#FFFF00>Estou cansada de ser forte.</font>
+
+1197
+02:19:21,879 --> 02:19:26,008
+<font color=#FFFF00>O meu irmão odeia toda a gente,
+e a você, mais do que a ninguém.</font>
+
+1198
+02:19:26,134 --> 02:19:28,678
+<font color=#FFFF00>Porque o seu pai me escolheu.</font>
+
+1199
+02:19:28,803 --> 02:19:30,012
+<font color=#FFFF00>Não.</font>
+
+1200
+02:19:30,930 --> 02:19:33,516
+<font color=#FFFF00>Porque o meu pai amava você.</font>
+
+1201
+02:19:37,186 --> 02:19:40,022
+<font color=#FFFF00>E porque eu lhe amava.</font>
+
+1202
+02:19:42,233 --> 02:19:44,193
+<font color=#FFFF00>Há muito tempo.</font>
+
+1203
+02:19:48,698 --> 02:19:50,491
+<font color=#FFFF00>Eu era muito diferente?</font>
+
+1204
+02:19:57,248 --> 02:19:59,041
+<font color=#FFFF00>Sorria mais.</font>
+
+1205
+02:20:03,129 --> 02:20:06,132
+<font color=#FFFF00>Senti-me sozinha toda minha vida...</font>
+
+1206
+02:20:06,799 --> 02:20:08,593
+<font color=#FFFF00>...exceto com você.</font>
+
+1207
+02:20:11,721 --> 02:20:14,473
+<font color=#FFFF00>- Tenho que ir.
+- Sim.</font>
+
+1208
+02:20:43,294 --> 02:20:45,671
+<font color=#FFFF00>Tome! Tome!</font>
+
+1209
+02:20:56,015 --> 02:20:57,350
+<font color=#FFFF00>Peguei!</font>
+
+1210
+02:21:00,603 --> 02:21:02,605
+<font color=#FFFF00>É tarde para brincar de legionário.</font>
+
+1211
+02:21:02,688 --> 02:21:04,315
+<font color=#FFFF00>Não sou um legionário.</font>
+
+1212
+02:21:04,649 --> 02:21:07,109
+<font color=#FFFF00>- Não?
+- Sou um gladiador.</font>
+
+1213
+02:21:08,861 --> 02:21:10,613
+<font color=#FFFF00>Um gladiador?</font>
+
+1214
+02:21:11,155 --> 02:21:13,324
+<font color=#FFFF00>Eles só lutam nos jogos.</font>
+
+1215
+02:21:13,908 --> 02:21:17,036
+<font color=#FFFF00>É melhor ser um guerreiro romano,
+como Júlio César.</font>
+
+1216
+02:21:17,453 --> 02:21:19,872
+<font color=#FFFF00>Sou Maximus, o salvador de Roma!</font>
+
+1217
+02:21:22,833 --> 02:21:24,126
+<font color=#FFFF00>Salvador de Roma?</font>
+
+1218
+02:21:32,677 --> 02:21:34,387
+<font color=#FFFF00>E quem disse isso?</font>
+
+1219
+02:21:42,812 --> 02:21:43,938
+<font color=#FFFF00>Onde está Lucius?</font>
+
+1220
+02:21:45,940 --> 02:21:47,400
+<font color=#FFFF00>Com o Imperador, senhora.</font>
+
+1221
+02:21:51,278 --> 02:21:53,197
+<font color=#FFFF00>- Ela não podia.
+- Mas o fez. Pegou a víbora...</font>
+
+1222
+02:21:56,534 --> 02:21:59,745
+<font color=#FFFF00>...e apertou-a contra o peito,
+acima do coração.</font>
+
+1223
+02:22:02,039 --> 02:22:03,958
+<font color=#FFFF00>Ela o mordeu no peito?</font>
+
+1224
+02:22:04,458 --> 02:22:08,170
+<font color=#FFFF00>Sim. Vê, Lucius, às vezes...</font>
+
+1225
+02:22:08,921 --> 02:22:10,423
+<font color=#FFFF00>...mulheres da realeza...</font>
+
+1226
+02:22:10,464 --> 02:22:14,385
+<font color=#FFFF00>...fazem coisas muito estranhas
+em nome do amor.</font>
+
+1227
+02:22:14,468 --> 02:22:17,304
+<font color=#FFFF00>- Acho uma tolice.
+- Eu também.</font>
+
+1228
+02:22:18,973 --> 02:22:20,599
+<font color=#FFFF00>Eu também.</font>
+
+1229
+02:22:20,975 --> 02:22:23,060
+<font color=#FFFF00>Irmã, junte-se a nós.</font>
+
+1230
+02:22:23,853 --> 02:22:26,605
+<font color=#FFFF00>- Estava lendo para Lucius.
+- Eu também.</font>
+
+1231
+02:22:26,730 --> 02:22:29,483
+<font color=#FFFF00>Sim. É um garotinho
+muito esperto.</font>
+
+1232
+02:22:29,900 --> 02:22:31,902
+<font color=#FFFF00>Dará um grande Imperador um dia.</font>
+
+1233
+02:22:33,404 --> 02:22:37,158
+<font color=#FFFF00>Líamos sobre as aventuras de
+Marco Antônio no Egipto.</font>
+
+1234
+02:22:37,283 --> 02:22:39,201
+<font color=#FFFF00>A Rainha matou-se com uma cobra.</font>
+
+1235
+02:22:40,035 --> 02:22:42,538
+<font color=#FFFF00>Espere até ouvir sobre os
+nossos antepassados.</font>
+
+1236
+02:22:43,581 --> 02:22:48,002
+<font color=#FFFF00>Se for bonzinho, amanhã contarei
+a história do Imperador Claudius.</font>
+
+1237
+02:22:49,336 --> 02:22:50,963
+<font color=#FFFF00>Ele foi traído...</font>
+
+1238
+02:22:52,173 --> 02:22:54,091
+<font color=#FFFF00>...pelas pessoas mais íntimas dele.</font>
+
+1239
+02:22:56,177 --> 02:22:57,636
+<font color=#FFFF00>Pelo seu próprio sangue.</font>
+
+1240
+02:22:59,305 --> 02:23:03,726
+<font color=#FFFF00>Sussurravam nos cantos escuros.
+Saíam no meio da noite...</font>
+
+1241
+02:23:04,351 --> 02:23:06,353
+<font color=#FFFF00>...e conspiravam...</font>
+
+1242
+02:23:06,562 --> 02:23:08,355
+<font color=#FFFF00>...e conspiravam.</font>
+
+1243
+02:23:10,274 --> 02:23:12,985
+<font color=#FFFF00>Mas Claudius sabia
+que planejavam algo.</font>
+
+1244
+02:23:14,278 --> 02:23:16,614
+<font color=#FFFF00>Que eram abelhinhas
+muito atarefadas.</font>
+
+1245
+02:23:18,699 --> 02:23:21,368
+<font color=#FFFF00>E, certa noite, sentou-se
+com uma delas...</font>
+
+1246
+02:23:22,578 --> 02:23:24,371
+<font color=#FFFF00>...e olhou para ela...</font>
+
+1247
+02:23:25,372 --> 02:23:26,999
+<font color=#FFFF00>...e disse:</font>
+
+1248
+02:23:28,042 --> 02:23:31,045
+<font color=#FFFF00>''Diga-me o que andou fazendo...''</font>
+
+1249
+02:23:31,378 --> 02:23:33,464
+<font color=#FFFF00>''...sua abelhinha atarefada...''</font>
+
+1250
+02:23:35,382 --> 02:23:38,510
+<font color=#FFFF00>''...ou matarei os seus entes
+mais queridos.''</font>
+
+1251
+02:23:39,678 --> 02:23:43,015
+<font color=#FFFF00>''Verás me banhando
+no sangue deles.''</font>
+
+1252
+02:23:46,352 --> 02:23:48,687
+<font color=#FFFF00>O Imperador ficou arrasado.</font>
+
+1253
+02:23:50,814 --> 02:23:55,277
+<font color=#FFFF00>A abelhinha feriu-o mais
+do qualquer um poderia fazer.</font>
+
+1254
+02:23:58,030 --> 02:24:00,532
+<font color=#FFFF00>O que acha que aconteceu depois?</font>
+
+1255
+02:24:01,784 --> 02:24:03,452
+<font color=#FFFF00>Não sei, tio.</font>
+
+1256
+02:24:09,959 --> 02:24:12,044
+<font color=#FFFF00>A abelhinha contou-lhe tudo.</font>
+
+1257
+02:25:10,561 --> 02:25:13,397
+<font color=#FFFF00>Abra em nome do Imperador!</font>
+
+1258
+02:25:14,148 --> 02:25:15,441
+<font color=#FFFF00>Proximo!</font>
+
+1259
+02:25:16,233 --> 02:25:19,653
+<font color=#FFFF00>Abra os portões
+em nome do Imperador!</font>
+
+1260
+02:25:23,699 --> 02:25:25,242
+<font color=#FFFF00>Abra os portões!</font>
+
+1261
+02:25:31,123 --> 02:25:33,792
+<font color=#FFFF00>Abra os portões, Proximo!</font>
+
+1262
+02:25:33,917 --> 02:25:36,462
+<font color=#FFFF00>Quer morrer, velho?</font>
+
+1263
+02:25:37,087 --> 02:25:38,046
+<font color=#FFFF00>Tome.</font>
+
+1264
+02:25:38,755 --> 02:25:40,757
+<font color=#FFFF00>Está tudo preparado.</font>
+
+1265
+02:25:41,175 --> 02:25:43,343
+<font color=#FFFF00>Parece que ganhou a sua liberdade.</font>
+
+1266
+02:25:43,760 --> 02:25:44,720
+<font color=#FFFF00>Proximo...</font>
+
+1267
+02:25:45,554 --> 02:25:47,389
+<font color=#FFFF00>...está se arriscando a
+se tornar um bom homem?</font>
+
+1268
+02:25:52,478 --> 02:25:53,437
+<font color=#FFFF00>Juba.</font>
+
+1269
+02:25:53,562 --> 02:25:56,315
+<font color=#FFFF00>Morte a todos os inimigos
+do Imperador!</font>
+
+1270
+02:25:57,065 --> 02:26:00,652
+<font color=#FFFF00>Abra os portões!
+O Imperador ordena!</font>
+
+1271
+02:26:04,531 --> 02:26:06,283
+<font color=#FFFF00>Empurrem!</font>
+
+1272
+02:26:14,833 --> 02:26:17,586
+<font color=#FFFF00>Só preciso de uns momentos,
+não se descuidem.</font>
+
+1273
+02:26:18,670 --> 02:26:21,131
+<font color=#FFFF00>Se não quiserem,
+voltem para as celas.</font>
+
+1274
+02:26:21,256 --> 02:26:23,133
+<font color=#FFFF00>Esperaremos aqui por você.</font>
+
+1275
+02:26:23,258 --> 02:26:25,010
+<font color=#FFFF00>Força e honra.</font>
+
+1276
+02:26:25,093 --> 02:26:26,053
+<font color=#FFFF00>Vai!</font>
+
+1277
+02:26:27,304 --> 02:26:28,722
+<font color=#FFFF00>Força e honra!</font>
+
+1278
+02:26:31,350 --> 02:26:32,768
+<font color=#FFFF00>Apontar!</font>
+
+1279
+02:27:41,712 --> 02:27:43,046
+<font color=#FFFF00>Sombras e pó.</font>
+
+1280
+02:28:24,671 --> 02:28:25,839
+<font color=#FFFF00>Maximus!</font>
+
+1281
+02:28:31,386 --> 02:28:32,554
+<font color=#FFFF00>Desculpe.</font>
+
+1282
+02:28:59,414 --> 02:29:01,124
+<font color=#FFFF00>Está feito.</font>
+
+1283
+02:29:07,839 --> 02:29:09,633
+<font color=#FFFF00>E o meu sobrinho?</font>
+
+1284
+02:29:10,800 --> 02:29:12,344
+<font color=#FFFF00>E a mãe dele?</font>
+
+1285
+02:29:14,846 --> 02:29:17,265
+<font color=#FFFF00>Devem partilhar o seu destino?</font>
+
+1286
+02:29:19,100 --> 02:29:21,144
+<font color=#FFFF00>Ou devo ser piedoso?</font>
+
+1287
+02:29:23,855 --> 02:29:25,899
+<font color=#FFFF00>Commodus, o Piedoso.</font>
+
+1288
+02:29:32,364 --> 02:29:34,366
+<font color=#FFFF00>Lucius ficará comigo agora.</font>
+
+1289
+02:29:35,659 --> 02:29:37,118
+<font color=#FFFF00>E se a mãe dele...</font>
+
+1290
+02:29:38,828 --> 02:29:40,997
+<font color=#FFFF00>...me olhar...</font>
+
+1291
+02:29:42,290 --> 02:29:44,501
+<font color=#FFFF00>...de uma maneira que
+não me agrade...</font>
+
+1292
+02:29:46,461 --> 02:29:48,046
+<font color=#FFFF00>...ele morrerá.</font>
+
+1293
+02:29:51,675 --> 02:29:53,635
+<font color=#FFFF00>Se ela decidir...</font>
+
+1294
+02:29:53,843 --> 02:29:55,470
+<font color=#FFFF00>...ser nobre...</font>
+
+1295
+02:29:56,554 --> 02:29:58,515
+<font color=#FFFF00>...e tirar a sua própria vida...</font>
+
+1296
+02:30:00,183 --> 02:30:02,143
+<font color=#FFFF00>...ele morrerá.</font>
+
+1297
+02:30:05,146 --> 02:30:06,815
+<font color=#FFFF00>E quanto a você...</font>
+
+1298
+02:30:09,818 --> 02:30:11,569
+<font color=#FFFF00>...você me amará...</font>
+
+1299
+02:30:12,404 --> 02:30:14,489
+<font color=#FFFF00>...como eu lhe amei.</font>
+
+1300
+02:30:15,824 --> 02:30:17,867
+<font color=#FFFF00>Me dará um herdeiro...</font>
+
+1301
+02:30:18,326 --> 02:30:19,995
+<font color=#FFFF00>...de sangue puro...</font>
+
+1302
+02:30:20,412 --> 02:30:22,247
+<font color=#FFFF00>...para que Commodus...</font>
+
+1303
+02:30:22,872 --> 02:30:26,084
+<font color=#FFFF00>...e a sua descendência governem
+por mil anos.</font>
+
+1304
+02:30:30,338 --> 02:30:32,674
+<font color=#FFFF00>Não sou piedoso?</font>
+
+1305
+02:30:53,987 --> 02:30:56,656
+<font color=#FFFF00>Não sou piedoso?</font>
+
+1306
+02:31:08,626 --> 02:31:11,755
+<font color=#FFFF00>Maximus! Maximus! Maximus!</font>
+
+1307
+02:31:40,325 --> 02:31:41,534
+<font color=#FFFF00>Eu sou um centurião.</font>
+
+1308
+02:31:42,118 --> 02:31:43,161
+<font color=#FFFF00>E obedeço.</font>
+
+1309
+02:31:45,830 --> 02:31:49,375
+<font color=#FFFF00>Não acontece nada a ninguém que a
+sua natureza não permita aguentar.</font>
+
+1310
+02:32:23,034 --> 02:32:24,869
+<font color=#FFFF00>Maximus.</font>
+
+1311
+02:32:25,370 --> 02:32:27,288
+<font color=#FFFF00>Maximus.</font>
+
+1312
+02:32:30,917 --> 02:32:32,544
+<font color=#FFFF00>Eles lhe chamam.</font>
+
+1313
+02:32:34,546 --> 02:32:36,256
+<font color=#FFFF00>O general...</font>
+
+1314
+02:32:36,381 --> 02:32:38,258
+<font color=#FFFF00>...que se tornou escravo.</font>
+
+1315
+02:32:39,050 --> 02:32:41,761
+<font color=#FFFF00>O escravo que se tornou
+gladiador.</font>
+
+1316
+02:32:42,887 --> 02:32:45,890
+<font color=#FFFF00>O gladiador que desafiou
+um Imperador.</font>
+
+1317
+02:32:47,684 --> 02:32:49,227
+<font color=#FFFF00>Uma história notável.</font>
+
+1318
+02:32:50,311 --> 02:32:53,439
+<font color=#FFFF00>Agora o povo quer saber
+como acaba a história.</font>
+
+1319
+02:32:56,067 --> 02:32:58,027
+<font color=#FFFF00>Só uma morte famosa os satisfará.</font>
+
+1320
+02:32:59,946 --> 02:33:02,573
+<font color=#FFFF00>E o que poderia ser mais glorioso...</font>
+
+1321
+02:33:02,991 --> 02:33:06,577
+<font color=#FFFF00>...do que desafiar o próprio
+Imperador na grande arena?</font>
+
+1322
+02:33:09,247 --> 02:33:11,124
+<font color=#FFFF00>Lutaria comigo?</font>
+
+1323
+02:33:11,249 --> 02:33:12,250
+<font color=#FFFF00>Porque não?</font>
+
+1324
+02:33:13,251 --> 02:33:15,044
+<font color=#FFFF00>Acha que estou com medo?</font>
+
+1325
+02:33:16,296 --> 02:33:19,048
+<font color=#FFFF00>Acho que teve medo a sua vida toda.</font>
+
+1326
+02:33:19,132 --> 02:33:23,261
+<font color=#FFFF00>Diferente de Maximus, o Invencível,
+que não sabe o que é ter medo.</font>
+
+1327
+02:33:28,933 --> 02:33:31,936
+<font color=#FFFF00>Um certo homem disse:
+''A morte sorri para todos''.</font>
+
+1328
+02:33:33,229 --> 02:33:35,940
+<font color=#FFFF00>''E a única coisa que podemos fazer
+é sorrir de volta.''</font>
+
+1329
+02:33:37,483 --> 02:33:39,110
+<font color=#FFFF00>Será que o seu amigo...</font>
+
+1330
+02:33:39,402 --> 02:33:41,612
+<font color=#FFFF00>...sorriu para a sua própria morte?</font>
+
+1331
+02:33:42,697 --> 02:33:44,490
+<font color=#FFFF00>Você deve saber.</font>
+
+1332
+02:33:46,909 --> 02:33:48,327
+<font color=#FFFF00>Ele era o seu pai.</font>
+
+1333
+02:33:52,790 --> 02:33:55,043
+<font color=#FFFF00>Você amava o meu pai, eu sei.</font>
+
+1334
+02:33:56,502 --> 02:33:58,504
+<font color=#FFFF00>Mas eu também.</font>
+
+1335
+02:33:59,714 --> 02:34:01,674
+<font color=#FFFF00>Isso nos faz irmãos, não é?</font>
+
+1336
+02:34:04,802 --> 02:34:06,804
+<font color=#FFFF00>Sorria para mim agora, irmão.</font>
+
+1337
+02:34:12,560 --> 02:34:15,104
+<font color=#FFFF00>Ponha-lhe a armadura.
+Esconda a ferida.</font>
+
+1338
+02:34:21,903 --> 02:34:24,530
+<font color=#FFFF00>Maximus! Maximus!</font>
+
+1339
+02:35:09,867 --> 02:35:11,702
+<font color=#FFFF00>Formação de círculo!</font>
+
+1340
+02:37:03,522 --> 02:37:04,982
+<font color=#FFFF00>Quintus, a espada!</font>
+
+1341
+02:37:06,525 --> 02:37:07,568
+<font color=#FFFF00>Me dê a sua espada!</font>
+
+1342
+02:37:11,822 --> 02:37:13,824
+<font color=#FFFF00>Espada! Me dê uma espada!</font>
+
+1343
+02:37:15,242 --> 02:37:16,702
+<font color=#FFFF00>Guardem as suas espadas!</font>
+
+1344
+02:37:17,328 --> 02:37:19,205
+<font color=#FFFF00>Guardem as suas espadas!</font>
+
+1345
+02:39:34,423 --> 02:39:35,924
+<font color=#FFFF00>Maximus.</font>
+
+1346
+02:39:40,346 --> 02:39:41,764
+<font color=#FFFF00>Maximus.</font>
+
+1347
+02:39:42,973 --> 02:39:44,391
+<font color=#FFFF00>Quintus...</font>
+
+1348
+02:39:45,726 --> 02:39:47,186
+<font color=#FFFF00>...liberte os meus homens.</font>
+
+1349
+02:39:48,854 --> 02:39:51,273
+<font color=#FFFF00>Os poderes devem ser devolvidos
+ao Senador Gracchus.</font>
+
+1350
+02:39:52,733 --> 02:39:54,360
+<font color=#FFFF00>Houve o sonho chamado Roma.</font>
+
+1351
+02:39:55,652 --> 02:39:57,613
+<font color=#FFFF00>Ele deve ser realizado.</font>
+
+1352
+02:39:58,364 --> 02:40:00,532
+<font color=#FFFF00>São estes os desejos
+de Marcus Aurelius.</font>
+
+1353
+02:40:01,700 --> 02:40:03,660
+<font color=#FFFF00>Libertem os prisioneiros! Andem!</font>
+
+1354
+02:40:31,688 --> 02:40:33,649
+<font color=#FFFF00>Lucius está seguro.</font>
+
+1355
+02:40:49,623 --> 02:40:51,500
+<font color=#FFFF00>Vai encontrar com eles.</font>
+
+1356
+02:41:40,465 --> 02:41:42,092
+<font color=#FFFF00>Seu lar.</font>
+
+1357
+02:42:08,869 --> 02:42:11,496
+<font color=#FFFF00>Roma vale a vida de um homem bom?</font>
+
+1358
+02:42:15,250 --> 02:42:17,210
+<font color=#FFFF00>Outrora, achamos que sim.</font>
+
+1359
+02:42:20,047 --> 02:42:21,506
+<font color=#FFFF00>Faz-nos acreditar de novo.</font>
+
+1360
+02:42:25,969 --> 02:42:28,096
+<font color=#FFFF00>Ele era um soldado de Roma.</font>
+
+1361
+02:42:31,808 --> 02:42:33,393
+<font color=#FFFF00>Honrem-no.</font>
+
+1362
+02:42:33,518 --> 02:42:35,771
+<font color=#FFFF00>Quem me ajuda a carregá-lo?</font>
+
+1363
+02:43:20,524 --> 02:43:21,983
+<font color=#FFFF00>Agora somos livres.</font>
+
+1364
+02:43:28,698 --> 02:43:30,867
+<font color=#FFFF00>Eu lhe verei de novo.</font>
+
+1365
+02:43:33,203 --> 02:43:35,205
+<font color=#FFFF00>Mas não agora.</font>
+
+1366
+02:43:35,914 --> 02:43:37,582
+<font color=#FFFF00>Não agora.</font>
+
