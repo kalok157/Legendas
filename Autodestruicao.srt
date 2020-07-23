@@ -1,0 +1,4129 @@
+1
+00:01:41,889 --> 00:01:45,289
+
+
+2
+00:02:38,877 --> 00:02:42,151
+- Ele já está melhor.
+- Talvez.
+
+3
+00:02:43,695 --> 00:02:45,295
+Ele ainda não disse uma palavra.
+
+4
+00:02:45,296 --> 00:02:46,777
+Vai levar tempo.
+
+5
+00:02:48,537 --> 00:02:51,373
+Os melhores médicos do mundo
+estão aqui.
+
+6
+00:02:51,477 --> 00:02:52,777
+Vai ficar tudo bem.
+
+7
+00:02:59,501 --> 00:03:01,371
+- Nervoso?
+- Não.
+
+8
+00:03:03,977 --> 00:03:06,004
+Talvez. Um pouquinho.
+
+9
+00:03:06,871 --> 00:03:08,171
+Não.
+
+10
+00:03:08,375 --> 00:03:12,210
+- Você está mudando comigo?
+- Não, não posso. Estou de plantão.
+
+11
+00:03:12,345 --> 00:03:14,043
+Pensei que fosse uma festa.
+
+12
+00:03:14,068 --> 00:03:16,238
+É... tipo.
+
+13
+00:03:17,238 --> 00:03:20,388
+<i>...enquanto se espera ansiosamente
+o lançamento pela a Alterplex</i>
+
+14
+00:03:20,389 --> 00:03:23,189
+<i>que alega ser a última geração
+para soluções energéticas.</i>
+
+15
+00:03:23,683 --> 00:03:25,483
+<i>Se você está se juntando
+a nós agora,</i>
+
+16
+00:03:25,484 --> 00:03:28,639
+<i>estamos a menos de um minuto
+para entrarmos em uma nova era.</i>
+
+17
+00:03:34,254 --> 00:03:36,183
+Isso é muito grande para mim.
+
+18
+00:03:36,954 --> 00:03:39,762
+Eu quero que seja bom
+para vocês também, sabe.
+
+19
+00:03:39,889 --> 00:03:42,910
+Eu sei.
+E estou orgulhosa de você.
+
+20
+00:03:46,087 --> 00:03:47,988
+Eu acho.
+
+21
+00:03:56,079 --> 00:03:58,427
+<i>Alterplex dá a luz verde!</i>
+
+22
+00:03:58,631 --> 00:04:00,039
+Ei, Donny?
+
+23
+00:04:01,549 --> 00:04:03,850
+<i>- Donny, fique aqui.
+- T menos 50.</i>
+
+24
+00:04:08,946 --> 00:04:10,881
+<i>Dez, nove,</i>
+
+25
+00:04:10,883 --> 00:04:14,032
+<i>Oito, sete, seis...</i>
+
+26
+00:04:14,057 --> 00:04:15,681
+Obrigado por estar aqui.
+
+27
+00:04:16,213 --> 00:04:17,532
+Está de brincadeira?
+
+28
+00:04:17,823 --> 00:04:19,589
+<i>...três, dois...</i>
+
+29
+00:04:28,172 --> 00:04:30,239
+Está tudo bem.
+
+30
+00:04:40,204 --> 00:04:41,735
+O que está acontecendo?
+
+31
+00:04:44,982 --> 00:04:46,860
+Está funcionando.
+
+32
+00:04:47,189 --> 00:04:52,423
+REDIVIDER
+
+33
+00:05:55,071 --> 00:05:57,767
+FALHA NA INTERFACE
+
+34
+00:07:02,511 --> 00:07:05,037
+INTERFACE DO COMPUTADOR CEREBRAL
+
+35
+00:07:10,092 --> 00:07:13,451
+RECEBENDO RELATÓRIO DE DANOS
+
+36
+00:07:17,675 --> 00:07:19,837
+LOGANDO COMO:
+
+37
+00:07:23,207 --> 00:07:24,941
+BEM-VINDO WILLIAN PORTER.
+
+38
+00:07:26,119 --> 00:07:27,419
+Merda.
+
+39
+00:07:30,115 --> 00:07:31,845
+Estou saindo do laboratório.
+
+40
+00:07:44,660 --> 00:07:46,893
+Corpo masculino não identificado.
+
+41
+00:07:54,622 --> 00:07:56,892
+Identificado como Dr. Klintsen.
+Oh, Deus.
+
+42
+00:07:59,060 --> 00:08:00,360
+Merda...
+
+43
+00:08:02,459 --> 00:08:05,761
+Aqui é Will Porter, Missão log 1.
+Coordenadas: incertas.
+
+44
+00:08:05,968 --> 00:08:09,655
+O salto parece ter sido um sucesso,
+mas não posso confirmar.
+
+45
+00:08:09,680 --> 00:08:11,285
+BCI Pessoal não responde.
+
+46
+00:08:11,310 --> 00:08:13,716
+Novo BCI recebido, mas
+bateria parece esgotada.
+
+47
+00:08:13,741 --> 00:08:15,907
+A escrita é... espelhada?
+
+48
+00:08:16,281 --> 00:08:18,161
+Ou eu estou no eco ou...
+
+49
+00:08:18,186 --> 00:08:21,965
+tive algum dano cerebral grave
+durante o salto.
+
+50
+00:08:25,575 --> 00:08:27,876
+O laboratório parece
+seriamente destruído.
+
+51
+00:08:28,088 --> 00:08:29,922
+A destruição aparece recente.
+
+52
+00:08:30,042 --> 00:08:32,507
+Vários mortos espalhados
+entre os escombros,
+
+53
+00:08:32,825 --> 00:08:34,577
+Incluindo o Dr. Klintsen.
+
+54
+00:08:35,603 --> 00:08:38,971
+Indo para fora para tentar
+confirmar as coordenadas.
+
+55
+00:08:47,479 --> 00:08:50,214
+Este é o log 2 da missão.
+Fora do laboratório.
+
+56
+00:08:51,213 --> 00:08:52,913
+Mais mortos aqui.
+
+57
+00:08:54,169 --> 00:08:55,869
+Oh, Deus...
+
+58
+00:09:11,464 --> 00:09:13,421
+Eu tenho um visual da torre.
+
+59
+00:09:13,897 --> 00:09:15,708
+Antes de executar os objetivos,
+
+60
+00:09:15,709 --> 00:09:17,709
+preciso verificar se isso
+é realmente o eco.
+
+61
+00:09:17,741 --> 00:09:18,750
+"Desconectando Interface"
+
+62
+00:09:18,751 --> 00:09:20,051
+Merda!
+
+63
+00:09:33,296 --> 00:09:34,830
+Desculpe amigo.
+
+64
+00:09:49,145 --> 00:09:50,679
+<i>- Alô?
+- Abby?</i>
+
+65
+00:09:50,704 --> 00:09:52,936
+<i>- Oh, meu Deus, Will!
+- O que... o que aconteceu?!</i>
+
+66
+00:09:52,961 --> 00:09:54,743
+<i>Pensamos que estava morto.
+Onde você está?</i>
+
+67
+00:09:55,178 --> 00:09:56,117
+<i>Vamos pegá-lo.</i>
+
+68
+00:09:56,118 --> 00:09:58,030
+Espera, Abby, preciso
+saber o que aconteceu.
+
+69
+00:09:58,031 --> 00:09:59,218
+<i>Onde você esteve?</i>
+
+70
+00:09:59,219 --> 00:10:02,157
+<i>O laboratório foi atacado, vai.
+A caixa foi destruída.</i>
+
+71
+00:10:02,183 --> 00:10:03,656
+<i>Mudamos para um acampamento
+do lado de fora...</i>
+
+72
+00:10:03,657 --> 00:10:05,686
+Espere.
+O que disse sobre a caixa?
+
+73
+00:10:05,711 --> 00:10:08,294
+<i>Eu disse destruíram a caixa!</i>
+
+74
+00:10:08,319 --> 00:10:10,850
+Destruído? Como?
+Quem são eles?!
+
+75
+00:10:11,332 --> 00:10:14,077
+<i>Eles atiraram para todo lado.
+Eu... eu vi.</i>
+
+76
+00:10:14,102 --> 00:10:16,280
+Tem a certeza de que
+a caixa foi destruída?
+
+77
+00:10:16,335 --> 00:10:17,960
+<i>Estou enviando a você
+nossas coordenadas.</i>
+
+78
+00:10:17,961 --> 00:10:20,304
+ABGAIL MANDOU COORDENADAS.
+ACEITA?
+
+79
+00:10:20,671 --> 00:10:21,971
+CHAMADA ENCERRADA.
+
+80
+00:10:26,736 --> 00:10:28,522
+Que diabos está acontecendo?
+
+81
+00:10:39,752 --> 00:10:41,975
+<i>ALTERPLEX ENERGIA.</i>
+
+82
+00:10:42,031 --> 00:10:43,497
+Alterplex se preocupa.
+
+83
+00:10:44,376 --> 00:10:45,882
+<i>Nós entendemos.</i>
+
+84
+00:10:46,669 --> 00:10:49,452
+<i>O futuro da humanidade
+não está lá fora.</i>
+
+85
+00:10:50,494 --> 00:10:54,390
+<i>Está aqui.
+E nós encontramos uma solução.</i>
+
+86
+00:10:57,987 --> 00:11:00,397
+<i>Desenvolvemos
+de forma simples e limpa</i>
+
+87
+00:11:00,422 --> 00:11:02,889
+<i>de converter massa
+em energia pura.</i>
+
+88
+00:11:04,268 --> 00:11:05,780
+<i>Em apenas mais alguns meses,</i>
+
+89
+00:11:05,805 --> 00:11:07,874
+<i>vamos lançar
+a nossa torre de energia,</i>
+
+90
+00:11:07,932 --> 00:11:10,766
+<i>alimentando nosso mundo
+por milênios por vir.</i>
+
+91
+00:11:13,461 --> 00:11:15,295
+<i>ALTERPLEX ENERGIA.</i>
+
+92
+00:11:15,547 --> 00:11:17,848
+<i>Limpo. Simples.</i>
+
+93
+00:11:18,210 --> 00:11:19,510
+<i>Seguro.</i>
+
+94
+00:11:25,132 --> 00:11:30,749
+Contagem regressiva para o futuro:
+
+95
+00:11:44,364 --> 00:11:47,085
+Alterplex Energia
+
+96
+00:11:47,110 --> 00:11:49,655
+Descubra o Futuro.
+
+97
+00:11:58,415 --> 00:11:59,948
+Sr. Porter.
+
+98
+00:12:03,655 --> 00:12:06,757
+Abigail Vos,
+chefe de operações da Alterplex.
+
+99
+00:12:06,922 --> 00:12:08,475
+- Bem vindo.
+- Obrigado.
+
+100
+00:12:08,851 --> 00:12:11,405
+Acredito que já conhece
+o meu colega.
+
+101
+00:12:11,847 --> 00:12:14,444
+Dr. Klintsen.
+É uma grande honra, senhor.
+
+102
+00:12:14,663 --> 00:12:15,897
+Eu estava pesquisando na NASA
+
+103
+00:12:15,898 --> 00:12:17,921
+quando introduziu a
+teoria da matéria duplicada.
+
+104
+00:12:17,922 --> 00:12:21,265
+Esse foi o achado da década.
+Você é uma estrela lá embaixo.
+
+105
+00:12:21,431 --> 00:12:23,564
+Estamos muito animados
+por você estar aqui, Will.
+
+106
+00:12:29,200 --> 00:12:33,265
+O Sr. Reynard pede desculpas por não
+poder encontrá-lo pessoalmente.
+
+107
+00:12:33,624 --> 00:12:34,924
+Certo.
+
+108
+00:12:35,053 --> 00:12:36,353
+Oi.
+
+109
+00:12:36,595 --> 00:12:37,952
+Eu tenho muitas perguntas.
+
+110
+00:12:37,977 --> 00:12:40,812
+Vocês era muito bons
+em me manter no escuro.
+
+111
+00:12:41,831 --> 00:12:44,913
+Bem, essas pessoas
+também estão no escuro.
+
+112
+00:12:52,095 --> 00:12:53,395
+Assim...
+
+113
+00:12:54,590 --> 00:12:56,944
+...um físico que pode voar.
+
+114
+00:12:58,740 --> 00:13:01,335
+Não é de admirar que a NASA
+o tenha roubado da Força Aérea.
+
+115
+00:13:02,598 --> 00:13:05,193
+- É impressionante.
+- Obrigado, desculpe...
+
+116
+00:13:05,327 --> 00:13:07,327
+o que está acontecendo?
+
+117
+00:13:07,328 --> 00:13:09,328
+Estas avaliações da NASA
+dizem que você tem...
+
+118
+00:13:09,603 --> 00:13:12,647
+"Pouca ou nenhuma
+aversão ao risco".
+
+119
+00:13:12,878 --> 00:13:13,861
+Um ponto de vista semelhante,
+
+120
+00:13:13,862 --> 00:13:15,585
+compartilhado por
+seus instrutores de voo.
+
+121
+00:13:15,586 --> 00:13:18,093
+Esta documentação
+é confidencial.
+
+122
+00:13:20,116 --> 00:13:22,882
+Espere. Isto é... isso é algum
+tipo de entrevista de emprego?
+
+123
+00:13:23,397 --> 00:13:26,060
+Porque, eu aprecio os voos
+misteriosos e tudo mais,
+
+124
+00:13:26,085 --> 00:13:28,398
+mas eu poderia ter economizado
+muito tempo e problemas.
+
+125
+00:13:28,399 --> 00:13:30,585
+Porque eu não estou interessado.
+Obrigado.
+
+126
+00:13:30,719 --> 00:13:32,780
+Não ouviu a nossa oferta.
+
+127
+00:13:34,108 --> 00:13:37,577
+Bem... Tenho uma série de
+obrigações nos Estados Unidos.
+
+128
+00:13:37,602 --> 00:13:38,902
+Pessoais.
+
+129
+00:13:39,010 --> 00:13:41,647
+Estamos cientes de
+sua irmã e sobrinho.
+
+130
+00:13:41,926 --> 00:13:44,193
+E seu novo papel
+de pai substituto.
+
+131
+00:13:44,422 --> 00:13:46,671
+E as circunstâncias
+relacionadas.
+
+132
+00:13:50,679 --> 00:13:53,015
+É muito nobre
+da sua parte, Will.
+
+133
+00:13:53,335 --> 00:13:55,967
+O Sr. Reynard
+respeita sua posição,
+
+134
+00:13:56,008 --> 00:13:59,279
+razão pela qual o nosso
+generoso pacote de realocação
+
+135
+00:13:59,304 --> 00:14:01,167
+inclui, vocês três.
+
+136
+00:14:01,600 --> 00:14:05,074
+Donny terá acesso a uma escola
+privada de classe mundial.
+
+137
+00:14:05,076 --> 00:14:07,296
+É um pouco mais
+complicado do que isso.
+
+138
+00:14:07,430 --> 00:14:11,475
+E os melhores especialistas
+em traumas em toda a Europa.
+
+139
+00:14:15,894 --> 00:14:18,694
+Com a compensação que estamos
+preparados para oferecer,
+
+140
+00:14:18,757 --> 00:14:20,991
+sua irmã nunca
+precisaria trabalhar.
+
+141
+00:14:22,192 --> 00:14:24,911
+Will, isso não é uma
+oferta de emprego.
+
+142
+00:14:24,936 --> 00:14:27,015
+Isto é a...
+
+143
+00:14:27,698 --> 00:14:30,398
+oportunidade de explorar...
+
+144
+00:14:32,027 --> 00:14:34,390
+...fronteiras impossíveis.
+
+145
+00:14:38,094 --> 00:14:40,429
+Bem, eu já estive
+no espaço, então...
+
+146
+00:14:40,471 --> 00:14:42,007
+Espaço é possível.
+
+147
+00:14:43,105 --> 00:14:45,577
+Então do que estamos falando?
+
+148
+00:14:47,402 --> 00:14:50,370
+Antes disso,
+vou precisar da sua assinatura.
+
+149
+00:15:00,906 --> 00:15:03,015
+Chamando Mia Porter
+
+150
+00:15:16,321 --> 00:15:18,718
+<i>Oi! Você ligou para
+Mia e Donny.</i>
+
+151
+00:15:18,743 --> 00:15:21,663
+<i>Não estamos aqui agora,
+deixe uma mensagem</i>
+
+152
+00:15:22,397 --> 00:15:23,616
+<i>depois do...</i>
+
+153
+00:15:23,617 --> 00:15:25,050
+<i>Bip...!</i>
+
+154
+00:15:26,756 --> 00:15:29,725
+Mia, é o Will.
+Me ligue quando receber isso.
+
+155
+00:15:30,288 --> 00:15:33,015
+Aqui é Will Porter.
+Log 3 da missão.
+
+156
+00:15:33,040 --> 00:15:36,882
+Agora posso confirmar que
+o salto foi bem sucedido.
+
+157
+00:15:37,128 --> 00:15:39,397
+Minha localização é o eco.
+
+158
+00:15:39,801 --> 00:15:41,101
+Sem precedentes!
+
+159
+00:15:41,327 --> 00:15:42,819
+Isso é incrível.
+
+160
+00:15:55,203 --> 00:15:57,753
+Os diagnósticos de eco ainda
+estão sendo carregados.
+
+161
+00:15:57,754 --> 00:15:59,332
+Agora em 57%.
+
+162
+00:15:59,622 --> 00:16:02,554
+Resposta sobre a estabilidade
+gravitacional entrando...
+
+163
+00:16:07,123 --> 00:16:11,638
+8 quilômetros da torre.
+Tempo: pouco mais de uma hora.
+
+164
+00:16:18,170 --> 00:16:20,927
+ROTA MAIS RÁPIDA PARA A TORRE
+
+165
+00:16:34,440 --> 00:16:35,740
+O que...
+
+166
+00:16:37,171 --> 00:16:38,802
+A merda está acontecendo?
+
+167
+00:16:40,299 --> 00:16:42,919
+Meu Deus.
+Deve sair daqui.
+
+168
+00:16:44,803 --> 00:16:47,171
+Ok, basta chegar à torre,
+só fazer isso.
+
+169
+00:16:47,486 --> 00:16:49,919
+Podemos sair daqui e ir
+para casa, está bem?
+
+170
+00:16:50,241 --> 00:16:51,541
+Oh, droga.
+
+171
+00:16:55,565 --> 00:16:56,865
+Meu Deus.
+
+172
+00:16:57,925 --> 00:16:59,927
+Que diabos está acontecendo?
+
+173
+00:17:01,169 --> 00:17:02,892
+Arraste e solte o vídeo.
+
+174
+00:17:03,197 --> 00:17:06,443
+<i>Havia...
+Houve um monte de gritos,</i>
+
+175
+00:17:06,468 --> 00:17:08,434
+<i>Um monte de... muita confusão.</i>
+
+176
+00:17:08,726 --> 00:17:10,419
+<i>E então eles começaram a disparar!</i>
+
+177
+00:17:10,444 --> 00:17:13,794
+<i>Primeiro começaram a atirar e depois
+foram atrás dos caras da Alterplex...</i>
+
+178
+00:17:13,819 --> 00:17:17,069
+<i>e eu vi uma mulher atingida
+quando saia do carro dela...</i>
+
+179
+00:17:17,094 --> 00:17:19,764
+<i>e tenho certeza que ela não tinha
+nada a ver com Alterplex!</i>
+
+180
+00:17:20,020 --> 00:17:21,467
+<i>O líder do grupo militante
+ambientalista,</i>
+
+181
+00:17:21,468 --> 00:17:23,467
+<i>auto denominado Rebeldes,</i>
+
+182
+00:17:23,492 --> 00:17:25,826
+<i>publicou uma declaração
+justificando sua agressão</i>
+
+183
+00:17:25,851 --> 00:17:27,662
+<i>no laboratório de Alterplex
+e à torre,</i>
+
+184
+00:17:27,687 --> 00:17:30,326
+<i>acusando a usina de energia
+de ameaçar o planeta inteiro</i>
+
+185
+00:17:30,351 --> 00:17:32,451
+<i>quando ligaram a torre
+há uma semana atrás,</i>
+
+186
+00:17:32,476 --> 00:17:35,350
+<i>citando a subsequente
+desestabilização do sistema.</i>
+
+187
+00:17:35,863 --> 00:17:37,163
+<i>Enquanto isso, Alterplex,</i>
+
+188
+00:17:37,179 --> 00:17:39,787
+<i>que foi autorizada a lançar seus
+próprios drones de segurança</i>
+
+189
+00:17:39,804 --> 00:17:42,818
+<i>após a emissão do controverso
+ato de segurança Alterplex,</i>
+
+190
+00:17:42,928 --> 00:17:44,975
+<i>fez um anúncio em conjunto
+com a polícia</i>
+
+191
+00:17:45,000 --> 00:17:50,366
+<i>que a zona de evacuação ao redor
+da torre foi aumentada para 75 km.</i>
+
+192
+00:18:13,399 --> 00:18:15,240
+Meu Deus! O que...?
+
+193
+00:18:18,774 --> 00:18:20,522
+Log 4 da missão.
+
+194
+00:18:20,946 --> 00:18:24,928
+Acabei de ter um possível visual
+de uma anomalia gravitacional.
+
+195
+00:18:25,330 --> 00:18:27,092
+A caixa ainda está sendo carregada.
+
+196
+00:18:29,980 --> 00:18:31,709
+Aproximando da anomalia.
+
+197
+00:18:32,185 --> 00:18:35,953
+Definitivamente algum tipo de portal
+gravitacional na base das nuvens.
+
+198
+00:18:36,222 --> 00:18:38,705
+Parece ainda estar ativo.
+Muita carga estática,
+
+199
+00:18:38,730 --> 00:18:42,416
+uma linha ou um jato, como
+um tornado, mas ionizado.
+
+200
+00:18:43,421 --> 00:18:46,370
+Movendo-me agora
+em direção a anomalia.
+
+201
+00:18:46,729 --> 00:18:49,197
+Parece um pequeno... barco?
+
+202
+00:18:50,944 --> 00:18:53,445
+Inúmeras aves mortas...
+
+203
+00:18:53,932 --> 00:18:56,346
+ao redor da anomalia.
+
+204
+00:19:03,447 --> 00:19:05,729
+O barco parece intacto,
+
+205
+00:19:05,754 --> 00:19:07,788
+talvez gravidade inversa?
+
+206
+00:19:08,484 --> 00:19:11,351
+O portal ainda está
+muito ativo.
+
+207
+00:19:11,893 --> 00:19:14,450
+Parece estar sugando a atmosfera.
+
+208
+00:19:14,452 --> 00:19:15,752
+Uau!
+
+209
+00:19:18,168 --> 00:19:19,424
+Oh, meu Deus...
+
+210
+00:19:19,425 --> 00:19:23,440
+ALERTA MÉDICO
+
+211
+00:19:31,106 --> 00:19:34,168
+ALERTA MÉDICO
+
+212
+00:19:44,010 --> 00:19:47,033
+RECEBENDO RELATÓRIO DE DANOS.
+
+213
+00:20:25,584 --> 00:20:27,518
+O que você está fazendo?
+
+214
+00:21:31,198 --> 00:21:33,732
+Drone derrubado!
+Drone derrubado!
+
+215
+00:21:44,814 --> 00:21:47,681
+CONSPIRADOR CONTRA ALTERPLEX
+"HUGO ROMEIN"
+
+216
+00:21:47,770 --> 00:21:50,139
+Todo mundo se reagrupe! Vamos!
+
+217
+00:21:50,187 --> 00:21:52,353
+- Quem é aquele cara?
+- O que? Onde?
+
+218
+00:21:52,410 --> 00:21:53,850
+Tira ele de lá. Agora!
+
+219
+00:21:53,893 --> 00:21:55,204
+Esperem! Esperem! Esperem!
+Está tudo bem, está tudo bem!
+
+220
+00:21:55,205 --> 00:21:57,346
+- Afaste-se da porta!
+- Estou tentando encontrar um caminho
+
+221
+00:21:57,347 --> 00:21:59,350
+e você! Mãos ao alto!
+Mãos para cima!
+
+222
+00:21:59,435 --> 00:22:01,686
+Não atire! Não atire!
+
+223
+00:22:01,908 --> 00:22:04,882
+- Ei, pare!
+- Atire nele!
+
+224
+00:22:28,472 --> 00:22:30,889
+Pare! Pare!
+
+225
+00:22:38,849 --> 00:22:41,650
+Você está saindo.
+Eu sei que você está lá!
+
+226
+00:22:41,692 --> 00:22:43,426
+Dê-lhe três segundos!
+
+227
+00:22:56,409 --> 00:23:01,337
+CONCUSSÃO DETECTADA!
+PROCURE ATENDIMENTO MÉDICO!
+
+228
+00:23:35,371 --> 00:23:36,671
+Michael?
+
+229
+00:23:39,456 --> 00:23:41,591
+- Will?
+- Por que está atirando em mim?!
+
+230
+00:23:42,078 --> 00:23:44,508
+Você quer abaixar a arma e me dizer
+o que diabos está acontecendo?!
+
+231
+00:23:44,509 --> 00:23:47,543
+O que você está fazendo com
+estes doidos?! Você é Alterplex!
+
+232
+00:23:48,524 --> 00:23:49,891
+Você está vivo...
+
+233
+00:23:51,359 --> 00:23:52,952
+Isso não é possível.
+
+234
+00:23:53,089 --> 00:23:55,367
+Por que não? Por que não?
+O que aconteceu?
+
+235
+00:23:55,766 --> 00:23:57,719
+Michael, fale comigo.
+Diga-me o que viu.
+
+236
+00:23:57,744 --> 00:23:59,250
+Aconteceu algo comigo?
+
+237
+00:23:59,490 --> 00:24:00,856
+Michael?
+
+238
+00:24:02,715 --> 00:24:04,219
+Que diabos está
+acontecendo aqui, cara?
+
+239
+00:24:04,220 --> 00:24:05,945
+O que diabos está acontecendo?!
+
+240
+00:24:05,970 --> 00:24:07,898
+Calma! Abaixe a arma.
+
+241
+00:24:07,923 --> 00:24:10,879
+Vou te dizer o que está acontecendo,
+mas antes, tem que me responder!
+
+242
+00:24:10,921 --> 00:24:12,221
+Besteira.
+
+243
+00:24:12,284 --> 00:24:15,273
+Como você sobreviveu?
+Como você sobreviveu?
+
+244
+00:24:17,701 --> 00:24:19,001
+Merda!
+
+245
+00:24:31,300 --> 00:24:35,016
+<i>Atenção! Cidadão, você está
+invadindo uma zona restrita.</i>
+
+246
+00:24:35,041 --> 00:24:38,828
+Você está violando o ato
+de segurança 7.1 da Alterplex.
+
+247
+00:24:38,853 --> 00:24:41,454
+Pare, ou vamos atirar.
+
+248
+00:24:44,693 --> 00:24:48,562
+<i>Você está invadindo numa
+zona restrita. Pare, ou nós atiramos.</i>
+
+249
+00:24:48,690 --> 00:24:51,691
+Eu trabalho para Alterplex.
+Meu nome é Will Porter.
+
+250
+00:24:52,273 --> 00:24:53,750
+<i>Permaneça onde está.</i>
+
+251
+00:24:53,891 --> 00:24:55,977
+<i>Temos nome
+listado como morto.</i>
+
+252
+00:24:56,250 --> 00:24:59,016
+<i>Dê quatro passos à frente
+e deite-se no chão,</i>
+
+253
+00:24:59,041 --> 00:25:00,516
+<i>com braços e pernas abertas.</i>
+
+254
+00:25:00,734 --> 00:25:03,008
+Espere! Espere! Espere!
+Deixe-me provar isso para você!
+
+255
+00:25:03,009 --> 00:25:04,909
+Deixe-me provar isso para você.
+
+256
+00:25:22,328 --> 00:25:24,578
+<i>Identificação positiva.
+Você está preso.</i>
+
+257
+00:25:24,603 --> 00:25:27,404
+<i>Permaneça onde está.
+Um transporte está a caminho.</i>
+
+258
+00:25:27,537 --> 00:25:30,281
+<i>Vão acompanhá-lo para o comando
+da Alterplex em poucos segundos.</i>
+
+259
+00:25:30,306 --> 00:25:32,540
+<i>Permaneça onde você está.</i>
+
+260
+00:26:43,458 --> 00:26:45,508
+<i>Desde o amanhecer
+da humanidade,</i>
+
+261
+00:26:45,647 --> 00:26:48,781
+<i>nós alcançamos sonhos
+além do nosso alcance.</i>
+
+262
+00:26:50,703 --> 00:26:54,242
+<i>Olhamos para os pássaros
+e construímos aviões para voar.</i>
+
+263
+00:26:54,779 --> 00:26:58,648
+<i>Olhamos para a lua e construímos
+foguetes para alcançá-la.</i>
+
+264
+00:26:58,956 --> 00:27:00,958
+<i>Ao longo da história,
+temos transcendido</i>
+
+265
+00:27:00,959 --> 00:27:02,959
+<i>nossa evolução com a tecnologia,</i>
+
+266
+00:27:03,609 --> 00:27:06,258
+<i>avançando por novas fronteiras.</i>
+
+267
+00:27:06,554 --> 00:27:10,956
+<i>Agora August Reynard,
+visionário CEO do Alterplex,</i>
+
+268
+00:27:11,100 --> 00:27:14,101
+<i>pede que você olhe para o desafio
+energético que enfrentamos,</i>
+
+269
+00:27:14,563 --> 00:27:17,602
+<i>e, mais uma vez, avance
+para uma nova fronteira.</i>
+
+270
+00:27:17,984 --> 00:27:21,704
+<i>Após décadas de pesquisa, estamos
+orgulhosos de finalmente desvendar</i>
+
+271
+00:27:21,706 --> 00:27:23,556
+<i>o futuro do aproveitamento energético</i>
+
+272
+00:27:23,557 --> 00:27:26,500
+<i>e realizar o nosso sonho
+para um amanhã melhor,</i>
+
+273
+00:27:27,152 --> 00:27:29,619
+<i>nos alimentando
+por milênios por vir.</i>
+
+274
+00:27:47,353 --> 00:27:50,850
+Esta é um aviso
+para todo o pessoal Alterplex.
+
+275
+00:27:50,875 --> 00:27:54,264
+<i>Lembrem-se: Devido ao aumento
+protestos violentos,</i>
+
+276
+00:27:54,405 --> 00:27:57,748
+<i>a política de segurança de emergência
+agora também inclui</i>
+
+277
+00:27:57,773 --> 00:28:00,715
+<i>Setores cinco, sete e dez.</i>
+
+278
+00:28:00,740 --> 00:28:02,686
+Não.
+Não estamos lá ainda,
+
+279
+00:28:02,718 --> 00:28:07,342
+ainda estamos esperando...
+Relatório de diagnóstico, sim.
+
+280
+00:28:07,918 --> 00:28:10,990
+Bem, vou verificar com ele.
+Vou verificar.
+
+281
+00:28:11,034 --> 00:28:13,100
+Sim. Ok.
+
+282
+00:28:17,260 --> 00:28:20,710
+Tão feliz que você está aqui, Will.
+Desculpe. Logística de lançamento.
+
+283
+00:28:20,711 --> 00:28:22,099
+O tempo está passando.
+
+284
+00:28:23,508 --> 00:28:25,701
+Como estão se dando Mia e Donny?
+
+285
+00:28:26,162 --> 00:28:30,022
+Bem... um pouco enrolados,
+para dizer a verdade...
+
+286
+00:28:30,259 --> 00:28:32,084
+Você sabe,
+cidade nova e tudo mais.
+
+287
+00:28:32,109 --> 00:28:34,475
+Eles têm um monte de perguntas.
+E francamente...
+
+288
+00:28:34,844 --> 00:28:37,482
+ainda não compreendo completamente
+o que estou fazendo aqui.
+
+289
+00:28:37,588 --> 00:28:40,342
+Antes de irmos além...
+
+290
+00:28:40,924 --> 00:28:42,607
+Isto é para você.
+
+291
+00:28:43,975 --> 00:28:46,209
+Não é um presente, sinto muito.
+
+292
+00:28:46,584 --> 00:28:47,890
+É um localizador.
+
+293
+00:28:48,248 --> 00:28:49,834
+Mantenha-o sempre com você.
+
+294
+00:28:49,859 --> 00:28:53,436
+Se estiver vivo, você estará
+de plantão 24/7.
+
+295
+00:28:54,936 --> 00:28:56,842
+- 24/7?
+- Exatamente.
+
+296
+00:28:56,867 --> 00:28:58,100
+Vamos continuar?
+
+297
+00:28:58,101 --> 00:28:59,401
+Bem.
+
+298
+00:29:01,547 --> 00:29:04,014
+Sra. Vos.
+Belo dia, não é?
+
+299
+00:29:04,412 --> 00:29:06,011
+Você deve ser Will.
+
+300
+00:29:06,317 --> 00:29:09,553
+Michael.
+Bem-vindo a Alterplex.
+
+301
+00:29:16,593 --> 00:29:17,943
+Não pode ficar aqui.
+
+302
+00:29:18,909 --> 00:29:21,373
+Temos que seguir em frente.
+Olhe para o que eles fizeram.
+
+303
+00:29:21,567 --> 00:29:23,232
+E o que você fez, Michael?
+
+304
+00:29:23,346 --> 00:29:26,047
+- Invadimos o laboratório...
+- O que aconteceu com você?
+
+305
+00:29:26,620 --> 00:29:28,522
+Tem um monte de pessoas mortas.
+
+306
+00:29:29,466 --> 00:29:30,772
+Não pode estar aqui.
+
+307
+00:29:32,121 --> 00:29:34,576
+- Não há como...
+- Por que não há maneira?
+
+308
+00:29:34,601 --> 00:29:36,085
+Você me perguntou
+como eu sobrevivi,
+
+309
+00:29:36,086 --> 00:29:38,519
+me diz que não é possível
+eu estar vivo. Por quê?
+
+310
+00:29:39,476 --> 00:29:41,123
+Eu vi você morrer, Will.
+
+311
+00:29:42,283 --> 00:29:43,883
+Eu vi você morrer.
+
+312
+00:29:45,103 --> 00:29:46,403
+Vamos.
+
+313
+00:29:53,170 --> 00:29:55,038
+O que é isso?
+
+314
+00:30:25,886 --> 00:30:28,579
+O que diabos está
+acontecendo aqui?
+
+315
+00:30:33,287 --> 00:30:34,728
+Execute, por favor.
+
+316
+00:30:38,896 --> 00:30:40,821
+<i>Após o fim dos combustíveis fósseis,</i>
+
+317
+00:30:40,860 --> 00:30:43,734
+<i>a humanidade vem confrontando
+seu maior desafio.</i>
+
+318
+00:30:43,903 --> 00:30:47,539
+<i>Com o triplicar do consumo de energia
+somente na última década,</i>
+
+319
+00:30:47,566 --> 00:30:50,434
+<i>uma nova forma de sustentabilidade
+energética é necessária.</i>
+
+320
+00:30:50,491 --> 00:30:54,766
+<i>Um sistema que suplante ao solar,
+energia eólica e mesmo nuclear.</i>
+
+321
+00:30:54,911 --> 00:30:57,828
+<i>Após anos de pesquisa,
+nós da Alterplex</i>
+
+322
+00:30:57,853 --> 00:31:00,039
+<i>encontramos a resposta
+para a crise energética</i>
+
+323
+00:31:00,180 --> 00:31:03,367
+<i>alavancando o imenso
+poder oculto da teoria M,</i>
+
+324
+00:31:03,527 --> 00:31:06,968
+<i>inicialmente proposta por
+Edward Witten em 1995,</i>
+
+325
+00:31:07,097 --> 00:31:10,472
+<i>e aprimorada por Pieter Klintsen
+como a Teoria da Dupla-Matéria.</i>
+
+326
+00:31:10,614 --> 00:31:15,284
+<i>A Teoria M unifica todas as versões
+consistentes da teoria das cordas.</i>
+
+327
+00:31:16,042 --> 00:31:19,792
+<i>Ao desconstruir espaço-tempo em
+um número maior de dimensões,</i>
+
+328
+00:31:20,042 --> 00:31:24,229
+<i>a nossa torre é capaz de criar um
+eco espelhado do nosso universo.</i>
+
+329
+00:31:24,885 --> 00:31:26,651
+Está copiando o universo inteiro?
+
+330
+00:31:26,680 --> 00:31:29,972
+<i>...seguindo a simetria até
+cada última partícula quântica,</i>
+
+331
+00:31:30,092 --> 00:31:31,948
+<i>com uma diferença crucial.</i>
+
+332
+00:31:32,336 --> 00:31:35,675
+<i>O universo eco será
+desprovido de compostos orgânicos.</i>
+
+333
+00:31:36,004 --> 00:31:38,511
+<i>Em vez disso,
+será um cosmo sem vida</i>
+
+334
+00:31:38,624 --> 00:31:40,729
+<i>fornecendo uma quantidade ilimitada
+de matéria</i>
+
+335
+00:31:40,754 --> 00:31:42,987
+<i>que poderá ser transformada
+em energia.</i>
+
+336
+00:31:43,357 --> 00:31:45,573
+<i>Agindo como condutor dimensional,</i>
+
+337
+00:31:45,703 --> 00:31:48,854
+<i>a torre criará
+portais de gravidade múltipla,</i>
+
+338
+00:31:49,128 --> 00:31:51,667
+<i>que vai colher massa
+do eco e convertê-la</i>
+
+339
+00:31:51,692 --> 00:31:54,163
+<i>em pura energia
+eletromagnética.</i>
+
+340
+00:31:54,917 --> 00:31:56,971
+<i>Esta energia será
+então transferida</i>
+
+341
+00:31:56,996 --> 00:31:59,425
+<i>de forma limpa e segura
+para nosso mundo,</i>
+
+342
+00:31:59,450 --> 00:32:02,217
+<i>alimentando-o por
+milênios que virão.</i>
+
+343
+00:32:08,374 --> 00:32:10,432
+Eu fiz exatamente a mesma cara.
+
+344
+00:32:11,494 --> 00:32:15,018
+- Universos paralelos?
+- Um universo de eco.
+
+345
+00:32:15,681 --> 00:32:19,050
+E aí é onde você entra.
+
+346
+00:32:19,536 --> 00:32:21,229
+Este é o portal.
+
+347
+00:32:21,378 --> 00:32:25,040
+Ele envia você para o eco,
+a uma distância segura da torre.
+
+348
+00:32:25,042 --> 00:32:27,209
+Você vai estar carregando
+esta caixa.
+
+349
+00:32:28,856 --> 00:32:30,816
+A caixa irá
+contrabalançar qualquer
+
+350
+00:32:30,841 --> 00:32:32,964
+instabilidade que
+pode ocorrer no eco.
+
+351
+00:32:32,989 --> 00:32:34,340
+Instabilidades?
+
+352
+00:32:35,198 --> 00:32:39,026
+Muito simples. Ele se conecta
+diretamente à torre de eco.
+
+353
+00:32:39,523 --> 00:32:41,682
+Alguém precisa chegar lá.
+
+354
+00:32:42,157 --> 00:32:44,643
+- Ok. Posso?
+- Sim.
+
+355
+00:32:55,293 --> 00:32:56,823
+E é só ligá-la?
+
+356
+00:32:58,800 --> 00:33:00,100
+Só isso?
+
+357
+00:33:00,229 --> 00:33:01,529
+Só isso.
+
+358
+00:33:01,957 --> 00:33:04,386
+Há um terminal na
+base da torre de eco.
+
+359
+00:33:04,426 --> 00:33:06,994
+Você salta, leva a
+caixa para a torre,
+
+360
+00:33:07,069 --> 00:33:10,604
+a conecta e salta de volta
+em tempo para o jantar.
+
+361
+00:33:24,193 --> 00:33:27,106
+Michael, ninguém deveria ter
+sido copiado. Nenhum ser vivo.
+
+362
+00:33:27,131 --> 00:33:29,803
+Este deveria ser um mundo estéril,
+desprovido de vida de carbono.
+
+363
+00:33:29,804 --> 00:33:30,897
+Eu não sei o que deu errado.
+
+364
+00:33:30,898 --> 00:33:33,499
+- Então você está dizendo que...
+- Hã?
+
+365
+00:33:35,113 --> 00:33:36,935
+- eles copiaram o mundo inteiro?
+- Bem...
+
+366
+00:33:36,960 --> 00:33:39,178
+- o universo inteiro?
+- Tipo isso...
+
+367
+00:33:39,404 --> 00:33:40,787
+Como isso é possível, cara?
+
+368
+00:33:40,812 --> 00:33:43,178
+Não vai querer entrar nisso agora,
+
+369
+00:33:43,203 --> 00:33:45,603
+mas efetivamente, é. Sim.
+
+370
+00:33:49,159 --> 00:33:52,024
+- Então, há dois de mim.
+- Possivelmente.
+
+371
+00:33:52,252 --> 00:33:54,844
+- De todos?
+- Nem todo mundo.
+
+372
+00:33:54,877 --> 00:33:57,219
+Não, eu acho. Mas estou aqui
+para consertar isso.
+
+373
+00:33:57,244 --> 00:34:00,485
+Eu tenho que levar isso
+para a torre.
+
+374
+00:34:05,782 --> 00:34:08,743
+"Redivider".
+O que isso significa?
+
+375
+00:34:08,838 --> 00:34:11,790
+Eu não sei. Eles não me
+informaram sobre o Redivider.
+
+376
+00:34:13,129 --> 00:34:14,977
+Que tal, merda cara?
+
+377
+00:34:15,099 --> 00:34:18,767
+Eles nunca informaram a você sobre
+trens que caem do maldito céu?
+
+378
+00:34:20,171 --> 00:34:23,883
+O sistema deveria de alguma forma
+estar colhendo energia do eco,
+
+379
+00:34:24,153 --> 00:34:26,766
+de... deste universo
+para o mundo real.
+
+380
+00:34:26,813 --> 00:34:29,464
+Mas talvez o eco esteja lutando
+de volta de alguma forma?
+
+381
+00:34:29,466 --> 00:34:30,930
+Está sugando coisas de volta?
+
+382
+00:34:30,955 --> 00:34:32,805
+Objetos pesados do mundo real.
+
+383
+00:34:32,980 --> 00:34:35,055
+Talvez esteja equilibrando
+O que está perdido.
+
+384
+00:34:35,080 --> 00:34:36,657
+Jesus Cristo.
+
+385
+00:34:37,985 --> 00:34:39,883
+Ninguém vai acreditar nisso.
+
+386
+00:34:40,345 --> 00:34:42,868
+Porque ninguém vai saber.
+
+387
+00:34:43,450 --> 00:34:45,415
+- O que você quer dizer?
+- Pode imaginar o pânico?
+
+388
+00:34:45,416 --> 00:34:47,920
+Olhe o que já está acontecendo.
+As pessoas ficariam loucas.
+
+389
+00:34:47,921 --> 00:34:49,469
+Temos que dizer algo.
+
+390
+00:34:49,470 --> 00:34:51,470
+Não! Não temos de dizer
+merda nenhuma.
+
+391
+00:34:51,918 --> 00:34:53,218
+Droga!
+
+392
+00:34:53,610 --> 00:34:55,118
+Olha, se você realmente
+quer acabar com isso,
+
+393
+00:34:55,119 --> 00:34:57,930
+você tem que me ajudar a
+levar a caixa para a torre.
+
+394
+00:35:00,078 --> 00:35:01,211
+Merda!
+
+395
+00:35:01,212 --> 00:35:04,055
+Quem são eles, Michael?
+Baixe a arma.
+
+396
+00:35:04,080 --> 00:35:04,854
+Abby?
+
+397
+00:35:04,855 --> 00:35:06,155
+O que...?
+Abby!
+
+398
+00:35:08,110 --> 00:35:10,238
+Michael, calma. Calma.
+
+399
+00:35:11,119 --> 00:35:13,727
+Isso é loucura!
+Eles destruíram o laboratório, Will!
+
+400
+00:35:13,752 --> 00:35:15,610
+- Você destruiu o maldito...
+- Cale-se!
+
+401
+00:35:15,635 --> 00:35:16,935
+Cala a boca você!
+
+402
+00:35:17,594 --> 00:35:19,805
+Você não pode confiar nela, Will.
+Não confie nela.
+
+403
+00:35:20,508 --> 00:35:22,577
+Reynard está esperando
+com o que resta da equipe.
+
+404
+00:35:22,578 --> 00:35:24,796
+- Estamos reagrupando.
+- Não. Não posso...
+
+405
+00:35:24,821 --> 00:35:26,087
+O plano falhou, Will.
+Seriamente.
+
+406
+00:35:26,088 --> 00:35:27,046
+Eu sei.
+
+407
+00:35:27,047 --> 00:35:28,470
+Venha comigo,
+e vamos consertar isso.
+
+408
+00:35:28,471 --> 00:35:30,649
+Abby.
+Não, Abby. Não posso.
+
+409
+00:35:37,959 --> 00:35:40,055
+<i>- Temos de ir.
+- Você foi identificado.</i>
+
+410
+00:35:40,080 --> 00:35:43,626
+<i>Deite-se no chão e coloque
+as mãos sobre sua cabeça.</i>
+
+411
+00:35:43,746 --> 00:35:46,342
+Ei! Sou eu!
+
+412
+00:35:46,376 --> 00:35:47,931
+Que porra está
+acontecendo com você?!
+
+413
+00:35:47,932 --> 00:35:49,465
+Vou levá-lo de volta.
+
+414
+00:35:50,680 --> 00:35:52,235
+Vai! Vai! Vai! Corre!
+
+415
+00:35:52,907 --> 00:35:53,929
+<i>Nós o estamos vendo.</i>
+
+416
+00:35:53,930 --> 00:35:56,876
+<i>Deite-se no chão, e coloque
+as mãos sobre sua cabeça.</i>
+
+417
+00:35:56,994 --> 00:35:59,060
+<i>Este é o último aviso!</i>
+
+418
+00:36:03,506 --> 00:36:05,485
+Ok! Não!
+
+419
+00:36:10,867 --> 00:36:13,768
+Vamos!
+Venha, entre!
+
+420
+00:36:16,872 --> 00:36:19,474
+Abby, vamos! Vamos!
+
+421
+00:36:22,712 --> 00:36:25,313
+Dirija! Vamos!
+
+422
+00:36:26,716 --> 00:36:28,483
+Foda-se!
+
+423
+00:36:30,180 --> 00:36:31,805
+Porra! Maldito seja!
+
+424
+00:36:33,771 --> 00:36:36,840
+- Ele está vindo!
+- Me dê a arma!
+
+425
+00:36:38,174 --> 00:36:39,474
+Atire!
+
+426
+00:36:40,442 --> 00:36:41,742
+Vamos!
+
+427
+00:36:43,310 --> 00:36:44,610
+Atire nele!
+
+428
+00:36:45,435 --> 00:36:48,282
+Droga! Você tem balas?!
+Você não tem?!
+
+429
+00:36:48,897 --> 00:36:53,466
+- Acabou! Acabou!
+- A minha mochila! Use as granadas!
+
+430
+00:36:55,303 --> 00:36:57,671
+Jogue a granada!
+Jogue a granada!
+
+431
+00:37:04,779 --> 00:37:08,048
+Vá para a ponte mais rápido!
+Mais rápido!
+
+432
+00:37:46,334 --> 00:37:47,431
+Ativar som.
+
+433
+00:37:47,432 --> 00:37:49,489
+<i>...esse desaparecimento
+é o mais recente de uma lista</i>
+
+434
+00:37:49,490 --> 00:37:51,743
+<i>de recentes
+veículos desaparecidos.</i>
+
+435
+00:37:51,915 --> 00:37:54,297
+<i>Um padrão bizarro que parece
+a ser associado</i>
+
+436
+00:37:54,322 --> 00:37:56,462
+<i>a comportamentos climáticos
+anormais ao redor dos locais,</i>
+
+437
+00:37:56,463 --> 00:37:58,258
+<i>de acordo com alguns especialistas.</i>
+
+438
+00:37:58,512 --> 00:38:00,669
+<i>Alguns céticos acreditam
+os eventos estão vinculados</i>
+
+439
+00:38:00,670 --> 00:38:03,271
+<i>com a torre de energia Alterplex
+ligada na semana passada.</i>
+
+440
+00:38:03,367 --> 00:38:07,352
+- Ele queria esperar por você.
+- Sim, eu sei. Desculpa.
+
+441
+00:38:08,961 --> 00:38:11,344
+Nós vamos fazer isso neste
+fim de semana, eu prometo.
+
+442
+00:38:11,448 --> 00:38:13,281
+Estão te dando
+fins de semana agora?
+
+443
+00:38:24,562 --> 00:38:27,998
+- E está com saudades de casa.
+- Sim?
+
+444
+00:38:29,213 --> 00:38:31,247
+Bem... vai ficar melhor.
+
+445
+00:38:39,092 --> 00:38:42,360
+E eu juro que vou fazer algo
+sobre tudo essa... coisa.
+
+446
+00:38:44,608 --> 00:38:45,908
+OK?
+
+447
+00:38:52,085 --> 00:38:54,251
+Você deveria sair e desfrutar
+da cidade um pouco.
+
+448
+00:38:55,997 --> 00:38:58,211
+Você já o levou para os canais?
+
+449
+00:38:59,019 --> 00:39:00,719
+Nós vamos ficar bem, Will.
+
+450
+00:39:40,665 --> 00:39:43,438
+CONCUSSÃO DETECTADA.
+
+451
+00:40:13,384 --> 00:40:16,243
+ALERTA MÉDICO
+
+452
+00:40:21,484 --> 00:40:23,084
+Você está bem?
+
+453
+00:40:29,444 --> 00:40:32,679
+- Está sangrando. Merda.
+- Estou bem. Estou bem.
+
+454
+00:40:35,130 --> 00:40:36,898
+Você está bem?
+
+455
+00:40:39,086 --> 00:40:41,261
+Temos que levá-lo ao Reynard.
+Ele saberá o que fazer.
+
+456
+00:40:41,262 --> 00:40:43,533
+Reynard e sua equipe tentaram
+nos colocar em coma!
+
+457
+00:40:43,558 --> 00:40:44,995
+Porque você nos atacou!
+
+458
+00:40:48,216 --> 00:40:51,118
+- Will?
+- Eles estavam mirando em mim, Abby.
+
+459
+00:40:55,674 --> 00:40:57,807
+Por quê? Você é um de nós!
+
+460
+00:40:57,904 --> 00:40:59,448
+Não sou mais, Abby.
+
+461
+00:40:59,961 --> 00:41:01,471
+Me leve para dentro da torre.
+
+462
+00:41:03,213 --> 00:41:04,513
+A torre.
+
+463
+00:41:04,533 --> 00:41:07,151
+O que você vai fazer sem a caixa?!
+Eles a destruíram!
+
+464
+00:41:07,176 --> 00:41:09,376
+Confie em mim, posso consertar isso.
+
+465
+00:41:10,788 --> 00:41:12,252
+Ele pode consertá-la.
+
+466
+00:41:14,074 --> 00:41:17,377
+Mas sem Reynard e Alterplex.
+Sem eles!
+
+467
+00:41:18,319 --> 00:41:19,877
+Vamos entrar lá, Abby.
+
+468
+00:41:20,611 --> 00:41:21,932
+Posso acabar com isso.
+
+469
+00:41:22,834 --> 00:41:24,134
+Certo?
+
+470
+00:41:24,405 --> 00:41:25,791
+Ele pode acabar com isso.
+
+471
+00:41:28,301 --> 00:41:29,601
+Ok.
+
+472
+00:41:30,186 --> 00:41:31,565
+Will?
+
+473
+00:42:05,527 --> 00:42:07,794
+<i>Oi! Você ligou para
+Mia e Donny.</i>
+
+474
+00:42:07,819 --> 00:42:11,086
+<i>Não estamos aqui agora,
+deixe uma mensagem</i>
+
+475
+00:42:11,427 --> 00:42:12,911
+<i>depois do...</i>
+
+476
+00:42:12,936 --> 00:42:14,685
+<i>Bipe...!</i>
+
+477
+00:42:15,844 --> 00:42:17,591
+Mia, sou eu de novo.
+
+478
+00:42:17,895 --> 00:42:20,365
+Por favor, me ligue
+assim que puder. Ok?
+
+479
+00:42:20,668 --> 00:42:22,648
+- Eu te amo.
+- Eles evacuaram.
+
+480
+00:42:23,250 --> 00:42:25,370
+Eu mesmo me assegurei disso.
+
+481
+00:42:30,784 --> 00:42:33,219
+Drone! Drone! Will!
+
+482
+00:42:48,479 --> 00:42:50,847
+Temos de sair do campo aberto.
+Venha.
+
+483
+00:43:22,980 --> 00:43:24,347
+Seguro.
+
+484
+00:43:25,762 --> 00:43:27,062
+Vamos!
+
+485
+00:43:33,142 --> 00:43:34,693
+<i>...nós não somos militares.</i>
+
+486
+00:43:34,718 --> 00:43:36,651
+<i>Somos uma corporação de energia.</i>
+
+487
+00:43:36,961 --> 00:43:39,161
+<i>E os rebeldes?
+Eles são anarquistas.</i>
+
+488
+00:43:39,357 --> 00:43:41,693
+<i>Essa foi declaração, dada pelo
+CEO da Alterplex, August Reynard,</i>
+
+489
+00:43:41,819 --> 00:43:43,131
+<i>condenando o ataque feito pelo</i>
+
+490
+00:43:43,132 --> 00:43:45,131
+<i>grupo de ambientalistas
+ao laboratório...</i>
+
+491
+00:43:45,132 --> 00:43:46,615
+Se achar qualquer água, pegue.
+
+492
+00:43:46,640 --> 00:43:49,693
+<i>...que muitos funcionários veem
+como altamente controverso.</i>
+
+493
+00:43:50,396 --> 00:43:52,849
+<i>Notícias da cidade
+são difíceis de verificar</i>
+
+494
+00:43:52,874 --> 00:43:55,536
+<i>devido à manutenção estrita
+da zona de exclusão.</i>
+
+495
+00:43:55,733 --> 00:43:59,224
+<i>Veículos aparentemente
+aparecem no ar caindo do céu</i>
+
+496
+00:43:59,249 --> 00:44:01,883
+<i>mais parecem filmes
+de ficção científica.</i>
+
+497
+00:44:02,040 --> 00:44:05,021
+<i>No entanto, muitas testemunhas
+oculares relataram esses fenômenos.</i>
+
+498
+00:44:05,755 --> 00:44:10,036
+As autoridades estão tomando
+precauções muito seriamente...
+
+499
+00:44:26,909 --> 00:44:29,029
+Jesus Cristo...
+
+500
+00:44:33,376 --> 00:44:35,076
+Meu Deus.
+
+501
+00:44:43,284 --> 00:44:44,974
+Quem trouxe esses corpos para cá?
+
+502
+00:44:46,241 --> 00:44:47,638
+Oh, Deus...
+
+503
+00:44:48,755 --> 00:44:50,055
+Alterplex.
+
+504
+00:44:50,618 --> 00:44:53,122
+Segurança Alterplex, com certeza.
+
+505
+00:44:53,757 --> 00:44:55,216
+Tenho visto locais semelhantes.
+
+506
+00:44:55,552 --> 00:44:57,342
+Primeiro pensamos que era
+apenas uma coisa esquisita,
+
+507
+00:44:57,343 --> 00:44:59,777
+Mas então eles continuaram
+vindo e vindo.
+
+508
+00:45:00,832 --> 00:45:05,193
+Depois de um tempo, apenas desisti.
+Eu nem sabia sobre este aqui.
+
+509
+00:45:05,688 --> 00:45:08,138
+Tantos corpos.
+Foi quando eu parei.
+
+510
+00:45:08,638 --> 00:45:10,605
+Não te culpo.
+
+511
+00:45:15,009 --> 00:45:16,701
+E do outro lado?
+
+512
+00:45:19,794 --> 00:45:21,122
+...é assim também?
+
+513
+00:45:21,347 --> 00:45:24,388
+Não, apenas veículos
+desapareceram.
+
+514
+00:45:25,122 --> 00:45:28,825
+- Por isso que a Alterplex me enviou.
+- Então não é...
+
+515
+00:45:32,002 --> 00:45:33,084
+Eu... eu não sou...
+
+516
+00:45:33,085 --> 00:45:35,630
+Como eu disse, até onde eu sei,
+
+517
+00:45:35,762 --> 00:45:38,349
+o outro você está vivo.
+
+518
+00:45:38,894 --> 00:45:40,194
+Eu...
+
+519
+00:45:41,351 --> 00:45:42,651
+Eu não sei.
+
+520
+00:45:43,392 --> 00:45:44,708
+Jesus!
+
+521
+00:45:45,621 --> 00:45:46,921
+Você está bem?
+
+522
+00:45:51,930 --> 00:45:53,230
+Merda!
+
+523
+00:45:53,727 --> 00:45:55,027
+Por aqui, por aqui!
+
+524
+00:45:55,404 --> 00:45:56,870
+Vem vindo um Drone!
+
+525
+00:45:57,178 --> 00:45:59,755
+- Ele nos viu!
+- Ah, merda!
+
+526
+00:45:59,958 --> 00:46:02,223
+Vamos entrar no avião!
+Vamos! Vamos!
+
+527
+00:46:02,225 --> 00:46:04,060
+Vamos! Vamos!
+Vamos! Vamos.
+
+528
+00:46:06,383 --> 00:46:10,452
+<i>...verificação de Drone solicita
+suporte de solo na área dois.</i>
+
+529
+00:46:11,949 --> 00:46:16,552
+<i>Flyjack 21-b solicita
+suporte ao solo na área dois.</i>
+
+530
+00:46:19,287 --> 00:46:21,821
+Fique abaixado. Fique abaixado.
+
+531
+00:46:31,695 --> 00:46:35,397
+<i>Estamos prestes a suspender fogo.</i>
+
+532
+00:46:42,894 --> 00:46:44,411
+<i>Em vermelho,
+atirar para matar.</i>
+
+533
+00:46:44,436 --> 00:46:47,504
+<i>Repito, atirem para matar.
+Visual do alvo! Abrir fogo!</i>
+
+534
+00:47:01,511 --> 00:47:03,151
+Vamos!
+
+535
+00:47:15,286 --> 00:47:17,578
+Você está bem? Ok?
+
+536
+00:47:18,902 --> 00:47:20,336
+Maldição.
+
+537
+00:47:22,237 --> 00:47:24,138
+Puta merda.
+
+538
+00:47:29,387 --> 00:47:30,789
+Temos de ir.
+
+539
+00:47:34,249 --> 00:47:35,549
+Vamos.
+
+540
+00:47:35,985 --> 00:47:37,285
+Vamos.
+
+541
+00:47:37,324 --> 00:47:40,091
+Andem! Eles sabem onde estamos!
+
+542
+00:47:45,560 --> 00:47:46,860
+Você está bem?
+
+543
+00:47:47,806 --> 00:47:49,106
+Estamos limpos!
+
+544
+00:47:51,859 --> 00:47:53,159
+Droga.
+
+545
+00:47:55,509 --> 00:47:56,809
+Drone!
+
+546
+00:47:57,878 --> 00:48:01,391
+<i>Se entregue para o Drone!
+Coloque a sua arma no chão!</i>
+
+547
+00:48:01,530 --> 00:48:03,407
+Me ajude, Will!
+Me ajude!
+
+548
+00:48:06,816 --> 00:48:08,758
+- Merda!
+- Sem munição!
+
+549
+00:48:13,151 --> 00:48:16,953
+Olhe seu rifle, Will!
+Lance a carga!
+
+550
+00:48:21,895 --> 00:48:23,195
+Cuidado!
+
+551
+00:48:31,155 --> 00:48:32,455
+Não!
+
+552
+00:48:55,122 --> 00:48:56,608
+O que isso está fazendo?
+
+553
+00:49:00,036 --> 00:49:01,569
+Está funcionando.
+
+554
+00:49:11,013 --> 00:49:14,415
+Ei, Donny, você viu isso?
+Vê aquele feixe de luz?
+
+555
+00:49:15,021 --> 00:49:18,194
+Isso é pura energia que está sendo
+sugada para baixo pela torre.
+
+556
+00:49:18,219 --> 00:49:20,374
+Isso vai alimentar
+toda a cidade aqui,
+
+557
+00:49:20,399 --> 00:49:21,699
+Talvez todo o país.
+
+558
+00:49:22,620 --> 00:49:24,163
+- Sugando de onde?
+- Bem...
+
+559
+00:49:26,875 --> 00:49:29,242
+<i>Will Porter,
+agora você está de plantão.</i>
+
+560
+00:49:31,929 --> 00:49:33,937
+<i>...o líder do grupo,
+Hugo Romein,</i>
+
+561
+00:49:33,962 --> 00:49:36,309
+<i>numa entrevista esta manhã,
+assegurou que seu movimento</i>
+
+562
+00:49:36,313 --> 00:49:38,179
+<i>estará monitorando
+a situação de perto.</i>
+
+563
+00:49:38,588 --> 00:49:41,335
+<i>Expressando sérias preocupações
+sobre a ligação da torre,</i>
+
+564
+00:49:42,030 --> 00:49:43,378
+<i>ele continua a assegurar
+que seu grupo</i>
+
+565
+00:49:43,379 --> 00:49:45,718
+<i>vai agir no primeiro
+sinal de problema,</i>
+
+566
+00:49:45,793 --> 00:49:49,161
+<i>embora não tenha dito que
+forma de ação tomaria.</i>
+
+567
+00:49:55,690 --> 00:49:56,990
+Vai...
+
+568
+00:49:58,061 --> 00:49:59,502
+...fique comigo.
+
+569
+00:50:02,979 --> 00:50:04,447
+Fique comigo!
+
+570
+00:50:05,385 --> 00:50:08,069
+Temos que puxá-lo para fora, ok?
+
+571
+00:50:08,071 --> 00:50:09,770
+Temos que puxá-lo para fora.
+
+572
+00:50:12,068 --> 00:50:14,637
+Tem sangue por toda parte.
+
+573
+00:50:16,139 --> 00:50:19,374
+Para, para! Ele vai sangrar até a
+morte se você puxá-lo para fora.
+
+574
+00:50:22,388 --> 00:50:24,963
+Não há como ele chegar à torre.
+
+575
+00:50:25,455 --> 00:50:27,049
+Precisamos de uma ajuda real.
+
+576
+00:50:27,657 --> 00:50:30,724
+Will, Will, Will, Will.
+Fique comigo.
+
+577
+00:50:30,726 --> 00:50:32,726
+Espere, espere, espere.
+Espere.
+
+578
+00:50:32,728 --> 00:50:35,896
+Eu conheço um lugar, a apenas
+algumas quadras daqui.
+
+579
+00:50:49,111 --> 00:50:50,975
+Não, não, não.
+Sou eu, Michael.
+
+580
+00:50:51,135 --> 00:50:52,717
+Tenho um homem ferido aqui.
+
+581
+00:50:54,238 --> 00:50:55,605
+Leve-o.
+
+582
+00:50:57,258 --> 00:50:59,192
+Você nos trouxe aqui?
+
+583
+00:51:00,787 --> 00:51:03,014
+Não tive escolha, ok?
+
+584
+00:51:03,513 --> 00:51:05,334
+Vai sangrar até a morte.
+
+585
+00:51:06,816 --> 00:51:08,412
+Baixem as armas, por favor.
+
+586
+00:51:09,125 --> 00:51:10,490
+Armas para baixo. Vamos!
+
+587
+00:51:10,523 --> 00:51:12,824
+- Você está acordado?
+- Onde está Hugo?
+
+588
+00:51:12,825 --> 00:51:13,904
+Vai!
+
+589
+00:51:13,905 --> 00:51:15,771
+Vamos, todas as suas
+armas para baixo.
+
+590
+00:51:16,007 --> 00:51:17,373
+Ei, Hugo!
+
+591
+00:51:21,162 --> 00:51:22,355
+Não é problema meu.
+
+592
+00:51:22,356 --> 00:51:26,131
+Precisamos do médico antes que
+ele morra. Estou lhe dizendo. Hugo!
+
+593
+00:51:26,266 --> 00:51:27,566
+Fique aqui.
+
+594
+00:51:41,426 --> 00:51:43,293
+Vamos, deixem-no em paz.
+
+595
+00:51:43,740 --> 00:51:46,209
+- Não me toque!
+- Cale-se.
+
+596
+00:51:46,234 --> 00:51:47,967
+Ela está desarmada.
+
+597
+00:51:55,849 --> 00:51:57,149
+Ok.
+
+598
+00:51:58,126 --> 00:51:59,654
+Leve-os para dentro.
+
+599
+00:52:00,422 --> 00:52:02,489
+Limpe a mesa, vamos.
+
+600
+00:52:09,029 --> 00:52:10,563
+Sente-se, vai.
+
+601
+00:52:12,015 --> 00:52:14,128
+Atenção com a sua perna. Vai.
+
+602
+00:52:17,019 --> 00:52:18,613
+Tenha cuidado com ele.
+
+603
+00:52:23,456 --> 00:52:25,097
+O músculo está danificado?
+
+604
+00:52:26,619 --> 00:52:29,613
+Dê-lhe uma dose de Propofol
+e uma intravenosa de Floxacilina.
+
+605
+00:52:30,446 --> 00:52:33,183
+Ok, pegue a perna dele.
+Ok, agora, tem a perna dele? Bem.
+
+606
+00:52:33,208 --> 00:52:35,108
+Um, dois...
+
+607
+00:52:35,949 --> 00:52:37,831
+Não está funcionando.
+
+608
+00:52:37,893 --> 00:52:41,060
+Precisamos aplicar pressão lateral.
+Certo, tente de novo.
+
+609
+00:52:44,248 --> 00:52:46,615
+- Puxe!
+- Está fora. Ok.
+
+610
+00:52:47,693 --> 00:52:50,261
+Tente relaxar, vai.
+Tente relaxar.
+
+611
+00:52:55,508 --> 00:52:58,511
+Me dê a tesoura?
+Confie em mim, ele vai ficar bem.
+
+612
+00:52:58,728 --> 00:53:02,396
+Vou preparar a perna. Certifique-se
+de que ele não perca muito sangue.
+
+613
+00:53:04,079 --> 00:53:08,082
+Temos que preparar a perna.
+Na minha contagem...
+
+614
+00:53:08,130 --> 00:53:10,430
+Gaze. Enfermeira, gaze, por favor.
+
+615
+00:53:34,330 --> 00:53:37,099
+Mais dois minutos, e você
+estará como novo.
+
+616
+00:54:00,368 --> 00:54:02,836
+<i>Quem a defenderá?</i>
+
+617
+00:54:03,240 --> 00:54:06,278
+Quem fala pela Terra
+enquanto as multinacionais
+
+618
+00:54:06,303 --> 00:54:08,707
+exploram seus recursos
+para o lucro?
+
+619
+00:54:09,545 --> 00:54:12,176
+Quem fala pelo o nosso planeta
+quando as empresas o estupram...
+
+620
+00:54:12,418 --> 00:54:13,185
+Mia?
+
+621
+00:54:13,186 --> 00:54:17,449
+<i>...enquanto puxa a lã
+sobre os olhos de todos!</i>
+
+622
+00:54:19,654 --> 00:54:21,605
+Mia, por que está assistindo isso?
+
+623
+00:54:21,630 --> 00:54:23,261
+<i>Falamos por ela...</i>
+
+624
+00:54:23,418 --> 00:54:26,128
+<i>- Ei, qual é o problema?
+- ... Em nome da justiça!</i>
+
+625
+00:54:26,235 --> 00:54:27,535
+<i>No nome de...</i>
+
+626
+00:54:28,751 --> 00:54:32,417
+Nada, estou apenas...
+Estou bem. Sinto muito.
+
+627
+00:54:40,065 --> 00:54:42,112
+Donny escreveu isso hoje.
+
+628
+00:54:48,434 --> 00:54:51,035
+As crianças ainda o
+provocam na escola?
+
+629
+00:54:51,153 --> 00:54:52,979
+Não é a provocação, Will.
+
+630
+00:54:53,041 --> 00:54:56,221
+É todo este lugar, esta...
+esta situação...
+
+631
+00:54:56,521 --> 00:54:58,276
+Essas... coisas que
+estão acontecendo.
+
+632
+00:55:03,044 --> 00:55:07,678
+Você tem sido tão bom para nós,
+e não nos deve nada...
+
+633
+00:55:07,703 --> 00:55:08,771
+Mia...
+
+634
+00:55:08,772 --> 00:55:10,772
+e eu acho que talvez
+seja hora de...
+
+635
+00:55:11,068 --> 00:55:12,368
+Não.
+
+636
+00:55:13,287 --> 00:55:14,587
+Vamos.
+
+637
+00:55:15,187 --> 00:55:17,120
+Eu não quero Donny e eu
+fiquemos no caminho
+
+638
+00:55:17,145 --> 00:55:19,145
+de algo que é tão
+importante para você.
+
+639
+00:55:22,688 --> 00:55:25,123
+Mia, se ele sente falta de casa,
+
+640
+00:55:25,407 --> 00:55:27,151
+Vamos voltar em uma viagem.
+
+641
+00:55:34,124 --> 00:55:35,909
+Deixe-me falar com ele, ok?
+
+642
+00:56:20,510 --> 00:56:22,147
+- Ei.
+- Onde estou?
+
+643
+00:56:23,262 --> 00:56:25,664
+Há quanto tempo estive fora?
+- Quem é Você?
+
+644
+00:56:25,814 --> 00:56:29,549
+Não, temos que... temos...
+Nós não temos muito tempo.
+
+645
+00:56:29,574 --> 00:56:30,874
+O que...?
+
+646
+00:56:36,392 --> 00:56:38,084
+- Ei!
+- Uau! Calma!
+
+647
+00:56:38,849 --> 00:56:41,428
+- Quem é Você?
+- Você tem que nos deixar ir.
+
+648
+00:56:41,453 --> 00:56:43,077
+Precisamos sair daqui agora mesmo.
+
+649
+00:56:43,167 --> 00:56:45,167
+Você trabalha para
+Alterplex, como ela?
+
+650
+00:56:45,513 --> 00:56:49,214
+- Você precisa nos deixar ir agora.
+- Diga à ele. Diga à ele.
+
+651
+00:56:49,332 --> 00:56:50,899
+Sim, me diga.
+
+652
+00:56:52,287 --> 00:56:55,456
+Para quem você trabalha?
+- O que? Vamos, Michael.
+
+653
+00:56:55,638 --> 00:56:57,538
+- Diga à ele.
+- Michael?
+
+654
+00:56:57,864 --> 00:57:01,217
+Michael, vamos. Nós precisamos ir,
+precisamos sair daqui.
+
+655
+00:57:01,242 --> 00:57:02,775
+Quem é esse cara?
+
+656
+00:57:07,132 --> 00:57:10,168
+O que você está fazendo?!
+Não, não, não...
+
+657
+00:57:10,193 --> 00:57:12,493
+Não. O que você está fazendo
+
+658
+00:57:12,580 --> 00:57:14,319
+Você está me ouvindo?!
+Temos de ir!
+
+659
+00:57:14,363 --> 00:57:16,913
+Temos que levar aquela
+coisa para a torre!
+
+660
+00:57:18,691 --> 00:57:20,725
+- O que é isso?
+- Isso é impossível!
+
+661
+00:57:20,867 --> 00:57:22,342
+O que não é possível?
+
+662
+00:57:24,179 --> 00:57:26,481
+O que é isso? Vamos.
+
+663
+00:57:26,592 --> 00:57:30,272
+Você traz essas pessoas aqui,
+e não pode explicar o que é isso?!
+
+664
+00:57:30,297 --> 00:57:33,432
+- Hugo, ele me disse que pode ajudar.
+- Você nos vendeu, Mike?
+
+665
+00:57:33,457 --> 00:57:35,238
+- Não, eu juro.
+- Você nos vendeu?!
+
+666
+00:57:35,263 --> 00:57:38,431
+Não, eu não. Confie em mim,
+eu sei o que estou fazendo.
+
+667
+00:57:41,431 --> 00:57:43,268
+Ei! Uau! Uau! Uau!
+
+668
+00:57:43,269 --> 00:57:45,269
+Eles podem ajudar.
+Hugo, confia em mim.
+
+669
+00:57:45,457 --> 00:57:46,757
+Eles podem ajudar?
+
+670
+00:57:46,816 --> 00:57:49,699
+Ajudar-nos trazendo este
+dispositivo de rastreamento aqui?
+
+671
+00:57:49,905 --> 00:57:52,138
+Ajudar-nos todos a morrermos?!
+
+672
+00:57:52,643 --> 00:57:55,345
+O que é isso?!
+
+673
+00:57:57,022 --> 00:57:58,322
+Merda!
+
+674
+00:57:59,542 --> 00:58:00,842
+Merda!
+
+675
+00:58:01,371 --> 00:58:03,941
+Onde está a caixa?
+Will, precisamos da caixa!
+
+676
+00:58:05,011 --> 00:58:07,449
+Michael, vamos,
+temos que sair daqui!
+
+677
+00:58:07,813 --> 00:58:10,980
+Vamos, vá, vá, vá!
+Temos que sair!
+
+678
+00:58:11,005 --> 00:58:13,539
+Saiam, pessoal! Corram!
+Abby! Corra!
+
+679
+00:58:13,564 --> 00:58:16,238
+Will, vamos lá! Por aqui!
+É a única saída!
+
+680
+00:58:16,582 --> 00:58:18,832
+Michael, vamos embora,
+vamos sair daqui.
+
+681
+00:58:19,286 --> 00:58:20,586
+Vamos sair daqui.
+
+682
+00:58:23,546 --> 00:58:25,035
+Abby, vamos lá!
+
+683
+00:58:28,865 --> 00:58:30,316
+Vamos! Vá! Vá!
+
+684
+00:58:31,371 --> 00:58:32,871
+Vamos, mexam-se!
+
+685
+00:58:33,489 --> 00:58:36,582
+<i>Atenção. Você está abrigando
+um indivíduo procurado.</i>
+
+686
+00:58:36,613 --> 00:58:39,881
+Você está violando uma ordem
+de segurança Alterplex.
+
+687
+00:58:46,855 --> 00:58:49,289
+Fique abaixado,
+fique abaixado. Ok.
+
+688
+00:58:51,042 --> 00:58:52,993
+Sim, vamos em frente.
+
+689
+00:58:53,764 --> 00:58:55,941
+Vai! Vai! Vai! Abby, vamos lá!
+
+690
+00:59:04,238 --> 00:59:05,538
+Limpo!
+
+691
+00:59:07,238 --> 00:59:09,371
+- Por aqui!
+- Abby! Abby!
+
+692
+00:59:09,396 --> 00:59:11,573
+Eu não podia contar a você
+sobre a caixa!
+
+693
+00:59:12,963 --> 00:59:15,564
+Conheço um túnel
+de fuga aqui perto!
+
+694
+00:59:19,660 --> 00:59:21,308
+Merda! Vamos! Vamos!
+
+695
+00:59:27,095 --> 00:59:28,104
+Me dê a caixa, Will.
+
+696
+00:59:28,105 --> 00:59:30,253
+Temos que andar! Temos
+que andar! Vamos!
+
+697
+00:59:30,278 --> 00:59:32,612
+Por que você ainda está ai?!
+Vamos! Vamos!
+
+698
+00:59:34,024 --> 00:59:36,167
+Temos que descer.
+Vamos. Rápido.
+
+699
+00:59:38,570 --> 00:59:40,410
+Abby? Abby!
+
+700
+00:59:40,780 --> 00:59:42,691
+O que eu deveria fazer?
+
+701
+00:59:43,468 --> 00:59:44,980
+Abby, o que eu deveria fazer?
+
+702
+00:59:45,005 --> 00:59:46,855
+Eu não poderia te falar
+sobre a caixa.
+
+703
+00:59:46,856 --> 00:59:48,706
+Já que eu não sabia
+que estava no eco!
+
+704
+00:59:48,823 --> 00:59:50,394
+Você nem devia estar aqui!
+
+705
+00:59:50,419 --> 00:59:52,800
+Ninguém deveria
+estar vivo aqui. Pare!
+
+706
+00:59:52,825 --> 00:59:54,894
+Não, você pare!
+Redivider...
+
+707
+00:59:56,309 --> 00:59:57,842
+O que é Redivider?
+
+708
+00:59:58,730 --> 00:59:59,838
+Hã?
+
+709
+00:59:59,839 --> 01:00:01,139
+O que é isso?
+
+710
+01:00:01,761 --> 01:00:04,410
+Você me enviou aqui.
+Você... me enviou aqui.
+
+711
+01:00:04,435 --> 01:00:07,002
+Agora me diga o que é Redivider.
+
+712
+01:00:07,090 --> 01:00:08,910
+É um protocolo secreto.
+
+713
+01:00:09,249 --> 01:00:10,707
+Um último recurso.
+
+714
+01:00:12,157 --> 01:00:14,926
+Quando for impossível
+restaurar o equilíbrio...
+
+715
+01:00:17,311 --> 01:00:19,707
+...a caixa desativa
+um lado completamente.
+
+716
+01:00:21,221 --> 01:00:22,910
+Destrói a torre.
+
+717
+01:00:26,023 --> 01:00:27,449
+E este universo.
+
+718
+01:00:30,467 --> 01:00:32,519
+Só resta uma opção.
+
+719
+01:00:33,281 --> 01:00:37,077
+Redivider destrói...
+um universo para garantir...
+
+720
+01:00:38,254 --> 01:00:40,172
+que o outro sobreviva.
+
+721
+01:00:42,612 --> 01:00:44,146
+Jesus Cristo.
+
+722
+01:00:45,629 --> 01:00:48,164
+Esta coisa é um maldito
+interruptor de matar.
+
+723
+01:01:15,901 --> 01:01:17,335
+Ei, amigo.
+
+724
+01:01:48,089 --> 01:01:49,448
+Estou com sem bilhete.
+
+725
+01:01:54,908 --> 01:01:56,809
+Também sinto saudades de casa.
+
+726
+01:02:05,108 --> 01:02:06,808
+A verdade é, Donny...
+
+727
+01:02:08,888 --> 01:02:11,558
+...eu realmente não sei
+onde a casa é mais.
+
+728
+01:02:14,823 --> 01:02:16,053
+<i>Will Porter,</i>
+
+729
+01:02:16,054 --> 01:02:19,088
+<i>Por favor se apresente
+o mais rapidamente possível.</i>
+
+730
+01:02:29,617 --> 01:02:31,573
+Sabe, Donny, há um monte de...
+
+731
+01:02:32,134 --> 01:02:33,558
+muito importante...
+
+732
+01:02:34,040 --> 01:02:36,550
+Pessoas muito inteligentes
+nessas torres.
+
+733
+01:02:38,239 --> 01:02:40,128
+E eles querem que o tio Will...
+
+734
+01:02:40,606 --> 01:02:43,081
+mova meio mundo...
+
+735
+01:02:44,570 --> 01:02:47,003
+mova a nossa casa
+depois de passar...
+
+736
+01:02:47,939 --> 01:02:51,173
+para fazer parte de um
+projeto muito especial.
+
+737
+01:02:53,029 --> 01:02:55,808
+É algo que pode ajudar
+muitas pessoas, sabe?
+
+738
+01:02:57,963 --> 01:03:00,031
+Talvez até mesmo mudar o mundo.
+
+739
+01:03:03,880 --> 01:03:07,983
+Eu pensei que talvez eu pudesse
+te ajudar e... sua mãe também.
+
+740
+01:03:10,529 --> 01:03:12,956
+E isso é uma grande responsabilidade.
+
+741
+01:03:16,128 --> 01:03:18,714
+Talvez a maior responsabilidade
+da minha vida.
+
+742
+01:03:21,475 --> 01:03:25,478
+<i>Will Porter, por favor se apresente
+o mais rapidamente possível.</i>
+
+743
+01:03:33,704 --> 01:03:35,004
+O que...?
+
+744
+01:03:39,420 --> 01:03:40,720
+Mesmo?
+
+745
+01:03:44,518 --> 01:03:45,902
+Isto é para mim?
+
+746
+01:03:52,500 --> 01:03:53,808
+Obrigado, cara.
+
+747
+01:04:05,150 --> 01:04:07,120
+<i>Então você me enviou
+em uma missão suicida?</i>
+
+748
+01:04:07,761 --> 01:04:09,722
+Estou cansado de
+me foder, Abby!
+
+749
+01:04:09,747 --> 01:04:11,280
+Chega!
+
+750
+01:04:13,469 --> 01:04:16,362
+Para onde a minha família vai?
+Onde eles estão, Abby?
+
+751
+01:04:17,932 --> 01:04:19,667
+Will, aonde você vai?
+
+752
+01:04:20,721 --> 01:04:22,972
+Ah, Merda!
+O que está acontecendo?!
+
+753
+01:04:31,896 --> 01:04:33,196
+Onde você vai?
+
+754
+01:04:33,209 --> 01:04:34,912
+Disse que evacuaram, certo?
+
+755
+01:04:34,963 --> 01:04:36,866
+Donny, minha irmã,
+eles evacuaram?
+
+756
+01:04:38,272 --> 01:04:40,381
+Will, isso não é uma boa ideia.
+
+757
+01:04:40,406 --> 01:04:41,607
+Estou muito perto de casa.
+
+758
+01:04:41,608 --> 01:04:43,260
+Não, Você não está
+pensando claramente.
+
+759
+01:04:46,030 --> 01:04:47,964
+Esta é uma má ideia.
+
+760
+01:04:52,177 --> 01:04:54,111
+Está ficando pior.
+
+761
+01:05:05,895 --> 01:05:09,209
+Meu Deus! Meu Deus!
+
+762
+01:05:09,551 --> 01:05:13,554
+É... é como se estivesse tudo
+se desmanchando! O que...?!
+
+763
+01:05:20,448 --> 01:05:23,316
+Puta merda! Tenho de ir até eles!
+
+764
+01:05:23,318 --> 01:05:24,618
+Não vá!
+
+765
+01:05:34,927 --> 01:05:36,394
+Por favor, fique conosco.
+
+766
+01:05:36,419 --> 01:05:38,295
+Saia do meu caminho!
+
+767
+01:05:46,194 --> 01:05:48,195
+Não! Não! Não! Não! Não! Não!
+
+768
+01:05:48,643 --> 01:05:49,959
+Meu Deus!
+
+769
+01:05:50,149 --> 01:05:51,449
+Mia?!
+
+770
+01:05:51,865 --> 01:05:53,165
+Mia!
+
+771
+01:05:53,811 --> 01:05:54,590
+Donny!
+
+772
+01:05:54,591 --> 01:05:57,258
+<i>Eu nunca deveria ter
+arrastado vocês aqui.</i>
+
+773
+01:05:59,123 --> 01:06:00,405
+Para mim chega!
+
+774
+01:06:00,406 --> 01:06:02,061
+- Chega?
+- Sim.
+
+775
+01:06:02,952 --> 01:06:04,756
+Tenho sido tão egoísta.
+
+776
+01:06:20,064 --> 01:06:21,307
+Vamos superar isso.
+
+777
+01:06:21,308 --> 01:06:24,258
+Eu não quero apenas
+passar disso, Mia.
+
+778
+01:06:27,243 --> 01:06:29,345
+Você e Donny merecem
+coisa melhor.
+
+779
+01:06:29,409 --> 01:06:32,176
+Por favor, eu não queria que isso
+se tornasse um negócio enorme.
+
+780
+01:06:32,249 --> 01:06:34,282
+Mia, é um negócio enorme.
+
+781
+01:06:35,390 --> 01:06:38,272
+Você é minha irmã.
+Eu prometi cuidar de você.
+
+782
+01:06:39,929 --> 01:06:42,905
+E eu... eu não sinto que
+tenha feito um trabalho muito bom.
+
+783
+01:06:44,797 --> 01:06:46,225
+Nós estamos indo para casa.
+
+784
+01:06:46,591 --> 01:06:47,891
+Todos nós.
+
+785
+01:06:49,108 --> 01:06:50,408
+Você tem certeza?
+
+786
+01:06:50,479 --> 01:06:53,608
+Amanhã cedo, vou pedir demissão e...
+
+787
+01:06:54,309 --> 01:06:56,491
+Pegamos o primeiro avião daqui.
+Ok?
+
+788
+01:07:05,553 --> 01:07:06,853
+Obrigada.
+
+789
+01:07:27,514 --> 01:07:29,268
+Que tipo de pessoa é você?
+
+790
+01:07:29,569 --> 01:07:33,156
+Disse que evacuaram.
+Você disse que tinha certeza disso.
+
+791
+01:07:33,537 --> 01:07:35,100
+Você mentiu para mim.
+
+792
+01:07:37,553 --> 01:07:39,467
+O que é isso?
+O que está fazendo?
+
+793
+01:07:46,209 --> 01:07:47,943
+Sinto muito.
+
+794
+01:07:51,765 --> 01:07:53,065
+Espere aqui.
+
+795
+01:07:59,095 --> 01:08:00,395
+Merda!
+
+796
+01:08:12,535 --> 01:08:14,131
+O que diabos está acontecendo?!
+
+797
+01:08:18,132 --> 01:08:20,867
+Protocolo de falha crítica!
+Você vai lá dentro!
+
+798
+01:08:20,892 --> 01:08:22,192
+Will!
+
+799
+01:08:24,092 --> 01:08:26,631
+A demissão terá de esperar.
+Sinto muito.
+
+800
+01:08:26,975 --> 01:08:30,451
+- Onde eles estão te levando?
+- Porter! Você tem que ir agora!
+
+801
+01:08:31,537 --> 01:08:32,837
+O que?
+
+802
+01:08:33,424 --> 01:08:34,724
+Will!
+
+803
+01:08:39,713 --> 01:08:41,013
+Will!
+
+804
+01:08:56,939 --> 01:08:58,239
+Traidor.
+
+805
+01:09:02,672 --> 01:09:03,972
+Temos o Porter.
+
+806
+01:09:04,069 --> 01:09:06,244
+<i>E a caixa?
+Está segura?</i>
+
+807
+01:09:15,723 --> 01:09:19,122
+<i>- Sim senhor.
+- Bom, bom. Não tire os olhos dela.</i>
+
+808
+01:09:19,186 --> 01:09:20,739
+O que devo fazer com isso?
+
+809
+01:09:21,068 --> 01:09:23,969
+<i>- Tal como discutimos.
+- Copiado.</i>
+
+810
+01:10:11,739 --> 01:10:13,223
+Leve-os lá na frente.
+
+811
+01:11:07,661 --> 01:11:09,028
+Reynard.
+
+812
+01:11:11,927 --> 01:11:13,042
+Olá, Will.
+
+813
+01:11:13,043 --> 01:11:14,621
+O que quer que ele
+diga, não o ouça!
+
+814
+01:11:14,646 --> 01:11:16,404
+De seus joelhos!
+Fique abaixado!
+
+815
+01:11:16,429 --> 01:11:19,207
+- Não confie nele.
+- Jordan, vamos embora.
+
+816
+01:11:26,556 --> 01:11:28,268
+É um interessante...
+
+817
+01:11:30,246 --> 01:11:31,690
+estranho...
+
+818
+01:11:34,510 --> 01:11:36,158
+...belo paradoxo.
+
+819
+01:11:38,323 --> 01:11:40,830
+Esses dois mundos unidos,
+
+820
+01:11:41,496 --> 01:11:43,260
+Como gêmeos
+
+821
+01:11:44,272 --> 01:11:46,340
+...apenas do ventre.
+
+822
+01:11:48,556 --> 01:11:50,721
+Temos de sacrificar um...
+
+823
+01:11:51,808 --> 01:11:54,275
+Assim o outro pode sobreviver.
+
+824
+01:11:57,649 --> 01:12:00,119
+Você vai sacrificar
+o universo original.
+
+825
+01:12:01,720 --> 01:12:05,549
+Vai destruir o meu mundo
+para que possa viver?
+
+826
+01:12:05,934 --> 01:12:07,834
+Vá se foder!
+
+827
+01:12:10,480 --> 01:12:12,651
+Precisamos de sua ajuda, Will.
+
+828
+01:12:12,961 --> 01:12:14,627
+Ainda há tempo.
+
+829
+01:12:14,652 --> 01:12:16,041
+Tempo para que?
+
+830
+01:12:16,330 --> 01:12:18,678
+Você acha que eu
+realmente iria ajudá-lo?
+
+831
+01:12:18,726 --> 01:12:20,729
+Com tudo que eu sei agora?
+
+832
+01:12:21,506 --> 01:12:25,119
+Eu sei...
+Esta é uma decisão difícil.
+
+833
+01:12:25,404 --> 01:12:27,072
+Difícil? Difícil?!
+
+834
+01:12:27,296 --> 01:12:29,663
+Matar minha família é difícil?!
+
+835
+01:12:31,060 --> 01:12:34,595
+É por isso que voltar
+é a única solução.
+
+836
+01:12:35,422 --> 01:12:37,289
+Você pode vê-los novamente.
+
+837
+01:12:37,322 --> 01:12:40,268
+Você é o único que
+pode pilotar o salto.
+
+838
+01:12:40,506 --> 01:12:43,206
+Não há terceira opção.
+
+839
+01:12:43,419 --> 01:12:46,940
+Se permanecemos
+aqui neste impasse,
+
+840
+01:12:47,143 --> 01:12:49,954
+ambos os mundos logo
+deixaram de existir.
+
+841
+01:12:49,979 --> 01:12:53,291
+Temos que sacrificar um
+para salvar o outro.
+
+842
+01:12:56,369 --> 01:12:57,669
+Sim.
+
+843
+01:12:57,721 --> 01:13:01,016
+Sim, Sr. Porter, sua
+família vai morrer.
+
+844
+01:13:01,041 --> 01:13:04,408
+Só estou lhe oferecendo a
+oportunidade de estar lá.
+
+845
+01:13:05,499 --> 01:13:07,466
+Segure suas mãos...
+
+846
+01:13:07,882 --> 01:13:09,362
+No final.
+
+847
+01:13:29,189 --> 01:13:32,256
+Um deve ser sacrificado para
+que o outro possa viver.
+
+848
+01:13:33,483 --> 01:13:34,950
+Isso funciona para mim.
+
+849
+01:13:35,054 --> 01:13:37,588
+Michael, segure em algo agora!
+
+850
+01:16:06,960 --> 01:16:08,728
+Lá.
+
+851
+01:16:19,272 --> 01:16:21,173
+Onde está Portman?
+
+852
+01:16:22,487 --> 01:16:24,221
+Onde está Portman?!
+
+853
+01:16:26,256 --> 01:16:29,295
+Onde está a caixa?
+Onde está a caixa?!
+
+854
+01:16:29,827 --> 01:16:32,728
+Atire em mim!
+Atire em mim!
+
+855
+01:17:34,540 --> 01:17:35,840
+Pegue isso.
+
+856
+01:17:36,813 --> 01:17:37,763
+Temos de nos mover.
+
+857
+01:17:37,764 --> 01:17:39,454
+Sabe o que preciso
+fazer, certo?
+
+858
+01:17:39,613 --> 01:17:42,380
+- Exatamente o que tem que fazer.
+- Sabe o que isto significa?
+
+859
+01:17:42,453 --> 01:17:43,753
+Botão de desligar.
+
+860
+01:17:43,978 --> 01:17:44,937
+Está tudo bem.
+
+861
+01:17:45,137 --> 01:17:47,737
+Eu preciso corrigir alguns erros
+de qualquer maneira.
+
+862
+01:18:20,087 --> 01:18:21,988
+Ainda estão atirando!
+
+863
+01:18:23,917 --> 01:18:26,118
+Dirija! Dirija!
+
+864
+01:18:27,934 --> 01:18:29,368
+Aguente!
+
+865
+01:18:36,167 --> 01:18:37,467
+Michael!
+- Merda.
+
+866
+01:18:37,525 --> 01:18:40,193
+- Você está bem?
+- Merda, me acertaram! Fui abatido!
+
+867
+01:18:40,445 --> 01:18:42,144
+Pare o carro!
+
+868
+01:18:44,588 --> 01:18:46,340
+Aqui, pegue o volante.
+
+869
+01:18:47,740 --> 01:18:49,040
+Vamos.
+
+870
+01:18:52,833 --> 01:18:54,152
+Vamos, vamos!
+
+871
+01:19:37,235 --> 01:19:38,535
+Will!
+
+872
+01:19:39,088 --> 01:19:40,571
+Will, você está bem?!
+
+873
+01:19:43,771 --> 01:19:45,071
+Will!
+
+874
+01:19:45,969 --> 01:19:48,274
+Merda! Merda, drones!
+
+875
+01:19:49,247 --> 01:19:50,547
+Atire!
+
+876
+01:20:01,721 --> 01:20:04,856
+Atire no nariz!
+Atire no nariz!
+
+877
+01:20:08,335 --> 01:20:10,798
+Atire no nariz!
+Ele controla os outros drones!
+
+878
+01:20:10,823 --> 01:20:12,256
+Vamos lá, Will!
+
+879
+01:20:32,291 --> 01:20:33,591
+Veja.
+
+880
+01:20:33,951 --> 01:20:35,400
+Estamos quase lá.
+
+881
+01:21:06,825 --> 01:21:08,125
+Ah, merda!
+
+882
+01:21:09,052 --> 01:21:12,588
+Você vai até à torre
+e você termina isso!
+
+883
+01:21:12,777 --> 01:21:14,843
+Você termina isso, Will!
+
+884
+01:21:56,921 --> 01:21:58,774
+<i>A verdade é, Donny,</i>
+
+885
+01:21:58,889 --> 01:22:00,556
+<i>eles queriam que o tio Will</i>
+
+886
+01:22:00,581 --> 01:22:03,749
+<i>fosse parte de um projeto
+muito especial.</i>
+
+887
+01:22:08,123 --> 01:22:10,991
+<i>Algo que pode ajudar
+um monte de gente, você sabe?</i>
+
+888
+01:22:13,460 --> 01:22:15,327
+<i>Talvez até mesmo mudar o mundo.</i>
+
+889
+01:22:19,683 --> 01:22:23,052
+<i>E eu pensei que talvez eu pudesse
+ajudá-lo... e sua mãe também.</i>
+
+890
+01:22:26,062 --> 01:22:28,464
+<i>Essa é uma grande responsabilidade.</i>
+
+891
+01:22:34,231 --> 01:22:36,967
+<i>Talvez a maior responsabilidade
+da minha vida.</i>
+
+892
+01:22:38,138 --> 01:22:40,272
+<i>Eu não queria que Donny e eu
+ficássemos no caminho</i>
+
+893
+01:22:40,297 --> 01:22:41,947
+<i>de algo tão importante para você.</i>
+
+894
+01:22:44,779 --> 01:22:46,680
+<i>Tenho sido tão egoísta.</i>
+
+895
+01:22:50,577 --> 01:22:52,358
+<i>Você tem sido tão boa para nós,</i>
+
+896
+01:22:52,404 --> 01:22:55,077
+<i>E você não nos deve nada.</i>
+
+897
+01:22:55,102 --> 01:22:57,068
+<i>E eu acho que talvez seja a hora...</i>
+
+898
+01:22:58,209 --> 01:23:01,749
+<i>Se ele tem saudades de casa,
+vamos voltar em uma viagem.</i>
+
+899
+01:23:26,041 --> 01:23:29,343
+<i>Você é minha irmã e eu prometi
+cuidar de você. E eu...</i>
+
+900
+01:23:30,432 --> 01:23:33,300
+<i>Eu não sinto como tendo feito
+um trabalho muito bom.</i>
+
+901
+01:23:38,548 --> 01:23:40,416
+<i>Nós estamos indo para casa.</i>
+
+902
+01:23:40,441 --> 01:23:41,741
+<i>Todos nós.</i>
+
+903
+01:23:44,104 --> 01:23:47,039
+<i>Eu prometo, posso consertar isso.</i>
+
+904
+01:24:23,711 --> 01:24:26,703
+Não posso deixar você fazer isso.
+Sinto muito.
+
+905
+01:24:27,361 --> 01:24:29,728
+Eu não posso deixar você
+tocar nessa caixa.
+
+906
+01:24:31,264 --> 01:24:33,565
+Este mundo já está morrendo.
+
+907
+01:24:35,840 --> 01:24:38,074
+Esse não pode ser o fim.
+
+908
+01:24:45,420 --> 01:24:47,490
+Você percebe o que está fazendo?
+
+909
+01:24:47,775 --> 01:24:51,193
+Sim.
+Estou cumprindo uma promessa.
+
+910
+01:25:14,148 --> 01:25:16,124
+Ah, Merda!
+
+911
+01:25:18,411 --> 01:25:20,479
+Você matou todos nós!
+
+912
+01:25:20,757 --> 01:25:22,124
+Filho da puta!
+
+913
+01:30:17,619 --> 01:30:19,970
+<i>Estes são tempos extraordinários,</i>
+
+914
+01:30:20,307 --> 01:30:23,174
+<i>e nós enfrentamos
+um desafio extraordinário.</i>
+
+915
+01:30:23,429 --> 01:30:26,430
+<i>A conquista dramática
+que ocorreu nas últimas semanas.</i>
+
+916
+01:30:26,854 --> 01:30:28,854
+<i>Deveria ter deixado claro
+para todos nós.</i>
+
+917
+01:30:28,855 --> 01:30:31,502
+<i>O impacto desta aventura.</i>
+
+918
+01:30:31,915 --> 01:30:34,283
+<i>Na mente dos homens
+em todos os lugares</i>
+
+919
+01:30:34,395 --> 01:30:37,562
+<i>que estão tentando
+para fazer uma escolha</i>
+
+920
+01:30:37,564 --> 01:30:40,098
+<i>de qual estrada
+eles devem tomar.</i>
+
