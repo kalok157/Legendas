@@ -1,0 +1,5464 @@
+1
+00:00:10,000 --> 00:00:12,000
+
+
+
+2
+00:00:12,001 --> 00:00:15,001
+
+
+
+3
+00:00:15,002 --> 00:00:18,002
+
+
+
+4
+00:00:18,003 --> 00:00:21,003
+
+
+
+5
+00:00:21,004 --> 00:00:24,004
+
+
+6
+00:00:24,005 --> 00:00:27,005
+
+
+
+7
+00:00:27,006 --> 00:00:30,006
+
+
+
+8
+00:00:30,007 --> 00:00:33,007
+
+
+
+9
+00:00:35,007 --> 00:00:37,007
+<b>Enjoy the Mathematics</b>
+
+10
+00:01:01,149 --> 00:01:03,149
+MATEMÁTICA,
+SE VISTA CORRETAMENTE,
+
+11
+00:01:03,150 --> 00:01:06,150
+POSSUI NÃO SÓ A VERDADE,
+COMO TAMBÉM SUPREMA BELEZA...
+
+12
+00:01:06,151 --> 00:01:07,851
+BERTRAND BRUSSELL
+
+13
+00:01:10,202 --> 00:01:15,028
+<b>O HOMEM QUE VIU O INFINITO</b>
+
+14
+00:01:16,282 --> 00:01:20,195
+BASEADO
+EM EVENTOS VERDADEIROS
+
+15
+00:01:21,460 --> 00:01:25,460
+TRINITY COLLEGE
+CAMBRIDGE, INGLATERRA
+
+16
+00:01:25,461 --> 00:01:27,261
+1920
+
+17
+00:01:27,917 --> 00:01:30,352
+<i>Eu preciso me formar</i>
+
+18
+00:01:30,353 --> 00:01:33,726
+<i>de uma maneira
+que nunca me formei antes,</i>
+
+19
+00:01:33,727 --> 00:01:37,914
+<i>e te ajudar a formar algum tipo
+de estimativa fundamentada</i>
+
+20
+00:01:37,915 --> 00:01:42,588
+<i>da figura mais romântica
+da história da matemática.</i>
+
+21
+00:01:47,433 --> 00:01:49,943
+<i>Ramanujan era um indiano,</i>
+
+22
+00:01:49,944 --> 00:01:52,874
+<i>e suponho
+que sempre seja difícil</i>
+
+23
+00:01:52,875 --> 00:01:57,162
+<i>um inglês e um indiano
+se entenderem bem.</i>
+
+24
+00:01:58,620 --> 00:02:02,516
+<i>Eu devo mais a ele
+do que devo a qualquer um,</i>
+
+25
+00:02:02,517 --> 00:02:04,529
+<i>e minha associação com ele</i>
+
+26
+00:02:04,530 --> 00:02:08,217
+<i>foi o único incidente romântico
+da minha vida.</i>
+
+27
+00:02:09,833 --> 00:02:14,833
+MADRAS, ÍNDIA
+1914
+
+28
+00:02:19,014 --> 00:02:22,515
+<i>Ele foi, de certa maneira,
+minha descoberta.</i>
+
+29
+00:02:22,516 --> 00:02:24,248
+<i>Eu não o inventei.</i>
+
+30
+00:02:24,249 --> 00:02:28,082
+<i>Como outros grandes homens,
+ele mesmo se inventou.</i>
+
+31
+00:02:29,040 --> 00:02:31,044
+<i>Minha dificuldade,
+no entanto,</i>
+
+32
+00:02:31,045 --> 00:02:34,465
+<i>não é não saber
+o suficiente sobre ele,</i>
+
+33
+00:02:34,466 --> 00:02:38,066
+<i>é saber e sentir demais.</i>
+
+34
+00:02:57,728 --> 00:03:01,756
+Inclusive, pode ver que conduzo
+minhas próprias pesquisas.
+
+35
+00:03:01,757 --> 00:03:04,592
+Você não tem diploma,
+não posso te empregar.
+
+36
+00:03:04,593 --> 00:03:06,721
+Vou escrever uma recomendação
+para você.
+
+37
+00:03:06,722 --> 00:03:09,880
+Com todo respeito, senhor,
+eu tenho recomendações.
+
+38
+00:03:09,881 --> 00:03:11,886
+Eu preciso é de um emprego.
+
+39
+00:03:11,887 --> 00:03:15,131
+- Por favor, tenho uma esposa.
+- Vocês são todos iguais.
+
+40
+00:03:15,132 --> 00:03:17,456
+Saia agora.
+Saia!
+
+41
+00:03:30,503 --> 00:03:32,625
+Estou condenado,
+como o Galileu.
+
+42
+00:03:34,397 --> 00:03:36,182
+Ele morreu na miséria,
+sabia?
+
+43
+00:03:36,183 --> 00:03:38,736
+Pelo menos você tem
+uma boa autoestima.
+
+44
+00:03:40,421 --> 00:03:43,544
+Seja qual for o seu destino,
+nada irá mudá-lo.
+
+45
+00:03:43,545 --> 00:03:45,936
+O meu é minha esposa
+morando com minha mãe
+
+46
+00:03:45,937 --> 00:03:49,831
+enquanto durmo aqui por ingleses
+acharem que sou louco.
+
+47
+00:03:50,586 --> 00:03:52,479
+Nós, indianos,
+também achamos.
+
+48
+00:04:32,269 --> 00:04:35,182
+- <i>Onde conseguiu seu diploma?</i>
+- <i>Eu não tenho um.</i>
+
+49
+00:04:35,937 --> 00:04:38,130
+- Quantos você tem?
+- Nenhum.
+
+50
+00:04:40,108 --> 00:04:42,473
+- Para quem já mostrou isso?
+- Para todos.
+
+51
+00:04:42,474 --> 00:04:45,943
+Os britânicos, os indianos,
+todos me reencaminharam.
+
+52
+00:04:46,337 --> 00:04:48,527
+Posso te dar um emprego,
+
+53
+00:04:48,528 --> 00:04:52,521
+mas terá que passar as noites
+me ajudando a entender isto.
+
+54
+00:04:54,327 --> 00:04:55,627
+Um emprego?
+
+55
+00:04:56,095 --> 00:04:58,399
+- Temos um acordo?
+- Temos.
+
+56
+00:04:58,400 --> 00:05:00,566
+- Com certeza, senhor.
+- Ótimo.
+
+57
+00:05:00,883 --> 00:05:03,445
+Avise sua esposa
+para que possam ficar juntos.
+
+58
+00:05:03,446 --> 00:05:04,746
+E vista isto.
+
+59
+00:05:05,995 --> 00:05:07,295
+Siga-me.
+
+60
+00:05:10,883 --> 00:05:13,803
+Sr. Francis,
+aqui estão os registros de hoje.
+
+61
+00:05:13,804 --> 00:05:15,539
+E nosso novo escriturário.
+
+62
+00:05:18,788 --> 00:05:21,649
+Narayana, há quanto tempo
+trabalha para mim?
+
+63
+00:05:22,105 --> 00:05:25,230
+Desde que ajudei a desenhar
+a ponte no Godavari,
+
+64
+00:05:25,231 --> 00:05:28,300
+o que agora me faz
+te chamar de "senhor".
+
+65
+00:05:28,301 --> 00:05:30,021
+Sr. Francis.
+
+66
+00:05:30,022 --> 00:05:32,364
+Parece que esse homem
+veio das ruas.
+
+67
+00:05:32,365 --> 00:05:34,757
+- Tire-o daqui.
+- Por favor, senhor.
+
+68
+00:05:34,758 --> 00:05:38,877
+Perdoe minha aparência,
+mas sou muito bom com números.
+
+69
+00:05:38,878 --> 00:05:42,398
+Pode estar vendo
+um vidro qualquer agora,
+
+70
+00:05:42,399 --> 00:05:44,795
+mas logo verá um diamante.
+
+71
+00:05:44,796 --> 00:05:46,135
+Bom...
+
+72
+00:05:50,194 --> 00:05:54,322
+Se suas contas forem tão bem
+lustradas quanto o seu ego...
+
+73
+00:06:21,887 --> 00:06:24,185
+Amma, é aqui.
+
+74
+00:06:36,126 --> 00:06:38,142
+É o melhor que posso fazer
+por enquanto.
+
+75
+00:06:38,783 --> 00:06:40,324
+É um lar.
+
+76
+00:06:41,079 --> 00:06:42,379
+Por favor.
+
+77
+00:06:53,535 --> 00:06:55,296
+Onde está a cozinha?
+
+78
+00:06:55,796 --> 00:06:57,096
+Está lá dentro.
+
+79
+00:07:04,738 --> 00:07:06,165
+É do casamento.
+
+80
+00:07:13,422 --> 00:07:15,943
+Não se preocupe,
+vou dormir no chão.
+
+81
+00:07:16,342 --> 00:07:17,642
+Estou acostumado.
+
+82
+00:07:20,782 --> 00:07:23,415
+Preciso voltar ao trabalho.
+
+83
+00:07:40,557 --> 00:07:43,110
+Por que não está usando
+o ábaco?
+
+84
+00:07:43,504 --> 00:07:45,348
+É mais rápido
+na minha mente.
+
+85
+00:07:51,972 --> 00:07:53,528
+Impressionante.
+
+86
+00:07:53,529 --> 00:07:57,217
+Se o Sr. Francis aparecer,
+finja estar usando.
+
+87
+00:08:02,302 --> 00:08:05,497
+Vejo que trabalha
+em suas próprias fórmulas.
+
+88
+00:08:06,120 --> 00:08:08,376
+Papel é uma preciosidade
+aqui.
+
+89
+00:08:08,377 --> 00:08:11,326
+Você encontrará
+muitas embalagens nas docas.
+
+90
+00:08:11,632 --> 00:08:12,980
+Obrigado, senhor.
+
+91
+00:08:14,213 --> 00:08:16,220
+Vejo você à noite.
+
+92
+00:08:31,098 --> 00:08:32,604
+<i>Ramanujan,</i>
+
+93
+00:08:33,201 --> 00:08:36,481
+nós precisamos
+falar com alguém
+
+94
+00:08:36,482 --> 00:08:38,963
+que realmente entenda isso.
+
+95
+00:08:38,964 --> 00:08:41,095
+Falei com todos em Madras.
+
+96
+00:08:42,630 --> 00:08:44,197
+Madras.
+
+97
+00:08:45,551 --> 00:08:50,178
+Sabia que esse nome
+é derivado de "Mandarajya"?
+
+98
+00:08:50,179 --> 00:08:53,164
+"O reino dos burros."
+
+99
+00:08:53,165 --> 00:08:55,970
+Há um mundo inteiro por aí.
+
+100
+00:08:56,857 --> 00:08:58,680
+E há a Inglaterra.
+
+101
+00:09:03,984 --> 00:09:05,866
+Você não foi para casa.
+
+102
+00:09:06,914 --> 00:09:10,668
+Sou eu quem deve desculpas
+por prendê-lo.
+
+103
+00:09:11,053 --> 00:09:13,677
+Acho que basta por hoje,
+Ramanujan.
+
+104
+00:09:24,403 --> 00:09:25,916
+Sinto muito.
+
+105
+00:09:28,562 --> 00:09:32,294
+Disseram-me que ama os números
+mais do que as pessoas.
+
+106
+00:09:34,491 --> 00:09:35,791
+Algumas.
+
+107
+00:09:37,542 --> 00:09:38,942
+Não você.
+
+108
+00:09:41,767 --> 00:09:44,538
+Talvez possamos recomeçar.
+
+109
+00:09:49,104 --> 00:09:51,631
+Eu sou o Ramanujan.
+
+110
+00:09:55,579 --> 00:09:57,542
+E eu sou sua esposa.
+
+111
+00:10:07,883 --> 00:10:10,674
+Continue.
+Pode olhar.
+
+112
+00:10:11,253 --> 00:10:12,553
+Por favor.
+
+113
+00:10:24,409 --> 00:10:26,012
+O que tudo isso faz?
+
+114
+00:10:28,694 --> 00:10:31,649
+Eu o vejo como uma pintura.
+
+115
+00:10:33,125 --> 00:10:37,562
+Imagine que aí tem cores
+que você não pode ver.
+
+116
+00:10:39,153 --> 00:10:40,782
+Que bem isso faz?
+
+117
+00:10:42,135 --> 00:10:44,140
+Não muito para você, receio.
+
+118
+00:10:44,141 --> 00:10:46,289
+Mas para mim,
+isso aí é tudo.
+
+119
+00:10:47,888 --> 00:10:50,925
+Talvez exista mais alguém
+que possa
+
+120
+00:10:51,935 --> 00:10:54,074
+ver e entender tudo isso.
+
+121
+00:10:55,543 --> 00:10:58,008
+E para esse alguém,
+será importante.
+
+122
+00:10:59,528 --> 00:11:01,219
+Já conheceu esse alguém?
+
+123
+00:11:02,464 --> 00:11:04,506
+Não, ainda não.
+
+124
+00:11:09,483 --> 00:11:11,526
+Eu quero entender
+
+125
+00:11:12,000 --> 00:11:15,371
+mais do que cores
+que não posso ver.
+
+126
+00:11:18,478 --> 00:11:19,778
+O que você enxerga aqui?
+
+127
+00:11:20,554 --> 00:11:22,852
+- Areia.
+- Sim.
+
+128
+00:11:25,120 --> 00:11:29,723
+Imagine se pudéssemos
+ver cada grão,
+
+129
+00:11:31,164 --> 00:11:32,740
+cada partícula.
+
+130
+00:11:33,952 --> 00:11:37,434
+Veja bem,
+há padrões em tudo.
+
+131
+00:11:37,435 --> 00:11:39,223
+Na cor da luz.
+
+132
+00:11:39,854 --> 00:11:41,792
+No reflexo na água.
+
+133
+00:11:43,685 --> 00:11:47,379
+Na matemática,
+esses padrões revelam-se
+
+134
+00:11:47,380 --> 00:11:49,335
+nas mais incríveis formas.
+
+135
+00:11:50,948 --> 00:11:53,140
+É muito bonito.
+
+136
+00:12:06,713 --> 00:12:08,645
+Deveria dormir na cama.
+
+137
+00:12:25,656 --> 00:12:27,031
+Amma.
+
+138
+00:12:27,032 --> 00:12:28,923
+Fiz amizade com o meu chefe.
+
+139
+00:12:28,924 --> 00:12:33,908
+Ele vai achar alguém que entenda
+meu trabalho fora de Madras.
+
+140
+00:12:35,305 --> 00:12:38,187
+- Fora da Índia.
+- Que honra.
+
+141
+00:12:38,863 --> 00:12:41,272
+Que besteira é essa?
+
+142
+00:12:41,273 --> 00:12:43,895
+Amma, ele vê algo em mim.
+
+143
+00:12:44,799 --> 00:12:47,099
+Ele com certeza
+vê muito de você.
+
+144
+00:12:47,100 --> 00:12:48,735
+Você nunca está em casa.
+
+145
+00:12:48,736 --> 00:12:53,693
+Kanna, somos Brahmins.
+É proibido cruzar os mares.
+
+146
+00:12:57,280 --> 00:12:58,636
+Ramanujan?
+
+147
+00:13:00,156 --> 00:13:02,668
+Ramanujan, ouça-me.
+
+148
+00:13:02,669 --> 00:13:05,375
+Esse trabalho é muito importante
+para morrer com você.
+
+149
+00:13:05,376 --> 00:13:07,225
+Ele deve ser publicado.
+
+150
+00:13:08,021 --> 00:13:11,538
+Se você, um indiano, chegar
+ao auge com essas fórmulas,
+
+151
+00:13:11,539 --> 00:13:14,098
+os britânicos,
+mesmo nos subjugando,
+
+152
+00:13:14,099 --> 00:13:17,811
+terão que reconhecer
+que também somos brilhantes.
+
+153
+00:13:17,812 --> 00:13:19,320
+Anna, por favor.
+
+154
+00:13:19,760 --> 00:13:21,091
+Não posso.
+
+155
+00:13:21,092 --> 00:13:23,465
+Você tem estado sozinho
+
+156
+00:13:23,466 --> 00:13:26,397
+na sua mente
+durante a vida inteira.
+
+157
+00:13:27,055 --> 00:13:29,606
+Agora outros terão a chance
+de te entender.
+
+158
+00:13:29,607 --> 00:13:32,474
+Não só sua Namagiri,
+imagine só!
+
+159
+00:13:32,475 --> 00:13:34,193
+Tudo o que faço é imaginar.
+
+160
+00:13:55,415 --> 00:13:58,012
+<i>Estas duas
+primeiras cartas...</i>
+
+161
+00:13:58,591 --> 00:13:59,992
+Baker.
+
+162
+00:14:01,019 --> 00:14:02,719
+Hobson.
+
+163
+00:14:02,720 --> 00:14:04,082
+E quem é esse?
+
+164
+00:14:04,083 --> 00:14:08,176
+Esse é o Hardy.
+Ele é um pé no saco.
+
+165
+00:14:08,177 --> 00:14:12,368
+Sabem, ele reformou sozinho
+
+166
+00:14:12,369 --> 00:14:15,267
+o sistema de provas Tripos.
+
+167
+00:14:15,268 --> 00:14:18,337
+Mudou centenas de anos
+de história.
+
+168
+00:14:18,338 --> 00:14:19,740
+Ele é quem você procura.
+
+169
+00:14:20,556 --> 00:14:22,587
+Trinity.
+
+170
+00:14:22,588 --> 00:14:24,875
+Reis, primeiros-ministros,
+
+171
+00:14:24,876 --> 00:14:27,465
+Isaac Newton, Byron
+
+172
+00:14:27,843 --> 00:14:30,004
+e agora talvez até você.
+
+173
+00:14:46,335 --> 00:14:48,228
+Problemas no continente?
+
+174
+00:14:49,132 --> 00:14:50,598
+Haverá.
+
+175
+00:14:50,971 --> 00:14:54,328
+Vencemos o Frogs por um ponto
+em Twickenham.
+
+176
+00:14:54,329 --> 00:14:56,305
+Eu falava dos Balcãs.
+
+177
+00:14:57,949 --> 00:14:59,663
+Os Balcãs.
+
+178
+00:14:59,664 --> 00:15:02,983
+Tem uma aqui
+que parece ter viajado bastante.
+
+179
+00:15:07,015 --> 00:15:09,088
+Acha que é mais um trote?
+
+180
+00:15:21,628 --> 00:15:25,243
+"Imploro para me apresentar
+como um escriturário
+
+181
+00:15:25,244 --> 00:15:27,302
+no Departamento
+de Contabilidade."
+
+182
+00:15:27,303 --> 00:15:29,463
+- Qual é a da vez?
+- Impressionante.
+
+183
+00:15:29,464 --> 00:15:31,662
+Alguém teve
+muitos problemas.
+
+184
+00:15:32,179 --> 00:15:34,433
+Um escriturário hindu!
+
+185
+00:15:35,365 --> 00:15:37,739
+Ele afirma
+poder dar significado
+
+186
+00:15:37,740 --> 00:15:40,900
+aos valores negativos
+da função gama.
+
+187
+00:15:41,889 --> 00:15:44,073
+- Littlewood?
+- Sem dúvida.
+
+188
+00:15:45,320 --> 00:15:46,906
+Sabe, Littlewood,
+
+189
+00:15:48,154 --> 00:15:50,810
+somente esse ano,
+recebi correspondências
+
+190
+00:15:50,811 --> 00:15:53,275
+daqueles que professam
+poder provar
+
+191
+00:15:53,276 --> 00:15:56,336
+a sabedoria profética
+das pirâmides,
+
+192
+00:15:56,337 --> 00:15:59,508
+as revelações
+dos Sábios de Sião
+
+193
+00:15:59,509 --> 00:16:04,509
+e os criptogramas
+que Bacon supostamente escondeu
+
+194
+00:16:04,516 --> 00:16:07,187
+dentro das peças
+de Shakespeare.
+
+195
+00:16:10,292 --> 00:16:11,637
+Mas uma carta
+
+196
+00:16:11,638 --> 00:16:15,675
+de uma escriturário indiano
+sem formação de Madras
+
+197
+00:16:15,676 --> 00:16:20,176
+desafiando afirmações que fiz,
+realmente foi a melhor.
+
+198
+00:16:20,177 --> 00:16:23,521
+Confesso que também
+desafiei algumas delas.
+
+199
+00:16:23,522 --> 00:16:27,992
+- Então admite que foi você?
+- Mas isso foi há três anos.
+
+200
+00:16:27,993 --> 00:16:30,770
+Não, não, não.
+Estou falando da carta.
+
+201
+00:16:31,147 --> 00:16:34,243
+Achei inteligente. Não sei
+onde conseguiu o carimbo.
+
+202
+00:16:34,244 --> 00:16:36,214
+Quase me enganou.
+
+203
+00:16:36,215 --> 00:16:39,787
+Eu simplesmente não sei
+do que você está falando.
+
+204
+00:16:39,788 --> 00:16:43,688
+Ora,
+não sou um completo idiota.
+
+205
+00:16:44,717 --> 00:16:47,956
+Não sei como te fazer
+entender isso,
+
+206
+00:16:48,447 --> 00:16:50,766
+mas,
+seja lá do que estiver falando,
+
+207
+00:16:51,788 --> 00:16:53,893
+eu não estou envolvido.
+
+208
+00:16:54,559 --> 00:16:55,959
+Jogue.
+
+209
+00:17:05,562 --> 00:17:06,862
+Senhor.
+
+210
+00:17:07,331 --> 00:17:08,643
+Você não foi ao Hall.
+
+211
+00:17:09,029 --> 00:17:10,508
+Não estou com fome.
+
+212
+00:17:21,315 --> 00:17:24,807
+Há uma guerra se aproximando,
+sem dúvida.
+
+213
+00:17:24,808 --> 00:17:28,972
+Porque estamos sendo conduzidos
+como ovelhas sem propósito,
+
+214
+00:17:28,973 --> 00:17:31,605
+que ninguém questiona.
+
+215
+00:17:32,333 --> 00:17:34,180
+Está se aproximando,
+posso sentir.
+
+216
+00:17:34,181 --> 00:17:36,987
+É tão paranoico
+quanto o Hardy.
+
+217
+00:17:36,988 --> 00:17:39,485
+Com todo respeito,
+o Bertie mal segura uma vela.
+
+218
+00:17:39,486 --> 00:17:41,638
+Littlewood,
+podemos conversar?
+
+219
+00:17:42,996 --> 00:17:44,924
+Sim, claro.
+
+220
+00:17:45,952 --> 00:17:47,270
+Integrais.
+
+221
+00:17:47,271 --> 00:17:48,933
+Série infinita.
+
+222
+00:17:48,934 --> 00:17:50,854
+Só Deus sabe o que mais.
+
+223
+00:17:51,236 --> 00:17:52,628
+Perdão.
+
+224
+00:17:52,629 --> 00:17:55,428
+Sempre esqueço que não acredita
+em um ser supremo.
+
+225
+00:17:55,793 --> 00:17:59,026
+Se esse cara for genuíno,
+terá que reconsiderar.
+
+226
+00:17:59,027 --> 00:18:00,372
+Ele deve ser genuíno.
+
+227
+00:18:00,373 --> 00:18:02,947
+Quem teria a imaginação
+para inventar isso?
+
+228
+00:18:02,948 --> 00:18:05,853
+Fico lisonjeado por pensar
+que eu tinha inventado.
+
+229
+00:18:06,604 --> 00:18:09,216
+Essas duas séries infinitas
+são as mais intrigantes.
+
+230
+00:18:09,217 --> 00:18:10,949
+Sim.
+Elas me derrubaram totalmente.
+
+231
+00:18:10,950 --> 00:18:13,081
+Nunca tinha visto
+algo assim.
+
+232
+00:18:13,512 --> 00:18:15,780
+É enganosa.
+
+233
+00:18:15,781 --> 00:18:19,038
+Vou apostar
+na série hipergeométrica.
+
+234
+00:18:19,572 --> 00:18:22,160
+Nosso grande Littlewood,
+perplexo.
+
+235
+00:18:22,563 --> 00:18:24,703
+Eu diria que ele é
+da classe de Hobbs.
+
+236
+00:18:25,220 --> 00:18:30,186
+"Sem experiência, eu aceitaria
+qualquer conselho que me desse.
+
+237
+00:18:30,187 --> 00:18:33,808
+Verdadeiramente,
+S. Ramanujan."
+
+238
+00:18:33,809 --> 00:18:37,539
+- O "S" é de quê?
+- Pergunte a ele.
+
+239
+00:18:37,540 --> 00:18:41,011
+- Quer trazê-lo até aqui?
+- Não, não, não.
+
+240
+00:18:41,012 --> 00:18:45,727
+Muito melhor, vou deixá-lo
+apodrecer em Madras.
+
+241
+00:18:46,790 --> 00:18:50,303
+Sr. Ramanujan,
+chegou uma carta para você.
+
+242
+00:18:50,304 --> 00:18:53,610
+É da Inglaterra.
+Cambridge, Inglaterra.
+
+243
+00:18:53,611 --> 00:18:56,516
+De um Sr. G. H. Hardy.
+
+244
+00:19:05,532 --> 00:19:08,375
+Eu costumava vir aqui
+e ver os barcos partindo.
+
+245
+00:19:10,036 --> 00:19:13,275
+Sempre me perguntei como seria
+estar em um deles.
+
+246
+00:19:16,329 --> 00:19:19,507
+Finalmente estou aqui
+e você fala de cruzar o mar?
+
+247
+00:19:20,825 --> 00:19:22,727
+É proibido para nós.
+
+248
+00:19:23,060 --> 00:19:24,969
+Eu não entendo.
+
+249
+00:19:28,080 --> 00:19:30,651
+Se você for,
+nunca será igual.
+
+250
+00:19:31,000 --> 00:19:33,300
+Aqui não é
+Calcutá ou Mumbai.
+
+251
+00:19:33,301 --> 00:19:34,901
+Não se casarão
+com nossos filhos.
+
+252
+00:19:34,902 --> 00:19:36,303
+Não falarão com a gente!
+
+253
+00:19:36,304 --> 00:19:38,925
+Então nos mudaremos
+para Calcutá ou Mumbai.
+
+254
+00:19:39,560 --> 00:19:42,173
+Além disso, não quero falar
+com ninguém além de você.
+
+255
+00:19:46,500 --> 00:19:49,235
+Promete me levar
+assim que puder.
+
+256
+00:19:52,200 --> 00:19:53,500
+Sim.
+
+257
+00:20:04,700 --> 00:20:06,697
+Então é isso que faremos.
+
+258
+00:20:17,460 --> 00:20:20,006
+Tem certeza que quer
+que eu faça isso?
+
+259
+00:20:23,900 --> 00:20:25,320
+Corte.
+
+260
+00:21:10,693 --> 00:21:12,410
+Cortou o seu cabelo.
+
+261
+00:21:12,411 --> 00:21:13,921
+O que você fez?
+
+262
+00:21:14,300 --> 00:21:18,334
+Amma,
+decidir ir para a Inglaterra.
+
+263
+00:21:18,820 --> 00:21:22,089
+Decidiu?
+Ou ela te convenceu?
+
+264
+00:21:22,090 --> 00:21:25,128
+Para que possam
+fugir juntos?
+
+265
+00:21:25,500 --> 00:21:27,562
+Isso é tudo culpa dela.
+
+266
+00:21:27,900 --> 00:21:30,394
+Ela quer você
+só para ela.
+
+267
+00:22:05,000 --> 00:22:07,800
+Por favor, cuidem uma da outra
+enquanto eu estiver fora.
+
+268
+00:22:11,240 --> 00:22:13,568
+Nunca esqueça de rezar.
+
+269
+00:22:15,100 --> 00:22:18,839
+Você não pode se poluir
+com a comida deles
+
+270
+00:22:18,840 --> 00:22:21,411
+se um dia quiser voltar.
+
+271
+00:22:45,180 --> 00:22:49,050
+- Não se esqueça de mim.
+- Não poderia me esquecer.
+
+272
+00:22:49,600 --> 00:22:51,065
+Eu prometo.
+
+273
+00:23:26,400 --> 00:23:27,979
+Então aqui vamos nós.
+
+274
+00:23:28,700 --> 00:23:31,684
+9.656 km.
+Consegue imaginar?
+
+275
+00:23:34,500 --> 00:23:36,462
+Eu conheço números maiores.
+
+276
+00:23:42,200 --> 00:23:44,700
+Não deixe que isso arruíne
+o seu dia com o indiano.
+
+277
+00:23:44,701 --> 00:23:46,710
+Tenho certeza
+que não significará guerra.
+
+278
+00:23:48,199 --> 00:23:50,520
+Você só fala nele hoje.
+
+279
+00:24:11,800 --> 00:24:14,199
+Por acaso você é
+Ramanujan?
+
+280
+00:24:14,200 --> 00:24:15,804
+Por acaso sou sim.
+
+281
+00:24:16,600 --> 00:24:18,070
+Desculpe.
+
+282
+00:24:18,400 --> 00:24:20,850
+John Littlewood.
+É um grande prazer.
+
+283
+00:24:20,851 --> 00:24:23,281
+Eu estava a caminho
+de te encontrar.
+
+284
+00:24:26,400 --> 00:24:28,562
+Vamos juntos?
+
+285
+00:24:39,100 --> 00:24:40,486
+Sim.
+
+286
+00:24:41,300 --> 00:24:43,273
+O efeito desejado.
+
+287
+00:24:43,600 --> 00:24:45,460
+Não fique intimidado.
+
+288
+00:24:46,040 --> 00:24:49,455
+Grande conhecimento geralmente
+vem de origens humildes.
+
+289
+00:24:49,960 --> 00:24:51,405
+Venha.
+
+290
+00:24:58,000 --> 00:24:59,611
+Você vê aquele muda?
+
+291
+00:25:00,800 --> 00:25:03,279
+Essa é a mesma árvore
+onde Newton se sentou
+
+292
+00:25:03,280 --> 00:25:04,900
+quando a maçã caiu
+na cabeça dele
+
+293
+00:25:04,901 --> 00:25:06,762
+e ele inventou
+a gravidade.
+
+294
+00:25:07,700 --> 00:25:11,231
+Por aqui. Temos antecipado
+a sua chegada há um tempo.
+
+295
+00:25:12,194 --> 00:25:14,550
+Acho que é um crime.
+Trazemos esses indianos
+
+296
+00:25:14,551 --> 00:25:16,719
+com alto custo
+e olha o que acontece.
+
+297
+00:25:16,720 --> 00:25:20,359
+Sim, não é só esse cara,
+o Ramjin,
+
+298
+00:25:20,360 --> 00:25:22,769
+ou qualquer que seja o nome,
+ele é indiano.
+
+299
+00:25:22,770 --> 00:25:25,599
+Afinal de contas,
+temos alunos indianos aqui.
+
+300
+00:25:25,600 --> 00:25:28,164
+Mas eles têm
+uma boa educação.
+
+301
+00:25:28,165 --> 00:25:29,759
+Ele é uma desgraça.
+
+302
+00:25:29,760 --> 00:25:32,079
+Ramanujan é um caso especial.
+
+303
+00:25:32,080 --> 00:25:34,039
+Por quê, exatamente?
+
+304
+00:25:34,040 --> 00:25:37,644
+Todos lemos a carta dele.
+Não há provas.
+
+305
+00:25:37,645 --> 00:25:40,100
+Devemos simplesmente
+acreditar na palavra dele?
+
+306
+00:25:40,500 --> 00:25:42,099
+Não.
+
+307
+00:25:42,100 --> 00:25:43,970
+Vocês têm que acreditar
+na minha.
+
+308
+00:25:45,000 --> 00:25:46,764
+Mudança, senhores.
+
+309
+00:25:47,500 --> 00:25:50,925
+É uma coisa maravilhosa.
+Abracem isso.
+
+310
+00:25:58,080 --> 00:26:01,129
+Considere esse silêncio
+como um sinal de respeito.
+
+311
+00:26:03,240 --> 00:26:05,039
+O Sr. Hardy está aqui?
+
+312
+00:26:05,040 --> 00:26:07,199
+Estou muito animado
+para conhecê-lo.
+
+313
+00:26:07,200 --> 00:26:10,363
+Ele deve ser muito gentil
+para me trazer até aqui.
+
+314
+00:26:12,800 --> 00:26:14,650
+Falando no diabo.
+
+315
+00:26:15,000 --> 00:26:16,300
+Olá.
+
+316
+00:26:18,100 --> 00:26:19,401
+Eu sou o Hardy.
+
+317
+00:26:19,900 --> 00:26:22,937
+Bem-vindo a Trinity,
+Sr. Ramanujan.
+
+318
+00:26:22,938 --> 00:26:25,527
+- Estou falando corretamente?
+- Sim, senhor.
+
+319
+00:26:25,920 --> 00:26:27,220
+Perfeitamente.
+
+320
+00:26:28,360 --> 00:26:31,492
+- É uma honra, senhor.
+- Obrigado.
+
+321
+00:26:32,200 --> 00:26:37,079
+Estou muito ansioso
+para começar o nosso trabalho.
+
+322
+00:26:37,560 --> 00:26:41,718
+Amanhã, às 10h,
+nos meus aposentos.
+
+323
+00:26:41,719 --> 00:26:43,156
+Estou animado para isso.
+
+324
+00:26:48,040 --> 00:26:51,277
+- Eu disse algo errado?
+- Não se preocupe.
+
+325
+00:26:52,000 --> 00:26:53,559
+Eu cuidarei do senhor.
+
+326
+00:26:53,560 --> 00:26:56,159
+Isso se acreditar
+que ele existe mesmo.
+
+327
+00:26:56,160 --> 00:26:58,359
+Há especulações
+de que o Sr. Littlewood
+
+328
+00:26:58,360 --> 00:27:02,050
+é meramente uma invenção
+da imaginação do Hardy.
+
+329
+00:27:02,600 --> 00:27:04,397
+Se ele cometer um erro,
+
+330
+00:27:04,398 --> 00:27:06,199
+ele terá outra pessoa
+para culpar.
+
+331
+00:27:06,200 --> 00:27:08,039
+Ramanujan,
+Bertrand Russell.
+
+332
+00:27:08,040 --> 00:27:10,839
+- Bem-vindo ao nosso asilo.
+- Olá.
+
+333
+00:27:10,840 --> 00:27:12,683
+Venha, venha.
+
+334
+00:28:30,352 --> 00:28:32,479
+Saia da grama!
+
+335
+00:28:32,480 --> 00:28:34,159
+É somente para Membros.
+
+336
+00:28:34,500 --> 00:28:35,800
+Com licença, senhor.
+
+337
+00:28:35,801 --> 00:28:37,761
+Poderia me direcionar
+à Nova Corte?
+
+338
+00:28:37,762 --> 00:28:39,893
+- Ao Sr. Hardy?
+- Por ali.
+
+339
+00:28:40,600 --> 00:28:42,629
+Tem algo na sua testa.
+
+340
+00:28:44,280 --> 00:28:45,611
+Obrigado.
+
+341
+00:28:50,600 --> 00:28:53,600
+Os sapatos machucam
+os meus pés.
+
+342
+00:28:59,000 --> 00:29:00,655
+Desculpe o atraso.
+
+343
+00:29:03,000 --> 00:29:05,543
+Viu? Você existe.
+
+344
+00:29:06,500 --> 00:29:07,900
+Sim.
+
+345
+00:29:10,000 --> 00:29:11,599
+Certo.
+
+346
+00:29:11,600 --> 00:29:15,079
+Ramanujan, decidimos
+que para o bem de todos,
+
+347
+00:29:15,080 --> 00:29:17,782
+você deveria ir
+a algumas aulas.
+
+348
+00:29:19,560 --> 00:29:21,664
+Mas estou aqui
+para publicar.
+
+349
+00:29:21,665 --> 00:29:24,879
+Sim, tudo no seu tempo,
+eu espero.
+
+350
+00:29:24,880 --> 00:29:27,751
+Mas, primeiro, precisamos
+de provas do seu trabalho.
+
+351
+00:29:29,400 --> 00:29:32,308
+Não há nada
+com o que se preocupar.
+
+352
+00:29:32,640 --> 00:29:37,159
+É só uma forma de familiarizá-lo
+a um método mais formal
+
+353
+00:29:37,160 --> 00:29:39,959
+que beneficiará
+o nosso futuro trabalho juntos.
+
+354
+00:29:39,960 --> 00:29:41,874
+Precisamos de uma linguagem
+em comum.
+
+355
+00:29:42,200 --> 00:29:45,199
+Não esperaria que conversássemos
+com você em tâmil.
+
+356
+00:29:45,200 --> 00:29:48,363
+Não, mas o senhor espera
+que eu fale inglês.
+
+357
+00:29:51,000 --> 00:29:52,300
+Certo.
+
+358
+00:29:53,440 --> 00:29:56,899
+Haverá muito tempo
+para publicações.
+
+359
+00:29:56,900 --> 00:30:00,209
+Desculpe, mas com humildade,
+como alguém sabe disso?
+
+360
+00:30:00,900 --> 00:30:02,955
+Não quero
+que isso morra comigo.
+
+361
+00:30:03,720 --> 00:30:06,604
+Garanto que não morrerá.
+
+362
+00:30:06,605 --> 00:30:10,106
+Obrigado, senhor.
+Mas tenho mais a compartilhar.
+
+363
+00:30:10,540 --> 00:30:14,607
+Como falei, a carta só continha
+parte das minhas descobertas.
+
+364
+00:30:14,608 --> 00:30:18,942
+Verá que encontrei uma função
+que representa o número
+
+365
+00:30:18,943 --> 00:30:22,339
+dos números primos menores que X
+na forma de série infinita.
+
+366
+00:30:22,340 --> 00:30:24,086
+- Exatamente?
+- Sim.
+
+367
+00:30:24,087 --> 00:30:27,868
+Achei que se fôssemos publicar,
+deveria ser algo inovador.
+
+368
+00:30:29,740 --> 00:30:33,379
+Isto é bastante inesperado.
+
+369
+00:30:41,580 --> 00:30:45,752
+Hardy,
+isso demoraria uma vida.
+
+370
+00:30:47,000 --> 00:30:48,314
+Talvez duas.
+
+371
+00:31:21,220 --> 00:31:24,618
+É bem alarmante ver você
+tão satisfeito consigo mesmo.
+
+372
+00:31:24,619 --> 00:31:27,056
+Não tem nada a ver
+com as anotações, tem?
+
+373
+00:31:28,920 --> 00:31:32,870
+Pode passar o resto da vida
+tentando provar metade delas
+
+374
+00:31:32,871 --> 00:31:35,799
+e nunca mais ter
+outra ideia original.
+
+375
+00:31:35,800 --> 00:31:37,175
+Bertie.
+
+376
+00:31:37,720 --> 00:31:40,436
+Se eu puder provar,
+por lógica,
+
+377
+00:31:40,437 --> 00:31:42,700
+que você vai morrer
+daqui a 5 minutos,
+
+378
+00:31:42,701 --> 00:31:44,372
+eu sentiria muito,
+
+379
+00:31:44,373 --> 00:31:46,705
+mas minha tristeza
+seria minimizada
+
+380
+00:31:46,706 --> 00:31:49,782
+pelo prazer da prova.
+
+381
+00:31:50,220 --> 00:31:54,481
+Seu desejo pode ser concedido,
+com o continente em chamas
+
+382
+00:31:54,482 --> 00:31:57,273
+e um velho como aquele
+no comando de tudo.
+
+383
+00:31:57,274 --> 00:32:00,429
+Não, você só está
+um pouco amargurado
+
+384
+00:32:00,430 --> 00:32:03,157
+pois se preocupa
+que ele esteja lá antes de você.
+
+385
+00:32:03,158 --> 00:32:06,549
+Duvido que um rosto negro
+esteja nessas paredes um dia,
+
+386
+00:32:06,550 --> 00:32:08,395
+menos ainda
+que se torne um Membro.
+
+387
+00:32:13,540 --> 00:32:16,123
+Ramanujan!
+Aqui!
+
+388
+00:32:16,500 --> 00:32:18,261
+Venha, sente-se conosco.
+
+389
+00:32:21,320 --> 00:32:22,653
+Bem-vindo ao Hall.
+
+390
+00:32:22,654 --> 00:32:24,059
+- Chandra Mahalanobis.
+- Olá.
+
+391
+00:32:24,060 --> 00:32:26,399
+- Este é Andrew Hartley.
+- Sou Ramanujan.
+
+392
+00:32:26,400 --> 00:32:28,587
+Todos sabem
+quem você é, colega.
+
+393
+00:32:29,300 --> 00:32:31,820
+Dizem que trabalha
+no teorema dos números primos.
+
+394
+00:32:32,520 --> 00:32:35,673
+É extraordinário
+terem lhe trazido para cá.
+
+395
+00:32:35,674 --> 00:32:36,974
+É uma honra.
+
+396
+00:32:37,340 --> 00:32:39,165
+Há outros indianos?
+
+397
+00:32:39,166 --> 00:32:41,764
+Alguns.
+Você é do sul?
+
+398
+00:32:42,120 --> 00:32:43,674
+Eu sou de Calcutá.
+
+399
+00:32:43,980 --> 00:32:46,174
+Isso deve ser um choque
+para você.
+
+400
+00:32:47,000 --> 00:32:49,781
+Vocês têm mais coisas em comum
+do que podem imaginar.
+
+401
+00:32:49,782 --> 00:32:53,189
+O pai dele era professor.
+Não a nível de Trinity.
+
+402
+00:32:53,190 --> 00:32:54,984
+Hardy conseguiu
+por mérito próprio.
+
+403
+00:32:54,985 --> 00:32:56,806
+Deve ser por isso
+que está com você.
+
+404
+00:32:56,807 --> 00:32:59,742
+- Ele tem esposa?
+- Não.
+
+405
+00:32:59,743 --> 00:33:01,768
+Ele é casado com o trabalho,
+como dizem.
+
+406
+00:33:02,160 --> 00:33:04,292
+Acho que significa
+que seja com você agora.
+
+407
+00:33:05,360 --> 00:33:08,657
+- Pare. Ele é vegetariano.
+- Desculpe.
+
+408
+00:33:11,580 --> 00:33:13,155
+Batatas, senhor.
+
+409
+00:33:19,180 --> 00:33:20,604
+Como pode ser melhor?
+
+410
+00:33:20,605 --> 00:33:22,485
+Cozinham as batatas
+em banha de porco.
+
+411
+00:33:26,420 --> 00:33:28,595
+- Sinto muito.
+- Sem problemas.
+
+412
+00:33:29,400 --> 00:33:31,439
+Mas acho que vou embora.
+
+413
+00:33:31,440 --> 00:33:33,019
+Espero ver você em breve.
+
+414
+00:33:45,220 --> 00:33:46,654
+Ramanujan.
+
+415
+00:33:49,840 --> 00:33:51,774
+Teve um bom jantar?
+
+416
+00:33:54,840 --> 00:33:58,039
+- A carne de carneiro é ótima.
+- Sim, senhor.
+
+417
+00:33:58,040 --> 00:33:59,500
+Deliciosa.
+
+418
+00:34:00,180 --> 00:34:03,399
+E seus aposentos?
+
+419
+00:34:03,400 --> 00:34:05,208
+São satisfatórios?
+
+420
+00:34:06,460 --> 00:34:09,039
+Quero que tudo aqui
+esteja lhe satisfazendo
+
+421
+00:34:09,040 --> 00:34:12,596
+para que possamos
+ser o mais produtivos possível.
+
+422
+00:34:12,597 --> 00:34:14,001
+Obrigado, senhor.
+
+423
+00:34:16,040 --> 00:34:17,614
+O papel é muito bom.
+
+424
+00:34:18,695 --> 00:34:19,995
+Bem...
+
+425
+00:34:21,500 --> 00:34:23,108
+use com sabedoria.
+
+426
+00:34:25,160 --> 00:34:27,048
+Boa noite, então.
+
+427
+00:34:39,680 --> 00:34:41,957
+Certo.
+
+428
+00:34:42,260 --> 00:34:44,582
+Você.
+Está acompanhando?
+
+429
+00:34:44,583 --> 00:34:47,142
+Sim, senhor.
+Bastante entusiasmado.
+
+430
+00:34:47,143 --> 00:34:50,370
+Não parece estar copiando.
+Gostaria de contribuir com algo?
+
+431
+00:34:51,880 --> 00:34:53,350
+Venha aqui, então.
+
+432
+00:34:53,901 --> 00:34:55,201
+Venha!
+
+433
+00:34:59,620 --> 00:35:01,110
+Vai precisar do giz.
+
+434
+00:35:25,060 --> 00:35:29,083
+Mas eu não completei
+aquela prova.
+
+435
+00:35:29,740 --> 00:35:31,166
+Como sabe?
+
+436
+00:35:33,100 --> 00:35:34,779
+Não sei.
+
+437
+00:35:34,780 --> 00:35:36,256
+Apenas sei.
+
+438
+00:35:38,820 --> 00:35:41,462
+Bem, cavalheiro,
+parece que seu tempo acabou.
+
+439
+00:35:41,463 --> 00:35:42,929
+Obrigado pela atenção.
+
+440
+00:35:56,048 --> 00:35:57,348
+Você não.
+
+441
+00:35:58,140 --> 00:36:00,236
+Índia,
+deixe eu lhe dizer uma coisa.
+
+442
+00:36:00,800 --> 00:36:03,679
+Não faça uma gracinha dessas
+na minha aula.
+
+443
+00:36:03,680 --> 00:36:07,238
+Não pertence a este lugar
+e pode dizer isso ao Hardy!
+
+444
+00:36:07,239 --> 00:36:08,589
+Agora, saia daqui!
+
+445
+00:36:56,092 --> 00:36:59,576
+O QUE COM SUA INTELIGÊNCIA
+SUPEROU A HUMANIDADE
+
+446
+00:37:32,580 --> 00:37:34,288
+Meu cordão sagrado.
+
+447
+00:37:36,000 --> 00:37:38,411
+É para ajudar a espantar
+os maus espíritos.
+
+448
+00:37:39,140 --> 00:37:41,446
+Como foram as coisas
+com o Sr. Howard?
+
+449
+00:37:43,240 --> 00:37:44,805
+Desculpe, senhor.
+
+450
+00:37:45,440 --> 00:37:47,436
+Fiquei muito animado.
+
+451
+00:37:47,940 --> 00:37:51,361
+Não é uma palavra que usam
+para descrever as aulas dele.
+
+452
+00:37:52,980 --> 00:37:55,220
+Como você sabia
+sobre aquele teorema?
+
+453
+00:37:55,900 --> 00:37:57,755
+Apenas me ocorreu.
+
+454
+00:38:00,360 --> 00:38:03,049
+Sr. Hardy, eu não entendo
+por que perdemos tempo
+
+455
+00:38:03,050 --> 00:38:04,779
+fazendo todas essas provas.
+
+456
+00:38:04,780 --> 00:38:06,559
+Eu tenho as fórmulas.
+
+457
+00:38:06,560 --> 00:38:09,519
+Não é que eu não veja
+o que você alega.
+
+458
+00:38:09,520 --> 00:38:12,991
+É que eu não tenho certeza
+de que sabe como chegou lá
+
+459
+00:38:13,940 --> 00:38:16,500
+ou que, de fato,
+sua alegação esteja correta.
+
+460
+00:38:16,501 --> 00:38:18,184
+Há sutilezas que...
+
+461
+00:38:18,185 --> 00:38:19,899
+Mas estão corretas, senhor.
+
+462
+00:38:19,900 --> 00:38:21,983
+Eu tenho novas ideias
+mais importantes.
+
+463
+00:38:21,984 --> 00:38:25,345
+Sim, mas intuição não basta.
+As provas são necessárias.
+
+464
+00:38:28,420 --> 00:38:31,669
+E um pouco de humildade
+não faria mal.
+
+465
+00:38:39,300 --> 00:38:42,260
+Por que acha
+que querem que falhemos?
+
+466
+00:38:43,640 --> 00:38:45,591
+Porque sou indiano.
+
+467
+00:38:45,592 --> 00:38:47,489
+Sim, tem isso.
+
+468
+00:38:48,240 --> 00:38:52,810
+Mas também por causa
+do que representamos.
+
+469
+00:38:54,260 --> 00:38:57,395
+Euler e Jacobi,
+quem são eles?
+
+470
+00:38:57,396 --> 00:39:00,204
+- Matemáticos.
+- Apenas nomes para você.
+
+471
+00:39:00,205 --> 00:39:03,489
+Euler foi o matemático
+mais produtivo do século XVIII.
+
+472
+00:39:03,560 --> 00:39:05,754
+Muito do trabalho
+foi feito depois de cego.
+
+473
+00:39:05,755 --> 00:39:08,166
+Jacobi, como você,
+foi arrancado da obscuridade,
+
+474
+00:39:08,167 --> 00:39:10,552
+e era quase tão impressionante
+quanto Euler.
+
+475
+00:39:12,860 --> 00:39:15,919
+Acho que você
+está no grupo deles.
+
+476
+00:39:15,920 --> 00:39:18,103
+O que tinham em comum,
+o que vejo em você,
+
+477
+00:39:18,104 --> 00:39:19,404
+é uma forma de amor.
+
+478
+00:39:19,405 --> 00:39:21,392
+Está tudo em suas anotações.
+
+479
+00:39:23,380 --> 00:39:25,150
+Deixe-me lhe perguntar
+uma coisa.
+
+480
+00:39:25,530 --> 00:39:27,929
+Por que faz isso?
+
+481
+00:39:27,930 --> 00:39:31,302
+Porque tenho que fazer.
+Eu vejo.
+
+482
+00:39:31,303 --> 00:39:34,809
+Como Euler.
+Para o próprio bem dele.
+
+483
+00:39:34,810 --> 00:39:37,148
+Uma arte.
+
+484
+00:39:37,810 --> 00:39:41,127
+E como todas as artes,
+reflete a verdade.
+
+485
+00:39:41,490 --> 00:39:44,106
+É a única verdade que conheço.
+É minha igreja.
+
+486
+00:39:45,010 --> 00:39:49,375
+E você, como Mozart podia ouvir
+uma sinfonia na mente,
+
+487
+00:39:49,376 --> 00:39:51,732
+você dança com os números
+até o infinito.
+
+488
+00:39:53,090 --> 00:39:54,980
+Mas essa dança, essa arte,
+
+489
+00:39:54,981 --> 00:39:57,676
+não faz de nós benquistos
+para certas facções
+
+490
+00:39:57,677 --> 00:39:59,609
+que nos veem
+como meros ilusionistas.
+
+491
+00:39:59,610 --> 00:40:03,295
+Se desafiará áreas da matemática
+que já foram exploradas,
+
+492
+00:40:03,296 --> 00:40:05,680
+não podemos
+correr o risco de errar.
+
+493
+00:40:06,330 --> 00:40:10,907
+Preciso que vá ás aulas,
+que não ofenda os professores,
+
+494
+00:40:10,908 --> 00:40:12,695
+e que continue
+buscando suas provas,
+
+495
+00:40:12,696 --> 00:40:15,731
+do contrário, nosso experimento
+estará fadado ao fracasso.
+
+496
+00:40:16,770 --> 00:40:18,232
+Venha comigo.
+
+497
+00:40:18,810 --> 00:40:20,853
+Quero lhe mostrar uma coisa.
+
+498
+00:40:22,170 --> 00:40:25,042
+Há muitas maneiras
+de ser honrado na vida.
+
+499
+00:40:25,850 --> 00:40:29,514
+Para nós, ser eleito Membro
+com certeza é uma delas,
+
+500
+00:40:30,610 --> 00:40:32,910
+mas em minha
+humilde opinião,
+
+501
+00:40:34,370 --> 00:40:36,630
+deixar um legado
+
+502
+00:40:37,331 --> 00:40:40,902
+aqui, em Wren,
+depois de partirmos,
+
+503
+00:40:41,410 --> 00:40:43,449
+é a maior de todas.
+
+504
+00:40:43,450 --> 00:40:47,984
+Esta biblioteca
+é a casa das Epístolas Paulinas,
+
+505
+00:40:48,690 --> 00:40:50,813
+dos poemas de Milton,
+
+506
+00:40:51,410 --> 00:40:53,621
+da Bíblia Morgan.
+
+507
+00:40:54,610 --> 00:40:58,463
+Mas na minha opinião,
+como um homem de números,
+
+508
+00:40:58,464 --> 00:41:00,347
+a coisa mais significativa
+
+509
+00:41:00,948 --> 00:41:04,258
+são os Princípios Matemáticos
+da Filosofia Natural, de Newton.
+
+510
+00:41:06,730 --> 00:41:10,248
+Como Newton representa o aspecto
+físico de nosso trabalho,
+
+511
+00:41:10,249 --> 00:41:13,529
+suas anotações
+representam o abstrato.
+
+512
+00:41:13,530 --> 00:41:16,651
+Newton levou tempo
+para obter provas.
+
+513
+00:41:17,050 --> 00:41:20,580
+Por isso, temos obrigação
+de provar tudo isso.
+
+514
+00:41:20,581 --> 00:41:24,524
+E se conseguirmos,
+acredito que um dia...
+
+515
+00:41:25,570 --> 00:41:30,176
+Um dia estas anotações
+farão morada aqui.
+
+516
+00:41:30,177 --> 00:41:34,954
+Compreende
+o que está em risco?
+
+517
+00:41:36,310 --> 00:41:37,610
+Ótimo.
+
+518
+00:41:56,630 --> 00:41:59,319
+<i>"Eu espero
+que esteja se cuidando</i>
+
+519
+00:41:59,320 --> 00:42:01,882
+<i>e que o Sr. Hardy
+seja bom com você.</i>
+
+520
+00:42:02,330 --> 00:42:05,329
+<i>Todos aqui
+estão muito orgulhosos de você.</i>
+
+521
+00:42:05,330 --> 00:42:08,100
+<i>Mas quem tem mais orgulho
+sou eu.</i>
+
+522
+00:42:08,101 --> 00:42:10,534
+<i>Passo o dia inteiro
+sentindo sua falta</i>
+
+523
+00:42:10,535 --> 00:42:12,376
+<i>e esperando carta sua
+que me diga</i>
+
+524
+00:42:12,377 --> 00:42:15,062
+<i>que atravessarei o oceano
+para ficar com você.</i>
+
+525
+00:42:15,430 --> 00:42:17,473
+<i>Você é tudo para mim."</i>
+
+526
+00:43:13,670 --> 00:43:15,210
+Descobri uma nova série.
+
+527
+00:43:15,211 --> 00:43:16,981
+Não me interesso
+numa nova série.
+
+528
+00:43:16,982 --> 00:43:20,270
+Achei que tinha explicado.
+Preciso das provas.
+
+529
+00:43:20,271 --> 00:43:21,695
+Tínhamos um acordo.
+
+530
+00:43:21,696 --> 00:43:24,127
+Por favor, senhor, apenas olhe.
+É verdade.
+
+531
+00:43:24,128 --> 00:43:26,985
+- Como sabe disso?
+- Porque está escrito.
+
+532
+00:43:26,986 --> 00:43:28,867
+Escrito onde, Ramanujan?
+
+533
+00:43:32,290 --> 00:43:36,236
+Pegue meu casaco, vá para casa
+e agasalhe-se antes que congele.
+
+534
+00:43:39,850 --> 00:43:42,498
+Senhor, eu vim de muito longe
+para estar aqui.
+
+535
+00:43:43,050 --> 00:43:45,333
+E o senhor prometeu
+me ajudar a publicar.
+
+536
+00:43:57,570 --> 00:44:01,189
+Não olhe assim para mim.
+É para o próprio bem dele.
+
+537
+00:44:01,190 --> 00:44:04,545
+Ninguém diria que é inteligente
+pelo jeito como se veste.
+
+538
+00:44:05,470 --> 00:44:07,537
+Que diabos é isso?
+
+539
+00:44:08,250 --> 00:44:10,187
+Partições.
+
+540
+00:44:12,650 --> 00:44:14,478
+Não, não, espere.
+
+541
+00:44:15,010 --> 00:44:18,349
+Isto aqui,
+até você entenderia.
+
+542
+00:44:20,690 --> 00:44:25,633
+P de 4 é igual a 5.
+
+543
+00:44:26,034 --> 00:44:29,115
+Isso significa que há
+cinco maneiras de obter o 4.
+
+544
+00:44:29,116 --> 00:44:31,196
+1 + 1 + 1 + 1,
+
+545
+00:44:31,197 --> 00:44:32,809
+3 + 1,
+
+546
+00:44:32,810 --> 00:44:34,931
+2 + 1 + 1,
+
+547
+00:44:35,410 --> 00:44:38,622
+2 + 2, e 4.
+
+548
+00:44:39,530 --> 00:44:41,301
+Parece bem simples.
+
+549
+00:44:41,302 --> 00:44:43,536
+Sim. E é.
+
+550
+00:44:43,537 --> 00:44:46,519
+Mas quando se aumenta
+o número de P para 100,
+
+551
+00:44:46,850 --> 00:44:50,983
+há 204 mil e 226
+
+552
+00:44:50,984 --> 00:44:52,810
+diferentes combinações.
+
+553
+00:44:53,930 --> 00:44:57,323
+Major MacMahon fez à mão.
+Levou semanas.
+
+554
+00:44:58,930 --> 00:45:03,539
+E agora ele acha
+que pode descobrir uma fórmula.
+
+555
+00:45:03,930 --> 00:45:06,069
+Coloca-se o número,
+qualquer número,
+
+556
+00:45:06,070 --> 00:45:09,967
+e acha-se o número de partições.
+Como mágica.
+
+557
+00:45:09,968 --> 00:45:13,174
+Acredito que já tenha tentado
+resolver essa questão.
+
+558
+00:45:13,175 --> 00:45:15,870
+É considerada impossível.
+Sem resolução.
+
+559
+00:45:16,270 --> 00:45:19,290
+Um grande mistério
+do universo.
+
+560
+00:45:19,291 --> 00:45:20,688
+Até agora?
+
+561
+00:45:20,689 --> 00:45:23,756
+Mas quem diria?
+
+562
+00:45:53,570 --> 00:45:57,892
+Usando
+o teorema da divergência,
+
+563
+00:45:57,893 --> 00:46:00,021
+qual é o fluxo
+
+564
+00:46:00,022 --> 00:46:04,285
+de F através de S?
+
+565
+00:46:16,050 --> 00:46:17,777
+O que ele está fazendo?
+
+566
+00:46:20,010 --> 00:46:22,020
+- Provas.
+- Provas?
+
+567
+00:46:23,530 --> 00:46:25,544
+Devia deixá-lo correr,
+Hardy.
+
+568
+00:46:25,970 --> 00:46:27,821
+Não deveria sufocá-lo.
+
+569
+00:46:43,870 --> 00:46:45,689
+Ele foi ao críquete.
+
+570
+00:46:45,690 --> 00:46:48,614
+Siga o guarda-chuva.
+
+571
+00:46:54,671 --> 00:46:55,971
+Senhor!
+
+572
+00:47:00,350 --> 00:47:01,724
+Sr. Hardy!
+
+573
+00:47:03,290 --> 00:47:04,721
+Sr. Hardy!
+
+574
+00:47:06,530 --> 00:47:09,452
+Estive olhando
+essas suas provas,
+
+575
+00:47:09,453 --> 00:47:12,553
+se é que podemos chamar assim,
+cuidadosamente.
+
+576
+00:47:12,554 --> 00:47:14,681
+E marquei onde você pulou
+algumas etapas
+
+577
+00:47:14,682 --> 00:47:16,409
+e onde cometeu erros.
+
+578
+00:47:16,410 --> 00:47:19,489
+Eu poderia dizer muito mais,
+mas deve começar por aí.
+
+579
+00:47:20,090 --> 00:47:23,356
+Estou sendo duro com você
+para o seu próprio bem.
+
+580
+00:47:23,357 --> 00:47:24,666
+Para que seja publicado.
+
+581
+00:47:24,667 --> 00:47:28,363
+Pode publicar as anotações
+e o teorema. Estão com o senhor.
+
+582
+00:47:28,364 --> 00:47:30,971
+É tudo o que eu quero,
+mas se eu publicar assim,
+
+583
+00:47:30,972 --> 00:47:33,089
+eu acabaria internado
+em um manicômio.
+
+584
+00:47:33,090 --> 00:47:35,189
+O senhor não compreende.
+Essas...
+
+585
+00:47:35,190 --> 00:47:37,311
+Não penso nelas
+como o senhor pensa.
+
+586
+00:47:37,312 --> 00:47:40,509
+Essas etapas que deseja,
+não sei como executá-las.
+
+587
+00:47:40,510 --> 00:47:43,627
+Pode começar tentando
+fazer o seu melhor
+
+588
+00:47:43,628 --> 00:47:45,718
+e veja
+se não se surpreenderá.
+
+589
+00:47:50,890 --> 00:47:54,449
+- Sabe de algo que não sei?
+- Aparentemente, não.
+
+590
+00:47:54,450 --> 00:47:58,305
+Não, Deus e eu
+não pensamos do mesmo modo.
+
+591
+00:47:58,650 --> 00:48:01,517
+Se eu me preparo para chuva,
+então não vai chover.
+
+592
+00:48:01,760 --> 00:48:03,290
+Até agora não choveu.
+
+593
+00:48:03,291 --> 00:48:06,602
+Sou Hardy e vou passar
+a tarde na biblioteca.
+
+594
+00:48:06,603 --> 00:48:08,388
+Agora sabemos
+que será ensolarado.
+
+595
+00:48:09,800 --> 00:48:12,276
+Sou o que pode se chamar
+de ateu.
+
+596
+00:48:12,720 --> 00:48:15,161
+Não, senhor.
+Acredita em Deus.
+
+597
+00:48:15,240 --> 00:48:17,140
+Só acha que Ele
+não gosta do senhor.
+
+598
+00:48:17,420 --> 00:48:18,944
+É mesmo?
+
+599
+00:48:21,793 --> 00:48:23,093
+Ouça.
+
+600
+00:48:24,250 --> 00:48:28,990
+Eu não ia lhe dar isso ainda,
+mas tomei a liberdade
+
+601
+00:48:28,991 --> 00:48:33,623
+de provar algumas coisas.
+
+602
+00:48:33,624 --> 00:48:37,316
+Apenas para mostrar
+o que podemos conseguir juntos.
+
+603
+00:48:37,317 --> 00:48:38,669
+Está vendo?
+
+604
+00:48:39,170 --> 00:48:40,776
+Você foi publicado.
+
+605
+00:48:42,757 --> 00:48:45,274
+NÚMEROS ALTAMENTE COMPOSTOS:
+SR. S. RAMANUJAN
+
+606
+00:48:51,090 --> 00:48:52,972
+Sr. Hardy, obrigado!
+
+607
+00:48:54,814 --> 00:48:56,314
+Obrigado, senhor!
+
+608
+00:49:07,810 --> 00:49:11,527
+É com muito orgulho
+que compartilhamos
+
+609
+00:49:11,770 --> 00:49:14,541
+a publicação do artigo
+do meu filho
+
+610
+00:49:14,542 --> 00:49:17,575
+na Sociedade Matemática
+de Londres.
+
+611
+00:49:20,190 --> 00:49:23,429
+Um grande feito.
+Uma sociedade de prestígio.
+
+612
+00:49:28,430 --> 00:49:31,983
+Como está mesmo
+o pequeno gênio?
+
+613
+00:49:33,210 --> 00:49:34,901
+Não dê atenção a ela.
+
+614
+00:49:35,250 --> 00:49:37,970
+Ela não está tão orgulhosa
+das conquistas dele.
+
+615
+00:49:51,601 --> 00:49:52,901
+Ramanujan?
+
+616
+00:49:54,490 --> 00:49:57,670
+Acorde. Acaba de chegar
+a notícia. Estamos em guerra.
+
+617
+00:49:57,671 --> 00:50:00,159
+- Aqui?
+- Não, seu bobo, na Bélgica.
+
+618
+00:50:00,160 --> 00:50:02,151
+Vamos!
+O Rei está chegando!
+
+619
+00:50:04,130 --> 00:50:06,411
+Deus salve o Rei!
+
+620
+00:50:09,170 --> 00:50:11,042
+Patriotas malditos.
+
+621
+00:50:11,690 --> 00:50:13,185
+Bertie pediu ajuda
+
+622
+00:50:13,186 --> 00:50:16,682
+com a União de Controle
+Democrático ou algo assim.
+
+623
+00:50:16,683 --> 00:50:19,332
+- Agitação, já?
+- Bem...
+
+624
+00:50:19,530 --> 00:50:23,849
+Recebi uma carta
+do Departamento de Guerra hoje.
+
+625
+00:50:24,610 --> 00:50:27,333
+Parece que precisam
+de assistência com a balística.
+
+626
+00:50:27,770 --> 00:50:29,749
+- Balística? Você?
+- Eu sei.
+
+627
+00:50:29,750 --> 00:50:32,672
+Tentei explicar,
+mas eles são insistentes.
+
+628
+00:50:32,673 --> 00:50:34,743
+- É.
+- Não sentirá minha falta.
+
+629
+00:50:34,744 --> 00:50:38,062
+Há uma teoria de que sou
+apenas fruto de sua imaginação.
+
+630
+00:50:38,063 --> 00:50:39,407
+Isso não é verdade.
+
+631
+00:50:39,508 --> 00:50:42,053
+Ramanujan está lá fora.
+
+632
+00:50:43,730 --> 00:50:46,240
+Há uma razão
+para ele não gostar de provas.
+
+633
+00:50:46,750 --> 00:50:50,034
+Elas podem estar em desacordo
+com as fórmulas dele.
+
+634
+00:50:50,035 --> 00:50:52,696
+- Deus salve o Rei!
+- O que quer dizer?
+
+635
+00:50:52,697 --> 00:50:56,776
+Tenho tido algumas reservas
+a respeito do trabalho dele.
+
+636
+00:50:56,777 --> 00:50:58,918
+O que esperava?
+
+637
+00:50:58,919 --> 00:51:02,183
+Ele pode ser superior a nós,
+mas não é Deus.
+
+638
+00:51:02,184 --> 00:51:03,761
+Isso é um alívio.
+
+639
+00:51:04,490 --> 00:51:06,015
+Ele não é.
+
+640
+00:51:09,290 --> 00:51:11,405
+Como Janaki virá agora?
+
+641
+00:51:11,550 --> 00:51:14,663
+Não se preocupe, dizem
+que acabará antes do Natal.
+
+642
+00:51:17,750 --> 00:51:21,414
+Por favor, finalize escrevendo
+que eu irei, é claro,
+
+643
+00:51:22,330 --> 00:51:26,513
+e que não se preocupe
+com guerra. Está longe daqui.
+
+644
+00:51:28,610 --> 00:51:32,044
+E que vou esperar que ele faça
+os arranjos necessários.
+
+645
+00:51:34,690 --> 00:51:38,380
+E também que eu o amo muito.
+
+646
+00:51:42,290 --> 00:51:43,736
+Isso é tudo.
+
+647
+00:51:46,570 --> 00:51:48,287
+Assine aqui.
+
+648
+00:51:51,090 --> 00:51:52,780
+Eu conhecia seu marido.
+
+649
+00:51:53,530 --> 00:51:55,763
+Mas ele ficava o tempo todo
+no templo.
+
+650
+00:51:56,370 --> 00:51:59,369
+Ele ainda está na alcova.
+
+651
+00:52:59,796 --> 00:53:01,096
+Amma?
+
+652
+00:53:02,490 --> 00:53:05,887
+Amma, por favor,
+pode postar esta carta?
+
+653
+00:53:07,770 --> 00:53:10,877
+Ele precisa saber que vou,
+mesmo com guerra.
+
+654
+00:53:18,970 --> 00:53:21,201
+Amma, por favor,
+deixe-me lhe ajudar.
+
+655
+00:54:16,810 --> 00:54:20,072
+- Onde estão os vegetais?
+- Racionamento para a guerra.
+
+656
+00:54:25,170 --> 00:54:26,968
+E alguns...
+Obrigado.
+
+657
+00:54:28,010 --> 00:54:29,901
+Não tem carta para você.
+
+658
+00:54:29,902 --> 00:54:31,978
+Por favor,
+pode conferir novamente?
+
+659
+00:54:31,979 --> 00:54:33,641
+Já conferi novamente.
+
+660
+00:54:33,642 --> 00:54:35,327
+Está atrasando a fila.
+
+661
+00:54:35,370 --> 00:54:37,153
+A mãe dele esqueceu
+de escrever.
+
+662
+00:54:42,750 --> 00:54:45,604
+Vejam quem é,
+o Índia gênio!
+
+663
+00:54:45,605 --> 00:54:48,990
+Acredita que vamos à guerra
+enquanto ele fica no luxo?
+
+664
+00:54:50,770 --> 00:54:52,320
+Aonde pensa que vai?
+
+665
+00:54:52,650 --> 00:54:54,971
+Seu negrinho parasita.
+
+666
+00:54:56,272 --> 00:54:57,894
+Estou falando com você.
+
+667
+00:55:05,210 --> 00:55:07,335
+Este é o nosso lar.
+
+668
+00:55:07,950 --> 00:55:09,461
+Não se esqueça disso.
+
+669
+00:56:37,370 --> 00:56:39,400
+Vitória a qualquer custo?
+
+670
+00:56:40,290 --> 00:56:42,401
+Vitória para quem?
+
+671
+00:56:44,250 --> 00:56:46,193
+Entendo que é inevitável
+
+672
+00:56:46,194 --> 00:56:48,888
+que alguém interessado
+em obter paz
+
+673
+00:56:48,889 --> 00:56:53,027
+não é muito popular
+em tempos de guerra.
+
+674
+00:56:53,690 --> 00:56:57,563
+Mas talvez essa seja
+mais uma razão
+
+675
+00:56:57,564 --> 00:57:01,361
+- para existirmos.
+- Isso mesmo.
+
+676
+00:57:01,510 --> 00:57:04,625
+Sr. Littlewood ofereceu
+os aposentos, gentilmente,
+
+677
+00:57:04,626 --> 00:57:08,270
+enquanto está longe
+resolvendo assuntos de balística
+
+678
+00:57:08,271 --> 00:57:12,079
+para o qual ele é
+tão inadequado.
+
+679
+00:57:13,010 --> 00:57:15,593
+Por favor,
+fiquem longe dos meus livros.
+
+680
+00:57:15,594 --> 00:57:17,810
+Ele quis dizer
+da coleção de uísque.
+
+681
+00:57:19,010 --> 00:57:21,113
+Obrigado por terem vindo.
+
+682
+00:57:21,114 --> 00:57:22,414
+Deus lhes abençoe.
+
+683
+00:57:22,830 --> 00:57:25,511
+Muito obrigado.
+Obrigado por terem vindo.
+
+684
+00:57:34,130 --> 00:57:35,844
+Maldito!
+
+685
+00:57:36,450 --> 00:57:39,830
+Foi rápido e estávamos
+na posição errada.
+
+686
+00:57:40,490 --> 00:57:42,416
+O que significa isto?
+
+687
+00:57:42,770 --> 00:57:45,292
+Achei que seria mais sábio
+na escolha das batalhas.
+
+688
+00:57:45,293 --> 00:57:48,254
+Por boa vontade da universidade
+que Ramujin está aqui.
+
+689
+00:57:48,255 --> 00:57:52,015
+O que a universidade
+tem a ver com Ramanujan?
+
+690
+00:57:52,016 --> 00:57:54,817
+Deveria saber que seu amigo,
+Russell, perderá o cargo
+
+691
+00:57:54,818 --> 00:57:56,674
+por causa dos folhetos
+que distribui.
+
+692
+00:57:56,675 --> 00:57:59,633
+Soubemos que outros
+estão fazendo igual.
+
+693
+00:58:02,370 --> 00:58:03,912
+Está me ameaçando?
+
+694
+00:58:03,913 --> 00:58:07,078
+Sr. Hardy estamos tentando
+apenas lhe esclarecer
+
+695
+00:58:07,330 --> 00:58:11,096
+a respeito da precariedade
+da situação.
+
+696
+00:58:11,097 --> 00:58:15,377
+Tem total liberdade
+para levar isso ao Conselho.
+
+697
+00:58:15,378 --> 00:58:17,613
+Asseguro que irei,
+em princípio.
+
+698
+00:58:17,614 --> 00:58:19,037
+É uma palavra perigosa,
+
+699
+00:58:19,038 --> 00:58:21,588
+com todos seus colegas liberais
+na França.
+
+700
+00:58:22,050 --> 00:58:24,004
+Mudança, Hardy.
+Era o que você queria.
+
+701
+00:58:24,005 --> 00:58:25,803
+Agora acostume-se a ela.
+
+702
+00:58:36,810 --> 00:58:39,562
+Do Sr. Littlewood, senhor.
+
+703
+00:58:43,810 --> 00:58:47,242
+Ele está tão longe
+do campo de batalha,
+
+704
+00:58:47,243 --> 00:58:49,990
+que não acho que uma bala
+o reconheceria como alvo.
+
+705
+00:58:59,080 --> 00:59:01,244
+Maldito seja, Littlewood.
+
+706
+00:59:04,760 --> 00:59:06,806
+<i>"Querido Harold,</i>
+
+707
+00:59:06,807 --> 00:59:10,145
+<i>por favor,
+perdoe minha transgressão.</i>
+
+708
+00:59:10,146 --> 00:59:13,558
+<i>Estou à caminho
+dessa guerra terrível</i>
+
+709
+00:59:13,559 --> 00:59:17,016
+<i>e não faço a menor ideia
+se voltarei um dia.</i>
+
+710
+00:59:17,378 --> 00:59:20,120
+<i>Por sorte,
+diferente de você,</i>
+
+711
+00:59:20,121 --> 00:59:23,199
+<i>tenho Deus para me confortar.</i>
+
+712
+00:59:23,880 --> 00:59:25,923
+<i>Tenho duas observações
+a fazer.</i>
+
+713
+00:59:25,924 --> 00:59:27,237
+<i>A primeira</i>
+
+714
+00:59:27,238 --> 00:59:30,328
+<i>é que o trabalho de Ramanujan
+com números primos,</i>
+
+715
+00:59:30,329 --> 00:59:34,275
+<i>embora seja brilhante,
+na verdade, está errado.</i>
+
+716
+00:59:34,276 --> 00:59:37,431
+<i>A outra observação
+é mais complexa.</i>
+
+717
+00:59:37,432 --> 00:59:41,098
+<i>Você vê Ramanujan
+como um milagre.</i>
+
+718
+00:59:41,099 --> 00:59:46,085
+<i>O homem supera qualquer ideia
+de inteligência que já vi.</i>
+
+719
+00:59:46,553 --> 00:59:50,540
+<i>Esqueça Jacobi,
+podemos compará-lo a Newton.</i>
+
+720
+00:59:50,992 --> 00:59:53,641
+<i>Passei a acreditar
+que para Ramanujan,</i>
+
+721
+00:59:53,642 --> 00:59:58,142
+<i>cada número inteiro positivo
+é um amigo pessoal dele.</i>
+
+722
+00:59:58,143 --> 01:00:02,262
+<i>E, para esse fim, você também
+tem uma responsabilidade.</i>
+
+723
+01:00:02,263 --> 01:00:04,022
+<i>Você tem que cuidar dele</i>
+
+724
+01:00:04,023 --> 01:00:07,190
+<i>e garantir que o trabalho dele
+tenha resultado.</i>
+
+725
+01:00:07,191 --> 01:00:09,762
+<i>Não deixe Howard
+e a turma dele vencerem.</i>
+
+726
+01:00:09,763 --> 01:00:13,654
+<i>Portanto, Hardy, você também
+tem uma guerra para lutar.</i>
+
+727
+01:00:13,655 --> 01:00:16,231
+<i>Só não deixe que seja
+contra o Ramanujan."</i>
+
+728
+01:00:19,240 --> 01:00:21,780
+Então, aí está.
+
+729
+01:00:22,800 --> 01:00:25,128
+Ele deixou isso
+para você ver.
+
+730
+01:00:25,129 --> 01:00:27,727
+Seu teorema sobre números primos
+está errado.
+
+731
+01:00:29,160 --> 01:00:33,107
+- Não está. Não pode ser.
+- É muito interessante.
+
+732
+01:00:33,108 --> 01:00:35,797
+Se comparar a aproximação
+do números primos
+
+733
+01:00:35,798 --> 01:00:37,121
+com a real quantidade,
+
+734
+01:00:37,122 --> 01:00:40,073
+- o que o cálculo nos diz?
+- Que está sempre aumentando.
+
+735
+01:00:40,074 --> 01:00:43,451
+Mesmo em um mil?
+Um milhão?
+
+736
+01:00:43,452 --> 01:00:45,456
+Bilhões de trilhões?
+
+737
+01:00:45,457 --> 01:00:47,057
+Está?
+
+738
+01:00:47,480 --> 01:00:51,573
+- Onde está a prova?
+- Dei para você. Isso prova.
+
+739
+01:00:51,574 --> 01:00:54,641
+Não, pois embora pareça
+instintivamente óbvio,
+
+740
+01:00:54,642 --> 01:00:57,588
+quando se submete ao cálculo,
+ele falha.
+
+741
+01:00:58,040 --> 01:01:01,606
+O Sr. Littlewood calculou
+um número e ele mostra que,
+
+742
+01:01:01,607 --> 01:01:04,325
+às vezes, seu teorema
+vai prever menos,
+
+743
+01:01:04,326 --> 01:01:07,184
+não mais, do que a quantidade
+de números primos.
+
+744
+01:01:07,185 --> 01:01:09,491
+Seu teorema está errado.
+
+745
+01:01:09,492 --> 01:01:12,613
+E, por isso,
+não podemos publicá-lo
+
+746
+01:01:12,614 --> 01:01:16,767
+até que confie em mim
+nessa questão de provas.
+
+747
+01:01:16,768 --> 01:01:19,490
+A intuição só te leva
+até certo ponto.
+
+748
+01:01:19,491 --> 01:01:20,791
+Pare!
+
+749
+01:01:22,902 --> 01:01:24,743
+Não posso mais ouvir isso.
+
+750
+01:01:24,744 --> 01:01:26,044
+Intuição?
+
+751
+01:01:26,045 --> 01:01:28,451
+Fala como se isso
+não fosse nada.
+
+752
+01:01:28,452 --> 01:01:31,185
+Isso é tudo o que é para você?
+Tudo que eu sou?
+
+753
+01:01:31,186 --> 01:01:33,766
+Desculpe. Estou...
+Está faltando alguma coisa.
+
+754
+01:01:35,480 --> 01:01:39,922
+Você nunca sequer me viu,
+muito menos me conhece.
+
+755
+01:01:39,923 --> 01:01:42,708
+Você é um homem sem fé!
+
+756
+01:01:43,400 --> 01:01:47,494
+Nem tem fotos de família aqui.
+Quem é você, Sr. Hardy?
+
+757
+01:01:47,495 --> 01:01:49,072
+Como se atreve?
+
+758
+01:01:50,360 --> 01:01:51,967
+Como se atreve a me julgar?
+
+759
+01:01:51,968 --> 01:01:54,344
+É você quem me julga!
+Não percebe?
+
+760
+01:01:54,345 --> 01:01:56,199
+Não.
+
+761
+01:01:56,200 --> 01:01:58,009
+Francamente, não.
+
+762
+01:01:59,280 --> 01:02:02,217
+Não sabe do que desisti
+para estar aqui?
+
+763
+01:02:03,880 --> 01:02:05,684
+Eu não tenho nada.
+
+764
+01:02:06,680 --> 01:02:09,440
+Ao menos notou
+as lesões no meu rosto?
+
+765
+01:02:15,280 --> 01:02:17,736
+Tenho uma esposa, Sr. Hardy.
+
+766
+01:03:55,060 --> 01:03:56,887
+Finalmente.
+
+767
+01:04:03,880 --> 01:04:06,672
+Ramanujan?
+É você?
+
+768
+01:04:08,020 --> 01:04:09,320
+Sr. Hardy.
+
+769
+01:04:10,760 --> 01:04:12,131
+Você não está bem?
+
+770
+01:04:12,680 --> 01:04:15,215
+- Não é nada sério.
+- Tem certeza?
+
+771
+01:04:18,160 --> 01:04:20,319
+Estou indo para o Wren.
+
+772
+01:04:21,038 --> 01:04:22,338
+Acredite ou não,
+
+773
+01:04:22,339 --> 01:04:25,644
+se conseguir sair da cama,
+ainda há alguns livros lá.
+
+774
+01:04:29,100 --> 01:04:31,296
+Aquelas provas que deixou...
+
+775
+01:04:31,600 --> 01:04:32,999
+são incríveis.
+
+776
+01:04:33,300 --> 01:04:34,878
+Realmente incríveis.
+
+777
+01:04:36,540 --> 01:04:39,414
+Então,
+vamos retomar o trabalho?
+
+778
+01:04:39,415 --> 01:04:40,777
+Amanhã de manhã?
+
+779
+01:04:42,040 --> 01:04:44,477
+- Sim, senhor.
+- Ótimo.
+
+780
+01:04:55,220 --> 01:04:58,463
+- Saudações para sua esposa.
+- Muito obrigado.
+
+781
+01:04:58,860 --> 01:05:00,728
+<i>Tenha um bom dia,
+cavalheiro.</i>
+
+782
+01:05:00,729 --> 01:05:02,405
+Sinto muito, senhor.
+
+783
+01:05:02,960 --> 01:05:04,584
+Ele era um bom jovem.
+
+784
+01:05:04,585 --> 01:05:07,639
+- O melhor da turma.
+- Eram todos bons jovens.
+
+785
+01:05:07,640 --> 01:05:10,359
+Todo o conhecimento
+que obtiveram aqui
+
+786
+01:05:10,360 --> 01:05:13,787
+foi sacrificado
+por um pedaço de terra.
+
+787
+01:05:14,320 --> 01:05:16,805
+Dizem que esse é
+o preço da vitória.
+
+788
+01:05:22,540 --> 01:05:23,904
+Vamos, Bertie.
+
+789
+01:05:27,900 --> 01:05:30,676
+Estou preocupado
+com Ramanujan.
+
+790
+01:05:31,160 --> 01:05:32,519
+Por quê?
+
+791
+01:05:32,820 --> 01:05:37,259
+Ele não parece estar normal.
+
+792
+01:05:38,340 --> 01:05:40,296
+O que saberia sobre isso?
+
+793
+01:05:42,020 --> 01:05:43,959
+Muito pouco, admito.
+
+794
+01:05:44,900 --> 01:05:48,316
+Mas acho que ele não está bem.
+Parece ter mudado.
+
+795
+01:05:50,260 --> 01:05:53,802
+Tivemos uma discussão horrível
+uma noite dessas,
+
+796
+01:05:53,803 --> 01:05:57,825
+sobre intuição, sobretudo,
+e ele saiu nervoso.
+
+797
+01:05:57,826 --> 01:06:01,792
+Um dia depois,
+ele produziu provas incríveis.
+
+798
+01:06:01,793 --> 01:06:05,387
+- Bem, Harold, você é assim.
+- Como assim?
+
+799
+01:06:06,540 --> 01:06:10,613
+Você e sua maldita rigidez
+acabaram destruindo a alma dele.
+
+800
+01:06:11,060 --> 01:06:13,273
+Avisei para deixá-lo correr.
+
+801
+01:06:15,140 --> 01:06:17,129
+Sim, mas ele não é
+um cavalo de corrida.
+
+802
+01:06:17,130 --> 01:06:18,477
+Não, ele não é.
+
+803
+01:06:18,478 --> 01:06:22,375
+Mas como mal o tratou
+como um ser humano, acho...
+
+804
+01:06:22,880 --> 01:06:26,198
+Acho que um cavalo
+seja um bom começo.
+
+805
+01:07:10,240 --> 01:07:12,419
+Major, podemos conversar?
+
+806
+01:07:12,420 --> 01:07:14,478
+Não tenho tempo para você!
+
+807
+01:07:14,900 --> 01:07:16,560
+Partições!
+
+808
+01:07:19,980 --> 01:07:21,937
+É o Ramanujan.
+
+809
+01:07:24,260 --> 01:07:25,859
+A audácia.
+
+810
+01:07:25,860 --> 01:07:28,895
+A arrogância selvagem.
+
+811
+01:07:30,520 --> 01:07:32,602
+Ele não conseguirá sem você.
+
+812
+01:07:32,603 --> 01:07:35,314
+Ele não conseguirá
+de forma alguma.
+
+813
+01:07:53,720 --> 01:07:56,985
+Estive lendo seu trabalho
+sobre partições.
+
+814
+01:07:57,740 --> 01:08:01,013
+Você está a um passo
+de uma grande descoberta.
+
+815
+01:08:03,600 --> 01:08:07,413
+Agora que começou a aceitar
+o devido rigor,
+
+816
+01:08:08,820 --> 01:08:11,361
+acho que deveria conhecer
+o Major MacMahon.
+
+817
+01:08:11,362 --> 01:08:14,342
+É o chefe de combinatórias
+na universidade,
+
+818
+01:08:14,343 --> 01:08:18,115
+e também é
+um dos seus maiores rivais.
+
+819
+01:08:18,787 --> 01:08:21,680
+Ele diz que partições
+não podem ser feitas.
+
+820
+01:08:22,025 --> 01:08:24,825
+Muito menos por alguém
+como você.
+
+821
+01:08:27,888 --> 01:08:30,514
+Então é melhor
+ele começar a contar bem alto.
+
+822
+01:08:33,224 --> 01:08:35,284
+<i>Entre por sua conta e risco.</i>
+
+823
+01:08:39,106 --> 01:08:41,656
+Estive esperando por você.
+
+824
+01:08:41,657 --> 01:08:45,237
+Raiz quadrada de 58.639.
+Agora!
+
+825
+01:08:46,070 --> 01:08:48,668
+- 242.
+- 242 o quê?
+
+826
+01:08:49,200 --> 01:08:52,777
+Vírgula 1549090.
+
+827
+01:08:52,778 --> 01:08:55,000
+Essa foi moleza.
+Teste-me.
+
+828
+01:08:56,086 --> 01:08:57,386
+Prossiga.
+
+829
+01:08:59,734 --> 01:09:01,817
+O mesmo número ao quadrado.
+
+830
+01:09:01,818 --> 01:09:05,917
+3 bilhões 438 milhões
+532 mil
+
+831
+01:09:05,918 --> 01:09:09,393
+e 321.
+
+832
+01:09:09,394 --> 01:09:10,820
+Eu ganhei!
+
+833
+01:09:10,821 --> 01:09:12,605
+Análise combinatória,
+é o que faço.
+
+834
+01:09:12,606 --> 01:09:14,608
+Uma jogada de dados
+glorificada.
+
+835
+01:09:17,160 --> 01:09:19,966
+Quanta petulância
+de vocês dois.
+
+836
+01:09:20,444 --> 01:09:22,159
+Falham com números primos
+e acham
+
+837
+01:09:22,160 --> 01:09:24,862
+que podem dar as costas
+e desvendar partições?
+
+838
+01:09:24,863 --> 01:09:27,000
+Estou dizendo
+que não pode ser feito.
+
+839
+01:09:27,001 --> 01:09:29,150
+Muito menos por você.
+
+840
+01:09:30,056 --> 01:09:31,356
+Pode.
+
+841
+01:09:32,510 --> 01:09:33,810
+E eu farei.
+
+842
+01:09:35,980 --> 01:09:37,679
+Não, eu farei.
+
+843
+01:09:37,680 --> 01:09:38,980
+À mão.
+
+844
+01:09:38,981 --> 01:09:41,189
+Através de somas lentas
+e dolorosas.
+
+845
+01:09:41,190 --> 01:09:44,617
+Depois terão certeza
+de que com qualquer fórmula
+
+846
+01:09:44,618 --> 01:09:47,950
+com a qual sonhem
+estará totalmente errada.
+
+847
+01:09:47,951 --> 01:09:51,741
+E você voltará para o buraco
+de onde veio da Índia.
+
+848
+01:09:51,742 --> 01:09:55,065
+E iremos todos acabar
+com essa sua farsa, Hardy.
+
+849
+01:09:55,066 --> 01:09:58,969
+Quão alto eu terei que ir?
+
+850
+01:10:01,970 --> 01:10:04,120
+P de 200 servirá.
+
+851
+01:10:05,280 --> 01:10:06,999
+Eu consigo.
+
+852
+01:10:48,120 --> 01:10:52,308
+Aqui estamos, P de 200.
+A hora da verdade.
+
+853
+01:10:52,309 --> 01:10:55,366
+Você sabia
+que eu servi em Madras?
+
+854
+01:10:55,367 --> 01:10:56,667
+Pois é.
+
+855
+01:10:57,580 --> 01:10:59,095
+Você primeiro.
+
+856
+01:10:59,680 --> 01:11:01,530
+O que encontrou
+com sua fórmula?
+
+857
+01:11:04,710 --> 01:11:09,493
+3.972.998.000.000.
+
+858
+01:11:11,280 --> 01:11:12,580
+Meu Deus.
+
+859
+01:11:13,760 --> 01:11:15,450
+Chegou perto.
+
+860
+01:11:19,260 --> 01:11:20,794
+Um erro dentro dos 2%.
+
+861
+01:11:22,280 --> 01:11:25,571
+Minha nossa!
+
+862
+01:11:25,960 --> 01:11:27,401
+Major MacMahon,
+
+863
+01:11:27,402 --> 01:11:32,314
+deixe-me te apresentar
+ao Sr. Ramanujan.
+
+864
+01:12:02,729 --> 01:12:07,327
+CHARNAL LANE
+CONSULTÓRIO MÉDICO
+
+865
+01:12:11,899 --> 01:12:14,822
+- Há quanto tempo?
+- Três semanas.
+
+866
+01:12:15,280 --> 01:12:16,727
+E a febre?
+
+867
+01:12:16,728 --> 01:12:18,448
+- Há mais tempo.
+- Inspire.
+
+868
+01:12:20,370 --> 01:12:21,670
+Inspire.
+
+869
+01:12:24,080 --> 01:12:26,602
+Não é nada bom.
+
+870
+01:12:27,280 --> 01:12:30,124
+Você está com os sintomas
+de tuberculose.
+
+871
+01:12:30,125 --> 01:12:31,480
+Sinto muito.
+
+872
+01:12:32,240 --> 01:12:34,925
+Você é um solo fértil
+para infecções.
+
+873
+01:12:39,233 --> 01:12:40,919
+Sinto muito, Ramanujan.
+
+874
+01:12:42,440 --> 01:12:44,249
+O Hardy não pode
+ficar sabendo.
+
+875
+01:12:48,480 --> 01:12:50,050
+<i>Corram, corram.</i>
+
+876
+01:12:51,880 --> 01:12:53,450
+É um zepelim!
+
+877
+01:12:54,490 --> 01:12:55,790
+Vamos, Ram!
+
+878
+01:12:59,200 --> 01:13:00,500
+Por aqui!
+
+879
+01:13:11,720 --> 01:13:13,484
+Estou sendo punido.
+
+880
+01:13:14,150 --> 01:13:15,450
+É só a febre falando.
+
+881
+01:13:47,340 --> 01:13:48,969
+Ele já escreveu?
+
+882
+01:13:49,680 --> 01:13:50,980
+Não.
+
+883
+01:13:52,840 --> 01:13:54,140
+Aonde vai?
+
+884
+01:14:10,880 --> 01:14:12,819
+Você se esqueceu de mim.
+
+885
+01:14:22,320 --> 01:14:24,308
+Você estava certo.
+
+886
+01:14:24,309 --> 01:14:26,212
+O teorema de Cauchy
+vai funcionar.
+
+887
+01:14:26,213 --> 01:14:28,829
+Está se aproximando
+ao conceito do círculo.
+
+888
+01:14:28,830 --> 01:14:32,074
+Em 2.000, deverá cair
+
+889
+01:14:32,075 --> 01:14:34,749
+para menos de 1%
+ou algo próximo.
+
+890
+01:14:36,080 --> 01:14:39,588
+E com N tendendo a infinito,
+
+891
+01:14:39,589 --> 01:14:41,595
+o erro tende a zero.
+
+892
+01:14:44,040 --> 01:14:48,431
+Você está começando a ver
+as nuances e complexidades,
+
+893
+01:14:48,432 --> 01:14:51,027
+coisas que você mal percebia
+antes.
+
+894
+01:14:52,820 --> 01:14:55,479
+Que dupla improvável
+nós formamos.
+
+895
+01:14:55,480 --> 01:14:57,843
+Se conseguirmos
+desvendar as partições,
+
+896
+01:14:57,844 --> 01:15:00,225
+será
+uma descoberta fenomenal.
+
+897
+01:15:04,960 --> 01:15:08,727
+Já falei que te indiquei
+para ser Membro?
+
+898
+01:15:16,080 --> 01:15:17,525
+Sr. Hardy,
+
+899
+01:15:19,480 --> 01:15:20,891
+obrigado.
+
+900
+01:15:31,720 --> 01:15:33,390
+Está se alimentando bem?
+
+901
+01:15:34,070 --> 01:15:35,399
+Sei que não temos estoque,
+
+902
+01:15:35,400 --> 01:15:38,012
+mas ainda há bastante comida
+no Hall.
+
+903
+01:15:38,800 --> 01:15:40,100
+Estou bem.
+
+904
+01:15:42,280 --> 01:15:43,845
+Não é nada.
+
+905
+01:15:45,840 --> 01:15:47,553
+Deixe-me fazer uma pergunta.
+
+906
+01:15:49,080 --> 01:15:51,770
+Como pensa em tudo isso?
+
+907
+01:15:57,840 --> 01:15:59,140
+Não sei.
+
+908
+01:16:02,960 --> 01:16:05,359
+Por que preciso ir
+a uma reunião de conselho
+
+909
+01:16:05,360 --> 01:16:07,199
+se estou sendo
+mandado embora?
+
+910
+01:16:07,200 --> 01:16:09,439
+Se acha que deixarei
+o charlatão ser Membro,
+
+911
+01:16:09,440 --> 01:16:10,931
+está muito enganado.
+
+912
+01:16:13,600 --> 01:16:16,159
+Por favor, não me diga
+que você o indicou?
+
+913
+01:16:16,160 --> 01:16:19,439
+Ele vai desvendar as partições.
+Vale a pena.
+
+914
+01:16:19,440 --> 01:16:22,319
+Você disse para eu deixá-lo
+correr livre como um cavalo.
+
+915
+01:16:22,320 --> 01:16:23,620
+Foi o que fiz.
+
+916
+01:16:23,621 --> 01:16:26,999
+E agora...
+preciso animá-lo.
+
+917
+01:16:27,000 --> 01:16:30,118
+Você quer dizer aliviar
+sua culpa.
+
+918
+01:16:33,580 --> 01:16:36,980
+Para alguém tão inteligente,
+você consegue ser bem estúpido.
+
+919
+01:16:36,981 --> 01:16:39,310
+Sobre o candidato
+a ser Membro,
+
+920
+01:16:39,311 --> 01:16:42,176
+Srinivasa Ramanujan,
+
+921
+01:16:42,177 --> 01:16:44,462
+comecemos a votação.
+
+922
+01:16:55,240 --> 01:16:57,447
+Sinto muito por te incomodar
+tão tarde.
+
+923
+01:16:59,280 --> 01:17:01,277
+Achei que precisava
+contar pessoalmente.
+
+924
+01:17:03,300 --> 01:17:08,239
+Estou muito envergonhado
+comigo e com a universidade.
+
+925
+01:17:08,240 --> 01:17:11,997
+Mas recusaram
+a minha indicação.
+
+926
+01:17:14,040 --> 01:17:15,877
+Obrigado por vir me contar.
+
+927
+01:17:16,760 --> 01:17:18,749
+Sei que fez tudo que pôde.
+
+928
+01:18:29,360 --> 01:18:30,888
+<i>Mais curativos.</i>
+
+929
+01:18:37,640 --> 01:18:40,120
+<i>Alguém pode vir aqui,
+por favor?</i>
+
+930
+01:18:43,840 --> 01:18:45,240
+<i>Enfermeira!</i>
+
+931
+01:18:50,320 --> 01:18:53,641
+<i>- Enfermeira!
+- Isso, respire.</i>
+
+932
+01:19:03,800 --> 01:19:05,100
+Ramanujan?
+
+933
+01:19:06,840 --> 01:19:09,002
+Enfermeira!
+Enfermeira!
+
+934
+01:19:12,080 --> 01:19:13,930
+Devo acordá-lo?
+
+935
+01:19:16,060 --> 01:19:17,360
+Não.
+
+936
+01:19:18,940 --> 01:19:20,785
+Ele virá
+quando estiver pronto.
+
+937
+01:19:37,300 --> 01:19:38,880
+<i>Com licença, doutor.</i>
+
+938
+01:19:38,881 --> 01:19:41,696
+Este cavalheiro está procurando
+o estudante indiano.
+
+939
+01:19:42,500 --> 01:19:45,671
+Certo.
+Ele veio para cá ontem à noite.
+
+940
+01:19:45,672 --> 01:19:49,056
+Não estava bem da cabeça.
+Estava com uma febre terrível.
+
+941
+01:19:51,620 --> 01:19:53,327
+Ele estava aqui.
+
+942
+01:20:13,520 --> 01:20:15,879
+<i>Sua condição piorou.</i>
+
+943
+01:20:15,880 --> 01:20:18,075
+<i>Você pode
+não ter muito tempo.</i>
+
+944
+01:20:18,460 --> 01:20:21,237
+<i>Deveria colocar
+suas coisas em ordem.</i>
+
+945
+01:20:25,180 --> 01:20:27,059
+<i>Você tem família aqui?</i>
+
+946
+01:20:28,540 --> 01:20:29,882
+<i>Alguém?</i>
+
+947
+01:20:38,402 --> 01:20:41,183
+FERROVIA METROPOLITANA
+
+948
+01:21:05,400 --> 01:21:06,732
+<i>Não!</i>
+
+949
+01:21:10,860 --> 01:21:13,104
+Senhor,
+aconteceu uma coisa em Londres.
+
+950
+01:21:14,900 --> 01:21:16,674
+Chame um táxi para mim.
+
+951
+01:21:18,860 --> 01:21:20,840
+Ele teve sorte com o trem.
+
+952
+01:21:20,841 --> 01:21:23,739
+O maquinista o viu
+antes de ele pular.
+
+953
+01:21:23,740 --> 01:21:26,027
+O perigo
+está nos pulmões dele.
+
+954
+01:21:26,028 --> 01:21:28,539
+Sim, ele está com uma tosse
+há bastante tempo.
+
+955
+01:21:28,540 --> 01:21:31,918
+Não é uma tosse,
+ele tem tuberculose avançada.
+
+956
+01:21:39,020 --> 01:21:43,201
+Não há nada
+que possamos fazer?
+
+957
+01:21:43,202 --> 01:21:46,239
+Orar.
+Será necessário um milagre.
+
+958
+01:22:25,440 --> 01:22:27,280
+Sr. Hardy.
+
+959
+01:22:34,800 --> 01:22:37,507
+Desculpe pelos problemas
+causei ao senhor.
+
+960
+01:22:38,740 --> 01:22:40,556
+Você me assustou.
+
+961
+01:22:40,920 --> 01:22:42,936
+Tentando se matar.
+
+962
+01:22:43,960 --> 01:22:46,315
+Minha esposa me esqueceu.
+
+963
+01:22:48,860 --> 01:22:50,819
+Eu não tenho ninguém.
+
+964
+01:22:50,820 --> 01:22:55,656
+Eu entendo
+que possa se sentir assim,
+
+965
+01:22:56,166 --> 01:22:58,063
+mas você devia
+ter me contado.
+
+966
+01:22:58,680 --> 01:23:00,553
+Eu poderia ter ajudado.
+
+967
+01:23:36,820 --> 01:23:39,539
+Facilmente
+também poderia ter sido eu.
+
+968
+01:23:39,540 --> 01:23:41,467
+Fico feliz
+que não tenha sido.
+
+969
+01:23:42,360 --> 01:23:45,308
+Você já causou o suficiente
+com o Ramanujan.
+
+970
+01:23:45,820 --> 01:23:48,100
+Eu pensarei em vocês dois.
+
+971
+01:23:49,280 --> 01:23:51,059
+Para onde você vai?
+
+972
+01:23:51,060 --> 01:23:53,366
+Vou para Oxford.
+
+973
+01:23:56,140 --> 01:23:59,652
+E esperarei até eles implorarem
+para me terem aqui de volta.
+
+974
+01:24:01,720 --> 01:24:03,439
+Tchau, Harold.
+
+975
+01:24:03,440 --> 01:24:04,982
+Tchau, Bertie.
+
+976
+01:24:09,540 --> 01:24:12,079
+É uma pena ele não poder
+levar Hardy com ele.
+
+977
+01:24:12,080 --> 01:24:14,516
+Ainda não vejo
+com o que ele contribui.
+
+978
+01:24:14,517 --> 01:24:16,699
+Eu conversei
+com o Major MacMahon.
+
+979
+01:24:16,700 --> 01:24:20,257
+Parece que Ramanujan
+está à beira descoberta.
+
+980
+01:24:20,660 --> 01:24:23,309
+Isso mesmo.
+Partições.
+
+981
+01:24:24,240 --> 01:24:26,259
+Isso é impossível.
+
+982
+01:24:26,260 --> 01:24:27,984
+Veremos.
+
+983
+01:24:32,680 --> 01:24:35,969
+Aqui está congelando.
+Você não está com frio?
+
+984
+01:24:35,970 --> 01:24:37,379
+Tente dormir aqui.
+
+985
+01:24:37,380 --> 01:24:40,588
+Tenho que ficar perto do cano
+para não congelar.
+
+986
+01:24:41,480 --> 01:24:44,562
+Seria melhor para todos
+se o trem tivesse me matado.
+
+987
+01:24:44,563 --> 01:24:48,572
+Você poderia ter reencarnado
+como um pombo.
+
+988
+01:24:56,860 --> 01:24:59,548
+Desculpe não poder ter sido
+um amigo melhor
+
+989
+01:24:59,549 --> 01:25:01,508
+no sentido tradicional.
+
+990
+01:25:02,200 --> 01:25:05,238
+Sei que precisou de um,
+mas não sou muito bom nisso.
+
+991
+01:25:05,239 --> 01:25:07,827
+Nunca fui.
+
+992
+01:25:08,680 --> 01:25:10,567
+A vida para mim...
+
+993
+01:25:13,020 --> 01:25:15,378
+sempre foi a matemática.
+
+994
+01:25:17,920 --> 01:25:20,768
+Você queria saber
+de onde vêm minhas ideias.
+
+995
+01:25:26,040 --> 01:25:27,579
+Minha Deusa.
+
+996
+01:25:28,740 --> 01:25:30,452
+Namagiri.
+
+997
+01:25:31,160 --> 01:25:33,006
+Ela fala comigo.
+
+998
+01:25:34,180 --> 01:25:37,199
+Põe fórmulas na minha língua
+enquanto durmo,
+
+999
+01:25:37,200 --> 01:25:39,174
+às vezes quando eu oro.
+
+1000
+01:25:42,020 --> 01:25:43,818
+Acredita em mim?
+
+1001
+01:25:46,060 --> 01:25:48,105
+Porque se for meu amigo,
+
+1002
+01:25:48,106 --> 01:25:50,702
+saberá
+que estou dizendo a verdade.
+
+1003
+01:25:51,460 --> 01:25:54,099
+Se for mesmo meu amigo.
+
+1004
+01:25:54,100 --> 01:25:57,559
+Mas não acredito em Deus,
+em nada que não posso provar.
+
+1005
+01:25:57,560 --> 01:25:59,287
+Então não pode
+acreditar em mim.
+
+1006
+01:26:00,620 --> 01:26:02,246
+Não entende?
+
+1007
+01:26:02,560 --> 01:26:05,378
+Uma equação
+não significa nada para mim
+
+1008
+01:26:05,379 --> 01:26:08,217
+a menos que expresse
+um pensamento de Deus.
+
+1009
+01:26:12,820 --> 01:26:16,234
+Talvez seja melhor
+permanecermos o que éramos.
+
+1010
+01:26:21,080 --> 01:26:24,398
+Quando estava na escola,
+lembro que um capelão disse:
+
+1011
+01:26:25,460 --> 01:26:28,516
+"Você sabe que Deus existe
+porque ele é como uma pipa,
+
+1012
+01:26:28,517 --> 01:26:32,077
+dá para sentir a força na linha,
+então sabe que Ele está lá.
+
+1013
+01:26:34,040 --> 01:26:37,480
+Eu disse: "E se não houver vento
+e a pipa não puder voar?"
+
+1014
+01:26:40,040 --> 01:26:42,665
+Eu não posso
+acreditar em Deus.
+
+1015
+01:26:43,860 --> 01:26:47,560
+Não acredito
+na antiga sabedoria do Oriente,
+
+1016
+01:26:47,561 --> 01:26:49,931
+mas acredito em você.
+
+1017
+01:26:52,880 --> 01:26:54,424
+Obrigado.
+
+1018
+01:26:57,760 --> 01:27:00,663
+Eu quero terminar
+o que começamos.
+
+1019
+01:27:02,020 --> 01:27:03,396
+Ótimo.
+
+1020
+01:27:04,800 --> 01:27:09,127
+Eu trouxe cálculos
+para caso se sentisse melhor.
+
+1021
+01:27:09,620 --> 01:27:11,593
+Depois quero ir para casa.
+
+1022
+01:27:13,820 --> 01:27:16,539
+- Para casa?
+- Assim que eu puder.
+
+1023
+01:27:16,540 --> 01:27:20,408
+E se eu tiver que morrer?
+Prometa me levar para casa.
+
+1024
+01:27:20,409 --> 01:27:22,379
+Você não vai morrer.
+
+1025
+01:27:22,380 --> 01:27:24,418
+Isso chegou para você.
+
+1026
+01:27:35,020 --> 01:27:36,869
+Vou te deixar em paz.
+
+1027
+01:27:38,680 --> 01:27:42,393
+Tente obedecer aos médicos,
+sei não gosta disso.
+
+1028
+01:27:54,360 --> 01:27:57,699
+<i>"Nunca saberei
+por que escolheu me abandonar.</i>
+
+1029
+01:27:57,700 --> 01:28:02,539
+<i>Uma carta em resposta às varias
+que te mandei seria o bastante.</i>
+
+1030
+01:28:02,540 --> 01:28:06,503
+<i>Vou morar com meu irmão
+e a família dele.</i>
+
+1031
+01:28:06,980 --> 01:28:09,712
+<i>Esta última carta
+é para dizer adeus."</i>
+
+1032
+01:28:43,320 --> 01:28:44,711
+O que aconteceu?
+
+1033
+01:28:44,712 --> 01:28:47,028
+Não sei.
+Ele é um paciente horrível.
+
+1034
+01:28:47,029 --> 01:28:49,090
+Não credita na medicina,
+não come nada.
+
+1035
+01:28:49,091 --> 01:28:50,586
+Só ora para Namagiri.
+
+1036
+01:28:50,587 --> 01:28:54,630
+Se você fosse meu médico,
+eu oraria. E eu sou ateu.
+
+1037
+01:29:00,500 --> 01:29:04,961
+- Isso é culpa minha.
+- Sim, talvez.
+
+1038
+01:29:20,160 --> 01:29:23,007
+Estamos dentro 0,004%
+de aproximação.
+
+1039
+01:29:23,500 --> 01:29:25,828
+Isso não pode morrer comigo,
+Sr. Hardy.
+
+1040
+01:29:27,660 --> 01:29:29,482
+Você não vai morrer.
+
+1041
+01:29:31,220 --> 01:29:33,094
+Se isso estiver correto,
+
+1042
+01:29:33,862 --> 01:29:35,593
+você fará a diferença.
+
+1043
+01:29:41,920 --> 01:29:43,927
+Eu tenho as provas.
+
+1044
+01:29:47,080 --> 01:29:48,720
+Meu Deus.
+
+1045
+01:29:49,580 --> 01:29:53,039
+Ele conseguiu.
+Ele conseguiu mesmo.
+
+1046
+01:29:53,040 --> 01:29:55,211
+Agora
+ele tem que ser um Membro.
+
+1047
+01:29:55,212 --> 01:29:58,703
+Pense direito, Hardy.
+Ele só vai falhar de novo.
+
+1048
+01:30:00,000 --> 01:30:02,336
+Com a sua ajuda, não.
+
+1049
+01:30:04,000 --> 01:30:06,299
+Além disso, tem outro jeito.
+
+1050
+01:30:06,300 --> 01:30:07,908
+Se ele fosse...
+
+1051
+01:30:08,740 --> 01:30:10,879
+Se ele fosse
+da Sociedade Real...
+
+1052
+01:30:10,880 --> 01:30:14,201
+Um MSR?
+Ele é indiano.
+
+1053
+01:30:18,120 --> 01:30:21,438
+MacMahon, escute.
+
+1054
+01:30:21,960 --> 01:30:24,110
+Ele precisa muito disso.
+
+1055
+01:30:27,820 --> 01:30:30,656
+Envie isso
+para o Tenente Littlewood.
+
+1056
+01:30:30,657 --> 01:30:31,957
+Littlewood?
+
+1057
+01:30:32,526 --> 01:30:33,853
+Onde?
+
+1058
+01:30:35,260 --> 01:30:37,159
+Sr. Hobson, Sr. Baker,
+
+1059
+01:30:37,160 --> 01:30:39,990
+uma pessoa quer falar com vocês
+sobre o Sr. Ramanujan.
+
+1060
+01:30:41,880 --> 01:30:43,310
+Cavalheiros.
+
+1061
+01:30:48,400 --> 01:30:50,659
+A Trinity o recusou.
+
+1062
+01:30:50,660 --> 01:30:53,872
+Só quero uma oportunidade
+para apresentar o caso.
+
+1063
+01:30:54,500 --> 01:30:57,554
+Julgue-o pelos méritos dele.
+
+1064
+01:30:57,555 --> 01:30:58,935
+Fique à vontade.
+
+1065
+01:30:58,936 --> 01:31:01,394
+Mas acho que o resultado
+será o mesmo.
+
+1066
+01:31:09,280 --> 01:31:11,376
+- Hardy.
+- Bom dia.
+
+1067
+01:31:13,680 --> 01:31:16,615
+No que você
+se envolveu agora?
+
+1068
+01:31:19,830 --> 01:31:21,130
+John.
+
+1069
+01:31:23,060 --> 01:31:24,639
+Que bom que você veio.
+
+1070
+01:31:25,260 --> 01:31:27,229
+Eu não perderia por nada.
+
+1071
+01:31:29,060 --> 01:31:32,971
+Agora vemos
+o trabalho em partições
+
+1072
+01:31:32,972 --> 01:31:37,416
+e o enorme avanço
+que foi alcançado.
+
+1073
+01:31:37,860 --> 01:31:39,721
+Tudo isso
+
+1074
+01:31:39,722 --> 01:31:42,757
+por um homem cujas limitações
+de conhecimento ao conhecê-lo
+
+1075
+01:31:42,758 --> 01:31:46,412
+foram tão surpreendentes
+quanto sua profundidade.
+
+1076
+01:31:46,840 --> 01:31:48,888
+Pode haver divergência
+de opiniões
+
+1077
+01:31:48,889 --> 01:31:51,493
+quanto a importância
+do trabalho do Ramanujan
+
+1078
+01:31:51,494 --> 01:31:53,626
+e a influência
+que ele pode ou não ter
+
+1079
+01:31:53,627 --> 01:31:55,257
+na matemática do futuro,
+
+1080
+01:31:55,258 --> 01:31:57,382
+mas uma coisa
+que o trabalho mostra
+
+1081
+01:31:57,383 --> 01:32:02,148
+é que é profundo
+e incrivelmente original.
+
+1082
+01:32:03,320 --> 01:32:05,600
+O Sr. Littlewood
+uma vez me disse
+
+1083
+01:32:05,601 --> 01:32:08,761
+que cada número inteiro
+e positivo
+
+1084
+01:32:08,762 --> 01:32:11,891
+é um dos amigos pessoais
+do Ramanujan.
+
+1085
+01:32:12,640 --> 01:32:14,031
+Acredito que seja verdade.
+
+1086
+01:32:14,032 --> 01:32:18,119
+Ele me disse que uma equação
+não tinha significado para ele
+
+1087
+01:32:18,120 --> 01:32:22,069
+a menos que expressasse
+um pensamento de Deus.
+
+1088
+01:32:22,696 --> 01:32:24,020
+Bem,
+
+1089
+01:32:24,021 --> 01:32:28,619
+apesar de tudo em mim
+discordar disso,
+
+1090
+01:32:28,620 --> 01:32:30,578
+talvez ele esteja certo.
+
+1091
+01:32:30,920 --> 01:32:34,737
+Pois essa não é
+nossa exata justificação
+
+1092
+01:32:34,738 --> 01:32:36,795
+para a matemática pura?
+
+1093
+01:32:37,180 --> 01:32:40,423
+Somos meros exploradores
+do infinito
+
+1094
+01:32:40,424 --> 01:32:43,417
+na busca
+pela perfeição absoluta.
+
+1095
+01:32:43,760 --> 01:32:48,039
+Não inventamos essas fórmulas,
+elas já existem
+
+1096
+01:32:48,040 --> 01:32:51,345
+e esperam
+as mentes mais brilhantes,
+
+1097
+01:32:51,346 --> 01:32:55,739
+como Ramanujan,
+provarem-nas.
+
+1098
+01:32:55,740 --> 01:32:58,653
+Então, no fim das contas,
+
+1099
+01:32:58,654 --> 01:33:01,145
+fui forçado a considerar,
+
+1100
+01:33:01,700 --> 01:33:06,146
+quem somos nós
+para questionar o Ramanujan
+
+1101
+01:33:09,500 --> 01:33:11,242
+e ainda mais Deus?
+
+1102
+01:33:15,320 --> 01:33:16,652
+Obrigado.
+
+1103
+01:33:39,380 --> 01:33:42,777
+Já é muito ruim esse charlatão
+ter desperdiçado nosso tempo.
+
+1104
+01:33:42,778 --> 01:33:45,589
+E agora Hardy arrastou
+a única pessoa no mundo
+
+1105
+01:33:45,590 --> 01:33:47,413
+que vai tirá-lo
+das trincheiras.
+
+1106
+01:33:47,414 --> 01:33:51,079
+Já chega desse Ramujin.
+
+1107
+01:33:51,080 --> 01:33:53,732
+Littlewood não é o único.
+
+1108
+01:33:53,733 --> 01:33:57,039
+Ele tem a mente mais brilhante
+que já vi na vida.
+
+1109
+01:33:57,040 --> 01:33:59,790
+E o nome dele é Ramanujan.
+
+1110
+01:34:08,960 --> 01:34:10,473
+Hardy?
+
+1111
+01:34:49,380 --> 01:34:52,088
+Sou um Membro
+da Sociedade Real.
+
+1112
+01:35:02,860 --> 01:35:04,385
+Ele escreveu para mim.
+
+1113
+01:35:39,620 --> 01:35:41,107
+Janaki.
+
+1114
+01:35:42,020 --> 01:35:44,487
+Se você tivesse ido com ele,
+
+1115
+01:35:44,488 --> 01:35:46,844
+ele nunca retornaria.
+
+1116
+01:36:02,560 --> 01:36:04,618
+Você vai mesmo para casa?
+
+1117
+01:36:05,300 --> 01:36:08,419
+A guerra acabou.
+Está na hora.
+
+1118
+01:36:08,420 --> 01:36:11,690
+Como Membro
+da Sociedade Real,
+
+1119
+01:36:11,691 --> 01:36:13,463
+eles ficarão orgulhosos
+de você.
+
+1120
+01:36:13,464 --> 01:36:16,039
+- Eu lhe devo tanto.
+- Não, não.
+
+1121
+01:36:16,040 --> 01:36:18,198
+Sou eu quem lhe deve.
+
+1122
+01:36:32,520 --> 01:36:34,464
+Venha pela grama.
+
+1123
+01:36:34,465 --> 01:36:37,179
+Mas, senhor, não posso.
+Não sou Membro daqui.
+
+1124
+01:36:37,180 --> 01:36:38,880
+Tem certeza disso.
+
+1125
+01:36:41,540 --> 01:36:45,723
+Como um MSR,
+o que podem dizer?
+
+1126
+01:37:01,600 --> 01:37:03,139
+Repita depois de mim.
+
+1127
+01:37:03,140 --> 01:37:06,894
+"Eu, Srinivas Ramanujan,
+
+1128
+01:37:07,340 --> 01:37:10,576
+eleito Membro
+da Trinity College..."
+
+1129
+01:37:12,460 --> 01:37:15,612
+Eu, Srinivas Ramanujan,
+
+1130
+01:37:17,080 --> 01:37:20,102
+eleito Membro
+da Trinity College...
+
+1131
+01:37:27,880 --> 01:37:30,965
+Desculpe o atraso.
+O maldito taxista se perdeu.
+
+1132
+01:37:30,966 --> 01:37:32,629
+Eu deveria saber
+pelo número dele.
+
+1133
+01:37:32,630 --> 01:37:34,792
+- Qual era?
+- Um bem idiota.
+
+1134
+01:37:34,793 --> 01:37:36,534
+1729.
+
+1135
+01:37:36,911 --> 01:37:38,211
+Não, Hardy.
+
+1136
+01:37:38,512 --> 01:37:40,519
+E um número
+muito interessante.
+
+1137
+01:37:40,520 --> 01:37:42,337
+É o menor número expressível
+
+1138
+01:37:42,338 --> 01:37:45,154
+como a soma de 2 números cúbicos
+de 2 modos diferentes.
+
+1139
+01:37:47,860 --> 01:37:50,125
+Já avisou sua família?
+
+1140
+01:37:51,360 --> 01:37:53,016
+Só faltou ela.
+
+1141
+01:37:53,017 --> 01:37:55,123
+Nem sei
+se ela recebeu minha carta.
+
+1142
+01:37:57,640 --> 01:38:01,499
+Não sei muito
+sobre alguns assuntos,
+
+1143
+01:38:01,500 --> 01:38:03,380
+mas vou dizer uma coisa.
+
+1144
+01:38:04,260 --> 01:38:07,814
+Não há provas nem leis
+
+1145
+01:38:07,815 --> 01:38:11,187
+que determinem o resultado
+de negócios do coração.
+
+1146
+01:38:11,580 --> 01:38:13,824
+Disso eu tenho certeza.
+
+1147
+01:38:15,380 --> 01:38:18,919
+Talvez em nosso próximo encontro
+você tenha tais negócios.
+
+1148
+01:38:19,680 --> 01:38:21,493
+Talvez.
+
+1149
+01:38:24,460 --> 01:38:26,300
+Sentirei sua falta,
+meu amigo.
+
+1150
+01:38:29,520 --> 01:38:31,026
+Também vou sentir a sua.
+
+1151
+01:38:40,880 --> 01:38:45,493
+Quero uma carta sua
+sobre seu trabalho toda semana.
+
+1152
+01:38:45,800 --> 01:38:48,619
+E volte para nós
+no ano que vem.
+
+1153
+01:38:48,620 --> 01:38:50,030
+Prometo.
+
+1154
+01:39:28,504 --> 01:39:33,404
+UM ANO DEPOIS
+
+1155
+01:39:36,960 --> 01:39:39,788
+- Correspondência, senhor.
+- Obrigado.
+
+1156
+01:39:40,367 --> 01:39:41,667
+Veio da Índia.
+
+1157
+01:39:44,900 --> 01:39:46,508
+Finalmente.
+
+1158
+01:39:57,560 --> 01:39:59,407
+Ele vai voltar, senhor?
+
+1159
+01:40:12,200 --> 01:40:15,188
+É difícil pôr em palavras
+
+1160
+01:40:15,500 --> 01:40:19,690
+o que eu devo ao Ramanujan.
+
+1161
+01:40:21,220 --> 01:40:23,207
+A originalidade dele
+tem sido
+
+1162
+01:40:23,208 --> 01:40:25,481
+uma constante fonte
+de inspiração para mim
+
+1163
+01:40:25,482 --> 01:40:27,252
+desde que o conheci.
+
+1164
+01:40:29,500 --> 01:40:31,221
+E a morte dele
+
+1165
+01:40:35,420 --> 01:40:38,872
+é um dos piores golpes
+que já levei.
+
+1166
+01:40:42,380 --> 01:40:45,547
+Mas agora
+quando estou depressivo
+
+1167
+01:40:45,700 --> 01:40:48,692
+e estou sendo
+forçado a ouvir
+
+1168
+01:40:48,693 --> 01:40:51,550
+pessoas cansativas e imponentes
+digo para mim mesmo:
+
+1169
+01:40:52,020 --> 01:40:56,319
+"Eu fiz uma coisa
+que você não poderia ter feito.
+
+1170
+01:40:57,600 --> 01:41:00,477
+Eu colaborei
+
+1171
+01:41:00,678 --> 01:41:04,344
+com Littlewood e Ramanujan
+
+1172
+01:41:05,580 --> 01:41:08,411
+em algo
+como 'de igual para igual'."
+
+1173
+01:41:58,640 --> 01:42:00,434
+Vamos nesse aqui.
+
+1174
+01:42:01,872 --> 01:42:03,172
+o quê?
+
+1175
+01:42:03,920 --> 01:42:05,981
+1729.
+
+1176
+01:42:06,020 --> 01:42:08,499
+Não vejo o que esse táxi
+tem de especial.
+
+1177
+01:42:09,300 --> 01:42:11,514
+Antes eu também não via.
+
+1178
+01:42:25,717 --> 01:42:27,870
+EM 1976, FOI DESCOBERTO
+UM "CADERNO PERDIDO"
+
+1179
+01:42:27,871 --> 01:42:30,482
+COM NOVAS FÓMULAS DO ÚLTIMO ANO
+DA VIDA DE RAMANUJAN.
+
+1180
+01:42:30,483 --> 01:42:32,784
+A IMPORTÂNCIA DESSA DESCOBERTA
+FOI COMPARADA
+
+1181
+01:42:32,785 --> 01:42:35,033
+À DESCOBERTA
+DA 10ª SINFONIA DE BEETHOVEN.
+
+1182
+01:42:35,034 --> 01:42:36,434
+UM SÉCULO DEPOIS,
+
+1183
+01:42:36,435 --> 01:42:39,277
+ESSAS FÓRMULAS
+ESTÃO SENDO USADAS
+
+1184
+01:42:39,278 --> 01:42:43,437
+PARA ENTENDER O COMPORTAMENTO
+DE BURACOS NEGROS.
+
+1185
+01:42:45,212 --> 01:42:49,112
+A DOENÇA DE RAMANUJAN VOLTOU
+DURANTE A JORNADA PARA A ÍNDIA.
+
+1186
+01:42:49,113 --> 01:42:53,013
+APÓS UM ANOS COM A ESPOSA,
+JANAKI, ELE MORREU AOS 32 ANOS.
+
+1187
+01:42:54,527 --> 01:42:56,936
+COMO ERA DE COSTUME INDIANO,
+
+1188
+01:42:56,937 --> 01:43:00,150
+JANAKI
+NÃO SE CASARIA NOVAMENTE.
+
+1189
+01:43:01,404 --> 01:43:04,704
+HARDY E LITTLEWOOD CONTINUARAM
+UMA COLABORAÇÃO
+
+1190
+01:43:04,705 --> 01:43:08,105
+QUE FOI
+ATÉ O FIM DE SUAS VIDAS.
+
+1191
+01:43:09,437 --> 01:43:11,150
+SR. G. H. GARDY
+E SR. S. RAMANUJAN
+
+1192
+01:43:11,151 --> 01:43:14,501
+AS DESCOBERTAS INCRÍVEIS
+DLES DURANTE 5 ANOS
+
+1193
+01:43:14,502 --> 01:43:17,952
+INSPIRARIAM E INFLUENCIARIAM
+GERAÇÕES DE MATEMÁTICOS.
+
+1194
+01:43:19,952 --> 01:43:22,952
+<b>Legende com a gente!
+contatoenjoyteam@gmail.com</b>
+
