@@ -1,0 +1,2702 @@
+1
+00:00:24,890 --> 00:00:28,769
+<i>Mayday, aqui é Hespen 299.
+Enviando alerta de perigo.</i>
+
+2
+00:00:28,769 --> 00:00:32,148
+<i>Motores 1 e 2
+sem operação. Estamos perdidos.</i>
+
+3
+00:00:34,483 --> 00:00:36,569
+<i>Pare, pare!</i>
+
+4
+00:01:00,718 --> 00:01:03,262
+<i>Ouvi muitas histórias
+sobre a Terra.</i>
+
+5
+00:01:04,805 --> 00:01:07,308
+<i>Um paraíso,</i>
+
+6
+00:01:07,308 --> 00:01:09,351
+<i>até ser destruída por nós.</i>
+
+7
+00:01:12,152 --> 00:01:15,695
+Virtualnet e lilicca
+apresentam:
+
+8
+00:01:15,696 --> 00:01:19,596
+
+
+9
+00:01:19,904 --> 00:01:23,574
+<b><u>DEPOIS DA TERRA</u></b>
+
+10
+00:01:25,743 --> 00:01:28,037
+<i>A fundação da Força Unida</i>
+
+11
+00:01:28,037 --> 00:01:31,707
+<i>há 1000 anos,
+foi um esforço militar global</i>
+
+12
+00:01:31,707 --> 00:01:33,793
+<i>para a evacuação da Terra.</i>
+
+13
+00:01:39,590 --> 00:01:43,427
+<i>Os rangers organizaram novas
+colonizações para a humanidade.</i>
+
+14
+00:01:43,427 --> 00:01:45,096
+<i>Nova Prime.</i>
+
+15
+00:01:48,182 --> 00:01:50,226
+<i>Mas não estávamos sós.</i>
+
+16
+00:01:56,857 --> 00:01:59,151
+<i>Os alienígenas
+liberaram as ursas,</i>
+
+17
+00:01:59,860 --> 00:02:03,155
+<i>monstros, preparados
+para matar humanos.</i>
+
+18
+00:02:03,364 --> 00:02:07,410
+<i>Tecnicamente cegos, mas conseguem
+captar o cheiro do nosso feromônio,</i>
+
+19
+00:02:07,410 --> 00:02:08,911
+<i>quando sentimos medo.</i>
+
+20
+00:02:08,911 --> 00:02:11,831
+<i>Literalmente,
+farejam nosso medo.</i>
+
+21
+00:02:11,831 --> 00:02:14,291
+<i>A espécie humana corria risco
+de extinção novamente.</i>
+
+22
+00:02:14,291 --> 00:02:17,420
+<i>e a Força Unida, novamente,
+era a resposta.</i>
+
+23
+00:02:17,878 --> 00:02:22,925
+<i>E, essa resposta, veio da ligação
+do capitão Prime, Cypher Raige,</i>
+
+24
+00:02:23,008 --> 00:02:24,760
+<i>o fantasma original.</i>
+
+25
+00:02:24,969 --> 00:02:28,472
+<i>Acredita-se que ele
+seja livre de qualquer medo</i>
+
+26
+00:02:28,472 --> 00:02:31,684
+<i>e seja invisível para as ursas.</i>
+
+27
+00:02:31,684 --> 00:02:34,603
+<i>E esse fenômeno
+é conhecido como fantasma.</i>
+
+28
+00:02:44,155 --> 00:02:47,241
+<i><b><u>3 DIAS ANTES</u></b></i>
+
+29
+00:02:48,868 --> 00:02:52,246
+<b><I>ASSENTAMENTO HUMANO</b>
+
+30
+00:03:13,517 --> 00:03:15,978
+Não é uma missão
+de resgate, cadete.
+
+31
+00:03:24,236 --> 00:03:25,988
+Raige.
+
+32
+00:03:27,198 --> 00:03:31,035
+O resultado de seu teste
+é impressionante.
+
+33
+00:03:31,410 --> 00:03:35,456
+E é o melhor de sua classe, ranger.
+
+34
+00:03:35,748 --> 00:03:39,043
+Mas no campo,
+é um fracasso.
+
+35
+00:03:39,251 --> 00:03:42,088
+Não vou te promover.
+
+36
+00:03:42,088 --> 00:03:44,340
+Pode tentar novamente
+no ano que vem.
+
+37
+00:03:44,340 --> 00:03:47,426
+Senhor, sou dedicado,
+estudei muito,
+
+38
+00:03:47,426 --> 00:03:49,887
+sempre para mostrar que
+posso ser um ranger, senhor.
+
+39
+00:03:49,970 --> 00:03:53,557
+Peço para que o comandante
+reconsidere, senhor.
+
+40
+00:03:53,557 --> 00:03:55,935
+-Cadete.
+-Senhor.
+
+41
+00:03:56,143 --> 00:03:59,688
+Meu pai volta para casa
+esta noite.
+
+42
+00:04:00,689 --> 00:04:03,192
+Não o vejo desde...
+
+43
+00:04:03,609 --> 00:04:06,529
+É um dia muito especial
+para nossa família.
+
+44
+00:04:06,612 --> 00:04:10,241
+E quero poder dizer que
+sou um ranger, senhor.
+
+45
+00:04:13,911 --> 00:04:16,497
+Diga ao seu pai...
+
+46
+00:04:16,497 --> 00:04:19,792
+que eu desejei boas vindas.
+
+47
+00:04:19,792 --> 00:04:22,253
+Dispensado.
+
+48
+00:04:38,686 --> 00:04:42,732
+Faia...
+
+49
+00:05:05,838 --> 00:05:09,925
+Como foi a prova?
+
+50
+00:05:11,886 --> 00:05:15,389
+-Como foi, filho?
+-Não passei para ranger.
+
+51
+00:05:18,309 --> 00:05:20,936
+Para onde olhamos
+quando falamos?
+
+52
+00:05:20,936 --> 00:05:25,024
+Não foi promovido para ranger.
+
+53
+00:05:26,233 --> 00:05:29,111
+Não foi promovido para ranger.
+
+54
+00:05:29,111 --> 00:05:33,157
+Não foi promovido para ranger,
+senhor.
+
+55
+00:05:41,123 --> 00:05:42,917
+Tudo bem.
+Ainda é jovem.
+
+56
+00:05:42,917 --> 00:05:46,462
+Fui 11 segundos mais rápido que
+o senhor nos canions.
+
+57
+00:05:47,838 --> 00:05:49,965
+Não está pronto.
+
+58
+00:05:49,965 --> 00:05:53,135
+Velan é um homem bom,
+sabe o que faz.
+
+59
+00:05:53,135 --> 00:05:57,264
+Se você estivesse pronto, teria
+promovido, mas você não está.
+
+60
+00:05:58,641 --> 00:06:00,976
+Estou sem fome.
+Vou para meu quarto.
+
+61
+00:06:00,976 --> 00:06:03,479
+-Está pedindo minha permissão?
+-Posso ir para meu quarto, senhor?
+
+62
+00:06:03,479 --> 00:06:06,524
+Não pode, sente-se!
+
+63
+00:06:35,010 --> 00:06:38,723
+Uma última visita a Fitos.
+
+64
+00:06:38,723 --> 00:06:42,810
+Viajo amanhã.
+Supervisionar treinamento.
+
+65
+00:06:43,394 --> 00:06:47,273
+E, assim que terminar,...
+
+66
+00:06:47,273 --> 00:06:50,234
+anunciarei minha aposentadoria.
+
+67
+00:06:50,693 --> 00:06:52,570
+Aposentadoria?
+
+68
+00:06:52,570 --> 00:06:55,781
+Talvez trabalhe com você.
+
+69
+00:06:55,781 --> 00:06:59,827
+Divisão de turbinas,
+juntos.
+
+70
+00:07:02,246 --> 00:07:04,832
+Quero reaver nossa família.
+
+71
+00:07:06,208 --> 00:07:08,586
+Quero reaver você.
+
+72
+00:07:12,089 --> 00:07:14,717
+Aquele garoto ali...
+
+73
+00:07:14,717 --> 00:07:17,303
+está tentando te achar.
+
+74
+00:07:17,762 --> 00:07:20,931
+É um garoto muito sentimental.
+
+75
+00:07:21,140 --> 00:07:23,559
+E muito intuitivo.
+
+76
+00:07:23,726 --> 00:07:27,772
+Ele viu você lendo aquele livro
+a vida toda...
+
+77
+00:07:28,314 --> 00:07:32,359
+ele está lendo o livro agora.
+Está procurando por você.
+
+78
+00:07:35,279 --> 00:07:39,283
+Não me interprete mal,
+respeito tudo que tem feito.
+
+79
+00:07:40,785 --> 00:07:43,829
+Mas você tem um filho
+no quarto ao lado que...
+
+80
+00:07:43,829 --> 00:07:48,876
+você não conhece, ele se culpa
+pelo que aconteceu com a Senshi.
+
+81
+00:07:49,794 --> 00:07:53,839
+Acha que foi culpa dele.
+Está sofrendo.
+
+82
+00:07:55,674 --> 00:07:59,678
+Talvez ele não precise
+de um comandante.
+
+83
+00:08:01,138 --> 00:08:03,682
+Precisa de um pai.
+
+84
+00:08:23,077 --> 00:08:27,081
+Prepare sua mala.
+Virá comigo para Fitos.
+
+85
+00:08:54,400 --> 00:08:59,530
+Sábia decisão.
+Viva cada momento com ele.
+
+86
+00:09:04,243 --> 00:09:08,289
+Pegue leve com seu pai.
+Ele está enferrujado.
+
+87
+00:09:08,581 --> 00:09:10,624
+Tá legal.
+
+88
+00:09:22,011 --> 00:09:23,763
+General Raige?
+
+89
+00:09:26,891 --> 00:09:31,645
+Eu estava no Planalto. O senhor
+salvou a mim e mais quatro.
+
+90
+00:09:31,771 --> 00:09:35,024
+Acabei de chegar, vim ver
+o rosto da minha filha.
+
+91
+00:09:35,024 --> 00:09:36,609
+Pela primeira vez.
+
+92
+00:09:37,318 --> 00:09:40,488
+-Levantem-me.
+-Não se faz necessário, ranger.
+
+93
+00:09:40,696 --> 00:09:42,323
+Levantem-me!
+
+94
+00:10:02,009 --> 00:10:03,636
+<i>Mais uma vez.</i>
+
+95
+00:10:11,936 --> 00:10:13,854
+<i>Empurre!</i>
+
+96
+00:10:14,480 --> 00:10:16,065
+Está bom.
+
+97
+00:11:15,374 --> 00:11:17,585
+Estou lendo Moby Dick.
+
+98
+00:11:19,003 --> 00:11:22,715
+Sua mãe me falou.
+Isso é bom.
+
+99
+00:11:25,259 --> 00:11:29,305
+<i>O transporte militar chegará
+a base de Fitos em 7 horas.</i>
+
+100
+00:11:31,557 --> 00:11:35,603
+Vou dormir um pouco.
+Recomendo que faça o mesmo.
+
+101
+00:12:19,855 --> 00:12:22,817
+Ei, não sabe ler?
+
+102
+00:12:24,902 --> 00:12:28,406
+Eu disse: sabe ler?
+
+103
+00:12:28,406 --> 00:12:30,991
+-Sim, senhor.
+-Bom, tem um cartaz ali.
+
+104
+00:12:30,991 --> 00:12:35,371
+"Somente pessoas autorizadas."
+
+105
+00:12:35,579 --> 00:12:38,249
+Por que não leu aquilo?
+
+106
+00:12:40,042 --> 00:12:43,921
+-O que tem na jaula?
+-Melhor pegar leve, sargento.
+
+107
+00:12:43,921 --> 00:12:47,591
+É filho do primeiro comandante.
+
+108
+00:12:50,803 --> 00:12:54,598
+-É filho do Raige?
+-O que tem ali?
+
+109
+00:12:59,895 --> 00:13:01,856
+Você quer ver?
+
+110
+00:13:06,068 --> 00:13:08,612
+-Temos que ir agora.
+-E que...
+
+111
+00:13:08,612 --> 00:13:10,906
+Nos surpreenderam,
+mandaram essas coisas...
+
+112
+00:13:13,659 --> 00:13:16,954
+-Uma ursa?
+-Para treinamento em Fitos.
+
+113
+00:13:16,954 --> 00:13:18,372
+Treinamento de fantasmas.
+
+114
+00:13:19,415 --> 00:13:23,461
+Quer descobrir se é um?
+
+115
+00:13:58,621 --> 00:14:03,084
+Fantasma é aquele que
+não demonstra medo.
+
+116
+00:14:19,016 --> 00:14:20,976
+Muitos paralisam.
+
+117
+00:14:22,603 --> 00:14:26,941
+É um córtex cerebral a procura
+da resposta que ele não tem.
+
+118
+00:14:26,941 --> 00:14:30,444
+Viu? Até o cérebro
+sabe que já era.
+
+119
+00:14:30,444 --> 00:14:33,656
+Seu corpo
+está inundado de adrenalina.
+
+120
+00:14:35,241 --> 00:14:39,286
+E, mesmo sem perceber,
+seu coração pulsa rápido.
+
+121
+00:14:41,747 --> 00:14:44,458
+Fica difícil respirar,
+
+122
+00:14:44,750 --> 00:14:48,796
+e seu sistema biológico
+pede para que fuja.
+
+123
+00:14:49,004 --> 00:14:52,633
+Mas seus joelhos o impedem,
+estão fracos demais.
+
+124
+00:14:54,385 --> 00:14:57,096
+Além disso,
+já é tarde demais.
+
+125
+00:14:57,346 --> 00:15:01,016
+Seus poros estão todos abertos,
+
+126
+00:15:01,016 --> 00:15:05,062
+despejando o cheiro
+de feromônio no ar.
+
+127
+00:15:07,022 --> 00:15:11,402
+E, só consegue pensar,
+quando ele te matará.
+
+128
+00:15:18,367 --> 00:15:21,287
+Senshi!
+
+129
+00:15:21,287 --> 00:15:23,789
+Ela te viu,
+garoto!
+
+130
+00:15:24,874 --> 00:15:26,459
+Atenção, sentido!
+
+131
+00:15:26,459 --> 00:15:30,337
+Kitai, para seu assento,
+agora.
+
+132
+00:15:32,339 --> 00:15:34,508
+Rangers, aumentem
+o nível de alerta.
+
+133
+00:15:34,508 --> 00:15:35,926
+Protejam a carga!
+
+134
+00:15:41,515 --> 00:15:45,311
+Atrás do assento, tem um
+salva vidas. Amarre firme.
+
+135
+00:15:45,311 --> 00:15:47,021
+Sim, senhor.
+
+136
+00:15:52,485 --> 00:15:54,445
+-Boa tarde, general.
+-Capitão...
+
+137
+00:15:54,445 --> 00:15:58,491
+Qual a última posição conhecida
+da chuva de asteróides?
+
+138
+00:16:01,285 --> 00:16:04,372
+Categoria 4
+de formação de asteróides.
+
+139
+00:16:04,372 --> 00:16:08,501
+2.000 quilômetros a estibordo
+com declinação 45.
+
+140
+00:16:08,501 --> 00:16:10,628
+Detectei um campo
+gravitacional no casco.
+
+141
+00:16:10,628 --> 00:16:12,338
+E como detectar isso?
+
+142
+00:16:12,338 --> 00:16:16,342
+Acúmulo de grávitons pode ser
+percussor de expansão de massa.
+
+143
+00:16:16,592 --> 00:16:18,719
+Esta tempestade pode nos
+atingir em minutos.
+
+144
+00:16:18,803 --> 00:16:22,598
+Senhor, expansão de massa
+é uma em um milhão.
+
+145
+00:16:34,068 --> 00:16:37,071
+Se navegarmos fora daí
+
+146
+00:16:37,488 --> 00:16:40,825
+nosso peso pode virar
+a expansão de massa.
+
+147
+00:16:42,368 --> 00:16:45,705
+Vamos manter o curso e torcer
+para que eu esteja errado.
+
+148
+00:16:45,913 --> 00:16:49,750
+Curiosidade pura, senhor.
+Quantas vezes se enganou?
+
+149
+00:16:50,209 --> 00:16:54,046
+Minha esposa teria uma resposta
+interessante para esta pergunta.
+
+150
+00:16:57,049 --> 00:16:59,427
+Contagem grávitom diminuiu.
+
+151
+00:16:59,427 --> 00:17:01,429
+800 partes/milhão.
+
+152
+00:17:01,429 --> 00:17:03,723
+650.
+
+153
+00:17:05,725 --> 00:17:09,103
+Bem, senhor,
+sempre tem a 1ª vez.
+
+154
+00:17:35,421 --> 00:17:39,425
+Nada sério.
+
+155
+00:17:43,804 --> 00:17:45,514
+Pai!
+
+156
+00:17:45,514 --> 00:17:49,226
+Nave inativa. Motores 1 e 2
+sem operação. Estamos perdidos.
+
+157
+00:17:49,226 --> 00:17:51,020
+-Pouse aqui.
+-Onde?
+
+158
+00:17:51,020 --> 00:17:53,481
+Procure em Lise,
+é o mas perto.
+
+159
+00:17:53,564 --> 00:17:56,901
+Não dá para viajar
+num buraco assim.
+
+160
+00:17:57,151 --> 00:17:58,944
+Faça isso.
+
+161
+00:18:03,532 --> 00:18:06,952
+Determinei as coordenadas.
+Sem sinal de confirmação, senhor.
+
+162
+00:18:06,952 --> 00:18:08,996
+Vamos viajar.
+
+163
+00:18:09,205 --> 00:18:10,623
+Senhor, sem confirmação?
+
+164
+00:18:10,623 --> 00:18:12,124
+É uma ordem.
+
+165
+00:18:19,423 --> 00:18:21,509
+Pare!
+
+166
+00:18:55,751 --> 00:18:58,003
+Capitão, pressão diminuindo.
+
+167
+00:18:58,796 --> 00:19:00,297
+O casco está avariado.
+
+168
+00:19:00,297 --> 00:19:03,259
+Pode ter rachadura
+na cabine do meio.
+
+169
+00:19:09,014 --> 00:19:11,767
+Ache um lugar para pousarmos.
+Agora!
+
+170
+00:19:16,397 --> 00:19:20,401
+Achei algo.
+Ângulo 340/95.
+
+171
+00:19:20,401 --> 00:19:22,445
+Alcance: 86.000.
+
+172
+00:19:40,337 --> 00:19:44,759
+<i>Atenção, este planeta não é
+adequado para humanos.</i>
+
+173
+00:19:44,800 --> 00:19:48,596
+<i>Foi declarado em quarentena pela
+Autoridade Interplanetária.</i>
+
+174
+00:19:48,804 --> 00:19:52,141
+<i>Sob consequências legais,
+não tente aterrissar.</i>
+
+175
+00:19:52,224 --> 00:19:55,978
+<i>Repito, não tente aterrissar.</i>
+
+176
+00:19:56,228 --> 00:19:58,439
+Não é possível.
+
+177
+00:20:01,150 --> 00:20:04,153
+Pode ter demarcado uma
+localização conhecida.
+
+178
+00:20:06,405 --> 00:20:10,201
+Não, aqui não.
+Viajaremos de novo.
+
+179
+00:20:10,493 --> 00:20:14,205
+Negativo, senhor. Esta nave vai
+parar a qualquer momento.
+
+180
+00:20:20,878 --> 00:20:22,922
+Pousaremos.
+
+181
+00:20:28,844 --> 00:20:32,348
+Mayday, aqui é Hespen 299.
+Enviando alerta de perigo.
+
+182
+00:20:32,515 --> 00:20:34,725
+Tivemos avaria com tempestade
+de asteróides
+
+183
+00:20:34,725 --> 00:20:37,186
+e desceremos com força limitada.
+
+184
+00:24:09,940 --> 00:24:14,320
+Você está bem?
+Consegue ficar em pé?
+
+185
+00:24:16,517 --> 00:24:18,352
+Avaliação.
+
+186
+00:24:21,897 --> 00:24:24,358
+Estou pronto.
+
+187
+00:24:24,733 --> 00:24:27,194
+Confirme que a ursa
+está presa.
+
+188
+00:24:27,194 --> 00:24:29,947
+A parte traseira da nave já era.
+
+189
+00:24:29,947 --> 00:24:33,117
+Rangers, apresentem-se.
+
+190
+00:24:33,701 --> 00:24:35,869
+Rangers, apresentem-se!
+
+191
+00:24:50,926 --> 00:24:54,972
+A cabine do piloto está
+bem acima de nós. Vá até lá!
+
+192
+00:24:58,225 --> 00:25:02,312
+<i>Atrás, à esquerda, tem
+um compartimento de utilidades.</i>
+
+193
+00:25:05,983 --> 00:25:10,154
+<i>Dentro, tem um sinalizador
+de emergência.</i>
+
+194
+00:25:11,363 --> 00:25:15,451
+<i>Prateado. Como uma espada.
+Traga-o para mim.</i>
+
+195
+00:25:51,653 --> 00:25:55,699
+Consolidar inventário.
+
+196
+00:26:25,087 --> 00:26:29,132
+General Cypher Raige.
+Diário da missão.
+
+197
+00:26:30,092 --> 00:26:32,594
+Dois sobreviventes confirmados.
+
+198
+00:26:53,657 --> 00:26:56,201
+Kitai...
+
+199
+00:26:57,161 --> 00:27:01,415
+o sinalizador era para enviar
+um SOS para o espaço,
+
+200
+00:27:01,832 --> 00:27:04,084
+mas está danificado.
+
+201
+00:27:04,084 --> 00:27:07,045
+Tem outro
+na cauda da nossa nave.
+
+202
+00:27:12,718 --> 00:27:14,970
+Aqui somos nós.
+
+203
+00:27:16,972 --> 00:27:21,602
+E aqui, a cauda em algum
+lugar nesta área.
+
+204
+00:27:22,144 --> 00:27:25,772
+Provavelmente, a
+100 Km daqui.
+
+205
+00:27:28,984 --> 00:27:31,820
+Mas precisamos dele.
+
+206
+00:27:35,782 --> 00:27:38,952
+Entende?
+
+207
+00:27:39,745 --> 00:27:43,373
+Minhas pernas estão quebradas,
+uma está bem ruim.
+
+208
+00:27:44,625 --> 00:27:47,836
+Buscará aquele sinalizador...
+
+209
+00:27:48,003 --> 00:27:50,672
+ou morreremos.
+
+210
+00:27:53,592 --> 00:27:56,470
+Entende o que digo?
+
+211
+00:27:56,845 --> 00:27:59,264
+Repita o que eu acabei
+de te dizer.
+
+212
+00:27:59,264 --> 00:28:02,601
+Tenho que buscar o sinalizador,
+
+213
+00:28:04,520 --> 00:28:07,314
+ou morreremos.
+
+214
+00:28:10,692 --> 00:28:13,695
+Aqui tem filtros de ar.
+
+215
+00:28:15,364 --> 00:28:17,366
+Pegue um.
+
+216
+00:28:17,366 --> 00:28:21,286
+O filtro revestirá seus pulmões,
+aumentando a extração de oxigênio.
+
+217
+00:28:21,370 --> 00:28:23,747
+Permitirá que respire mais fácil
+no ambiente.
+
+218
+00:28:24,790 --> 00:28:27,042
+Tem seis frascos.
+
+219
+00:28:28,126 --> 00:28:33,298
+Para você, deve durar de 20 a
+24 horas, é mais que o suficiente.
+
+220
+00:28:33,549 --> 00:28:36,885
+Seus salva vidas e a mochila...
+
+221
+00:28:36,885 --> 00:28:40,222
+são equipados com imagens
+virtual e digital,
+
+222
+00:28:40,222 --> 00:28:43,433
+então, poderei ver
+tudo o que você ver,
+
+223
+00:28:43,433 --> 00:28:47,479
+e o que não puder também.
+Vou te guiar.
+
+224
+00:28:47,813 --> 00:28:50,566
+Será como se estivesse
+com você.
+
+225
+00:28:53,235 --> 00:28:55,279
+Pegue minha arma.
+
+226
+00:28:56,113 --> 00:28:58,323
+É uma C-40.
+
+227
+00:28:58,699 --> 00:29:01,201
+Tem as 22 configurações.
+
+228
+00:29:01,201 --> 00:29:05,289
+Kitai, cada decisão sua
+
+229
+00:29:05,497 --> 00:29:08,542
+será de vida ou morte.
+
+230
+00:29:08,542 --> 00:29:11,920
+Este é um planeta grau 1
+de quarentena.
+
+231
+00:29:11,962 --> 00:29:15,966
+Tudo neste planeta evoluiu
+para matar humanos.
+
+232
+00:29:17,968 --> 00:29:20,637
+Sabe onde estamos?
+
+233
+00:29:21,221 --> 00:29:23,182
+Não, senhor.
+
+234
+00:29:24,808 --> 00:29:27,394
+Aqui é a Terra.
+
+235
+00:29:44,828 --> 00:29:48,123
+-E a ursa?
+-Três possibilidades.
+
+236
+00:29:48,123 --> 00:29:51,251
+1ª: mais provável que
+tenha morrido na queda.
+
+237
+00:29:51,460 --> 00:29:56,381
+2ª: menos provável, está na jaula
+em péssimas condições.
+
+238
+00:29:56,465 --> 00:30:00,427
+3ª: provavelmente não,
+pode estar lá fora.
+
+239
+00:30:00,427 --> 00:30:05,182
+Agiremos prevendo o pior.
+
+240
+00:30:05,390 --> 00:30:09,061
+Todo movimento será com o
+protocolo escapar e fugir.
+
+241
+00:30:10,437 --> 00:30:16,401
+Se estiver lá fora, a verei antes
+que chegue perto de você.
+
+242
+00:30:16,485 --> 00:30:19,863
+-Entendeu?
+-Sim, senhor.
+
+243
+00:30:19,863 --> 00:30:23,700
+Faça exatamente como
+estou dizendo...
+
+244
+00:30:24,827 --> 00:30:26,662
+e vamos sobreviver.
+
+245
+00:31:23,594 --> 00:31:26,430
+<i>Kitai, fique calmo.</i>
+
+246
+00:31:26,930 --> 00:31:29,474
+<i>Quero que se ajoelhe.</i>
+
+247
+00:31:31,310 --> 00:31:35,314
+<i>Concentre-se apenas
+no momento presente, no agora.</i>
+
+248
+00:31:35,647 --> 00:31:39,234
+<i>Visão, audição, olfato.</i>
+
+249
+00:31:39,234 --> 00:31:41,111
+<i>O que você sente?</i>
+
+250
+00:31:41,528 --> 00:31:44,531
+-Sinto o meu corpo mais pesado.
+-Muito bom.
+
+251
+00:31:44,656 --> 00:31:47,826
+<i>A força gravitacional da Terra
+é diferente da nossa.</i>
+
+252
+00:31:48,035 --> 00:31:50,037
+<i>Muito bom.</i>
+
+253
+00:31:50,037 --> 00:31:51,997
+<i>Vamos em frente.</i>
+
+254
+00:32:08,889 --> 00:32:10,307
+O que aconteceu?
+
+255
+00:32:12,184 --> 00:32:15,562
+-Você não viu?
+-Kitai, o que aconteceu?
+
+256
+00:32:19,608 --> 00:32:22,861
+Eu estou bem, sem alteração.
+Só escorreguei.
+
+257
+00:32:25,364 --> 00:32:29,535
+<i>Tem condensação nas rochas.
+Estou pronto para seguir.</i>
+
+258
+00:33:25,924 --> 00:33:31,054
+General Cypher Raige,
+iniciando reconhecimento remoto.
+
+259
+00:33:40,230 --> 00:33:42,316
+Alvo primário:
+
+260
+00:33:46,153 --> 00:33:48,155
+Ursa.
+
+261
+00:33:58,499 --> 00:34:01,376
+Eu quero lembrar que
+seu navegador de pulso
+
+262
+00:34:01,376 --> 00:34:03,128
+é nosso único
+meio de comunicação.
+
+263
+00:34:03,504 --> 00:34:05,005
+Entendido.
+
+264
+00:34:05,589 --> 00:34:09,384
+As temperaturas neste planeta
+variam perigosamente, Kitai.
+
+265
+00:34:09,801 --> 00:34:13,347
+E a maior parte do planeta congela
+quase que completo à noite.
+
+266
+00:34:14,348 --> 00:34:16,767
+Mas têm alguns pontos quentes.
+
+267
+00:34:17,142 --> 00:34:19,770
+Nódulos geotérmicos
+entre aqui e a cauda
+
+268
+00:34:19,770 --> 00:34:22,231
+vão manter você aquecido
+durante o congelamento.
+
+269
+00:34:23,649 --> 00:34:27,277
+Você tem que chegar a um
+desses pontos quentes
+
+270
+00:34:27,277 --> 00:34:29,071
+antes de cada anoitecer.
+
+271
+00:34:29,279 --> 00:34:31,156
+Você entendeu bem?
+
+272
+00:34:31,198 --> 00:34:32,741
+<i>Positivo.</i>
+
+273
+00:34:34,159 --> 00:34:36,036
+Siga o procedimento
+operacional padrão
+
+274
+00:34:36,036 --> 00:34:39,456
+até receber novas instruções.
+Fique alerta.
+
+275
+00:35:23,917 --> 00:35:26,003
+<i>Pai, está na escuta?</i>
+
+276
+00:35:29,381 --> 00:35:31,383
+<i>Oi, pai. Está na escuta?</i>
+
+277
+00:35:33,177 --> 00:35:34,970
+<i>Pai?</i>
+
+278
+00:35:35,137 --> 00:35:36,889
+<i>Está aí?</i>
+
+279
+00:35:37,890 --> 00:35:39,766
+<i>Alô?</i>
+
+280
+00:35:40,684 --> 00:35:44,646
+-Na escuta.
+-Eu ganhei de um garoto.
+
+281
+00:35:48,650 --> 00:35:51,778
+<i>É um livro de verdade.
+Do museu.</i>
+
+282
+00:35:52,279 --> 00:35:54,823
+<i>É Moby Dick.</i>
+
+283
+00:35:57,117 --> 00:35:59,036
+<i>Ele disse que
+eu posso ficar com ele.</i>
+
+284
+00:36:00,913 --> 00:36:02,998
+Ficar com ele, quem?
+
+285
+00:36:03,916 --> 00:36:06,001
+<i>Com o livro, pai.</i>
+
+286
+00:36:11,798 --> 00:36:14,760
+<i>Eles mataram as baleias?</i>
+
+287
+00:36:15,969 --> 00:36:19,264
+Nós, Senshi. Pelo óleo delas.
+
+288
+00:36:19,264 --> 00:36:21,225
+E elas quase desapareceram.
+
+289
+00:36:21,350 --> 00:36:23,644
+Pouco antes da era
+do combustível de carro.
+
+290
+00:36:23,644 --> 00:36:26,855
+-Cadê o seu irmão?
+-Kit.
+
+291
+00:36:29,024 --> 00:36:30,859
+Oi.
+
+292
+00:36:32,277 --> 00:36:33,946
+<i>Pai, está na escuta?</i>
+
+293
+00:36:41,453 --> 00:36:43,205
+Pode falar.
+
+294
+00:37:18,657 --> 00:37:20,742
+Cadê você?
+
+295
+00:37:56,945 --> 00:37:58,864
+Meu uniforme está preto.
+
+296
+00:37:59,239 --> 00:38:01,325
+Eu gostei,
+mas tem alguma coisa errada.
+
+297
+00:38:01,325 --> 00:38:03,327
+Seu uniforme é feito
+com tecido inteligente,
+
+298
+00:38:03,452 --> 00:38:05,120
+tem sensor de movimento.
+
+299
+00:38:05,662 --> 00:38:08,790
+Estou rastreando uma forma de
+vida vindo do oeste na sua direção.
+
+300
+00:38:09,208 --> 00:38:11,877
+Está se aproximando rápido.
+50 metros.
+
+301
+00:38:14,087 --> 00:38:15,672
+40...
+
+302
+00:38:16,089 --> 00:38:17,758
+30...
+
+303
+00:38:18,550 --> 00:38:19,968
+20...
+
+304
+00:38:20,302 --> 00:38:21,887
+10...
+
+305
+00:38:25,641 --> 00:38:28,227
+Já chegou aí, Kitai.
+
+306
+00:38:34,441 --> 00:38:36,652
+Não se mexa.
+
+307
+00:38:38,028 --> 00:38:40,239
+Quero que reconheça sua força.
+
+308
+00:38:40,531 --> 00:38:42,741
+Tem que controlar a situação.
+
+309
+00:38:46,912 --> 00:38:50,415
+Não ataque, cadete!
+
+310
+00:38:51,792 --> 00:38:53,877
+-Sai daqui!
+-Kitai!
+
+311
+00:38:55,337 --> 00:38:57,756
+Controle-se, cadete.
+
+312
+00:39:10,769 --> 00:39:13,438
+<i>Kitai!
+Não ataque!</i>
+
+313
+00:39:13,647 --> 00:39:15,107
+Vão embora!
+
+314
+00:39:16,441 --> 00:39:17,943
+Vão embora!
+
+315
+00:39:18,068 --> 00:39:19,862
+Kitai!
+
+316
+00:39:22,239 --> 00:39:25,033
+<i>Estão atrás de comida.</i>
+
+317
+00:39:29,037 --> 00:39:32,499
+Tem um rio 250 metros
+a sua frente, corre!
+
+318
+00:40:31,975 --> 00:40:34,144
+<i>Não estão mais perseguindo você.</i>
+
+319
+00:40:34,269 --> 00:40:36,730
+<i>Cadete, você não está
+mais sendo perseguido.</i>
+
+320
+00:40:36,813 --> 00:40:39,399
+<i>Repetindo, você não está
+mais sendo perseguido.</i>
+
+321
+00:40:40,400 --> 00:40:42,736
+<i>Kitai, você está fugindo de nada!</i>
+
+322
+00:40:44,655 --> 00:40:46,031
+<i>Kitai!</i>
+
+323
+00:40:52,913 --> 00:40:55,999
+<i>Kitai, abaixe
+a minha lança agora mesmo,</i>
+
+324
+00:40:56,083 --> 00:40:58,377
+<i>você não está sendo perseguido.
+Ajoelhe-se.</i>
+
+325
+00:41:00,295 --> 00:41:02,589
+<i>Ajoelhe-se, cadete.</i>
+
+326
+00:41:07,553 --> 00:41:09,763
+Se você quiser morrer hoje,
+tudo bem.
+
+327
+00:41:09,847 --> 00:41:11,723
+Mas você não vai me matar.
+
+328
+00:41:20,232 --> 00:41:23,318
+Kitai, eu quero
+que faça uma avaliação física.
+
+329
+00:41:23,318 --> 00:41:25,529
+Está apresentando
+contaminação sanguínea rápida.
+
+330
+00:41:25,654 --> 00:41:27,239
+Você se cortou?
+
+331
+00:41:27,531 --> 00:41:29,116
+Eu estou tonto.
+
+332
+00:41:29,116 --> 00:41:31,326
+<i>Kitai, avaliação.</i>
+
+333
+00:41:51,096 --> 00:41:53,390
+Pai, eu não estou aguentando.
+
+334
+00:41:53,390 --> 00:41:54,766
+Abra o seu kit médico.
+
+335
+00:41:54,766 --> 00:41:58,061
+Você vai ter que aplicar
+a antitoxina logo a seguir.
+
+336
+00:41:58,061 --> 00:42:01,064
+Você vai ter que injetar
+líquido claro primeiro.
+
+337
+00:42:01,064 --> 00:42:02,524
+Faça isso agora.
+
+338
+00:42:09,573 --> 00:42:11,074
+Eu não estou vendo.
+
+339
+00:42:11,074 --> 00:42:14,328
+<i>A toxina está afetando o seu
+sistema nervoso. Fique calmo.</i>
+
+340
+00:42:15,120 --> 00:42:17,331
+Pai, vem me ajudar,
+eu não estou enxergando.
+
+341
+00:42:18,040 --> 00:42:21,251
+Eu não vou conseguir sozinho,
+por favor, vem me buscar.
+
+342
+00:42:21,335 --> 00:42:24,213
+Kitai, eu quero que
+injete o primeiro estágio
+
+343
+00:42:24,213 --> 00:42:25,631
+diretamente no seu coração.
+
+344
+00:42:25,923 --> 00:42:27,549
+<i>Faça isso agora.</i>
+
+345
+00:42:41,605 --> 00:42:43,857
+O segundo estágio, agora.
+
+346
+00:42:49,488 --> 00:42:52,282
+A sua esquerda, Kitai.
+Esquerda.
+
+347
+00:42:52,574 --> 00:42:55,285
+Eu não estou sentindo minhas
+mãos, eu não estou sentindo.
+
+348
+00:42:55,702 --> 00:42:57,454
+Pressione contra o chão.
+
+349
+00:43:00,582 --> 00:43:03,836
+Se jogue.
+Pressione contra o chão, Kitai.
+
+350
+00:43:23,814 --> 00:43:25,941
+Bom trabalho, cadete.
+
+351
+00:43:32,322 --> 00:43:36,285
+Mas vai ter que ficar
+aí deitado por um tempo.
+
+352
+00:43:39,997 --> 00:43:44,710
+O parasita que atacou você
+tem um agente paralisante,
+
+353
+00:43:44,960 --> 00:43:46,378
+um veneno.
+
+354
+00:43:47,504 --> 00:43:50,966
+Por isso você vai ficar
+deitado aí, um tempinho,
+
+355
+00:43:52,676 --> 00:43:55,262
+enquanto a antitoxina faz efeito.
+
+356
+00:44:11,987 --> 00:44:14,156
+Hora de acordar.
+
+357
+00:44:15,866 --> 00:44:20,954
+<i>Filho, a temperatura está
+caindo 5 graus a cada 10 minutos.</i>
+
+358
+00:44:21,038 --> 00:44:23,540
+<i>Você tem que acordar agora.</i>
+
+359
+00:44:26,418 --> 00:44:29,004
+Consegue piscar os olhos?
+
+360
+00:44:33,884 --> 00:44:35,761
+Filho...
+
+361
+00:44:36,595 --> 00:44:40,891
+eu estou pedindo,
+por favor, pisque os olhos.
+
+362
+00:44:58,700 --> 00:45:01,787
+-Oi, pai.
+-Oi.
+
+363
+00:45:05,582 --> 00:45:08,544
+-Foi horrível.
+-Tem toda razão.
+
+364
+00:45:10,379 --> 00:45:13,841
+Faltam 9.700 km
+até o ponto quente.
+
+365
+00:45:13,841 --> 00:45:17,427
+Eu quero que corra
+10 km em 50 minutos, cadete.
+
+366
+00:45:18,011 --> 00:45:19,638
+Sim, senhor.
+
+367
+00:45:26,687 --> 00:45:28,981
+10 minutos, tudo bem.
+
+368
+00:45:30,774 --> 00:45:33,735
+DESVIE O ARTERIAL NECESSÁRIO
+
+369
+00:45:59,803 --> 00:46:04,141
+Quem não foi promovida a Ranger?
+Quem? Olha ele aí! Olha ele aí!
+
+370
+00:46:05,350 --> 00:46:07,019
+<i>5 minutos.</i>
+
+371
+00:46:10,939 --> 00:46:12,482
+<i>Sejam bons pilotos.</i>
+
+372
+00:46:13,025 --> 00:46:15,736
+<i>Parabéns pelos 19 anos, Senshi.</i>
+
+373
+00:46:18,530 --> 00:46:20,407
+<i>Pai, me ajuda.</i>
+
+374
+00:46:21,525 --> 00:46:24,820
+Não, Senshi, isso é com você.
+Pode soprar.
+
+375
+00:46:25,445 --> 00:46:28,407
+-Por favor, pai, sopra.
+-Não.
+
+376
+00:46:28,407 --> 00:46:31,243
+Você sabe que não tem jeito
+de eu fazer isso daqui.
+
+377
+00:46:31,284 --> 00:46:33,245
+<i>Não, pode soprar sim.</i>
+
+378
+00:46:35,831 --> 00:46:39,084
+Faia, você está aí.
+Ajude a menina.
+
+379
+00:46:40,001 --> 00:46:41,586
+<i>Você consegue.</i>
+
+380
+00:46:43,463 --> 00:46:45,048
+<i>Eu sei que consegue.</i>
+
+381
+00:47:07,270 --> 00:47:09,731
+Cheguei ao ponto quente 1.
+
+382
+00:47:10,440 --> 00:47:13,026
+Andar mais 54 minutos.
+
+383
+00:47:15,019 --> 00:47:18,898
+Checar equipamento e consolidar.
+
+384
+00:47:20,024 --> 00:47:22,235
+Tem outro inalador.
+
+385
+00:47:35,373 --> 00:47:39,794
+É, sua extração de oxigênio
+está muito baixa.
+
+386
+00:47:47,677 --> 00:47:50,388
+Pegue outro fluido de respiração.
+
+387
+00:48:00,940 --> 00:48:03,735
+<i>Segunda dose do fluido
+de respiração ingerido.</i>
+
+388
+00:48:06,654 --> 00:48:08,615
+Conte quantas restam.
+
+389
+00:48:11,910 --> 00:48:14,245
+<i>Restam 4 frascos, senhor.</i>
+
+390
+00:48:19,626 --> 00:48:21,711
+Repita.
+
+391
+00:48:33,598 --> 00:48:35,183
+4 frascos, senhor.
+
+392
+00:48:49,948 --> 00:48:53,952
+Pai?
+Pai?
+
+393
+00:48:57,247 --> 00:48:59,290
+Na escuta.
+
+394
+00:49:00,959 --> 00:49:03,086
+Como conseguiu?
+
+395
+00:49:04,507 --> 00:49:07,135
+Como se tornou fantasma?
+
+396
+00:49:08,136 --> 00:49:13,016
+Eu saí para correr... sozinho.
+
+397
+00:49:14,017 --> 00:49:17,020
+Uma coisa que
+nunca devemos fazer.
+
+398
+00:49:18,479 --> 00:49:22,900
+Uma ursa saiu da camuflagem
+bem na minha frente.
+
+399
+00:49:23,943 --> 00:49:26,446
+Eu peguei a minha lança,
+
+400
+00:49:27,155 --> 00:49:31,826
+ela travou as garras
+direto no meu ombro,
+
+401
+00:49:33,661 --> 00:49:36,372
+depois só lembro que
+estávamos no penhasco,
+
+402
+00:49:36,456 --> 00:49:38,458
+caindo,
+
+403
+00:49:39,334 --> 00:49:43,922
+30 metros de queda até o rio,
+
+404
+00:49:47,550 --> 00:49:50,845
+nós fomos até o fundo,
+
+405
+00:49:52,263 --> 00:49:54,641
+a ursa por cima de mim,
+
+406
+00:49:57,852 --> 00:50:00,229
+mas não estava se mexendo,
+
+407
+00:50:02,440 --> 00:50:08,404
+e eu percebi... que estava
+tentando me afogar,
+
+408
+00:50:11,991 --> 00:50:14,953
+eu pensei, eu vou morrer.
+
+409
+00:50:16,287 --> 00:50:18,581
+Eu vou morrer,
+
+410
+00:50:18,665 --> 00:50:22,043
+não acredito que é assim
+que eu vou morrer.
+
+411
+00:50:25,171 --> 00:50:27,882
+Eu vi o meu sangue
+subindo nas folhas,
+
+412
+00:50:27,882 --> 00:50:30,385
+misturado com a luz do sol,
+
+413
+00:50:30,802 --> 00:50:33,179
+e brilhava através da água.
+
+414
+00:50:36,182 --> 00:50:38,643
+Eu pensei, caramba,
+
+415
+00:50:40,979 --> 00:50:43,356
+isso é muito bonito.
+
+416
+00:50:46,234 --> 00:50:48,861
+E tudo passou a ficar lento.
+
+417
+00:50:52,657 --> 00:50:55,493
+Eu vi aquela garra
+no meu ombro,
+
+418
+00:50:58,496 --> 00:51:04,085
+e decidi que não queria mais
+aquilo em mim,
+
+419
+00:51:05,545 --> 00:51:08,423
+aí eu arranquei,
+
+420
+00:51:10,925 --> 00:51:13,136
+e a ursa me soltou,
+
+421
+00:51:14,512 --> 00:51:17,223
+e muito mais do que isso,
+
+422
+00:51:18,474 --> 00:51:20,810
+ela não conseguia me achar.
+
+423
+00:51:21,894 --> 00:51:24,564
+Não sabia nem para onde olhar,
+
+424
+00:51:28,568 --> 00:51:30,987
+foi então que eu me toquei,
+
+425
+00:51:33,281 --> 00:51:37,410
+o medo não é real.
+
+426
+00:51:39,203 --> 00:51:42,624
+O único lugar
+onde o medo pode existir
+
+427
+00:51:42,624 --> 00:51:46,419
+é em nossos pensamentos
+sobre o futuro.
+
+428
+00:51:46,794 --> 00:51:50,465
+É um produto
+da nossa imaginação
+
+429
+00:51:50,465 --> 00:51:54,052
+que faz com que tenhamos medo de
+coisas que não existem no presente
+
+430
+00:51:54,052 --> 00:51:57,263
+e que talvez
+nunca cheguem a existir.
+
+431
+00:51:58,598 --> 00:52:01,392
+Isso é quase uma loucura, Kitai.
+
+432
+00:52:01,809 --> 00:52:04,020
+Eu não quero que você
+me entenda errado.
+
+433
+00:52:04,145 --> 00:52:09,400
+O perigo existe de verdade,
+mas o medo é uma escolha.
+
+434
+00:52:14,322 --> 00:52:17,909
+Somos nós que escrevemos
+a nossa história
+
+435
+00:52:18,451 --> 00:52:21,621
+e daquele dia a minha mudou.
+
+436
+00:52:36,511 --> 00:52:39,305
+<i>14 km até as cataratas.</i>
+
+437
+00:52:39,389 --> 00:52:42,558
+<i>É o objetivo do meio-dia.</i>
+
+438
+00:52:42,767 --> 00:52:44,310
+Entendido.
+
+439
+00:52:44,811 --> 00:52:47,021
+CONDIÇÃO CRÍTICA
+MAU FUNCIONAMENTO DO BYPASS
+
+440
+00:52:58,741 --> 00:53:02,787
+<i>Kitai, vá para
+as cataratas imediatamente.</i>
+
+441
+00:53:15,550 --> 00:53:18,011
+ANÁLISE DE SINAL DE URSA
+
+442
+00:53:18,344 --> 00:53:20,138
+POSSÍVEL SINAL CORRESPONDENTE
+
+443
+00:53:25,143 --> 00:53:27,687
+Ouvi alguma coisa.
+Acho que é a água.
+
+444
+00:53:27,812 --> 00:53:29,439
+Muita água.
+
+445
+00:54:11,856 --> 00:54:13,608
+<i>Inventário.</i>
+
+446
+00:54:21,658 --> 00:54:23,117
+Entendido.
+
+447
+00:54:23,117 --> 00:54:26,371
+Rações metade disponível,
+sinalizadores todos,
+
+448
+00:54:26,371 --> 00:54:27,914
+kit médico metade disponível.
+
+449
+00:54:28,164 --> 00:54:30,458
+Fluido de respiração...
+
+450
+00:54:31,960 --> 00:54:34,921
+Fluido de respiração,
+quatro frascos.
+
+451
+00:54:40,885 --> 00:54:43,012
+Por que não está
+mostrando o estojo?
+
+452
+00:54:43,137 --> 00:54:44,555
+O quê?
+
+453
+00:54:46,349 --> 00:54:48,977
+Mostre o estojo para mim.
+
+454
+00:55:06,703 --> 00:55:09,789
+Achei que eu ia conseguir, senhor.
+
+455
+00:55:16,170 --> 00:55:22,093
+ANÁLISE DE MELHOR ROTA
+CAMINHO POR TERRA
+
+456
+00:55:26,431 --> 00:55:29,517
+SKY JUMP
+
+457
+00:55:32,895 --> 00:55:35,815
+ÚNICA ROTA DE SOBREVIVÊNCIA
+
+458
+00:55:57,837 --> 00:56:01,633
+Abortar a missão.
+
+459
+00:56:01,799 --> 00:56:04,260
+Retorne a nave.
+
+460
+00:56:04,260 --> 00:56:06,638
+É uma ordem.
+
+461
+00:56:06,804 --> 00:56:10,475
+<i>Não sai daí...
+por nada.</i>
+
+462
+00:56:11,476 --> 00:56:13,186
+<i>É uma ordem.</i>
+
+463
+00:56:28,242 --> 00:56:31,496
+Não pai, mas eu consigo.
+
+464
+00:56:31,704 --> 00:56:34,332
+Eu não preciso de muito.
+Eu atravesso com dois.
+
+465
+00:56:34,415 --> 00:56:38,836
+Tem que ter no mínimo... três
+inaladores para chegar à cauda.
+
+466
+00:56:38,962 --> 00:56:41,214
+Você vai esgotar
+os seus recursos.
+
+467
+00:56:41,214 --> 00:56:44,133
+Eu vou atravessar,
+eu consigo isso com dois, pai.
+
+468
+00:56:44,259 --> 00:56:47,679
+Esta missão terminou,
+nós temos que abortá-la.
+
+469
+00:56:47,679 --> 00:56:49,973
+<i>Eu assumo total responsabilidade.</i>
+
+470
+00:56:50,515 --> 00:56:53,559
+Fez o melhor que podia.
+Não tem mais nada a provar.
+
+471
+00:56:53,559 --> 00:56:55,937
+Volte para a nave.
+
+472
+00:56:58,022 --> 00:57:01,651
+Qual foi o seu erro?
+Confiar em mim?
+
+473
+00:57:02,151 --> 00:57:05,071
+Depender de mim,
+achar que eu conseguiria?
+
+474
+00:57:05,071 --> 00:57:08,283
+Eu estou dando a você
+uma ordem...
+
+475
+00:57:09,158 --> 00:57:11,244
+dê meia volta
+
+476
+00:57:11,661 --> 00:57:14,372
+e retorne para a nave.
+
+477
+00:57:16,457 --> 00:57:18,960
+Você não daria essa ordem
+a nenhum outro Ranger.
+
+478
+00:57:19,043 --> 00:57:21,129
+Você não é um Ranger...
+
+479
+00:57:21,879 --> 00:57:25,633
+e eu estou dando a você
+essa ordem.
+
+480
+00:57:35,476 --> 00:57:38,688
+O que esperava que eu fizesse?
+
+481
+00:57:39,522 --> 00:57:42,483
+O que você queria
+que eu fizesse?
+
+482
+00:57:42,984 --> 00:57:44,402
+Ela me deu uma ordem.
+
+483
+00:57:44,527 --> 00:57:47,238
+Ela disse para eu não
+sair daquela caixa por nada.
+
+484
+00:57:49,991 --> 00:57:53,161
+Era para eu
+sair de lá e morrer?
+
+485
+00:57:53,328 --> 00:57:56,080
+O que você acha, cadete?
+
+486
+00:57:57,290 --> 00:58:01,294
+O que acha que devia ter feito?
+Porque isso realmente importa.
+
+487
+00:58:01,294 --> 00:58:03,880
+O que você acha
+que devia ter feito?
+
+488
+00:58:06,633 --> 00:58:08,593
+E onde você estava?
+
+489
+00:58:08,593 --> 00:58:11,054
+Ela chamou você.
+Ela gritou o seu nome!
+
+490
+00:58:11,054 --> 00:58:14,349
+E você não estava lá,
+você nunca estava lá.
+
+491
+00:58:15,141 --> 00:58:18,102
+E você acha
+que eu sou medroso?
+
+492
+00:58:20,355 --> 00:58:24,484
+Se enganou.
+Eu não sou medroso.
+
+493
+00:58:25,151 --> 00:58:27,779
+Você é medroso.
+
+494
+00:58:29,322 --> 00:58:31,574
+Eu não sou medroso.
+
+495
+00:58:33,076 --> 00:58:35,495
+Kitai!
+
+496
+00:58:48,258 --> 00:58:51,010
+Kitai, inimigo se aproximando.
+
+497
+00:58:51,803 --> 00:58:54,222
+Você escutou, Kitai?
+Inimigo se aproximando.
+
+498
+00:59:09,862 --> 00:59:11,531
+Kitai, mergulha!
+
+499
+00:59:12,282 --> 00:59:13,700
+Mergulha!
+
+500
+00:59:38,433 --> 00:59:40,143
+Kitai!
+
+501
+01:00:53,800 --> 01:00:55,426
+Sai daqui!
+
+502
+01:02:02,952 --> 01:02:05,872
+Pai, me desculpe, é o Kitai.
+
+503
+01:02:18,593 --> 01:02:21,012
+Onde está o meu filho?
+
+504
+01:02:32,565 --> 01:02:36,361
+SINAL DA URSA DETECTADO
+
+505
+01:04:11,581 --> 01:04:14,667
+General Cypher Raige.
+
+506
+01:04:15,752 --> 01:04:19,130
+Essa mensagem é
+para minha esposa.
+
+507
+01:04:21,549 --> 01:04:23,384
+Faia...
+
+508
+01:04:25,511 --> 01:04:28,556
+Eu perdi contato
+com o nosso filho.
+
+509
+01:04:35,021 --> 01:04:36,481
+Fim da mensagem.
+
+510
+01:04:39,108 --> 01:04:40,652
+<i>Você têm seis frascos,</i>
+
+511
+01:04:40,735 --> 01:04:43,363
+<i>com o seu peso deve render
+de 20 a 24 horas cada um.,</i>
+
+512
+01:04:43,363 --> 01:04:45,156
+<i>é mais que o suficiente.</i>
+
+513
+01:04:46,282 --> 01:04:48,785
+<i>Eu estimo quatro dias
+até você chegar até a cauda.</i>
+
+514
+01:04:48,993 --> 01:04:50,536
+<i>Vamos dividir em setores.</i>
+
+515
+01:04:50,536 --> 01:04:53,414
+<i>Você têm seis horas para chegar
+ao primeiro ponto geotérmico.</i>
+
+516
+01:04:53,414 --> 01:04:56,334
+<i>O primeiro setor, 20 km
+até a entrada da floresta norte.</i>
+
+517
+01:04:56,501 --> 01:04:57,919
+<i>-Eu estou aqui.
+-5 minutos.</i>
+
+518
+01:04:58,127 --> 01:04:59,796
+<i>-Continue andando.
+-Cheguei ao ponto quente 1.</i>
+
+519
+01:04:59,796 --> 01:05:01,547
+<i>Use outro inalador.</i>
+
+520
+01:05:01,756 --> 01:05:03,675
+<i>Andar mais 54 minutos.</i>
+
+521
+01:05:03,800 --> 01:05:07,512
+<i>Isso está entalhado.
+É provável que seja uma catarata.</i>
+
+522
+01:05:07,512 --> 01:05:09,013
+<i>Vamos chamar
+de ponto mediano.</i>
+
+523
+01:05:09,013 --> 01:05:12,058
+-Eu vou atravessar. Eu atravesso...
+-14 Km até as cataratas.
+
+524
+01:05:12,141 --> 01:05:14,352
+<i>Estamos aqui e essa...</i>
+
+525
+01:05:15,228 --> 01:05:17,230
+<i>é a cauda.</i>
+
+526
+01:05:17,522 --> 01:05:19,983
+<i>Você vai recuperar
+o sinalizador...</i>
+
+527
+01:05:20,525 --> 01:05:23,236
+<i>senão vamos morrer.</i>
+
+528
+01:06:00,523 --> 01:06:03,067
+Me deixe em paz!
+
+529
+01:08:00,893 --> 01:08:02,562
+<i>Acorda.</i>
+
+530
+01:08:03,771 --> 01:08:06,024
+<i>Está na hora de acordar.</i>
+
+531
+01:08:13,698 --> 01:08:16,909
+<i>-Oi.
+-Oi.</i>
+
+532
+01:08:19,162 --> 01:08:22,081
+Eu quis sair da caixa naquele dia.
+
+533
+01:08:22,498 --> 01:08:24,417
+<i>Não ia não.</i>
+
+534
+01:08:26,336 --> 01:08:28,296
+<i>Mas você fez o que é certo.</i>
+
+535
+01:08:28,963 --> 01:08:31,549
+Meu pai disse
+que eu devia ter tentado.
+
+536
+01:08:32,050 --> 01:08:35,094
+<i>Ele está chateado
+com ele mesmo, só isso.</i>
+
+537
+01:08:41,517 --> 01:08:44,103
+Mas não tinha
+dom de fantasma?
+
+538
+01:08:51,069 --> 01:08:55,198
+<i>-Você vai conseguir agora.
+-Eu vou?</i>
+
+539
+01:08:56,866 --> 01:08:59,869
+<i>-Está com medo?
+-Não.</i>
+
+540
+01:08:59,869 --> 01:09:01,955
+Cansado.
+
+541
+01:09:03,623 --> 01:09:05,416
+<i>Isso é bom.</i>
+
+542
+01:09:06,793 --> 01:09:09,254
+<i>Assim tem outra coisa
+para pensar.</i>
+
+543
+01:09:10,755 --> 01:09:12,548
+<i>Tem que levantar agora.</i>
+
+544
+01:09:12,799 --> 01:09:14,509
+<i>Eu decorei
+um trecho de Moby Dick.</i>
+
+545
+01:09:14,550 --> 01:09:17,011
+<i>-Kitai, levanta.
+-Todas aquelas loucuras...</i>
+
+546
+01:09:17,053 --> 01:09:19,138
+<i>-Kitai, acorda!
+-Todos histéricos.</i>
+
+547
+01:09:19,430 --> 01:09:21,599
+<i>-Acorda! Está na hora de acordar.
+-Não deram ouvidos.</i>
+
+548
+01:09:21,641 --> 01:09:23,351
+<i>-Kitai.
+-...Todos perdem o controle...</i>
+
+549
+01:09:23,351 --> 01:09:24,894
+<i>Acorda!</i>
+
+550
+01:09:34,570 --> 01:09:36,698
+Droga.
+
+551
+01:12:02,702 --> 01:12:05,747
+Oi, obrigado.
+
+552
+01:15:31,284 --> 01:15:33,384
+Não.
+
+553
+01:16:11,785 --> 01:16:13,411
+Pai?
+
+554
+01:16:17,666 --> 01:16:21,419
+<i>Pai... Kitai...
+cheguei...</i>
+
+555
+01:16:23,838 --> 01:16:25,257
+Kitai.
+
+556
+01:16:25,257 --> 01:16:27,884
+<i>Pai, cheguei até a cauda.
+Está na escuta?</i>
+
+557
+01:16:31,638 --> 01:16:33,598
+Kitai, eu estou aqui.
+
+558
+01:16:34,099 --> 01:16:37,143
+<i>-Está tudo bem?
+-Pai, você está me ouvindo?</i>
+
+559
+01:16:39,479 --> 01:16:41,273
+Estou ouvindo.
+
+560
+01:16:41,982 --> 01:16:45,068
+<i>Pai, cheguei até a cauda.
+Está na escuta?</i>
+
+561
+01:16:45,068 --> 01:16:47,862
+Kitai, temos uma
+interferência elétrica.
+
+562
+01:16:48,071 --> 01:16:49,781
+Você está numa zona negra.
+
+563
+01:16:49,781 --> 01:16:52,158
+Eu repito,
+você está numa zona negra...
+
+564
+01:16:53,660 --> 01:16:58,039
+Pai, a ursa não está presa
+na jaula. Você está na escuta?
+
+565
+01:17:10,640 --> 01:17:12,140
+-Pai?
+
+566
+01:17:12,141 --> 01:17:14,141
+Estou aqui.
+
+567
+01:17:15,140 --> 01:17:17,976
+Eu juro que eu estou aqui.
+
+568
+01:17:18,768 --> 01:17:20,353
+ESCANEANDO
+
+569
+01:17:24,649 --> 01:17:26,860
+INTERFERÊNCIA DE SINAL
+
+570
+01:18:00,977 --> 01:18:03,563
+Se ajoelha.
+
+571
+01:18:16,376 --> 01:18:19,295
+É a camada iônica.
+
+572
+01:18:20,171 --> 01:18:22,715
+Na atmosfera
+acima da sua posição atual...
+
+573
+01:18:22,799 --> 01:18:24,634
+está provocando
+interferência elétrica
+
+574
+01:18:24,676 --> 01:18:28,012
+por isso o sinalizador
+não está funcionando.
+
+575
+01:18:38,022 --> 01:18:41,651
+Vá para o norte, no pico.
+
+576
+01:18:41,985 --> 01:18:46,614
+Tem que disparar o sinalizador
+do pico daquela montanha.
+
+577
+01:18:55,206 --> 01:18:58,042
+Veja, Kitai!
+
+578
+01:19:00,461 --> 01:19:04,340
+Por favor, veja.
+
+579
+01:19:18,813 --> 01:19:24,485
+Bom garoto!
+Bom garoto!
+
+580
+01:19:43,504 --> 01:19:46,633
+É para ativar os feromônios.
+
+581
+01:19:46,925 --> 01:19:51,721
+Colocou aí para assustar você.
+Para localizar você.
+
+582
+01:19:51,888 --> 01:19:53,890
+Continue andando.
+
+583
+01:20:14,827 --> 01:20:17,121
+Ela encontrou você.
+
+584
+01:21:09,632 --> 01:21:11,134
+Corre.
+
+585
+01:21:11,676 --> 01:21:13,845
+É só correr, Kitai.
+
+586
+01:21:14,554 --> 01:21:16,306
+É só correr.
+
+587
+01:23:04,956 --> 01:23:06,416
+MAU FUNCIONAMENTO DO BYPASS
+
+588
+01:23:06,416 --> 01:23:08,668
+BYPASS FALHOU
+TRANSPORTE IMEDIATAMENTE
+
+589
+01:25:01,489 --> 01:25:03,491
+ESCANEANDO
+
+590
+01:25:07,585 --> 01:25:10,162
+SINAL LOCALIZADO
+
+591
+01:25:49,104 --> 01:25:51,106
+<i>Vem, sobe aqui.</i>
+
+592
+01:25:51,523 --> 01:25:53,400
+<i>Não vai atrás de você.</i>
+
+593
+01:25:57,688 --> 01:26:00,316
+Pai!
+
+594
+01:26:18,834 --> 01:26:22,838
+<i>Concentre-se apenas
+no momento presente, no agora.</i>
+
+595
+01:26:23,672 --> 01:26:26,842
+<i>Visão, audição, olfato.</i>
+
+596
+01:26:27,593 --> 01:26:29,678
+<i>O que você sente.</i>
+
+597
+01:26:41,799 --> 01:26:44,343
+Você ainda está naquela caixa.
+
+598
+01:26:44,593 --> 01:26:46,387
+Está na hora de sair.
+
+599
+01:30:35,807 --> 01:30:38,560
+-Me ajude a levantar.
+-General!
+
+600
+01:30:39,019 --> 01:30:42,564
+Eu disse para
+me levantar.
+
+601
+01:31:19,885 --> 01:31:21,553
+Pai...
+
+602
+01:31:23,981 --> 01:31:26,316
+O que é?
+
+603
+01:31:27,601 --> 01:31:29,728
+Eu quero trabalhar
+com a minha mamãe.
+
+604
+01:31:33,565 --> 01:31:35,358
+Eu também.
+
+605
+01:32:08,475 --> 01:32:12,103
+Tradução:
+Virtualnet e lilicca.
+
