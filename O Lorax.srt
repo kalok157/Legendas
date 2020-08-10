@@ -1,0 +1,4834 @@
+1
+00:00:48,700 --> 00:00:51,850
+Olá a todos!
+Obrigado por virem!
+
+2
+00:00:52,853 --> 00:00:54,784
+Sou o Lorax!
+
+3
+00:00:54,785 --> 00:00:56,858
+Eu falo pelas árvores!
+
+4
+00:00:56,859 --> 00:00:59,862
+E gostaria de falar algumas
+palavras se me permitirem.
+
+5
+00:00:59,863 --> 00:01:02,698
+A história que estão
+prestes a saber.
+
+6
+00:01:02,699 --> 00:01:05,689
+Aconteceu de verdade,
+eu a presenciei.
+
+7
+00:01:05,690 --> 00:01:08,969
+Mas há mais sobre esta história
+do que está nesta folha.
+
+8
+00:01:08,970 --> 00:01:11,173
+Então, por favor,
+prestem atenção,
+
+9
+00:01:11,174 --> 00:01:13,312
+enquanto preparo o palco.
+
+10
+00:01:13,313 --> 00:01:15,322
+<i>Começamos em Sneedville</i>.
+
+11
+00:01:15,323 --> 00:01:18,832
+<i>Uma cidade que dizem
+que foi feita de plástico</i>.
+
+12
+00:01:18,833 --> 00:01:20,818
+<i>E eles gostavam
+mesmo assim</i>.
+
+13
+00:01:20,819 --> 00:01:24,908
+<i>Uma cidade sem natureza.
+Sem nenhuma árvore viva</i>.
+
+14
+00:01:24,909 --> 00:01:26,706
+<i>O que houve com elas?</i>
+
+15
+00:01:26,707 --> 00:01:28,150
+<i>Toquem a música!</i>
+
+16
+00:01:28,151 --> 00:01:30,252
+<i>Vamos ver</i>.
+
+17
+00:01:39,415 --> 00:01:41,396
+REVOLTZ TEAM e whey
+apresentam...
+
+18
+00:01:41,397 --> 00:01:45,404
+O Lorax:
+Em Busca da Trúfula Perdida
+
+19
+00:01:45,405 --> 00:01:47,470
+Uma Revolta
+Pela Última Trúfula!
+
+20
+00:01:47,471 --> 00:01:49,555
+Tradução:
+Ygraine | IvanHalen | whey
+
+21
+00:01:49,556 --> 00:01:51,119
+Revisão:
+whey | daewolz
+
+22
+00:01:51,120 --> 00:01:53,381
+wheyltv@gmail.com
+revoltzteam@gmail.com
+
+23
+00:01:53,382 --> 00:01:54,769
+@wheyltv
+@revoltzT
+
+24
+00:02:04,282 --> 00:02:05,781
+<i>Em Sneedville</i>
+
+25
+00:02:05,782 --> 00:02:10,883
+<i>É um novo amanhecer</i>
+
+26
+00:02:10,885 --> 00:02:15,094
+<i>Com carros novos
+e casas e gramados</i>
+
+27
+00:02:15,095 --> 00:02:18,446
+<i>Aqui temos tudo
+que precisamos</i>
+
+28
+00:02:18,447 --> 00:02:20,273
+<i>Em Sneedville</i>
+
+29
+00:02:20,274 --> 00:02:25,616
+<i>Fabricamos nossas árvores</i>
+
+30
+00:02:25,617 --> 00:02:30,420
+<i>Todas são feitas
+nas fábricas</i>
+
+31
+00:02:30,421 --> 00:02:33,715
+<i>Usamos 96 baterias!</i>
+
+32
+00:02:33,716 --> 00:02:35,604
+<i>Em Sneedville</i>
+
+33
+00:02:35,605 --> 00:02:40,656
+<i>O ar não é tão limpo</i>
+
+34
+00:02:40,657 --> 00:02:42,829
+<i>Então compramos ar fresco</i>
+
+35
+00:02:42,830 --> 00:02:45,142
+<i>Que sai desta máquina</i>
+
+36
+00:02:45,143 --> 00:02:48,657
+<i>É satisfação garantida</i>
+
+37
+00:02:48,658 --> 00:02:50,194
+<i>Em Sneedville</i>
+
+38
+00:02:50,195 --> 00:02:55,562
+<i>Não precisamos saber</i>
+
+39
+00:02:55,563 --> 00:02:59,915
+<i>Onde o lixo
+e os produtos químicos vão</i>
+
+40
+00:02:59,916 --> 00:03:04,243
+<i>Eu nadei e agora
+estou brilhando</i>
+
+41
+00:03:04,244 --> 00:03:07,732
+<i>Em Sneedville
+nos divertimos o ano todo</i>
+
+42
+00:03:07,733 --> 00:03:11,368
+<i>Surfamos e esquiamos
+bem na cidade</i>
+
+43
+00:03:11,369 --> 00:03:15,411
+<i>Agradecemos a Deus
+por tudo que temos</i>
+
+44
+00:03:15,412 --> 00:03:18,886
+<i>Incluindo este novo
+estacionamento</i>
+
+45
+00:03:18,887 --> 00:03:22,658
+<i>Estacionamento</i>
+
+46
+00:03:22,659 --> 00:03:26,789
+<i>Estacionamento</i>
+
+47
+00:03:29,264 --> 00:03:32,191
+<i>Olhe, é o Aloísio O'Hare</i>
+
+48
+00:03:32,192 --> 00:03:35,496
+<i>Olhe,
+é o Aloísio O'Hare</i>
+
+49
+00:03:35,951 --> 00:03:40,600
+<i>O homem que achou um jeito
+de comercializar o ar</i>
+
+50
+00:03:40,601 --> 00:03:43,330
+<i>E tornou-se um zilionário</i>
+
+51
+00:03:43,331 --> 00:03:44,750
+AR O'HARE
+
+52
+00:03:46,634 --> 00:03:50,915
+<i>Em Sneedville
+nós gostamos de viver assim</i>
+
+53
+00:03:50,916 --> 00:03:54,364
+<i>Vivendo no Paraíso</i>
+
+54
+00:03:54,365 --> 00:03:56,342
+<i>É perfeito</i>
+
+55
+00:03:56,343 --> 00:03:58,806
+<i>E continuará assim</i>
+
+56
+00:03:58,807 --> 00:04:00,868
+<i>Amamos a vida
+em Sneedville</i>
+
+57
+00:04:00,869 --> 00:04:02,661
+<i>Destinado ao sucesso</i>
+
+58
+00:04:02,662 --> 00:04:04,680
+<i>Gostamos de viver assim</i>
+
+59
+00:04:04,681 --> 00:04:08,358
+<i>Todos precisamos</i>
+
+60
+00:04:09,866 --> 00:04:12,290
+<i>Sneedville</i>
+
+61
+00:04:30,642 --> 00:04:32,167
+SUPER AVIÃO
+VOA DE VERDADE!
+
+62
+00:04:50,919 --> 00:04:52,302
+Isso!
+
+63
+00:05:07,115 --> 00:05:09,518
+Oi, Ted.
+
+64
+00:05:09,519 --> 00:05:11,985
+Oi, Audrey?
+Eu...
+
+65
+00:05:11,986 --> 00:05:14,796
+Sua bola caiu
+no meu quintal de novo?
+
+66
+00:05:14,797 --> 00:05:16,652
+O quê?
+Não!
+
+67
+00:05:16,653 --> 00:05:18,615
+Foi um avião, desta vez.
+
+68
+00:05:19,425 --> 00:05:22,170
+Quer ver algo maneiro?
+
+69
+00:05:22,171 --> 00:05:23,738
+Chega aí!
+
+70
+00:05:38,060 --> 00:05:39,504
+Você...
+
+71
+00:05:39,505 --> 00:05:42,009
+Você pintou isto?
+
+72
+00:05:42,010 --> 00:05:43,813
+-Você gostou?
+-O quê?
+
+73
+00:05:43,814 --> 00:05:47,642
+Está de brincadeira?
+Isto é incrível!
+
+74
+00:05:47,643 --> 00:05:49,130
+O que são?
+
+75
+00:05:49,131 --> 00:05:52,065
+São árvores,
+das verdadeiras.
+
+76
+00:05:52,066 --> 00:05:55,185
+Elas costumavam crescer
+por toda a cidade.
+
+77
+00:05:55,980 --> 00:05:59,210
+As pessoas diziam
+que o toque de suas folhas
+
+78
+00:05:59,211 --> 00:06:02,505
+era mais macio do que tudo,
+até seda.
+
+79
+00:06:02,507 --> 00:06:05,261
+É o cheiro
+como leite de borboleta.
+
+80
+00:06:05,262 --> 00:06:07,436
+O que isto significa?
+
+81
+00:06:07,437 --> 00:06:09,031
+Maneiro, não é?
+
+82
+00:06:10,522 --> 00:06:12,012
+Pode crer.
+
+83
+00:06:12,013 --> 00:06:15,055
+O que eu mais quero
+no mundo todo
+
+84
+00:06:15,056 --> 00:06:18,389
+é ver uma verdadeira
+árvore viva.
+
+85
+00:06:18,390 --> 00:06:21,811
+-Crescendo no meu jardim.
+-Digamos que...
+
+86
+00:06:21,812 --> 00:06:24,235
+Só estou pensando alto,
+se algum cara...
+
+87
+00:06:24,236 --> 00:06:26,239
+de alguma forma
+te conseguir uma.
+
+88
+00:06:26,240 --> 00:06:28,337
+Provavelmente me casaria
+com ele na hora!
+
+89
+00:06:28,338 --> 00:06:30,225
+Parece loucura.
+
+90
+00:06:30,226 --> 00:06:33,179
+-Será uma loucura?
+-Não, não é loucura!
+
+91
+00:06:33,180 --> 00:06:36,272
+Não é loucura
+de maneira alguma.
+
+92
+00:06:42,990 --> 00:06:45,202
+Ted, querido, não brinque
+com a comida.
+
+93
+00:06:45,203 --> 00:06:47,307
+Nem você, mamãe.
+
+94
+00:06:50,627 --> 00:06:52,833
+Então, mãe...
+
+95
+00:06:52,834 --> 00:06:56,449
+Por acaso sabe
+se em algum lugar
+
+96
+00:06:56,450 --> 00:06:59,311
+onde posso conseguir
+uma árvore de verdade?
+
+97
+00:06:59,312 --> 00:07:02,416
+Ted, já temos uma árvore,
+é o último modelo.
+
+98
+00:07:02,417 --> 00:07:05,142
+Sim, mas eu preciso
+de uma verdadeira.
+
+99
+00:07:05,143 --> 00:07:08,211
+Que cresce do chão, sei lá.
+
+100
+00:07:08,212 --> 00:07:10,709
+-Tipo uma árvore de verdade.
+-Sério?
+
+101
+00:07:10,710 --> 00:07:13,345
+Quer mesmo ter algo sujo,
+
+102
+00:07:13,346 --> 00:07:16,553
+um pedaço de madeira
+que sai da terra
+
+103
+00:07:16,554 --> 00:07:18,678
+e eu nem mesmo sei
+para que serve.
+
+104
+00:07:18,679 --> 00:07:21,942
+Veja a que temos!
+É automática.
+
+105
+00:07:21,943 --> 00:07:23,921
+A única árvore
+com controle remoto.
+
+106
+00:07:23,922 --> 00:07:28,459
+Verão, outono, inverno e...
+discoteca!
+
+107
+00:07:32,970 --> 00:07:35,472
+-Mãe!
+-Vamos, dance com a árvore!
+
+108
+00:07:35,473 --> 00:07:37,989
+Isso é vergonhoso, mãe.
+Por favor, pare.
+
+109
+00:07:37,990 --> 00:07:39,929
+Então...
+
+110
+00:07:39,930 --> 00:07:42,509
+Enfim, digamos
+que eu precise de uma árvore.
+
+111
+00:07:42,510 --> 00:07:44,112
+Onde eu vou?
+Onde consigo?
+
+112
+00:07:44,113 --> 00:07:47,081
+Quer saber como?
+Precisa achar o Umavez-ildo.
+
+113
+00:07:47,979 --> 00:07:49,387
+Achar quem?
+
+114
+00:07:49,388 --> 00:07:54,281
+Mãe, não é hora
+dos seus contos mágicos.
+
+115
+00:07:54,282 --> 00:07:56,980
+-Está bem?
+-Tudo bem, eu esqueci.
+
+116
+00:07:56,981 --> 00:08:00,866
+Sou velha e nem me lembro
+de colocar a minha dentadura.
+
+117
+00:08:00,867 --> 00:08:02,869
+Relaxa, não me referi a isso.
+
+118
+00:08:02,870 --> 00:08:04,767
+É sério.
+Esqueci a minha dentadura.
+
+119
+00:08:04,768 --> 00:08:08,212
+Será que poderia
+ir buscá-la para mim?
+
+120
+00:08:08,213 --> 00:08:09,816
+Claro, mamãe.
+
+121
+00:08:16,156 --> 00:08:17,548
+Certo, é o seguinte.
+
+122
+00:08:17,549 --> 00:08:20,648
+O Umavez-ildo sabe
+o que aconteceu com às árvores.
+
+123
+00:08:20,649 --> 00:08:22,976
+Se quiser uma,
+você precisa encontrá-lo.
+
+124
+00:08:22,977 --> 00:08:24,582
+O Umavez-ildo?
+
+125
+00:08:25,485 --> 00:08:29,784
+Vovó, isso tudo é de verdade,
+o que falamos agora?
+
+126
+00:08:29,785 --> 00:08:31,786
+Claro que é de verdade.
+
+127
+00:08:31,787 --> 00:08:33,355
+Onde posso achá-lo?
+
+128
+00:08:35,892 --> 00:08:40,275
+Bem longe da cidade,
+onde a grama nunca cresce.
+
+129
+00:08:40,276 --> 00:08:44,149
+E o vento parece lento
+e azedo quando sopra.
+
+130
+00:08:46,615 --> 00:08:51,467
+E nenhum pássaro canta
+exceto os corvos antigos.
+
+131
+00:08:53,672 --> 00:08:55,075
+Onde é isto?
+
+132
+00:08:55,076 --> 00:08:57,843
+É o lugar
+onde o Umavez-ildo vive.
+
+133
+00:08:57,844 --> 00:09:00,721
+Calma aí!
+Fora da cidade?
+
+134
+00:09:00,722 --> 00:09:02,474
+As pessoas diziam
+
+135
+00:09:02,475 --> 00:09:05,667
+<i>que com 15 centavos,
+um prego</i>
+
+136
+00:09:05,668 --> 00:09:10,689
+<i>e a concha
+de um tatataravô</i>...
+
+137
+00:09:11,592 --> 00:09:14,691
+<i>Ele lhe contará tudo</i>.
+
+138
+00:09:29,577 --> 00:09:31,087
+SAÍDA DE AR
+
+139
+00:09:46,030 --> 00:09:47,713
+SOMENTE PESSOAS AUTORIZADAS
+
+140
+00:09:50,247 --> 00:09:52,248
+LIBERAR
+
+141
+00:10:10,804 --> 00:10:12,359
+LIMITE DA CIDADE
+
+142
+00:10:17,656 --> 00:10:19,773
+Sr. O'Hare, o que temos
+para você
+
+143
+00:10:19,774 --> 00:10:24,204
+é algo que levará o "Ar O'Hare"
+ao próximo nível.
+
+144
+00:10:24,205 --> 00:10:26,008
+Sr. O'Hare,
+sei o que está pesando.
+
+145
+00:10:26,009 --> 00:10:30,269
+1: Enriqueci vendendo o ar
+mais fresco do que lá fora.
+
+146
+00:10:30,270 --> 00:10:34,731
+2: E o mais importante,
+como ganharemos mais dinheiro?
+
+147
+00:10:34,732 --> 00:10:36,829
+Nós sabemos, senhor!
+
+148
+00:10:36,830 --> 00:10:39,333
+Preste atenção
+neste comercial.
+
+149
+00:10:41,838 --> 00:10:44,750
+Lá se vai outro
+sábado entediante.
+
+150
+00:10:44,751 --> 00:10:48,122
+Cara, eu acho que não.
+
+151
+00:10:54,740 --> 00:10:56,740
+-Que legal.
+-Cara.
+
+152
+00:11:05,061 --> 00:11:08,288
+<i>Ar purificado O'Hare
+o frescor para viagem!</i>
+
+153
+00:11:08,289 --> 00:11:09,785
+<i>Respire com moderação!</i>
+
+154
+00:11:10,247 --> 00:11:12,774
+Meu Deus!
+
+155
+00:11:12,775 --> 00:11:14,907
+Estão de brincadeira.
+
+156
+00:11:14,908 --> 00:11:18,213
+Acham que as pessoas
+são burras para comprar isso.
+
+157
+00:11:18,214 --> 00:11:20,574
+Nossas pesquisas mostram
+que se colocar algo
+
+158
+00:11:20,575 --> 00:11:23,155
+em uma garrafa de plástico,
+pessoas comprarão.
+
+159
+00:11:23,156 --> 00:11:24,810
+-Exatamente, e...
+-E tem mais,
+
+160
+00:11:24,812 --> 00:11:26,636
+quando construirmos
+uma fábrica nova
+
+161
+00:11:26,637 --> 00:11:28,305
+para fazer garrafas
+de plásticos.
+
+162
+00:11:28,306 --> 00:11:30,553
+A qualidade do ar
+ficará pior.
+
+163
+00:11:30,554 --> 00:11:32,911
+Que fará as pessoas
+quererem mais o nosso ar
+
+164
+00:11:32,912 --> 00:11:34,672
+e levará as vendas
+onde?
+
+165
+00:11:34,673 --> 00:11:36,137
+Lá em cima!
+
+166
+00:11:36,138 --> 00:11:41,152
+Então, em outras palavras,
+quanto mais fumaça no céu...
+
+167
+00:11:42,155 --> 00:11:44,996
+Mais pessoas comprarão!
+
+168
+00:11:46,198 --> 00:11:50,341
+Por isso ele é um gênio!
+Até rimou.
+
+169
+00:11:50,342 --> 00:11:53,085
+Eu sei que rima.
+
+170
+00:11:54,488 --> 00:11:56,197
+O que querem,
+cabeças de joelho?
+
+171
+00:11:56,198 --> 00:11:58,554
+Estou no meio
+de uma reunião!
+
+172
+00:11:58,555 --> 00:12:00,458
+ALERTA
+
+173
+00:12:00,459 --> 00:12:01,888
+O quê?
+
+174
+00:12:01,889 --> 00:12:03,688
+Por que ele está saindo
+da cidade?
+
+175
+00:12:03,689 --> 00:12:05,592
+Ninguém nunca sai da cidade!
+
+176
+00:12:05,593 --> 00:12:07,997
+Vejam o que ele
+está tramando.
+
+177
+00:13:19,723 --> 00:13:21,379
+Caramba.
+
+178
+00:13:59,558 --> 00:14:01,936
+CUIDADO! PERIGO!
+ENTRADA PROIBIDA!
+
+179
+00:14:10,946 --> 00:14:14,076
+A ESTRADA AO ELEVADO LORAX
+
+180
+00:14:22,810 --> 00:14:24,614
+Tudo bem.
+
+181
+00:14:30,029 --> 00:14:32,734
+"A MENOS QUE"
+
+182
+00:14:50,641 --> 00:14:52,343
+O UMAVEZ-ILDO
+
+183
+00:15:03,245 --> 00:15:04,868
+Tudo bem.
+
+184
+00:15:16,443 --> 00:15:17,945
+Quem é você?
+
+185
+00:15:17,946 --> 00:15:20,308
+Quem é você?
+E o que faz aqui?
+
+186
+00:15:20,309 --> 00:15:22,881
+Sou o Ted.
+
+187
+00:15:22,882 --> 00:15:24,644
+Não consigo respirar.
+Você é...
+
+188
+00:15:24,645 --> 00:15:26,245
+Você é o Umavez-ildo?
+
+189
+00:15:26,246 --> 00:15:30,532
+Não leu os avisos?
+Ninguém deveria vir aqui.
+
+190
+00:15:30,533 --> 00:15:32,973
+Vai embora daqui!
+E me deixe em paz!
+
+191
+00:15:32,974 --> 00:15:35,071
+E cuidado com a bota
+quando sair.
+
+192
+00:15:35,072 --> 00:15:36,875
+Que bota?
+
+193
+00:15:36,876 --> 00:15:38,780
+Qual é!
+
+194
+00:15:38,781 --> 00:15:40,776
+Escute,
+as pessoas dizem
+
+195
+00:15:40,777 --> 00:15:42,808
+que se alguém te trouxer
+estas coisas
+
+196
+00:15:42,809 --> 00:15:45,029
+que você conta
+sobre as árvores.
+
+197
+00:15:48,238 --> 00:15:50,323
+-Árvores?
+-Sim!
+
+198
+00:15:50,324 --> 00:15:53,938
+Das verdadeiras,
+aquelas que crescem da terra.
+
+199
+00:15:54,832 --> 00:15:58,134
+-Olá?
+-Desculpe, eu só...
+
+200
+00:15:58,135 --> 00:16:00,854
+Não achava que alguém ainda
+se importava com árvores.
+
+201
+00:16:00,855 --> 00:16:03,508
+Este sou eu.
+O cara que ainda se importa.
+
+202
+00:16:03,509 --> 00:16:04,912
+Estou aqui.
+
+203
+00:16:07,617 --> 00:16:11,724
+Quer saber sobre as árvores?
+O que houve com elas?
+
+204
+00:16:11,725 --> 00:16:16,097
+Quando todas se foram
+foi tudo culpa minha.
+
+205
+00:16:16,098 --> 00:16:17,909
+Espere, o quê?
+
+206
+00:16:22,456 --> 00:16:25,058
+Foi tudo culpa minha!
+
+207
+00:16:26,800 --> 00:16:30,775
+E da minha invenção,
+o Sneed.
+
+208
+00:16:30,776 --> 00:16:35,480
+Era um produto incrível,
+fazia o trabalho de vários.
+
+209
+00:16:36,269 --> 00:16:40,127
+Tudo bem, parece ridículo.
+Mas é maneiro.
+
+210
+00:16:40,128 --> 00:16:42,148
+Claro que era maneiro.
+
+211
+00:16:43,150 --> 00:16:46,187
+Tudo começou
+há muito tempo.
+
+212
+00:16:46,188 --> 00:16:48,426
+Podemos começar
+há não tanto tempo, talvez?
+
+213
+00:16:48,427 --> 00:16:49,834
+Quer uma árvore?
+
+214
+00:16:49,835 --> 00:16:51,252
+Sim, sim...
+
+215
+00:16:51,253 --> 00:16:53,541
+Tudo começou há muito...
+
+216
+00:16:53,542 --> 00:16:55,346
+muito...
+
+217
+00:16:55,347 --> 00:16:57,343
+tempo.
+
+218
+00:16:57,344 --> 00:17:00,230
+<i>Eu era um jovem
+saindo de casa</i>.
+
+219
+00:17:00,231 --> 00:17:04,844
+Mãe, aqui vou eu, preste a mudar
+o mundo com meu Sneed.
+
+220
+00:17:05,889 --> 00:17:07,716
+Estou mesmo fazendo isso.
+
+221
+00:17:07,717 --> 00:17:10,580
+Sim,
+mas se lembre Umavezinho...
+
+222
+00:17:10,581 --> 00:17:15,629
+Se de algum modo sua intenção
+fracassar em vez de ter sucesso,
+
+223
+00:17:15,630 --> 00:17:18,653
+não me surpreenderia
+de forma alguma.
+
+224
+00:17:20,177 --> 00:17:23,130
+Bela carroça!
+Zoa!
+
+225
+00:17:24,934 --> 00:17:26,332
+Sim. Zoa!
+
+226
+00:17:26,333 --> 00:17:29,690
+Vocês verão!
+Provarei que estão errados.
+
+227
+00:17:29,691 --> 00:17:31,317
+Vamos, Melvin.
+
+228
+00:17:31,318 --> 00:17:34,075
+<i>Então, aí estava eu,
+no fundo do poço,</i>
+
+229
+00:17:34,076 --> 00:17:36,674
+<i>com apenas uma carroça,
+um burro</i>
+
+230
+00:17:36,675 --> 00:17:41,111
+<i>e uma sensação completamente
+irracional de otimismo</i>.
+
+231
+00:17:45,245 --> 00:17:48,690
+<i>Percorri o mundo
+obcecado a encontrar</i>
+
+232
+00:17:48,691 --> 00:17:51,553
+<i>o material perfeito
+para meu Sneed</i>.
+
+233
+00:17:52,255 --> 00:17:56,141
+<i>Mas não tive
+sucesso algum</i>.
+
+234
+00:17:56,142 --> 00:17:58,954
+<i>Até que um dia,
+eu achei</i>...
+
+235
+00:17:59,530 --> 00:18:01,814
+<i>O Paraíso</i>.
+
+236
+00:18:01,815 --> 00:18:05,121
+Estaremos logo lá,
+tenho certeza, é como...
+
+237
+00:18:15,097 --> 00:18:19,309
+Este é...
+o lugar mais bonito...
+
+238
+00:18:20,212 --> 00:18:22,446
+Que eu já vi.
+
+239
+00:18:24,508 --> 00:18:26,679
+Olá!
+
+240
+00:19:02,599 --> 00:19:04,566
+É aqui!
+
+241
+00:19:06,871 --> 00:19:10,197
+<i>Este é o lugar</i>
+
+242
+00:19:11,090 --> 00:19:15,426
+<i>Essas árvores de Trúfula
+são o que preciso</i>
+
+243
+00:19:15,427 --> 00:19:21,342
+<i>Derrubarei uma árvore
+para fazer meu Sneed</i>
+
+244
+00:19:21,343 --> 00:19:23,421
+Mas primeiro...
+
+245
+00:19:27,176 --> 00:19:28,945
+Agora é com vocês!
+
+246
+00:19:31,529 --> 00:19:32,888
+Está ótimo.
+
+247
+00:19:43,708 --> 00:19:46,675
+<i>Agora nossa amizade
+pode começar</i>
+
+248
+00:19:46,676 --> 00:19:49,305
+<i>Demos as mãos,
+asas e nadadeiras</i>
+
+249
+00:19:49,306 --> 00:19:52,026
+<i>Não há nada que você e eu
+não possamos fazer</i>
+
+250
+00:19:52,028 --> 00:19:55,194
+<i>Para os meus sonhos
+se tornarem realidade</i>
+
+251
+00:20:16,491 --> 00:20:19,200
+Ei, pessoal!
+O que foi?
+
+252
+00:20:19,201 --> 00:20:21,641
+Cadê o meu coral?
+
+253
+00:20:23,098 --> 00:20:24,879
+O quê?
+
+254
+00:20:27,049 --> 00:20:28,687
+Não!
+
+255
+00:21:05,109 --> 00:21:08,215
+<i>Espere, espere,
+espere um minuto</i>.
+
+256
+00:21:08,216 --> 00:21:09,824
+Como é?
+
+257
+00:21:09,825 --> 00:21:12,036
+Isso aí!
+Mandou bem!
+
+258
+00:21:12,037 --> 00:21:15,062
+Dar guloseimas aos animais
+é incrível.
+
+259
+00:21:15,063 --> 00:21:16,565
+Mas...
+
+260
+00:21:16,566 --> 00:21:18,920
+Havia alguma canção
+para achar uma árvore?
+
+261
+00:21:18,921 --> 00:21:20,626
+Pois adoraria ouvir.
+
+262
+00:21:20,627 --> 00:21:23,528
+Sim, logo após a canção
+sobre um garoto
+
+263
+00:21:23,529 --> 00:21:25,266
+que sempre
+interrompia a história
+
+264
+00:21:25,267 --> 00:21:27,702
+e ninguém nunca mais
+ouviu falar dele.
+
+265
+00:21:27,703 --> 00:21:30,507
+Está bem, entendi,
+continue.
+
+266
+00:21:31,410 --> 00:21:33,200
+Muito bem,
+lá vamos nós.
+
+267
+00:21:33,202 --> 00:21:37,076
+Prestes a fazer o Sneed
+que mudará o mundo.
+
+268
+00:22:08,989 --> 00:22:11,193
+Vejam, pessoal!
+O quê...
+
+269
+00:22:11,996 --> 00:22:13,683
+Aonde todo mundo foi?
+
+270
+00:22:19,731 --> 00:22:23,206
+<i>Mal eu sabia que ao cortar
+aquela árvore</i>
+
+271
+00:22:23,207 --> 00:22:24,810
+eu havia invocado
+
+272
+00:22:24,811 --> 00:22:28,523
+uma criatura mística tão antiga
+quanto o próprio tempo.
+
+273
+00:22:28,524 --> 00:22:32,544
+Um lendário,
+e um pouco irritante,
+
+274
+00:22:32,545 --> 00:22:35,250
+guardião da floresta,
+
+275
+00:22:35,251 --> 00:22:37,556
+o Lorax.
+
+276
+00:23:20,933 --> 00:23:22,335
+O quê?
+
+277
+00:24:37,044 --> 00:24:39,284
+Você cortou esta árvore?
+
+278
+00:24:39,860 --> 00:24:41,523
+Não.
+
+279
+00:24:42,474 --> 00:24:43,999
+Quem foi?
+
+280
+00:24:44,370 --> 00:24:45,927
+O que é aquilo?
+
+281
+00:24:47,184 --> 00:24:48,826
+Acho que foi ele.
+
+282
+00:24:50,892 --> 00:24:54,851
+Pegue o seu machado
+e vá embora daqui.
+
+283
+00:24:54,852 --> 00:24:57,676
+-E quem é você?
+-O quê?
+
+284
+00:24:57,678 --> 00:24:59,394
+Sou o Lorax!
+
+285
+00:24:59,395 --> 00:25:01,406
+O guardião da floresta.
+
+286
+00:25:01,407 --> 00:25:03,801
+Eu falo pelas árvores.
+
+287
+00:25:05,317 --> 00:25:09,652
+Está me dizendo que não me viu
+saindo magicamente do tronco?
+
+288
+00:25:09,653 --> 00:25:11,825
+E todos aqueles trovões.
+
+289
+00:25:11,826 --> 00:25:13,509
+-Não viu nada disso?
+-Não!
+
+290
+00:25:13,510 --> 00:25:16,524
+Mas parece incrível,
+posso ver um pouco disso?
+
+291
+00:25:16,525 --> 00:25:18,428
+Sim, posso te mostrar.
+
+292
+00:25:18,429 --> 00:25:20,130
+Mas não funciona assim!
+
+293
+00:25:20,131 --> 00:25:21,759
+Tudo bem.
+
+294
+00:25:21,760 --> 00:25:23,117
+Não aconteceu de verdade.
+
+295
+00:25:23,832 --> 00:25:25,841
+Sei o que você quer.
+
+296
+00:25:25,842 --> 00:25:28,353
+Eu tenho um destes
+
+297
+00:25:28,354 --> 00:25:32,641
+para o carinha mais fofo
+que eu já vi.
+
+298
+00:25:35,333 --> 00:25:37,263
+Como se atreve?
+
+299
+00:25:37,264 --> 00:25:38,840
+Me dá isso!
+
+300
+00:25:40,868 --> 00:25:45,075
+Vou comer isto,
+mas fiquei muito ofendido.
+
+301
+00:25:50,509 --> 00:25:52,657
+O que você... Espere...
+Ei, Bigode!
+
+302
+00:25:52,658 --> 00:25:54,060
+Quer parar com isto?
+
+303
+00:25:55,390 --> 00:25:57,290
+Qual é a sua, cara?
+
+304
+00:25:57,291 --> 00:25:59,100
+É hora de você ir, Varapau!
+
+305
+00:25:59,101 --> 00:26:02,224
+Solte que coloco de novo,
+temos o dia todo.
+
+306
+00:26:07,724 --> 00:26:09,264
+Pare, agora mesmo!
+
+307
+00:26:09,265 --> 00:26:11,067
+Parado!
+
+308
+00:26:11,068 --> 00:26:16,895
+Então, você ia martelar
+esta criatura inocente?
+
+309
+00:26:17,489 --> 00:26:19,000
+O quê?
+Não!
+
+310
+00:26:19,001 --> 00:26:21,051
+Eu nunca faria isso
+com esse pequenino.
+
+311
+00:26:21,052 --> 00:26:25,505
+Já você, eu adoraria martelá-lo
+junto com o seu bigode na terra.
+
+312
+00:26:25,506 --> 00:26:26,908
+Vejam!
+
+313
+00:26:26,909 --> 00:26:30,249
+O intruso
+e seus violentos costumes.
+
+314
+00:26:30,250 --> 00:26:31,888
+Que coisa feia!
+
+315
+00:26:31,889 --> 00:26:34,455
+Que vergonha!
+
+316
+00:26:34,456 --> 00:26:36,860
+Beleza, quer saber?
+Já deu.
+
+317
+00:26:36,861 --> 00:26:38,865
+Escute-me,
+sua bolinha peluda!
+
+318
+00:26:38,866 --> 00:26:41,424
+Derrubarei quantas
+árvores eu quiser. Sacou?
+
+319
+00:26:41,425 --> 00:26:43,858
+E adivinha o quê?
+Não vou a lugar nenhum!
+
+320
+00:26:45,021 --> 00:26:47,124
+Fim da história!
+
+321
+00:26:47,828 --> 00:26:50,032
+Então, não me deixa escolha.
+
+322
+00:26:52,036 --> 00:26:56,343
+Se não for embora
+até o sol se pôr neste vale.
+
+323
+00:26:56,344 --> 00:27:01,006
+Todo o poder da natureza
+será liberado sobre você.
+
+324
+00:27:01,007 --> 00:27:05,242
+E te amaldiçoará
+até o final dos seus dias.
+
+325
+00:27:05,243 --> 00:27:09,162
+Você foi avisado!
+
+326
+00:27:15,886 --> 00:27:17,793
+-Obrigado.
+-De nada.
+
+327
+00:27:17,794 --> 00:27:20,665
+Você foi avisado!
+
+328
+00:27:20,666 --> 00:27:23,446
+Mas eu não dei
+atenção ao aviso.
+
+329
+00:27:23,447 --> 00:27:25,529
+Você não vai acreditar
+o que aconteceu
+
+330
+00:27:25,530 --> 00:27:27,276
+-aquela noite.
+-O quê?
+
+331
+00:27:27,277 --> 00:27:29,803
+Se quiser saber mais,
+volte amanhã.
+
+332
+00:27:29,804 --> 00:27:32,059
+Espera, espera!
+Amanhã?
+
+333
+00:27:34,665 --> 00:27:37,012
+Está falando sério?
+
+334
+00:27:37,013 --> 00:27:39,017
+Você vive
+no meio do nada!
+
+335
+00:27:39,018 --> 00:27:41,785
+Isto aqui fede.
+Não me faça voltar.
+
+336
+00:27:41,786 --> 00:27:44,569
+Então, acho que não quer
+ouvir o resto da história.
+
+337
+00:27:49,935 --> 00:27:52,994
+Não, não, não.
+Eu quero, quero mesmo.
+
+338
+00:27:52,995 --> 00:27:55,077
+Eu quero ouvir a história,
+eu só...
+
+339
+00:27:55,078 --> 00:27:57,711
+Você não serve.
+Boa noite!
+
+340
+00:27:57,712 --> 00:28:00,217
+Espera, espera, espera.
+Eu sirvo sim!
+
+341
+00:28:03,459 --> 00:28:05,601
+Beleza, está bem.
+Eu volto.
+
+342
+00:28:05,602 --> 00:28:07,304
+Não tem problema.
+
+343
+00:28:07,305 --> 00:28:09,439
+Veja, aqui estou eu!
+Saindo!
+
+344
+00:28:09,440 --> 00:28:10,856
+Indo embora agora!
+
+345
+00:28:11,545 --> 00:28:13,141
+Vejo você amanhã!
+
+346
+00:28:15,216 --> 00:28:18,865
+Talvez.
+Quem sabe.
+
+347
+00:28:19,693 --> 00:28:24,454
+<i>Parabéns para você!</i>
+
+348
+00:28:28,033 --> 00:28:29,794
+Qual o seu desejo, Audrey?
+
+349
+00:28:29,795 --> 00:28:33,295
+Adoraria te dizer,
+mas segundo à leis universais
+
+350
+00:28:33,296 --> 00:28:35,420
+dos desejos,
+eu não posso.
+
+351
+00:28:36,724 --> 00:28:39,229
+Eu sei qual é o seu desejo.
+
+352
+00:28:50,599 --> 00:28:53,158
+Talvez seja...
+
+353
+00:28:53,878 --> 00:28:55,993
+Algo assim!
+
+354
+00:29:04,085 --> 00:29:06,389
+Ted, você não fez isso.
+
+355
+00:29:06,390 --> 00:29:09,277
+Não, eu realmente já fiz.
+
+356
+00:29:09,278 --> 00:29:13,245
+Feliz aniversário, Audrey!
+
+357
+00:29:13,246 --> 00:29:16,752
+Beija!
+
+358
+00:29:28,579 --> 00:29:30,419
+Ted!
+
+359
+00:29:30,420 --> 00:29:33,556
+Está beijando a caixa
+de cereal de novo.
+
+360
+00:29:33,557 --> 00:29:37,464
+O quê?
+E que eu gosto deste cereal.
+
+361
+00:29:37,465 --> 00:29:38,923
+Qual é este?
+Sim.
+
+362
+00:29:38,924 --> 00:29:40,927
+Tudo bem.
+
+363
+00:29:40,928 --> 00:29:43,619
+Então, da próxima vez
+comprarei um extra para você.
+
+364
+00:29:43,620 --> 00:29:46,441
+Obrigado, tenho que ir,
+preciso fazer uma coisa.
+
+365
+00:29:46,442 --> 00:29:48,948
+Então...
+Até logo pessoal!
+
+366
+00:29:49,911 --> 00:29:52,455
+Não vai para lugar algum,
+rapazinho.
+
+367
+00:29:52,456 --> 00:29:54,720
+É domingo.
+Sabe o que isso significa.
+
+368
+00:29:54,721 --> 00:29:57,723
+É hora familiar.
+E vamos todos nos divertir.
+
+369
+00:29:57,724 --> 00:29:59,131
+Mas...
+
+370
+00:30:04,044 --> 00:30:05,488
+Que saco!
+
+371
+00:30:05,489 --> 00:30:08,859
+-Mãe, fala sério. De novo?
+-Não se meta!
+
+372
+00:30:12,652 --> 00:30:15,172
+Tudo bem,
+a hora familiar acabou.
+
+373
+00:30:15,173 --> 00:30:16,823
+Agora é uma hora pessoal.
+
+374
+00:30:17,388 --> 00:30:19,007
+Estarei no meu quarto.
+
+375
+00:30:19,342 --> 00:30:22,439
+Tudo bem, querida.
+Divirta-se.
+
+376
+00:30:24,564 --> 00:30:27,777
+Eu sabia que a cansaria.
+Vai!
+
+377
+00:30:27,778 --> 00:30:29,492
+-O quê?
+-Vá, vê-lo.
+
+378
+00:30:29,493 --> 00:30:31,144
+É isso aí!
+
+379
+00:30:32,819 --> 00:30:35,471
+Você arrasou!
+Obrigado, vovó.
+
+380
+00:30:46,874 --> 00:30:48,311
+AR O'HARE
+
+381
+00:30:55,717 --> 00:30:58,337
+Ei, Ted, certo?
+
+382
+00:30:59,664 --> 00:31:01,433
+Senhor O'Hare.
+
+383
+00:31:01,435 --> 00:31:04,924
+Ouvi dizer que está
+interessado em árvores?
+
+384
+00:31:04,925 --> 00:31:06,723
+Por que isso, afinal?
+
+385
+00:31:08,871 --> 00:31:11,286
+Onde ouviu isto?
+
+386
+00:31:11,808 --> 00:31:15,303
+Ted, nada acontece em Sneedville
+que eu não saiba.
+
+387
+00:31:15,304 --> 00:31:16,742
+É o seguinte:
+
+388
+00:31:16,744 --> 00:31:19,624
+Ganho a vida vendendo
+ar fresco para as pessoas.
+
+389
+00:31:19,625 --> 00:31:22,264
+As árvores
+fazem isto de graça.
+
+390
+00:31:22,265 --> 00:31:25,116
+Então, quando as pessoas
+falam a respeito...
+
+391
+00:31:25,117 --> 00:31:29,113
+Considero um tipo de ameaça
+aos meus negócios.
+
+392
+00:31:29,114 --> 00:31:31,433
+Nem sei do que está falando.
+
+393
+00:31:31,434 --> 00:31:33,771
+Você me escute, rapaz!
+
+394
+00:31:33,772 --> 00:31:37,368
+Não se intrometa em coisas
+que você não entende.
+
+395
+00:31:37,369 --> 00:31:39,663
+Ou serei o seu pior pesadelo.
+
+396
+00:31:39,664 --> 00:31:43,330
+Tenho a mente do Frankenstein
+no corpo de uma aranha!
+
+397
+00:31:43,331 --> 00:31:44,738
+Sim...
+
+398
+00:31:45,708 --> 00:31:48,672
+Minha mãe está me esperando,
+então eu vou...
+
+399
+00:31:48,673 --> 00:31:50,581
+Sim, claro.
+
+400
+00:31:50,582 --> 00:31:53,436
+Agora, volte aos seus joguinhos
+de família, filho.
+
+401
+00:31:53,437 --> 00:31:56,710
+Sua avó...
+acabou de jogar.
+
+402
+00:31:56,711 --> 00:31:58,080
+Como você sabe?
+
+403
+00:31:58,081 --> 00:32:01,956
+Por favor, tenho olhos
+em todo lugar.
+
+404
+00:32:06,450 --> 00:32:09,643
+Você tem
+uma linda cidade aqui.
+
+405
+00:32:09,644 --> 00:32:13,043
+Muitas coisas divertidas
+para ocupar o seu tempo.
+
+406
+00:32:13,044 --> 00:32:15,334
+Não penso
+em motivo algum
+
+407
+00:32:15,335 --> 00:32:19,776
+para você querer sair
+da cidade de novo.
+
+408
+00:32:19,777 --> 00:32:21,790
+Nenhum!
+
+409
+00:32:28,263 --> 00:32:31,675
+Bela conversa...
+Bela conversa mesmo.
+
+410
+00:32:56,388 --> 00:32:57,904
+Não...
+
+411
+00:32:58,521 --> 00:33:00,182
+Cuidado!
+
+412
+00:33:02,712 --> 00:33:06,391
+Eu poderia...
+Devia trocar a campainha.
+
+413
+00:33:07,028 --> 00:33:09,196
+-Sentiu minha falta.
+-O quê?
+
+414
+00:33:09,197 --> 00:33:12,732
+Se já voltou, claramente,
+sentiu um pouco a minha falta,
+
+415
+00:33:12,733 --> 00:33:14,100
+não é?
+
+416
+00:33:14,101 --> 00:33:17,618
+Não, eu não! Só Vim ouvir
+o final da história.
+
+417
+00:33:17,619 --> 00:33:19,813
+Por que tanto interesse
+em árvores, afinal?
+
+418
+00:33:19,814 --> 00:33:21,443
+Por que não é
+um garoto normal,
+
+419
+00:33:21,445 --> 00:33:23,602
+dançando na rua,
+usando calça boca de sino
+
+420
+00:33:23,603 --> 00:33:25,820
+e jogando Donkey Kong?
+
+421
+00:33:25,821 --> 00:33:28,914
+Sim, sim.
+Claro...
+
+422
+00:33:28,915 --> 00:33:30,287
+Não sei.
+
+423
+00:33:30,288 --> 00:33:32,122
+Eu só...
+
+424
+00:33:32,123 --> 00:33:34,687
+Acho que seria interessante
+ter uma dessas.
+
+425
+00:33:35,517 --> 00:33:37,601
+É uma menina, não é?
+
+426
+00:33:37,602 --> 00:33:40,386
+-O quê? Não!
+-Sério?
+
+427
+00:33:40,387 --> 00:33:43,003
+Quando um cara faz
+algo estúpido uma vez.
+
+428
+00:33:43,004 --> 00:33:46,606
+é porque ele é homem,
+mas quando faz duas vezes
+
+429
+00:33:46,607 --> 00:33:49,643
+é geralmente
+para impressionar uma garota.
+
+430
+00:33:49,644 --> 00:33:51,553
+Ela não é uma garota!
+
+431
+00:33:51,554 --> 00:33:53,021
+Ela é uma mulher!
+
+432
+00:33:53,022 --> 00:33:56,422
+E está no colégio
+e ama as árvores.
+
+433
+00:33:56,423 --> 00:33:58,725
+Vou dar uma para ela.
+
+434
+00:33:58,726 --> 00:34:02,353
+Que bom ver alguém
+tão imune em coisas como:
+
+435
+00:34:02,354 --> 00:34:04,673
+-"Realidade".
+-Obrigado.
+
+436
+00:34:04,674 --> 00:34:06,974
+Certo.
+Onde estávamos?
+
+437
+00:34:27,676 --> 00:34:30,607
+Agora, isso é um Sneed.
+
+438
+00:34:30,608 --> 00:34:33,852
+Tricotar não é coisa de maricas.
+Não, senhor!
+
+439
+00:34:55,398 --> 00:34:57,928
+Tomem cuidado!
+Cuidado...
+
+440
+00:34:59,075 --> 00:35:02,136
+Quem ensinou vocês
+a roubar uma cama?
+
+441
+00:35:19,115 --> 00:35:21,000
+Por aqui.
+
+442
+00:35:27,083 --> 00:35:29,956
+Vão com calma e cuidado.
+
+443
+00:35:36,105 --> 00:35:40,080
+Belo trabalho, pessoal.
+Eu não conseguiria sem vocês.
+
+444
+00:35:42,413 --> 00:35:44,698
+Só pode ser brincadeira.
+
+445
+00:35:44,699 --> 00:35:46,285
+Ele sabe nadar?
+
+446
+00:35:46,286 --> 00:35:48,109
+Claro que ele não sabe!
+
+447
+00:35:48,110 --> 00:35:51,111
+Aguente aí, pequenino,
+vamos salvá-lo.
+
+448
+00:35:55,800 --> 00:35:58,850
+Peixes!
+Segurem a cama.
+
+449
+00:36:08,936 --> 00:36:10,365
+Subam, subam!
+
+450
+00:36:11,064 --> 00:36:13,145
+Vamos, subam!
+
+451
+00:36:13,146 --> 00:36:16,435
+Vão, vão!
+Subam mais!
+
+452
+00:36:18,780 --> 00:36:20,520
+E agora?
+
+453
+00:36:28,574 --> 00:36:32,444
+Pequenino, dê-me a mão,
+venha com o Lorax.
+
+454
+00:36:34,896 --> 00:36:36,812
+Aonde você vai?
+
+455
+00:36:39,573 --> 00:36:41,401
+Ninguém merece!
+
+456
+00:36:49,220 --> 00:36:51,166
+Isso é ruim.
+
+457
+00:36:54,990 --> 00:36:57,435
+Ei, varapau, acorde!
+
+458
+00:37:05,743 --> 00:37:08,839
+O que está havendo?
+O que é isto e onde estou?
+
+459
+00:37:08,840 --> 00:37:12,591
+Temos um problema
+e vem bem rápido!
+
+460
+00:37:15,003 --> 00:37:16,931
+Estamos em um rio!
+
+461
+00:37:40,757 --> 00:37:42,530
+Não!
+
+462
+00:37:45,059 --> 00:37:46,664
+Apenas faça algo!
+
+463
+00:37:47,575 --> 00:37:49,612
+A ajuda está a caminho!
+
+464
+00:37:51,496 --> 00:37:54,213
+Alguém me ajude!
+Não!
+
+465
+00:37:55,281 --> 00:37:57,567
+Só um minutinho!
+
+466
+00:38:18,329 --> 00:38:19,951
+Não!
+
+467
+00:38:21,915 --> 00:38:24,969
+Meu Deus!
+Acorde, acorde!
+
+468
+00:38:32,535 --> 00:38:34,228
+Deem espaço.
+
+469
+00:38:38,143 --> 00:38:41,784
+Eu ia em direção à luz
+e você me resgatou e cá estou.
+
+470
+00:38:41,785 --> 00:38:43,720
+Você salvou a minha vida.
+
+471
+00:38:43,721 --> 00:38:46,450
+Sim, eu sei,
+mas não é nada de mais.
+
+472
+00:38:46,451 --> 00:38:50,568
+Claro que é grande coisa.
+Quase caí naquela cachoeira.
+
+473
+00:38:50,569 --> 00:38:52,253
+Espera.
+
+474
+00:38:52,254 --> 00:38:55,064
+Como a minha cama
+foi parar no rio?
+
+475
+00:38:55,963 --> 00:38:57,665
+Sobre isso...
+
+476
+00:38:58,731 --> 00:39:00,202
+Na verdade...
+
+477
+00:39:00,560 --> 00:39:02,563
+Eu a coloquei na água.
+
+478
+00:39:03,490 --> 00:39:05,283
+Não quis feri-lo.
+
+479
+00:39:05,284 --> 00:39:08,487
+Só queria que você
+fosse embora boiando.
+
+480
+00:39:08,488 --> 00:39:11,398
+Todo mundo aqui
+precisa das árvores.
+
+481
+00:39:11,399 --> 00:39:13,624
+Mas você as está cortando.
+
+482
+00:39:13,625 --> 00:39:17,331
+Então, temos
+um grande problema.
+
+483
+00:39:23,180 --> 00:39:24,798
+Tudo bem, olhe...
+
+484
+00:39:24,799 --> 00:39:29,294
+Juro que não cortarei
+mais nenhuma árvore.
+
+485
+00:39:30,234 --> 00:39:32,069
+Eu prometo.
+
+486
+00:39:32,070 --> 00:39:35,838
+Obrigado, mas ficarei
+de olho em você.
+
+487
+00:39:35,839 --> 00:39:38,005
+Que bom!
+Amanhã será um grande dia.
+
+488
+00:39:38,006 --> 00:39:40,254
+Então, darei uma dormidinha.
+
+489
+00:39:42,612 --> 00:39:44,661
+Assim que eu achar
+a minha cama.
+
+490
+00:40:06,917 --> 00:40:09,014
+Tudo bem.
+O que você está...
+
+491
+00:40:10,734 --> 00:40:12,722
+Pergunta:
+O que eles fazem aqui?
+
+492
+00:40:13,580 --> 00:40:15,886
+E...
+Continuando o raciocínio...
+
+493
+00:40:15,887 --> 00:40:18,304
+O que você faz aqui?
+
+494
+00:40:18,305 --> 00:40:20,684
+Após os acontecimentos
+ontem à noite.
+
+495
+00:40:20,685 --> 00:40:24,034
+Achamos uma de suas meias
+e viemos aqui devolvê-la.
+
+496
+00:40:24,035 --> 00:40:26,651
+Mas quando chegamos aqui,
+você estava dormindo.
+
+497
+00:40:27,693 --> 00:40:30,563
+Exatamente, dormir é
+a maneira do corpo
+
+498
+00:40:30,564 --> 00:40:33,178
+de dizer às outras pessoas
+para ir embora.
+
+499
+00:40:33,179 --> 00:40:35,960
+Eu sei, mas você parecia
+tão acomodado.
+
+500
+00:40:35,961 --> 00:40:39,217
+E estava frio lá fora,
+então dormimos aqui.
+
+501
+00:40:39,218 --> 00:40:41,821
+-Sem incomodar.
+-Sem incomodar?
+
+502
+00:40:42,253 --> 00:40:43,766
+Tudo bem!
+
+503
+00:40:44,474 --> 00:40:46,964
+Eu coloco meus lábios no...
+
+504
+00:40:46,965 --> 00:40:48,972
+Bem, eu colocava...
+Deixa pra lá.
+
+505
+00:40:51,502 --> 00:40:53,055
+Você acabou de...
+
+506
+00:40:53,056 --> 00:40:54,789
+Na minha tigela?
+
+507
+00:40:57,212 --> 00:40:59,017
+Para que tem isso?
+
+508
+00:40:59,018 --> 00:41:01,392
+Você nem tem bigode.
+
+509
+00:41:03,386 --> 00:41:05,484
+-Certo, já deu...
+-Por quê?
+
+510
+00:41:05,485 --> 00:41:07,328
+Não fizemos
+um acordo ontem à noite?
+
+511
+00:41:07,329 --> 00:41:08,694
+Sim, fizemos.
+
+512
+00:41:08,695 --> 00:41:11,103
+E eu disse que não cortaria
+mais as árvore.
+
+513
+00:41:11,104 --> 00:41:13,123
+E eu disse que ficaria
+de olho em você.
+
+514
+00:41:13,124 --> 00:41:15,589
+Estou faminto.
+O que tem para o café da manhã?
+
+515
+00:41:17,407 --> 00:41:19,728
+O café da manhã já era.
+
+516
+00:41:21,731 --> 00:41:24,882
+Quer saber?
+Tenho muito trabalho a fazer.
+
+517
+00:41:24,883 --> 00:41:29,592
+Tenho que ir à cidade
+e vender meu Sneed.
+
+518
+00:41:30,406 --> 00:41:33,528
+Derrubou uma das minhas árvores
+para fazer essa porcaria?
+
+519
+00:41:33,529 --> 00:41:36,157
+-Veja essa...
+-Porcaria?
+
+520
+00:41:36,158 --> 00:41:39,879
+Não...
+Você não entende.
+
+521
+00:41:39,881 --> 00:41:42,792
+Este é um produto
+revolucionário!
+
+522
+00:41:42,793 --> 00:41:45,225
+Que mudará o mundo
+que conhecemos.
+
+523
+00:41:45,226 --> 00:41:46,888
+Tem várias utilidades!
+
+524
+00:41:47,387 --> 00:41:49,753
+Olhe isto,
+é uma roupa de banho!
+
+525
+00:41:50,450 --> 00:41:53,536
+Você tem manchas no chão
+de convidados indesejado?
+
+526
+00:41:53,537 --> 00:41:56,540
+O Sneed dará um fim nisso.
+
+527
+00:41:57,482 --> 00:41:59,105
+Mas espere, há mais!
+
+528
+00:41:59,106 --> 00:42:03,013
+Graças as microfibras naturais,
+o Sneed é um super-absorvente!
+
+529
+00:42:03,014 --> 00:42:05,263
+E também serve
+como chapéu.
+
+530
+00:42:06,258 --> 00:42:08,407
+Claro que primeiro
+deve espremer a água.
+
+531
+00:42:08,408 --> 00:42:10,702
+Caí fora com isso.
+
+532
+00:42:11,045 --> 00:42:12,935
+Mas ninguém comprará
+essa coisa.
+
+533
+00:42:12,936 --> 00:42:14,541
+Que bom saber!
+
+534
+00:42:14,542 --> 00:42:18,210
+Felizmente você não é
+o mercado que procuro.
+
+535
+00:42:18,211 --> 00:42:20,326
+-Esquisito.
+-Vai levar a guitarra?
+
+536
+00:42:20,327 --> 00:42:22,627
+Sim, e tenho uma canção.
+
+537
+00:42:22,628 --> 00:42:25,207
+Impressionarei pessoas,
+venderei Sneeds!
+
+538
+00:42:25,208 --> 00:42:26,571
+Isso aí!
+
+539
+00:42:28,389 --> 00:42:32,242
+<i>Todo mundo precisa
+de um Sneed</i>
+
+540
+00:42:32,243 --> 00:42:35,485
+<i>Para achar algo
+que todas as pessoas</i>...
+
+541
+00:42:35,486 --> 00:42:37,637
+-Qual é, cara!
+-Horrível!
+
+542
+00:42:38,337 --> 00:42:40,830
+Infelizmente não vendi
+no primeiro dia.
+
+543
+00:42:40,831 --> 00:42:43,036
+<i>Sneed é ótimo!</i>
+
+544
+00:42:43,037 --> 00:42:45,541
+<i>Sneed é incrível!</i>
+
+545
+00:42:49,464 --> 00:42:51,509
+Nem no segundo dia.
+
+546
+00:42:53,193 --> 00:42:56,273
+<i>Nem no terceiro,
+quarto, quinto, sexto</i>...
+
+547
+00:43:00,701 --> 00:43:03,090
+<i>-Até que finalmente</i>...
+-Já chega!
+
+548
+00:43:03,091 --> 00:43:05,821
+Querem saber,
+para mim, já chega!
+
+549
+00:43:08,154 --> 00:43:10,868
+Minha família estava certa.
+Eu desisto!
+
+550
+00:43:19,081 --> 00:43:21,138
+Ei, belo chapéu!
+
+551
+00:43:21,139 --> 00:43:23,565
+Meu Deus!
+Também quero um.
+
+552
+00:43:23,566 --> 00:43:25,954
+Essa coisa me faz
+gostar mais de você.
+
+553
+00:43:35,350 --> 00:43:37,395
+Cadê o Sneed,
+você vendeu?
+
+554
+00:43:37,396 --> 00:43:40,364
+Sim, não, não...
+Não vendi.
+
+555
+00:43:40,365 --> 00:43:43,025
+Acho que está fora
+de época, eu acho.
+
+556
+00:43:43,026 --> 00:43:46,673
+Você fez o melhor, certo?
+O que mais poderia fazer?
+
+557
+00:43:46,674 --> 00:43:48,917
+Venha. Sente-se.
+Vamos jogar.
+
+558
+00:43:48,918 --> 00:43:50,619
+O que estamos jogando?
+
+559
+00:43:50,620 --> 00:43:53,216
+Estou jogando pôquer,
+e ele está jogando trinca.
+
+560
+00:43:53,217 --> 00:43:54,859
+E eu acho que ele
+está com fome.
+
+561
+00:44:09,242 --> 00:44:11,891
+Quem está pronto
+para comer?
+
+562
+00:44:16,470 --> 00:44:19,974
+Beleza, passa para cá.
+
+563
+00:44:19,975 --> 00:44:22,440
+O que está havendo?
+
+564
+00:44:30,664 --> 00:44:33,460
+Não...
+Quanta gente.
+
+565
+00:44:40,399 --> 00:44:43,833
+<i>Todo mundo precisa
+de um Sneed</i>
+
+566
+00:44:43,834 --> 00:44:47,195
+<i>É tudo o que as pessoas
+precisam</i>
+
+567
+00:44:47,928 --> 00:44:51,208
+<i>Sneed é ótimo,
+Sneed é incrível</i>
+
+568
+00:44:51,209 --> 00:44:57,169
+<i>Esperamos que não seja
+muito tarde</i>
+
+569
+00:44:57,170 --> 00:45:00,634
+<i>É um chapéu super na moda</i>
+
+570
+00:45:00,635 --> 00:45:04,326
+<i>É uma corda bamba
+para acrobata</i>
+
+571
+00:45:04,327 --> 00:45:08,217
+<i>É uma rede para caçar
+borboletas</i>
+
+572
+00:45:08,218 --> 00:45:14,154
+<i>Usado diariamente
+para exercícios</i>
+
+573
+00:45:14,155 --> 00:45:17,986
+<i>Todo mundo precisa
+de um Sneed</i>
+
+574
+00:45:17,987 --> 00:45:21,492
+<i>É tudo o que as pessoas
+precisam</i>
+
+575
+00:45:21,493 --> 00:45:24,839
+<i>Todo mundo precisa
+de um Sneed</i>
+
+576
+00:45:24,840 --> 00:45:27,794
+É isso aí!
+Vamos aos negócios, galera!
+
+577
+00:45:29,976 --> 00:45:32,351
+Mãe, sou eu!
+
+578
+00:45:32,352 --> 00:45:34,716
+Eu te disse
+que seria um sucesso.
+
+579
+00:45:34,717 --> 00:45:37,456
+Traga toda a família
+para cá agora mesmo.
+
+580
+00:45:37,457 --> 00:45:40,031
+Vamos ficar ricos!
+
+581
+00:45:40,032 --> 00:45:43,360
+O que foi?
+Quanto mais ajuda é melhor.
+
+582
+00:45:43,361 --> 00:45:45,001
+Não se preocupe.
+
+583
+00:45:45,768 --> 00:45:48,918
+Ele lhe disse como
+conseguir uma árvore?
+
+584
+00:45:48,919 --> 00:45:50,600
+Na verdade, não!
+
+585
+00:45:50,601 --> 00:45:54,134
+Mas acho que ele
+contará logo.
+
+586
+00:45:55,041 --> 00:45:57,666
+-Pronto, chegamos!
+-O quê?
+
+587
+00:45:57,667 --> 00:45:59,209
+Não demoro.
+
+588
+00:46:02,628 --> 00:46:04,467
+Ei, Audrey!
+
+589
+00:46:04,468 --> 00:46:06,862
+Oi, Ted!
+E aí?
+
+590
+00:46:06,863 --> 00:46:09,808
+Você me conhece,
+só de passagem! Espairecendo.
+
+591
+00:46:09,809 --> 00:46:12,207
+Só eu e meus pensamentos.
+
+592
+00:46:12,974 --> 00:46:15,258
+Essa é a garota
+de quem você sempre fala?
+
+593
+00:46:15,259 --> 00:46:17,243
+Vovó!
+Pare de inventar as coisas!
+
+594
+00:46:17,244 --> 00:46:19,662
+-Ela é mais bonita...
+-Estamos indo!
+
+595
+00:46:22,227 --> 00:46:25,285
+Certo, vovó,
+vou te levar para casa.
+
+596
+00:46:33,073 --> 00:46:36,465
+CORTESIA
+DA EMPRESA O'HARE
+
+597
+00:46:42,880 --> 00:46:46,412
+PROPRIEDADE
+DA EMPRESA O'HARE
+
+598
+00:47:00,958 --> 00:47:03,146
+Desculpa!
+
+599
+00:47:04,052 --> 00:47:05,858
+Que visão ruim!
+
+600
+00:47:29,931 --> 00:47:32,910
+-Eu voltei!
+-O que você tem aí?
+
+601
+00:47:32,911 --> 00:47:34,855
+Aí sim!
+
+602
+00:47:41,158 --> 00:47:43,231
+Obrigado, Ted.
+
+603
+00:47:45,948 --> 00:47:51,013
+Agora, imagine isto:
+o sol brilhando, o céu azul.
+
+604
+00:47:51,014 --> 00:47:53,153
+Um dia perfeito.
+
+605
+00:47:57,101 --> 00:47:59,797
+E eles vieram
+morro abaixo.
+
+606
+00:48:32,011 --> 00:48:34,387
+Que pocilga!
+
+607
+00:48:34,388 --> 00:48:36,300
+Tia Grizelda!
+
+608
+00:48:37,822 --> 00:48:41,693
+Chet, veja só isso!
+Vá pegar!
+
+609
+00:48:41,694 --> 00:48:44,712
+Não, Brett, na verdade
+isso não é...
+
+610
+00:48:46,744 --> 00:48:49,098
+Vou pegá-lo!
+
+611
+00:48:51,191 --> 00:48:53,087
+Peguei!
+
+612
+00:48:53,088 --> 00:48:55,822
+Ele trombou naquela árvore!
+
+613
+00:48:58,321 --> 00:49:02,002
+-Umavezinho, é você?
+-Mãe!
+
+614
+00:49:02,003 --> 00:49:07,182
+Aí está o meu grande filho
+bem sucedido!
+
+615
+00:49:08,273 --> 00:49:11,829
+Sempre soubemos que conseguiria,
+Umavezinho! Não é?
+
+616
+00:49:11,830 --> 00:49:14,314
+Amo esse cara!
+
+617
+00:49:14,666 --> 00:49:18,179
+Vocês sempre disseram que eu
+não conseguiria, lembram-se?
+
+618
+00:49:18,180 --> 00:49:21,273
+Cala a boca, era só
+para tentar te motivar.
+
+619
+00:49:21,274 --> 00:49:23,334
+Estou muito feliz
+que deixou isso claro.
+
+620
+00:49:23,335 --> 00:49:26,634
+Pois feriu meus sentimentos
+por muito tempo.
+
+621
+00:49:26,635 --> 00:49:29,744
+Enfim, estão todos aqui
+e trabalham para mim.
+
+622
+00:49:29,745 --> 00:49:31,189
+E isso que importa.
+Então...
+
+623
+00:49:31,190 --> 00:49:32,602
+Mãos à obra!
+
+624
+00:49:32,603 --> 00:49:35,165
+Brett, Chet!
+Arrumem o trailer!
+
+625
+00:49:35,166 --> 00:49:37,857
+E poderiam parar de ficar
+jogando esse urso.
+
+626
+00:50:05,255 --> 00:50:07,217
+Não, não, esperem...
+Um instante!
+
+627
+00:50:07,219 --> 00:50:09,115
+Para trás, parados,
+ninguém se move!
+
+628
+00:50:09,116 --> 00:50:12,182
+Ninguém se mudará para cá!
+Precisam ir embora, adeus!
+
+629
+00:50:12,184 --> 00:50:15,341
+Quem convidou o amendoim
+peludo gigante?
+
+630
+00:50:15,342 --> 00:50:16,855
+Me chamou de amendoim?
+
+631
+00:50:16,856 --> 00:50:18,657
+Vou socar o seu nariz!
+
+632
+00:50:20,591 --> 00:50:22,474
+Não bateria em uma mulher.
+
+633
+00:50:22,475 --> 00:50:24,590
+Isso é uma mulher?
+
+634
+00:50:24,591 --> 00:50:29,306
+Beleza, todos calmos.
+Não vamos começar mal.
+
+635
+00:50:29,307 --> 00:50:31,876
+Família, este é meu amigo.
+
+636
+00:50:31,877 --> 00:50:34,473
+-Conhecido.
+-Bem, conhecido.
+
+637
+00:50:34,474 --> 00:50:36,589
+Um bom conhecido.
+O Lorax.
+
+638
+00:50:36,591 --> 00:50:38,097
+Ele fala pelas árvores.
+
+639
+00:50:38,098 --> 00:50:41,182
+Exatamente,
+e em nome das árvores...
+
+640
+00:50:41,183 --> 00:50:43,034
+Sumam daqui!
+
+641
+00:50:43,035 --> 00:50:46,274
+Você poderia...
+seja agradável?
+
+642
+00:50:46,276 --> 00:50:47,812
+Essa é a minha família.
+
+643
+00:50:47,813 --> 00:50:51,124
+Precisarei da ajuda deles
+para a minha empresa crescer.
+
+644
+00:50:51,125 --> 00:50:53,088
+-Tudo bem?
+-Crescer?
+
+645
+00:50:53,089 --> 00:50:56,360
+Sim, isto não é mais
+uma simples operação.
+
+646
+00:50:56,361 --> 00:50:59,030
+Tenho planos.
+Grandes planos!
+
+647
+00:50:59,031 --> 00:51:02,485
+Uma visão!
+De um mundo cheio de Sneeds!
+
+648
+00:51:02,486 --> 00:51:04,293
+Será maravilhoso!
+
+649
+00:51:05,840 --> 00:51:07,579
+De que forma
+uma árvore cai?
+
+650
+00:51:07,580 --> 00:51:09,664
+Para baixo.
+
+651
+00:51:09,665 --> 00:51:12,481
+A árvore cai para o lado
+que se inclina.
+
+652
+00:51:12,482 --> 00:51:16,307
+Cuidado para qual lado
+você se inclina.
+
+653
+00:51:25,248 --> 00:51:28,918
+Olhe para isto.
+É incrível.
+
+654
+00:51:28,919 --> 00:51:31,755
+Estou tão orgulhoso de mim.
+
+655
+00:51:31,756 --> 00:51:35,562
+Umavezinho, temos
+uns probleminhas.
+
+656
+00:51:35,563 --> 00:51:37,182
+Problemas?
+
+657
+00:51:38,062 --> 00:51:41,405
+Não estamos produzindo Sneeds
+rápido o bastante.
+
+658
+00:51:41,406 --> 00:51:45,341
+Recolher folhas
+demora muito tempo!
+
+659
+00:51:52,975 --> 00:51:55,128
+O que mais podemos fazer?
+
+660
+00:51:55,129 --> 00:51:59,458
+Bem, sobre isso...
+Tive uma ideia.
+
+661
+00:51:59,459 --> 00:52:02,562
+Poderíamos começar
+cortando as árvores.
+
+662
+00:52:02,563 --> 00:52:04,002
+O quê?
+
+663
+00:52:04,003 --> 00:52:07,353
+Agora está pensando!
+Isso acelerará os negócios!
+
+664
+00:52:07,354 --> 00:52:08,927
+-Mas...
+-Sem "mas", Umavezinho.
+
+665
+00:52:08,928 --> 00:52:10,654
+Você é um homem
+de negócios agora!
+
+666
+00:52:10,655 --> 00:52:14,558
+Tem que fazer o melhor
+para a empresa e sua mãe!
+
+667
+00:52:15,409 --> 00:52:20,018
+Não vejo mal algum
+em derrubar algumas árvores.
+
+668
+00:52:21,111 --> 00:52:25,433
+Você me deixa tão orgulhosa!
+Vem aqui!
+
+669
+00:52:25,434 --> 00:52:27,684
+Amo esse cara!
+
+670
+00:52:32,520 --> 00:52:33,947
+O quê?
+
+671
+00:52:37,155 --> 00:52:38,918
+Não, não, não!
+
+672
+00:52:38,920 --> 00:52:41,189
+Parem,
+por favor, parem!
+
+673
+00:52:41,190 --> 00:52:43,303
+Sua árvore estúpida!
+
+674
+00:52:48,399 --> 00:52:51,297
+Aonde pensa que vai?
+
+675
+00:52:51,298 --> 00:52:55,329
+Desculpe, senhor.
+Preciso falar com o seu chefe.
+
+676
+00:52:55,741 --> 00:52:57,861
+Sinto muito!
+
+677
+00:52:57,862 --> 00:53:01,409
+Mas o Senhor Umavez-ildo
+não quer ver ninguém agora...
+
+678
+00:53:01,410 --> 00:53:02,776
+Mas ele me verá.
+Então...
+
+679
+00:53:02,777 --> 00:53:04,498
+Tire suas mãos de mim!
+
+680
+00:53:04,500 --> 00:53:06,413
+Dê-me uma boa razão,
+baixinho!
+
+681
+00:53:06,414 --> 00:53:09,737
+Você quebrou sua promessa,
+você é melhor do que isso!
+
+682
+00:53:09,738 --> 00:53:12,868
+Você precisa parar!
+Isto é maldade!
+
+683
+00:53:12,869 --> 00:53:16,345
+Tenha um belo dia!
+
+684
+00:53:18,365 --> 00:53:19,994
+Ruim?
+
+685
+00:53:19,995 --> 00:53:22,245
+Não sou mau,
+sou o mocinho.
+
+686
+00:53:22,246 --> 00:53:23,788
+Ele apenas não entende.
+
+687
+00:53:23,789 --> 00:53:25,668
+Acha que sou mau?
+
+688
+00:53:25,669 --> 00:53:27,113
+Obrigado!
+
+689
+00:53:27,114 --> 00:53:30,475
+Quando finalmente
+algo de bom me acontece.
+
+690
+00:53:30,476 --> 00:53:33,714
+Ele vem para estragar
+a minha festa.
+
+691
+00:53:33,715 --> 00:53:35,302
+Qual é o problema dele?
+
+692
+00:53:35,303 --> 00:53:36,986
+Entende?
+
+693
+00:53:39,758 --> 00:53:42,580
+Mau...
+Certo!
+
+694
+00:53:53,528 --> 00:53:56,256
+<i>Quão mau eu posso ser?</i>
+
+695
+00:53:56,257 --> 00:53:58,622
+<i>Só faço o que vem
+naturalmente</i>
+
+696
+00:53:58,623 --> 00:54:01,199
+<i>Quão mau eu posso ser?</i>
+
+697
+00:54:01,200 --> 00:54:03,591
+<i>Só estou seguindo
+o meu destino</i>
+
+698
+00:54:03,592 --> 00:54:06,270
+<i>Quão mau eu posso ser?</i>
+
+699
+00:54:06,271 --> 00:54:08,537
+<i>Só faço o que vem
+naturalmente</i>
+
+700
+00:54:08,538 --> 00:54:10,783
+<i>Quão mau eu posso ser?</i>
+
+701
+00:54:10,784 --> 00:54:13,244
+<i>Quão mau eu realmente
+posso ser?</i>
+
+702
+00:54:13,246 --> 00:54:15,860
+<i>Há um princípio
+na natureza</i>
+
+703
+00:54:15,861 --> 00:54:18,099
+<i>Quase toda criatura sabe</i>
+
+704
+00:54:18,100 --> 00:54:20,786
+<i>Chamado de sobrevivência
+do mais forte</i>
+
+705
+00:54:20,787 --> 00:54:23,018
+<i>É assim que as coisas são</i>
+
+706
+00:54:23,019 --> 00:54:25,600
+<i>O animal que come
+tem que arranhar e lutar</i>
+
+707
+00:54:25,601 --> 00:54:27,843
+<i>Com garras
+e mordidas e socos</i>
+
+708
+00:54:27,844 --> 00:54:30,556
+<i>E os animais
+que não fazem</i>
+
+709
+00:54:30,557 --> 00:54:33,396
+<i>Vem outro animal e faz</i>
+
+710
+00:54:34,092 --> 00:54:35,985
+<i>Comida</i>
+
+711
+00:54:36,700 --> 00:54:38,221
+<i>Só estou dizendo</i>
+
+712
+00:54:38,222 --> 00:54:40,573
+<i>Quão mau eu posso ser?</i>
+
+713
+00:54:40,574 --> 00:54:42,682
+<i>Só faço o que vem
+naturalmente</i>
+
+714
+00:54:42,683 --> 00:54:45,353
+<i>Quão mau eu posso ser?</i>
+
+715
+00:54:45,354 --> 00:54:47,600
+<i>Só estou seguindo
+o meu destino</i>
+
+716
+00:54:47,601 --> 00:54:50,114
+<i>Quão mau eu posso ser?</i>
+
+717
+00:54:50,115 --> 00:54:52,442
+<i>Só faço o que vem
+naturalmente</i>
+
+718
+00:54:52,443 --> 00:54:54,987
+<i>Quão mau eu posso ser?</i>
+
+719
+00:54:54,988 --> 00:54:57,341
+<i>Quão mau eu realmente
+posso ser?</i>
+
+720
+00:54:57,342 --> 00:55:00,065
+<i>Há um princípio
+nos negócios</i>
+
+721
+00:55:00,066 --> 00:55:02,083
+<i>E todo mundo sabe como é</i>
+
+722
+00:55:02,085 --> 00:55:04,902
+<i>São as pessoas
+com dinheiro</i>
+
+723
+00:55:04,903 --> 00:55:06,887
+<i>Que fazem este amado
+mundo girar</i>
+
+724
+00:55:06,888 --> 00:55:08,504
+<i>Estou aumentando
+a minha empresa</i>
+
+725
+00:55:08,505 --> 00:55:10,121
+<i>Estou aumentando
+a minha fábrica</i>
+
+726
+00:55:10,122 --> 00:55:12,073
+<i>Deixando minha
+empresa mais conhecida</i>
+
+727
+00:55:12,074 --> 00:55:14,804
+<i>Todo mundo lá fora
+tome conta do que é seu</i>
+
+728
+00:55:14,805 --> 00:55:17,343
+<i>Eu tomarei conta
+do que é</i>...
+
+729
+00:55:17,345 --> 00:55:19,286
+<i>Meu</i>
+
+730
+00:55:19,287 --> 00:55:21,589
+<i>Balance os lucros</i>
+
+731
+00:55:21,590 --> 00:55:24,820
+<i>Deixe-me ouvir você dizer:
+sopre essa fumaça</i>
+
+732
+00:55:24,821 --> 00:55:26,959
+<i>Libere essa sujeira</i>
+
+733
+00:55:26,960 --> 00:55:31,036
+<i>Reclame o quanto quiser,
+pois nunca, nunca vai parar</i>
+
+734
+00:55:31,037 --> 00:55:34,495
+<i>Qual é. Quão mau
+eu realmente posso ser?</i>
+
+735
+00:55:34,496 --> 00:55:36,688
+<i>Quão mau eu posso ser?</i>
+
+736
+00:55:36,690 --> 00:55:39,089
+<i>Só estou construindo
+a economia</i>
+
+737
+00:55:39,090 --> 00:55:41,468
+<i>Quão mau eu posso ser?</i>
+
+738
+00:55:41,469 --> 00:55:43,847
+<i>Só olhe para mim
+acariciando este filhote</i>
+
+739
+00:55:43,848 --> 00:55:46,359
+<i>Quão mau eu posso ser?</i>
+
+740
+00:55:46,360 --> 00:55:49,183
+<i>Uma parte dos lucros
+vai para caridade</i>
+
+741
+00:55:49,184 --> 00:55:51,507
+<i>Quão mau eu posso ser?</i>
+
+742
+00:55:51,508 --> 00:55:53,471
+<i>Quão mau eu realmente
+posso ser?</i>
+
+743
+00:55:53,472 --> 00:55:54,855
+<i>Vamos ver</i>
+
+744
+00:55:56,166 --> 00:55:58,936
+<i>Todos os clientes
+estão comprando de mim</i>
+
+745
+00:56:01,008 --> 00:56:04,071
+<i>E o dinheiro
+está se multiplicando</i>
+
+746
+00:56:05,772 --> 00:56:09,196
+<i>E os anunciantes
+estão mentindo</i>
+
+747
+00:56:10,675 --> 00:56:14,049
+<i>E os advogados
+estão negando</i>
+
+748
+00:56:15,591 --> 00:56:18,745
+<i>Quem se importa se algumas
+árvores estão morrendo?</i>
+
+749
+00:56:20,649 --> 00:56:23,146
+<i>Tudo isto é
+tão gratificante</i>
+
+750
+00:56:23,147 --> 00:56:25,755
+<i>Quão mau</i>...
+
+751
+00:56:25,756 --> 00:56:31,297
+<i>Quão mau isto realmente
+pode ser?</i>
+
+752
+00:56:58,596 --> 00:57:02,318
+SNEEDS VENDIDAS!
+
+753
+00:57:12,561 --> 00:57:14,352
+Como vão as coisas?
+
+754
+00:57:14,353 --> 00:57:16,501
+O que faz aqui?
+
+755
+00:57:16,502 --> 00:57:17,975
+Está feliz agora?
+
+756
+00:57:17,976 --> 00:57:20,676
+Preencheu todo o vazio
+em você?
+
+757
+00:57:20,677 --> 00:57:22,688
+Ou ainda precisa de mais?
+
+758
+00:57:22,689 --> 00:57:25,878
+Se tem algum problema
+com o que estou fazendo,
+
+759
+00:57:25,879 --> 00:57:29,359
+Por que nunca usou
+os seus "poderes mágicos"
+
+760
+00:57:29,360 --> 00:57:30,983
+para me deter.
+
+761
+00:57:32,087 --> 00:57:35,158
+Eu te disse,
+não funciona assim!
+
+762
+00:57:35,159 --> 00:57:36,845
+Sim, eu esqueci!
+
+763
+00:57:36,846 --> 00:57:38,443
+Você é uma mentira!
+
+764
+00:57:38,444 --> 00:57:41,928
+Preciso que você saia,
+agora!
+
+765
+00:57:41,929 --> 00:57:44,357
+Por quê? Eu te faço
+se sentir incomodado?
+
+766
+00:57:44,358 --> 00:57:46,473
+Te lembrando
+das suas promessas?
+
+767
+00:57:46,474 --> 00:57:49,199
+-O homem que costumava ser.
+-Quer saber?
+
+768
+00:57:49,200 --> 00:57:51,754
+Pode simplesmente
+calar o seu bigode!
+
+769
+00:57:51,755 --> 00:57:53,255
+Minha consciência
+está limpa!
+
+770
+00:57:53,256 --> 00:57:55,813
+Não fiz nada de ilegal,
+tenho os meus direitos
+
+771
+00:57:55,814 --> 00:57:58,556
+e pretendo continuar
+crescendo e crescendo
+
+772
+00:57:58,558 --> 00:58:00,906
+até transformar todas
+as trúfulas em Sneeds.
+
+773
+00:58:01,909 --> 00:58:04,663
+E nada vai me deter!
+
+774
+00:58:21,164 --> 00:58:22,977
+É isso aí!
+
+775
+00:58:22,978 --> 00:58:26,027
+A última de todas.
+
+776
+00:58:26,028 --> 00:58:28,530
+Talvez isto pare você.
+
+777
+00:58:48,788 --> 00:58:51,770
+Alguém fez uma fortuna
+com aquela coisa.
+
+778
+00:58:51,771 --> 00:58:55,566
+Qual será
+a próxima invenção milionária?
+
+779
+00:59:00,708 --> 00:59:02,563
+Sim.
+
+780
+00:59:02,564 --> 00:59:04,956
+Fico imaginando.
+
+781
+00:59:14,829 --> 00:59:18,456
+Filho, você me decepcionou.
+
+782
+00:59:18,457 --> 00:59:19,850
+Brett!
+
+783
+00:59:19,851 --> 00:59:22,452
+Agora você é
+o meu filho favorito.
+
+784
+00:59:40,460 --> 00:59:43,086
+Não quero
+nenhum problema.
+
+785
+00:59:43,087 --> 00:59:44,905
+E não terá.
+
+786
+00:59:44,906 --> 00:59:47,138
+Não com eles.
+
+787
+00:59:47,720 --> 00:59:50,842
+Graças ao seu desmatamento,
+a sua fumaça e gosma.
+
+788
+00:59:50,843 --> 00:59:53,127
+Eles não podem
+viver mais aqui.
+
+789
+01:00:01,002 --> 01:00:02,949
+Então, os mandei partir.
+
+790
+01:00:02,950 --> 01:00:07,228
+Espero que consigam achar
+um lugar melhor.
+
+791
+01:00:09,996 --> 01:00:11,898
+Melvin?
+
+792
+01:00:13,227 --> 01:00:14,916
+Melvin!
+
+793
+01:00:16,206 --> 01:00:18,422
+Pequenino?
+
+794
+01:01:21,289 --> 01:01:23,216
+A MENOS QUE
+
+795
+01:01:34,734 --> 01:01:37,209
+Então, isso é realmente
+a sua culpa.
+
+796
+01:01:37,210 --> 01:01:40,010
+Você destruiu tudo.
+
+797
+01:01:40,011 --> 01:01:41,606
+Sim.
+
+798
+01:01:41,607 --> 01:01:44,202
+E cada dia
+desde que o Lorax partiu,
+
+799
+01:01:44,203 --> 01:01:47,135
+arrependo-me de tudo que fiz.
+
+800
+01:01:47,136 --> 01:01:49,759
+Fico olhando essa frase.
+
+801
+01:01:49,760 --> 01:01:51,597
+"A menos que".
+
+802
+01:01:52,016 --> 01:01:55,713
+Fico imaginando
+o que significa.
+
+803
+01:01:55,714 --> 01:01:57,704
+Mas agora fico pensando.
+
+804
+01:01:57,705 --> 01:01:59,282
+que talvez
+você seja a razão
+
+805
+01:01:59,283 --> 01:02:01,453
+que o Lorax escreveu
+aquela palavra lá.
+
+806
+01:02:01,455 --> 01:02:04,649
+Eu?
+Por que deixaria para mim?
+
+807
+01:02:04,650 --> 01:02:08,682
+Por que a menos que alguém
+como você se importe de montão.
+
+808
+01:02:08,683 --> 01:02:11,255
+Nada vai melhorar.
+
+809
+01:02:11,256 --> 01:02:13,286
+Não vai.
+
+810
+01:02:31,291 --> 01:02:34,403
+A última semente de trúfula.
+
+811
+01:02:34,404 --> 01:02:36,977
+Você precisa plantá-la, Ted.
+
+812
+01:02:36,978 --> 01:02:40,573
+Sim, mas ninguém se importa
+mais com as árvores.
+
+813
+01:02:40,574 --> 01:02:42,236
+Faça-os se importarem!
+
+814
+01:02:42,237 --> 01:02:43,984
+Plante a semente
+no meio da cidade
+
+815
+01:02:43,985 --> 01:02:45,678
+onde todo mundo
+possa ver.
+
+816
+01:02:45,679 --> 01:02:48,073
+Mude a maneira
+como as coisas são.
+
+817
+01:02:48,074 --> 01:02:50,978
+Sei que parece pequena
+e insignificante.
+
+818
+01:02:50,979 --> 01:02:53,162
+Mas não importa
+o que ela é.
+
+819
+01:02:53,163 --> 01:02:55,537
+Mas o que pode se tornar.
+
+820
+01:02:55,538 --> 01:02:57,349
+Não é qualquer semente.
+
+821
+01:02:57,350 --> 01:03:00,032
+Como você não é
+qualquer garoto.
+
+822
+01:03:08,192 --> 01:03:10,458
+Não vou decepcioná-lo!
+
+823
+01:03:11,535 --> 01:03:13,659
+Eu sei!
+
+824
+01:03:55,668 --> 01:03:58,965
+Audrey!
+
+825
+01:03:59,718 --> 01:04:01,099
+Ted!
+
+826
+01:04:01,100 --> 01:04:03,610
+-O que está fazendo?
+-Encontre-me em casa!
+
+827
+01:04:03,612 --> 01:04:06,314
+-Espere, mas...
+-Na minha casa, tudo bem?
+
+828
+01:04:07,883 --> 01:04:09,713
+Tenho que plantar!
+
+829
+01:04:09,714 --> 01:04:11,082
+Vamos precisar de...
+
+830
+01:04:11,083 --> 01:04:12,845
+Água!
+E...
+
+831
+01:04:12,846 --> 01:04:14,627
+Algo para cavar.
+
+832
+01:04:14,628 --> 01:04:16,368
+-O que temos...
+<i>-Ted!</i>
+
+833
+01:04:16,369 --> 01:04:18,409
+Mãe, estou ocupado, mãe!
+
+834
+01:04:18,410 --> 01:04:20,597
+Theodore Wiggins,
+desça agora!
+
+835
+01:04:20,598 --> 01:04:22,354
+Não estou brincando
+com você!
+
+836
+01:04:29,046 --> 01:04:31,461
+Ted, quero que conheça
+o Sr. O'Hare.
+
+837
+01:04:31,462 --> 01:04:34,730
+O homem mais influente
+na cidade.
+
+838
+01:04:35,157 --> 01:04:38,924
+Aí está você!
+Olá, Ted.
+
+839
+01:04:39,764 --> 01:04:43,484
+-Oi.
+-Ele não é inteligente?
+
+840
+01:04:43,485 --> 01:04:45,995
+Ele sabe o seu nome
+e tudo mais.
+
+841
+01:04:47,149 --> 01:04:50,683
+Sabe o que eu adoraria agora,
+Sra. Wiggins?
+
+842
+01:04:50,684 --> 01:04:53,115
+Um delicioso biscoito!
+
+843
+01:04:54,204 --> 01:04:55,560
+Maravilhoso!
+
+844
+01:04:55,561 --> 01:04:57,777
+Ted e eu ficaremos aqui
+para conversarmos.
+
+845
+01:04:57,778 --> 01:05:01,212
+Claro, por que não aproveita
+e adota ele!
+
+846
+01:05:01,213 --> 01:05:04,008
+Brincadeirinha!
+Foi uma piada, eu só...
+
+847
+01:05:04,009 --> 01:05:05,588
+Estava brincando.
+
+848
+01:05:05,589 --> 01:05:07,027
+Buscarei seu biscoito.
+
+849
+01:05:08,871 --> 01:05:11,084
+Sei o que você tem, Ted.
+
+850
+01:05:11,086 --> 01:05:13,943
+Então, vamos acabar logo
+com essa besteira, que tal?
+
+851
+01:05:14,434 --> 01:05:16,141
+Passa para cá!
+
+852
+01:05:16,142 --> 01:05:19,368
+Desculpe.
+Não sei o que está falando.
+
+853
+01:05:19,369 --> 01:05:21,290
+Sério?
+Então...
+
+854
+01:05:21,291 --> 01:05:23,951
+Acho que não se importa
+de revistarmos o seu quarto.
+
+855
+01:05:23,952 --> 01:05:25,895
+-Não, não!
+-Morty! McGurk!
+
+856
+01:05:25,896 --> 01:05:28,399
+Encontrem a semente!
+-Espere, não podem subir!
+
+857
+01:05:28,401 --> 01:05:30,720
+Pessoal, isto é ridículo.
+Parem!
+
+858
+01:05:32,829 --> 01:05:35,182
+Não!
+Não podem entrar no meu quarto.
+
+859
+01:05:36,115 --> 01:05:37,821
+Encontrem-na!
+
+860
+01:05:43,179 --> 01:05:45,168
+Encontrem-na!
+
+861
+01:05:45,169 --> 01:05:46,745
+O que está havendo aqui?
+
+862
+01:05:46,746 --> 01:05:50,446
+Não é da sua conta!
+Volte lá para baixo.
+
+863
+01:05:50,447 --> 01:05:52,001
+Com licença, ô baixinho!
+
+864
+01:05:52,002 --> 01:05:54,469
+Não me importa quem você é
+seu pigmeu maluco.
+
+865
+01:05:54,471 --> 01:05:55,925
+Saia da minha casa, agora!
+
+866
+01:05:55,926 --> 01:05:57,566
+Isto é inadmissível!
+
+867
+01:05:57,567 --> 01:06:00,151
+Tudo bem.
+Desculpe-me.
+
+868
+01:06:00,152 --> 01:06:02,106
+Deve ter sido
+um mal entendido.
+
+869
+01:06:02,107 --> 01:06:03,542
+Já estamos de saída.
+
+870
+01:06:03,544 --> 01:06:06,183
+E... Minhas desculpas, Ted.
+
+871
+01:06:08,849 --> 01:06:10,643
+Se cuida!
+
+872
+01:06:11,652 --> 01:06:14,789
+O quê? Pode me explicar
+o que está acontecendo?
+
+873
+01:06:14,790 --> 01:06:16,737
+A semente!
+Onde está?
+
+874
+01:06:16,738 --> 01:06:18,193
+Semente?
+
+875
+01:06:18,986 --> 01:06:20,409
+Onde está a vovó?
+
+876
+01:06:23,009 --> 01:06:24,630
+Está viva!
+
+877
+01:06:26,818 --> 01:06:30,187
+Eu lembro de você!
+
+878
+01:06:30,884 --> 01:06:32,700
+Ted, o quê...
+
+879
+01:06:40,540 --> 01:06:42,106
+Audrey!
+
+880
+01:06:43,924 --> 01:06:45,330
+Você gostaria...
+Tudo bem.
+
+881
+01:06:47,155 --> 01:06:49,616
+Ted, do que isso se trata?
+
+882
+01:06:49,617 --> 01:06:52,116
+É sobre isto!
+
+883
+01:06:52,117 --> 01:06:54,566
+-Espere, espere! Isso é...
+-Sim!
+
+884
+01:06:54,567 --> 01:06:57,537
+A última semente de Trúfula.
+E você me ajudará a plantá-la
+
+885
+01:06:57,538 --> 01:07:00,344
+no meio da cidade
+onde todo mundo possa ver.
+
+886
+01:07:00,345 --> 01:07:02,731
+Poderia te beijar
+agora mesmo!
+
+887
+01:07:06,108 --> 01:07:07,625
+Não temos tempo
+para isso!
+
+888
+01:07:07,626 --> 01:07:10,417
+Não sei,
+acho que temos um tempinho.
+
+889
+01:07:10,912 --> 01:07:12,795
+Quer saber,
+vamos indo.
+
+890
+01:07:12,796 --> 01:07:14,199
+Esquece!
+
+891
+01:07:48,892 --> 01:07:50,516
+Lá vem eles!
+
+892
+01:07:53,675 --> 01:07:55,540
+Eu vou por aqui!
+
+893
+01:08:13,576 --> 01:08:15,128
+Olá.
+
+894
+01:08:27,080 --> 01:08:29,940
+Ted, tem um dirigível,
+nos seguindo.
+
+895
+01:08:29,941 --> 01:08:31,343
+Não!
+
+896
+01:08:43,049 --> 01:08:45,684
+<i>Não vai escapar, garoto!</i>
+
+897
+01:08:56,797 --> 01:08:59,372
+Ande rápido,
+seu idiota!
+
+898
+01:09:01,118 --> 01:09:03,599
+Mais rápido, Ted!
+
+899
+01:09:14,129 --> 01:09:16,749
+Está demitido!
+
+900
+01:09:16,750 --> 01:09:19,318
+Ted, cuidado!
+
+901
+01:09:22,939 --> 01:09:25,059
+-Ninguém vence Aloísio...
+-Vai Ted!
+
+902
+01:09:25,061 --> 01:09:27,374
+O'Hare!
+
+903
+01:09:27,375 --> 01:09:29,197
+Droga, droga!
+
+904
+01:09:37,102 --> 01:09:38,948
+Isso não é bom!
+
+905
+01:09:38,949 --> 01:09:40,615
+Como plantaremos?
+
+906
+01:09:51,147 --> 01:09:52,945
+Idiota!
+
+907
+01:09:53,808 --> 01:09:55,239
+Será?
+
+908
+01:09:56,153 --> 01:09:58,354
+Não!
+A semente!
+
+909
+01:10:00,687 --> 01:10:02,560
+Peguem aquela semente!
+
+910
+01:10:04,073 --> 01:10:06,013
+Vamos depressa!
+
+911
+01:10:08,557 --> 01:10:11,050
+Segurem-se,
+aí vamos nós.
+
+912
+01:10:13,395 --> 01:10:15,136
+Vovó!
+
+913
+01:10:22,842 --> 01:10:26,381
+Fala sério!
+Sua avó é legal demais!
+
+914
+01:10:29,001 --> 01:10:30,408
+O quê?
+
+915
+01:10:37,432 --> 01:10:39,050
+Vamos.
+
+916
+01:10:40,980 --> 01:10:42,740
+Lá está!
+
+917
+01:10:52,209 --> 01:10:54,998
+Olha aonde
+está indo, cabeção!
+
+918
+01:11:03,681 --> 01:11:05,221
+Qual é!
+
+919
+01:11:14,667 --> 01:11:16,245
+Mas que...
+
+920
+01:11:17,644 --> 01:11:19,064
+Minha mão está presa!
+
+921
+01:11:19,065 --> 01:11:20,676
+Tire isto logo!
+
+922
+01:11:22,289 --> 01:11:24,921
+Manda ver, Teddy!
+
+923
+01:11:24,922 --> 01:11:27,213
+Você não tem coragem.
+
+924
+01:11:27,214 --> 01:11:28,768
+Ted!
+
+925
+01:11:35,953 --> 01:11:38,005
+Vovó!
+
+926
+01:11:42,835 --> 01:11:44,350
+Isso!
+
+927
+01:11:48,030 --> 01:11:50,534
+Ei, Sr. O'Hare!
+
+928
+01:11:51,688 --> 01:11:54,022
+Toma essa, baixinho!
+
+929
+01:12:11,000 --> 01:12:13,714
+Certo,
+temos que plantá-la na terra.
+
+930
+01:12:13,715 --> 01:12:16,883
+Mas onde?
+Não há terra em lugar nenhum.
+
+931
+01:12:19,640 --> 01:12:21,960
+Não, vovó!
+
+932
+01:12:39,031 --> 01:12:43,001
+O que eu te disse?
+Moleza.
+
+933
+01:12:43,002 --> 01:12:45,401
+Eles quebraram
+a cabeça do O'Hare.
+
+934
+01:12:45,402 --> 01:12:47,773
+O que acha
+que está fazendo, garoto?
+
+935
+01:12:48,542 --> 01:12:52,124
+Procuro um lugar para plantar
+uma árvore. Uma verdadeira.
+
+936
+01:12:52,125 --> 01:12:53,800
+Por que precisamos
+de uma árvore?
+
+937
+01:12:53,801 --> 01:12:56,674
+Exatamente!
+
+938
+01:12:58,861 --> 01:13:00,608
+Fala sério!
+
+939
+01:13:00,609 --> 01:13:02,345
+Pessoal.
+
+940
+01:13:02,346 --> 01:13:06,209
+A última coisa que precisamos
+por aqui são árvores.
+
+941
+01:13:06,210 --> 01:13:07,967
+São sujas!
+
+942
+01:13:07,968 --> 01:13:11,826
+Soltam um líquido
+pegajoso e nojento.
+
+943
+01:13:11,827 --> 01:13:14,004
+Por todo lugar!
+
+944
+01:13:14,877 --> 01:13:19,762
+Atraem formigas venenosas
+e ferroadas de abelhas.
+
+945
+01:13:19,764 --> 01:13:22,904
+Cuidado.
+Pense nas crianças.
+
+946
+01:13:22,905 --> 01:13:24,516
+E...
+
+947
+01:13:24,517 --> 01:13:27,346
+Acabei de lembrar,
+elas dão folhas!
+
+948
+01:13:27,347 --> 01:13:30,313
+Sabem disto, certo.
+As folhas simplesmente caem!
+
+949
+01:13:30,314 --> 01:13:33,117
+Elas caem onde querem!
+
+950
+01:13:33,118 --> 01:13:35,914
+Sabemos por que você é
+contra as árvores!
+
+951
+01:13:35,915 --> 01:13:38,199
+Porque produzem ar fresco.
+
+952
+01:13:38,200 --> 01:13:39,791
+De graça!
+
+953
+01:13:41,179 --> 01:13:43,232
+Eu estou ofendido!
+
+954
+01:13:43,233 --> 01:13:45,265
+Você mentiu!
+
+955
+01:13:45,266 --> 01:13:46,851
+Não é mentira!
+
+956
+01:13:46,852 --> 01:13:49,014
+É chamado de fotossíntese.
+
+957
+01:13:49,015 --> 01:13:51,217
+Qual é!
+Ela está inventando!
+
+958
+01:13:51,218 --> 01:13:54,118
+Essa palavra nem existe,
+pessoal.
+
+959
+01:13:54,119 --> 01:13:57,991
+Sneedville é perfeita
+do jeito como é.
+
+960
+01:13:57,992 --> 01:14:00,713
+Não precisamos de árvores.
+
+961
+01:14:00,714 --> 01:14:02,985
+Aquele rapaz
+tem uma semente.
+
+962
+01:14:02,986 --> 01:14:04,430
+Precisamos detê-lo!
+
+963
+01:14:04,431 --> 01:14:05,884
+Quem está comigo?
+Vamos lá!
+
+964
+01:14:05,885 --> 01:14:07,245
+O'Hare está certo!
+
+965
+01:14:07,246 --> 01:14:10,312
+-A semente nos destruirá!
+-Pare com isto!
+
+966
+01:14:10,313 --> 01:14:11,890
+Última chance, garoto.
+
+967
+01:14:11,891 --> 01:14:13,363
+Passa para cá!
+
+968
+01:14:13,364 --> 01:14:15,333
+Aonde pensa que vai?
+
+969
+01:14:15,334 --> 01:14:18,511
+Vamos depressa!
+Entrem, entrem!
+
+970
+01:14:21,988 --> 01:14:24,337
+Parem aquele maníaco!
+
+971
+01:14:25,752 --> 01:14:29,126
+Com licença!
+Tomem cuidado!
+
+972
+01:14:32,781 --> 01:14:35,644
+Ted, você vai bater
+no muro!
+
+973
+01:14:35,645 --> 01:14:38,187
+Sim.
+Eu sei.
+
+974
+01:15:02,221 --> 01:15:04,324
+Viram isso?
+
+975
+01:15:04,325 --> 01:15:06,783
+Quem esse garoto
+pensa que é?
+
+976
+01:15:08,118 --> 01:15:10,615
+Sou Ted Wiggins.
+
+977
+01:15:10,616 --> 01:15:13,401
+E eu falo pelas árvores.
+
+978
+01:15:13,819 --> 01:15:15,226
+E a verdade é...
+
+979
+01:15:15,227 --> 01:15:18,178
+As coisas não são perfeitas
+aqui em Sneedville.
+
+980
+01:15:18,672 --> 01:15:22,751
+E tudo só vai piorar
+se não fizermos algo a respeito.
+
+981
+01:15:22,753 --> 01:15:25,140
+A menos que mudemos
+nossos modos.
+
+982
+01:15:25,141 --> 01:15:28,690
+Podemos começar
+plantando isto!
+
+983
+01:15:37,629 --> 01:15:42,334
+Beleza!
+Tudo está bem! Certo?
+
+984
+01:15:42,335 --> 01:15:44,727
+Vamos mostrar
+para esse garoto
+
+985
+01:15:44,728 --> 01:15:46,916
+o que pensamos
+sobre essa semente.
+
+986
+01:15:49,584 --> 01:15:51,991
+Pessoal...
+Vamos!
+
+987
+01:15:54,389 --> 01:15:57,111
+Você...
+Vem aqui agora mesmo
+
+988
+01:15:57,112 --> 01:15:59,258
+e convença todos
+a ficarem do meu lado.
+
+989
+01:15:59,259 --> 01:16:01,843
+Ou considere-se
+despedido.
+
+990
+01:16:01,844 --> 01:16:05,301
+Prossiga,
+diga o que você pensa.
+
+991
+01:16:09,022 --> 01:16:10,855
+<i>Você não me conhece</i>
+
+992
+01:16:10,856 --> 01:16:13,242
+<i>Mas o meu nome é Cy</i>
+
+993
+01:16:13,243 --> 01:16:17,846
+<i>Sou apenas um entregador
+da O'Hare</i>
+
+994
+01:16:17,847 --> 01:16:21,831
+<i>Parece que as árvores
+merecem uma chance</i>
+
+995
+01:16:21,832 --> 01:16:23,725
+<i>Então eu digo:</i>
+
+996
+01:16:23,726 --> 01:16:27,271
+<i>Deixe crescer</i>
+
+997
+01:16:28,405 --> 01:16:29,999
+<i>Meu nome é Dan</i>
+
+998
+01:16:30,000 --> 01:16:31,492
+<i>E o meu nome é Rose</i>
+
+999
+01:16:31,493 --> 01:16:33,997
+<i>Nosso filho Wesley
+tem um tipo de brilho</i>
+
+1000
+01:16:33,998 --> 01:16:36,965
+<i>E isto não é bom
+então nós achamos</i>
+
+1001
+01:16:36,966 --> 01:16:39,043
+<i>Que deveríamos
+deixar crescer</i>
+
+1002
+01:16:39,044 --> 01:16:41,460
+<i>Deixe crescer</i>
+
+1003
+01:16:41,461 --> 01:16:44,493
+<i>Você não colhe
+se não semear</i>
+
+1004
+01:16:44,494 --> 01:16:47,104
+<i>Plante
+uma semente na terra</i>
+
+1005
+01:16:47,105 --> 01:16:49,409
+<i>Há só um jeito
+de saber o seu valor</i>
+
+1006
+01:16:49,410 --> 01:16:52,410
+<i>Vamos celebrar
+o renascimento do mundo</i>
+
+1007
+01:16:52,411 --> 01:16:54,162
+<i>Nós dizemos:
+Deixe crescer</i>
+
+1008
+01:16:54,163 --> 01:16:56,732
+<i>Meu nome é Marie
+e eu tenho três anos</i>
+
+1009
+01:16:56,733 --> 01:17:00,009
+<i>Eu gostaria muito
+de ver uma árvore</i>
+
+1010
+01:17:02,115 --> 01:17:04,322
+<i>Eu digo
+deixe crescer</i>
+
+1011
+01:17:04,323 --> 01:17:07,649
+<i>Sou a vovó Norma
+e tenho cabelos grisalhos</i>
+
+1012
+01:17:07,650 --> 01:17:11,179
+<i>Me lembro quando as árvores
+estavam em todo lugar</i>
+
+1013
+01:17:11,180 --> 01:17:13,870
+<i>E ninguém pagava pelo ar</i>
+
+1014
+01:17:13,871 --> 01:17:15,905
+<i>Então eu digo:
+Deixe crescer</i>
+
+1015
+01:17:15,906 --> 01:17:18,219
+<i>Deixe crescer</i>
+
+1016
+01:17:18,220 --> 01:17:21,177
+<i>Como foi há muito tempo</i>
+
+1017
+01:17:21,178 --> 01:17:23,846
+<i>É só uma sementinha</i>
+
+1018
+01:17:23,847 --> 01:17:26,332
+<i>Mas é tudo
+o que realmente precisamos</i>
+
+1019
+01:17:26,333 --> 01:17:28,714
+<i>É hora de mudar
+a vida que levamos</i>
+
+1020
+01:17:28,715 --> 01:17:31,101
+<i>É hora de:
+Deixar crescer</i>
+
+1021
+01:17:31,102 --> 01:17:34,436
+<i>Meu nome é O'Hare
+e sou um de vocês</i>
+
+1022
+01:17:34,437 --> 01:17:38,780
+<i>Eu moro aqui
+em Sneedville também</i>
+
+1023
+01:17:38,781 --> 01:17:42,777
+<i>As coisas que falaram
+pode ser verdade</i>
+
+1024
+01:17:42,778 --> 01:17:46,593
+<i>Talvez seja hora
+de recomeçar</i>
+
+1025
+01:17:46,594 --> 01:17:52,024
+<i>E talvez mudar
+a minha opinião</i>
+
+1026
+01:17:52,025 --> 01:17:53,508
+Não!
+
+1027
+01:17:53,509 --> 01:17:55,178
+<i>Eu digo:
+Deixe morrer</i>
+
+1028
+01:17:55,179 --> 01:17:57,385
+<i>Deixe morrer</i>
+
+1029
+01:17:57,386 --> 01:17:59,046
+<i>Deixe murchar e</i>...
+
+1030
+01:17:59,047 --> 01:18:01,407
+Vamos lá!
+Quem está comigo?
+
+1031
+01:18:01,408 --> 01:18:03,376
+Ninguém.
+
+1032
+01:18:03,377 --> 01:18:05,784
+<i>Seu ganancioso</i>
+
+1033
+01:18:05,785 --> 01:18:07,871
+<i>Deixe crescer</i>
+
+1034
+01:18:07,872 --> 01:18:10,786
+<i>Demonstre o seu amor</i>
+
+1035
+01:18:10,787 --> 01:18:13,362
+<i>Plante
+uma semente na terra</i>
+
+1036
+01:18:13,363 --> 01:18:15,767
+<i>Há só um jeito
+de saber o seu valor</i>
+
+1037
+01:18:15,768 --> 01:18:18,537
+<i>Vamos celebrar
+o renascimento do mundo</i>
+
+1038
+01:18:18,538 --> 01:18:21,707
+<i>Nós dizemos:
+Deixe crescer</i>
+
+1039
+01:18:22,832 --> 01:18:25,252
+<i>Deixe crescer</i>
+
+1040
+01:18:25,253 --> 01:18:28,361
+<i>Você não colhe
+se não semear</i>
+
+1041
+01:18:28,362 --> 01:18:30,885
+<i>É só uma sementinha</i>
+
+1042
+01:18:30,886 --> 01:18:33,467
+<i>Mas é tudo
+o que realmente precisamos</i>
+
+1043
+01:18:33,468 --> 01:18:36,019
+<i>É hora de expulsar
+toda a sua ganância</i>
+
+1044
+01:18:36,020 --> 01:18:38,751
+<i>Imaginem Sneedville
+com árvores e flores</i>
+
+1045
+01:18:38,752 --> 01:18:44,559
+<i>Que realmente seja assim</i>
+
+1046
+01:18:44,560 --> 01:18:46,408
+Obrigado, Ted.
+
+1047
+01:18:47,968 --> 01:18:50,984
+<i>-Nós dizemos deixe crescer
+-Em Sneedville</i>
+
+1048
+01:18:50,985 --> 01:18:54,123
+<i>-Nós dizemos deixe crescer
+-Em Sneedville</i>
+
+1049
+01:18:54,124 --> 01:18:59,797
+<i>-Nós dizemos: deixe crescer
+-É um novo amanhecer</i>
+
+1050
+01:18:59,799 --> 01:19:04,989
+<i>Nós dizemos:
+deixe crescer</i>
+
+1051
+01:19:32,340 --> 01:19:33,775
+A MENOS QUE
+
+1052
+01:20:17,198 --> 01:20:20,030
+Mandou bem,
+Varapau!
+
+1053
+01:20:20,031 --> 01:20:22,556
+Mandou bem.
+
+1054
+01:20:35,800 --> 01:20:38,968
+A propósito, belo bigode.
+
+1055
+01:20:41,200 --> 01:20:44,066
+"A menos que alguém como
+você se importe de montão,
+
+1056
+01:20:44,067 --> 01:20:46,500
+nada vai melhorar, não vai."
+-Dr. Seuss
+
+1057
+01:20:47,000 --> 01:20:49,000
+FIM
+
+1058
+01:20:50,000 --> 01:20:53,500
+@wheyltv
+wheyltv@gmail.com
+
+1059
+01:20:53,501 --> 01:20:58,000
+Revolte-se! @revoltzT
+revoltzteam@gmail.com
+
